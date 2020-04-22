@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="favor_delete_message">
+        <item quantity="other">Izbrisati odabrane stavke: %d?</item>
+        <item quantity="one">Izbrisati odabranu stavku: %d?</item>
+    </plurals>
+    <plurals name="favor_delete_succeed">
+        <item quantity="other">Izbrisano: %d</item>
+        <item quantity="one">Izbrisano: %d</item>
+    </plurals>
+    <plurals name="favor_select_num">
+        <item quantity="other">Odabrano: %d</item>
+        <item quantity="one">Odabrano: %d</item>
+    </plurals>
+    <plurals name="switch_prompt_content">
+         <item quantity="other">"Niste dopustili pretragu za %d stavki"</item>
+        <item quantity="one">"Niste dopustili pretragu za %d stavku"</item>
+    </plurals>
+</resources> 

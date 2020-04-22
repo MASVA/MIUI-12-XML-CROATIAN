@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sync_items_close">
+         <item quantity="other">Isključeno stavki: %d</item>
+         <item quantity="one">Isključena %d stavka</item>
+    </plurals>
+    <plurals name="items_unsynced">
+         <item quantity="other">Stavke koje čekaju na sinkr.: %d</item>
+         <item quantity="one">Stavka koja čeka na sinkr.: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+         <item quantity="other">%d stavki čekaju na sinkr.</item>
+         <item quantity="one">%d stavka čeka na sinkr.</item>
+     </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Kontakti: %d</item>
+        <item quantity="one">Kontakt: %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Poruka: %d</item>
+        <item quantity="one">Poruka: %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Bilješki: %d</item>
+        <item quantity="one">Bilješka: %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Fotografija: %d</item>
+        <item quantity="one">Fotografija: %d</item>
+    </plurals>
+	<plurals name="dirty_callog_count">
+         <item quantity="other">%d zapisa povijesti poziva</item>
+         <item quantity="one">%d zapis povijesti poziva</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+         <item quantity="other">%d WLAN mreža</item>
+         <item quantity="one">%d WLAN mreža</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+         <item quantity="other">%d zapisa</item>
+         <item quantity="one">%d zapis</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+         <item quantity="other">%d pjesama</item>
+         <item quantity="one">%d pjesma</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+         <item quantity="other">%d stavki preglednika</item>
+         <item quantity="one">%d stavka preglednika</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+         <item quantity="other">%d stavki kalendara</item>
+         <item quantity="one">%d stavka kalendara</item>
+     </plurals>
+     <plurals name="dirty_blocklist_count">
+         <item quantity="other">%d unosa liste blokiranja</item>
+         <item quantity="one">%d unos liste blokiranja</item>
+    </plurals>
+	<plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d unosa u Zaklj. aplikacija</item>
+        <item quantity="one">%d unos u Zaklj. aplikacija</item>
+    </plurals>
+	<plurals name="dirty_phrase_count">
+        <item quantity="other">%d čestih fraza</item>
+        <item quantity="one">%d česta fraza</item>
+    </plurals>
+	<plurals name="dirty_secretphoto_count">
+         <item quantity="other">"%d skrivenih fotografija nije sinkronizirano. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
+         <item quantity="one">"%d skrivena fotografija nije sinkronizirana. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
+    </plurals>
+	<plurals name="micloud_manual_pause_and_resume">
+         <item quantity="other">Sinkr. će se nastaviti za %d min.</item>
+         <item quantity="one">Sinkr. će se nastaviti za %d min.</item>
+     </plurals>
+     <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">prije %s  min.</item>
+        <item quantity="one">prije %s  min.</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">prije %s sati</item>
+        <item quantity="one">prije %s sat</item>
+	</plurals>
+	<plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s usluga će se sinkronizirati s Mi Cloudom</item>
+        <item quantity="one">%s usluga će se sinkronizirati s Mi Cloudom</item>
+    </plurals>
+	<plurals name="select_no_more_than">
+        <item quantity="other">"Ne može se odabrati više od %d stavki"</item>
+        <item quantity="one">"Ne može se odabrati više od %d stavke"</item>
+    </plurals>
+</resources>

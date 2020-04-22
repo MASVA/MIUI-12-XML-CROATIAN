@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">Izbrisati preuzimanja: %d?</item>
+        <item quantity="one">Izbrisati %d preuzimanje?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">Preuzimanja uspješno izbrisana: %d</item>
+        <item quantity="one">%d preuzimanje uspješno izbrisano</item>
+     </plurals>
+	 <plurals name="durationDays">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+    </plurals>
+    <plurals name="durationHours">
+        <item quantity="other">%1$d sati</item>
+        <item quantity="one">%1$d sat</item>
+    </plurals>
+    <plurals name="durationMinutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="durationSeconds">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Pronađeno stavki: %d </item>
+        <item quantity="one">Pronađena 1 stavka</item>
+     </plurals>
+   <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Izbrisati stavke: %d?</item>
+        <item quantity="one">Izbrisati ovu stavku?</item>
+	</plurals>
+	<plurals name="sniff_find_result">
+        <item quantity="other">Pronađeno rezultata: %d</item>
+        <item quantity="one">Pronađen 1 rezultat</item>
+    </plurals>
+</resources> 

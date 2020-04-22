@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Izbrisati stavke: %1$s?</item>
+        <item quantity="one">Izbrisati %1$s stavku?</item>
+    </plurals>
+	<plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%1$s stavki još nije sinkronizirano"</item>
+        <item quantity="one">"%1$s stavka još nije sinkronizirana"</item>
+    </plurals>
+	<plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dana kasnije</item>
+        <item quantity="one">%1$d dan kasnije</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+	<plurals name="format_move_notes_out_folder">
+	   <item quantity="other">Uklonjene bilješke iz mape: %1$s</item>
+	   <item quantity="one">Uklonjena %1$s bilješka iz mape</item>
+	 </plurals>
+	 <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Premješteno %1$s bilješki u %2$s</item>
+        <item quantity="one">%1$s bilješka premještena u %2$s</item>
+	</plurals>	
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">Još %d sek.</item>
+        <item quantity="one">Još %d sek.</item>
+     </plurals>
+	 <plurals name="toast_notes_hidden_count">
+        <item quantity="other">Skrivene bilješke: %1$s</item>
+        <item quantity="one">1$s bilješka skrivena</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Otkrivene bilješke: %1$s</item>
+        <item quantity="one">%1$s bilješka otkrivena</item>
+    </plurals>
+	<plurals name="todo_N_days_after">
+        <item quantity="other">Za %1$d dana</item>
+        <item quantity="one">Za %1$d dan</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Izbrisati zadatke: %1$s?</item>
+        <item quantity="one">Izbrisati %1$s zadatak?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Za %1$d dans</item>
+        <item quantity="one">Za %1$d dan</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">Znakova: %d</item>
+        <item quantity="one">%d znak</item>
+    </plurals>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s bilješki</item>
+        <item quantity="one">1 bilješka</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultata za \"%2$s\"</item>
+        <item quantity="one">%1$s rezultat za \"%2$s\"</item>
+    </plurals>
+	<plurals name="folder_terms">
+        <item quantity="other">%1$s mapa</item>
+        <item quantity="one">%1$s mapa</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s bilješki</item>
+        <item quantity="one">%1$s bilješka</item>
+    </plurals>
+	<plurals name="todo_terms">
+        <item quantity="other">%1$s bilješki</item>
+        <item quantity="one">%1$s bilješka</item>
+    </plurals>
+</resources> 

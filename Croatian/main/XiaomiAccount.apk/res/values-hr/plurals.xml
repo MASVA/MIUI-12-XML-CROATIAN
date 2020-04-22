@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">Ažurirano (%s) kontakata</item>
+        <item quantity="one">Ažurirano (%s) kontakata</item>
+    </plurals>
+	    <plurals name="dirty_contacts_count">
+        <item quantity="other">Kontakata: %d</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Poruka: %d </item>
+        <item quantity="one">%d poruka</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Bilješka: %d</item>
+        <item quantity="one">%d bilješka</item>
+	</plurals>
+	<plurals name="view_all_devices">
+         <item quantity="other">Prikaži svih %d uređaja</item>
+         <item quantity="one">Prikaži %d uređaj</item>
+     </plurals>
+     <plurals name="view_all_apps">
+         <item quantity="other">Prikaži svih %d aplikacija</item>
+         <item quantity="one">Prikaži %d aplikaciju</item>
+     </plurals>
+     <plurals name="view_all_browsers">
+         <item quantity="other">Prikaži svih %d preglednika</item>
+         <item quantity="one">Prikaži %d preglednik</item>
+     </plurals>
+</resources>

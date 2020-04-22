@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Odgodi alarm na %d min</item>
+        <item quantity="one">Odgodi alarm na %d min</item>
+    </plurals>
+	<plurals name="day">
+         <item quantity="other">%d dana</item>
+         <item quantity="one">%d dan</item>
+     </plurals>
+    <plurals name="delete_alarm_confirm">
+         <item quantity="other">Izbrisati odabrane alarme?</item>
+         <item quantity="one">Izbrisati ovaj alarm?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+         <item quantity="other">Izbrisati odabrane vremenske zone?</item>
+         <item quantity="one">Izbrisati ovu vremensku zonu?</item>
+    </plurals>
+	<plurals name="hour">
+         <item quantity="other">%d sati</item>
+         <item quantity="one">%d sat</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+         <item quantity="other">%1$d dana</item>
+         <item quantity="one">%1$d dan</item>
+     </plurals>
+     <plurals name="minute">
+         <item quantity="other">%d min</item>
+         <item quantity="one">%d min</item>
+     </plurals>
+	<plurals name="second">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
+	</plurals>
+	<plurals name="snooze_duration_changed_info">
+        <item quantity="other">Alarm je odgođen na %d min</item>
+        <item quantity="one">Alarm je odgođen na %d minutu</item>
+    </plurals>
+	<plurals name="snooze_duration_count">
+        <item quantity="other">Isklj. %1$s puta</item>
+        <item quantity="one">Isklj. %1$s put</item>
+    </plurals>
+	<plurals name="snooze_duration_desc">
+        <item quantity="other">Svakih %1$s min, isklj. %2$s puta</item>
+        <item quantity="one">Svaku %1$s min, isklj. %2$s put</item>
+    </plurals>
+	<plurals name="snooze_duration_min">
+        <item quantity="other">Svakih %1$s min</item>
+        <item quantity="one">Svaku %1$s min</item>
+    </plurals>
+	<plurals name="snooze_duration_summary">
+        <item quantity="other">Alarm će se isključiti %2$s X (%1$s min. svaki)</item>
+        <item quantity="one">Alarm će se isključiti %2$s X (%1$s min.)</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Odgodi alarm na %d min</item>
+        <item quantity="one">Odgodi alarm na %d min</item>
+    </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d sati "</item>
+        <item quantity="one">"%1$d sat "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d min "</item>
+        <item quantity="one">"%1$d min "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+     </plurals>
+	 <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s sati</item>
+        <item quantity="one">%1$s sat</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s sati</item>
+        <item quantity="one">%1$s sat</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+</resources>

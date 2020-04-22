@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <plurals name="notification_download_success_more">
+         <item quantity="other">Preuzeto: %1$d</item>
+         <item quantity="one">Preuzeto: %1$d</item>
+     </plurals>
+     <plurals name="notif_title_multiple_downloading">
+         <item quantity="other">Preuzimanje %d datoteka</item>
+         <item quantity="one">Preuzimanje %d datoteke</item>
+     </plurals>
+     <plurals name="notification_download_failed_more">
+         <item quantity="other">"Ne mogu preuzeti stavke: %1$d"</item>
+         <item quantity="one">"Ne mogu preuzeti %1$d stavku"</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="other">Preuzimanje datoteka: %d</item>
+        <item quantity="one">Preuzimanje %d datoteke</item>
+    </plurals>
+    <plurals name="notif_summary_waiting">
+        <item quantity="other">Datoteka na čekanju: %d</item>
+        <item quantity="one">%d datoteka na čekanju</item>
+    </plurals>
+</resources> 

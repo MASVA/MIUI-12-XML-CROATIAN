@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <plurals name="cloud_backup_detail_frequence_day">
+         <item quantity="other">Izradi Sig. kopiju svakih %d dana</item>
+         <item quantity="one">Izradi Sig. kopiju svaki dan</item>
+     </plurals>
+     <plurals name="cloud_backup_detail_manage_summary">
+         <item quantity="other">Sig. kopije %1$s (%2$s)</item>
+         <item quantity="one">Sig. kopija %1$s (%2$s)</item>
+     </plurals>
+	 <plurals name="restoring_file_tile">
+       <item quantity="other">Vraćanje datoteka: %d</item>
+       <item quantity="one">Vraćanje %d datoteke</item>
+   </plurals>
+   <plurals name="restore_app_order_prior">
+        <item quantity="other">Aplikacije visokog prioriteta: %d</item>
+        <item quantity="one">Aplikacija visokog prioriteta: %d</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Aplikacije redovnog prioriteta: %d items</item>
+        <item quantity="one">Aplikacija redovnog prioriteta: %d item</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d aplik. na ovom uređaju</item>
+        <item quantity="one">%d aplik. na ovom uređaju</item>
+    </plurals>
+</resources>

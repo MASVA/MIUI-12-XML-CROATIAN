@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d dana prije događaja</item>
+        <item quantity="one">%d dan prije događaja</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">Za %1$d dana u %2$s</item>
+        <item quantity="one">Za %1$d dan u %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$d dana prije događaja u %2$s</item>
+        <item quantity="one">%1$d dan prije događaja u %2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d sati prije događaja</item>
+        <item quantity="one">%d sat prije događaja</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d min. prije događaja</item>
+        <item quantity="one">%d min. prije događaja</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d tjedana prije događaja</item>
+        <item quantity="one">%d tjedan prije događaja</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s dana</item>
+        <item quantity="one">%1$s dan</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Godišnjica: %2$d godina od %1$s za 3 dana</item>
+        <item quantity="one">Godišnjica: %2$d godina od %1$s za 3 dana</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Godišnjica: %2$d godina od %1$s</item>
+        <item quantity="one">Godišnjica: %2$d godina od %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s godina</item>
+        <item quantity="one">%1$s godina</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d dana do</item>
+        <item quantity="one">%1$d dan do</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s godina</item>
+        <item quantity="one">%1$s godina</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">još %1$s dana</item>
+        <item quantity="one">još %1$s dan</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dana kasnije</item>
+        <item quantity="one">%1$d dan kasnije</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d dana kasnije</item>
+        <item quantity="one">%1$d dan kasnije</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d dana ranije</item>
+        <item quantity="one">%1$d dan ranije</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+         <item quantity="other">Možete unijeti do %1$d dana</item>
+         <item quantity="one">Možete unijeti do %1$d dan</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d mjeseci</item>
+        <item quantity="one">%1$d mjesec</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d tjedana</item>
+        <item quantity="one">%1$d tjedan</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d godina</item>
+        <item quantity="one">%1$d godina</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">TJEDAN %d</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d radnih dana</item>
+        <item quantity="one">%d radnih dana</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d dana kasnije</item>
+        <item quantity="one">%1$d dan kasnije</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">prije %1$d dana</item>
+        <item quantity="one">prije %1$d dan</item>
+    </plurals>
+	 <plurals name="event_reminders_to_max">
+        <item quantity="other">Možete postaviti do %d podsjetnika</item>
+        <item quantity="one">Možete postaviti %d podsjetnik</item>
+    </plurals>
+	     <plurals name="N_remaining_events">
+        <item quantity="other">+%d događaja</item>
+        <item quantity="one">+1 događaj</item>
+     </plurals>
+     <plurals name="Nevents">
+        <item quantity="other">%d događaja</item>
+        <item quantity="one">1 događaj</item>
+     </plurals>
+     <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+     </plurals>
+     <plurals name="daily">
+        <item quantity="other">Svaka %d dana</item>
+        <item quantity="one">Dnevno</item>
+     </plurals>
+     <plurals name="endByCount">
+        <item quantity="other">; za stavke %d</item>
+        <item quantity="one">; jednom</item>
+     </plurals>
+     <plurals name="recurrence_end_count">
+        <item quantity="other">Za događaja %d</item>
+        <item quantity="one">Za %d događaj</item>
+     </plurals>
+     <plurals name="recurrence_interval_daily">
+        <item quantity="other">Svaka %d dana</item>
+        <item quantity="one">Svaki %d dan</item>
+     </plurals>
+     <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Svakih %d mjeseci</item>
+        <item quantity="one">Svaki %d mjesec</item>
+     </plurals>
+     <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Svakih %d tjedana</item>
+        <item quantity="one">Svaki %d tjedan</item>
+     </plurals>
+     <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Svakih %d godina</item>
+        <item quantity="one">Svaku %d godinu</item>
+     </plurals>
+     <plurals name="weekly">
+        <item quantity="other">Svakih %1$d tjedana na %2$s</item>
+        <item quantity="one">Tjedno na %2$s</item>
+     </plurals>
+	 <plurals name="n_weeks">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+	 <plurals name="other_all_day_events">
+        <item quantity="other">još %d događaja</item>
+        <item quantity="one">još %d događaj</item>
+    </plurals>
+	 <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dana"</item>
+        <item quantity="one">" dan"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" sati"</item>
+        <item quantity="one">" sat"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+	 <plurals name="reminder_later_toast">
+        <item quantity="other">Sljedeći podsjetnik za %1$d min.</item>
+        <item quantity="one">Sljedeći podsjetnik za %1$d minutu</item>
+    </plurals>
+	 <plurals name="repeat_custom_prompt">
+        <item quantity="other">svakog %1$s na %2$s</item>
+        <item quantity="one">svakog %1$s na %2$s</item>
+    </plurals>
+</resources>

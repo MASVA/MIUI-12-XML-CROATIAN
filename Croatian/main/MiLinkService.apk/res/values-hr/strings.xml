@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="actionbar_button_up_description">Natrag</string>  
+  <string name="casting_tips">Emitiranje…</string>
+  <string name="console_guide_btn_got_it">Razumijem</string>
+  <string name="console_guide_subtitle_hang_up">"Ne prekidajte emitiranje kada se zaslon telefona isključi. Ova značajka može povećati potrošnju energije."</string>
+  <string name="console_guide_subtitle_private">"Ne emitiraj plutajuće obavijesti, obavijesti o dolaznim pozivima i druge stavke koje mogu sadržavati osobne podatke"</string>
+  <string name="console_guide_subtitle_small_window">Smanji projicirani prozor da biste mogli koristiti druge značajke telefona tijekom emitiranja</string>
+  <string name="dialog_can_not_find_device">"Ne mogu pronaći uređaje u blizini"</string>
+  <string name="dialog_cancle">Odustani</string>
+  <string name="dialog_connect_fail">"Povezivanje nije uspjelo"</string>
+  <string name="dialog_connect_retry">Dodirnite za ponovni pokušaj</string>
+  <string name="dialog_connect_verify_perssion">Prvo autorizirajte emitiranje na televizoru</string>
+  <string name="dialog_connect_verify_perssion_fail">"Nije moguće autorizirati emitiranje na vašem televizoru. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
+  <string name="dialog_connected">Povezano</string>
+  <string name="dialog_connecting">Povezivanje…</string>
+  <string name="dialog_ok">U redu</string>
+  <string name="dialog_only_suport_content">Streamajte fotografije, videozapise ili glazbu</string>
+  <string name="dialog_open_wifi_bt">Uključi</string>
+  <string name="dialog_please_make_sure_tv_ok_or_help">""Provjerite je li značajka bežičnog emitiranja uključena na ciljnom uređaju.
+Pogledajte pomoć ako imate problema sa povezivanjem."</string>
+  <string name="dialog_recent_connected">Nedavno</string>
+  <string name="dialog_retry">Pokušajte ponovo</string>
+  <string name="dialog_scanning_device">Traženje uređaja u blizini…</string>
+  <string name="dialog_scanning_precondition">Uključite WLAN i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
+  <string name="dialog_select_tv">Odaberite uređaj (%d)</string>
+  <string name="dialog_show_help">Pomoć</string>
+  <string name="disconnect">Zaustavi emitiranje</string>
+  <string name="hang_up">Emitiraj kad je ekran isključen</string>
+  <string name="hang_up_alert_dialog_content">"Emitiranje se neće prekinuti kada se zaslon vašeg telefona isključi. Pritisnite tipku za Power na telefonu da biste ponovo uključili zaslon."</string>
+  <string name="hang_up_alert_dialog_neg">Odustani</string>
+  <string name="hang_up_alert_dialog_pos">U redu</string>
+  <string name="hang_up_alert_dialog_title">O emitiranju kada je zaslon isključen</string>
+  <string name="help_page_text_01">Pomoć</string>
+  <string name="help_page_text_02">Što je emitiranje?</string>
+  <string name="help_page_text_03">"Emitiranje projicira stavke s zaslona vašeg telefona na veći vanjski monitor. Omogućuje vam da dijelite slike i videozapise s prijateljima i obitelji, pa čak i da zajedno igrate igre. Potrošnja energije vašeg telefona obično se ne mijenja kada koristite ovu značajku."</string>
+  <string name="help_page_text_04">Kako mogu emitirati stavke na veći zaslon?</string>
+  <string name="help_page_text_05">Korak 1</string>
+  <string name="help_page_text_06">"1. Koristite mali ručni telefon za spajanje na televizor s malim zaslonom, možete uspostaviti okomitu vezu sa zaslonom bez mrežnog okruženja.
+2. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno pregledavanje, morate povezati televizor (ili uređaj velikog zaslona) s mobilnim telefonom na istu bežičnu mrežu."</string>
+  <string name="help_page_text_07">3. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno emitiranje. Ako nema bežične mreže ili ako se televizor i mobilni telefon ne mogu povezati na istu mrežu, trebate uključiti TV (ili uređaj velikog zaslona) [Miracast] Mirror projection screen]. Taj se naziv može razlikovati za različite marke televizora. Daljnju stranicu možete pomaknuti do dna ove stranice i saznati više.</string>
+  <string name="help_page_text_08">Korak 2</string>
+  <string name="help_page_text_09">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite WLAN i Bluetooth za stabilniju vezu."</string>
+  <string name="help_page_text_10">Ako želite emitirati stavke iz Galerija ili Mi Video, možete koristiti ugrađene značajke za emitiranje u tim aplikacijama.</string>
+  <string name="help_page_text_11">Korak 3</string>
+  <string name="help_page_text_12">Odaberite vanjski uređaj s popisa dostupnih uređaja da biste započeli emitiranje.</string>
+  <string name="help_page_text_13">"Nije moguće povezivanje s vanjskim uređajem?"</string>
+  <string name="help_page_text_14">"1. Millet TV screencast, nadogradite aplikaciju Wireless Screening na popisu TV aplikacija na najnoviju verziju.
+2. Možete pokušati spojiti telefon i televizor na istu WLAN mrežu da biste povećali stopu uspjeha veze. Međutim, neki usmjerivači možda neće moći osigurati stabilno okruženje veze za ekran, što rezultira neuspjelu vezu ili česte prekide.
+3. Ako koristite Mi TV, uključivanje Bluetooth-a moglo bi poboljšati vezu. 
+4. Ako nema dostupnih WLAN mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima
+."</string>
+  <string name="help_page_text_14_global">"1. Ako želite koristiti Xiaomi uređaj, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom WLAN mrežom ili povežite vanjski monitor s hotspotom telefona. Ako nema dostupnih WLAN mreža ili ne možete povezati oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vanjskom monitoru ažurirane, uključite Bluetooth i na vašem telefonu i na vanjskom monitoru, i uključite Miracast na televizoru.
+2. Ako prvi put emitirate na Xiaomi uređaj, morate završiti provjeru.
+3. Ako želite koristiti uređaj koji nije Xiaomi, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom WLAN mrežom ili povežite vanjski monitor s hotspotom telefona."</string>
+  <string name="help_page_text_15">Miracast funkcionalnost na različitim uređajima</string>
+  <string name="help_page_text_16">Mi TV/Mi Projector</string>
+  <string name="help_page_text_17">"Xiaomi mobilni telefon može se izravno povezati s većinom Xiaomi TV-a s Bluetooth funkcijom, umjesto da ručno otvorite Miracast funkciju.
+Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] na daljinskom upravljaču TV-a da biste odabrali TV a zaslonu. Aplikacije &gt; Wireless Screening &gt; Millet / Android Miracast."</string>
+  <string name="help_page_text_17_1">Xiaomi korisnička podrška: 400-100-5678</string>
+  <string name="help_page_text_18">Samsung TV</string>
+  <string name="help_page_text_19">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima možete pritisnuti tipku [SOURCE] na daljinskom upravljaču i zatim odaberite \"Screen Mirroring\". Ova je značajka standardno uključena na različitim modelima.</string>
+  <string name="help_page_text_20">Samsung korisnička podrška: 400-810-5858</string>
+  <string name="help_page_text_21">LG TV</string>
+  <string name="help_page_text_22">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Ova je značajka standardno uključena na različitim modelima.</string>
+  <string name="help_page_text_23">LG korisnička podrška: 400-819-9999</string>
+  <string name="help_page_text_24">Philips TV</string>
+  <string name="help_page_text_25">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Ova je značajka standardno uključena na različitim modelima.</string>
+  <string name="help_page_text_26">Philips korisnička podrška: 400-880-0008</string>
+  <string name="help_page_text_27">TPV</string>
+  <string name="help_page_text_28">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima možete pritisnuti tipku [MENU] na daljinskom upravljaču i zatim odaberite Settings &gt; Connection &gt; Network &gt; Multiple screens.</string>
+  <string name="help_page_text_29">TPV korisnička podrška: 400-887-8007</string>
+  <string name="help_page_text_30">Hisense</string>
+  <string name="help_page_text_31">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima možete pritisnuti tipku [SMART] na daljinskom upravljaču i zatim odaberite Emitiranje &gt; Wireless Display; Some models can click Hi Screen &gt; Game Screening &gt; Android.</string>
+  <string name="help_page_text_32">Hisense korisnička podrška: 400-611-1111</string>
+  <string name="help_page_text_33">Skyworth</string>
+  <string name="help_page_text_34">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima, možete odabrati Aplikacije &gt; Emitiranje &gt; Android uređaj &gt; Miracast.</string>
+  <string name="help_page_text_35">Skyworth korisnička podrška: 95105555</string>
+  <string name="help_page_text_36">Sony</string>
+  <string name="help_page_text_37">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima možete pritisnuti tipku [SOURCE] na daljinskom upravljaču i zatim odaberite \"Screen Mirroring\";Na nekim drugim modelima ovu značajku možete uključiti u Mreža &gt; Wi-Fi Direct; Ova je značajka standardno uključena na različitim modelima.</string>
+  <string name="help_page_text_38">Sony korisnička podrška: 400-810-9000</string>
+  <string name="help_page_text_39">Panasonic</string>
+  <string name="help_page_text_40">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima, možete odabrati Aplikacije &gt; Screen Mirroring.</string>
+  <string name="help_page_text_41">Panasonic korisnička podrška: 400-881-1315</string>
+  <string name="help_page_text_42">Changhong</string>
+  <string name="help_page_text_43">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima, možete odabrati Sustav &gt; Alati sustava &gt; Multiple Screens &gt; Screen Mirroring.</string>
+  <string name="help_page_text_44">Changhong korisnička podrška: 400-811-1666</string>
+  <string name="help_page_text_45">TCL</string>
+  <string name="help_page_text_46">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Na nekim modelima, možete odabrati Aplikacije &gt; Wireless Display.</string>
+  <string name="help_page_text_47">TCL korisnička podrška: 400-812-3456</string>
+  <string name="help_page_text_48">AODIN</string>
+  <string name="help_page_text_49">Prvo provjerite podržava li vaš uređaj Miracast funkcionalnost. Da biste uključili ovu značajku, idite na Moje Aplikacijegt; Bežični zaslon.</string>
+  <string name="help_page_text_50">AODIN korisnička podrška:400-810-5858</string>
+  <string name="help_page_text_51">LeTV</string>
+  <string name="help_page_text_52">Provjerite podržava li model uređaja s velikim zaslonom protokol Miracast. Na nekim modelima odaberite Postavke &gt; Mreža &gt; Multi-screen Interactive &gt; Bežični zaslon.</string>
+  <string name="help_page_text_53">Broj telefona LeTV službe za korisnike: 10109000</string>
+  <string name="help_page_text_55">"Ako nema dostupnih Wi-Fi mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi značajki emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima.
+4. U slučaju drugih problema, pitanja i prijedloge možete poslati putem aplikacije Povratne inf."</string>
+  <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string> 
+  <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
+  <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
+  <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
+  <string name="notification_show_more">Pogledajte dodatne značajke</string>
+  <string name="privacy_agree">同意</string>
+  <string name="privacy_text_1">　　Dobrodošli u korištenje funkcije emitiranja zaslona. Uslugu emitiranja zaslona pruža Milian, a neke funkcije emitiranja zaslona podržavaju emitiranja zaslona drugih tvrtki. Da biste osigurali svoju privatnost, obavezno pročitajte&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
+  <string name="privacy_text_2">　　Klikom na Slažem se prihvaćate gore navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
+  <string name="privacy_text_pemission">"　　• Dopuštenja WLAN mreže koriste se za otkrivanje i povezivanje uređaja.
+　　•Bluetooth se koristi za otkrivanje i povezivanje uređaja.
+　　•Nakon čitanja pohrane telefona i pročitanog sadržaja, emitirajte na uređaj velikog zaslona.
+　　•Dobivanje podataka o telefonu, pročitati IMEI, Android_id, snimanje podataka o verziji i zapisniku telefona.
+　　•Nakon čitanja zvuka, emitirajte zvuk na uređaj velikog zaslona.
+　　•Dopuštenja za ciljanje Pronađite i otkrijte okolne uređaje."</string>
+  <string name="private_protect">Zaštitite privatnost</string>
+  <string name="san_wait_msg_1">Ciljani uređaj mora uključiti bežično emitiranje</string>
+  <string name="san_wait_msg_2">Pretraživanje uređaja može potrajati neko vrijeme…</string>
+  <string name="san_wait_msg_3">"Vanjske uređaje je lakše pronaći kada su povezani na istu mrežu kao i vaš telefon"</string>
+  <string name="san_wait_msg_4">"Pogledajte \"Pomoć\" ako ne možete pronaći uređaje"</string>
+  <string name="service_name">UniPlay Service</string>
+  <string name="small_window">Minimiziraj prozor</string>
+  <string name="status_bar_in_casting">Emitiranje</string>
+  <string name="status_bar_in_casting_long">Kliknite za proširenje dodatnih značajki</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="tile_label">Emitiranje</string>
+  <string name="toast_guide_show_more">Saznajte više</string>
+  <string name="toast_guide_title">Istražite nove značajke</string>
+  <string name="toast_msg_for_multi_window">Ova funkcija nije dostupna u načinu s podijeljenim zaslonom</string>
+  <string name="toast_msg_for_small_window">Nakon otvaranja aplikacije koju želite emitirati, koristite funkciju projekcije malog prozora, prikazana aplikacija neće se prekinuti, a mobilni telefon može raditi s drugim aplikacijama.</string>
+  <string name="toast_title_for_small_window">Koristite mali prozor za emitiranje zaslona u aplikaciji.</string>
+</resources>

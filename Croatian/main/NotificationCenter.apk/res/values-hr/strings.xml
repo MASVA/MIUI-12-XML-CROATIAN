@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Obavijesti</string>
+  <string name="default_list_type">Poredaj po vremenu primitka</string>
+  <string name="disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>
+  <string name="disable_lockscreen_notification">"Obavijesti Zaklj. zaslona nisu dopuštene"</string>
+  <string name="disable_show_badge_notification">"Značke obavijesti nisu dopuštene"</string>
+  <string name="enable_float_notification">Plutajuće obavijesti su dopuštene</string>
+  <string name="enable_lockscreen_notification">Obavijesti Zaklj. zaslona su dopuštene</string>
+  <string name="enable_show_badge_notification">Značke  su dopuštene</string>
+  <string name="expand_top_notification">Proširi gornju obavijest</string>
+  <string name="expandable_under_keyguard">Otvori Panel obavijesti na Zaklj. zaslonu</string>
+  <string name="float_notifications">Plutajuće obavijesti</string>
+  <string name="hint_search_all">Pretraga aplikacija</string>
+  <string name="hint_search_in_disabled_apps">"Traži aplikacije koje ne mogu prikazati obavijesti"</string>
+  <string name="hint_search_in_enabled_apps">Traži aplikacije koje mogu prikazati obavijesti</string>
+  <string name="last_sent_time_second">Upravo sada</string>
+  <string name="list_title_disable_notification">"Obavijesti nisu dopuštene"</string>
+  <string name="loading">Samo trenutak…</string>
+  <string name="lock_screen_display_rules">Format</string>
+  <string name="lock_screen_tip_toast">Dopustite obavijesti Zaklj. zaslona u \"Format\"</string>
+  <string name="lockscreen_notifications">Obavijesti Zaklj. zaslona</string>
+  <string name="not_sent_recently">Nedavno</string>
+  <string name="notch_and_status_bar_setting">Urez &amp; traka statusa</string>
+  <string name="notification_display_setting">Panel obavijesti</string>
+  <string name="notification_display_style">Stil obavijesti</string>
+  <string name="notification_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
+  <string name="notification_fold_title">Mapa obavijesti</string>
+  <string name="notification_manager">Obavijesti aplikacije</string>
+  <string name="notification_style_android">Android</string>
+  <string name="notification_style_miui">MIUI</string>
+  <string name="off">Isključi</string>
+  <string name="on">Uključi</string>
+  <string name="settings_guide_title">Trebate druge postavke??</string>
+  <string name="show_badge_notifications">Značke obavijesti</string>
+  <string name="status_bar_setting">Traka statusa</string>
+  <string name="summary_disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>
+  <string name="summary_disable_lockscreen_notification">"Obavijesti Zaklj. zaslona nisu dopuštene"</string>
+  <string name="summary_disable_show_badge_notification">"Značke obavijesti nisu dopuštene"</string>
+  <string name="summary_enable_float_notification">Plutajuće obavijesti su dopuštene</string>
+  <string name="summary_enable_lockscreen_notification">Obavijesti Zaklj. zaslona su dopuštene</string>
+  <string name="summary_enable_show_badge_notification">Značke obavijesti su dopuštene</string>
+  <string name="summary_float_enable_notification_first">Dopustite obavijesti da biste mogli uključiti plutajuće obavijesti</string>
+  <string name="summary_lock_screen_enable_notification_first">Dopustite obavijesti da biste mogli uključiti obavijesti Zaklj. zaslona</string>
+  <string name="summary_show_badge_enable_notification_first">Dopustite obavijesti da biste mogli uključiti značke obavijesti</string>
+</resources>
