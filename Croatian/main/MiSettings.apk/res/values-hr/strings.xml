@@ -169,7 +169,7 @@
   <string name="usage_focus_title_level3">Izdinite se iznad zemaljskog</string>
   <string name="usage_focus_title_level4">Pronađite radost u dosljednosti</string>
   <string name="usage_focus_title_level5">Ostanite fokusirani</string>
-  <string name="usage_home_permission_account_summary">Za prijavu na Mi račun i sinkronizaciju statistike vremena zaslona</string>
+  <string name="usage_home_permission_account_summary">Za prijavu na Mi Račun i sinkronizaciju statistike vremena zaslona</string>
   <string name="usage_home_permission_account_title">Pristup podacima o računu</string>
   <string name="usage_home_permission_phone_summary">Za prepoznavanje uređaja pomoću VAID-a</string>
   <string name="usage_home_permission_phone_title">Pristup podacima o uređaju</string>

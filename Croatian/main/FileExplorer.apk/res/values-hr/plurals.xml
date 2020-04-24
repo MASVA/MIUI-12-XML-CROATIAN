@@ -293,12 +293,12 @@
          <item quantity="one">Možete upisati %d znak</item>
 	 </plurals>
      <plurals name="video_items">
-        <item quantity="other"> stavki: %1$d</item>
-        <item quantity="zero"> stavki: %1$d</item>
+        <item quantity="other"> stavke: %1$d</item>
+        <item quantity="zero"> stavke: %1$d</item>
         <item quantity="one"> stavka:%1$d</item>
-        <item quantity="two"> stavki: %1$d</item>
-        <item quantity="few"> stavki: %1$d</item>
-        <item quantity="many"> stavki: %1$d</item>
+        <item quantity="two"> stavke: %1$d</item>
+        <item quantity="few"> stavke: %1$d</item>
+        <item quantity="many"> stavke: %1$d</item>
      </plurals>
 	 <plurals name="original_user_days">
          <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dana</item>
@@ -349,8 +349,8 @@
          <item quantity="one">Prijavljen %1$s dan za redom, nastavite tako!</item>
      </plurals>
 	 <plurals name="text_group_count">
-        <item quantity="other">%d stavki</item>
-        <item quantity="zero"> %1$d stavki</item>
+        <item quantity="other">stavke: %d</item>
+        <item quantity="zero"> stavke: %1$d</item>
         <item quantity="one">%d stavka</item>
     </plurals>
      <plurals name="total_topic_num">
