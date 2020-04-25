@@ -604,7 +604,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_yes">Da</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="permission_account_tip">Pristup podacima o računu</string>
-  <string name="permission_storage_tip">Pristupite slikama na svom uređaju kako biste ih koristili kao pozadine</string>
+  <string name="permission_storage_read_tip">Pristup fotografijama pohranjenim na vašem uređaju</string>
+  <string name="permission_storage_tip">Spremiti preuzete stavke na vaš uređaj</string>
   <string name="phone_bind_too_many">Ovaj telefon je povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi telefonski broj.</string>
   <string name="phone_hint">Broj telefona</string>
   <string name="phone_number">Broj telefona</string>
@@ -748,8 +749,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="status_wallpaper_loop_start">Uklj.</string>
   <string name="subscribe_apply_wp">Pozadina Zaklj. zaslona postavljena</string>
   <string name="subscribe_dlg_btn">Start</string>
+  <string name="subscribe_dlg_btn_txt">Pretplati se</string>
   <string name="subscribe_dlg_content">Pretplatite se kako biste svakodnevno dobivali svježe pozadine na vaš Zaklj. zaslon i primali pozdrave ujutro.</string>
   <string name="subscribe_dlg_content2">Pretplatite se na \"%1$s\"</string>
+  <string name="subscribe_dlg_desc">Pretplatite se za prikaz prezentacija</string>
   <string name="subscribe_dlg_title">Dodajte svoje omiljene slike u miks</string>
   <string name="subscribe_free">Pretplatite se</string>
   <string name="subscribe_item_checked">Pretplaćeno</string>

@@ -174,6 +174,7 @@
   <string name="converting_to_picture_message">Pretvaranje u MMS…</string>
   <string name="converting_to_text_message">Pretvaranje u SMS…</string>
   <string name="converting_vcard_failed">"Ne mogu pretvoriti kontakt"</string>
+  <string name="copy">Kopiraj</string>
   <string name="copy_message_text">Kopiraj tekst</string>
   <string name="copy_message_text_success">Tekst uspješno kopiran!</string>
   <string name="copy_to_sdcard">Spremi privitak</string>
@@ -195,7 +196,10 @@
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
+  <string name="dialog_choice_all_correct_as_normal">Sve poruke od %s</string>
   <string name="dialog_complain_tips">Dopustite aplikaciji Poruke da se poveže s mrežom da bi mogao prijavljivati stavke.</string>
+  <string name="dialog_message_correct_as_ad">Sve poruke od %s (osim kontrolnih kodova) premjestit će se u promotivne poruke.</string>
+  <string name="dialog_message_correct_as_normal">Odaberite poruke za premještanje</string>
   <string name="dialog_message_fake_cell_detect_error">Ispraviti informacije o ovoj poruci? Da biste to učinili, MIUI treba učitati broj telefona (%1$s), sadržaj poruke i informacije o najbližoj lokaciji na svoje poslužitelje.</string>
   <string name="dialog_message_mx">Mi Poruka vam omogućuje slanje poruka drugim MIUI korisnicima bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate se složiti s našim \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka.</string>
   <string name="dialog_message_mx_rcs">Mi Poruka vam omogućuje slanje poruka drugim MIUI uređajima i korisnicima China Mobile bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate se složiti s našim \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka. Slažete se?</string>
@@ -208,6 +212,8 @@
   <string name="dialog_sim_locked_confirm">U redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodala uređaj."</string>
   <string name="dialog_smart_message_privacy_tips">Usluge Pametnih poruka nudi Dianhuabang. Prije upotrebe Pametnih poruka morate se složiti sa \"%1$s\". Pametne poruke moraju se povezati s internetom i pristupiti vašoj lokaciji kako bi radile normalno. Slažete li se?</string>
+  <string name="dialog_title_correct_as_ad">Premjesti na promotivne poruke</string>
+  <string name="dialog_title_correct_as_normal">Premjesti u redovite poruke</string>
   <string name="dialog_title_fake_cell_detect_error">Ispravi</string>
   <string name="dialog_title_mx_rcs">Mi Poruka</string>
   <string name="dialog_title_networking">Uvjeti i Odredbe</string>
@@ -255,6 +261,7 @@
   <string name="exceed_message_size_limitation">Dosegnuto je ograničenje veličine poruke.</string>
   <string name="exceed_message_size_limitation_add_slide">Veličina poruke nije dovoljna da dodate slajd</string>
   <string name="exceed_message_text_limitation">Dosegnuto je ograničenje veličine poruke.</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="expire_on">Ističe: %s</string>
   <string name="exporting_progress_private_message">Izvoz poruka iz privatnog sandučića</string>
   <string name="fail_to_add_attachment">"Ne mogu dodati privitak"</string>
@@ -327,6 +334,8 @@
   <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
   <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
   <string name="hold_to_talk">Zadrži za razgovor</string>
+  <string name="home_tab_ad">Promotivne</string>
+  <string name="home_tab_common">Redovite</string>
   <string name="hybrid_check_network">Postavke mreže</string>
   <string name="hybrid_data_error">Došlo je do pogreške</string>
   <string name="hybrid_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
@@ -362,6 +371,8 @@
   <string name="menu_call">Poziv</string>
   <string name="menu_compose_new">Stvori novu poruku</string>
   <string name="menu_contact">Prikaz informacija o kontaktu</string>
+  <string name="menu_correct_as_ad">Premjesti u promotivne</string>
+  <string name="menu_correct_as_normal">Premjesti u redovite</string>
   <string name="menu_delete_messages">Izbriši poruke</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_forward">Proslijedi</string>
@@ -405,6 +416,14 @@
   <string name="messagelist_sender_self">Ja</string>
   <string name="messaging">Poruke</string>
   <string name="mi_message_title">Mi Poruka</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Nema podataka</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Ništa</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nije uspjelo</string>
   <string name="mipub_messaging_entry_title">Mi Poruka</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Sve MMS poruke osim poruka poslanih od ovlaštenih pošiljatelja bit će blokirani. Ovlašteni pošiljatelji uključuju mrežne operatere, državne sustave za rezervaciju željeznica itd.</string>
@@ -522,6 +541,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="non_english_subject_limit">13 znakova</string>
   <string name="nosend_message">"Nemoj slati"</string>
   <string name="not_prepare_for_send">Nema poruke za slanje</string>
+  <string name="not_set">Nije postavljeno</string>
+  <string name="notification_ad_content">Primili ste promotivnu poruku od %s</string>
   <string name="notification_channel_msg_description">Obavijest o poruci</string>
   <string name="notification_channel_msg_name">Poruka</string>
   <string name="notification_channel_other_description">Obavijest bez poruke</string>
@@ -586,6 +607,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_summary_allow_si_sl_push">Dopusti porukama učitavanje sadržaja s web stranica</string>
   <string name="pref_summary_allow_upload_message_info">"Spam poruke i informacije o pošiljatelju bit će poslane MIUI kada ih prijavite."</string>
   <string name="pref_summary_auto_delete">Izbriši stare poruke kada se dosegne ograničenje</string>
+  <string name="pref_summary_collapse_ad_notification">Prikaži sve promotivne poruke u zasebnoj mapi Panela obavijesti</string>
+  <string name="pref_summary_collapse_ad_notification_mms">Prikaži sve promotivne poruke na zasebnoj kartici</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
   <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
   <string name="pref_summary_delivery_ringtone">Primi zvučne obavijesti za isporučene poruke.</string>
@@ -612,6 +635,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_allow_upload_message_info">Pošalji spam poruke</string>
   <string name="pref_title_auto_delete">Izbriši stare poruke</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
+  <string name="pref_title_collapse_ad_notification">Grupne obavijesti o promotivnim porukama</string>
   <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
   <string name="pref_title_festival_networking">Obavijest o povezivanju</string>
   <string name="pref_title_fwd_sender_info">Proslijedi informaciju pošiljatelja</string>
@@ -640,6 +664,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_system_mms_priority">Postavi kao zadano</string>
   <string name="pref_title_vcard">Pošalji pomoću vCard</string>
   <string name="pref_title_wake_up_screen">Buđenje zaslona</string>
+  <string name="preference_copied">\"%1$s\" kopiran u međuspremnik.</string>
   <string name="preferences_title">Postavke</string>
   <string name="prepare_send">Priprema za slanje…</string>
   <string name="press_recording">Pritisnite &amp; držite ikonu mikrofona za snimanje</string>
@@ -660,6 +685,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_term">Pravila o Privatnosti</string>
+  <string name="private_entry_available">Otpusti za otvaranje privatne mape</string>
+  <string name="private_entry_default">Povuci dolje za otvaranje privatne mape</string>
   <string name="private_message">Privatna poruka</string>
   <string name="private_new_notification">Obavijest nove privatne poruke</string>
   <string name="private_protect">Zaštita privatnosti</string>
@@ -738,6 +765,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="rcs_wait_for_retry_text">Na čekanju…</string>
   <string name="received_at_time">Primljeno: %1s</string>
   <string name="received_label">"Primljeno: "</string>
+  <string name="recent_label">Nedavni kontakti</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Primatelj: "</string>
   <string name="recipients_contain_sub_sim_number">"Izgleda da postoji sekundarni broj SIM-a među primateljima. Pošaljite ovu poruku pomoću sekundarne SIM kartice."</string>
@@ -762,7 +790,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="refresh">Osvježi</string>
   <string name="refresh_failed">Osvježavanje neuspjelo</string>
   <string name="refreshing">Osvježavam…</string>
-  <string name="release_cancel">Pusti za poništavanje</string>
+  <string name="release_cancel">Otpusti za poništavanje</string>
+  <string name="release_end">Otpusti za zaustavljanje</string>
   <string name="remind_follow">Pratiti ovaj broj?</string>
   <string name="remove">Ukloni</string>
   <string name="remove_music">Ukloni glazbu</string>
@@ -817,6 +846,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="search_hint">Pretraživanje slanja poruka</string>
   <string name="search_keyword_mms">Poruke</string>
   <string name="search_label">Poruke</string>
+  <string name="search_menu_title">Traži</string>
   <string name="search_path_mms">Postavke/Aplikacije sustava/Poruke</string>
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
@@ -867,7 +897,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="service_not_activated">Usluga nije aktivirana na mreži.</string>
   <string name="service_unavailiable">Usluga nije dostupna</string>
   <string name="set">Postavi</string>
-  <string name="share">podijeli</string>
+  <string name="share">Podijeli</string>
   <string name="share_img">Podijeli</string>
   <string name="shortcut_new_msg">Nova poruka</string>
   <string name="shortcut_setting">Postavke</string>
@@ -961,6 +991,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   
 Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju."</string>
   <string name="system_permission_declare_privacy_declare">"%1s treba prikupiti vaše podatke i zahtijeva sljedeća dopuštenja za normalan rad:</string>
+  <string name="system_permission_declare_privacy_declare_new">Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja za normalan rad:</string>
   <string name="system_permission_declare_revoke_path">Možete opozvati autorizaciju i isključiti usluge u postavkama Poruka.</string>
   <string name="system_permission_declare_single_link">Pročitajte i pristanite na naše %1s prije upotrebe ove značajke.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Pročitajte i pristanite na naše %1s, %2s, i %3s prije upotrebe ove značajke.</string>
@@ -1033,6 +1064,8 @@ Provedeni pokušaj: %s."</string>
   <string name="url_scanning">Provjera poveznice…</string>
   <string name="user_agreement">Korisnički sporazum</string>
   <string name="user_term">Korisnički sporazum</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement3">" i "</string>

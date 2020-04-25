@@ -1136,7 +1136,6 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="service_protocol_discribe">&lt;u&gt;"Pročitao sam i slažem se s Ugovorom o usluzi za WPS Mail"&lt;/u&gt;</string>
   <string name="service_protocol_title">Ugovor o usluzi</string>
   <string name="set_network">Postavljanje mreže</string>
-  <string name="settings_activity_title">E-pošta</string>
   <string name="setting_kids_subtitle">Potvrđena dob korisnika</string>
   <string name="setting_kids_title">Stariji od 16 godina</string>
   <string name="settings_activity_title">Postavke</string>
@@ -1230,13 +1229,11 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="translation_query_failure">"Ne mogu pronaći rezultate"</string>
   <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
-  <string name="try_exchange_login">Prijavite se s EXCHANGE</string>
   <string name="tryrefreshing">Osvježavam…</string>
-  <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>
   <string name="try_exchange_login">Prijavite se sa EXCHANGE</string>
   <string name="turn_auto_sync_on_dialog_body">"Promjene koje napravite
-     u svim aplikacijama i računima bit će sinkronizirane, ne samo Gmail,
-     između interneta, ostalih uređaja i vašeg %1$s."</string>
+     a ne samo na Gmailu, u svim aplikacijama i računima
+     sinkronizirat će se na webu, vašim ostalim uređajima i vašem %1$s."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
   <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>
   <string name="unbind_dialog_text">"Aplikacija E-pošte više neće analizirati vaše e-poruke nakon toga.

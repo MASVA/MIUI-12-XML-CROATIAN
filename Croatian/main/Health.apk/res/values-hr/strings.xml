@@ -57,6 +57,8 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="allow_notice_periods">Dopusti podsjetnik mjesečnice</string>
   <string name="altitude">Visina</string>
   <string name="am">AM</string>
+  <string name="audio_permission_dialog_desc">Dopuštenje za snimanje zvuka nije odoboreno. Dajte dopuštenje</string>
+  <string name="audio_permission_dialog_title">Odobrite dopuštenje za snimanje zvuka</string>
   <string name="audio_record_perm_description">Zabilježite hrkanje i snove tijekom spavanja</string>
   <string name="audio_record_permission_description">Za snimanje razgovora i hrkanja tijekom analize ciklusa spavanja</string>
   <string name="auth_description">Omogućite %1$s sinkronizaciju podataka sa sljedećih uređaja</string>
@@ -144,6 +146,7 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="close_stand_notice_and_detection_tip">Detekcija i podsjetnik stajanja isključeni su</string>
   <string name="close_stand_notice_tip">Detekcija stajanja je isključena, autom. detekcija nakon otvaranja je bezbrižnija</string>
   <string name="collect_diagnosis_log">Prikupite dijagnostički zapisnik</string>
+  <string name="collapse">Sakrij</string>
   <string name="complete_preference_basic_info">Dovršite svoj profil</string>
   <string name="completed">"Dovršeno "</string>
   <string name="completed_stand">Stajanje je gotovo</string>
@@ -260,6 +263,7 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="dialog_privacy_policy_statement">Izjava o privatnosti</string>
   <string name="dialog_privacy_title">Uvjeti i odredbe</string>
   <string name="dialog_read_phone_perm_desc">Za pristup ID-u uređaja radi prepoznavanja uređaja.</string>
+  <string name="dialog_request_network">Pristanite na pristup mreži.</string>
   <string name="dialog_sleep_goal_setting">Postavite cilj trajanja spavanja</string>
   <string name="dialog_sleep_goal_subtitle">Osigurajte 7-9 sati sna svaki dan</string>
   <string name="dialog_sleep_goal_title">Cilj trajanja spavanja</string>
@@ -277,6 +281,9 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="edit_sleep_record_button">Uredi</string>
   <string name="empty_data">-</string>
   <string name="enable">Uključeno</string>
+  <string name="enable_go_now">Uključeno</string>
+  <string name="enable_not_now">Isključeno</string>
+  <string name="enable_right_now">Uključeno</string>
   <string name="enough">Dovoljno</string>
   <string name="enter_mi_health">Otvori Mi Health</string>
   <string name="equivalent_exercise">≈%1$s km prohodano (%2$s kcal)</string>
@@ -296,7 +303,7 @@ Možete odabrati drugi izvor podataka u Više &gt; Izvori podataka."</string>
   <string name="exercise_detail_no_steps_hint">"Odabrani izvor podataka (%1$s) ne pruža informacije o broju koraka.
 Možete odabrati drugi izvor podataka u Više &gt; Izvori podataka."</string>
   <string name="exercise_duration">Trajanje vježbe</string>
-  <string name="exercise_duration_consume">Trajanje: %1$s, %2$s</string>
+  <string name="exercise_duration_consume">Trajanje: %1$s | Potrošeno: %2$s</string>
   <string name="exercise_goal">Cilj aktivnosti</string>
   <string name="exercise_goal_accomplished">Postignut cilj</string>
   <string name="exercise_goal_lack_exercise">Nedovoljno aktivnosti</string>
@@ -304,8 +311,8 @@ Možete odabrati drugi izvor podataka u Više &gt; Izvori podataka."</string>
   <string name="exercise_info_tool_bar_title">Aktivnost</string>
   <string name="exercise_information_label">Navedite svoje podatke kako bi statistika bila preciznija</string>
   <string name="exercise_intensity">Intenzitet</string>
-  <string name="exercise_motor_perception">AI percepcija pokreta</string>
-  <string name="exercise_motor_perception_description">Upotrijebite izvanmrežni AI algoritam u kombinaciji s senzorima mobilnog telefona i računalnom tehnologijom male snage da biste automatski snimili svoje pokrete</string>
+  <string name="exercise_motor_perception">Pratite vježbe automatski</string>
+  <string name="exercise_motor_perception_description">Nosite svoj uređaj sa sobom tijekom dana, kako biste automatski pratili vježbanje</string>
   <string name="exercise_no_question">"Zašto ne možete vidjeti svoju statistiku?"</string>
   <string name="exercise_notification_content">%1$d min. vježbanja (%2$d Cal)</string>
   <string name="exercise_notification_meet_title">"Današnji koraci: %d. Cilj postignut!"</string>
@@ -315,6 +322,7 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="exercise_question_answer_two">2. Povremeno se senzori kretanja ne mogu učitati. Ponovo pokrenite telefon i provjerite radi li praćenje normalno u takvim slučajevima.</string>
   <string name="exercise_question_title">"Zašto ne možete vidjeti svoju statistiku?"</string>
   <string name="exercise_record">Povijest vježbanja</string>
+  <string name="exercise_record_no_data">Ovdje nema stavki</string>
   <string name="exercise_reminder_accomplished">Postigli ste svoj cilj aktivnosti!</string>
   <string name="exercise_reminder_title">Podsjetnik aktivnosti</string>
   <string name="exercise_reminder_unaccomplished">"Još niste postigli svoj cilj. Nastavite dalje!"</string>
@@ -324,14 +332,15 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="exercise_sum">Izvještaj o vježbi</string>
   <string name="exercise_walk_description">According to the Dietary Guidelines for Chinese Residents, active physical activity should last at least 40 minutes a day, which is equivalent to walking 6000 steps. The steps you take each day to walk, run, and go upstairs are summarized here.</string>
   <string name="expand_button_title">Napredno</string>
+  <string name="expand_all">Prikaži sve</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-  <string name="fall_sleep_hard">Trouble falling asleep</string>
-  <string name="falling_duration">Falling asleep</string>
-  <string name="falling_duration_hard_description">"Falling asleep is the period between the start of your sleep and falling asleep completely. If it takes you longer than 30 minutes to fall asleep, this might be a sign of insomnia.
-If it's still difficult for you to fall asleep after 30 minutes in bed, reduce the factors contributing to this phenomenon. Drink less coffee; don't overstimulate your nervous system visually and emotionally by watching videos or reading before bed; keep your bedroom dark, quiet, and comfortable. If these measures don't bring any relief, consult your physician."</string>
-  <string name="falling_duration_normal_description">Falling asleep is the period between the start of your sleep and falling asleep completely. Knowing how long it takes you to fall asleep is important for treating insomnia and other sleep-related conditions.</string>
-  <string name="fat_rate">Fat</string>
-  <string name="fat_rate_descripe_content">Body fat percentage refers to the proportion of fat in the total weight of the human body.</string>
+  <string name="fall_sleep_hard">Problemi kod spavanja</string>
+  <string name="falling_duration">Padanje u san</string>
+  <string name="falling_duration_hard_description">"Padanje u san je razdoblje između početka i potpunog utonoća u san. Ako vam treba dulje od 30 minuta da zaspite, to bi mogao biti znak nesanice.
+Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike koji pridonose ovoj pojavi. Pijte manje kave; nemojte vizualno i emocionalno simulirati živčani sustav gledajući videozapise ili čitajući prije spavanja; neka spavaća soba bude mračna, tiha i ugodna. Ako ove mjere ne donesu nikakvo olakšanje, posavjetujte se s liječnikom."</string>
+  <string name="falling_duration_normal_description">Padanje u san je razdoblje između početka i potpunog utonoća u san. Znajući koliko vam treba vremena da zaspite važno je za liječenje nesanice i ostalih stanja povezanih sa spavanjem.</string>
+  <string name="fat_rate">Masnoća</string>
+  <string name="fat_rate_descripe_content">Postotak tjelesne masti odnosi se na udio masti u ukupnoj težini ljudskog tijela.</string>
   <string name="feedback_need_permission_msg">Dopustite Mi Health da piše u vanjsku pohranu kako bi mogao generirati zapisnike koji se koriste za povratne informacije.</string>
   <string name="feedback_permission_denied_msg">"Mi Health ne može spremiti zapisnike u vanjsku pohranu. Dajte potrebna dopuštenja u postavkama Mi Healtha."</string>
   <string name="fewer">Malo</string>
@@ -550,13 +559,15 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="no_body_weight_record">Nema još zapisa</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_records">Nema stavki.</string>
-  <string name="no_snore">"Nisi hrkao ili razgovarao u snu"</string>
+  <string name="no_snore">"Nisi hrkao ili pričao u snu"</string>
+  <string name="no_snore_1">"Nisi hrkao ili pričao u snu"</string>
   <string name="noon">PM</string>
   <string name="normal">Normalno</string>
   <string name="not_achieve_stand_goals">Cilj stajanja nije postignut</string>
   <string name="not_added">Nije dodano</string>
   <string name="not_open_auto_sync">Sinkronizacija je isključena</string>
-  <string name="not_set">Nije psoatvljeno</string>
+  <string name="not_set">Nije postavljeno</string>
+  <string name="not_standing">Bez stajanja</string>
   <string name="not_support_step">"Vaš uređaj ne može brojati korake"</string>
   <string name="not_up_to_standard">Ispod standarda</string>
   <string name="number_divided">%1$d/%2$d</string>
@@ -689,8 +700,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_detection_guide_one_title">Pratite svoj san</string>
   <string name="sleep_detection_guide_schedule_hint_one">"Bez rasporeda za spavanje, vaše statistike neće biti točne. "</string>
   <string name="sleep_detection_guide_schedule_hint_two">Postavite svoj raspored spavanja.</string>
-  <string name="sleep_detection_guide_schedule_hint_two_details">Preporuča se da krenete na posao i odmorite postavke upravljanja sata.</string>
-  <string name="sleep_detection_guide_three_description">"Kad se uspostavi raspored za spavanje, spavanje će se automatski pratiti. "</string>
+  <string name="sleep_detection_guide_schedule_hint_two_details">Namjestite vrijeme za spavanje u aplikaciji Sat.</string>
+  <string name="sleep_detection_guide_three_description">"Kad se uspostavi raspored za spavanje, spavanje će se automatski pratiti."</string>
   <string name="sleep_detection_guide_three_title">Generiraj statistiku automatski</string>
   <string name="sleep_detection_guide_two_description">"Da biste dobili precizniju statistiku, stavite uređaj pored ili ispod jastuka i provjerite je li udaljen više od 50 cm od vašeg tijela."</string>
   <string name="sleep_detection_guide_two_title">Uređaj postavite pored jastuka</string>
@@ -747,7 +758,14 @@ podatke o spavanju"</string>
   <string name="sleep_service">Usluga praćenja spavanja</string>
   <string name="sleep_service_background_running">Usluga praćenja spavanja radi u pozadini</string>
   <string name="sleep_setting_title">Postavke spavanja</string>
+  <string name="sleep_snore_audio_auto">Pratite svoj zvuk</string>
+  <string name="sleep_snore_audio_auto_desc">Snimajte svoj pričanje dok spavate i pohranite datoteku u telefon da biste zaštitili privatnost.</string>
+  <string name="sleep_snore_audio_close_desc">Možete to onemogućiti u postavkama spavanja.</string>
+  <string name="sleep_snore_audio_enable">Detekcije su omogućene</string>
+  <string name="sleep_snore_audio_enable_desc">Večeras će se spavanje automatski pratiti.</string>
+  <string name="sleep_snore_audio_hight_power_desc">Provjerite je li vaš uređaj dovoljno napunjen prije spavanja.</string>
   <string name="sleep_snore_detection">Otkrivanje hrkanja i pričanja</string>
+  <string name="sleep_snore_detection_desc">Pratite svoje spavanje</string>
   <string name="sleep_sober">Budan</string>
   <string name="sleep_sober_times_title">Probudio se</string>
   <string name="sleep_status">Statistka spavanja</string>
@@ -772,7 +790,7 @@ podatke o spavanju"</string>
   <string name="snore_detection_guide_one_description">Zvuk će se snimati dok spavate. Strojno učenje omogućuje Xiaomi Healthu da otkrije hrkanje, pričanje i glasne zvukove te pohrani snimke na vaš uređaj.</string>
   <string name="snore_detection_guide_one_title">Snimi zvuk mikrofonom</string>
   <string name="snore_detection_guide_schedule_suggest">Mikrofon će se uključiti i isključiti prema vašem rasporedu za spavanje. Postavite svoj raspored spavanja kako bi uspio&gt;</string>
-  <string name="snore_detection_guide_schedule_suggest_details">Mikrofon će se uključiti i isključiti prema vašem rasporedu za spavanje. Preporuča se da krenete na posao i odmorite postavke upravljanja sata.</string>
+  <string name="snore_detection_guide_schedule_suggest_details">Mikrofon će biti uključen tijekom spavanja za analizu ciklusa spavanja. Da biste statistiku učinili preciznijom, namjestite vrijeme za spavanje u aplikaciji Sat.</string>
   <string name="snore_detection_guide_three_description">Provjerite je li vaš uređaj dovoljno napunjen prije spavanja. Slaba baterija može prekinuti snimanje zvuka.</string>
   <string name="snore_detection_guide_three_title">Neka vaš uređaj bude napunjen</string>
   <string name="snore_detection_guide_two_description">Mikrofon će se uključiti i isključiti prema vašem rasporedu za spavanje.</string>
@@ -787,6 +805,8 @@ podatke o spavanju"</string>
   <string name="snore_detection_stop_pop_title">Završiti sesiju?</string>
   <string name="snore_detection_stopped_notification_title">Zaustavljeno otkrivanje hrkanja i pričanja</string>
   <string name="snore_dream_talk">Hrkanje i pričanje</string>
+  <string name="snore_duration_label">Trajanje hrkanja</string>
+  <string name="snore_label">Hrkanje</string>
   <string name="snore_record_audio_delete_message">"Ova se snimka pohranjuje samo na vašem uređaju. Nećete je moći vratiti ako je izbrišete. Izbrisati svejedno?"</string>
   <string name="snore_record_audio_delete_title">Izbrisati snimku?</string>
   <string name="snore_section">Hrkanje %1$s</string>
@@ -832,6 +852,7 @@ podatke o spavanju"</string>
   <string name="stand_notice_title6">Ima li stojećih aktivnosti u zadnjih sat vremena?</string>
   <string name="stand_setting">Postavke stajanja</string>
   <string name="standard_format">(standardno: %1s)</string>
+  <string name="standing_already">Već stojim</string>
   <string name="state_agree">Slažem se</string>
   <string name="state_auto_run_disenable">Isklj.</string>
   <string name="state_auto_run_enable">Uklj.</string>
@@ -901,7 +922,7 @@ podatke o spavanju"</string>
   <string name="tb_exercise_exercise_duration">Trajanje vježbanja u minutama: %1$d. %2$s. Dodirnite za prikaz detalja.</string>
   <string name="tb_exercise_exercise_no_data">Nema informacija o trajanju vježbanja</string>
   <string name="tb_exercise_goal_info">Cilj dnevne aktivnosti: %1$s. %2$s</string>
-  <string name="tb_exercise_home_banner">Dnevna provjera zdravlja</string>
+  <string name="tb_exercise_home_banner">Dnevna provjera</string>
   <string name="tb_exercise_label_close">Zatvori upit</string>
   <string name="tb_exercise_list_add">Dodajte statistiku vježbi</string>
   <string name="tb_exercise_list_consume">Potrošene kalorije: %1$d. Vrijeme završetka: %2$s. Dodirnite za prikaz detalja.</string>
@@ -963,6 +984,8 @@ podatke o spavanju"</string>
   <string name="tb_picker_sleep_goal">Odabrani cilj spavanja: %1$s. Povucite okomito da biste odabrali cilj.</string>
   <string name="tb_picker_weight">Odabrana težina: %1$s. Povucite okomito da biste odabrali težinu.</string>
   <string name="tb_picker_year">Odabrana godina: %1$d. Povucite okomito da biste odabrali godinu.</string>
+  <string name="tb_play_next">Sljedeća snimka</string>
+  <string name="tb_play_previous">Prethodna snimka</string>
   <string name="tb_select_a_column">Odabrano %1$s</string>
   <string name="tb_show_sleep_info">Prikazivanje statistike spavanja za %1$s</string>
   <string name="tb_sleep_evaluation">Procijenjeni rezultat: %1$s</string>
