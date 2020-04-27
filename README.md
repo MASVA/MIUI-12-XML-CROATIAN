@@ -1,5 +1,5 @@
 
-                 [![MIUI12 logo](https://i.imgur.com/qLcFcYE.png)](https://xiaomi.eu/)
+<dl><dd><img src="https://i.imgur.com/erbkbaC.jpg" border="0" alt="MIUI12_logo"></a></dd></dl>
 
 # MIUI 12-XML-CROATIAN
 

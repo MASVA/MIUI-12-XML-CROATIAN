@@ -20,7 +20,7 @@
         <item>Mi Fit</item>
         <item></item>
     </string-array>
-	     <string-array name="animator_duration_scale_entries">
+	    <string-array name="animator_duration_scale_entries">
         <item>Animacija isključena</item>
         <item>Brzina animacije 0,5x</item>
         <item>Brzina animacije 1x</item>
@@ -58,6 +58,7 @@
         <item>Upotreba odabira sustava (zadano)</item>
         <item>Mono</item>
         <item>Stereo</item>
+	 </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimizirano za kvalitetu audioreprodukcije</item>
         <item>Uravnotežena kvaliteta audioreprodukcije i veze</item>
@@ -91,7 +92,7 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptivni audio</item>
+	    <item>Qualcomm® aptX™ Adaptivni audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
         <item>LHDC V3</item>
         <item>LHDC V2</item>
