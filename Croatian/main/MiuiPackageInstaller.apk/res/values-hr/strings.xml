@@ -1,6 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">Došlo je do problema pri analiziranju paketa.</string>
+  <string name="abc_action_bar_home_description">Idi na početnu</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+  <string name="abc_action_mode_done">Gotovo</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+  <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+  <string name="abc_capital_off">ISKLJUČENO</string>
+  <string name="abc_capital_on">UKLJUČENO</string>
+  <string name="abc_menu_alt_shortcut_label">Alt+</string>
+  <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_enter_shortcut_label">enter</string>
+  <string name="abc_menu_function_shortcut_label">Function+</string>
+  <string name="abc_menu_meta_shortcut_label">Meta+</string>
+  <string name="abc_menu_shift_shortcut_label">Shift+</string>
+  <string name="abc_menu_space_shortcut_label">razmaknica</string>
+  <string name="abc_menu_sym_shortcut_label">Sym+</string>
+  <string name="abc_prepend_shortcut_label">Menu+</string>
+  <string name="abc_search_hint">Pretražite…</string>
+  <string name="abc_searchview_description_clear">Izbriši upit</string>
+  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
+  <string name="abc_searchview_description_submit">Pošalji upit</string>
+  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+  <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+  <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="adb_install_no_network">"Povezivanje s mrežom nije uspjelo. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="adb_install_open">Otvaranje…</string>
   <string name="adb_install_open_error">"Ne mogu otvoriti. Provjerite mrežne postavke i pokušajte ponovo."</string>
@@ -41,6 +68,7 @@
   <string name="btn_text_security_install">Zamijeni sa sigurnom verzijom</string>
   <string name="caller_app">Zahtjev za dopuštenjem od %1$s</string>
   <string name="cancel">Odustani</string>
+  <string name="copy">Kopiraj</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Izlaz</string>
   <string name="cta_dialog_msg">Aplikacija Sigurnost zahtijeva internetsku vezu za dobivanje ažuriranja, kao i pristup lokaciji da radi normalno.</string>
@@ -67,6 +95,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
 
 Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="done">Gotovo</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="external_sources_settings">Postavke</string>
   <string name="external_sources_settings_negative">Ograniči</string>
   <string name="external_sources_settings_positive">Dopusti jednom</string>
@@ -146,6 +175,8 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="miui_clean">Očisti</string>
   <string name="miui_clear_apk_desc">Izbrisani instalacijski paket i preostali podaci(%s)</string>
   <string name="miui_clear_apks">Izbriši instalacijski paket i preostale podatke (%s)</string>
+  <string name="miui_clear_apks_summary">Ukupno %s</string>
+  <string name="miui_clear_apks_title">Automatski očisti instalacijske pakete</string>
   <string name="miui_compatibility_desc">"Ova aplikacija nije optimizirana za vaš uređaj. Ako je instalirate, možda neće raditi ispravno. Pričekajte dok programeri riješe postojeće probleme kompatibilnosti i nakon nekog vremena instaliraju novu verziju aplikacije."</string>
   <string name="miui_delete">Izbriši</string>
   <string name="miui_failed_already_exists">Ova aplikacija je već instalirana</string>
@@ -210,6 +241,14 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="miui_virus_scanning_2">Skeniranje..</string>
   <string name="miui_virus_scanning_3">Skeniranje...</string>
   <string name="miui_virus_title">Visok rizik</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Nema podataka</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Ništa</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nije uspjelo</string>
   <string name="mobil_net_work_warning_cancel">Odustani</string>
   <string name="mobil_net_work_warning_msg">"Sada upotrebljavate mobilne podatke. Instalacija ove aplikacije zahtijeva %1$s mob podataka. Instalirati svejedno?"</string>
   <string name="mobil_net_work_warning_ok">Instaliraj</string>
@@ -221,6 +260,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="no_apps">Nema aplikacija</string>
   <string name="no_new_perms">"Ovo ažuriranje ne zahtijeva nova dopuštenja."</string>
   <string name="no_permissions">Nema dopuštenja</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="ok">U REDU</string>
   <string name="old_sdk_deny_warning">Ova je aplikacija napravljena za stariju verziju Androida. Ako ne dobije dopuštenje, možda više neće funkcionirati kako treba.</string>
   <string name="other_permissions">Ostale mogućnosti aplikacije</string>
@@ -262,6 +302,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="pref_key_antivirus_summary">Provjerite aplikacije na viruse prije instalacije</string>
   <string name="pref_key_app_store_summary">Pitaj za preuzimanje aplikacija iz sigurnih izvora prije instalacije</string>
   <string name="pref_key_app_store_title">Preporučite sigurne verzije</string>
+  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacyPerms">Privatnost</string>
   <string name="privacy_relative">Privatnost</string>
   <string name="reboot_time">Priprema za ponovno pokretanje… (%1$s)</string>
@@ -277,6 +318,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="screen_overlay_button">Otvori postavke</string>
   <string name="screen_overlay_message">Da biste promijenili tu postavku dopuštenja, prvo morate isključiti preklapanje na zaslonu u Postavke &gt; Aplikacije</string>
   <string name="screen_overlay_title">Otkriveno je preklapanje na zaslonu</string>
+  <string name="search_menu_title">Traži</string>
   <string name="security_settings_desc">Dopustiti ovoj aplikaciji da:</string>
   <string name="settings">Postavke</string>
   <string name="settings_warning_dialog_detail">"Biti će zatraženo od vas u sljedećim slučajevima:
@@ -290,7 +332,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="uninstall_activity_text">Aktivnost %1$s dio je sljedeće aplikacije:</string>
   <string name="uninstall_all_blocked_profile_owner">Ta je aplikacija obavezna za neke korisnike ili profile, deinstalirana je za ostale</string>
   <string name="uninstall_application_text">Želite li deinstalirati ovu aplikaciju?</string>
-  <string name="uninstall_application_text_all_users">Želite li deinstalirati tu aplikaciju za <b>sve</b> korisnike? Aplikacija i njezini podaci bit će uklonjeni sa <b>svih</b> korisnika na uređaju.</string>
+  <string name="uninstall_application_text_all_users">Želite li deinstalirati tu aplikaciju za &lt;b&gt;sve&lt;/b&gt; korisnike? Aplikacija i njezini podaci bit &amp;#263;e uklonjeni sa &lt;b&gt;svih&lt;/b&gt; korisnika na ure&amp;#273;aju.</string>
   <string name="uninstall_application_text_user">Želite li deinstalirati tu aplikaciju za korisnika %1$s?</string>
   <string name="uninstall_application_title">Deinstaliraj aplikaciju</string>
   <string name="uninstall_blocked_device_owner">Ta je aplikacija neophodna administratoru uređaja i nije ju moguće deinstalirati.</string>
@@ -317,6 +359,8 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="untrusted_external_source_warning_summary">"Vaš uređaj i osobni podaci osjetljivi su na napade aplikacija instaliranih iz nepoznatih izvora. Omogućujući instalaciju aplikacija iz ovog izvora prihvaćate odgovornost za bilo kakvu štetu ili gubitak podataka koji mogu nastati dok upotrebljavate te aplikacije."</string>
   <string name="user_is_not_allowed_dlg_text">Trenutačni korisnik nema dopuštenje za to deinstaliranje.</string>
   <string name="user_is_not_allowed_dlg_title">Nije dopušteno</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="virus_scan_caller_unknown">Nepoznato</string>
   <string name="virus_scan_clear">Ukloni</string>
   <string name="virus_scan_install">Instaliraj svejedno</string>

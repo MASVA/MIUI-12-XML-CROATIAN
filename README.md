@@ -1,3 +1,6 @@
+
+                 [![MIUI12 logo](https://i.imgur.com/qLcFcYE.png)](https://xiaomi.eu/)
+
 # MIUI 12-XML-CROATIAN
 
  Croatian translation for MIUI 12

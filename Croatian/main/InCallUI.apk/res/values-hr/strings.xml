@@ -2,6 +2,8 @@
 <resources>
   <string name="accept_modify_call_request_prompt">Prihvatiti zahtjev promjene poziva?</string>
   <string name="add_vm_number_str">Dodaj broj</string>
+  <string name="ai_assistant">AI Pomoćnik poziva</string>
+  <string name="ai_assistant_not_installed">Prvo instalirajte AI Pomoćnik poziva</string>
   <string name="antispam_local_marked">Lokalno obilježen</string>
   <string name="antispam_notification_title">Nepoznati broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
@@ -36,8 +38,8 @@
   <string name="call_button_tools_text">Značajke</string>
   <string name="call_contacts_deny_permission_msg">"Odbili ste dopuštenje za čitanje kontakata ne mogu prikazati informacije o kontaktima."</string>
   <string name="call_description_recording">Snimanje…</string>
-  <string name="call_not_support_high_frequency_click">"Ne dodirujte ovu tipku tako često"</string>
   <string name="call_extension_conference_mode">Konferencija</string>
+  <string name="call_not_support_high_frequency_click">"Ne dodirujte ovu tipku tako često"</string>
   <string name="call_record_button_label">Snimanje %s</string>
   <string name="call_record_wait_label">Čekanje</string>
   <string name="call_recording_deny_permission_msg">"Odbili ste dopuštenje za snimanje, ne mogu snimiti."</string>
@@ -143,6 +145,8 @@
   <string name="do_not_ask">Ne prikazuj ponovno</string>
   <string name="do_not_support_video_calls_by_remote">"Video pozivi nisu podržani na drugom uređaju"</string>
   <string name="emergency_call_dialog_number_for_display">Hitan poziv</string>
+  <string name="enter_ai_assistant">Koristi</string>
+  <string name="enter_ai_assistant_tip">"AI omoćnik poziva može preuzeti ovaj poziv i prepisati govor druge osobe umjesto vas. Dozvoliti AI da odgovori?"</string>
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Odbij</string>
   <string name="fraud_call_waring">Budite oprezni: Uvijek provjerite identitet osobe s kojom razgovarate putem telefona ili videopoziva prije odgovora na bilo kakva pitanja koja uključuju vaše osobne informacije.</string>
@@ -178,8 +182,8 @@
   <string name="keep_wait_call_back">Nastavi čekati</string>
   <string name="livetalk_dial">Korištenje paketa nadoplate</string>
   <string name="livetalk_hangup">Prekini poziv</string>
-  <string name="manager_conference_done">Gotovo</string>
   <string name="manageConferenceLabel">Upravljaj konferencijskim pozivom</string>
+  <string name="manager_conference_done">Gotovo</string>
   <string name="miprofile_stranger_card">Nepoznato</string>
   <string name="modify_call_failure_str">"Zahtjev izmjene poziva nije uspio
 "</string>
@@ -256,8 +260,8 @@
   <string name="select_audio_dialog_title">Odaberite način odgovaranja</string>
   <string name="select_one_sim_title">Mogu koristiti samo SIM %1$d</string>
   <string name="select_one_sim_title_for_heduohao">Mogu koristiti samo SIM %1$d Sub %2$d</string>
-  <string name="select_sim_hint_for_heduohao">"Ne mogu koristiti druge, dok je SIM %1$d Sub %2$d u upotrebi."</string>
   <string name="select_sim_hint">"Ne mogu koristiti SIM %2$d, dok je SIM %1$d u uporabi."</string>
+  <string name="select_sim_hint_for_heduohao">"Ne mogu koristiti druge, dok je SIM %1$d Sub %2$d u upotrebi."</string>
   <string name="select_voice_call_sim">Odaberi SIM karticu</string>
   <string name="separate_from_conference">Odvoji poziv</string>
   <string name="sip_call_not_support_record">"Ne mogu snimiti SIP pozive"</string>
@@ -268,14 +272,15 @@
   <string name="unlock_phone">Otključaj uređaj</string>
   <string name="upgrade_vt_prompt">Prebaciti na videopoziv ?</string>
   <string name="user_locked_prompt">Otključaj uređaj za pristup kontaktima.</string>
+  <string name="video_call_downgrade_insufficient_bandwidth">Nedovoljno prometa, prelazak na glasovni poziv</string>
   <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
   <string name="video_conference_caller_info_name">"Video konferencijski poziv od %1$s"</string>
   <string name="video_crbt_title">"Reproducira se zvuk videozapisa drugog partnera"</string>
   <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>
   <string name="voicemail">GOVORNA POŠTA</string>
+  <string name="voicemail_abbreviated">VM:</string>
   <string name="volte_call">VoLTE poziv</string>
   <string name="volume_boost_text">Glasnoća uspješno pojačana</string>
-  <string name="voicemail_abbreviated">VM:</string>
   <string name="wait_prompt_str">"Poslati sljedeće tonove?"
 "</string>
   <string name="waiting_close_airplane_mode">Samo trenutak…</string>

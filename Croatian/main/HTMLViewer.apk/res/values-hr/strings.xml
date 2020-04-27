@@ -10,6 +10,14 @@
 idite na %s"</string>
   <string name="loading">Učitavanje…</string>
   <string name="mibi_license">Mi Kredit Uvjeti Pružanja Usluge</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Nema podataka</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Ništa</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nije uspjelo</string>
   <string name="open_wifi_connect_and_use_data_summary">Uporaba mobilnih podataka. Dodirnite za prebacivanje na WLAN.</string>
   <string name="open_wifi_connect_summary">Dodirnite za prikaz detalja.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
@@ -19,6 +27,7 @@ idite na %s"</string>
   <string name="poco_privacy_policy">POCO Launcher Pravila o Privatnosti &amp; POCO Launcher Korisnički sporazum</string>
   <string name="policy_name">Pravilo:%s</string>
   <string name="pre_installed_apps">Predinstalirane aplikacije</string>
+    <string name="privacy_station_title">Privatnost u Xiaomi</string>
   <string name="settings_ad_loading">Samo trenutak…</string>
   <string name="settings_ad_loading_unavailable">"Ne nogu učitati."</string>
   <string name="settings_license_activity_loading">Samo trenutak…</string>

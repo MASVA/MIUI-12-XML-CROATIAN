@@ -148,6 +148,14 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="menu_item_sort_name">Naziv</string>
   <string name="menu_item_sort_size">Veličina</string>
   <string name="miui_device_name">Android</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="msg_alert_cancel_restore">Vraćanje stavki. Zaustaviti?</string>
   <string name="msg_alert_restore_error">Ne mogu vratiti stavke sa Mi Clouda. Pokušaj ponovno.</string>
   <string name="msg_restore_start_with_metered_network">"Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s of files will be downloaded.&lt;/font&gt;&lt;/b&gt;"</string>

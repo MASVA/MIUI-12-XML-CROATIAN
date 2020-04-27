@@ -84,4 +84,16 @@
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
     </plurals>
+	<plurals name="minute_text">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="worldcolock_timezone_gap_fast">
+        <item quantity="other">%s sati unaprijed</item>
+        <item quantity="one">%s sat unaprijed</item>
+     </plurals>
+     <plurals name="worldcolock_timezone_gap_slow">
+        <item quantity="other">%s sati unatrag</item>
+        <item quantity="one">%s sat unatrag</item>
+     </plurals>
 </resources>

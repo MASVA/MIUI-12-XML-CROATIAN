@@ -64,4 +64,16 @@
         <item quantity="other">Stavke: %d</item>
         <item quantity="one">%d stavka</item>
      </plurals>
+	 <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d stavki</item>
+        <item quantity="one">%1$d/%2$d stavka</item>
+     </plurals>
+     <plurals name="new_task_backup_failed">
+        <item quantity="other">"Sig. kopija uspješno napravljena. Ne mogu sigurnosno kopirati %d stavki."</item>
+        <item quantity="one">"Sig. kopija uspješno napravljena. Ne mogu sigurnosno kopirati %d stavku."</item>
+     </plurals>
+     <plurals name="new_task_restore_failed">
+        <item quantity="other">"Uspješno vraćeno. Ne mogu vratiti %d stavki."</item>
+        <item quantity="one">"Uspješno vraćeno. Ne mogu vratiti %d stavku."</item>
+     </plurals>
 </resources>

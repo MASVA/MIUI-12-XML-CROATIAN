@@ -101,21 +101,21 @@
   <string name="bluetooth_battery_level">%1$s baterije</string>
   <string name="bluetooth_battery_level_untethered">L: baterija na %1$s, D: baterija na %2$s</string>
   <string name="bluetooth_connected">Povezano: %1$s</string>
-  <string name="bluetooth_connected_battery_level">Povezano, baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Povezano (bez medija): %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija), baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset">Povezano (bez telefona): %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona), baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona i medija): %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona i medija), baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama): %1$s</string>
+  <string name="bluetooth_connected_battery_level">Povezano | baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Povezano (bez medija)%1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija) | Baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset">Povezano (bez telefona)%1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona) | Baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona ili medija) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona ili medija) | Baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama)%1$s</string>
   <string name="bluetooth_connecting">Povezivanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogući apsolutnu glasnoću</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su, primjerice, neprihvatljiva glasnoća ili nepostojanje kontrole.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su neprihvatljiva glasnoća ili nepostojanje kontrole.</string>  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
   <string name="bluetooth_disconnected">Niste povezani</string>
   <string name="bluetooth_disconnecting">Isključivanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN Poslužitelj</string>
-  <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>
+  <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>  <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
@@ -520,7 +520,6 @@ Audio"</string>
   <string name="speed_label_very_fast">Vrlo brzo</string>
   <string name="speed_label_very_slow">Vrlo sporo</string>
   <string name="standby_bucket_summary">"Stanje aplikacije u mirovanju:  %s"</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_unavailable">Nije dostupno</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>

@@ -534,7 +534,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="month_september">Rujan</string>
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
-  <string name="more">Previše</string>
+  <string name="more">Više</string>
   <string name="more_card">Još kartica</string>
   <string name="morning">"AM "</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
@@ -542,7 +542,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
-  <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
+  <string name="mtrl_picker_date_header_unselected">  </string>
   <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
   <string name="mtrl_picker_range_header_title">Odaberite raspon datuma</string>
   <string name="mtrl_picker_range_header_unselected">Datum početka - Datum završetka</string>
@@ -671,8 +671,8 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="sedentaty_hazard_description">Sedentarno uzrokuje mnoge zdravstvene probleme. Stanite najmanje 1 minutu na sat i dosegnite cilj od 12 sati stajanja dnevno, daleko od sjedilačkih opasnosti.</string>
   <string name="select_menstruation_end_date">Odaberite datum završetka ove menstruacije</string>
   <string name="select_null">Ništa nije odabrano</string>
-  <string name="select_target">Select Target</string>
-  <string name="send_diagnosis_log">Send diagnosis log</string>
+  <string name="select_target">Odaberi cilj</string>
+  <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
   <string name="sending">Slanje…</string>
   <string name="setting">Postavke</string>
   <string name="setting_data_cloud_sync_tip">Pomoću ove značajke možete sigurnosno kopirati stavke s ovog uređaja i sinkronizirati zdravstvene podatke s drugih uređaja</string>
@@ -1106,7 +1106,7 @@ podatke o spavanju"</string>
   <string name="tracking_progress_labe_up_refresh">Povuci za osvježiti</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
-  <string name="tuesday_shortest">u</string>
+  <string name="tuesday_shortest">U</string>
   <string name="turn_count">Uključeno</string>
   <string name="turn_on_necessary_permissions">Za praćenje spavanja potrebna su dopuštenja.</string>
   <string name="unable_record_future_menstruation">"Ne mogu se zabilježiti buduće menstruacije"</string>

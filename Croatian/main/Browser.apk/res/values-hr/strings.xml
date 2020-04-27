@@ -1597,8 +1597,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="v5_deselect_all">Poništi</string>
   <string name="v5_edit_mode_title_empty">0 odabrano</string>
   <string name="v5_select_all">Odaberi sve</string>
-  <string name="v7_preference_off">ISKLJ.</string>
-  <string name="v7_preference_on">UKLJ.</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="version_check_button_checking">Provjeravam…</string>
   <string name="version_check_button_default">Provjeri za ažuriranja</string>
   <string name="version_check_button_download_failed">Nastavi s preuzimanjem</string>

@@ -8,4 +8,8 @@
         <item quantity="other">Pritisnite i držite bilo koje područje slušalica osjetljivo na dodir na %1$d sek.</item>
         <item quantity="one">Pritisnite i držite bilo koje područje slušalica osjetljivo na dodir na %1$d sekundu</item>
      </plurals>
+	<plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezano je %1$d uređaja</item>
+        <item quantity="one">Povezan je %1$d uređaj</item>
+    </plurals>
 </resources>

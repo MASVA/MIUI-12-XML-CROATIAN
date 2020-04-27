@@ -33,7 +33,7 @@
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
-   <string name="aod_lock_screen_date_12_smartcover">"EE
+  <string name="aod_lock_screen_date_12_smartcover">"EE
 d/M"</string>
   <string name="aod_lock_screen_date_signature">d/M</string>
   <string name="aod_lock_screen_date_smartcover">"EE
@@ -51,11 +51,12 @@ d/M"</string>
   <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
   <string name="aod_to_close">Isključi</string>
+  <string name="app_name">Prednosti</string>
   <string name="apply">Primjeni</string>
   <string name="apply_succeed">Uspješno postavljeno</string>
   <string name="background_icon">Pozadina</string>
-  <string name="black_white_clock_panel">Sat</string>
   <string name="below_image">Dolje</string>
+  <string name="black_white_clock_panel">Sat</string>
   <string name="btn_know">Razumijem</string>
   <string name="cancel">Odustani</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
@@ -69,6 +70,7 @@ d/M"</string>
   <string name="clock_panel_icon">Izgled sata</string>
   <string name="color_change_with_time_description">Promijeni boju teksta automatski tijekom vremena</string>
   <string name="color_change_with_time_title">Promijeni boju automatski</string>
+  <string name="copy">Kopiraj</string>
   <string name="custom_image">Vlastita slika</string>
   <string name="deep_space_planet">Doba dana</string>
   <string name="deep_space_planet_des">\"Doba dana\" se odražava na svjetlosne promjene koje se događaju oko vas tokom dana. Izlasci i zalasci sunca u ovoj temi sinkroniziraju se s vašom lokacijom.</string>
@@ -78,9 +80,10 @@ d/M"</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne prikazuj stavke radi uštede energije"</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="evening">PM</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-  <string name="icon_content_description">Ikona dijaloga</string>
   <string name="font_thickness">Podebljani font</string>
+  <string name="icon_content_description">Ikona dijaloga</string>
   <string name="large_time">Veliki sat</string>
   <string name="letter_space">Razmak između slova</string>
   <string name="line_space">Razmak između redova</string>
@@ -172,6 +175,7 @@ d/M"</string>
   <string name="my_style_title">Moja tema</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="notification_anim_pulse">Pulsno</string>
   <string name="notification_anim_rhythm">Ritam</string>
   <string name="notification_anim_star">Starlight</string>
@@ -187,6 +191,7 @@ d/M"</string>
   <string name="photo_editor_saving">Spremanje…</string>
   <string name="please_input_signature">Unesite potpis</string>
   <string name="pm">PM</string>
+  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -219,18 +224,20 @@ d/M"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="super_wallpaper_date">"EEa
+dd/MM"</string>
   <string name="temporary_style">Za 10 sekundi nakon što dodirnete</string>
-  <string name="thursday">Četvrtak</string>
-  <string name="thursday_short">Čet</string>
-  <string name="thursday_shortest">Č</string>
-  <string name="time_picker_dialog_title">Postavi vrijeme</string>
-  <string name="time_picker_label_hour">H</string>
-  <string name="time_picker_label_minute">M</string>
   <string name="text_color">Boja teksta</string>
   <string name="text_length_exceed_limit_alert">*Tekst koji ste unijeli je predugačak</string>
   <string name="text_size">Veličina teksta</string>
   <string name="theme_cate_title">Tema</string>
+  <string name="thursday">Četvrtak</string>
+  <string name="thursday_short">Čet</string>
+  <string name="thursday_shortest">Č</string>
   <string name="time_location">Položaj sata</string>
+  <string name="time_picker_dialog_title">Postavi vrijeme</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Raspored</string>
   <string name="tip_to_open_aod_mode">Always-on zaslon je isključen. Uključiti ga sada?</string>
@@ -240,6 +247,8 @@ d/M"</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

@@ -36,4 +36,8 @@
         <item quantity="other">Pronađeno rezultata: %d</item>
         <item quantity="one">Pronađen 1 rezultat</item>
     </plurals>
+	<plurals name="number_items">
+        <item quantity="other">stavki %s</item>
+        <item quantity="one">%s stavka</item>
+     </plurals>
 </resources> 
