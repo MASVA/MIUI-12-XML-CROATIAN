@@ -79,6 +79,8 @@
   <string name="locale_picker_title">Odaberite vašu regiju</string>
   <string name="location_introduction">Usluge utemeljene na lokaciji pronalaze proizvode i usluge u vašoj blizini.</string>
   <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
+  <string name="mint_keyboard_oobe_checkbox">"Pročitao sam i prihvatio Pravila o privatnosti Mint Keyboard"</string>
+  <string name="mint_keyboard_oobe_terms">Pravila o privatnosti Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o Privatnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
@@ -155,6 +157,8 @@ Isključiti personalizirane oglase svejedno?"</string>
   <string name="permission_virusscan_introduction">Za provođenje skeniranja virusa i optimizaciju vašeg uređaja</string>
   <string name="permission_xunlei_introduction">Za prijavu i upravljanje sistemskim računima u svrhu pružanja Xunlei usluga</string>
   <string name="poco_agree_terms_other">(Uključujući POCO Launcher Pravila o Privatnosti i Korisnički Sporazum)</string>
+  <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o privatnosti</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher Korisnički sporazum</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
@@ -227,6 +231,9 @@ Morate se složiti s Facemoji Pravila o Privatnosti prije korištenja ove znača
   <string name="terms_of_use_lable_default_input_method_kika">"
 
 Morate se složiti s Kika Pravila o Privatnosti prije korištenja ove značajke."</string>
+  <string name="terms_of_use_lable_default_input_method_mint">"
+
+Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Keyboard."</string>
   <string name="terms_of_use_lable_gms">, Usluge Google Playa</string>
   <string name="terms_of_use_lable_smart_cards">, Pametne kartice</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o Privatnosti</string>

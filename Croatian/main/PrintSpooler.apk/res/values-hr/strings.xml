@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_convert_pdf_alert_message">Pretvaranje datoteka osigurava WPS Office</string>
+  <string name="activity_convert_pdf_alert_title">Pretvaranje datoteke prije ispisa…</string>
+  <string name="activity_jump_market_alert_install_message">"Instalirajte WPS Office kako biste pretvorili ovu datoteku i pripremili je za ispis. Po završetku instalacije morat ćete ponovo početi ispisivati. Instalirati sada?"</string>
+  <string name="activity_jump_market_alert_install_positive_button">Instaliraj</string>
+  <string name="activity_jump_market_alert_title">Pažnja</string>
+  <string name="activity_jump_market_alert_update_message">"Ažurirajte WPS Office kako biste pretvorili ovu datoteku i pripremili je za ispis. Nakon što instalirate novu verziju morat ćete ponovo početi ispisivati. Ažurirati sada?"</string>
+  <string name="activity_jump_market_alert_update_positive_button">Ažuriraj</string>
   <string name="add_print_service_label">+</string>
   <string name="all_printers">Svi pisači…</string>
   <string name="all_printers_label">Svi pisači</string>
@@ -12,8 +19,8 @@
   <string name="cancel">Odustani</string>
   <string name="cancel_print">Otkaži zadatak</string>
   <string name="cancelling_notification_title_template">Otkazivanje zadatka %1$s</string>
-  <string name="choose_print_service">Odaberite uslugu ispisa</string>
   <string name="cannot_add_printer">Ne možete dodati pisače</string>
+  <string name="choose_print_service">Odaberite uslugu ispisa</string>
   <string name="collapse_handle">Ručica za sažimanje</string>
   <string name="connectio_delay_content">Možda ćete morati potvrditi vezu na pisaču.</string>
   <string name="connectio_help_title">Povezivanje s pisačem</string>
@@ -42,6 +49,8 @@
   <string name="label_paper_size_summary">Veličina papira:</string>
   <string name="legacy_dhcp_client_summary">Koristite DHCP klijent iz Lollipop-a umjesto novog Android DHCP klijenta.</string>
   <string name="more_options_button">Više opcija</string>
+  <string name="no_connection_to_printer">Nema veze s pisačem</string>
+  <string name="notification_channel_failure">Neuspjeli zadaci ispisa</string>
   <string name="notification_channel_progress">Zadaci ispisa u tijeku</string>
   <string name="open">Uključi</string>
   <string name="open_print_service">Omogući ispis</string>
@@ -49,25 +58,23 @@
   <string name="open_wlan">Uključi WLAN</string>
   <string name="open_wlan_tips">Uključi WLAN za brže pronalaženje pisača.</string>
   <string name="other_printer">Ostali pisači</string>
-  <string name="notification_channel_failure">Neuspjeli zadaci ispisa</string>
-  <string name="no_connection_to_printer">Nema veze s pisačem</string>
   <string name="page_description_template">Stranica %1$d od %2$d</string>
-  <string name="please_choose_printer">Najprije odaberite pisač.</string>
   <string name="pages_range_example">npr. 1 – 5,8,11 – 13</string>
   <string name="permdesc_accessAllPrintJobs">Nositelju omogućuje pristup zadacima ispisa stvorenih od druge aplikacije. Ne bi smjelo biti potrebno za normalne aplikacije.</string>
   <string name="permdesc_startPrintServiceConfigActivity">Nositelju omogućuje pokretanje konfiguracije poslova usluge ispisa. Ne bi smjelo biti potrebno za normalne aplikacije.</string>
   <string name="permlab_accessAllPrintJobs">pristup svim zadatacima ispisa</string>
   <string name="permlab_startPrintServiceConfigActivity">pokretanje konfiguriacije aktivnosti usluga ispisa</string>
+  <string name="please_choose_printer">Najprije odaberite pisač.</string>
   <string name="print_add_printer">Dodaj pisač</string>
   <string name="print_button">Ispis</string>
   <string name="print_cannot_load_page">Pregled nije dostupan</string>
   <string name="print_dialog">Dijaloški okvir za ispis</string>
+  <string name="print_error">"Nije moguće ispisati zbog pogreške pisača"</string>
   <string name="print_error_default_message">Nažalost, to nije uspjelo. Pokušajte ponovo.</string>
-  <string name="print_fail">"Nije moguće ispisati"</string>
-  <string name="print_fail_network_error">"Nije moguće ispisati. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="print_error_printer_unavailable">Pisač trenutačno nije dostupan.</string>
   <string name="print_error_retry">Pokušajte ponovno</string>
-  <string name="print_error">"Nije moguće ispisati zbog pogreške pisača"</string>
+  <string name="print_fail">"Nije moguće ispisati"</string>
+  <string name="print_fail_network_error">"Nije moguće ispisati. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="print_forget_printer">Zaboravite pisač</string>
   <string name="print_help_label">Pomoć</string>
   <string name="print_help_tip">Provjerite jesu li i telefon i pisač spojeni na istu WLAN mrežu ili je Izravni WLAN uključen. Pogledajte \"Pomoć\".</string>
@@ -110,12 +117,14 @@
   <string name="search">Pretraživanje</string>
   <string name="search_brand">Pretraživanje</string>
   <string name="select_to_add_printers">Odaberite da biste dodali pisač</string>
-  <string name="start_print">Ispis</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
   <string name="show_cpu_usage_summary">Postav. element sa trenutnom upotrebom procesora</string>
+  <string name="start_print">Ispis</string>
   <string name="summary_template">Sažetak, kopije %1$s, veličina papira %2$s</string>
   <string name="system_print_service_help">O usluzi ispisa</string>
   <string name="template_all_pages">Sve stranice (%1$s)</string>
   <string name="template_page_range">Raspon od %1$s</string>
   <string name="wifi_direct">Izravni WLAN</string>
+  <string name="wps_convert_error_toast_text">"Nije moguće pretvoriti datoteku zbog pogreške u formatu"</string>
+  <string name="wps_convert_too_large_and_wait_toast_text">Pretvorba može potrajati duže zbog veće veličine datoteke. Pretvaranje…</string>
 </resources>

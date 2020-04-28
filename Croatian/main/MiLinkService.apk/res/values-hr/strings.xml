@@ -14,6 +14,7 @@
   <string name="dialog_connect_verify_perssion_fail">"Nije moguće autorizirati emitiranje na vašem televizoru. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="dialog_connected">Povezano</string>
   <string name="dialog_connecting">Povezivanje…</string>
+  <string name="dialog_nfc_cast_wifi_off">Uključite WLAN kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videozapise ili glazbu</string>
   <string name="dialog_open_wifi_bt">Uključi</string>
@@ -127,5 +128,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="toast_guide_title">Istražite nove značajke</string>
   <string name="toast_msg_for_multi_window">Ova funkcija nije dostupna u načinu s podijeljenim zaslonom</string>
   <string name="toast_msg_for_small_window">Nakon otvaranja aplikacije koju želite emitirati, koristite funkciju projekcije malog prozora, prikazana aplikacija neće se prekinuti, a mobilni telefon može raditi s drugim aplikacijama.</string>
+  <string name="toast_nfc_dont_move">"Ne mičite telefon predaleko"</string>
   <string name="toast_title_for_small_window">Koristite mali prozor za emitiranje zaslona u aplikaciji.</string>
+  <string name="toast_turn_off_hotspot_before_cast">Isključite prijenosni hotspot prije emitiranja</string>
 </resources>

@@ -63,7 +63,7 @@
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="function_description">About this feature</string>
+  <string name="function_description">O ovoj značajki</string>
   <string name="hint_search_all">Pretraga aplikacija</string>
   <string name="hint_search_in_disabled_apps">"Traži aplikacije koje ne mogu prikazati obavijesti"</string>
   <string name="hint_search_in_enabled_apps">Traži aplikacije koje mogu prikazati obavijesti</string>

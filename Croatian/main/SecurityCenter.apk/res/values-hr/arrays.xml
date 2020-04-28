@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="daily_brand">
+        <item>Vlastito</item>
+        <item>Mi Fan kartica</item>
+        <item>Xiao Tiansheng kartica</item>
+        <item>Tencent King kartica</item>
+     </string-array>
+     <string-array name="debug_open_intercept">
+        <item>Moći ćete pristupiti i uređivati datoteke na vašem uređaju putem računala.</item>
+        <item>Instaliranje aplikacija na vaš uređaj bez vašeg izričitog dopuštenja bit će dopušteno.</item>
+        <item>"Moći ćete daljinski pratiti i snimati sadržaj vašeg zaslona."</item>
+        <item>Moći ćete pristupiti detaljnim informacijama o vašem uređaju.</item>
+     </string-array>
+     <string-array name="miui_optimization_close_intercept">
+        <item>Važno: Više aplikacija sustava može prestati raditi ispravno.</item>
+        <item>Izgled teksta, računi i sadržaj možda se neće prikazati ispravno.</item>
+     </string-array>
+     <string-array name="perm_intercept_notification">
+        <item>Pročitajte sve svoje obavijesti, uključujući sadržaj vaših tekstualnih poruka i drugih stavki koje mogu sadržavati osobne podatke</item>
+        <item>Ograničite dopuštenja obavijesti za neke aplikacije</item>
+        <item>Simulirajte dodirivanje obavijesti i otvaranje aplikacija</item>
+        <item>Uključite i isključite DND način</item>
+     </string-array>
+     <string-array name="perm_intercept_statitics">
+        <item>Prikupite podatke o svojim interesima i ponašanju tako što ćete naučiti koje aplikacije koristite i koliko često ih koristite</item>
+        <item>Pristupite postavkama vašeg jezika i jeziku, kao i drugim pojedinostima</item>
+     </string-array>
+     <string-array name="perm_intercept_unknown_source">
+        <item>"Aplikacije treće strane koje GetApps ne potvrdi mogu uzrokovati višestruke probleme i smanjiti stabilnost sustava."</item>
+        <item>Neke aplikacije trećih strana mogu sadržavati zlonamjerni softver koji vaše osobne podatke dovodi u opasnost.</item>
+     </string-array>
+     <string-array name="priority_storage_entries">
+        <item>Unutarnja pohrana</item>
+        <item>Vanjska pohrana</item>
+     </string-array>
 	<string-array name="date_of_traffic_cmcc">
          <item>"Ovaj tjedan "</item>
          <item>"Danas "</item>

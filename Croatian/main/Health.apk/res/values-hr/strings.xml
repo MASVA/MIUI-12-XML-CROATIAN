@@ -542,7 +542,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
-  <string name="mtrl_picker_date_header_unselected">  </string>
+  <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
   <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
   <string name="mtrl_picker_range_header_title">Odaberite raspon datuma</string>
   <string name="mtrl_picker_range_header_unselected">Datum početka - Datum završetka</string>
