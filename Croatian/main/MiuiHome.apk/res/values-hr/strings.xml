@@ -1,10 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_menu_item_split_disable">"Aplikacija ne podržava podijeljeni zaslon."</string>
-  <string name="accessibility_menu_item_split_enable">Aplikacija podržava podijeljeni zaslon</string>
-  <string name="accessibility_recents_item_open_app_info">Otvorite podatke o aplikaciji %s.</string>
-  <string name="accessibility_splite_screen_primary">Dodano kao primarna aplikacija na podijeljenom zaslonu</string>
-  <string name="accessibility_splite_screen_secondary">Dodano kao sekundarna aplikacija na podijeljenom zaslonu</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Natrag</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>
@@ -32,6 +27,16 @@
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="accessibility_menu_item_split_disable">"Aplikacija ne podržava podijeljeni zaslon."</string>
+  <string name="accessibility_menu_item_split_enable">Aplikacija podržava podijeljeni zaslon</string>
+  <string name="accessibility_recent_task_enter">Nedavno otvoreno</string>
+  <string name="accessibility_recent_task_exit">Nedavno zatvoreno</string>
+  <string name="accessibility_recent_task_locked_state">Zaključano</string>
+  <string name="accessibility_recent_task_memory_info">Ukupan RAM: %2$s | Dostupan RAM: %1$s. Dvaput dodirnite za brisanje.</string>
+  <string name="accessibility_recent_task_unlocked_state">Otključano</string>
+  <string name="accessibility_recents_item_open_app_info">Otvorite podatke o aplikaciji %s.</string>
+  <string name="accessibility_splite_screen_primary">Dodano kao primarna aplikacija na podijeljenom zaslonu</string>
+  <string name="accessibility_splite_screen_secondary">Dodano kao sekundarna aplikacija na podijeljenom zaslonu</string>
   <string name="action_add_to_workspace">Dodaj u radni prostor</string>
   <string name="activity_not_found">"Aplikacija nije instalirana na vašem uređaju"</string>
   <string name="activity_not_unlocked">Pričekajte da se uređaj potpuno ponovno pokrene prije otvaranja aplikacija</string>
@@ -39,6 +44,7 @@
   <string name="add_custom_category">Prilagodi</string>
   <string name="add_screen">Dodaj zaslon</string>
   <string name="added_all_category">Sve su aplikacije uspješno dodane</string>
+  <string name="additional_settings">Dodatne postavke</string>
   <string name="all_app_category_all">Sve</string>
   <string name="all_app_category_communication">Komunikacija</string>
   <string name="all_app_category_default">Kategorija</string>
@@ -52,7 +58,6 @@
   <string name="all_app_category_photography">Fotografija</string>
   <string name="all_app_category_shopping">Kupovina</string>
   <string name="all_app_category_tools">Alati</string>
-  <string name="additional_settings">Dodatne postavke</string>
   <string name="all_apps">Sve aplikacije</string>
   <string name="all_apps_no_search_results">"Ne mogu pronaći rezultate"</string>
   <string name="all_apps_search_app">Traži aplikacije</string>
@@ -130,8 +135,8 @@
   <string name="apply_as_lockwallpaper_action">Postavi</string>
   <string name="apply_as_wallpaper">Postavi za Početni zaslon</string>
   <string name="apply_both">Postavi oboje</string>
-  <string name="apply_text">POSTAVI</string>
   <string name="apply_negative_action">"Odustani"</string>
+  <string name="apply_text">POSTAVI</string>
   <string name="aqi_quality_index_dangerous">Opasno</string>
   <string name="aqi_quality_index_good">Dobro</string>
   <string name="aqi_quality_index_hazardous">Riskantno</string>
@@ -177,6 +182,7 @@
   <string name="content_description_for_shortcut_icon_checked">%1$s, provjereno</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, nije provjereno</string>
   <string name="content_description_workspace_thumbnail_item">Pregled zaslona, stranica %1$s</string>
+  <string name="copy">Kopiraj</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
@@ -228,6 +234,7 @@
   <string name="emptyplaylist">Dodirni za dodavanje pjesama</string>
   <string name="enable_wallpaper_scroll">Uključi pomicanje slike</string>
   <string name="encryption">Šifriranje</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="failed_to_delete_temporary">"Ne mogu ukloniti"</string>
   <string name="failed_to_drop">"Ne mogu premjestiti"</string>
   <string name="failed_to_drop_widget_invalid">Ovaj widget nije valjan</string>
@@ -307,9 +314,9 @@
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
+  <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_global_search_mode_title">Globalno pretraživanje</string>
   <string name="launcher_global_search_provider_title">Globalna usluga pretraživanja</string>
-  <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_not_exist">Došlo je do pogreške, vratite se na Poč. zaslon i pokušajte ponovno.</string>
   <string name="launcher_pull_down_title">Prijeđite prstom prema gore na Poč. zaslonu</string>
   <string name="launcher_search_bar_title">Traka za pretraživanje na Poč. zaslonu</string>
@@ -359,12 +366,21 @@
   <string name="minus_one_screen">Zaklj. aplikacija</string>
   <string name="minus_one_screen_none">Ništa</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
   <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje.</string>
   <string name="no_detail_page">Nema detalja stranice</string>
   <string name="no_space_toast">Nema dovoljno prostora</string>
   <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>
   <string name="normal_wallpaper">Slika pozadine</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="notification_installed">Uspješno instalirano</string>
   <string name="notification_open_button">Otvori</string>
   <string name="notification_reset_description">%1$s%1$s Ne mogu resetirati Pokretač na %2$s</string>
@@ -408,6 +424,7 @@
   <string name="pref_render_in_truecolor_title">Visoka kvaliteta grafike</string>
   <string name="pref_screen_transformation_type_title">Efekat prijelaza zaslona</string>
   <string name="pref_wallpaper_scroll_type_title">Poravnanje slike pozadine</string>
+  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preferences_general_title">Dodatne postavke</string>
   <string name="preferences_title">Postavke Pokretača</string>
   <string name="preferred_app_settings_not_selected">Nije odabrano</string>
@@ -426,7 +443,10 @@
   <string name="recents_empty_message">Nema nedavnih stavki</string>
   <string name="recents_empty_message_dismissed_all">"Sve ste očistili"</string>
   <string name="recents_empty_message_multi_window">Otvaranje aplikacija s Poč. zaslona</string>
+  <string name="recents_exit_multi_window_mode">Izlaz</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Ne mogu koristiti podijeljeni zaslon tijekom emitiranja"</string>
+  <string name="recents_incompatible_app_message">"Ova aplikacija ne podržava Podijeljeni zaslon"</string>
+  <string name="recents_smallwindow_text">Otpusti za dodavanje</string>
   <string name="recents_task_screening">Emitiranje</string>
   <string name="recents_title_app_manager">Upravljanje aplikacijama</string>
   <string name="recents_title_game">Igre</string>
@@ -434,6 +454,7 @@
   <string name="recents_title_garbage_deepclean">Duboko čišćenje</string>
   <string name="recents_title_market">Pronađi aplikacije</string>
   <string name="recents_title_security_scan">Sigurnosno skeniranje</string>
+  <string name="recents_tv_small_window_text">Plutajući prozori</string>
   <string name="recommend_app">Prijedlozi aplikacija</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Nema podataka</string>
@@ -457,10 +478,10 @@
   <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
   <string name="screen_locked_toast">Raspored Poč. zaslona je zaključan.</string>
   <string name="screen_number">Zaslon %d</string>
+  <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="search_in_apps_store">Traži \"%1$s\" u %2$s</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_no_result">"Ne mogu pronaći rezultate"</string>
-  <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
@@ -479,6 +500,14 @@
   <string name="show_mem_info_title">Prikaži status memorije</string>
   <string name="show_most_popular_apps_you_used">Prikaži najčešće korištene aplikacije u ladici</string>
   <string name="show_recents_recommend_title">Prikaži prijedloge</string>
+  <string name="slide_to_open_newhome">Povuci gore za otvaranje Centra za kontrolu</string>
+  <string name="small_window_button_complete">Gotovo</string>
+  <string name="small_window_edit_content">Možete dodati do %d aplikacija</string>
+  <string name="small_window_edit_title">Trenutne aplikacije</string>
+  <string name="small_window_empty">Odaberite iz dostupnih aplikacija</string>
+  <string name="small_window_select_title">Dostupne aplikacije</string>
+  <string name="small_window_title_text">Dodirnite za otvaranje plutajućeg prozora</string>
+  <string name="small_window_toast">Možete dodati do %d aplikacija</string>
   <string name="sort_by_abc">Poredaj po nazivu</string>
   <string name="sort_by_frequency">Poredaj po korištenju</string>
   <string name="sort_by_not_defined">Automatski poredaj</string>
@@ -527,6 +556,8 @@
   <string name="unnamed_folder_name">Mapa</string>
   <string name="unstable_dialog_content">"Ovo je testna verzija sustava Android, te je podložna promjenama. Korištenje ove verzije uređena je licencnim ugovorom za pregled SDK za Android. Testna verzija sustava Android nije stabilno izdanje i može sadržavati pogreške i nedostatke koji mogu dovesti do oštećenja računalnih sustava, uređaja ili podataka. Testna verzija sustava Android ne podliježe istom testiranju kao tvornički OS i može uzrokovati prestanak rada ovog uređaja, instaliranih usluga ili aplikacija."</string>
   <string name="use_theme_screen_cells_title">Dopusti temi da poništi izgled zaslona</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_auto_change_title">Zaklj. zaslon</string>
   <string name="wallpaper_failed_message">"Ne mogu postaviti sliku pozadine"</string>
