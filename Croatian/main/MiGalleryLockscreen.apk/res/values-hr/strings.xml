@@ -121,11 +121,14 @@
   <string name="change_activate_email">Promijeni adresu e-pošte</string>
   <string name="change_password">Promijeni zaporku</string>
   <string name="change_time">Promjeni sliku pozadine</string>
-  <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="chip_text">Chip tekst</string>
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">"Ne, izraditi ću račun"</string>
   <string name="clear_history">Izbriši povijest pretraživanja</string>
   <string name="clear_search_edittext">Izbriši</string>
+  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="close_gallery">Isključi</string>
   <string name="collect_diagnosis_log">Prikupi zapise</string>
   <string name="comment_pop_cancel">Ne sada</string>
@@ -232,9 +235,11 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="enable_toast_cwo">Wallpaper Carousel je uključen i dijaprojekcija je pokrenuta</string>
   <string name="enable_toast_subscribe">Wallpaper Carousel je uključen i pretplate su aktivirane.</string>
   <string name="error_dup_binded_email">Ova je adresa e-pošte već povezana s drugim Mi Računom.</string>
+  <string name="error_icon_content_description">Pogreška</string>
   <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli nije važeća.</string>
   <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
   <string name="explorer_activity_title">Wallpaper Carousel</string>
+  <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
   <string name="favor_list_no_data">Nema stavki.</string>
   <string name="favor_list_title">Favoriti</string>
@@ -252,6 +257,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="history_list_no_data">Nema stavki</string>
   <string name="hour_1">Svaki sat</string>
   <string name="hour_3">Svaka 3 sata</string>
+  <string name="icon_content_description">Ikona dijaloga</string>
   <string name="idbct_desc">Prilagodite Wallpaper Carousel prema vrstama mreže</string>
   <string name="idbct_opt_auto_select_desc_text">Preuzmite standardne slike pomoću mobilnih podataka i HD slike putem WLAN veze</string>
   <string name="idbct_opt_auto_select_main_text">Autom.</string>
@@ -325,6 +331,32 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="manage">Upravljaj</string>
   <string name="minutes_15">Svakih 15 min.</string>
   <string name="minutes_5">Svakih 5 min.</string>
+  <string name="miui_clock_city_name_local">Lokalno</string>
+  <string name="miui_clock_city_name_second">Drugi sat</string>
+  <string name="miui_clock_fancy_colon"></string>
+  <string name="miui_digital_clock_dot">:</string>
+  <string name="miui_lock_screen_date">EEEE, MMMM d</string>
+  <string name="miui_lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+MMMM d"</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+MMMM d"</string>
+  <string name="miui_lock_screen_large_date">"EEE
+M/dd"</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+M/dd"</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mode_auto_desc">Uključite Wallpaper Carousel za automatsko primanje novih slika</string>
   <string name="mode_auto_desc_open">Automatsko primanje novih slika</string>
   <string name="mode_auto_desc_selected">Automatsko primanje novih slika</string>
@@ -342,7 +374,38 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="morning_greet_mark">" Mi Morning Pozdravi"</string>
   <string name="morning_greet_title">Jutarnji pozdravi</string>
   <string name="morning_picture_tab">Slika</string>
+  <string name="mtrl_badge_numberless_content_description">New notification</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+  <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+  <string name="mtrl_picker_date_header_selected">%1$s</string>
+  <string name="mtrl_picker_date_header_title">Odaberite datum</string>
+  <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>
+  <string name="mtrl_picker_day_of_week_column_header">Kolona dana: %1$s</string>
+  <string name="mtrl_picker_invalid_format">Pogrešan format.</string>
+  <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
+  <string name="mtrl_picker_invalid_format_use">Koristi: %1$s</string>
+  <string name="mtrl_picker_invalid_range">Pogrešan raspon.</string>
+  <string name="mtrl_picker_navigate_to_year_description">Navigacija do godine %1$s</string>
+  <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
+  <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
+  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
+  <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+  <string name="mtrl_picker_range_header_title">Odaberite raspon datuma</string>
+  <string name="mtrl_picker_range_header_unselected">Datum početka - Datum završetka</string>
+  <string name="mtrl_picker_save">Spremi</string>
+  <string name="mtrl_picker_text_input_date_hint">Datum</string>
+  <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+  <string name="mtrl_picker_text_input_day_abbr">d</string>
+  <string name="mtrl_picker_text_input_month_abbr">m</string>
+  <string name="mtrl_picker_text_input_year_abbr">g</string>
+  <string name="mtrl_picker_toggle_to_calendar_input_mode">Prebacite se na način unosa kalendara</string>
+  <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
+  <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
+  <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
   <string name="need_open_gallery">Uključi Wallpaper Carousel</string>
   <string name="new_feature_title">"Što je novoga"</string>
   <string name="nick_name">Nadimak</string>
@@ -667,6 +730,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="share_today_morning">Podijeli</string>
   <string name="shield">"Blokiraj: "</string>
   <string name="shield_failed">"Ne mogu blokirati stavku"</string>
+  <string name="shield_tag_ceil">"Ne mogu blokirati više stavki"</string>
   <string name="shield_tag_dislike_desc">Odaberite da se takve slike pojavljuju rjeđe</string>
   <string name="shield_tag_dislike_title">Ne zanima me</string>
   <string name="shield_tag_entrance_desc">Odaberite da biste blokirali sve slike iz ove kategorije</string>
@@ -770,6 +834,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sure_close_gallery">Isključiti Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"Nećete moći primati nove slike pozadina za Početni i Zaklj. zaslon ako isključite Wallpaper Carousel. Isključiti svejedno?"</string>
   <string name="tab_user_title_bar_text">Postavke</string>
+  <string name="tb_collapse_desc">Sakrij izbornik \"Podijeli\"</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovo kasnije"</string>
   <string name="theme_apply_lockscreen_apply">Isključivanje Wallpaper Carousela…</string>
   <string name="theme_apply_lockscreen_failed">"Ne mogu postaviti"</string>

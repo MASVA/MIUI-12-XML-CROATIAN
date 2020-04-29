@@ -120,7 +120,8 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="change_email_address">Promjeni adresu e-pošte</string>
   <string name="change_password">Promjena zaporke</string>
   <string name="change_phone_number">Promjena broja telefona</string>
-  <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
+  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="checking_phone_num_availible">Provjera telefona…</string>
   <string name="cloud_description_closed">Zauzeto | Sinkr. je isključena</string>
   <string name="cloud_description_normal">Zauzeto</string>

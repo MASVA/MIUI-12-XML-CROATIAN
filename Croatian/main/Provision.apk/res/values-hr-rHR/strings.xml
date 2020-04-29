@@ -32,7 +32,7 @@
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
   <string name="content_description_language_picker">Odaberi jezik</string>
-  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_miui_version">MIUI 12</string>
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Centar za sadržaj objedinjuje sadržaj i usluge s više kanala. Ovdje možete čitati članke, gledati videozapise, pregledavati svakodnevno predstavljene stavke i primati preporuke za sadržaj.</string>
   <string name="continue_to_enable_accessibility">Držite pritisnuta dva prsta da omogućite pristupačnost.</string>
@@ -62,9 +62,9 @@
   <string name="font_hint_large">Zadana veličina teksta</string>
   <string name="font_hint_normal">Povećaj veličinu teksta</string>
   <string name="framework_introduction">Mi Services Framework omogućuje vam upotrebu Mi Računa, Mi Push, Mi Stats i MIUI BI.</string>
-  <string name="framwork_base_service">Da bismo vam pružili ove usluge, Mi Services Framework (Mi Račun, Mi Push, Mi Stats, MIUI BI) mora se povezati s internetom, pristupiti svom broju telefonA, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
+  <string name="framwork_base_service">Da bismo vam pružili ove usluge, Mi Services Framework (Mi Račun, Mi Push, Mi Stats, MIUI BI) treba se povezati s internetom, pristupiti vašoj lokaciji, broju telefona, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
   <string name="game_introduction">Dodatak za igre omogućuje vam prijavu, stvaranje narudžbi, dovršavanje plaćanja, korištenje kupona i sudjelovanje u promotivnim događajima.</string>
-  <string name="google_service_introduction">Da bi mogao normalno raditi, Google Play mora se povezati s internetom, pristupiti vašoj lokaciji, moći snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
+  <string name="google_service_introduction">Da bi mogao normalno raditi, Google Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
   <string name="ime_privacy_policy">Pravila o Privatnosti za odabrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o Privatnosti za ovu tipkovnicu na %s.</string>
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti za pisanje poruka, bilješki i za sve ostalo. Također možete instalirati druge tipkovnice kasnije."</string>
@@ -88,7 +88,7 @@
   <string name="navigation_picker_gesture_guide">Vodič za geste</string>
   <string name="navigation_picker_radio_text_full_screen">Geste u cijelom zaslonu</string>
   <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
-  <string name="network_access_warning">Morate se povezati s internetom kako biste aktivirali Mi Usluge i \"Pronađi uređaj\"</string>
+  <string name="network_access_warning">Trebate se povezati s internetom kako biste aktivirali Mi Usluge i \"Pronađi uređaj\"</string>
   <string name="next">Dalje</string>
   <string name="next_fingerprint">Dalje</string>
   <string name="note_introduction">Ova aplikacija omogućuje vam stvaranje, pregled i uređivanje bilješki.</string>
@@ -103,7 +103,7 @@ Isključiti personalizirane oglase svejedno?"</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Pogled za Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o Privatnosti</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Nabavite slike i priče koje se dnevno isporučuju na vaš Zaklj. zaslon. Primjenjuju se Uvjeti i odredbe.</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Dobijte slike i priče koje se dnevno isporučuju na vaš Zaklj. zaslon. Primjenjuju se Uvjeti i odredbe.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Uvjeti i odredbe</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
@@ -152,7 +152,7 @@ Isključiti personalizirane oglase svejedno?"</string>
   <string name="permission_recording">Snimanje poziva i zvuka:</string>
   <string name="permission_recording_introduction">Za snimanje zvuka tijekom snimanja videozapisa</string>
   <string name="permission_screen_shoot_introduction">Za pristup i spremanje snimaka zaslona</string>
-  <string name="permission_send_message">Slanje SMS-a</string>
+  <string name="permission_send_message">Pošalji SMS</string>
   <string name="permission_user_record_introduction">Za snimanje zvuka</string>
   <string name="permission_virusscan_introduction">Za provođenje skeniranja virusa i optimizaciju vašeg uređaja</string>
   <string name="permission_xunlei_introduction">Za prijavu i upravljanje sistemskim računima u svrhu pružanja Xunlei usluga</string>
@@ -203,7 +203,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="sim_card_detecting_title">Provjera SIM kartice</string>
   <string name="sim_card_detection">Umetnite SIM karticu</string>
   <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem.</string>
-  <string name="sim_card_detection_mobile_not_available">"SIM kartica se ne može povezati na mrežu"</string>
+  <string name="sim_card_detection_mobile_not_available">"SIM kartica ne može se povezati na mrežu"</string>
   <string name="sim_dectection_next">Nastavi</string>
   <string name="sim_redetection">Provjeri ponovno</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Vaša se SIM kartica nije mogla povezati s važećom mobilnom mrežom. Provjerite imate li dovoljno sredstava na svom računu i pokušajte ponovno."</string>
@@ -241,7 +241,7 @@ Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Ke
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
-  <string name="user_agreement_declare">Prije upotrebe MIUI-ja morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Dok se vaš uređaj aktivira, usluga mrežne aktivacije Mi SIM, Pronađi uređaj, Početni zaslon, Česte fraze, Prevodilačka služba, MIUI Daemon, HTML preglednik i Ažuriranje će se povezati s mrežom. Pametne usluge povezivat će se s mrežom i pristupiti vašoj lokaciji.</string>
+  <string name="user_agreement_declare">Prije upotrebe MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Dok se vaš uređaj aktivira, Mi SIM usluga aktiviranja, Xiaomi Cloud, Pronađi uređaj, Početni zaslon, Česte fraze, Usluga prevođenja, MIUI Daemon, HTML preglednik, AI Pomoćnik, Baterija i performanse, Detektor napajanja, Joyose, Podešavanje OS AI, Upravitelj dopuštenja i Ažuriranje će se povezati s mrežom. Pametne usluge povezivat će se s mrežom i pristupiti vašoj lokaciji.</string>
   <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="voice_assist_advice">Mi AI omogućuje vam korištenje glasovnih kontrola, ali troši više energije (+1% svakih sat vremena).</string>
   <string name="voice_assist_condition">"U ovim ćete slučajevima moći koristiti Mi AI:

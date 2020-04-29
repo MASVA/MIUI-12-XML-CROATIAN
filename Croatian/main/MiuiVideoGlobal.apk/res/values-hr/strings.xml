@@ -139,7 +139,8 @@
   <string name="cast_unmute">Uključi zvuk</string>
   <string name="change_activate_email">Promjeni adresu e-pošte</string>
   <string name="change_password">Promjeni zaporku</string>
-  <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="check_nothing">Još niste odabrali nijednu stavku</string>
   <string name="choose">Odaberi</string>
   <string name="choose_to_signin">Da</string>

@@ -204,7 +204,8 @@
   <string name="cancel_running_download">Odustani</string>
   <string name="cannot_download_to_sdcard_hint">"Stavke se ne mogu preuzimati na SD karticu zbog ograničenja autorskih prava. Umjesto toga preuzimati će se u internu pohranu."</string>
   <string name="change_download_quality">Promjeni kvalitetu preuzimanja</string>
-  <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="checking_new_version">Provjera ažuriranja…</string>
   <string name="chinese_female">Ženski izvođači (Kina)</string>

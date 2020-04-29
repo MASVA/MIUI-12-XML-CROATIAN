@@ -96,7 +96,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="card_retry">Pokušaj ponovno</string>
   <string name="change_host_hint">Promijeni domaćina</string>
   <string name="change_wallpaper">Slika pozadine</string>
-  <string name="character_counter_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="check_has_new_version">Dostupno je ažuriranje</string>
   <string name="chip_text">Chip tekst</string>
