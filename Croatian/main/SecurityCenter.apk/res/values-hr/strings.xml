@@ -826,8 +826,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="button_first_aid_kit">Popravi</string>
   <string name="button_look_up">Dodirni za prikaz</string>
   <string name="button_restrict_data_usage">Dopusti</string>
-  <string name="button_text_accept">Odobri</string>
-  <string name="button_text_accept_timer">Odobri (%d)</string>
+  <string name="button_text_accept">Uključi</string>
+  <string name="button_text_accept_timer">Uključi (%d)</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_cancel_clean">Odustani</string>
   <string name="button_text_cancel_optimize">Odustani</string>
