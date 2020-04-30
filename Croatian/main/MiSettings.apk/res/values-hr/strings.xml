@@ -45,6 +45,7 @@
   <string name="contact_title">Prečac kontakta</string>
   <string name="contrast_ratio">Kontrast</string>
   <string name="control_center_title">Vrijeme zaslona danas</string>
+  <string name="control_center_title_new">Korišteno danas</string>
   <string name="copy">Kopiraj</string>
   <string name="create">Izradi</string>
   <string name="create_failed">"Ne mogu izraditi"</string>
@@ -61,6 +62,7 @@
   <string name="expand_button_title">Napredno</string>
   <string name="first_unlock_time">"Prvo otključavanje: "</string>
   <string name="focus_mode_timer_add_limit">Možete dodati do %d vlastitih timera</string>
+  <string name="focus_mode_custom_time">Prilagođeno trajanje</string>
   <string name="focus_mode_timer_delete">Izbriši</string>
   <string name="focus_mode_timer_exist">Ova sesija već postoji</string>
   <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min.</string>

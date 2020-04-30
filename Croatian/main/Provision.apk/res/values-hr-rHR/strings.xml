@@ -53,7 +53,7 @@
   <string name="disagreement_function">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu značajku. Možete odlučiti da nećete koristiti ovu značajku u takvim slučajevima."</string>
   <string name="disagreement_location_service">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
   <string name="disagreement_terminate_service">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. You can choose to uninstall, sign out, or restrict permissions in the Settings in such cases."</string>
-  <string name="download_introduction">Ova aplikacija upravlja svim vašim preuzimanjima, uključujući i one koje se izvršavaju u GetAppsu, Mi Video, Ažuriranju, Temama i Pregledniku.</string>
+  <string name="download_introduction">\"Preuzimanja\" koristi Xunlei za preuzimanje stavki na vaš uređaj. Ovaj alat funkcionira za GetApps, ažuriranja sustava, teme, video zapise i preuzimanja preglednika.</string>
   <string name="enable_accessibility_canceled">Pristupačnost je otkazana.</string>
   <string name="enable_accessibility_dialog_message">Uključili ste TalkBack pritiskom na zaslon s 2 prsta dulje od 10 sekundi. TalkBack pruža govorne povratne informacije osobama s oštećenjem vida. Ako ga uključili slučajno, dodirnite tipku Odustani, a zatim dvaput dodirnite zaslon.</string>
   <string name="enable_accessibility_dialog_negative_btn">Odustani</string>
@@ -196,6 +196,7 @@ Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
   <string name="service_name_security">Sigurnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_policy">&lt;Data&gt;Pročitajte i pristanite na naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+  <string name="service_policy_download">&lt;Data&gt;Prije korištenja naših usluga, pročitajte i pristanite na &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="setting_locale">Postavljanje regije…</string>

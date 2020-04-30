@@ -361,6 +361,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_maanger_app_uninstalled_toast">Ta je aplikacija deinstalirana</string>
   <string name="app_manager_advanced_setting">Napredne postavke</string>
   <string name="app_manager_allow">Da</string>
+  <string name="app_manager_anomaly_analysis">Analiziraj nepravilnosti u aplikacijama</string>
   <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
   <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
   <string name="app_manager_app_info_name">Naziv aplikacije</string>

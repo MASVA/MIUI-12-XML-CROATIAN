@@ -6521,6 +6521,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
   <string name="restore_oaid_content">Resetiranje trenutnog ID-a uređaja stvorit će novi. Resetirati sada?</string>
   <string name="restore_oaid_positive">Resetiraj</string>
+  <string name="restore_oaid_positive_step">Resetiraj(%1$d)</string>
   <string name="restore_oaid_title">Resetiranje ID uređaja</string>
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>

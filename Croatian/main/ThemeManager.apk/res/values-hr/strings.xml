@@ -347,7 +347,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="incall_show_remove_success">Profilni videozapis uspješno uklonjen</string>
   <string name="incall_show_title">Profilni videozapisi</string>
   <string name="incompatible_dialog_cancel">"Ne postavljaj"</string>
-  <string name="incompatible_dialog_message">"Ova tema nije kompatibilna s instaliranom MIUI verzijom na vašem uređaju. Neki dijelovi MIUI-a možda neće ispravno raditi ako postavite tu temu."</string>
+  <string name="incompatible_dialog_message">"Ova tema još nije u potpunosti kompatibilna s ovom verzijom MIUI-ja. Neke stranice možda neće raditi ispravno."</string>
   <string name="incompatible_dialog_ok">Razumijem</string>
   <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
   <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
@@ -385,7 +385,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="mine_tab_not_login">"Prijavite se za pregled stavki.
 Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="mine_tab_title_favorite">Favoriti</string>
-  <string name="mine_tab_title_like">Likes</string>
+  <string name="mine_tab_title_like">Sviđanja</string>
   <string name="mine_tab_title_local">Lokalno</string>
   <string name="mine_tab_title_purchase">Naruđžbe</string>
   <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
@@ -679,7 +679,7 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="resource_exchange_share_code_content">Dobili ste kod za %1$s na MIUI Teme. Vaš kod Mi Kredita je: %2$s. Dodirnite %3$s za koristiti sada.</string>
   <string name="resource_exchange_share_code_dlg_content">Kod uspješno kupljen za %1$s je: %2$s. Sada ga možete podijeliti s prijateljima.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošalji kod</string>
-  <string name="resource_exchange_success">Uživajte !</string>
+  <string name="resource_exchange_success">Kupovina uspjela</string>
   <string name="resource_exchange_unavailable">Tema povezana s kodom koji ste unijeli nije dostupna.</string>
   <string name="resource_exchange_universal_finish">Koristite ovaj kod za preuzimanje stavki iz Tema.</string>
   <string name="resource_exchange_universal_goon">Ovaj kod se može koristiti za preuzimanje bilo koje stavke iz Tema.</string>
@@ -753,7 +753,7 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="resource_search_color_hint_red">Crvena</string>
   <string name="resource_search_color_hint_yellow">Žuta</string>
   <string name="resource_search_list_empty">"Ništa nije pronađeno."</string>
-  <string name="resource_see_more">Prikaži više</string>
+  <string name="resource_see_more">Prikaži sve</string>
   <string name="resource_select">Odaberi</string>
   <string name="resource_select_alarm_audio_confirm">Odabrati ovaj zvuk obavijesti?</string>
   <string name="resource_select_audio_confirm_picker">Odabrati ovaj zvuk?</string>
@@ -975,7 +975,7 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tips_theme_gate_transfer_fail">"Ne mogu otvoriti ovu stranicu. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
-  <string name="title_component">Prilagodi temu</string>
+  <string name="title_component">Komponente teme</string>
   <string name="title_my_audio_resource">Moje melodije zvona</string>
   <string name="title_my_miwallpaper_desktop_effects">Efekti Poč. zaslona</string>
   <string name="title_my_miwallpaper_resource">Moje animirane pozadine</string>
@@ -992,7 +992,8 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="transparency_pref_summary">Odaberite razinu neprozirnosti pozadine</string>
   <string name="transparency_pref_title">Razina neprozirnosti</string>
   <string name="transparent_wallpaper">Transparentna slika pozadine</string>
-  <string name="transparent_wallpaper_apply_success">Uspješno postavljeno. Tu značajku možete isključiti u Teme &gt; Profil &gt; Beta značajke.</string>
+  <string name="transparent_wallpaper_apply_success">"Uspješno postavljeno.
+Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
   <string name="transparent_wallpaper_auto_start_pref_summary">Nastavi koristiti prozirne pozadine nakon što ponovno pokrenete uređaj</string>
   <string name="transparent_wallpaper_auto_start_pref_title">Autom. pokretanje</string>
   <string name="transparent_wallpaper_disable">Isključi</string>
@@ -1028,9 +1029,10 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="update_btn">AŽURIRAJ SADA</string>
   <string name="update_check">Provjeri ažuriranja</string>
   <string name="update_checking">Provjera ažuriranja…</string>
+  <string name="update_community_tip">Ažurirajte Mi Community da biste mogli koristiti ovu značajku</string>
   <string name="update_downloading">Preuzimanje ažuriranja…</string>
   <string name="update_fail">"Ne mogu dobiti informacije. Pokušajte ponovno."</string>
-  <string name="update_flag">Update</string>
+  <string name="update_flag">Ažuriraj</string>
   <string name="update_immediately">Ažuriraj sada</string>
   <string name="update_latest">Aplikacija je ažurna</string>
   <string name="update_no_net">Došlo je do pogreške mreže. Pokušajte ponovo.</string>
@@ -1077,8 +1079,8 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="wallpaper_loop_interval_title">Promijeni pozadinu</string>
   <string name="wallpaper_loop_manage">Upravljaj</string>
   <string name="wallpaper_loop_more_options">Dodatne postavke</string>
-  <string name="wallpaper_loop_my_desk_wallpaper">Moje pozadine Poč. zaslona</string>
-  <string name="wallpaper_loop_my_lock_wallpaper">Moje pozadine Zaklj. zaslona</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Upravljaj Poč. zaslonom</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Upravljaj Zaklj. zaslonom</string>
   <string name="wallpaper_loop_order_desc">Odaberite redoslijed pojavljivanja slajdova</string>
   <string name="wallpaper_loop_order_loop">Originalno</string>
   <string name="wallpaper_loop_order_shuffle">Nasumično</string>
@@ -1099,7 +1101,7 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="wallpaper_set_as_both">Postavi oboje</string>
   <string name="wallpaper_set_as_desktop">Postavi za sliku pozadine</string>
   <string name="wallpaper_set_as_float_wallpaper">Postavi kao transparentnu pozadinu</string>
-  <string name="wallpaper_set_as_incall_show">Set as profile video</string>
+  <string name="wallpaper_set_as_incall_show">Postavi kao profilni video</string>
   <string name="wallpaper_set_as_lockscreen">Postavi za Zaklj. zaslon</string>
   <string name="wallpaper_setting_all">Sve slike pozadine</string>
   <string name="wallpaper_setting_live">Uživo</string>
