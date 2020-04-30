@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="already_in_small_freeform">Neke se aplikacije otvaraju u plutajućim prozorima</string>
+  <string name="no_avaliable_application">Nema dostupnih aplikacija</string>
+  <string name="quick_settings_hang_label">Plutajući prozori</string>
+  <string name="quick_settings_hang_on">Sada možete koristiti plutajuće prozore</string>
+</resources>

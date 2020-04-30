@@ -736,4 +736,12 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="few">Obavijesti %1$d aplikacije mogu nadjačati Ne ometaj</item>
 		<item quantity="many">Obavijesti %1$d aplikacije mogu nadjačati Ne ometaj</item>
      </plurals>
+	      <plurals name="bt_usable_device_title">
+        <item quantity="other">Dostupni uređaji: %d</item>
+        <item quantity="one">%d uređaj dostupan</item>
+     </plurals>
+     <plurals name="saved_network_checked_num">
+        <item quantity="other">Odabrano: %d</item>
+        <item quantity="one">Odabrano: %d</item>
+     </plurals>
 </resources> 

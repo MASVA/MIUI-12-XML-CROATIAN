@@ -40,10 +40,10 @@
   <string name="date_picker_label_year" />
   <string name="date_picker_lunar">Lunarni Kalendar</string>
   <string name="early_morning">AM</string>
-  <string name="earth_id">zemlja</string>
+  <string name="earth_id">Zemlja</string>
   <string name="earth_summary">Zemlja je kolijevka ljudske civilizacije</string>
   <string name="earth_super_wallpaper_label">zemlja</string>
-  <string name="earth_title">Dom</string>
+  <string name="earth_title">Planet Zemlja</string>
   <string name="empty" />
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>

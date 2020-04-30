@@ -57,7 +57,7 @@
   <string name="action_item_favorite">Favorit</string>
   <string name="action_item_follow">Slijedi</string>
   <string name="action_item_hide">Sakrij</string>
-  <string name="action_item_hifi">Slušalice &amp; zvučni efekti</string>
+  <string name="action_item_hifi">Slušalice &amp; efekti zvuka</string>
   <string name="action_item_modify_info">Promjeni informacije</string>
   <string name="action_item_multiple">Uredi</string>
   <string name="action_item_play_all">Reproduciraj sve</string>
@@ -631,10 +631,10 @@ uglavnom pruža Ultimate Inc.</string>
   <string name="goto_online_search">Traži online</string>
   <string name="handle_later">Ne sada</string>
   <string name="hd_quality_audio">HD audio kvaliteta</string>
-  <string name="headset_and_audio_effect_category">Slušalice &amp; zvučni efekti</string>
+  <string name="headset_and_audio_effect_category">Slušalice &amp; efekti zvuka</string>
   <string name="headset_and_audio_effect_summary">Slušalice &amp; equalizer</string>
-  <string name="headset_and_audio_effect_title">Slušalice &amp; zvučni efekti</string>
-  <string name="headset_settings">Slušalice &amp; zvučni efekti</string>
+  <string name="headset_and_audio_effect_title">Slušalice &amp; efekti zvuka</string>
+  <string name="headset_settings">Slušalice &amp; efekti zvuka</string>
   <string name="hide_album">Sakrij omot albuma</string>
   <string name="hide_lyric">Sakrij tekst</string>
   <string name="high_sound_quality">Visoka</string>

@@ -735,7 +735,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="auto_caps_summary">Postavi veliko slovo na početku rečenice</string>
   <string name="auto_clean_description">"O ovoj značajki
 1. Pokrenite ovu značajku jednom ili dva puta ako ustanovite da je vaš zvučnik lagano blokiran od prašine.
-2. Ako je zvučnik jače blokiran, pokrenite ovu značajku 2-5 puta dok tresete svoj uređaj tako da zvučnik bude okrenut prema dolje.."</string>
+2. Ako je zvučnik jače blokiran, pokrenite ovu značajku 2-5 puta dok tresete svoj uređaj tako da zvučnik bude okrenut prema dolje."</string>
   <string name="auto_clean_summary">Reproduciraj zvuk u trajanju 30 sekundi da biste očistili zvučnik</string>
   <string name="auto_clean_title">Očisti zvučnik</string>
   <string name="auto_disable_screenbuttons_ask">Pitaj za onemogućavanje</string>
@@ -3567,7 +3567,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="header_data_and_synchronization">Podaci i sinkronizacija</string>
   <string name="heads_up_enabled_title">Skočni za visoki prioritet</string>
   <string name="headset_calibrate">Podešavanje tipki</string>
-  <string name="headset_settings_title">Zvučni efekti</string>
+  <string name="headset_settings_title">Efekti zvuka</string>
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
   <string name="help_and_feedback_title">Pomoć i povratne inf.</string>
   <string name="help_feedback_label">Pomoć i povratne informacije</string>
@@ -5727,7 +5727,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="path_music_audio_effect_optimize">Postavke/Zvuk &amp; vibracija/Postavke zvuka</string>
   <string name="path_music_headset_calibrate">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Podešavanje tipki</string>
   <string name="path_music_headset_mode_settings">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Tipke na slušalicama</string>
-  <string name="path_music_headset_settings">Postavke/Dodatne postavke/Slušalice &amp; zvučni efekti</string>
+  <string name="path_music_headset_settings">Postavke/Dodatne postavke/Slušalice &amp; efekti zvuka</string>
   <string name="path_music_mi_effect_title">Postavke/Zvuk &amp; vibracija/Postavke zvuka/Mi Sound Enhancer</string>
   <string name="path_network_settings">Postavke/Sim kartice &amp; Mobilne mreže</string>
   <string name="path_networks_title">Postavke/Sim kartice &amp; Mobilne mreže/Mobilne mreže</string>

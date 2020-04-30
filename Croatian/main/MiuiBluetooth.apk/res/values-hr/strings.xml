@@ -385,6 +385,8 @@ Audio"</string>
   <string name="osu_sign_up_complete">Registracija je dovršena. Povezivanje…</string>
   <string name="osu_sign_up_failed">Nije moguće dovršiti registraciju. Dodirnite za ponovni pokušaj.</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
+  <string name="perm_ble_des">Pristup BLE postavkama</string>
+  <string name="perm_ble_lab">Pristup BLE postavkama</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
   <string name="pointer_location">Mjesto pokazivača</string>

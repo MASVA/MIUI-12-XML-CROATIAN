@@ -133,10 +133,14 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="common_google_play_services_update_title">Ažuriraj usluge za Google Play</string>
   <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
   <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
-  <string name="common_open_on_phone">Otvaranje na telefonu</string>
+  <string name="common_open_on_phone">Otvori na telefonu</string>
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava uslugom Google</string>
   <string name="common_skip">Preskoči</string>
+  <string name="community_cta_dialog_cancel">Odustani</string>
+  <string name="community_cta_dialog_des">Ova tema sadrži prečac sata koji prikazuje vaš ID Mi Računa i Mi Community status. Možete isključiti ovu značajku prebacivanjem na drugu temu ili uklanjanjem widgeta Sata.</string>
+  <string name="community_cta_dialog_ok">Razumijem</string> 
+  <string name="community_cta_dialog_title">Prečac sata</string>
   <string name="component_backup_preference_title">Izradi Sig. kopiju teme</string>
   <string name="component_category_finest_title">OPĆENITO</string>
   <string name="component_category_more_title">NAPREDNO</string>

@@ -1296,10 +1296,10 @@ snimke zaslona"</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Nema podataka</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Ništa</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvježavanje</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nije uspjelo</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Mobilni podaci</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
@@ -1634,7 +1634,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="qs_control_customize_sub_title">Povucite dodane prečace da biste ih preuredili</string>
   <string name="qs_control_customize_title">Prečac je dodan</string>
   <string name="qs_control_expand_detail_title">Moji podaci</string>
-  <string name="qs_control_header_tiles_title">Prečaci</string>
+  <string name="qs_control_header_tiles_title">Centar za kontrolu</string>
   <string name="qs_customize">Omogući dugotrajnu prilagodbu u Brzim postavkama</string>
   <string name="qs_customize_info">Info</string>
   <string name="qs_customize_remove">Ukloni</string>
@@ -1925,8 +1925,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="slice_permission_text_1">– može čitati informacije aplikacije %1$s</string>
   <string name="slice_permission_text_2">– može vršiti radnje u aplikaciji %1$s</string>
   <string name="slice_permission_title">Želite li dopustiti aplikaciji %1$s da prikazuje isječke aplikacije %2$s?</string>
-  <string name="small_window_guide_title">Plutajući prozor</string>
-  <string name="small_window_notification_text">Dodirnite da biste saznali više o ovoj značajki MIUI %d</string>
+  <string name="small_window_guide_title">Plutajući prozori</string>
+  <string name="small_window_notification_text">Dodirnite da biste saznali više o ovoj %d MIUI značajki</string>
   <string name="small_window_notification_title">Plutajući prozori</string>
   <string name="smartspace_hours_mins">%1$s %2$s</string>
   <string name="snooze_option_15_min">15 minuta</string>

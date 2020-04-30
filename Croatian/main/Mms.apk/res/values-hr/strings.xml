@@ -450,10 +450,10 @@
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Nema podataka</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Ništa</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvježavanje</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nije uspjelo</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Sve MMS poruke osim poruka poslanih od ovlaštenih pošiljatelja bit će blokirani. Ovlašteni pošiljatelji uključuju mrežne operatere, državne sustave za rezervaciju željeznica itd.</string>
   <string name="mms_block_alert_ok">Blokiraj</string>
