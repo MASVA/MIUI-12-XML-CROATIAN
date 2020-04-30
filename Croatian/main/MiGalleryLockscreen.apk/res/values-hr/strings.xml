@@ -46,7 +46,7 @@
   <string name="account_user_avatar_from_album">Galerija</string>
   <string name="account_user_avatar_from_camera">Kamera</string>
   <string name="account_user_base_info">Osnovne informacije</string>
-  <string name="account_user_birthday">Rođendan</string>
+  <string name="account_user_birthday">Datum rođenja</string>
   <string name="account_user_details">Osobne informacije</string>
   <string name="account_user_email">E-pošta za oporavak</string>
   <string name="account_user_gender">Spol</string>
@@ -58,7 +58,7 @@
   <string name="account_user_region">Regija</string>
   <string name="action_add_phone">Dodajte broj telefona</string>
   <string name="action_update_phone">Promjeni broj telefona</string>
-  <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
+  <string name="activate_email_notice">Obavezno aktivirajte svoj račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="ad_btn_connecting">Povezivanje</string>
   <string name="ad_btn_download_continue">Nastavi</string>
@@ -132,7 +132,7 @@
   <string name="close_gallery">Isključi</string>
   <string name="collect_diagnosis_log">Prikupi zapise</string>
   <string name="comment_pop_cancel">Ne sada</string>
-  <string name="comment_pop_content">Dajte nam svoje mišljenje, ako vam se sviđa Wallpaper Carousel!</string>
+  <string name="comment_pop_content">Pošaljite nam svoje mišljenje, ako vam se sviđa Wallpaper Carousel!</string>
   <string name="comment_pop_ok">Ocijeni</string>
   <string name="comment_pop_title">Ocijenite Wallpaper Carousel</string>
   <string name="confirm">Uključi</string>
@@ -338,17 +338,13 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="miui_lock_screen_date">EEEE, MMMM d</string>
   <string name="miui_lock_screen_date_12">EEEE, MMMM d</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-MMMM d"</string>
-  <string name="miui_lock_screen_date_two_lines_12">"EEEE
-MMMM d"</string>
-  <string name="miui_lock_screen_large_date">"EEE
-M/dd"</string>
-  <string name="miui_lock_screen_large_date_12">"EEE
-M/dd"</string>
-  <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-  <string name="miui_vertical_time_format_24">"HH
-mm"</string>
+d. MMMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+d. MMMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+dd.M"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd.M"</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
