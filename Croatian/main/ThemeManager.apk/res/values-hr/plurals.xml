@@ -136,4 +136,16 @@
         <item quantity="other">Pronađeno %1$d aplik.</item>
         <item quantity="one">Pronađena %1$d aplik.</item>
     </plurals>
+	<plurals name="de_icon_count">
+        <item quantity="other">%1$d ikona</item>
+        <item quantity="one">%1$d ikona</item>
+    </plurals>
+	<plurals name="icon_batch_has_update_text">
+        <item quantity="other">Ažuriranja dostupna za %1$d ikona</item>
+        <item quantity="one">Ažuriranja dostupno za %1$d ikonu</item>
+    </plurals>
+    <plurals name="icon_batch_updating_text">
+        <item quantity="other">Ažuriranje %1$d ikona…</item>
+        <item quantity="one">Ažuriranje %1$d ikone…</item>
+    </plurals>
 </resources>
