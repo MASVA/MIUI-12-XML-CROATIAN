@@ -3370,18 +3370,18 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="free_wifi_user_agreement_title">Upozorenje privatnosti</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Dodirnite za povezivanje s %1$s.</string>
-  <string name="freeform_guide_drop_down_to_fullscreen_summary">Pritisnite i zadržite, a zatim povucite niz radnu traku plutajućeg prozora</string>
-  <string name="freeform_guide_drop_down_to_fullscreen_title">Pregledavanje plutajućih prozora u načinu cijelog zaslona</string>
-  <string name="freeform_guide_move_summary">Pritisnite i držite akcijsku traku plutajućeg prozora da povučete</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku plutajućeg prozora</string>
+  <string name="freeform_guide_drop_down_to_fullscreen_title">Pregledavanje plutajućih prozora u cijelom zaslonu</string>
+  <string name="freeform_guide_move_summary">Dodirnite i zadržite radnu traku plutajućeg prozora da povučete</string>
   <string name="freeform_guide_move_title">Pomicanje plutajućih prozora uokolo</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Povucite plutajući prozor u kut zaslona</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Minimiziranje plutajućih prozora</string>
-  <string name="freeform_guide_notification_drop_down_summary">Pritisnite i zadržite, a zatim povucite akcijsku traku obavijesti</string>
+  <string name="freeform_guide_notification_drop_down_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku obavijesti</string>
   <string name="freeform_guide_notification_drop_down_title">Otvaranje plutajućih prozora</string>
   <string name="freeform_guide_settings">Plutajući prozor</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povucite prema gore s akcijske trake plutajućeg prozora</string>
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
-  <string name="freeform_vedio_description">"·Pritisnite i zadržite, a zatim povucite obavijest da je otvorite u plutajućem prozoru.
+  <string name="freeform_vedio_description">"·Dodirnite i zadržite, a zatim povucite prema dolje da otvorite obavijest u plutajućem prozoru.
 ·Dodirnite \"Plutajući prozor\" u Nedavno za odabir aplikacija."</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
