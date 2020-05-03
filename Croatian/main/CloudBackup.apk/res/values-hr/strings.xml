@@ -55,7 +55,7 @@
   <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
   <string name="cloud_app_restore_success">Aplikacije su vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Mi Cloudu.</string>
-  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
 *\u0009\u0009\u0009Aplikacije, izgled Poč. zaslona i slike pozadine
 *\u0009\u0009\u0009Postavke alarma, sata i vremena 
@@ -97,7 +97,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="copy">Kopiraj</string>
   <string name="customization">Prilagodi</string>
   <string name="custom_progress">Stavke: %d</string>
-  <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
   <string name="deskclock_backup">Alarm</string>
   <string name="desktop_downloading">Preuzimanje</string>
   <string name="desktop_failed">Nije uspjelo</string>

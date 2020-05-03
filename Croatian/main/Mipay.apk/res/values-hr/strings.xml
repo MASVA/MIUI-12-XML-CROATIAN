@@ -87,9 +87,9 @@ Provjerite vaš lokalni datum i pokušajte ponovno."</string>
   <string name="mipay_error_common">Greška sustava. Pokušajte ponovo kasnije.</string>
   <string name="mipay_error_network">"Nije moguće povezivanje s mrežom."</string>
   <string name="mipay_error_server">Greška poslužitelja. Pokušajte ponovo kasnije.</string>
-  <string name="mipay_format_date">MMM. dd, yyyy</string>
-  <string name="mipay_format_date_slash">MM/dd/yyyy</string>
-  <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
+  <string name="mipay_format_date">dd.MM.yyyy</string>
+  <string name="mipay_format_date_slash">dd.MM.yyyy</string>
+  <string name="mipay_format_time">dd.MM.yyyy hh:mmaa</string>
   <string name="mipay_handle_loading">Obrada…</string>
   <string name="mipay_i_know">U redu</string>
   <string name="mipay_loading">Učitavanje…</string>

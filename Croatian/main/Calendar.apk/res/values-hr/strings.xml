@@ -245,6 +245,8 @@
   <string name="event_color_picker_dialog_title">Boja događaja</string>
   <string name="event_color_set_to_default">Postavite na zadanu boju kalendara</string>
   <string name="event_create">Novi događaj</string>
+  <string name="event_date_format">dd.MM EEEE</string>
+  <string name="event_full_date_format">dd.MM.yyyy</string>
   <string name="event_delete">Izbriši događaj</string>
   <string name="event_edit">Uredi događaj</string>
   <string name="event_info_descrip">Opis</string>
@@ -561,9 +563,9 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="privacy_label">"Privatnost"</string>
   <string name="productivity_add_event">Izradi događaj</string>
   <string name="productivity_cannot_move_event">"Ne mogu premjestiti ovaj događaj"</string>
-  <string name="productivity_move_event_failed">"Ne mogu premjestiti ovaj događaj na dd/MM/yyyy"</string>
-  <string name="productivity_move_event_hint">Press and hold an event to move it to another date</string>
-  <string name="productivity_move_event_success">Događaj pemješten na dd/MM/yyyy</string>
+  <string name="productivity_move_event_failed">"Ne mogu premjestiti ovaj događaj na dd.MM.yyyy"</string>
+  <string name="productivity_move_event_hint">Pritisnite i držite događaj da ga premjestite na drugi datum</string>
+  <string name="productivity_move_event_success">Događaj pemješten na dd.MM.yyyy</string>
   <string name="productivity_no_event">Za danas nisu planirani nikakvi događaji</string>
   <string name="pull_refresh_events">Prikaži događaje %d</string>
   <string name="pull_refresh_events_default">Prikaži događaje iz prethodne godine</string>

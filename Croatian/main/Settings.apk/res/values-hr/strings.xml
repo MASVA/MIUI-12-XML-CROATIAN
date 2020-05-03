@@ -2031,7 +2031,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="copy">Kopiraj</string>
   <string name="copyable_slice_toast">Kopirano u međuspremnik: %1$s.</string>
   <string name="copyright_title">Autorska prava</string>
-  <string name="corner_assistant_gesture_summary">Povuci prema gore od donjeg lijevog ili donjeg desnog kuta da biste probudili Google pomoćnika</string>
+  <string name="corner_assistant_gesture_summary">Povuci prema gore od donjeg lijevog ili desnog kuta za otvaranje Google pomoćnika</string>
   <string name="corner_assistant_gesture_title">Povuci prema gore iz kuta za Google pomoćnik</string>
   <string name="country_name">%s (sustav)</string>
   <string name="create">Izradi</string>

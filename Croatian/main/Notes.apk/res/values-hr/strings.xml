@@ -447,8 +447,8 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="today">Danas</string>
   <string name="todo_alert_title_delete">Izbrišite dovršene zadatke</string>
   <string name="todo_audio_default_content">"[Glasovni zadatak] "</string>
-  <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
-  <string name="todo_custom_remind_tag_pattern_with_ymd">dd/MM/yyyy HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_md">dd.MM HH:mm</string>
+  <string name="todo_custom_remind_tag_pattern_with_ymd">dd.MM.yyyy HH:mm</string>
   <string name="todo_edit_audio_hint">Reci svoj zadatak</string>
   <string name="todo_edit_btn_cancel_remind">Otkaži podsjetnik</string>
   <string name="todo_edit_btn_custom">Postavi podsjetnik</string>
@@ -482,8 +482,8 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="todo_schedule_time_expired">" (Isteklo)"</string>
   <string name="todo_schedule_time_for_picker_hm">H mm</string>
   <string name="todo_schedule_time_hm">HH:mm</string>
-  <string name="todo_schedule_time_md">dd/MM</string>
-  <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
+  <string name="todo_schedule_time_md">dd.MM</string>
+  <string name="todo_schedule_time_mdhm">dd.MM HH:mm</string>
   <string name="todo_schedule_time_repeat_day">, svaki dan</string>
   <string name="todo_schedule_time_repeat_month">, svaki mjesec</string>
   <string name="todo_schedule_time_repeat_normal_workday">, Pon-Pet</string>
@@ -493,7 +493,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="todo_schedule_time_tomorrow">Sutra</string>
   <string name="todo_schedule_time_y">yyyy/</string>
   <string name="todo_schedule_time_yesterday">Jučer</string>
-  <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
+  <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Traži zadatke</string>
   <string name="todo_time_picker_title">Postavi podsjetnik</string>
   <string name="todo_user_guide_fw_pop">Add Home screen shortcut</string>

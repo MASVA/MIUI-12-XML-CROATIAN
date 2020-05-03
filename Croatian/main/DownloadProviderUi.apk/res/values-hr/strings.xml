@@ -338,10 +338,10 @@ i pokušajte ponovno."</string>
   <string name="search_favorite_title">Favoriti</string>
   <string name="search_history">Pretraži povijest</string>
   <string name="search_history_empty">Nema stavki</string>
-  <string name="search_history_month">dd/MM</string>
+  <string name="search_history_month">dd.MM</string>
   <string name="search_history_title">Povijest</string>
   <string name="search_history_today">Danas</string>
-  <string name="search_history_year">dd/MM/yyyy</string>
+  <string name="search_history_year">dd.MM.yyyy</string>
   <string name="search_history_yesterday">Jučer</string>
   <string name="search_home_download_popup">Idi natrag u Preuzimanja</string>
   <string name="search_home_vif_show_more">Više</string>

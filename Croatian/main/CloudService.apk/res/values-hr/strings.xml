@@ -122,7 +122,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="disable_find_device_success">"Pronađi uređaj" je isključen.</string>
   <string name="do_not_merge">Odustani</string>
-  <string name="due_date_format">dd/MM/yyyy</string>
+  <string name="due_date_format">dd.MM.yyyy</string>
   <string name="enableAll">Sinkroniziraj sve</string>
   <string name="enable_cloud_service_notification">Morate aktivirati Mi Cloud</string>
   <string name="enable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>

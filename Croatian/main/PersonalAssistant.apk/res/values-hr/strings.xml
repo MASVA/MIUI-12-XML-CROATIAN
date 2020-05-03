@@ -645,8 +645,8 @@
   <string name="taxi_open">Prikaži taksi karticu</string>
   <string name="taxi_setting_brief">Nabavite taksi u jednom dodiru.</string>
   <string name="time_just_now">Upravo sada</string>
-  <string name="time_month">dd/MM</string>
-  <string name="time_year">dd/MM/yyyy</string>
+  <string name="time_month">dd.MM</string>
+  <string name="time_year">dd.MM.yyyy</string>
   <string name="toast_function_add_limit">Možete dodati do %d prečaca</string>
   <string name="toast_function_remove_not_allowed">Dodajte barem jedan prečac</string>
   <string name="total_month_desc_text">Ovaj mjesec</string>
