@@ -656,7 +656,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="rate_short">Nedovoljno</string>
   <string name="rb_gender_female">Spol: Žena</string>
   <string name="rb_gender_male">Spol: Muškarac</string>
-  <string name="reach_standard">Meets standard</string>
+  <string name="reach_standard">Zadovoljava standard</string>
   <string name="recommand_body_weight_msg">Preporučena ciljna težina: %1$.1f kg. Dostignite BMI %2$.1f da smanjite rizik od kardiovaskularnih i jetrenih bolesti.</string>
   <string name="recommend_sleep_goal">21:00-11:00</string>
   <string name="record_body_weight_button">Zabilježi težinu</string>

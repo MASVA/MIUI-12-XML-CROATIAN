@@ -343,7 +343,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="new_pc_backup_restore_link">Mobilni uređaj</string>
   <string name="new_pc_backup_summary1">Odaberite stavke i dodirnite \"Sig. kopiraj\".</string>
   <string name="new_pc_backup_summary2">Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
-  <string name="new_pc_backup_summary4">Napomena: možete kopirati i fotografije i videozapise iz MIUI-DCIM.</string>
+  <string name="new_pc_backup_summary4">Napomena: možete kopirati i fotografije i videozapise iz DCIM.</string>
   <string name="new_pc_restore_content1">%d. Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
   <string name="new_pc_restore_content2">%d. Kopirajte Sig. kopiju s računala u MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Otvorite \"%2$s\" i odaberite stavke za vraćanje.</string>

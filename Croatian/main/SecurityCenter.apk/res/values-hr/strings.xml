@@ -2988,6 +2988,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_look_all_permission_status">Sva dopuštenja</string>
   <string name="privacy_look_all_permission_times">Sve aplikacije</string>
   <string name="privacy_manage_title">Upravljaj</string>
+  <string name="privacy_mask_summary">Umjesto vašeg stvarnog identifikatora, MIUI će aplikacijama treće strane pružiti virtualni ID (PAID). Sprečava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
+  <string name="privacy_mask_title">Virtualni ID je uključen</string>
   <string name="privacy_mode_dialog_title">Gost način</string>
   <string name="privacy_more_info_title">Saznajte više o značajkama zaštite privatnosti</string>
   <string name="privacy_notification_subtitle">Dodirnite za upravljanje dopuštenjima</string>

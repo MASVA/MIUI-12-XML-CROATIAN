@@ -337,7 +337,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="repeat_mode_set_item_week_detail">Svaki tjedan (%s)</string>
   <string name="repeat_mode_set_item_year">Svake godine (%s)</string>
   <string name="repeat_mode_set_item_year_detail">Svake godine (%s)</string>
-  <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+  <string name="repeat_mode_set_item_year_detail_day">dd.MM</string>
   <string name="repeat_mode_set_title">Ponovi</string>
   <string name="repeat_mode_week">Svaki tjedan</string>
   <string name="repeat_mode_year">Svake godine</string>

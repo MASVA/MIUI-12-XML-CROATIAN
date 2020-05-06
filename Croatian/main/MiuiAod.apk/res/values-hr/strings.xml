@@ -32,13 +32,13 @@
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
-  <string name="aod_lock_screen_date_12_signature">d/M</string>
+  <string name="aod_lock_screen_date_12_signature">dd.MM</string>
   <string name="aod_lock_screen_date_12_smartcover">"EE
-d/M"</string>
-  <string name="aod_lock_screen_date_signature">d/M</string>
+dd.MM"</string>
+  <string name="aod_lock_screen_date_signature">dd.MM</string>
   <string name="aod_lock_screen_date_smartcover">"EE
-d/M"</string>
-  <string name="aod_lock_screen_date_smartcover_b">d/M EE</string>
+dd.MM"</string>
+  <string name="aod_lock_screen_date_smartcover_b">dd.MM EE</string>
   <string name="aod_mode_preview">Pregled</string>
   <string name="aod_mode_style">Stil sata i pozadina</string>
   <string name="aod_mode_style_title">Više opcija</string>

@@ -933,7 +933,7 @@ Povećajte sigurnost svog računa."</string>
   <string name="srl_header_refreshing">Osvježavanje…</string>
   <string name="srl_header_release">Otpusti za osvježiti</string>
   <string name="srl_header_secondary">Otpusti na drugi kat</string>
-  <string name="srl_header_update">"'Zadnje ažuriranje' dd-MM HH:mm"</string>
+  <string name="srl_header_update">"'Zadnje ažuriranje' dd.MM HH:mm"</string>
   <string name="storage_external_sdcard">SD kartica</string>
   <string name="storage_internal_sdcard">Unutarnja memorija</string>
   <string name="storage_permission_denied">Dopuštenje za pristup pohrani odbijeno je</string>

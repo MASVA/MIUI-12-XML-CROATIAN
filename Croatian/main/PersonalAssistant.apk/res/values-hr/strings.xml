@@ -410,9 +410,9 @@
   <string name="miuishare_title_share">Podijeli</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="month_day_format">dd/MM/</string>
-  <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
-  <string name="month_format_en">dd/MM</string>
+  <string name="month_day_format">dd.MM</string>
+  <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
+  <string name="month_format_en">dd.MM</string>
   <string name="music">Glazba &amp; Radio</string>
   <string name="music_card_error_str">Došlo je do pogreške, otvorite aplikaciju Glazba za reprodukciju</string>
   <string name="music_open">Prikaži karticu Glazba &amp; Radio</string>
