@@ -286,9 +286,9 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="edit_sleep_record_button">Uredi</string>
   <string name="empty_data">-</string>
   <string name="enable">Uključeno</string>
-  <string name="enable_go_now">Uključeno</string>
-  <string name="enable_not_now">Isključeno</string>
-  <string name="enable_right_now">Uključeno</string>
+  <string name="enable_go_now">Uključi</string>
+  <string name="enable_not_now">Ne sad</string>
+  <string name="enable_right_now">Isključi</string>
   <string name="enough">Dovoljno</string>
   <string name="enter_mi_health">Otvori Mi Health</string>
   <string name="equivalent_exercise">≈%1$s km prohodano (%2$s kcal)</string>
@@ -587,7 +587,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="no_data">Nema podataka</string>
   <string name="no_records">Nema stavki.</string>
   <string name="no_snore">"Nisi hrkao ili pričao u snu"</string>
-  <string name="no_snore_1">"Nisi hrkao ili pričao u snu"</string>
+  <string name="no_snore_1">"Ovdje još nema stavki"</string>
   <string name="noon">PM</string>
   <string name="normal">Normalno</string>
   <string name="not_achieve_stand_goals">"Niste postigli svoj cilj"</string>
@@ -696,7 +696,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="sedentary_time_is_too_long">Vrijeme je za kretanje! Popijte malo vode i prošetajte.</string>
   <string name="sedentary_title">Podsjeti da se prošetam</string>
   <string name="sedentary_toggle_content">"Mi Health će vas podsjetiti da ustanete i prošetate ako ste dugo bili neaktivni."</string>
-  <string name="sedentaty_hazard_description">Sedentarno uzrokuje mnoge zdravstvene probleme. Stanite najmanje 1 minutu na sat i dosegnite cilj od 12 sati stajanja dnevno, daleko od sjedilačkih opasnosti.</string>
+  <string name="sedentaty_hazard_description">Sjedenje ne koristi vašem zdravlju. 12 sati s 1-minutnim pauzama ustajanja svakog dana pomoći će vam da izbjegnete rizike sjedilačkog načina života.</string>
   <string name="select_menstruation_end_date">Odaberite datum završetka ove menstruacije</string>
   <string name="select_null">Ništa nije odabrano</string>
   <string name="select_target">Odaberi cilj</string>
@@ -719,9 +719,9 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="sleep_deep_light_analysis">Lagani san i dubok san</string>
   <string name="sleep_deep_light_close_tip">Analiza dubokog sna je isključena</string>
   <string name="sleep_deep_light_no_data">Nema zapisa o dubokom snu</string>
-  <string name="sleep_deep_light_no_data_improvement">Značajke spavanja pri dubokom svjetlu nisu identificirane i učinit će se napori za optimizaciju algoritma.</string>
+  <string name="sleep_deep_light_no_data_improvement">"Ne mogu otkriti faze spavanja. Poboljšavamo naše algoritme. Ostanite u toku!"</string>
   <string name="sleep_detection_enable">Analizirajte ciklus spavanja</string>
-  <string name="sleep_detection_feedback">Feedback</string>
+  <string name="sleep_detection_feedback">Povratna inf.</string>
   <string name="sleep_detection_guide_four_description">Praćenje spavanja dnevno će trošiti oko 1% vaše baterije.</string>
   <string name="sleep_detection_guide_four_high_power_description">Provjerite je li vaš uređaj dovoljno napunjen prije spavanja. Slaba baterija može prekinuti praćenje spavanja.</string>
   <string name="sleep_detection_guide_four_high_power_title">Neka vaš uređaj bude napunjen</string>
@@ -740,11 +740,11 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="sleep_detection_question_four_title">Zašto različiti uređaji troše različite količine energije za praćenje spavanja?</string>
   <string name="sleep_detection_question_one_answer">"Kada je vaš uređaj isključen, ponovno pokrenut računalo ili je baterija prazna, praćenje spavanja bit će prekinuto jer senzori ne mogu prikupljati i analizirati podatke. U takvim će se slučajevima stanje spavanja činiti nepotpunim.
 Ako se ovaj problem često javlja, provjerite uređaj radi planiranih zadataka isključivanja ili preko noći ažuriranja sustava."</string>
-  <string name="sleep_detection_question_one_answer_1">"Analiza sna dubokog svjetla oslanja se na podatke o kretanju tijela prikupljene senzorima mobilnih telefona. Sljedeći uvjeti ne mogu rezultirati rezultatima analize jakog svjetla:
-1. Neuspjeh u prikupljanju podataka. Prikupljanje i izračunavanje podataka ne može se normalno provoditi zbog isključivanja mobilnog telefona ili nedovoljne energije za vrijeme spavanja. 
-2. Analiza podataka nije uspjela. Može biti da je mobilni telefon postavljen daleko od tijela ili još uvijek, što rezultira time da prikupljeno pomicanje tijela nije očito, a karakteristike sna dubokog svjetla ne mogu se privremeno analizirati. Nastavit ćemo optimizirati algoritam."</string>
+  <string name="sleep_detection_question_one_answer_1">"Faze dubokog i laganog spavanja otkrivaju se na temelju podataka o pokretu tijela koje su prikupili senzori vašeg uređaja. Evo zašto možda nećete moći vidjeti statistiku:
+1. Xiaomi Health nije mogao prikupiti podatke. To se može dogoditi kad se vaš uređaj isključi dok spavate, ako je baterija preslaba ili ako aplikacija ne smije raditi u pozadini. Dopustite Xiaomi Health da se automatski pokrene, dodajte ga iznimkama štednje baterije i zaključajte u pozadini kako se to ne bi ponovilo.
+2. Xiaomi Health nije mogao analizirati prikupljene podatke. To se može dogoditi kada je telefon stavljen predaleko od vašeg tijela. Alternativno, kretanje tijela može biti previše suptilno da bi se postavile pretpostavke o promjenama ciklusa spavanja. Neprestano poboljšavamo svoje algoritme kako bi Xiaomi Health mogao bolje analizirati vaš san."</string>
   <string name="sleep_detection_question_one_title">Zašto su moje statistike nepotpune?</string>
-  <string name="sleep_detection_question_one_title_1">"Zašto nije zabilježen lagani i duboki san?"</string>
+  <string name="sleep_detection_question_one_title_1">"Zašto ne vidim statistiku ciklusa spavanja?"</string>
   <string name="sleep_detection_question_three_answer">Vaš uređaj prati kretanje tijela tijekom spavanja pomoću ugrađenih senzora. Da biste statistiku učinili preciznijom, postavite uređaj na meku površinu blizu vašeg tijela. Izbjegavajte postavljanje na noćne ormariće ili previše daleko od madraca.</string>
   <string name="sleep_detection_question_three_title">Kako mogu svoje statistike učiniti preciznijim?</string>
   <string name="sleep_detection_question_two_answer">"Vaši ciklusi spavanja analiziraju se na uređaju lokalno. Praćenje mirovanja funkcionirat će čak i ako niste povezani s mrežom ili je trenutna veza prekinuta."</string>
@@ -792,13 +792,13 @@ podatke o spavanju"</string>
   <string name="sleep_service">Usluga praćenja spavanja</string>
   <string name="sleep_service_background_running">Usluga praćenja spavanja radi u pozadini</string>
   <string name="sleep_setting_title">Postavke spavanja</string>
-  <string name="sleep_snore_audio_auto">Pratite svoj zvuk</string>
-  <string name="sleep_snore_audio_auto_desc">Snimajte svoj pričanje dok spavate i pohranite datoteku u telefon da biste zaštitili privatnost.</string>
-  <string name="sleep_snore_audio_close_desc">Možete to onemogućiti u postavkama spavanja.</string>
-  <string name="sleep_snore_audio_enable">Detekcije su omogućene</string>
-  <string name="sleep_snore_audio_enable_desc">Večeras će se spavanje automatski pratiti.</string>
-  <string name="sleep_snore_audio_hight_power_desc">Provjerite je li vaš uređaj dovoljno napunjen prije spavanja.</string>
-  <string name="sleep_snore_detection">Otkrivanje hrkanja i pričanja</string>
+  <string name="sleep_snore_audio_auto">Snimi hrkanje i pričanje automatski</string>
+  <string name="sleep_snore_audio_auto_desc">Xiaomi Health može snimiti hrkanje i pričanje automatski na temelju vašeg rasporeda spavanja. Snimanje će se zaustaviti kad ustanete. Da biste zaštitili svoju privatnost, sve snimljene datoteke pohranit će se lokalno na vaš uređaj pomoću ugrađenog algoritma.</string>
+  <string name="sleep_snore_audio_close_desc">Tu značajku možete bilo kada isključiti u Postavkama.</string>
+  <string name="sleep_snore_audio_enable">Automatsko otkrivanje je uključeno</string>
+  <string name="sleep_snore_audio_enable_desc">Vaše hrkanje i pričanje automatski će se zabilježiti kad pođete na spavanje.</string>
+  <string name="sleep_snore_audio_hight_power_desc">"Imajte na umu da korištenje ove značajke troši veliku količinu energije. Dobro je držati punjač priključenim dok spavate kako biste izbjegli neočekivane prekide."</string>
+  <string name="sleep_snore_detection">Otkrijte hrkanje i pričanje kako biste saznali više o snu</string>
   <string name="sleep_snore_detection_desc">Pratite svoje spavanje</string>
   <string name="sleep_sober">Budan</string>
   <string name="sleep_sober_times_title">Probudio se</string>
@@ -835,8 +835,10 @@ podatke o spavanju"</string>
   <string name="snore_detection_notification_title">U tijeku je test spavanja</string>
   <string name="snore_detection_running_state">Otkrivanje…</string>
   <string name="snore_detection_running_state_description">Mikrofon je uključen. I dalje će raditi u pozadini.</string>
+  <string name="snore_detection_sotp_opt_1">Zaustavi i izbriši rezultate</string>
+  <string name="snore_detection_sotp_opt_2">Zaustavi i spremi rezultate</string>
   <string name="snore_detection_stop_pop_content">"Nećete moći nastaviti ovu sesiju ako je sada završite. Sljedeća će početi kad sljedeći put krenete u krevet."</string>
-  <string name="snore_detection_stop_pop_title">Završiti sesiju?</string>
+  <string name="snore_detection_stop_pop_title">Zaustaviti trenutnu sesiju otkrivanja hrkanja?</string>
   <string name="snore_detection_stopped_notification_title">Zaustavljeno otkrivanje hrkanja i pričanja</string>
   <string name="snore_dream_talk">Hrkanje i pričanje</string>
   <string name="snore_duration_label">Trajanje hrkanja</string>
@@ -924,6 +926,7 @@ podatke o spavanju"</string>
   <string name="sync_status_in_progress">Sinkronizacija…</string>
   <string name="sync_status_network_failure">"Ne mogu sinkronizirati. Povežite s mrežom i pokušajte ponovon."</string>
   <string name="sync_status_never_done">Nije sinkronizirano</string>
+  <string name="sync_status_oauth_error">Sinkronizacija izvora podataka nije uspjela. Ponovno je odobrite</string>
   <string name="tb_audio_progress_bar">Traka reprodukcije zvuka</string>
   <string name="tb_card_on_using_list">Dodano</string>
   <string name="tb_click_finish_stand">Nedovršeno stajanje skoro 1 sat, kliknite da biste dovršili stajanje</string>
@@ -1019,8 +1022,8 @@ podatke o spavanju"</string>
   <string name="tb_picker_sleep_goal">Odabrani cilj spavanja: %1$s. Povucite okomito da biste odabrali cilj.</string>
   <string name="tb_picker_weight">Odabrana težina: %1$s. Povucite okomito da biste odabrali težinu.</string>
   <string name="tb_picker_year">Odabrana godina: %1$d. Povucite okomito da biste odabrali godinu.</string>
-  <string name="tb_play_next">Sljedeća snimka</string>
-  <string name="tb_play_previous">Prethodna snimka</string>
+  <string name="tb_play_next">Prebaci na sljedeću snimku</string>
+  <string name="tb_play_previous">Prebaci na prethodnu snimku</string>
   <string name="tb_select_a_column">Odabrano %1$s</string>
   <string name="tb_show_sleep_info">Prikazivanje statistike spavanja za %1$s</string>
   <string name="tb_sleep_evaluation">Procijenjeni rezultat: %1$s</string>

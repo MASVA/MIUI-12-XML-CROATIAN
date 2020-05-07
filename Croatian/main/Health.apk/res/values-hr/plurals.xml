@@ -60,8 +60,8 @@
         <item quantity="one">%1$d zapis</item>
     </plurals>
 	<plurals name="dream_talk_segment_unit">
-        <item quantity="other">zapisa</item>
-        <item quantity="one">zapis</item>
+        <item quantity="other">" slučajeva"</item>
+        <item quantity="one">" slučaj"</item>
     </plurals>
     <plurals name="goal_format_with_unit">
         <item quantity="other">Cilj: %1$d koraka</item>

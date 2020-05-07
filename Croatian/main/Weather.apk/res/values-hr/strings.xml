@@ -303,6 +303,8 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="q_version_location_provider_btn_text">Uključite pristup lokaciji i poboljšajte preciznost lokacije</string>
   <string name="radar_cloud_image_title">Mapa radara</string>
   <string name="radar_cloud_update_time">Prije %1$s</string>
+  <string name="rain_sound_setting_summary_text">Pratite vremenske promjene zvučnim efektima</string>
+  <string name="rain_sound_setting_title_text">Efekti zvuka</string>
   <string name="rainfall_settings_summary">Postavke padalina</string>
   <string name="rainfall_settings_title">Upozorenje padalina</string>
   <string name="real_time_sunrise">Izlazak sunca %1$s</string>
@@ -314,6 +316,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="refresh_empty_data">"Ne mogu učitati podatke. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="reminder_from_xiaomi_weather_app">Upozorenja aplikacije Vrijeme</string>
+  <string name="request_cta_connect_net">Dopustite ovoj aplikaciji da se poveže s internetom i dodijelite gore navedena obvezna dopuštenja.</string>
   <string name="request_permission_location_dialog_content">Za prikaz informacija o vremenu relevantnim za vašu trenutnu lokaciju</string>
   <string name="request_permission_main_purpose">Prikaz informacija o vremenu</string>
   <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vašeg uređaja</string>
