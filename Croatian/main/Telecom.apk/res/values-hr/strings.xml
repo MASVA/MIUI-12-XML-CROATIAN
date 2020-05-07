@@ -111,7 +111,7 @@
   <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama)%1$s</string>
   <string name="bluetooth_connecting">Povezivanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogući apsolutnu glasnoću</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su neprihvatljiva glasnoća ili nepostojanje kontrole.</string>  <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su neprihvatljiva glasnoća ili nepostojanje kontrole.</string>  
   <string name="bluetooth_disconnected">Niste povezani</string>
   <string name="bluetooth_disconnecting">Isključivanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN Poslužitelj</string>
