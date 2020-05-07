@@ -9029,7 +9029,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="usb_use_power_only">Napajanje</string>
   <string name="usb_use_power_only_desc">Punjenje drugog povezanog uređaja</string>
   <string name="usb_use_tethering">Modemsko povezivanje USB-om</string>
-  <string name="use_control_panel">Koristite Centar za kontrolu</string>
+  <string name="use_control_panel">Koristi Centar za kontrolu</string>
   <string name="use_default_tts_settings_summary">Donje zadane postavke nadjačavaju postavke aplikacije</string>
   <string name="use_default_tts_settings_title">Uvijek koristi moje postavke</string>
   <string name="use_location_summary">Neka Google upotrebljava vašu lokaciju za poboljšanje rezultata pretraživanja i drugih usluga</string>
