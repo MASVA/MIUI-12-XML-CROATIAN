@@ -142,6 +142,8 @@
   <string name="album_sort_type_custom">Vlastito</string>
   <string name="album_sort_type_name_asc">Od A - Z</string>
   <string name="album_sort_type_name_desc">Od Z - A</string>
+  <string name="album_tab_page_switch_view_style_to_grid">Prikaz rešetke</string>
+  <string name="album_tab_page_switch_view_style_to_linear">Prikaz popisa</string>
   <string name="album_type_baby">Dječji album</string>
   <string name="album_type_share">Dijeljeni albumi</string>
   <string name="album_type_system">Albumi sustava</string>
@@ -349,7 +351,7 @@
   <string name="chooser_fragment_mishare_title">Podijeli na</string>
   <string name="cleaner_empty_value_description">Sve izgleda dobro</string>
   <string name="cleaner_photo_pick_delete_selected">Izbriši odabrane fotografije</string>
-  <string name="cleaner_raw_action">Izbriši</string>
+  <string name="cleaner_raw_action">Prikaži</string>
   <string name="cleaner_raw_description">Oslobodite prostor za pohranu brisanjem velikih RAW slika</string>
   <string name="cleaner_raw_title">Izbriši RAW datoteke</string>
   <string name="cleaner_scan_description">Optimiziranje stavki oslobađa prostor za pohranu na vašem uređaju</string>
@@ -476,6 +478,7 @@
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
   <string name="context_menu_copy">Kopiraj</string>
   <string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
+  <string name="continue_feedback">Dodatne povratne informacije</string>
   <string name="contrast">Kontrast</string>
   <string name="contrast_abbr">K</string>
   <string name="cool">Cool</string>
@@ -1082,8 +1085,13 @@ za fotografije"</string>
   <string name="macarons_download_dialog_title">Preuzimanje dodatka</string>
   <string name="macarons_download_dialog_without_wifi_confirm">Preuzmi</string>
   <string name="macarons_download_dialog_without_wifi_message">"Ne mogu se spojiti na WLAN. Možete koristiti mobilne podatke za preuzimanje čarobne vinjete."</string>
-  <string name="macarons_download_fail">"Ne mogu preuzeti dodatak. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="macarons_download_later">Pričekajte minutu ili dvije i pokušajte ponovo</string>
+  <string name="macarons_download_network_fail">"Ne mogu preuzeti dodatak. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="macarons_download_other_fail">"Ne mogu preuzeti zbog pogreške"</string>
+  <string name="macarons_download_sdscard_fail">"Ne mogu preuzeti. SD kartica nije dostupna."</string>
+  <string name="macarons_download_storage_fail">"Ne mogu preuzeti. Nema dovoljno prostora za pohranu."</string>
   <string name="macarons_download_success">Dodatak uspješno preuzet</string>
+  <string name="macarons_downloading">Preuzimanje dodatka…</string>
   <string name="macarons_select_image_range">"Ne mogu koristiti više slika za stvaranje čarobne vinjete"</string>
   <string name="macarons_select_video">"Ne mogu koristiti više videozapisa za stvaranje čarobne vinjete"</string>
   <string name="main_discard_confirm_message">Imate nespremljenih promjena</string>
@@ -1527,6 +1535,7 @@ za fotografije"</string>
   <string name="privacy_permission_request_title">Potrebno je dopuštenje</string>
   <string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
   <string name="private_entry_lock_state_enterd_text">Povuci dolje za otvaranje privatne mape</string>
+  <string name="problem_feedback">Povratne inf.</string>
   <string name="projection_cancel">Odustani</string>
   <string name="projection_checkbox_text">Zapamti ovaj zaslon</string>
   <string name="projection_device_connection_failed">Ne mogu povezati projektor</string>
@@ -1758,8 +1767,8 @@ za fotografije"</string>
   <string name="select_origin_tip">Izvorna datoteka (%s)</string>
   <string name="send_file_beautify_failed">"Ne mogu podijeliti"</string>
   <string name="send_files_to">Pošalji stavke na</string>
-  <string name="send_heif_summary">Pretvorite slike prije slanja da biste osigurali kompatibilnost</string>
-  <string name="send_heif_title">Pretvorite HEIF u JPG prije slanja</string>
+  <string name="send_heif_summary">Pretvorite HEIF slike u JPEG kako biste osigurali kompatibilnost</string>
+  <string name="send_heif_title">Pretvorite HEIF u JPEG prije slanja</string>
   <string name="send_invitation_fail">"Ne mogu poslati pozivnicu"</string>
   <string name="send_multiple_files_hint_format">Pošalji (%s)</string>
   <string name="send_public_url">Pošalji poveznicu albuma</string>
@@ -2219,6 +2228,7 @@ za fotografije"</string>
   <string name="vlog_clip_is_reversed">Preokrenuto</string>
   <string name="vlog_clip_select_trans">Odaberite prijelaz</string>
   <string name="vlog_clip_sort">Promijeni poredak videozapisa</string>
+  <string name="vlog_clip_zoom">Pomoću dva prsta povećajte ili smanjite broj okvira u pregledu</string>
   <string name="vlog_cloud_file_download">Stavke sa Mi Clouda</string>
   <string name="vlog_download">Preuzmi</string>
   <string name="vlog_download_btn">Preuzmi</string>
@@ -2234,6 +2244,8 @@ za fotografije"</string>
   <string name="vlog_end_of_film">Zatvaranje</string>
   <string name="vlog_exit_ddit_message">Sve promjene bit će izgubljene ako sada prekinete. Odustati svejedno?</string>
   <string name="vlog_exit_edit_title">Zatvaranje</string>
+  <string name="vlog_exit_message">Sve nespremljene promjene bit će izgubljene. Vratiti se svejedno?</string>
+  <string name="vlog_exit_title">Odbacivanje promjena</string>
   <string name="vlog_film_title">Otvaranja</string>
   <string name="vlog_filter_changfeng">Vjetar</string>
   <string name="vlog_filter_chujing">Spokoj</string>
@@ -2249,7 +2261,9 @@ za fotografije"</string>
   <string name="vlog_filter_xiayang">Ivanje</string>
   <string name="vlog_filter_zhaomu">Svitanje</string>
   <string name="vlog_float_view_change_audio">Promijeni zvučni zapis</string>
+  <string name="vlog_float_view_original_ratio">Original</string>
   <string name="vlog_float_view_ratio">Omjer</string>
+  <string name="vlog_improt_encode_video_error">Došlo je do pogreške kodiranja. Pokušajte ponovo.</string>
   <string name="vlog_load_data_fail">"Ne mogu učitati podatke"</string>
   <string name="vlog_mi_clip">Uređivač videozapisa</string>
   <string name="vlog_mi_clip_cn">Uređivač videozapisa</string>
@@ -2260,6 +2274,7 @@ za fotografije"</string>
   <string name="vlog_nav_title_ratio">Omjer</string>
   <string name="vlog_nav_title_template">Predlošci</string>
   <string name="vlog_none">Ništa</string>
+  <string name="vlog_photo_edit_not_support">"Ne mogu uređivati slike"</string>
   <string name="vlog_photo_not_support">"Ne mogu uređivati slike"</string>
   <string name="vlog_ratio_choose">Odaberite omjer</string>
   <string name="vlog_ratio_fullsize">Cijeli zaslon</string>
@@ -2305,6 +2320,7 @@ za fotografije"</string>
   <string name="vlog_video_importing">Uvoz videozapisa…</string>
   <string name="vlog_video_saved_in_my_create">Videozapis uspješno spremljen</string>
   <string name="vlog_video_selected_not_support">"Ne mogu urediti odabrani videozapis"</string>
+  <string name="vlog_video_trans_code_cons">Obrada datoteke visoke razlučivosti…</string>
   <string name="voice_assistant">Unos glasom</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

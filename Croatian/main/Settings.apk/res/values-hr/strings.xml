@@ -2017,6 +2017,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="continue_all_caps">NASTAVI</string>
   <string name="continue_reset_factory">Vraćanje na tvorničke postavke</string>
   <string name="contributors_title">Suradnici</string>
+  <string name="control_panel_switch_side">Zamijeni stranu Kontrolnog centra</string>
   <string name="controls_label">Kontrole</string>
   <string name="controls_subtitle">Podesi potrošnju energije</string>
   <string name="convenience_key_category_title">Prečaci</string>
