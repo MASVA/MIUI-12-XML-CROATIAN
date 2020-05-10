@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Plutajući prozor</string>
+  <string name="contentDescription">Pomicanje prozora</string>
+  <string name="freeform_demo_back">Natrag</string>
+  <string name="freeform_demo_final_over">Gotovo</string>
+  <string name="freeform_demo_final_restart">Započni ispočetka</string>
+  <string name="freeform_demo_final_title">"Sad ste spremni!"</string>
+  <string name="freeform_demo_go_on">Dalje</string>
+  <string name="freeform_demo_title_finish">Lijepo!</string>
+  <string name="freeform_demo_title_skip">Preskoči</string>
+  <string name="how_to_close_or_fullscreen_freeform">Zatvaranje plutajućih prozora ili prelazak na način rada preko cijelog zaslona</string>
+  <string name="how_to_drop_down_to_fullscreen">Prebaci na način rada preko cijelog zaslona</string>
+  <string name="how_to_drop_down_to_fullscreen_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku plutajućeg prozora</string>
+  <string name="how_to_hang_freeform">Smanjivanje plutajućih prozora</string>
+  <string name="how_to_hang_to_small_freeform">Smanjivanje plutajućeg prozora</string>
+  <string name="how_to_hang_to_small_freeform_summary">Povucite plutajući prozor u kut zaslona</string>
+  <string name="how_to_move_freeform">Pomicanje plutajućih prozora uokolo</string>
+  <string name="how_to_move_freeform_window">Pomicanje plutajućih prozora uokolo</string>
+  <string name="how_to_move_freeform_window_summary">Dodirnite i zadržite radnu traku plutajućeg prozora da ga povučete</string>
+  <string name="how_to_notification_drop_down">Otvoranje plutajućeg prozora</string>
+  <string name="how_to_notification_drop_down_summary">Dodirnite i zadržite, a zatim povucite radnu traku obavijesti</string>
+  <string name="how_to_open_freeform">Otvaranje obavijesti u plutajućem prozoru</string>
+  <string name="how_to_slide_up_to_close">Zatvaranje plutajućeg prozora</string>
+  <string name="how_to_slide_up_to_close_summary">Povucite prema gore s radne trake plutajućeg prozora</string>
+  <string name="how_to_use_freeform">Kako koristiti plutajuće prozore</string>
+</resources>

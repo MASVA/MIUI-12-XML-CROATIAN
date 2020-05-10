@@ -148,7 +148,7 @@
   <string name="miui_warning_tip_info">Došlo je do pogreške %1$s. Zatvoriti aplikaciju?</string>
   <string name="onehour">30 minuta</string>
   <string name="open_close_tip_action">Razumijem</string>
-  <string name="open_close_tip_content">Da zatvorite plutajući prozor, pritisnite i držite akcijsku traku, a zatim povucite prema gore</string>
+  <string name="open_close_tip_content">Da zatvorite plutajući prozor, pritisnite i držite radnu traku, a zatim povucite prema gore</string>
   <string name="package_delete_confirm_step_1">Deinstalirati %s?</string>
   <string name="package_delete_confirm_step_2">Deinstaliranje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>
   <string name="package_delete_confirm_step_3">"Nećete biti u mogućnosti otvoriti ovu aplikaciju nakon što je deinstalirate."</string>
