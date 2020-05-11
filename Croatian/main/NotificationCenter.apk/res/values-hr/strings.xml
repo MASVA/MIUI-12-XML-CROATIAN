@@ -213,6 +213,10 @@ Prijavite ovaj problem &gt;"</string>
   <string name="summary_float_enable_notification_first">Dopustite obavijesti da biste mogli uključiti plutajuće obavijesti</string>
   <string name="summary_lock_screen_enable_notification_first">Dopustite obavijesti da biste mogli uključiti obavijesti Zaklj. zaslona</string>
   <string name="summary_show_badge_enable_notification_first">Dopustite obavijesti da biste mogli uključiti značke obavijesti</string>
+  <string name="sunday">Nedjelja</string>
+  <string name="sunday_short">Ned</string>
+  <string name="sunday_shortest">N</string>
+  <string name="swipe_to_delete">Povuci lijevo ili desno za brisanje</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

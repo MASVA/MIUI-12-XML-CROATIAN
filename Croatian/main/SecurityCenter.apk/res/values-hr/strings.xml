@@ -361,7 +361,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_maanger_app_uninstalled_toast">Ta je aplikacija deinstalirana</string>
   <string name="app_manager_advanced_setting">Napredne postavke</string>
   <string name="app_manager_allow">Da</string>
-  <string name="app_manager_anomaly_analysis">Analiziraj nepravilnosti u aplikacijama</string>
+  <string name="app_manager_anomaly_analysis">Analizirajte probleme s aplikacijama treće strane</string>
   <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
   <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
   <string name="app_manager_app_info_name">Naziv aplikacije</string>
@@ -2235,6 +2235,8 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="numeric_recording_intro_header">Unesite zaporku</string>
   <string name="numeric_retry_button_text">Odustani</string>
   <string name="numeric_settings_help_how_to_record">Kako postaviti PIN</string>
+  <string name="oaid_reset_content_tip">Ako sada isključite virtualni ID, neke aplikacije mogu prestati raditi ispravno, dio vaših aplikacija može se izgubiti ili postati neupotrebljiv.</string>
+  <string name="oaid_reset_final_tip">Isključiti svejedno virtualni ID?</string>
   <string name="ok">U redu</string>
   <string name="ok_button">U redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija nije kompatibilna s najnovijim zahtjevima dopuštenja Androida. Odbijena dopuštenja mogu utjecati na način na koji ova aplikacija radi."</string>

@@ -81,11 +81,12 @@
   <string name="intelligent_recognition_item_summary">Koristite označenu melodiju zvona za pozive iz dostavnih i taxi usluga. Ova će značajka raditi kada je %s postavljen kao zadana melodija zvona.</string>
   <string name="intelligent_recognition_item_title">Identificiraj usluge</string>
   <string name="lock_summary">Zaštitite svoje osobne podatke</string>
+  <string name="low_fps_description">Niža stopa osvježavanja zaslona. Niža potrošnja energije.</string>
   <string name="low_light_preview">Pregled slabog osvjetljenja</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinkr. s Cloudom</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -198,6 +199,7 @@
   <string name="search_menu_title">Traži</string>
   <string name="several_days_use_time">Vrijeme zaslona: %2$s</string>
   <string name="shortcut_created">Taj prečac već postoji</string>
+  <string name="silent_ringtone_hint">Zvuk je isključen. Pojačajte glasnoću i pokušajte ponovo.</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Isporučena poruka</string>
@@ -302,11 +304,15 @@ Ova se aplikacija također mora povezati s internetom i zahtijeva sljedeća dopu
   <string name="usage_home_premission_second_summary_double_link_prefix">"Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete opozvati autorizaciju u Vrijeme zaslona &gt; Postavke &gt; Isključi Vrijeme zaslona."</string>
   <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Prije korištenja ove aplikacije pročitajte i prihvatite naše &amp;lt;a href='%1s'&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href='%2s'&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."</string>
   <string name="usage_home_premission_second_summary_new">"Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete opozvati autorizaciju u Vrijeme zaslona &gt; Postavke &gt; Isključi Vrijeme zaslona. Ako imate više pitanja o privatnosti, možete nas kontaktirati na privacy@xiaomi.com."</string>
+  <string name="usage_new_home_app_limit_summary">Postavite dnevno ograničenje zaslona za ovu aplikaciju</string>
+  <string name="usage_new_home_app_limit_title">Ograniči vrijeme zaslona</string>
   <string name="usage_new_home_average">"Prosj. "</string>
+  <string name="usage_new_home_avg_usage_day">Prosj. %s dnevno</string>
   <string name="usage_new_home_category">Kategorija</string>
+  <string name="usage_new_home_classify_manage">Upravljanje kategorijama aplikacija</string>
   <string name="usage_new_home_compare_text1">%.2f više nego dan prije</string>
   <string name="usage_new_home_compare_text2">%.2f manje nego dan prije</string>
-  <string name="usage_new_home_compare_text3">Same as the day before</string>
+  <string name="usage_new_home_compare_text3">Isto kao i dan prije</string>
   <string name="usage_new_home_current_week">Ovaj tjedan</string>
   <string name="usage_new_home_dashboard">Kontrolna ploča</string>
   <string name="usage_new_home_date_day_title">%s | Trajanje upotrebe</string>
@@ -317,9 +323,11 @@ Ova se aplikacija također mora povezati s internetom i zahtijeva sljedeća dopu
   <string name="usage_new_home_name">Ime</string>
   <string name="usage_new_home_show_more_data_summary">Također možete ograničiti vrijeme zaslona za pojedine aplikacije</string>
   <string name="usage_new_home_show_more_data_title">Pogledajte više statistika</string>
+  <string name="usage_new_home_sys_no_limit_summary">"Ne mogu ograničiti vrijeme zaslona za sistemske aplikacije"</string>
   <string name="usage_new_home_unlock_equals_text">Isto kao i dan prije</string>
   <string name="usage_new_home_unused">"Nisam koristio"</string>
   <string name="usage_new_home_update">Promjeni</string>
+  <string name="usage_new_home_usage_detail">Pojedinosti o uporabi</string>
   <string name="usage_new_home_week_category_title">Kategorije aplikacija</string>
   <string name="usage_new_home_week_compare_text1">%.2f više nego tjedan prije</string>
   <string name="usage_new_home_week_compare_text2">%.2f manje nego tjedan prije</string>

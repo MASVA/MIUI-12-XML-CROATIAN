@@ -278,6 +278,7 @@
   <string name="other">Ostalo</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
+  <string name="path_no_available">"Ova putanja nije dostupna"</string>
   <string name="path_not_available">Putanja nije dostupna</string>
   <string name="pause_download">Pauza</string>
   <string name="paused">Pauzirano</string>

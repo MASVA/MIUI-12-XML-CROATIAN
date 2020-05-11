@@ -36,6 +36,10 @@
          <item quantity="other">%d dana</item>
          <item quantity="one">%d dan</item>
     </plurals>
+	<plurals name="album_member">
+        <item quantity="other">%s osoba mogu vidjeti ovaj album</item>
+        <item quantity="one">%s osoba može vidjeti ovaj album</item>
+     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
         <item quantity="other">%1$d fotografija iz %2$s će biti dodano</item>
         <item quantity="one">%1$d fotografija iz %2$s će biti dodana</item>

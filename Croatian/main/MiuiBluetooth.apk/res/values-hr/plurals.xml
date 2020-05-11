@@ -12,4 +12,8 @@
         <item quantity="other">Povezano je %1$d uređaja</item>
         <item quantity="one">Povezan je %1$d uređaj</item>
     </plurals>
+	<plurals name="fast_connect_reset_nzbt">
+        <item quantity="other">Pritisnite i držite gumb na %1$s sek. tijekom isključivanja</item>
+        <item quantity="one">Pritisnite i držite gumb na %1$s sek. tijekom isključivanja</item>
+    </plurals>
 </resources>

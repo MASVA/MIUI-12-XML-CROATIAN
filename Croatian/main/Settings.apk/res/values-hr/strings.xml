@@ -406,7 +406,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="allow_lights_title">Dopusti korištenje LED svjetla</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
   <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
-  <string name="allow_oaid_used">Dopusti korištenje ID-a uređaja</string>
+  <string name="allow_oaid_used">Koristi virtualni ID</string>
   <string name="allow_oaid_used_desc">"Aplikacije neće moći pristupiti bilo kojem ID-u osim ako im to izričito ne dopustite. Neke značajke osobnih preporuka možda neće raditi ispravno kada je ova značajka uključena."</string>
   <string name="allow_overlay_description">Aplikaciji omogućuje da se prikazuje iznad drugih aplikacija koje upotrebljavate. To može ometati upotrebu tih aplikacija ili promijeniti njihov izgled ili ponašanje.</string>
   <string name="allow_sound">Dopusti zvuk</string>
@@ -1302,6 +1302,7 @@ Evo što može biti pogrešno:
   <string name="bluetooth_opp_profile_summary_connected">Povezano s poslužiteljem za prijenos datoteka</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Niste povezani s poslužiteljem za prijenos datoteka</string>
   <string name="bluetooth_opp_profile_summary_use_for">Koristi za prijenos datoteke</string>
+  <string name="bluetooth_paired">Spremljeno</string>
   <string name="bluetooth_paired_device_title">Vaši uređaji</string>
   <string name="bluetooth_pairing">Uparivanje…</string>
   <string name="bluetooth_pairing_accept">Upari</string>
@@ -3485,7 +3486,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="google_wallet">Google novčanik</string>
   <string name="got_it">Shvaćam</string>
   <string name="gps_description">Podržani su višestruki satelitski navigacijski sustavi (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description_global">Podržani su višestruki satelitski navigacijski sustavi (%s)</string>
+  <string name="gps_description_global">Xiaomi uređaji kompatibilni su s više navigacijskih sustava, uključujući GPS, NavIC, BeiDou, GLONASS i Galileo.</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WLAN</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
@@ -6465,6 +6466,7 @@ UT sučelje: %5$s"</string>
 
  Podatke aplikacija ne&amp;#263;ete izgubiti."</string>
   <string name="reset_app_preferences_title">Poništiti postavke?</string>
+  <string name="reset_confirm_directory">"Napomena: Prije vraćanja stavki provjerite je li mapa \"MIUI-Backup-AllBackup\" postoji na vašem mobilnom uređaju. Ako ne, napravite je."</string>
   <string name="reset_dashboard_summary">Mreža, aplikacije ili uređaj mogu se poništiti</string>
   <string name="reset_dashboard_title">Poništavanje opcija</string>
   <string name="reset_default_apn_failed">Poništavanje zadanih APN-a nije uspjelo</string>
@@ -6491,6 +6493,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="reset_network_final_desc_esim">Želite li vratiti sve postavke mreže na zadano i izbrisati preuzete SIM-ove? Ta se radnja ne može poništiti.</string>
   <string name="reset_network_title">Resetiraj WLAN, mobilne mreže i Bluetooth</string>
   <string name="reset_network_wifi">WLAN</string>
+  <string name="reset_remove_data_hint">Sve gore navedene stavke trajno se brišu. Izradite Sig. kopiju svih važnih stavki na računalo ili Mi Cloud prije nego što nastavite.</string>
   <string name="reset_second_space_passwd">Resetiraj zaporku Drugog prostora</string>
   <string name="reset_second_space_passwd_cancel">Odustani</string>
   <string name="reset_second_space_passwd_confirm">Nastavi</string>
@@ -6521,8 +6524,9 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="restore_is_running">Vraćanje uređaja</string>
   <string name="restore_launcher_layout_hit">Vraćanje postavki pokretača</string>
   <string name="restore_oaid_content">Resetiranje trenutnog ID-a uređaja stvorit će novi. Resetirati sada?</string>
+  <string name="restore_oaid_dialog_content">Više aplikacija koristi vaš virtualni ID. Ako sada resetirate, dio podataka vaše aplikacije može se izgubiti ili postati neupotrebljiv. Resetirati virtualni ID-a?</string>
   <string name="restore_oaid_positive">Resetiraj</string>
-  <string name="restore_oaid_positive_step">Resetiraj(%1$d)</string>
+  <string name="restore_oaid_positive_step">Resetiraj (%1$d)</string>
   <string name="restore_oaid_title">Resetiranje ID uređaja</string>
   <string name="restore_progress">Vraćanje…</string>
   <string name="restore_report">Detalji vraćanja</string>

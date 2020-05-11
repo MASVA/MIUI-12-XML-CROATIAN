@@ -788,7 +788,7 @@ Audio"</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo – žuto)</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
   <string name="data_disable_warning_no_mms">"Nećete moći slati i primati MMS ako isključite mobilne podatke (WCDMA/LTE). Međutim, to ćete moći postići kada je vaš uređaj spojen na WLAN."</string>
-  <string name="data_disable_warning_with_mms">"I dalje ćete moći slati i primati MMS ako isključite mobilne podatke (WCDMA/LTE). Za korištenje interneta povežite se na WLAN.."</string>
+  <string name="data_disable_warning_with_mms">"I dalje ćete moći slati i primati MMS ako isključite mobilne podatke (WCDMA/LTE). Za korištenje interneta povežite se na WLAN."</string>
   <string name="data_disable_warning_with_mms_lgu">"I dalje ćete moći slati i primati MMS ako isključite mobilne podatke (WCDMA/LTE). Za korištenje interneta povežite se na WLAN.
 
 Isključiti mobilne podatke?"</string>
