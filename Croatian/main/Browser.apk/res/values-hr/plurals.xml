@@ -101,4 +101,24 @@ Reproducirat će se sljedeći za %d sek…"</item>
         <item quantity="other">%d odgovora na Zhihu</item>
         <item quantity="one">%d odgovor na Zhihu</item>
     </plurals>
+	     <plurals name="comment_detail_title">
+        <item quantity="other">%d odgovora</item>
+        <item quantity="one">%d odgovor</item>
+     </plurals>
+     <plurals name="comment_hour_ago">
+        <item quantity="other">prije %d sati</item>
+        <item quantity="one">prije %d sat</item>
+     </plurals>
+     <plurals name="comment_look_all">
+        <item quantity="other">Prikaži %d komentara</item>
+        <item quantity="one">View %d komentar</item>
+     </plurals>
+     <plurals name="comment_minute_ago">
+        <item quantity="other">prije %d min.</item>
+        <item quantity="one">prije %d min.</item>
+     </plurals>
+     <plurals name="comment_selected">
+        <item quantity="other">Odabrano %d razloga</item>
+        <item quantity="one">Odabran %d razlog</item>
+     </plurals>
 </resources> 

@@ -459,6 +459,7 @@
   <string name="email_setting">E-pošta</string>
   <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
+  <string name="email_sync_failed">"Ne mogu sinkronizirati poštu"</string>
   <string name="eml_parse_message">Otvaranje EML datoteke…</string>
   <string name="empty_account_tip">"Ne mogu pronaći račun"</string>
   <string name="empty_email_tip">"Ne mogu poslati praznu poruku"</string>
@@ -480,6 +481,7 @@
   <string name="exchange_name">Korporativno</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Proširi podatke o primatelju</string>
+  <string name="expand_slide">Proširi bočnu traku</string>
   <string name="fail_get_email_message">Primanje poruke nije uspjelo</string>
   <string name="failed">Ne mogu učitati sliku</string>
   <string name="failed_parse_eml_file">"Ne mogu otvoriti EML datoteku, pokušajte ponovo."</string>
@@ -576,6 +578,7 @@
   <string name="gmail_server_authorization_deleted">"Ne mogu potvrditi autentičnost računa. Pokušajte ponovno dodati ovaj račun."</string>
   <string name="gmail_web_login_go">U redu</string>
   <string name="gmail_web_login_required_message">Prijavite se u Gmail</string>
+  <string name="go_to_mail_content">Prikaži e-poštu</string>
   <string name="have_auth_code">Imam kod</string>
   <string name="header_category_account">Računi</string>
   <string name="header_category_other">Povratne informacije</string>
@@ -1143,6 +1146,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
   <string name="sharing">Podijeli</string>
   <string name="shortcut_name_title">Prečac naziva mape</string>
   <string name="show_elided">▶ Prikaži citirani tekst</string>
+  <string name="show_contact_address">Prikaži adresu e-pošte kontakta</string>
   <string name="show_images">Preuzmi i prikaži slike</string>
   <string name="show_password">Prikaži zaporku</string>
   <string name="signature">"

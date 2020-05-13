@@ -42,6 +42,7 @@
   <string name="action_menu_request_desktop_site_off">Pristup Web stranici je isklj.</string>
   <string name="action_menu_request_desktop_site_on">Pristup Web stranici je uklj.</string>
   <string name="action_menu_text_add_bookmark">Dodaj oznaku</string>
+  <string name="action_menu_text_add_shortcut">Dodaj prečac</string>
   <string name="action_menu_text_bandwidth">Ušteda podataka</string>
   <string name="action_menu_text_bandwidth_off">Ušteda Isklj.</string>
   <string name="action_menu_text_bandwidth_on">Ušteda Uklj.</string>

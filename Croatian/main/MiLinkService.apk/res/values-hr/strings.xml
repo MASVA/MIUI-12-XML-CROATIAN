@@ -39,6 +39,11 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="help_page_text_05">Korak 1</string>
   <string name="help_page_text_06">"1. Koristite mali ručni telefon za spajanje na televizor s malim zaslonom, možete uspostaviti okomitu vezu sa zaslonom bez mrežnog okruženja.
 2. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno pregledavanje, morate povezati televizor (ili uređaj velikog zaslona) s mobilnim telefonom na istu bežičnu mrežu."</string>
+   <string name="help_page_text_06_global">"1. Mi TV, Mi Boxes, i Mi Projektori:
+Za najbolji učinak povežite telefon i vanjski monitor s istom Wi-Fi mrežom. Ako su povezani na različite mreže, možda će trebati više vremena da pronađete vanjski monitor i povežete se s njim.
+Napomena: Stariji Mi televizori možda ne podržavaju emitiranje na različitim mrežama.
+2. Ako koristite televizore, prijemnike ili projektore drugih marki, povežite i svoj telefon i vanjski monitor s istom Wi-Fi mrežom.
+Ako dva uređaja ne mogu biti povezana na istu mrežu, uključite Miracast na vanjskom monitoru. Nazivi funkcije Miracast mogu se razlikovati."</string>
   <string name="help_page_text_07">3. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno emitiranje. Ako nema bežične mreže ili ako se televizor i mobilni telefon ne mogu povezati na istu mrežu, trebate uključiti TV (ili uređaj velikog zaslona) [Miracast] Mirror projection screen]. Taj se naziv može razlikovati za različite marke televizora. Daljnju stranicu možete pomaknuti do dna ove stranice i saznati više.</string>
   <string name="help_page_text_08">Korak 2</string>
   <string name="help_page_text_09">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite WLAN i Bluetooth za stabilniju vezu."</string>
@@ -101,10 +106,11 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
 4. U slučaju drugih problema, pitanja i prijedloge možete poslati putem aplikacije Povratne inf."</string>
   <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string> 
   <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
+  <string name="nfc_connect_failed_toast">"Nije moguće emitirati. Pokušajte ponovo."</string>
   <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
   <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
   <string name="notification_show_more">Pogledajte dodatne značajke</string>
-  <string name="privacy_agree">同意</string>
+  <string name="privacy_agree">Slažem se</string>
   <string name="privacy_text_1">　　Dobrodošli u korištenje funkcije emitiranja zaslona. Uslugu emitiranja zaslona pruža Milian, a neke funkcije emitiranja zaslona podržavaju emitiranja zaslona drugih tvrtki. Da biste osigurali svoju privatnost, obavezno pročitajte&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
   <string name="privacy_text_2">　　Klikom na Slažem se prihvaćate gore navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
   <string name="privacy_text_pemission">"　　• Dopuštenja WLAN mreže koriste se za otkrivanje i povezivanje uređaja.
@@ -120,6 +126,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="san_wait_msg_4">"Pogledajte \"Pomoć\" ako ne možete pronaći uređaje"</string>
   <string name="service_name">UniPlay Service</string>
   <string name="small_window">Minimiziraj prozor</string>
+  <string name="small_window_not_supported">"Ne možete smanjiti ovu aplikaciju dok se emitira"</string>
   <string name="status_bar_in_casting">Emitiranje</string>
   <string name="status_bar_in_casting_long">Kliknite za proširenje dodatnih značajki</string>
   <string name="status_bar_notification_info_overflow">999+</string>

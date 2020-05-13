@@ -171,6 +171,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="de_component_tags">Oznake</string>
   <string name="de_font_exchange_success">Uspješno kupljeno</string>
   <string name="de_icon_text_comment">Komentiraj</string>
+  <string name="de_icon_text_discuss">Raspravi</string>
   <string name="de_icon_text_favorite">Dodaj u favorite</string>
   <string name="de_icon_text_like">Sviđa mi se</string>
   <string name="de_icon_text_share">Podijeli</string>
@@ -220,6 +221,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="early_morning">AM</string>
   <string name="enable_accessibility">Potrebno je dopuštenje</string>
   <string name="enable_accessibility_hint">"Uslugu možete uključiti u Temama. Nakon toga moći ćete odabrati koje će aplikacije raditi s transparentnim pozadinama."</string>
+  <string name="enable_all_free_mode">Otkupi</string>
+  <string name="enabling_all_free_mode">Otkup…</string>
   <string name="enable_aod_list">Uključi Always-on zaslon</string>
   <string name="enable_transparent_wallpaper">Koristi transparentnu pozadinu</string>
   <string name="eras_ad">AD</string>
@@ -935,6 +938,7 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="theme_component_title_statusbar">Traka statusa</string>
   <string name="theme_component_title_wallpaper">Početni zaslon</string>
   <string name="theme_component_video_wallpaper">Dinamične slike pozadine</string>
+  <string name="theme_community">Zajednica</string>
   <string name="theme_current_using_has_update">Dostupno ažuriranje teme</string>
   <string name="theme_description_title_customized">Uredi</string>
   <string name="theme_description_title_default">Zadano</string>
