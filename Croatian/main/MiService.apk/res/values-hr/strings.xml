@@ -140,8 +140,8 @@
   <string name="miui_main_update_success_sub_title">Upoznajte novi MIUI</string>
   <string name="miui_main_update_success_title">Život postaje lakši</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinkr. s Cloudom</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

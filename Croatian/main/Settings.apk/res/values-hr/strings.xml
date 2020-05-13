@@ -4749,6 +4749,8 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_msg_call_log_prefix">"Moja povijest poziva za zadnji sat:"</string>
   <string name="miui_sos_play_voice">Reproduciraj SOS poruku</string>
   <string name="miui_sos_remind_add">Dodaj</string>
+  <string name="miui_sos_remind_close">Hitni SOS je uključen. Isključiti ga zajedno sa svim povezanim funkcijama?</string>
+  <string name="miui_sos_remind_close_confirm">Isključi</string>
   <string name="miui_sos_remind_infocontent">"Dodao sam vas kao moj hitni kontakt. Primit ćete poruku s mojim informacijama o lokaciji u slučaju da sam u opasnosti. [Mi Hitni SOS]"</string>
   <string name="miui_sos_remind_open">Hitni SOS treba barem jedan hitni kontakt da radi normalno.</string>
   <string name="miui_sos_remind_sendinfo">"Nemojte zaboraviti reći tim ljudima da su sada hitni kontakti. Dakle, moći će vam pomoći brže u slučaju nužde."</string>

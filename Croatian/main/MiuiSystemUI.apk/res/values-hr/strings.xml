@@ -1676,6 +1676,11 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_cellular_detail_data_usage">Potrošnja podataka</string>
   <string name="quick_settings_cellular_detail_data_used">%s iskorišteno</string>
   <string name="quick_settings_cellular_detail_data_warning">Upozorenje %s</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobilni podaci (WCDMA/LTE) bit će isključeni. Ako ne koristite WLAN, više nećete moći koristiti aplikacije za koje je potrebna podatkovna veza. Slanje ili primanje multimedijskih poruka bit će ograničeno.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilni podaci bit će isključeni. Povezivanje s mobilnim mrežama može rezultirati dodatnim troškovima ovisno o vašem stanju podataka.</string>
+  <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Odustani</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">U redu</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Isključi</string>
   <string name="quick_settings_cellular_detail_over_limit">Iznad ograničenja</string>
   <string name="quick_settings_cellular_detail_remaining_data">Preostali podaci</string>
   <string name="quick_settings_cellular_detail_title">Mobilni podaci</string>

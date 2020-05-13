@@ -856,8 +856,8 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="missing_name">"(Bez imena)"</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinkr. s Cloudom</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Osvježeno</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Osvježavanje</string>

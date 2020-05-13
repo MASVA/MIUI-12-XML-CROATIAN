@@ -262,6 +262,7 @@ Audio"</string>
   <string name="fast_connect_device_title_find_headset">Pronađi %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">"Čini se da ovaj uređaj nije vaš: %1$s"</string>
   <string name="fast_connect_nzbt_reset">Držite pritisnutu gornju tipku na %1$s sek. prilikom isključivanja</string>
+  <string name="fast_connect_reset_common">Resetirajte ovaj uređaj da biste mogli uparivati</string>
   <string name="fast_connect_wbs_name">Mi Wireless punjač za zvučnik</string>
   <string name="fast_connect_wbs_reset">Držite pritisnutu gornju tipku na %1$s sek. prilikom isključivanja</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>

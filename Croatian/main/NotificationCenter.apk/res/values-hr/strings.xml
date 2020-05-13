@@ -31,6 +31,7 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="afternoon">PM</string>
   <string name="app_name">Obavijesti</string>
+  <string name="back">Natrag</string>
   <string name="cancel">Odustani</string>
   <string name="category_other">Ostalo</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
@@ -87,8 +88,8 @@
   <string name="menu_setting_unfold">Važno</string>
   <string name="midnight">Ponoć</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinkr. s Cloudom</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
