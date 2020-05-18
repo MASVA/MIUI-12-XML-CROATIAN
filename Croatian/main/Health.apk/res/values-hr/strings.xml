@@ -685,6 +685,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="saturday">Nedjelja</string>
   <string name="saturday_short">Ned</string>
   <string name="saturday_shortest">N</string>
+  <string name="save">Spremi</string>
   <string name="search_menu_title">Pretraži</string>
   <string name="sedentary_detail_title">Predugo sjedenje je štetno.</string>
   <string name="sedentary_enhance_remind">Vibracija također</string>
@@ -926,7 +927,7 @@ podatke o spavanju"</string>
   <string name="sync_status_in_progress">Sinkronizacija…</string>
   <string name="sync_status_network_failure">"Ne mogu sinkronizirati. Povežite s mrežom i pokušajte ponovon."</string>
   <string name="sync_status_never_done">Nije sinkronizirano</string>
-  <string name="sync_status_oauth_error">Sinkronizacija izvora podataka nije uspjela. Ponovno je odobrite</string>
+  <string name="sync_status_oauth_error">"Ne mogu sinkronizirati podatke. Prvo odobrite potrebna dopuštenja."</string>
   <string name="tb_audio_progress_bar">Traka reprodukcije zvuka</string>
   <string name="tb_card_on_using_list">Dodano</string>
   <string name="tb_click_finish_stand">Nedovršeno stajanje skoro 1 sat, kliknite da biste dovršili stajanje</string>
@@ -1011,6 +1012,7 @@ podatke o spavanju"</string>
   <string name="tb_month_dialog_go_today">Odabrano danas</string>
   <string name="tb_month_dialog_select_date">Odabrano %1$s</string>
   <string name="tb_month_dialog_select_date_with_snore" formatted="false">Odabrano %1$s, %s</string>
+  <string name="tb_multiple_selecte_all">Odabri sve</string>
   <string name="tb_not_add_list">Nije dodano</string>
   <string name="tb_pause_detection">Pauza</string>
   <string name="tb_picker_day">Odabrani dan: %1$d. Povucite okomito da biste odabrali dan.</string>
@@ -1040,6 +1042,7 @@ podatke o spavanju"</string>
   <string name="tb_stand_day_ring">Danas, %1$s je akumulirao da dovrši stajanje, cilj je završiti stajanje za 12 sati</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$, Statistički podaci o završetku stajanja, povucite lijevo i desno za promjenu vremenskog raspona, kliknite na stupac za prikaz detalja</string>
   <string name="tb_stand_wm_column_click">%1$s, stajanje %2$d, %3$s</string>
+  <string name="tb_unmultiple_selecte_all">Poništi odabir</string>
   <string name="tb_user_account_signed">Mi Račun: %1$s.</string>
   <string name="tb_user_account_unsigned">Dodirnite za prijavu na Mi Račun</string>
   <string name="tb_user_sleep_card_info">Cilj dnevnog spavanja: %1$s.</string>

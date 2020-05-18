@@ -317,10 +317,10 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="notification_trans_interrupt_message">Veza je prekinuta. Pokušaj ponovo uspostaviti vezu…</string>
   <string name="notification_trans_interrupt_title">Ponovno spajanje…</string>
   <string name="notification_trans_leave_message">Ne zatvarajte Mi Mover dok prenosi stvari.</string>
-  <string name="notification_trans_receive_message">Primanje podataka sada. Ne isključujte Wi-Fi ili prebacivajte između mreža.</string>
+  <string name="notification_trans_receive_message">Primanje podataka. Ne isključujte Wi-Fi ili prebacivati između mreža.</string>
   <string name="notification_trans_receive_title">Primanje podataka…</string>
   <string name="notification_trans_running_title">Mi Mover sada radi…</string>
-  <string name="notification_trans_send_message">Slanje podataka sada. Ne isključujte Wi-Fi ili prebacivajte između mreža.</string>
+  <string name="notification_trans_send_message">Slanje podataka. Ne isključujte Wi-Fi ili prebacivati između mreža.</string>
   <string name="notification_trans_send_title">Slanje podataka…</string>
   <string name="ok">U redu</string>
   <string name="old_app_name">Stara verzija</string>
@@ -458,15 +458,15 @@ audio, video, dokumente i aplikacije na novi uređaj"</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">Vrijeme: %s</string>
-  <string name="transfer_bottom_tip">Tijekom prijenosa nećete moći upotrebljavati Wi-Fi ili Bluetooth. Ne ostavljajte ovu stranicu.</string>
+  <string name="transfer_bottom_tip">Tijekom prijenosa nećete moći upotrebljavati Wi-Fi ili Bluetooth. Ne napuštajte ovu stranicu.</string>
   <string name="transfer_finish_bottom_tip">Ako više nećete koristiti svoj stari uređaj, možete izbrisati sve podatke na njemu nakon što potvrdite da su sve važne stavke uspješno prenesene.</string>
   <string name="transfer_lose_connect_summary">Čini se da je veza prekinuta. Ponovno se povežite.</string>
   <string name="transfer_lose_connect_title">Veza je prekinuta</string>
   <string name="transfer_multi_connect_summary">Vaš prijenos bio je prekinut iz sigurnosnih razloga. Možete dotaknuti \"Ponovno se poveži\" kako biste svejedno nastavili.</string>
   <string name="transfer_multi_connect_title">Izgleda da je više uređaja povezano na ovaj hotspot</string>
   <string name="transfer_quit_alert_btn_negative">Prekid</string>
-  <string name="transfer_quit_alert_btn_positive">Ne odustaj</string>
-  <string name="transfer_quit_alert_message">"Mi Mover sada radi. Prekinuti svejedno?
+  <string name="transfer_quit_alert_btn_positive">Ne prekidaj</string>
+  <string name="transfer_quit_alert_message">"Mi Mover radi. Prekinuti svejedno?
 
 "</string>
   <string name="transfer_quit_alert_message_extra">Napredak prijenosa bit će spremljen. Moći ćete nastaviti prijenos s mjesta na kojem ste stali sljedeći put kada spojite dva uređaja.</string>
@@ -480,7 +480,7 @@ audio, video, dokumente i aplikacije na novi uređaj"</string>
   <string name="transfer_snap_old_backup">Izrada Sig. kopije…</string>
   <string name="transfer_snap_old_send_finish">Uspješno poslano</string>
   <string name="transfer_snap_old_sending">Slanje…</string>
-  <string name="transfer_snap_old_waiting_backup">Čekaju se sigurnosne kopije…</string>
+  <string name="transfer_snap_old_waiting_backup">Čekaju se Sig. kopije…</string>
   <string name="transfer_snap_old_waiting_send">Čeka se slanje…</string>
   <string name="transfer_summary_interrupt_exception">Pokušaj ponovo uspostaviti vezu…</string>
   <string name="transfer_summary_new_finish">Primljeno: %1$s | Vrijeme: %2$s</string>

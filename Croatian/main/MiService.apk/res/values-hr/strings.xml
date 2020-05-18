@@ -121,6 +121,7 @@
   <string name="miui_feedback_main_submit_dialog_content">Izgleda da nismo uspjeli pronaći rješenje vašeg problema. Možete nam poslati povratne informacije.</string>
   <string name="miui_feedback_main_submit_dialog_title">Pošaljite povratne informacije</string>
   <string name="miui_feedback_main_title">Povratne inf.</string>
+  <string name="miui_guide_accessibility_image_desc">Slika</string>
   <string name="miui_guide_clear_db_service">\"Usluge i povratne informacije\" brišu predmemoriju jezika…</string>
   <string name="miui_guide_footer_desc">Vodič za početnike osmišljen je kako bi vam pomogao da saznate više o uređaju i MIUI-ju. Neke slike i videozapisi u vodiču izrađeni su samo za referentne svrhe i mogu se razlikovati od stvarnog proizvoda. Značajke opisane u ovom priručniku mogu se razlikovati ovisno o modelu vašeg uređaja, verziji MIUI i okruženju upotrebe.</string>
   <string name="miui_guide_item_complete">Dovršeno</string>

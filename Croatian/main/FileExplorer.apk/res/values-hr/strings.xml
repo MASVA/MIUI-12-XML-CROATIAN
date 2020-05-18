@@ -703,6 +703,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Odznači</string>
   <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem WLAN-a</string>
+  <string name="otg_data_transfer_success">Uspješno poslano</string>
+  <string name="otg_data_transferring">"Prijenos datoteka… Ne isključujte vanjsku pohranu."</string>
   <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
   <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se pridružio zajednici</string>

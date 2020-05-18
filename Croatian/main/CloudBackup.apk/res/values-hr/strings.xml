@@ -132,6 +132,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="error_unknown">Nešto je pošlo po krivu</string>
   <string name="expand_button_title">Napredno</string>
   <string name="get_device_id_error">"Ne mogu dobiti ID uređaja"</string>
+  <string name="help_and_feedback">Pomoć i povratne inf.</string>
   <string name="hint_restore_cross_space">Izgled početnog zaslona može se prikazati pogrešno ako prenesete stavke između prostora.</string>
   <string name="home_hint_global_launcher">POCO pokretač</string>
   <string name="home_hint_other_launcher">Ostali pokretači</string>

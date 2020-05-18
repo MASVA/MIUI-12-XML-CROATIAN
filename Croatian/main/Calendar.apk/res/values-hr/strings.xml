@@ -373,6 +373,7 @@
   <string name="miuix_search_history_clear">Izbriši povijest pretraživanja</string>
   <string name="miuix_search_history_default_title">Povijest pretraživanja</string>
   <string name="miuix_search_recommendation_default_title">Možda će vas ovo zanimati</string>
+  <string name="miuix_search_recommendation_item_del_des">Izbriši</string>
   <string name="modify_all">Promijeni sve događaje u nizu</string>
   <string name="modify_all_following">Promijeni ovaj i sve buduće događaje</string>
   <string name="modify_event">Promijeni samo ovaj događaj</string>

@@ -1492,6 +1492,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_otg_trackball_out">Trackball nije povezan</string>
   <string name="notification_otg_unknow_in">OTG uređaj je povezan</string>
   <string name="notification_otg_unknow_out">OTG uređaj nije povezan</string>
+  <string name="notification_storage_float">Vanjska pohrana</string>
   <string name="notification_tap_again">Dodirni ponovo za otvaranje</string>
   <string name="notification_template_text">Nova obavijest. Dodirnite za prikaz.</string>
   <string name="oem_preferred_feedback_reporter"/>
@@ -2012,7 +2013,8 @@ Povucite dolje za zaključavanje"</string>
   <string name="status_bar_use_physical_keyboard">Fizička tipkovnica</string>
   <string name="status_bar_volte_label">HD</string>
   <string name="status_bar_work">Radni profil</string>
-  <string name="status_unavailable">Nedostupno</string>
+  <string name="status_unavailable">Nije dostupno</string>
+  <string name="storage_is_connecting">%1$s je povezan</string>
   <string name="stream_accessibility">Pristupačnost</string>
   <string name="stream_alarm">Alarm</string>
   <string name="stream_bluetooth_sco">Bluetooth</string>

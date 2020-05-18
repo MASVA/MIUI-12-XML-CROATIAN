@@ -2008,7 +2008,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="content_capture">Prilagodba pomoću podataka aplikacije</string>
   <string name="content_capture_summary">Dopustite aplikacijama da šalju sadržaj sustavu Android. Dodirnite da biste saznali više.</string>
   <string name="content_description_menu_button">Izbornik</string>
-  <string name="contextual_card_dismiss_confirm_message">Ukloni prijedlog?</string>
+  <string name="content_miui_music_mute_by_user">Reproducirati zvuk medija kada je nečujni režim uključen?</string>
+  <string name="contextual_card_dismiss_confirm_message">Ukloniti prijedlog?</string>
   <string name="contextual_card_dismiss_keep">Zadrži</string>
   <string name="contextual_card_dismiss_remove">Ukloni</string>
   <string name="contextual_card_feedback_confirm_message">Želite li nam poslati povratne informacije o tom prijedlogu?</string>
@@ -8370,6 +8371,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="title_layout_current">Veličina teksta</string>
   <string name="title_layout_current2">Veličina teksta</string>
   <string name="title_layout_current2_weight">Veličina teksta &amp; font</string>
+  <string name="title_miui_music_mute_by_user">Bešumno</string>
   <string name="title_layout_v2">Veličina teksta &amp; skaliranje</string>
   <string name="title_local_resource">Lokalni resursi</string>
   <string name="title_of_auto_launch_manage">Autom. pokretanje</string>

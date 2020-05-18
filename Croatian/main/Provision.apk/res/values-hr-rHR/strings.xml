@@ -86,6 +86,12 @@
   <string name="mint_keyboard_oobe_terms">Pravila o privatnosti Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o Privatnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
+  <string name="mobile_network">Korištenje mobilnih podataka</string>
+  <string name="move_data_dialog_box_le">"To omogućava upotrebu mobilne podatkovne i GPS veze na temelju zahtjeva korisnika. Za sinkronizaciju računa i drugih stavki možda će biti potrebno korištenje mobilnih podataka, ovisno o specifikacijama pametnog telefona."</string>
+  <string name="move_data_dialog_box_title">Ako imate tarifu s neograničenim podacima, korištenje mobilnih podataka može generirati dodatne naknade za operatera. Svejedno koristiti mobilne podatke?</string>
+  <string name="move_data_dialog_cancel">Odustani</string>
+  <string name="move_data_dialog_title">Možete ograničiti mobilnu podatkovnu vezu u Postavkama kasnije</string>
+  <string name="move_data_dialog_use">Koristi</string>
   <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
   <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
   <string name="navigation_picker_gesture_guide">Vodič za geste</string>
