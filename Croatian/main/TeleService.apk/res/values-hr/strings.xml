@@ -1205,6 +1205,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_no_active_sim">SIM kartica nije aktivirana</string>
   <string name="incall_error_no_phone_number_supplied">Unesite važeći broj da biste uspostavili poziv.</string>
   <string name="incall_error_out_of_service">Mobilna mreža nije dostupna.</string>
+  <string name="incall_error_out_of_service_kr">Samo hitni poziv dostupan.</string>
   <string name="incall_error_out_of_service_wfc">Mobilna mreža nije dostupna. Povežite se s bežičnom mrežom da biste uputili poziv.</string>
   <string name="incall_error_outgoing_call_failed">"Ne mogu uputiti poziv".</string>
   <string name="incall_error_power_off">Za uspostavu poziva, prvo isključite Zrakoplovni način.</string>
@@ -1222,12 +1223,13 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_supp_service_unknown">Usluga nije podržana</string>
   <string name="incall_error_turn_off_airplane_mode">Isključite Zrakoplovni način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se s bežičnom mrežom da biste uputili poziv.</string>
+  <string name="incall_number_anonymous">Nepoznati broj</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="incoming_video_show_pref_summary">Prikaži video profil koji je postavio pozivatelj. Za korištenje ove značajke, uključite posjetnicu kontakata.</string>
   <string name="incoming_video_show_pref_title">"Prikaži Video profil pozivatelja"</string>
   <string name="input_password">Unesite zaporku</string>
   <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
-  <string name="internation_remain_minutes">（ili %1$s %2$s međunarodno vrijeme razgovora）</string>
+  <string name="internation_remain_minutes">(ili %1$s %2$s međunarodno vrijeme razgovora)</string>
   <string name="international_calls">Samo međunarodni</string>
   <string name="international_dial_complete_intention">Uštedite novac na međunarodnim pozivima.</string>
   <string name="international_dial_complete_no">Ne sada</string>
@@ -1586,7 +1588,9 @@ Uvijek koristi ovaj broj"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Pogreška SIM kartice</string>
   <string name="msim_setting_categery_title">Postavke SIM kartice</string>
   <string name="msim_setting_default_data">Podatkovna kartica</string>
+  <string name="msim_setting_default_data_description">Data SIM %d</string>
   <string name="msim_setting_default_voice">Zadano za pozive</string>
+  <string name="msim_setting_default_voice_description">SIM %d</string>
   <string name="msim_setting_install_virtual_sim_install">Instaliraj</string>
   <string name="msim_setting_install_virtual_sim_message">Instalirajte Mi Carrier Services za kupnju SIM kartica i upravljanje planom vašeg mobilnog operatera.</string>
   <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
@@ -2007,6 +2011,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="private_dns_mode_provider_failure">Povezivanje nije moguće</string>
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="private_num">Privatni broj</string>
+  <string name="private_num_kr">ID pozivatelja je ograničen</string>
   <string name="proceed">Nastavi</string>
   <string name="product_reflash_button">Osvježi…</string>
   <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>

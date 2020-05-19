@@ -5263,7 +5263,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>
   <string name="not_installed">Nije instalirano za korisnika</string>
   <string name="not_set">Nije postavljeno</string>
-  <string name="notch_and_status_bar_settings">Urez &amp; traka statusa</string>
+  <string name="notch_and_status_bar_settings">Centar za kontrolu &amp; traka statusa</string>
   <string name="notch_force_black_desc">Kada je uključeno, područje ureza zaslona je crno</string>
   <string name="notch_force_black_title">Sakrij urez zaslona</string>
   <string name="notch_settings">Urez</string>
