@@ -499,7 +499,7 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="lens_dirty_detected_content">""Izgleda da je leća vaše kamere prljava. Očistite je radi boljeg učinka."</string>
   <string name="lens_dirty_detected_title_back">Leća stražnje kamere je prljava</string>
   <string name="lens_dirty_detected_title_front">Leća prednje kamere je prljava</string>
-  <string name="lighting_hint_needed">Postavite svoj objekt u središte osvjetljenja</string>
+  <string name="lighting_hint_needed">Postavite svoj objekt u kadar</string>
   <string name="lighting_hint_title">Studio osvjetljenje</string>
   <string name="lighting_hint_too_close">Udaljite kameru</string>
   <string name="lighting_hint_too_far">Približite kameru</string>
@@ -556,7 +556,7 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="locations">Lokacije</string>
   <string name="lpl_dialog_item_name_burst">Pritisnite i zadržite za brzo snimanje</string>
   <string name="lpl_dialog_item_name_record">Pritisnite i zadržite za snimanje</string>
-  <string name="lpl_dialog_title">Odaberite funkciju za okidač</string>
+  <string name="lpl_dialog_title">Odaberite funkciju okidača</string>
   <string name="lying_direct_hint">Trenutna orijentacija</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"Udaljenost između objektiva i predmeta ne smije prelaziti 10 cm"</string>
@@ -584,10 +584,10 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_create_emoticon">Izradite paket naljepnica</string>
   <string name="mimoji_create_emoticon_error">"Ne mogu izraditi paket naljepnica"</string>
   <string name="mimoji_create_emoticon_progress">Izrada paketa naljepnica…</string>
-  <string name="mimoji_create_tips">Gledajte ravno u kameru da stvorite svoj Mimoji</string>
+  <string name="mimoji_create_tips">Gledajte ravno u kameru</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Izbriši&lt;/font&gt;</string>
-  <string name="mimoji_delete_dialog_title">Izbrisati Mimoji?</string>
-  <string name="mimoji_delete_mimoji">Izbriši Mimoji</string>
+  <string name="mimoji_delete_dialog_title">Izbrisati avatar?</string>
+  <string name="mimoji_delete_mimoji">Izbriši</string>
   <string name="mimoji_delete_success">Izbrisano</string>
   <string name="mimoji_detect_faceshape_failed">"Ne mogu otkriti oblik lica"</string>
   <string name="mimoji_detect_facial_failed">"Ne mogu vidjeti lice"</string>
@@ -605,7 +605,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_edit_abandon_capture_alert">Odbaciti sve promjene?</string>
   <string name="mimoji_edit_back_alert">Sve promjene bit će odbačene nakon što se vratite. Vratiti se svejedno?</string>
   <string name="mimoji_edit_cancel_alert">Sve promjene bit će odbačene. Otkazati svejedno?</string>
-  <string name="mimoji_edit_mimoji">Uredi Mimoji</string>
+  <string name="mimoji_edit_mimoji">Uredi avatar</string>
   <string name="mimoji_editor">Uredi</string>
   <string name="mimoji_emoticon_save">Spremi paket naljepnica</string>
   <string name="mimoji_emoticon_with_jpeg_save">Spremi i slike također</string>
@@ -616,7 +616,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_eyeglass">Naočale</string>
   <string name="mimoji_eyelash">Trepavice</string>
   <string name="mimoji_featured_face">Lice</string>
-  <string name="mimoji_fragment_tab_name">Mimoji</string>
+  <string name="mimoji_fragment_tab_name">Avatari naljepnica</string>
   <string name="mimoji_freckle">Pjege</string>
   <string name="mimoji_gif_accelerate">Brzina</string>
   <string name="mimoji_gif_clear_bg">Ukloni pozadinu</string>
@@ -631,7 +631,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_mustache">Dlake na licu</string>
   <string name="mimoji_nose">Nos</string>
   <string name="mimoji_nose_lisps">Nos i usne</string>
-  <string name="mimoji_on_create">Izradi Mimoji</string>
+  <string name="mimoji_on_create">Izradi avatar</string>
   <string name="mimoji_ornament">Pribor</string>
   <string name="mimoji_recapture">Počni ispočetka</string>
   <string name="mimoji_recapture_alert">Sve promjene bit će odbačene nakon što počnete ispočetka. Započeti svejedno?</string>
@@ -642,7 +642,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_save_success">Uspješno spremljeno</string>
   <string name="mimoji_select_number_error">Odaberite najmanje %d stavku</string>
   <string name="mimoji_selected">Odaberi</string>
-  <string name="mimoji_start_create">Izrada Mimoji…</string>
+  <string name="mimoji_start_create">Izrada avatara…</string>
   <string name="mimoji_tab_cartoon">Crtić</string>
   <string name="mimoji_tab_human">Osoba</string>
   <string name="mimoji_tips">Dodirnite za snimanje fotografije. Pritisnite i držite za snimanje videozapisa.</string>
@@ -670,7 +670,7 @@ izgledaju veće na fotografijama"</string>
   <string name="module_name_edit_title">Značajke</string>
   <string name="module_name_edit_unfavorite_title">Više značajki</string>
   <string name="module_name_fun">Kratki video</string>
-  <string name="module_name_fun_ar">Mimoji</string>
+  <string name="module_name_fun_ar">Avatar</string>
   <string name="module_name_manual">Ručno</string>
   <string name="module_name_more">Više</string>
   <string name="module_name_multi_camera">Prednja &amp; stražnja</string>
@@ -1103,7 +1103,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne možete koristiti Quick snap način dok je \"Probudi tipkama za glasnoću\" uključen."</string>
-  <string name="pref_camera_sound_title">Zvuk kamere</string>
+  <string name="pref_camera_sound_title">Zvuk okidača</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_sr_enable_title">Uključi SR</string>
   <string name="pref_camera_stereo_mode_title">Podešavanje fokusa</string>
@@ -1156,7 +1156,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_zsl_entry_off">Isključeno</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_capture_settings">Kamera</string>
-  <string name="pref_custom_feature_layout_title">Raspored zančajke</string>
+  <string name="pref_custom_feature_layout_title">Raspored zančajki</string>
   <string name="pref_custom_shutter_sound_title">Zvuk</string>
   <string name="pref_custom_tint_title">Boje</string>
   <string name="pref_customization_title">Prilagodi</string>
@@ -1186,6 +1186,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_lens_dirty_detect_title">Obavijesti o prljavoj leći</string>
   <string name="pref_manual_exposure_title">Vrijeme eksp.</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="pref_module_settings">Načini</string>
   <string name="pref_more_mode_style_title">Načini kamere</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Možete snimati samo 720P videozapise s 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Možete snimati samo 720p videozapise s 960FPS</string>
