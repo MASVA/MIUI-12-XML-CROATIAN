@@ -410,6 +410,14 @@
   <string name="miuishare_title_share">Podijeli</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="month_day_format">dd.MM</string>
   <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
   <string name="month_format_en">dd.MM</string>
@@ -417,6 +425,9 @@
   <string name="music_card_error_str">Došlo je do pogreške, otvorite aplikaciju Glazba za reprodukciju</string>
   <string name="music_open">Prikaži karticu Glazba &amp; Radio</string>
   <string name="music_setting_brief">Spojite slušalice kako biste nastavili slušati glazbu ili radio s mjesta na kojem ste prekinuli.</string>
+  <string name="mru_setting_brief">Brze aplikacije i prečaci koji se prikazuju nakon što povučete prema dolje u Zaklj. aplikacija</string>
+  <string name="mru_setting_brief_detail">"Nedavno korištene brze aplikacije i prečaci."</string>
+  <string name="mru_title">Nedavne stavke</string>
   <string name="navigation_network_location_enable">Slažem se</string>
   <string name="navigation_network_location_enable_later">Odustani</string>
   <string name="navigation_network_location_enabled">Usluge lokacije su uključene. To možete promijeniti u Postavkama.</string>
@@ -466,8 +477,6 @@
   <string name="preload_empty">Ovdje još nema stavki. Povuci dolje za osvježiti.</string>
   <string name="qq_new">Novi status</string>
   <string name="qq_qzone">Qzone</string>
-  <string name="quick_app_setting_brief">Povuci dolje u Zaklj. aplikacija da biste vidjeli nedavno korištene brze aplikacije</string>
-  <string name="quick_app_setting_brief_detail">"Pregledajte sve brze aplikacije koje ste nedavno koristili"</string>
   <string name="quick_app_title">Nedavne brze aplikacije</string>
   <string name="quickstart_accessibility_description">"Zaklj. aplikacija omogućuje prečace za odabrane aplikacije trećih strana. Ovi prečaci neće raditi ako isključite značajku."</string>
   <string name="quickstart_accessibility_service">Zaklj. aplikacija</string>

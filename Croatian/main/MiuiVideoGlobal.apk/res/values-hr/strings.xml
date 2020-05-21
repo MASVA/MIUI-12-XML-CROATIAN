@@ -515,6 +515,7 @@ za videozapise"</string>
   <string name="mr_cast_button_connected">Gumb za emitiranje. Povezan</string>
   <string name="mr_cast_button_connecting">Gumb za emitiranje. Povezivanje</string>
   <string name="mr_cast_button_disconnected">Gumb za emitiranje. Veza prekinuta</string>
+  <string name="mr_cast_dialog_title_view_placeholder">Nema dostupnih podataka</string>
   <string name="mr_chooser_searching">Traženje uređaja</string>
   <string name="mr_chooser_title">Emitiranje na</string>
   <string name="mr_controller_album_art">Naslovnica albuma</string>
@@ -530,6 +531,8 @@ za videozapise"</string>
   <string name="mr_controller_stop">Zaustavi</string>
   <string name="mr_controller_stop_casting">Zaustavi emitiranje</string>
   <string name="mr_controller_volume_slider">Klizač za glasnoću</string>
+  <string name="mr_dialog_device_header">Emitiranje na uređaju</string>
+  <string name="mr_dialog_route_header">Reproduciraj u grupi</string>
   <string name="mr_system_route_name">Sustav</string>
   <string name="mr_user_route_category_name">Uređaji</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
