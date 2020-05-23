@@ -76,6 +76,7 @@ dd.MM"</string>
   <string name="deep_space_planet_des">\"Doba dana\" se odražava na svjetlosne promjene koje se događaju oko vas tokom dana. Izlasci i zalasci sunca u ovoj temi sinkroniziraju se s vašom lokacijom.</string>
   <string name="delete">Izbriši</string>
   <string name="digital_clock">Digitalni</string>
+  <string name="disable_aod_in_dark_room">Isključi kad leži u mraku</string>
   <string name="disable_aod_in_power_save_mode">Isključi kad je uključena Štednja baterije</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne prikazuj stavke radi uštede energije"</string>
   <string name="error_icon_content_description">Pogreška</string>

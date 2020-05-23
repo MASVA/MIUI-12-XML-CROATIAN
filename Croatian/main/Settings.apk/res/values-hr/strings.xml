@@ -147,7 +147,7 @@ Uključite ovu značajku i dodirnite gumb Pristupačnost na dnu zaslona da biste
   <string name="accessibility_screen_magnification_navbar_summary">"Kad je povećavanje uključeno, upotrijebite gumb Pristupačnost na dnu zaslona za brzo povećavanje.
 
 "&lt;b&gt;Da biste zumirali&lt;/b&gt;", pokrenite pove&amp;#263;anje, a zatim dodirnite bilo gdje na zaslonu.
-"&lt;ul&gt;&lt;li&gt;&amp;#8226; Povucite s dva ili vi&amp;#353;e prstiju da biste se pomicali.&lt;/li&gt;"
+"&lt;ul&gt;&lt;li&gt;&amp;#8226; Povuci s dva ili vi&amp;#353;e prstiju da biste se pomicali.&lt;/li&gt;"
 "&lt;li&gt;&amp;#8226; Spojite dva ili vi&amp;#353;e prstiju da biste prilagodili zumiranje.&lt;/li&gt;&lt;/ul&gt;"
 
 "&lt;b&gt;Da biste zumirali samo nekoliko trenutaka&lt;/b&gt;", pokrenite pove&amp;#263;anje, a zatim dodirnite i zadr&amp;#382;ite bilo gdje na zaslonu.
@@ -3377,12 +3377,12 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="freeform_guide_drop_down_to_fullscreen_title">Pregledavanje plutajućih prozora u cijelom zaslonu</string>
   <string name="freeform_guide_move_summary">Dodirnite i zadržite radnu traku plutajućeg prozora da povučete</string>
   <string name="freeform_guide_move_title">Pomicanje plutajućih prozora uokolo</string>
-  <string name="freeform_guide_move_to_small_freeform_window_summary">Povucite plutajući prozor u kut zaslona</string>
+  <string name="freeform_guide_move_to_small_freeform_window_summary">Povuci plutajući prozor u kut zaslona</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Minimiziranje plutajućih prozora</string>
   <string name="freeform_guide_notification_drop_down_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku obavijesti</string>
   <string name="freeform_guide_notification_drop_down_title">Otvaranje plutajućih prozora</string>
   <string name="freeform_guide_settings">Plutajući prozor</string>
-  <string name="freeform_guide_slide_up_to_close_summary">Povucite prema gore s akcijske trake plutajućeg prozora</string>
+  <string name="freeform_guide_slide_up_to_close_summary">Povuci prema gore s akcijske trake plutajućeg prozora</string>
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
   <string name="freeform_vedio_description">"·Dodirnite i zadržite, a zatim povucite prema dolje da otvorite obavijest u plutajućem prozoru.
 ·Dodirnite \"Plutajući prozor\" u Nedavno za odabir aplikacija."</string>
@@ -5030,8 +5030,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="n_cacrts">%d CA certifikati</string>
   <string name="name_password_not_consistent">Pogrešno korisničko ime ili zaporka</string>
   <string name="nature_color">Zadano</string>
-  <string name="navigation_guide_app_quick_switch_hide_line_summary">Povucite prema gore s donje strane zaslona, a zatim povucite prstom ulijevo ili udesno</string>
-  <string name="navigation_guide_app_quick_switch_summary">&gt;Povucite prstom ulijevo ili udesno s indikatora cijelog zaslona ili dna zaslona</string>
+  <string name="navigation_guide_app_quick_switch_hide_line_summary">Povuci prema gore s donje strane zaslona, a zatim povucite prstom ulijevo ili udesno</string>
+  <string name="navigation_guide_app_quick_switch_summary">&gt;Povuci prstom ulijevo ili udesno s indikatora cijelog zaslona ili dna zaslona</string>
   <string name="navigation_guide_app_quick_switch_title">Prebacivanje između aplikacija</string>
   <string name="navigation_guide_app_summary">Prijeđite prstom ulijevo ili udesno od ruba zaslona u gornjem području</string>
   <string name="navigation_guide_app_title">"Pokreće radnju aplikacije"</string>
@@ -5972,7 +5972,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="power_key_start_guide">Uključite Google pomoćnika pomoću tipku za uključivanje/isključivanje na uređajima na cijelom zaslonu</string>
   <string name="power_label">Energija</string>
   <string name="power_last_full_charge_summary">prije ^1</string>
-  <string name="power_menu_under_keyguard_summary">Omogućite pristup izborniku za napajanje dok je uređaj zaključan</string>
+  <string name="power_menu_under_keyguard_summary">Omogući pristup izborniku za napajanje dok je uređaj zaključan</string>
   <string name="power_menu_under_keyguard_title">Pristup izborniku za napajanje</string>
   <string name="power_mgr">Optimizacija baterije</string>
   <string name="power_mode">Postavke energije</string>
@@ -6166,7 +6166,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="privacy_failed_need_to_unlock_nofingerprint">Unesite zaporku prije upotrebe novog otiska prsta</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
-  <string name="privacy_header_text_less_than_half">Premalo prostora. Povucite separator malo dalje.</string>
+  <string name="privacy_header_text_less_than_half">Premalo prostora. Povuci separator malo dalje.</string>
   <string name="privacy_mms">Poruke</string>
   <string name="privacy_mode_dialog_message">Sakriti poruke, bilješke, fotografije, postavke i dolazne pozive?</string>
   <string name="privacy_mode_dialog_title">Gost način rada</string>
@@ -6817,7 +6817,7 @@ Da biste upotrebljavali prikačivanje zaslona:
   <string name="screensaver_settings_when_to_dream">Kada pokrenuti</string>
   <string name="screenshot">Snimka zaslona</string>
   <string name="screenshot_label">Snimka zaslona</string>
-  <string name="screenshot_three_gesture">Povucite s 3 prsta za izradu snimke zaslona</string>
+  <string name="screenshot_three_gesture">Povuci s 3 prsta za izradu snimke zaslona</string>
   <string name="screenshot_three_gesture_summary">Ostale geste s 3 prsta će biti isključene</string>
   <string name="sd_card_settings_label">Memorija USB</string>
   <string name="sd_card_storage">Memorija USB</string>
@@ -7536,7 +7536,7 @@ Možda je PIN netočan."</string>
   <string name="sim_status_title_sim_slot">Status SIM-a (utor za SIM %1$d)</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
   <string name="single_key_use">Jedna tipka</string>
-  <string name="single_key_use_summary">Koristite tipku Početna za funkcije koje obavljaju druge 2 tipke</string>
+  <string name="single_key_use_summary">Koristi tipku Početna za funkcije koje obavljaju druge 2 tipke</string>
   <string name="single_press_AI_button">Pritisnite AI tipku</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
@@ -7555,13 +7555,13 @@ Možda je PIN netočan."</string>
   <string name="slider_button_title">Promjeni</string>
   <string name="slider_choose_app">Odaberi aplikaciju</string>
   <string name="slider_game_page_code">00008</string>
-  <string name="slider_game_tool_summary">Povucite zaslon prema dolje da vidite dostupne prečace tijekom igranja igre</string>
+  <string name="slider_game_tool_summary">Povuci zaslon prema dolje za prikaz dostupnih prečaca tijekom igranja</string>
   <string name="slider_game_tool_tilte">Prečaci igara</string>
-  <string name="slider_global_summary_app">Povucite zaslon prema dolje da otvorite aplikaciju</string>
-  <string name="slider_global_summary_drawer">Povucite zaslon prema dolje da vidite dostupne prečace</string>
-  <string name="slider_global_summary_selfie">Povucite zaslon prema dolje da snimite selfie</string>
+  <string name="slider_global_summary_app">Povuci zaslon prema dolje za otvaranje aplikacije</string>
+  <string name="slider_global_summary_drawer">Povuci zaslon prema dolje za prikaz dostupnih prečaca</string>
+  <string name="slider_global_summary_selfie">Povuci zaslon prema dolje za snimanje selfie</string>
   <string name="slider_global_title">Prečaci klizača</string>
-  <string name="slider_high_grade_summary">Povucite zaslon prema dolje da izvršite prilagođenu radnju u određenim okolnostima</string>
+  <string name="slider_high_grade_summary">Povuci zaslon prema dolje za izvedbu prilagođene radnje u određenim okolnostima</string>
   <string name="slider_high_grade_title">Dodatne postavke klizača</string>
   <string name="slider_selfie">Snimi selfie</string>
   <string name="slider_title">Postavke klizača</string>
@@ -7573,7 +7573,7 @@ Možda je PIN netočan."</string>
   <string name="slider_tool_drawer">Otvori alate</string>
   <string name="slider_tool_none">Ništa</string>
   <string name="slider_tool_none_summary">Nema dodijeljenih prečaca</string>
-  <string name="slider_video_tool_summary">Povucite zaslon prema dolje da vidite dostupne prečace tijekom gledanja videozapisa</string>
+  <string name="slider_video_tool_summary">Povuci zaslon prema dolje za prikaz dostupnih prečaca tijekom gledanja videozapisa</string>
   <string name="slider_video_tool_title">Prečaci videozapisa</string>
   <string name="slider_vocie_click_too_often">Prebrzo! Pričekajte trenutak ili dva i pokušajte ponovno.</string>
   <string name="slider_vocie_online_close">Povuci gore</string>
@@ -7589,15 +7589,15 @@ Možda je PIN netočan."</string>
   <string name="slot_status_title">IMEI podaci</string>
   <string name="small_font">Mali</string>
   <string name="smallwindow_smartcover_title">Prozirni prednji pokrov</string>
-  <string name="smart_battery_footer">"Da bi se produljilo trajanje baterije, adaptivna baterija ograničava potrošnju baterije za aplikacije koje se upotrebljavaju rjeđe. Telefon će s vremenom saznati kako upotrebljavate aplikacije.
+  <string name="smart_battery_footer">"Da bi se produljilo trajanje baterije, prilagodljiva baterija ograničava potrošnju baterije za aplikacije koje se upotrebljavaju rjeđe. Telefon će s vremenom saznati kako upotrebljavate aplikacije.
 
 Obavijesti za te aplikacije mogu kasniti."</string>
-  <string name="smart_battery_manager_title">Adaptivna baterija</string>
+  <string name="smart_battery_manager_title">Prilagodljiva baterija</string>
   <string name="smart_battery_summary">Ograničava potrošnju baterije za aplikacije koje ne upotrebljavate često</string>
-  <string name="smart_battery_title">Adaptivna baterija</string>
+  <string name="smart_battery_title">Prilagodljiva baterija</string>
   <string name="smart_notifications_title">Prilagodljive obavijesti</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
-  <string name="smartcover_sensitive_summary">Zaključajte/otključajte telefon automatski koristeći smart cover</string>
+  <string name="smartcover_sensitive_summary">Zaklj./otklj. telefon autom. koristeći smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
   <string name="sms_access_restriction_enabled">Ograniči pristup SMS-ovima i zapisniku poziva</string>
   <string name="sms_access_restriction_enabled_summary">Samo zadane aplikacije za telefon i poruke imaju dopuštenja za SMS i zapisnik poziva</string>
@@ -7605,23 +7605,23 @@ Obavijesti za te aplikacije mogu kasniti."</string>
   <string name="sms_change_default_dialog_text">Želite li upotrijebiti aplikaciju %1$s umjesto aplikacije %2$s kao svoju aplikaciju za SMS?</string>
   <string name="sms_change_default_dialog_title">Želite li promijeniti aplikaciju za SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Želite li upotrijebiti aplikaciju %s kao svoju aplikaciju za SMS?</string>
-  <string name="sms_delivered_sound_dialog_title">Odaberite zvuk za isporučene SMS poruke</string>
+  <string name="sms_delivered_sound_dialog_title">Odaberi zvuk za isporučene SMS poruke</string>
   <string name="sms_delivered_sound_title">Poruka isporučena</string>
   <string name="sms_messages_title">SMS poruke</string>
   <string name="sms_over_ims_off">Isključi SMS putem IMS-a</string>
   <string name="sms_over_ims_on">Uključi SMS putem IMS-a</string>
   <string name="sms_preference">Preferencija za SMS</string>
-  <string name="sms_received_sound_dialog_title">Odaberite zvuk za primljene SMS poruke</string>
+  <string name="sms_received_sound_dialog_title">Odaberi zvuk za primljene SMS poruke</string>
   <string name="sms_received_sound_title">Primljena poruka</string>
   <string name="sms_title">SMS</string>
   <string name="snooze_options_title">Dopusti odgodu obavijesti</string>
   <string name="soft_ap_create_failed">"Ne mogu izraditi hotspot"</string>
   <string name="soft_ap_creating">Izrada hotspot-a…</string>
   <string name="software_backup_info">Podaci aplikacije</string>
-  <string name="software_version">Software version</string>
+  <string name="software_version">Verzija softvera</string>
   <string name="sometimes_running">Ponekad se izvodi (%s)</string>
-  <string name="sort_avg_use">Razvrstaj po prosječnoj upotrebi</string>
-  <string name="sort_max_use">Razvrstaj po maksimalnoj upotrebi</string>
+  <string name="sort_avg_use">Poredaj po prosječnoj upotrebi</string>
+  <string name="sort_max_use">Poredaj po maksimalnoj upotrebi</string>
   <string name="sort_order_alpha">Poredaj prema nazivu</string>
   <string name="sort_order_frequent_notification">Najčešće</string>
   <string name="sort_order_recent_notification">Najnovije</string>
@@ -7675,7 +7675,7 @@ Prije upotrebe naših usluga, pročitajte i prihvatite naše %s."</string>
   <string name="sound_work_settings">Zvukovi radnog profila</string>
   <string name="speaker">Zvučnik</string>
   <string name="speaker_clean">Očistite zvučnik</string>
-  <string name="special_access">Pristup aplikacija</string>
+  <string name="special_access">Poseban pristup aplikaciji</string>
   <string name="special_access_more">Prikaži više</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
@@ -8343,7 +8343,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="theme_customization_icon_shape_title">Oblik ikone</string>
   <string name="theme_settings_title">Teme</string>
   <string name="thememanager_not_found">"Ne mogu otvoriti Teme. Provjerite je li aplikacija instalirana."</string>
-  <string name="three_gesture_down">Povucite s 3 prsta dolje</string>
+  <string name="three_gesture_down">Povuci s 3 prsta dolje</string>
   <string name="three_gesture_long_press">Pritisnite i zadržite sa %d prsta</string>
   <string name="time_format_category_title">Format vremena</string>
   <string name="time_picker_title">Vrijeme</string>
