@@ -313,7 +313,9 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
   <string name="micloud_dspt">Sinkronizirajte kontakte, poruke, povijest poziva i druge stavke na svim uređajima.
 Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
+  <string name="micloud_dspt_provision_china">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_dspt_provision_xms">Koristite Mi Cloud za sinkronizaciju podataka.</string>
+  <string name="micloud_dspt_provision_xms_china">Koristite Mi Cloud za sinkronizaciju podataka.</string>
   <string name="micloud_find_device_close_alert_content">"Ako isključite Pronađi uređaj, nećete moći pronaći telefon koristeći ovu značajku. Ako vaš telefon podržava NFC funkcionalnost, sve vaše bankovne kartice i kartice bit će izbrisane iz usluge Mi Pay."</string>
   <string name="micloud_find_device_close_alert_negtive">Isključi svejedno</string>
   <string name="micloud_find_device_close_alert_positive">Ostavi uključeno</string>
@@ -327,8 +329,8 @@ Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_find_device_guide_alert_positive">U redu</string>
   <string name="micloud_find_device_guide_alert_title">Zapamtite svoj ID Mi Računa i zaporku</string>
   <string name="micloud_find_device_guide_button">Uključi Pronađi uređaj</string>
-  <string name="micloud_find_device_guide_desc_pad">"Prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da biste locirali, zaključali ili izbrisali svoj uređaj. Ovo će vam možda pomoći da pronađete svoj uređaj u slučaju da je izgubljen. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[See Help]&lt;/a&gt;"</string>
-  <string name="micloud_find_device_guide_desc_phone">"Prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da biste locirali, zaključali ili izbrisali svoj uređaj. Ovo će vam možda pomoći da pronađete svoj uređaj u slučaju da je izgubljen. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;[See Help]&lt;/a&gt;"</string>
+  <string name="micloud_find_device_guide_desc_pad">Ako je vaš uređaj izgubljen, prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; na bilo kojem drugom uređaju da biste locirali, daljinsko zaključali ili izbrisali podatke na izgubljenom uređaju. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Prikaz detalja&lt;/a&gt;.</string>
+  <string name="micloud_find_device_guide_desc_phone">Ako je vaš uređaj izgubljen, prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; na bilo kojem drugom uređaju da biste locirali, daljinsko zaključali ili izbrisali podatke na izgubljenom uređaju. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Prikaz detalja&lt;/a&gt;.</string>
   <string name="micloud_find_device_guide_content">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš će vam davatelj usluge naplatiti za ovu poruku. Kada promjenite SIM karticu, automatski će se poslati poruka za ponovno aktiviranje ove značajke.</string>
   <string name="micloud_find_device_guide_fail_reopen">Uključi Pronađi uređaj na Mi Cloudu</string>
   <string name="micloud_find_device_guide_fail_sub_net">Provjerite mrežnu vezu i pokušajte ponovo.</string>
@@ -446,6 +448,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_notif_content_battery_low">Slaba baterija.</string>
   <string name="micloud_notif_content_clipboard_push">Možete zalijepiti bilo gdje.</string>
   <string name="micloud_notif_content_depend_wifi">Povežite se na WLAN da sinkr.</string>
+  <string name="micloud_notif_content_depend_wifi_china">Povežite se na WLAN da sinkr.</string>
   <string name="micloud_notif_content_dirty_data">Pojedinosti</string>
   <string name="micloud_notif_content_master_depend_wifi">Povežite se na WLAN ili promijenite postavke sinkronizacije. Dodirnite za promjenu.</string>
   <string name="micloud_notif_content_memory_low">Nema dovoljno prostora za pohranu.</string>
@@ -454,7 +457,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_notif_content_sync_finish">Račun</string>
   <string name="micloud_notif_content_sync_not_finish">Pojedinosti</string>
   <string name="micloud_notif_content_sync_with_off">Dodirnite da sada sinkr. vaš uređaj.</string>
-  <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Mi Cloud"</string>
+  <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Mi Cloudom"</string>
   <string name="micloud_notif_title_clipboard_push">Sadržaj kopiran u međuspremnik</string>
   <string name="micloud_notif_title_dirty_data">Imate nesinkr. podataka</string>
   <string name="micloud_notif_title_master_depend_wifi">"Sinkronizacija je pauzirana dok upotrebljavate mobilne podatke"</string>
@@ -497,7 +500,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_setting_recorder_summary">Zvuk i snimljemi pozivi</string>
   <string name="micloud_setting_sms_summary">SMS i MMS Poruke</string>
   <string name="micloud_setting_sms_summary_for_google_csp">Tekstualne poruke</string>
-  <string name="micloud_setting_wifi_summary">WLAN postavke</string>
+  <string name="micloud_setting_wifi_summary">Postavke WLAN-a</string>
+  <string name="micloud_setting_wifi_summary_china">Postavke WLAN-a</string>
   <string name="micloud_single_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari sa prijateljima.</string>
   <string name="micloud_space_applist_detail">Upravljajte aplikacijama vašeg početnog zaslona</string>
   <string name="micloud_space_applist_title">Upravljajte aplikacijama</string>
@@ -535,7 +539,8 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_sync_result_request_error">Pogreška zahtjeva za sinkronizacijom</string>
   <string name="micloud_sync_result_secure_space_limit">"Ne sinkroniziraj stavke iz Drugog prostora"</string>
   <string name="micloud_sync_result_sim_activated_error">"Ne mogu aktivirati SIM karticu"</string>
-  <string name="micloud_sync_result_wifi_only">Ova je stavka prevelika. Sinkronizirajte kada ste povezani na WLAN</string>
+  <string name="micloud_sync_result_wifi_only">Ova je stavka prevelika. Sinkronizirajte je kada ste povezani na WLAN.</string>
+  <string name="micloud_sync_result_wifi_only_china">Ova je stavka prevelika. Sinkronizirajte je kada ste povezani na WLAN.</string>
   <string name="micloud_title_dspt" formatted="false">Iskorišteno %s/Ukupan prostor %s,</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>
   <string name="micloud_title_full_dspt">"Dosegli ste ograničenje kapaciteta pohrane"</string>
@@ -612,6 +617,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="pref_summary_sync_video_on_wifi_only">"Sinkr. videozapise profila kontakata samo kada je povezano na WLAN mrežu"</string>
   <string name="pref_title_sync_contacts_title">Sinkroniziraj kontakte</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Koristi samo WLAN za sinkr. fotografija.</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only_china">Koristi samo WLAN za sinkr. fotografija.</string>
   <string name="pref_title_sync_video_on_wifi_only">Koristi samo WLAN za sinkr. videozapisa.</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_and_agreement">Uvjeti i odredbe</string>
@@ -656,7 +662,9 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, ponovno dodajte račun.</string>
   <string name="sms">SMS</string>
   <string name="soundrecorder_sync_only_in_wifi">Koristi samo WLAN za sinkr.</string>
+  <string name="soundrecorder_sync_only_in_wifi_china">Koristi samo WLAN za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary_china">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
   <string name="soundrecorder_sync_records">Sinkr. sa Mi Cloud</string>
   <string name="special_func_title">Posebne značajke</string>
   <string name="starred_contact">Favoriti</string>
@@ -675,7 +683,8 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sub_alert_notif_dspt_no">Sinkronizirano</string>
   <string name="sub_alert_notif_title">Sinkr. s Mi Cloud</string>
   <string name="sub_sync_item_sms_summary">"Sinkroniziraj SMS koji sadrže fotografije, zvuk ili druge medije kada je povezano na WLAN mrežu"</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Sinkronizacija MMS-a samo preko WLAN-a</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Koristi samo WLAN za sinkronizaciju MMS-a</string>
+  <string name="sub_sync_item_sms_title_wifi_only_china">Koristi samo WLAN za sinkronizaciju MMS-a</string>
   <string name="success_upgraded_space">%s dodano</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sync_detail_summary_master_sync_off">Sinkr. je isključena</string>
@@ -689,6 +698,7 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_network">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje WLAN-a.</string>
+  <string name="sync_dspt_entrance_provision_network_china">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje WLAN-a.</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ovaj korak</string>
   <string name="sync_dspt_provision">"Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
   <string name="sync_dspt_provision3">". Možete uključiti/isključiti tu značajku bilo kada u Postavkama.

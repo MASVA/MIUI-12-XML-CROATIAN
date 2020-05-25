@@ -8,7 +8,7 @@
   <string name="HIPS_Perm_CallLog_Desc">Zabilježiti i brisati povijest poziva</string>
   <string name="HIPS_Perm_Call_Desc">Izravno pozivati telefonske brojeve</string>
   <string name="HIPS_Perm_Contact_Desc">Izmjeniti i brisati vaše kontakte</string>
-  <string name="HIPS_Perm_PhoneID_Desc">"Pristup broju telefona, IMEI i IMSI vašeg uređaja"</string>
+  <string name="HIPS_Perm_PhoneID_Desc">"Pristup broju telefona, IMEI i IMSI-ju vašeg uređaja"</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Pristupiti broju telefona i IMSI-ju</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Pročitati povijest poziva</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Pročitati vaše kontakte</string>
@@ -19,7 +19,7 @@
   <string name="HIPS_Perm_add_voicemail_Desc">Dodati glasovne poruke sustava</string>
   <string name="HIPS_Perm_get_accounts_Desc">Pristup svim računima pohranjenim na uređaju</string>
   <string name="HIPS_Perm_process_nfc_Desc">Korištenje NFC-a</string>
-  <string name="HIPS_Perm_use_sip_Desc">Koristiti Session Initiation Protocol za streaming videozapisa</string>
+  <string name="HIPS_Perm_use_sip_Desc">Korištenje Session Initiation Protocol za streaming videozapisa</string>
   <string name="MALICIOUS_URL">Zlonamjeran URL</string>
   <string name="PAST_BLOCK">Ranije blokirano</string>
   <string name="Phonepass">Dopusti pozive</string>
@@ -35,7 +35,7 @@
   <string name="Setting_lock">Postavke</string>
   <string name="Settings_title_anti_spam">Postavke liste blokiranih</string>
   <string name="Settings_title_anti_virus">Postavke Sigurnosnog skeniranja</string>
-  <string name="Settings_title_garbage_cleanup">Postavke Čištaća</string>
+  <string name="Settings_title_garbage_cleanup">Postavke Čištača</string>
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke optimizacije baterije</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
@@ -77,7 +77,7 @@
   <string name="ac_post_notification_contentTitle">Uključite Zaklj. aplikacija</string>
   <string name="ac_pre_notification_contentText">Zaštitite svoje osobne podatke</string>
   <string name="ac_pre_notification_contentTitle">Isprobajte Zaklj. aplikacija</string>
-  <string name="ac_recommend_guide_dialog_app_content">Koristitite Zaklj. aplikacija s ovom aplikacijom kako bi zaštitili svoje osobne podatke i izbjegli curenje podataka.</string>
+  <string name="ac_recommend_guide_dialog_app_content">Koristite Zaklj. aplikacija s ovom aplikacijom kako bi zaštitili svoje osobne podatke i izbjegli curenje podataka.</string>
   <string name="ac_recommend_guide_dialog_content">Možete zaštititi svoje osobne podatke i izbjeći curenje podataka koristeći Zaklj. aplikacija.</string>
   <string name="ac_recommend_guide_dialog_ignore">"Ne prikazuj ponovo"</string>
   <string name="ac_recommend_guide_dialog_open">Uključi</string>
@@ -91,7 +91,7 @@
  "</string>
   <string name="access_control_need_to_unlock">"Skenirajte otisak prsta
 ili unesite Zaporku zaštite privatnosti"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Unesite Zaporku zaštite privatnosti</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku zaštite privatnosti</string>
   <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje Zaklj. aplikacije</string>
   <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun da poništite Zaklj. aplikacija</string>
   <string name="accessibility_gameboosterservice_description">"Uključite da biste utišali dolazne WeChat pozive dok igrate igre"</string>
@@ -149,7 +149,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="add_game_notification_summary">Dodirni za pokretanje &amp; ubrzanje brzine</string>
   <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. 
   
-    Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
+Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Iznimke podataka roaminga</string>
   <string name="add_whitelist">Dodaj u iznimke</string>
@@ -177,7 +177,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="antispam_mms_text_setting">Postavite Poruke kao zadanu aplikaciju za slanje SMS-ova da biste mogli koristiti popis za blokiranje</string>
   <string name="antispam_mode_details">Pojedinosti liste blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Svi brojevi</string>
-  <string name="antispam_notificaiton_type_show_except_blacklist">Lista neblokiranih brojeva</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Lista dozvoljenih brojeva</string>
   <string name="antispam_notificaiton_type_show_none">Nikad</string>
   <string name="antispam_notification_setting_title">Obavijesti</string>
   <string name="antispam_xpace_text">Promjeni na Prvi prostor za postavljanje liste blokiranja</string>
@@ -306,7 +306,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_behavior_perm_change_tip_foreground">"Ova je radnja (%1s) sada dopuštena dok koristite aplikaciju"</string>
   <string name="app_behavior_perm_change_tip_virtual">\"%1s\" je promjenjen u \"Vrati prazne poruke\</string>
   <string name="app_behavior_phonenum">%1s je pristupio vašem broju telefona</string>
-  <string name="app_behavior_phonenum_single">Aplikacija pristupila je vašem broju telefona</string>
+  <string name="app_behavior_phonenum_single">Aplikacija je pristupila vašem broju telefona</string>
   <string name="app_behavior_phonestate">%1s pristupa podacima o uređaju</string>
   <string name="app_behavior_phonestate_single">Aplikacija je pristupila podacima o uređaju</string>
   <string name="app_behavior_privacy_manager">Obavijesti o osjetljivim radnjama</string>
@@ -331,6 +331,8 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_behavior_start_from_notification_single">Ovu je aplikacija pokrenula obavijest</string>
   <string name="app_behavior_start_from_recent">%1s je pokrenut iz Nedavno</string>
   <string name="app_behavior_start_from_recent_single">Ova je aplikacija pokrenuta iz Nedavno</string>
+  <string name="app_behavior_start_from_widget">%1s je pokrenut od strane widgeta</string>
+  <string name="app_behavior_start_from_widget_single">Ovu je aplikacija pokrenuo widget</string>
   <string name="app_behavior_storage">%1s pristupio ili spremio datoteke</string>
   <string name="app_behavior_storage_bg">%1s je pristupio ili spremio datoteke u pozadini</string>
   <string name="app_behavior_storage_bg_single">Aplikacija pristupa datotekama ili ih sprema u pozadini</string>
@@ -511,7 +513,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke MIUI komponente da rade ispravno. Deinstalirati svejedno?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
-  <string name="app_manager_uninstall_xspace_app_dlg_msg">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
+  <string name="app_manager_uninstall_xspace_app_dlg_msg">Deinstaliranje dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Deinstalirati dvojnu aplikaciju?</string>
   <string name="app_manager_unstall_application">Deinstaliraj</string>
   <string name="app_manager_update_label_text">Novo</string>
@@ -3595,7 +3597,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="summary_data_flow">"Kontrolirajte uporabu mobilnih podataka kako bi izbjegli dodatne naknade"</string>
   <string name="summary_default_app">"%s nije postavljena kao zadana aplikacija sustava"</string>
   <string name="summary_dev">Izbjegnite zlonamjeran softver i zaštitite osobne podatke</string>
-  <string name="summary_do_not_disturb">"Koristitite DND način."</string>
+  <string name="summary_do_not_disturb">"Koristite DND način."</string>
   <string name="summary_eye_shield">"Isključite način čitanja da biste vratili na zadane postavke."</string>
   <string name="summary_find_device">Pronađite i zaključajte svoj uređaj s bilo kojeg mjesta</string>
   <string name="summary_first_aid_kit">Sada ispravite probleme na svom uređaju</string>

@@ -32,6 +32,7 @@
   <string name="btn_restore_resume">Nastavi</string>
   <string name="btn_restore_retry">Pokušaj ponovno</string>
   <string name="btn_restore_wait">Čekaj na WLAN</string>
+  <string name="btn_restore_wait_china">Čekaj na WLAN</string>
   <string name="btn_retry">Provjeri ponovno</string>
   <string name="btn_skip">Preskoči ovaj korak</string>
   <string name="button_cancel">Odustani</string>
@@ -57,10 +58,16 @@
   <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Mi Cloudu.</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
-*\u0009\u0009\u0009Aplikacije, izgled Poč. zaslona i slike pozadine
-*\u0009\u0009\u0009Postavke alarma, sata i vremena 
-*\u0009\u0009\u0009Postavke obavijesti
-*\u0009\u0009\u0009MIUI i postavke sustava 
+*  Aplikacije, izgled Poč. zaslona i slike pozadine
+*  Postavke alarma, sata i vremena 
+*  Postavke obavijesti
+*  MIUI i postavke sustava 
+Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Cloud."</string>
+  <string name="cloud_back_up_detail_discription_china">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
+*  Aplikacije, izgled Poč. zaslona i slike pozadine
+*  Postavke alarma, sata i vremena 
+*  Postavke obavijesti
+*  MIUI i postavke sustava 
 Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Cloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
   <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
@@ -76,7 +83,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
   <string name="cloud_backup_detail_state">Autom. Sig. kopija</string>
-  <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu</string>
+  <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu.</string>
+  <string name="cloud_backup_detail_state_summary_china">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu.</string>
   <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
   <string name="cloud_backup_detail_title">Poč. zaslon, aplikacije i postavke.</string>
   <string name="cloud_backup_derail_size_summary">Veličina: %s</string>
@@ -117,8 +125,10 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="dialog_cancel_backup_msg">Promjena će uzrokovati prekid izrade Sig. kopije.</string>
   <string name="dialog_cancel_backup_title">Otkazati izradu u tijeku?</string>
   <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Mi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
-  <string name="dialog_msg_restore_require_wlan">Vraćanje sigurnosnih kopija zahtijeva povezivanje s WLAN mrežom.</string>
-  <string name="dialog_title_require_wlan">Povežite se na WLAN</string>
+  <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s WLAN mrežom.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s WLAN mrežom.</string>
+  <string name="dialog_title_require_wlan">Poveži se na WLAN</string>
+  <string name="dialog_title_require_wlan_china">Poveži se na WLAN</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Izračunavanje veličine…</string>
   <string name="doing_restore_home">Vraćanje Poč. zaslona i postavki sustava…</string>

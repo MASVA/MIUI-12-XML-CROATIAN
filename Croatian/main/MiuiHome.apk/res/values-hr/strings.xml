@@ -398,6 +398,8 @@
   <string name="open_personal_assistant_dialog_title">Isključi Zaklj. aplikacija</string>
   <string name="open_personal_assistant_title">Zaklj. aplikacija</string>
   <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
+  <string name="perfect_icons_switch_summary">Prikaži animacije ikona aplikacija treće strane</string>
+  <string name="perfect_icons_switch_title">Globalne animacije ikona</string>
   <string name="permdesc_install_shortcut">Aplikaciji omogućuje dodavanje prečaca bez potrebe za dodatnim radnjama od strane korisnika.</string>
   <string name="permdesc_install_widget">Aplikaciji omogućuje dodavanje widgeta bez potrebe za dodatnim radnjama od strane korisnika.</string>
   <string name="permdesc_read_settings">"Aplikaciji omogućuje čitanje postavki Poč. zaslona i prečaca."</string>

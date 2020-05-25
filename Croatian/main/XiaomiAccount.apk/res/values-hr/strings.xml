@@ -174,7 +174,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="confirm_delete_app_message">Nakon brisanja ove aplikacije, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_browser_message">Nakon brisanja ovog preglednika, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
   <string name="confirm_delete_device_message">Nakon brisanja ovog uređaja, morati ćete potvrditi svoj broj telefona sljedeći put kada ga prijavite na svoj Mi Račun.</string>
-  <string name="confirm_new_pwd">Potvrdi novu zaporke</string>
+  <string name="confirm_new_pwd">Potvrdi novu zaporku</string>
   <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
   <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>

@@ -1588,8 +1588,8 @@ Uvijek koristi ovaj broj"</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Pogreška SIM kartice</string>
   <string name="msim_setting_categery_title">Postavke SIM kartice</string>
   <string name="msim_setting_default_data">Podatkovna kartica</string>
-  <string name="msim_setting_default_data_description">Data SIM %d</string>
-  <string name="msim_setting_default_voice">Zadano za pozive</string>
+  <string name="msim_setting_default_data_description">Podatkovna SIM %d</string>
+  <string name="msim_setting_default_voice">Zadano za pozive za pozive</string>
   <string name="msim_setting_default_voice_description">SIM %d</string>
   <string name="msim_setting_install_virtual_sim_install">Instaliraj</string>
   <string name="msim_setting_install_virtual_sim_message">Instalirajte Mi Carrier Services za kupnju SIM kartica i upravljanje planom vašeg mobilnog operatera.</string>

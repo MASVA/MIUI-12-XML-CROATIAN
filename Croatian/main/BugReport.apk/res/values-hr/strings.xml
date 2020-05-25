@@ -82,7 +82,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problem \"%2$s\"</string>
   <string name="feedback_choose_app_tag">Odaberi problem</string>
   <string name="feedback_choose_module">Odaberi stavku</string>
-  <string name="feedback_choose_module_hint">Potrebno</string>
+  <string name="feedback_choose_module_hint">Zahtijeva</string>
   <string name="feedback_choose_reproductivity">Reproduktivnost</string>
   <string name="feedback_choose_third_app_name">Odaberite naziv aplikacije</string>
   <string name="feedback_collect_log_failed">"Ne mogu dobiti zapise"</string>
@@ -95,13 +95,13 @@
   <string name="feedback_description_hint_suggestion">"Recite nam kako želite poboljšati MIUI."</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">"Želio bih da dodate novu značajku (…) jer mi treba (…)."</string>
-  <string name="feedback_detail_tile">Napredak</string>
+  <string name="feedback_detail_title">Detalji</string>
   <string name="feedback_empty_report_list">Nema još prijava</string>
   <string name="feedback_guess">Naša pretpostavka</string>
   <string name="feedback_history_remind_login_desc">"Prijavite se sa svojim Mi Računom da biste vidjeli pojedinosti i napredak vašeg zapisa"</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">JIRA Ključ: %s</string>
-  <string name="feedback_jira_key_place_holder">Izrada Jira kjuča…</string>
+  <string name="feedback_jira_key_place_holder">Izrada Jira ključa…</string>
   <string name="feedback_package_log_failed">"Ne mogu komprimirati zapise"</string>
   <string name="feedback_phone_model_label">Model telefona</string>
   <string name="feedback_probability_label">Vjerojatnost</string>
@@ -323,7 +323,7 @@
   <string name="reply_option_log_hint">Opcija</string>
   <string name="reply_select_log_hint">Odaberi zapis</string>
   <string name="reply_successful">Uspješno odgovoreno</string>
-  <string name="report_miui">Zapis pogreške</string>
+  <string name="report_miui">Prijavi pogrešku</string>
   <string name="request_empty_data">Nema podataka</string>
   <string name="save_pic">Spremi</string>
   <string name="save_pic_fail">"Ne mogu spremiti sliku, provjerite SD karticu"</string>
@@ -358,7 +358,7 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Slični problemi na MIUI forumu</string>
   <string name="title_system_app">MIUI Aplik.</string>
-  <string name="title_user_guide">Korisnički vodič</string>
+  <string name="title_user_guide">Upute</string>
   <string name="toast_app_tag_required">Odaberi problem</string>
   <string name="toast_catch_full_log_catching">Istovremeno možete generirati samo jedan zapis.</string>
   <string name="toast_catch_full_log_open_failed">"Ne mogu pokrenuti snimanje zapisa."</string>  

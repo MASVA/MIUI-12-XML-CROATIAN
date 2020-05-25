@@ -35,6 +35,11 @@
   <string name="close_panel">Isključi Izbornik Prečaca</string>
   <string name="copy">Kopiraj</string>
   <string name="customize_entries">Odaberi prečace</string>
+  <string name="edge_distance_pref_summary">Dodirnite područja buđenja u blizini rubova zaslona kako bi se brže pojavio Izbornik Prečaca</string>
+  <string name="edge_distance_pref_title">Područja buđenja</string>
+  <string name="edge_mode_custom_summary">Prilagodite veličinu područja za buđenje u blizini rubova zaslona</string>
+  <string name="edge_mode_custom_title">Vlastito</string>
+  <string name="edge_mode_default_title">Zadano</string>
   <string name="enable_touch_assistant">Uključi Izbornik Prečaca</string>
   <string name="enabled_for_pad_hint">Radi kada je \"Blokiraj navigacijske tipke u vodoravnom položaju\" uključeno</string>
   <string name="expand_button_title">Napredno</string>

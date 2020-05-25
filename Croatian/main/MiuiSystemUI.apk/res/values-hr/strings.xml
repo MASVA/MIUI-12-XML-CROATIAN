@@ -104,6 +104,10 @@
   <string name="accessibility_desc_recent_apps">Pregled.</string>
   <string name="accessibility_desc_settings">Postavke</string>
   <string name="accessibility_desc_work_lock">Zaključan zaslon radnog profila</string>
+  <string name="accessibility_detail_switch">Promjeni pločicu</string>
+  <string name="accessibility_detail_switch_disable">Nije dostupno</string>
+  <string name="accessibility_detail_switch_off">Isključeno</string>
+  <string name="accessibility_detail_switch_on">Uključeno</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Ova je značajka eksperimentalna i može utjecati na performanse.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boje</string>
   <string name="accessibility_divider">Razdjelnik podijeljenog zaslona</string>
@@ -111,6 +115,7 @@
   <string name="accessibility_enter_lock_wallpaper">Dodirni za otvaranje Wallpaper Carousel</string>
   <string name="accessibility_ethernet_connected">Uspostavljena je veza s ethernetom.</string>
   <string name="accessibility_ethernet_disconnected">Prekinuta je veza s ethernetom.</string>
+  <string name="accessibility_expand_button">Proširi</string>
   <string name="accessibility_face_dialog_face_icon">Ikona lica</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Ikona aplikacije</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ikona otiska prsta</string>
@@ -1525,6 +1530,11 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="overview">Pregled</string>
   <string name="owner_info_settings_edit_text_hint">Npr, MASVIN Android.</string>
+  <string name="partial_screenshot_edit">Uredi</string>
+  <string name="partial_screenshot_repaint">Počni ispočetka</string>
+  <string name="partial_screenshot_save">Spremi</string>
+  <string name="partial_screenshot_save_successful">Uspješno spremljeno</string>
+  <string name="partial_screenshot_share">Podijeli</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="phone_hint">Prijeđite prstom od ikone za telefon</string>
   <string name="phone_label">otvaranje telefona</string>
@@ -1679,10 +1689,10 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_cellular_detail_data_usage">Potrošnja podataka</string>
   <string name="quick_settings_cellular_detail_data_used">%s iskorišteno</string>
   <string name="quick_settings_cellular_detail_data_warning">Upozorenje %s</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobilni podaci (WCDMA/LTE) bit će isključeni. Ako ne koristite WLAN, više nećete moći koristiti aplikacije za koje je potrebna podatkovna veza. Slanje ili primanje multimedijskih poruka bit će ograničeno.</string>
-  <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilni podaci bit će isključeni. Povezivanje s mobilnim mrežama može rezultirati dodatnim troškovima ovisno o vašem stanju podataka.</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Ako isključite mobilne podatke, nećete moći koristiti Internet ako se ne povežete s WLAN-om. I dalje ćete biti u mogućnosti slati MMS poruke. Isključiti mobilne podatke?"</string>
+  <string name="quick_settings_cellular_detail_dialog_message_turnon">Korištenje mobilnih podataka može ostvariti dodatne troškove ovisno o vašem stanju računa. Dopustiti korištenje mobilnih podataka?</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Odustani</string>
-  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">U redu</string>
+  <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Dopusti</string>
   <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Isključi</string>
   <string name="quick_settings_cellular_detail_over_limit">Iznad ograničenja</string>
   <string name="quick_settings_cellular_detail_remaining_data">Preostali podaci</string>

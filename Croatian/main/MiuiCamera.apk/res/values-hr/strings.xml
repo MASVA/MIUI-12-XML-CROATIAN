@@ -129,6 +129,7 @@ i prilagodite postavke automatski"</string>
   <string name="ai_scene_top_moon_off">Način rada slabog osvjetljenja</string>
   <string name="ai_scene_top_tip">Mjesec</string>
   <string name="ai_watermark_title">AI oznaka</string>
+  <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ambilight_description_title">O dužoj ekspoziciji</string>
   <string name="ambilight_intro_crowd_moving_part1">Prilikom snimanja u prometnoj ulici zamolite svog subjekta da miruje. Drugi će se ljudi pojaviti kao mutni tragovi.</string>
   <string name="ambilight_intro_crowd_moving_part2">Također možete fotografirati gužvu u prometu i masu ljudi u pokretu. Duža ekspozicija održati će zgrade svježima, ali svi će se pomični predmeti zamutiti.</string>
@@ -144,6 +145,8 @@ i prilagodite postavke automatski"</string>
   <string name="ambilight_scene_silky_water">Svilena voda</string>
   <string name="ambilight_scene_star_track">Zvjezdane staze</string>
   <string name="ambilight_scene_traffic_light">Neonske staze</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Za dulje snimanje koristite stativ</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Za snimanje preporučuje se stativ</string>
   <string name="ambilight_tips_for_using_tripod">Koristite stativ</string>
   <string name="ai_watermark_toast_off">AI je isklj.</string>
   <string name="ai_watermark_toast_on">AI je uklj.</string>
@@ -954,8 +957,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_hdr_type_entry_live">Uživo</string>
   <string name="pref_camera_hdr_type_entry_normal">Normalno</string>
   <string name="pref_camera_hdr_type_title">HDR vrsta</string>
-  <string name="pref_camera_heic_image_format_description">"Fotografije u formatu slikovnih datoteka visoke učinkovitosti zauzimaju manje prostora za pohranu, ali neke aplikacije ih ne podržavaju"</string>
-  <string name="pref_camera_heic_image_format_title">HEIF Format</string>
+  <string name="pref_camera_heic_image_format_description">"Fotografije u formatu slikovnih datoteka visoke učinkovitosti (HEIF) zauzimaju manje prostora za pohranu, ali neke aplikacije ih ne podržavaju"</string>
+  <string name="pref_camera_heic_image_format_description2">"Format slikovnih datoteka visoke učinkovitosti (HEIF) štedi prostor za pohranu, ali nisu podržane od strane nekih aplikacija. Ne možete fotografirati uživo niti uklanjati vodene žigove u HEIF-u"</string>
+  <string name="pref_camera_heic_image_format_title">HEIF format</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>

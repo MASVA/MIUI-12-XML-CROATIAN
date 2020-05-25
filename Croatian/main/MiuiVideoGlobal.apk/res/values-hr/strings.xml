@@ -144,7 +144,7 @@
   <string name="check_nothing">Još niste odabrali nijednu stavku</string>
   <string name="choose">Odaberi</string>
   <string name="choose_to_signin">Da</string>
-  <string name="choose_to_signup">Ne, napraviti ću račun</string>
+  <string name="choose_to_signup">Ne, izraditi ću račun</string>
   <string name="click_to_reload_more">Dodirnite za učitavanje više</string>
   <string name="click_to_retry">Pokušajte ponovo</string>
   <string name="collect_diagnosis_log">Prikupite zapise</string>
