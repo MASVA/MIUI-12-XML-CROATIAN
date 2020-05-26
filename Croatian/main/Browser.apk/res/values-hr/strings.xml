@@ -58,6 +58,7 @@
   <string name="action_menu_text_fullscreen_enter">Uđi u cijeli zaslon</string>
   <string name="action_menu_text_fullscreen_exit">Napusti cijeli zaslon</string>
   <string name="action_menu_text_history">Oznake &amp; Povijest</string>
+  <string name="action_menu_text_like">Sviđa mi se</string>
   <string name="action_menu_text_nightmode">Noćni način</string>
   <string name="action_menu_text_nightmode_off">Noćni način isklj.</string>
   <string name="action_menu_text_nightmode_on">Noćni način uklj.</string>
