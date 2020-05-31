@@ -256,6 +256,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_back_pwd">Resetiranje vaše zaporke</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
+  <string name="get_identity_auth_url_failed">"Ne mogu provjeriti ID"</string>
   <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Mi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="google">Google</string>
