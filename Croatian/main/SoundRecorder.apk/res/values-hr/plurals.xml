@@ -16,6 +16,10 @@
         <item quantity="other">Traži među %d snimaka</item>
         <item quantity="one">Traži među %d snimke</item>
     </plurals>
+	<plurals name="search_app_records_hint">
+        <item quantity="other">Traži među %d snimaka</item>
+        <item quantity="one">Traži među %d snimke</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Traži među %d snimaka poziva</item>
         <item quantity="one">Traži među %d snimke poziva</item>

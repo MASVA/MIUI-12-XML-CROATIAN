@@ -47,7 +47,7 @@
   <string name="miui_feedback_answer_detail_feedback_unresolved">Ne</string>
   <string name="miui_feedback_answer_detail_menu_online_service">Dobijte pomoć na mreži</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Nazovite korisničku podršku</string>
-  <string name="miui_feedback_answer_detail_relative_tip">To može biti korisno:</string>
+  <string name="miui_feedback_answer_detail_relative_tip">Povezane informacije</string>
   <string name="miui_feedback_answer_detail_title">Detalji</string>
   <string name="miui_feedback_edit_action_submit">Pošalji</string>
   <string name="miui_feedback_edit_add_original_images">Dodajte fotografiju</string>
@@ -115,6 +115,7 @@
   <string name="miui_feedback_main_menu_catch_full_log">Generirati zapise</string>
   <string name="miui_feedback_main_menu_feedback_list">Pogledajte povijest povratnih informacija</string>
   <string name="miui_feedback_main_search_footer">Ovo nisu pitanja koja želite postaviti?</string>
+  <string name="miui_feedback_main_search_footer_submit">Pošaljite povratne informacije</string>
   <string name="miui_feedback_main_search_issue">Unesite ključne riječi za pretraživanje</string>
   <string name="miui_feedback_main_start_submit">Pošaljite povratne informacije</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Pošalji</string>
@@ -206,6 +207,11 @@
   <string name="permission_device_info">Pristup podacima o uređaju</string>
   <string name="permission_device_introduce">Za određivanje ograničenog jamstvenog roka</string>
   <string name="permission_exit">Izlaz</string>
+  <string name="permission_external_storage_introduce">For saving and uploading your feedback</string>
+  <string name="permission_first_start_network_title">Uvjeti i odredbe</string>
+  <string name="permission_imei_disable_desc">Dopustite ovoj aplikaciji da se poveže s internetom.</string>
+  <string name="permission_imei_enable_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
+  <string name="permission_location_introduce">For displaying nearby service points</string>
   <string name="permission_first_start_network_title">Uvjeti i odredbe</string>
   <string name="permission_main_purpose">Prikazivanje demonstracijskih značajki MIUI, slanje povratnih informacija i podnošenje zahtjeva za usluge nakon prodaje.</string>
   <string name="permission_privacy">Pravila o Privatnosti (obavezno)</string>

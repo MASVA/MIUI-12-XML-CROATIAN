@@ -23,8 +23,8 @@
         <item>Uključite i isključite DND način</item>
      </string-array>
      <string-array name="perm_intercept_statitics">
-        <item>Prikupite podatke o svojim interesima i ponašanju tako što ćete naučiti koje aplikacije koristite i koliko često ih koristite</item>
-        <item>Pristupite postavkama vašeg jezika i jeziku, kao i drugim pojedinostima</item>
+        <item>Prikupiti podatke o vašim interesima i ponašanju učenjem koje aplikacije koristite i koliko često ih koristite</item>
+        <item>Pristupiti postavkama vašeg jezika i jeziku, kao i drugim pojedinostima</item>
      </string-array>
      <string-array name="perm_intercept_unknown_source">
         <item>"Aplikacije treće strane koje GetApps ne potvrdi mogu uzrokovati višestruke probleme i smanjiti stabilnost sustava."</item>

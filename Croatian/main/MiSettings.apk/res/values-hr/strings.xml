@@ -251,7 +251,9 @@
   <string name="usage_app_limit_alter_title">Provjerite vremensko ograničenje zaslona</string>
   <string name="usage_app_limit_prelong">Produžite vrijeme</string>
   <string name="usage_app_limit_reach_summay">%s preostalo</string>
+  <string name="usage_app_limit_reach_summay_new">Dodirnite za dodavanje %d min.</string>
   <string name="usage_app_limit_reach_title">%s doseže svoje vremensko ograničenje zaslona</string>
+  <string name="usage_app_limit_reach_title_new" formatted="false">Preostalo vrijeme zaslona za %1s: %2s</string>
   <string name="usage_app_limit_summary">"Odabrane aplikacije neće biti dostupne kada se dosegne ograničenje"</string>
   <string name="usage_app_limit_title">Ograniči vrijeme zaslona</string>
   <string name="usage_app_other_settings">Dodatne postavke</string>
@@ -317,8 +319,10 @@ Ova se aplikacija također mora povezati s internetom i zahtijeva sljedeća dopu
   <string name="usage_new_home_dashboard">Kontrolna ploča</string>
   <string name="usage_new_home_date_day_title">%s | Trajanje upotrebe</string>
   <string name="usage_new_home_day_category_title">Kategorije aplikacija</string>
+  <string name="usage_new_home_day_category_title_new">Vrijeme zaslona za kategorije aplikacija na %s</string>
   <string name="usage_new_home_day_title">Dan</string>
   <string name="usage_new_home_day_usage_title">Pojedinačne aplikacije</string>
+  <string name="usage_new_home_day_usage_title_new">Vrijeme zaslona na %s</string>
   <string name="usage_new_home_first_unlock">Prvo otključavanje: %s</string>
   <string name="usage_new_home_name">Ime</string>
   <string name="usage_new_home_show_more_data_summary">Također možete ograničiti vrijeme zaslona za pojedine aplikacije</string>
@@ -460,6 +464,8 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
   <string name="usage_stats_week_day">Vikendi</string>
   <string name="usage_total_days">Ukupno dana</string>
   <string name="usage_total_times">Ukupno sesija</string>
+  <string name="usage_week_avg_usage_title">Prosj. ovaj tjedan</string>
+  <string name="usage_week_avg_usage_title2">Prosj. vrijeme</string>
   <string name="usage_weekly_report_summary">Saznajte kako provodite vrijeme sa svojim uređajem</string>
   <string name="usage_weekly_report_title">Tjedni izvještaj</string>
   <string name="usagestats_app_category_miui_education">Obrazovanje</string>

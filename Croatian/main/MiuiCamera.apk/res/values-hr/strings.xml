@@ -1356,6 +1356,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="super_eis_disabled_hint">Super stabilizacija je isključena</string>
   <string name="super_eis_pro">Steady video Pro</string>
   <string name="super_eis_pro_disabled_hint">Steady video Pro je isključen</string>
+  <string name="super_macro_mode">Super macro</string>
   <string name="super_night_hint">Optimiziranje slike… Držite uređaj stabilnim.</string>
   <string name="super_night_se_tip">Noćni način</string>
   <string name="super_night_toast">Držite telefon mirnim tijekom snimanja fotografije</string>

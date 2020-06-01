@@ -33,6 +33,8 @@
   <string name="alert_message_delete_record">Brisanje snimke s vašeg uređaja također će izbrisati ovu snimku na Mi Cloudu. Izbrisati sada?</string>
   <string name="alert_message_delete_record_title">Izbriši snimku</string>
   <string name="app_name">Snimač</string>
+  <string name="app_record">Snimke aplikacija</string>
+  <string name="app_record_preference_title">Snimke aplikacija</string>
   <string name="back">Natrag</string>
   <string name="button_queue_for_wifi">Čekaj</string>
   <string name="button_start_now">Preuzimanje</string>
@@ -170,6 +172,7 @@
   <string name="record_downloading_notification_count">%d preuzeto</string>
   <string name="record_format_preference_title">Format snimanja</string>
   <string name="record_list">Popis snimaka</string>
+  <string name="record_list_app">Snimke aplikacija</string>
   <string name="record_list_call">Snimljeni pozivi</string>
   <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Sinkr. snimke</string>

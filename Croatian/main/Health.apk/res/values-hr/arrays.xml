@@ -28,6 +28,46 @@
         <item>" m"</item>
         <item>" km"</item>
     </string-array>
+	<string-array name="contact_relation_array">
+        <item>Nije postavljeno</item>
+        <item>Roditelji</item>
+        <item>Sestre</item>
+        <item>Braća</item>
+        <item>Par</item>
+        <item>Ljubavnici</item>
+        <item>Prijatelji</item>
+        <item>Kolege</item>
+        <item>Kolege</item>
+    </string-array>
+	<string-array name="gender_array">
+        <item>Nije postavljeno</item>
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+	<string-array name="normal_blood_array">
+        <item>Nije postavljeno</item>
+        <item>Tip A</item>
+        <item>Tip B</item>
+        <item>Tip AB</item>
+        <item>Tip O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Nije postavljeno</item>
+        <item>Tip A</item>
+        <item>Tip B</item>
+        <item>Tip AB</item>
+        <item>Tip O</item>
+    </string-array>
+	<string-array name="rh_blood_array">
+        <item>Nije postavljeno</item>
+        <item>Negativan</item>
+        <item>Pozitivan</item>
+    </string-array>
+	<string-array name="yes_no_array">
+        <item>Nije postavljeno</item>
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
     <string-array name="pager_titles">
         <item>Dnevno</item>
         <item>Tjedno</item>

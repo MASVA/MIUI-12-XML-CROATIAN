@@ -3031,6 +3031,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="err_version_unsupported">"Verzija Sig. kopije nije podržana."</string>
   <string name="error_adding_apn_type">Mobilni operater ne dopušta dodavanje APN-ova vrste %s.</string>
   <string name="error_apn_empty">APN ne može biti prazan.</string>
+  <string name="error_apn_restrict_string">Polje APN ne može sadržavati %1$s</string>
   <string name="error_capturing_system_heap_dump_message">Izrada snimke memorije sustava nije uspjela</string>
   <string name="error_mcc_not3">MCC polje mora imati 3 znamenke.</string>
   <string name="error_mnc_not23">Polje MNC mora imati 2 ili 3 znamenke.</string>

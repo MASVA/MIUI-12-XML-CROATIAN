@@ -148,9 +148,12 @@ Dodirnite + da napravite mapu"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_enter_custom_folder_hint">Ovdje možete preimenovati ili brisati mape</string>
   <string name="float_todo_guide_cancel">Odustani</string>
-  <string name="float_todo_guide_message">Prečac Poč. zaslona omogućuje vam da prijeđete prstom od ruba zaslona da biste pogledali i stvorili zadatke. Kreirajte prečac sada?</string>
+  <string name="float_todo_guide_message">Prečac Poč. zaslona omogućuje vam da prijeđete prstom od ruba zaslona da biste pogledali i izradili zadatke. Izraditi prečac sada?</string>
+  <string name="float_todo_guide_message_v2">Prečac gesti omogućuje vam da pregledate i izradite zadatke povlačenjem s ruba zaslona. Možete uključiti i isključiti ovu značajku u Postavkama.</string>
   <string name="float_todo_guide_ok">Izradi</string>
+  <string name="float_todo_guide_ok_v2">Uključi</string>
   <string name="float_todo_guide_title">Prečac Poč. zaslona</string>
+  <string name="float_todo_guide_title_v2">Prečac gesti</string>
   <string name="folder_exist">Mapa s istim nazivom već postoji</string>
   <string name="folder_operation_delete">Izbriši</string>
   <string name="folder_operation_rename">Preimenuj</string>
@@ -303,7 +306,9 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>
   <string name="pref_desc_todo_float_mode">Prijeđite prstom od ruba zaslona da biste otvorili okvir alata sa zadacima</string>
   <string name="pref_remind_type_summary">Reproduciraj zvuk podsjetnika u Bešumnom načinu rada</string>
-  <string name="pref_remind_type_title">Zanemri Bešumni način</string>
+  <string name="pref_remind_type_summary_new">Zanemari Bešumni način i nastavi reproducirati zvuk dok se alarm ne isključi</string>
+  <string name="pref_remind_type_title">Zanemari Bešumni način</string>
+  <string name="pref_remind_type_title_new">Podsjetnici visokog prioriteta</string>
   <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>
   <string name="pref_title_cloud_trash_bin">Izbriši bilješke u Mi Cloudu</string>
   <string name="pref_title_common">"Dodatne postavke"</string>
@@ -438,6 +443,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen na kraju.</string>
   <string name="toast_refuse_to_record_when_in_call">"Nije moguće koristiti ovu značajku tijekom poziva"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Nije moguće koristiti ovu značajku u Podijeljenom zaslonu"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">"Nije moguće koristiti ovu značajku na podijeljenom zaslonu ili plutajućim prozorima"</string>
   <string name="toast_refuse_to_use_contact">"Dopuštenja za kontakte su ograničena.
 Dopustite aplikaciji Bilješke čitanje vaših kontakata i pronalaze račune na uređaju."</string>
   <string name="toast_refuse_to_use_external_storage">"Dopuštenja za pohranu su ograničena.
