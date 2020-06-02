@@ -211,8 +211,7 @@
   <string name="permission_first_start_network_title">Uvjeti i odredbe</string>
   <string name="permission_imei_disable_desc">Dopustite ovoj aplikaciji da se poveže s internetom.</string>
   <string name="permission_imei_enable_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
-  <string name="permission_location_introduce">For displaying nearby service points</string>
-  <string name="permission_first_start_network_title">Uvjeti i odredbe</string>
+  <string name="permission_location_introduce">Za prikazivanje obližnjih servisnih točaka</string>
   <string name="permission_main_purpose">Prikazivanje demonstracijskih značajki MIUI, slanje povratnih informacija i podnošenje zahtjeva za usluge nakon prodaje.</string>
   <string name="permission_privacy">Pravila o Privatnosti (obavezno)</string>
   <string name="permission_region_version_msg">&lt;Data>Prije upotrebe\"Usluge i povratne informacije\" morate pročitati i prihvatiti naše &lt;a href=%1$s>Ugovor o korisniku&lt;/a> i &lt;a href=%2$s>Pravila o Privatnosti&lt;/a>.&lt;/Data></string>
