@@ -105,10 +105,8 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="bg_control_dialog_title">Pozadinska ograničenja</string>
   <string name="birthday">Datum rođenja</string>
   <string name="blood_type">Krvna grupa</string>
-  <string name="blood_type_rh">Type Rh</string>	  
   <string name="blood_type_rh">Rh faktor</string>
   <string name="blood_type_select">Tip %1$s</string>	  
-  <string name="blood_type_select">%1$s</string>
   <string name="bmi_label">BMI</string>
   <string name="body_bmi_descripe_content">Indeks tjelesne mase (BMI) definira se kao tjelesna masa u kilogramima podijeljena s kvadratom visine tijela u metrima. Poznavanje BMI može vam pomoći da shvatite ima li vaša težina negativan utjecaj na vaše zdravlje.</string>
   <string name="body_composition">Sastav tijela</string>
@@ -573,6 +571,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="model_card_setting">Postavke kartice</string>
   <string name="modify">Uredi</string>
+  <string name="modify_contact">Uredi</string>
   <string name="modify_end_date">Promijeni datum završetka</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
@@ -641,16 +640,22 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="no_records">Nema stavki.</string>
   <string name="no_snore">"Nisi hrkao ili pričao u snu"</string>
   <string name="no_snore_1">"Ovdje još nema stavki"</string>
+  <string name="no_sport_delete">Izbriši pogrešan zapis</string>
   <string name="noon">PM</string>
   <string name="normal">Normalno</string>
   <string name="not_achieve_stand_goals">"Niste postigli svoj cilj"</string>
   <string name="not_added">Nije dodano</string>
+  <string name="not_edit">Nije postavljeno</string>
   <string name="not_open_auto_sync">Sinkronizacija je isključena</string>
+  <string name="not_save">Odbaci promjene</string>
+  <string name="not_save_aid_file_desc">Sve nespremljene promjene bit će izgubljene.</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_standing">" Niste ustali"</string>
   <string name="not_support_step">"Vaš uređaj ne može brojati korake"</string>
   <string name="not_up_to_standard">Ispod standarda</string>
   <string name="number_divided">%1$d/%2$d</string>
+  <string name="oauth_account_failed">"Ne mogu dobiti informacije o računu"</string>
+  <string name="oauth_account_failed_desc">Za dodavanje izvora podataka Mi Health mora koristiti vaš Mi Račun. Prijavite se za nastavak.</string>
   <string name="ok">U redu</string>
   <string name="open">Uključi</string>
   <string name="open_data_sync_description">Uključite sinkronizaciju s Cloudom za sinkronizaciju zdravstvenih podataka iz drugih izvora.</string>
@@ -658,6 +663,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="open_swimming">Plivanje u moru</string>
   <string name="open_sync">Uključi sinkronizaciju</string>
   <string name="open_unrestricted_permissions">Za točnije praćenje sna, dopustite Mi Healthu da se uvijek izvodi u pozadini.</string>
+  <string name="organ_donation_volunteer">Dobrovoljni davatelj organa</string>
   <string name="origin">Originalno</string>
   <string name="other_can_add_data_source">Dostupni izvori</string>
   <string name="outdoor_riding">Outdoor cycle</string>
@@ -675,6 +681,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="permission_manage">Upravljanje dopuštenja</string>
   <string name="permission_tip">Dajte Mi Healthu sljedeća dopuštenja koja će vam omogućiti da točno prati vaše spavanje</string>
   <string name="phone_detection">Otkrij automatski</string>
+  <string name="photograph">Kamera</string>
   <string name="picker_day">Odabrani dan: %1$d. Povucite okomito za odabir.</string>
   <string name="picker_month">Odabrani mjesec: %1$d. Povucite okomito za odabir.</string>
   <string name="picker_year">Odabrana godina: %1$d. Povucite okomito za odabir.</string>
@@ -716,11 +723,13 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="record_detail_page_title">Detalji</string>
   <string name="recorded_menstruation">ZAbilježena mjesečnica</string>
   <string name="reference">Referentni materijali</string>
+  <string name="relationship_with_contact">Srodstvo</string>
   <string name="rem_Duration_increase_description">Vaš REM spavanje je predugo</string>
   <string name="rem_duration">Trajanje REM spavanja</string>
   <string name="rem_duration_decrease_description">Vaš REM spavanje je prekratko</string>
   <string name="rem_duration_description" formatted="false">REM se odnosi na brzo kretanje očiju. Spavanje se može podijeliti na brzo spavanje očiju (REM) i nebrzo kretanje očiju (NREM). Brzi san spavanja čini oko 20 do 25% ukupnog trajanja spavanja. Kad se ljudi probude u ovoj fazi, njih 74 do 95% kaže da su sanjali i da se mogu sjetiti svojih snova. Mozak je vrlo aktivan, a tijelo je potpuno opušteno za vrijeme REM spavanja, što ovu fazu spavanja čini ključnom za održavanje kognitivnih funkcija.</string>
   <string name="rem_duration_normal_description">Trajanje REM spavanja je normalno</string>
+  <string name="remarks">Napomena</string>
   <string name="remind">Podsjeti</string>
   <string name="remind_goto_sleep">"Sada je kasno. Vrijeme je za odlazak u krevet."</string>
   <string name="remind_menstruation_acquired_start">Vaše menstruacija može početi za 2 dana</string>
@@ -752,11 +761,17 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="sedentary_toggle_content">"Mi Health će vas podsjetiti da ustanete i prošetate ako ste dugo bili neaktivni."</string>
   <string name="sedentaty_hazard_description">Sjedenje ne koristi vašem zdravlju. 12 sati s 1-minutnim pauzama ustajanja svakog dana pomoći će vam da izbjegnete rizike sjedilačkog načina života.</string>
   <string name="select_menstruation_end_date">Odaberite datum završetka ove menstruacije</string>
-  <string name="select_null">Ništa nije odabrano</string>
-  <string name="select_target">Odaberi cilj</string>
+  <string name="select_null">Nije odabrano</string>
+  <string name="select_exercise_type">Odaberite vrstu vježbanja</string>
+  <string name="select_menstruation_end_date">Odaberite krajnji datum ovog ciklusa</string>
+  <string name="select_recog_question">Odaberite radnju</string>
+  <string name="select_target">Odaberite cilj</string>
   <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
   <string name="sending">Slanje…</string>
   <string name="setting">Postavke</string>
+  <string name="setting_avatar">Fotografija profila</string>
+  <string name="setting_birthday">Datum rođenj</string>
+  <string name="setting_blood_type">Krvna grupa</string>
   <string name="setting_data_cloud_sync_tip">Pomoću ove značajke možete sigurnosno kopirati stavke s ovog uređaja i sinkronizirati zdravstvene podatke s drugih uređaja</string>
   <string name="setting_sedentary_off">ISKLJUČENO</string>
   <string name="setting_sedentary_on">UKLJUČENO</string>
@@ -873,6 +888,7 @@ podatke o spavanju"</string>
   <string name="snore_detection_abnormal_notification_title">Pogreška praćenja mirovanja</string>
   <string name="snore_detection_abnormal_state">Sesija je prekinuta</string>
   <string name="snore_detection_abnormal_state_description">Mikrofon je isključen</string>
+  <string name="snore_detection_close_prompt">Otkrivanje hrkanja i pričanja je isključeno</string>
   <string name="snore_detection_close_title">Isključiti otkrivanje hrkanja i pričanja?</string>
   <string name="snore_detection_enable">Otkrij hrkanje i pričanje</string>
   <string name="snore_detection_guide_one_description">Zvuk će se snimati dok spavate. Strojno učenje omogućuje Xiaomi Healthu da otkrije hrkanje, pričanje i glasne zvukove te pohrani snimke na vaš uređaj.</string>
@@ -887,6 +903,7 @@ podatke o spavanju"</string>
   <string name="snore_detection_normal_notification_title">Otkrivanje hrkanja i pričanja</string>
   <string name="snore_detection_notification_content">Mikrofon je uključen. I dalje će raditi u pozadini.</string>
   <string name="snore_detection_notification_title">U tijeku je test spavanja</string>
+  <string name="snore_detection_open_prompt">Hrkanje i pričanje otkrit će se kad krenete u krevet</string>
   <string name="snore_detection_running_state">Otkrivanje…</string>
   <string name="snore_detection_running_state_description">Mikrofon je uključen. I dalje će raditi u pozadini.</string>
   <string name="snore_detection_sotp_opt_1">Zaustavi i izbriši rezultate</string>
@@ -1218,6 +1235,9 @@ podatke o spavanju"</string>
   <string name="unit_second">" s"</string>
   <string name="unit_thousand_format">%1$sK</string>
   <string name="unknown">Nepoznato</string>
+  <string name="unknown_birthday">Nepoznato</string>
+  <string name="unknown_full_name">Nepoznato</string>
+  <string name="unknown_gender">Nepoznato</string>
   <string name="update_notify_dialog_ignore">Kasnije</string>
   <string name="update_notify_dialog_msg">"Dostupno je ažuriranje: %1$s.
 Što je novo:
@@ -1232,7 +1252,8 @@ Ažurirati sada?"</string>
   <string name="user_invalid_value">--</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
-  <string name="visceral_fat">Visceral fat</string>
+  <string name="value_error_correct">Uredi zapis</string>
+  <string name="visceral_fat">Visceralna masnoća</string>
   <string name="visceral_fat_descripe_content">Visceralna masnoća neophodna je za stabilizaciju i zaštitu unutarnjih organa. Međutim, visoka visceralna masnoća povećava rizik od kardiovaskularnih i metaboličkih bolesti.</string>
   <string name="walk">Hodanje</string>
   <string name="wednesday">Srijeda</string>
@@ -1245,7 +1266,7 @@ Ažurirati sada?"</string>
   <string name="welcome_exercise">Pratite vježbe</string>
   <string name="welcome_exercise_description">Nosite svoj uređaj sa sobom za automatsko praćenje vježbi</string>
   <string name="welcome_sedentary">Nastavite se kretati</string>
-  <string name="welcome_sedentary_description">"Xiaomi Health može vas podsjetiti da ustanete kad dugo sjedite"</string>
+  <string name="welcome_sedentary_description">"Mi Health može vas podsjetiti da ustanete kad dugo sjedite"</string>
   <string name="welcome_sleep">Analizirajte ciklus spavanja</string>
   <string name="welcome_sleep_description">Stavite telefon pored sebe da biste ujutro saznali više o ciklusu spavanja</string>
   <string name="welcome_start_use">Start</string>

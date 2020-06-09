@@ -530,6 +530,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="toolbar_voice_description">Glas</string>
   <string name="trash_folder_name">Smeće</string>
   <string name="trash_folder_reminder">Bilješke koje izbrišete trajno će biti izbrisane nakon 30 dana.</string>
+  <string name="trash_folder_reminder_new">Bilješke se čuvaju u smeću 30 dana prije nego što se trajno izbrišu</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
