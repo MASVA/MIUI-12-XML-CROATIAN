@@ -763,7 +763,6 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="select_menstruation_end_date">Odaberite datum završetka ove menstruacije</string>
   <string name="select_null">Nije odabrano</string>
   <string name="select_exercise_type">Odaberite vrstu vježbanja</string>
-  <string name="select_menstruation_end_date">Odaberite krajnji datum ovog ciklusa</string>
   <string name="select_recog_question">Odaberite radnju</string>
   <string name="select_target">Odaberite cilj</string>
   <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
