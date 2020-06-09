@@ -1453,7 +1453,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="game_booster_total">Brzina povećana %1$s puta, dodano %2$s vremena igranja</string>
   <string name="game_bootser_tab_settings">Postavke Game Turbo</string>
   <string name="game_else_function">Ostalo</string>
-  <string name="game_manual_record_setting_setting">O ovoj značajki</string>
+  <string name="game_manual_record_setting_setting">Postavke</string>
   <string name="game_manual_record_setting_title">Ključni trenuci</string>
   <string name="game_more_improve">Ograničite pozadinske aktivnosti i brzinu preuzimanja da uštedite bateriju i propusnost za igranje</string>
   <string name="game_setting">Postavke igre</string>
@@ -1537,6 +1537,11 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
+  <string name="gb_dialog_game_uninstall_deleting">Deinstaliranje…</string>
+  <string name="gb_dialog_game_uninstall_loading">Učitavanje igara…</string>	 
+  <string name="gb_dialog_game_uninstall_tips_message">Svi podaci aplikacije biti će izbrisani.</string>
+  <string name="gb_dialog_game_uninstall_tips_message_xspace">Svi podaci aplikacije i povezane dvojne aplikacije biti će izbrisani.</string>
+  <string name="gb_dialog_game_uninstall_tips_title">Deinstaliraj %s</string>
   <string name="gb_dialog_record_way_ai">AI snimke se spremaju u gamebox i tamo se pohranjuju 7 dana.</string>
   <string name="gb_dialog_record_way_finish">Gotovo</string>
   <string name="gb_dialog_record_way_manual">Snimite videozapise duge do 30 sekundi ručno</string>
@@ -1557,15 +1562,17 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_first_window_start">Počnite igrati</string>
   <string name="gb_first_window_summary">Povećajte brzinu i performanse na razini sustava</string>
   <string name="gb_first_window_title">Game Turbo</string>
-  <string name="gb_game_end_toast">Ponovno proučite ključne trenutke svojih igara</string>
-  <string name="gb_game_video_bottom_tips">Gledajte snimke svojih sesija u gamebox-u. Videozapisi se tamo spremaju 7 dana po zadanome.</string>
+  <string name="gb_game_end_toast">Ponovno pogledajte ključne trenutke svojih igara</string>
+  <string name="gb_game_video_bottom_tips">Ponovno pogledajte ključne trenutke sa svojih sesija igranja u Game Turbo. Videozapisi će se automatski izbrisati nakon 7 dana.</string>
   <string name="gb_game_video_item_tag">Ključni trenutak</string>
   <string name="gb_game_video_page_delete_success">Uspješno izbrisano</string>
   <string name="gb_game_video_page_null">Zabilježite ključne trenutke svog igranja</string>
-  <string name="gb_game_video_record_finish_tips">Videozapis uspješno spremljen</string>
+  <string name="gb_game_video_record_finish_tips">Spremljen ručno snimljeni videozapis u Game Turbo</string>
   <string name="gb_game_video_save">Spremi</string>
   <string name="gb_game_video_type_ai">AI</string>
+  <string name="gb_game_video_type_ai_record">Snimi koristeći AI</string>
   <string name="gb_game_video_type_manual">Ručno</string>
+  <string name="gb_game_video_type_manual_record">Snimi ručno</string>
   <string name="gb_global_settings">Opće postavke</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite li trajno izbrisati odabrane videozapise?</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
@@ -1579,6 +1586,9 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_new_feature">Nova značajka</string>
   <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
   <string name="gb_sound_audition">Preslušaj</string>
+  <string name="gb_storage_game_uninstall">Deinstaliraj igre</string>
+  <string name="gb_storage_summary">"Na Poč. zaslonu ne prikazuj igre koje su dodane u Game Turbo"</string>
+  <string name="gb_storage_title">Ukloni dodane igre s Poč. zaslona</string>
   <string name="gb_voice_change_settinged">Mjenjač glasa je uključen</string>
   <string name="gb_voice_changer_cartoon">Crtić</string>
   <string name="gb_voice_changer_dlg_button_agree">Dopusti</string>
@@ -1591,12 +1601,15 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_voice_changer_permission_dlg_msg">Mjenjač glasa mora biti u stanju snimati zvuk da bi mogao normalno raditi.</string>
   <string name="gb_voice_changer_permission_dlg_title">Potrebno je dopuštenje</string>
   <string name="gb_voice_changer_robot">Robot</string>
+  <string name="gb_wonderful_moment_toast_window_new_pop">"Zabilježite ključne trenutke
+vašeg igranja"</string>
   <string name="gb_wonderful_video_cancel">Odustani</string>
   <string name="gb_wonderful_video_checkall">Odaberi sve</string>
   <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
   <string name="gb_wonderful_video_delete">Izbriši</string>
+  <string name="gb_wonderful_video_goto_box">Otvori Game Turbo</string>
   <string name="gb_wonderful_video_header_title">Danas</string>
-  <string name="gb_wonderful_video_save_suc">Uspješno spremljeno</string>
+  <string name="gb_wonderful_video_save_suc">Spremljeno</string>
   <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke o načinima na koje koristite značajke zaštite (npr. Statistiku upotrebe mobilnih podataka, informacije o zlonamjernom softveru) kao i osnovne informacije o vašem uređaju) i ostale vrste podataka navedenih u našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
@@ -1630,12 +1643,11 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gs_dialog_confirm_close_title">Isključi</string>
   <string name="gs_forbid_autosync">Ograniči sinkronizaciju u pozadini</string>
   <string name="gs_game_ai_record">Snimi koristeći AI</string>
-  <string name="gs_game_ai_record_subtitle">"Tijekom reprodukcije možete započeti snimanje u alatnom okviru. Videozapisi s ključnim trenucima automatski se generiraju i brišu nakon 7 dana po zadanome. Možete i trajno spremiti videozapise."</string>
+  <string name="gs_game_ai_record_subtitle">"Snimite ključne trenutke automatski i generirajte video zapise sa istaknutim sesijama. Videozapisi će se automatski izbrisati nakon 7 dana. Možete ih trajno spremiti nakon svake sesije igranja."</string>
   <string name="gs_game_disturb_msg">DND</string>
   <string name="gs_game_duration">Vrijeme</string>
   <string name="gs_game_manual_record">Snimi ručno</string>
-  <string name="gs_game_manual_record_subtitle">"Tijekom reprodukcije možete započeti snimanje u alatnom okviru. Nakon što dodirnete ikonu, možete snimiti do 30 sekundi videozapisa dodirom tipke \"Snimi\".
-Videozapisi će biti spremljeni u Game Turbo &gt; Ključni trenuci."</string>
+  <string name="gs_game_manual_record_subtitle">"Koristite plutajuću prečicu za snimanje do 30 sekundi videozapisa istodobno. Videozapisi će se automatski izbrisati nakon 7 dana."</string>
   <string name="gs_game_manual_record_subtitle_child">Možda ćete naići na neke probleme dok koristite ovu značajku:</string>
   <string name="gs_game_manual_record_subtitle_child_carton">Snimanje vaših sesija igranja zahtijeva veću potrošnju energije što može rezultirati kašnjenjem.</string>
   <string name="gs_game_manual_record_subtitle_child_conflict">Ostale značajke snimanja na zaslonu možda neće raditi ispravno.</string>
@@ -1770,11 +1782,23 @@ Videozapisi će biti spremljeni u Game Turbo &gt; Ključni trenuci."</string>
   <string name="installing">Instaliranje…</string>
   <string name="international_Ad">Oglas</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
+  <string name="intl_app_manager_card_permission_title">Privatnost &amp; dopuštenja</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
   <string name="intl_perm_intro_message">Dodirnite za prilagođavanje postavki dopuštenja kako biste izbjegli curenje podataka</string>
   <string name="intl_perm_notification_content">Prilagodite postavke dopuštenja</string>
   <string name="intl_perm_notification_title">Zaštitite svoju privatnost</string>
-  <string name="invalid_charger">"Nije moguće puniti putem USB-a. Upotrijebite punjač koji ste dobili s vašim uređajem."</string>
+  <string name="intl_perm_privacy_control_calendar">"Aplikacija može pristupiti ili uređivati stavke kalendara samo dok je koristite"</string>
+  <string name="intl_perm_privacy_control_calllog">"Aplikacija može pristupiti ili urediti povijest poziva samo dok je koristite"</string>
+  <string name="intl_perm_privacy_control_camera">"Aplikacija može fotografirati ili snimati videozapise samo dok je koristite"</string>
+  <string name="intl_perm_privacy_control_contact">"Aplikacija može pristupati kontaktima ili ih uređivati samo dok je koristite"</string>
+  <string name="intl_perm_privacy_control_data">Kontrolirajte privatnost</string>
+  <string name="intl_perm_privacy_control_message">Kontrolirajte koje privatne podatke aplikacije mogu koristiti</string>
+  <string name="intl_perm_privacy_control_microphone">"Aplikacija može snimati zvuk samo dok je koristite"</string>
+  <string name="intl_perm_privacy_control_notification_message">Kontrolirajte koje privatne podatke aplikacije mogu koristiti</string>
+  <string name="intl_perm_privacy_control_notification_title">Zaštitite svoju privatnost</string>
+  <string name="intl_perm_privacy_control_storage">"Aplikacija može pristupiti ili uređivati stavke iz unutarnje pohrane samo dok je koristite"</string>
+  <string name="intl_perm_privacy_control_title">Kontrolirajte privatnost</string>
+  <string name="invalid_charger">"Nije moguće punnjenje putem USB-a. Upotrijebite punjač koji ste dobili s vašim uređajem."</string>
   <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
   <string name="item_dev_mode">Opcije Raz. programera</string>
@@ -2053,7 +2077,7 @@ podatkovnu vezu"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povećaj brzinu</string>
-  <string name="menu_text_power_manager">Baterija &amp; performanse</string>
+  <string name="menu_text_power_manager">Baterija</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
   <string name="menu_white">Dodaj u iznimke</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
@@ -2440,7 +2464,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_search_keywords_battery_use">Korištenje baterije</string>
   <string name="pc_search_keywords_capacity">Kapacitet baterije</string>
   <string name="pc_search_keywords_property">Performanse</string>
-  <string name="pc_settings_title">Postavke baterije &amp; performansi</string>
+  <string name="pc_settings_title">Baterija</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm preostalo</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm od zadnjeg punjenja</string>
   <string name="pc_statistics_battery_use_summary">%s od zadnjeg punjenja</string>
@@ -2586,7 +2610,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_super_save_title_text">Ultra Štednja baterije</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
-  <string name="power_center_title">Baterija &amp; performanse</string>
+  <string name="power_center_title">Baterija</string>
   <string name="power_chooser_check_box_title">Odaberite profil</string>
   <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, WLAN i podatkovne usluge), osim alarma</string>
   <string name="power_chooser_sleep_title">Mirovanje</string>
@@ -4217,6 +4241,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="warningcenter_alert_source">MIUI Centar za upozoravanje | Izvor podataka: %s</string>
   <string name="warningcenter_alert_time">Vrijeme</string>
   <string name="warningcenter_alert_warning_time">Vrijeme primitka: %s</string>
+  <string name="warningcenter_disaster_search_keywords">Upozorenja vremena</string>
   <string name="warningcenter_earthquake_info">Rana upozorenja o potresu</string>
   <string name="warningcenter_mijia_alert_close">Zatvori</string>
   <string name="warningcenter_mijia_alert_settings">Promjenite postavke u Sigurnost &gt; Upozorenja s pametnih kućnih uređaja</string>
@@ -4237,6 +4262,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="warningcenter_mijia_open_desc">"Primit ćete upozorenja na ovaj telefon i druge dijeljene uređaje kad god upozorenja izdaju uređaji koje ste dodali u Mi Home"</string>
   <string name="warningcenter_mijia_open_title">Primajte upozorenja s pametnih uređaja</string>
   <string name="warningcenter_mijia_page_title">Upozorenja</string>
+  <string name="warningcenter_mijia_search_keywords">Mi Home upozorenja</string>
   <string name="warningcenter_mijia_title">Upozorenja s pametnih kućnih uređaja</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">MIUI Centar za upozoravanje</string>

@@ -427,6 +427,10 @@
         <item quantity="other">Zaporka treba sadržavati najmanje %d znakova osim slova.</item>
         <item quantity="one">Zaporka treba sadržavati najmanje 1 znak osim slova.</item>
     </plurals>
+	<plurals name="intl_perm_privacy_control_message_count">
+        <item quantity="other">Možete zaštititi %d stavki</item>
+        <item quantity="one">Možete zaštititi %d stavku</item>
+    </plurals>
 	<plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%s sati</item>
         <item quantity="one">%s sat</item>
@@ -612,6 +616,14 @@
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+	 <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Deinstaliraj igre: %2$d (uključujući %1$s)</item>
+        <item quantity="one">Deinstaliraj %2$d igru (uključujući %1$s)</item>
+    </plurals>
+    <plurals name="gb_game_video_ai_record_finish_tips">
+        <item quantity="other">Spremljeno %d AI snimki u Game Turbo</item>
+        <item quantity="one">Spremljena %d AI snimka u Game Turbo</item>
+    </plurals>
 	 <plurals name="gb_record_time_title">
         <item quantity="other">%d sek.</item>
         <item quantity="one">%d sek.</item>

@@ -1372,7 +1372,12 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="timbre_robot">Robot</string>
   <string name="time">Vrijeme</string>
   <string name="time_lapse_error">"Ne mogu koristiti ovu veličinu videozapisa za time-lapse snimanja"</string>
-  <string name="times">Puta</string>
+  <string name="timer_burst">Timer burst</string>
+  <string name="timer_burst_manu_param_interval">Vremenski interval (ne sadrži vrijeme ekspozicije)</string>
+  <string name="timer_burst_param_interval">Vremenski interval</string>
+  <string name="timer_burst_param_total_count">Ukupan broj snimanja</string>
+  <string name="timer_burst_setting_total_count">Broj: %1$s</string>
+  <string name="times">X</string>
   <string name="title">Naslov</string>
   <string name="title_snap_double_confirm">Potvrdite ponovno</string>
   <string name="toast_burst_snap_finished_end">fotografija</string>
