@@ -42,14 +42,17 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ad_begin_to_download_tip">Početak preuzimanja…</string>
   <string name="ad_begin_to_install_tip">Instaliranje…</string>
   <string name="ad_closed_tip">"Vidjet ćete manje oglasa ove vrste"</string>
+  <string name="ad_details">Detalji</string>
   <string name="ad_download_download">Preuzmi</string>
   <string name="ad_download_download_now">Preuzmi</string>
   <string name="ad_download_install">Instaliraj</string>
+  <string name="ad_download_now">Preuzmi</string>
   <string name="ad_download_open">Otvori</string>
   <string name="ad_download_pause">Pauza</string>
   <string name="ad_download_pending">Pending</string>
   <string name="ad_download_resume">Nastavi</string>
   <string name="ad_downloading_tip">Ova se stavka preuzima. Možete vidjeti napredak u Panelu obavijesti.</string>
+  <string name="ad_experience_now">Otvori</string>
   <string name="ad_tag_text_1">Popularno</string>
   <string name="ad_tag_text_2">Moda</string>
   <string name="add_resource_detail_fail">"Ne mogu dodati izvor"</string>
@@ -138,10 +141,17 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava uslugom Google</string>
   <string name="common_skip">Preskoči</string>
-  <string name="community_cta_dialog_cancel">Odustani</string>
-  <string name="community_cta_dialog_des">Ova tema sadrži prečac sata koji prikazuje vaš ID Mi Računa i Mi Community status. Možete isključiti ovu značajku prebacivanjem na drugu temu ili uklanjanjem widgeta Sata.</string>
-  <string name="community_cta_dialog_ok">Razumijem</string> 
-  <string name="community_cta_dialog_title">Prečac sata</string>
+  <string name="community_community_message_trigger_summary">Primite obavijesti o odgovorima, lajkovima i ažuriranjima statusa Mi Community putem svog Mi Računa</string>
+  <string name="community_community_message_trigger_title">Obavijesti o aktivnosti</string>
+  <string name="community_cta_dialog_cancel">Ne hvala</string>
+  <string name="community_cta_dialog_des">"Teme trećih strana sada podržavaju Mi Community widget. Djeluje kao prečac koji vas vodi do podforuma Teme Mi Community. Tu značajku možete isključiti u Postavkama.
+Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima koji su povezani s računom da biste ih ovdje mogli vidjeti. Također možete uključiti i isključiti obavijesti o aktivnostima Mi Comminitya u Postavkama."</string>
+  <string name="community_cta_dialog_ok">Dopusti</string>
+  <string name="community_cta_dialog_title">Potrebno je dopuštenje</string>
+  <string name="community_entrance_summary">Pronađite sadržaj koji se odnosi na teme u Mi Community. Ova značajka je podržana odabranim temama.</string>
+  <string name="community_entrance_title">Mi Community widget sata</string>
+  <string name="community_message_trigger_disabled">Isključeno</string>
+  <string name="community_message_trigger_triggered">Uključeno</string>
   <string name="component_backup_preference_title">Izradi Sig. kopiju teme</string>
   <string name="component_category_finest_title">OPĆENITO</string>
   <string name="component_category_more_title">NAPREDNO</string>
@@ -281,6 +291,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="forbid_transparent_wallpaper_by_second_space">Prvo primijenite prozirne pozadine u Prvom prostoru.</string>
+  <string name="forbid_video_wallpaper_by_second_space">Prvo primijenite dinamičke pozadine u Prvom prostoru.</string>
   <string name="gallery_wallpaper">Wallpaper Carousel</string>
   <string name="gallery_wallpaper_count">100k+</string>
   <string name="gallery_wallpaper_count_tw">10w+</string>
@@ -344,6 +356,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="hide_pull_down_positive">Sakrij</string>
   <string name="home_apply_failured">"Ne mogu postaviti pozadinu Poč. zaslona"</string>
   <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
+  <string name="i_know">Razumijem</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="in_the_end">Nema više stavki za prikazivanje</string>
   <string name="incall_show_apply">Profilni videozapis za odlazne pozive</string>
@@ -400,6 +413,21 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="mine_tab_title_like">Sviđanja</string>
   <string name="mine_tab_title_local">Lokalno</string>
   <string name="mine_tab_title_purchase">Naruđžbe</string>
+  <string name="miui_clock_city_name_local">Lokalno</string>
+  <string name="miui_clock_city_name_second">Drugi sat</string>
+  <string name="miui_clock_fancy_colon"></string>
+  <string name="miui_digital_clock_dot">:</string>
+  <string name="miui_clock_city_name_local">Lokalno</string>
+  <string name="miui_lock_screen_date">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+<string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MMMM"</string>
+     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MMMM"</string>
+     <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+     <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>  
   <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Odustani</string>
@@ -942,6 +970,7 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="theme_current_using_has_update">Dostupno ažuriranje teme</string>
   <string name="theme_description_title_customized">Uredi</string>
   <string name="theme_description_title_default">Zadano</string>
+  <string name="theme_designer_products">Dizajnerske teme</string>
   <string name="theme_detail_tab_comment">Komentari</string>
   <string name="theme_detail_tab_recommend">Preporuke</string>
   <string name="theme_detail_tab_theme">Teme</string>
@@ -1055,6 +1084,7 @@ Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
   <string name="update_latest">Aplikacija je ažurna</string>
   <string name="update_no_net">Došlo je do pogreške mreže. Pokušajte ponovo.</string>
   <string name="update_title">DOSTUPNO JE NOVO AŽURIRANJE</string>
+  <string name="use_hint">Pažnja</string>
   <string name="using_theme_has_update_tips">Dostupno je ažuriranje ove teme.</string>
   <string name="using_theme_next_automatic_update">Automatsko ažuriranje</string>
   <string name="using_theme_next_automatic_update_summary">Ažuriraj preuzete teme putem WLAN-a automatski kada je uređaj zaključan</string>

@@ -1513,4 +1513,10 @@
         <item>Koristi nasumični MAC</item>
         <item>Koristi MAC uređaja</item>
      </string-array>
+	 <string-array name="charge_animation_style_entries">
+        <item>Isključeno</item>
+        <item>Tok</item>
+        <item>Sjaj</item>
+        <item>Val</item>
+    </string-array>
 </resources>

@@ -85,14 +85,14 @@
   <string name="warning_tip_content">"Više niste povezani s WLAN-om. Korištenje vaše mobilne podatkovne veze za dovršetak ovog preuzimanja će povećati uporabu podataka. Ako premašite svoje ograničenje, vaš operater vam može naplatiti dodatne naknade."</string>
   <string name="warning_tip_ok">Pauza</string>
   <string name="warning_tip_title">Upozorenje uporabe podataka</string>
-  <string name="wifi_recommended_body" formatted="false">"Pokretanje ovog preuzimanja od %s može skratiti vijek baterije i/ili uzrokovati pretjeranu upotrebu podatkovne veze i dodatne troškove.
+  <string name="wifi_recommended_body">"Pokretanje ovog %1$s preuzimanja može skratiti vijek baterije i/ili uzrokovati pretjeranu upotrebu podatkovne veze i dodatne troškove.
 
 
- Dodirnite %s da biste preuzeli pri sljedećem spajanju s WLAN mrežom."</string>
+ Dodirnite %2$s da biste preuzeli pri sljedećem povezivanju s WLAN mrežom."</string>
   <string name="wifi_recommended_title">Staviti na čekanje za kasnije preuzimanje?</string>
-  <string name="wifi_required_body" formatted="false">"Morate upotrijebiti WLAN da biste dovršili ovo preuzimanje veličine %s . 
+  <string name="wifi_required_body">"Povežite s WLAN-om za dovršetak ovog %1$s preuzimanja. 
 
-Dodirnite tekst %s da biste pokrenuli preuzimanje sljedeći put kada se povežete s WLAN mrežom."</string>
+Dodirnite %2$s da biste pokrenuli preuzimanje sljedeći put kada se povežete s WLAN mrežom."</string>
   <string name="wifi_required_title">Preuzimanje je preveliko za mrežu operatora</string>
   <string name="xl_speedup_experience_notify_context">"Brzina je povećana za svako preuzimanje kada ste Xunlei član"</string>
   <string name="xl_speedup_experience_notify_title">Xunlei članstvo</string>

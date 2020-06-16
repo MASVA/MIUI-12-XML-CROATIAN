@@ -26,6 +26,10 @@
   <string name="autofill_save_sub_message">"Moći ćete upravljati spremljenim zaporkama Postavke &gt; Zaporke &amp; Sigurnost &gt; %s."</string>
   <string name="autofill_save_title">Spremi zaporke automatski</string>
   <string name="autofill_service_name">Upravljanje zaporkama</string>
+  <string name="bluetooth_disable_notification_content">%s je isključio Bluetooth</string>
+  <string name="bluetooth_disable_notification_title">Bluetooth je isključen</string>
+  <string name="bluetooth_enable_notification_content">%s je uključio Bluetooth</string>
+  <string name="bluetooth_enable_notification_title">Bluetooth je uključen</string>
   <string name="btn_cancel">Odustani</string>
   <string name="btn_sure">U redu</string>
   <string name="button_text_cancel">Odustani</string>
@@ -271,7 +275,7 @@
   <string name="status_bar_toggle_rotate">Rotacija isklj.</string>
   <string name="status_bar_toggle_screen_button">Tipke</string>
   <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
-  <string name="status_bar_toggle_shutdown">Isključivanje</string>
+  <string name="status_bar_toggle_shutdown">Isključi</string>
   <string name="status_bar_toggle_sync">Sinkr.</string>
   <string name="status_bar_toggle_sync_auto">Sinkr.</string>
   <string name="status_bar_toggle_sync_manual">Sinkr.</string>
@@ -280,7 +284,7 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WLAN</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
-  <string name="stop_operate_camera_frequently">"Izgleda da mjenjate između kamera previše često."</string>
+  <string name="stop_operate_camera_frequently">"Izgleda da previše često mjenjate između kamera."</string>
   <string name="sunlight_notification_content">Prilagodi svjetlinu jakog ambijentalnog svjetlu automatski</string>
   <string name="sunlight_notification_title">Uključi način rada Sunčeve svjetlosti</string>
   <string name="super_resolution_maintain_tips">"Super razlucija još nije dostupna."</string>
@@ -288,6 +292,7 @@
   <string name="switch_desc_tv">Dva prostora. Jedan uređaj.</string>
   <string name="switching_tv">Promjena…</string>
   <string name="takeback_camera_front_failed">"Ne mogu zatvoriti prednju kameru. Pokušajte ponovno."</string>
+  <string name="talk_back_conflict_with_handy_mode">"Ne može se koristiti Rad jednom rukom kada je TalkBack uključen"</string>
   <string name="talk_back_water_mark_string1">TalkBack je uključen</string>
   <string name="talk_back_water_mark_string2">Pritisnite i držite \"Glasnoća +\" i \"Glasnoća -\" na 3 sekunde da ga isključite</string>
   <string name="throwing_print">Ispiši</string>

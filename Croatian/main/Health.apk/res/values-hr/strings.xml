@@ -173,6 +173,7 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="cross_hiking">Pješačenje</string>
   <string name="cumulative_decline">Pad</string>
   <string name="cumulative_rise">Uspon</string>
+  <string name="current_phone">Ovaj uređaj</string>
   <string name="cycle">Biciklizam</string>
   <string name="daily_consumption_label">Kalorije</string>
   <string name="daily_distance_label">Udaljenost</string>
@@ -191,7 +192,9 @@ Ako odlučite izbrisati svoje zdravstvene podatke nakon što odlučite čuvati i
   <string name="data_source_data_updating">Ažuriranje zdravstvenih podataka…</string>
   <string name="data_source_list_description">"Xiaomi Health dobiva zdravstvene podatke (%1$s) iz tih izvora. Ako se podaci dupliciraju u više izvora, vidjet ćete podatke iz izvora koji se prvi pojavljuju na popisu u Xiaomi Health."</string>
   <string name="data_source_manage">Upravljanje izvorima podataka</string>
-  <string name="data_source_not_support_hm_description">"%1$s ne daje detaljno brojanje koraka. Možete pokušati prijeći na druge izvore podataka u Više &gt; Izvori podataka."</string>
+  <string name="data_source_not_support_hm_description">"%1$s ne daje detaljno brojanje koraka. Možete pokušati sa drugim izvorima podataka u Više &gt; Izvori podataka."</string>
+  <string name="data_source_not_support_hm_description_consume">"Odabrani izvor podataka (%1$s) ne daje detaljne informacije o kalorijama. Možete pokušati sa drugim izvorima podataka u Više &gt; Izvori podataka."</string>
+  <string name="data_source_not_support_hm_description_duration">"Odabrani izvor podataka (%1$s) ne daje detaljne informacije o vježbanju umjerenog do visokog intenziteta. Možete pokušati sa drugim izvorima podataka u Više &gt; Izvori podataka."</string>
   <string name="date">Datum</string>
   <string name="date_format_h_m">H:mm</string>
   <string name="date_format_h_m_s">HH:mm:ss</string>
@@ -234,6 +237,10 @@ Ako odlučite izbrisati svoje zdravstvene podatke nakon što odlučite čuvati i
   <string name="delete_all_data_sources_description">Želite li izbrisati sve dodane izvore podataka?</string>
   <string name="delete_avatar">Izbriši trenutnu fotografiju</string>
   <string name="delete_contact">Izbriši</string>
+  <string name="delete_data_source">Izbriši izvor podataka</string>
+  <string name="delete_dialog_close_sync_msg">Da izbrišete %1$s, prvo isključite sinkronizaciju na odgovarajućem uređaju.</string>
+  <string name="delete_dialog_confirm_msg_cloud">Izbrisati %1$s zajedno s povezanim podacima pohranjenim na ovom uređaju i u Cloudu?</string>
+  <string name="delete_dialog_confirm_msg_local">Izbrisati %1$s zajedno s povezanim podacima?</string>
   <string name="delete_menstruation_record_confirm">Izbrisati ovaj zapis?</string>
   <string name="delete_origin_data_description">Izbrisati sve podatke generirane od %1$s?</string>
   <string name="delete_record">Izbriši</string>
@@ -365,6 +372,9 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="exercise_reminder_accomplished">Postigli ste svoj cilj aktivnosti!</string>
   <string name="exercise_reminder_title">Podsjetnik aktivnosti</string>
   <string name="exercise_reminder_unaccomplished">"Još niste postigli svoj cilj. Nastavite dalje!"</string>
+  <string name="exercise_result_reminder_content">%1$d min. vježbanja (%2$d Cal). Dodirnite za prikaz detalja.</string>
+  <string name="exercise_result_reminder_title">"Današnji broj koraka: %1$d. Postigli ste cilj!"</string>
+  <string name="exercise_result_reminder_title_unaccomplished">"Današnji broj koraka: %1$d. Još uvijek možete doći do cilja!"</string>
   <string name="exercise_setting_label_reach_standard_remind">Upozorenje o aktivnosti</string>
   <string name="exercise_setting_page_title">Postavke aktivnosti</string>
   <string name="exercise_strokes">Broj zamaha</string>
@@ -409,7 +419,8 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="go_on">Nastavi</string>
   <string name="go_open_sleep_detector">Start</string>
   <string name="go_setting">Postavke</string>
-  <string name="go_to_open">Turn on</string>
+  <string name="go_to_close">Postavke</string>
+  <string name="go_to_open">Uključi</string>
   <string name="goal_daily_exercise">Cilj aktivnosti</string>
   <string name="goal_sleep_time">Cilj trajanja spavanja</string>
   <string name="goal_title">Ostanite zdravi</string>
@@ -737,6 +748,8 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="remind_query_menstruation_end">"Je li vaša menstruacija završila? Ne zaboravite to zabilježiti."</string>
   <string name="remind_query_menstruation_start">"Je li vaša menstruacija započela? Ne zaboravite to zabilježiti."</string>
   <string name="remind_sleep_report_complete">Statistika spavanja je spremna</string>
+  <string name="remind_sleep_report_content">Spavali ste %1$d hr %2$d min. prošlu noć. Dodirnite za prikaz detalja.</string>
+  <string name="remind_sleep_report_title">Statistika spavanja je spremna</string>
   <string name="remind_subtitle_menstruation_start">Primite podsjetnik 2 dana prije početka sljedeće menstruacije</string>
   <string name="remind_subtitle_record">Primite podsjetnik kada trebate zabilježiti datum početka i završetka menstruacije</string>
   <string name="remind_title_menstruation_start">Podsjeti kada započne menstruacija</string>
@@ -850,11 +863,13 @@ ciklus spavanja"</string>
   <string name="sleep_no_deep_light_data_tip">"Zašto nije zabilježen lagani i duboki san?"</string>
   <string name="sleep_no_generate_report">"Ne mogu pronaći
 podatke o spavanju"</string>
+  <string name="sleep_notice">Obavijesti spavanja</string>
   <string name="sleep_record_content">Mi Health automatski će snimiti vaš san na temelju upotrebe telefona, statistike aktivnosti, kao i vremena spavanja/buđenja koje ste postavili.</string>
   <string name="sleep_record_go_open">Uključite \"Prati spavanje\" za početak snimanja podataka o stanju spavanja</string>
   <string name="sleep_record_label">Zabilježi spavanje</string>
   <string name="sleep_remind">Podsjetnik spavanja</string>
   <string name="sleep_report">Statistka spavanja</string>
+  <string name="sleep_report_notice">Obavijesti statistike spavanja</string>
   <string name="sleep_require_auto_start_permission">Dopustite Mi Healthu da se automatski pokrene radi praćenja vaše aktivnosti i spavanja.</string>
   <string name="sleep_schedule">Odlazak na spavanje</string>
   <string name="sleep_service">Usluga praćenja spavanja</string>
@@ -989,6 +1004,7 @@ podatke o spavanju"</string>
   <string name="swim">Plivanje</string>
   <string name="swim_type">Stil</string>
   <string name="sync_immediately">Sinkr.</string>
+  <string name="sync_is_not_closed">Sinkronizacija je uključena</string>
   <string name="sync_is_off">Sinkronizacija je isključena</string>
   <string name="sync_set_network">Mrežne postavke</string>
   <string name="sync_status">Status sinkr.</string>

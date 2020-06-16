@@ -2001,6 +2001,7 @@ podatkovnu vezu"</string>
   <string name="memory_clean_click_tip">Povećaj brzinu</string>
   <string name="memory_clean_memory_size_tip">Predmemorija</string>
   <string name="memory_clean_no_need_clean">Sve izgleda dobro</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">Oslobođeno %s. Vaš je uređaj sad %d%% brži.</string>
   <string name="memory_clean_no_running_process">Nema zadataka za brisanje</string>
   <string name="memory_clean_running_process_title">Praćenje aplikacija (%d)</string>
   <string name="memory_cleaned_memory_info">Dostupna memorija</string>
@@ -2060,6 +2061,8 @@ podatkovnu vezu"</string>
   <string name="menu_summary_networkassistants_2">Ograničenje prekoračeno</string>
   <string name="menu_summary_networkassistants_3">Preostalo je dovoljno podataka</string>
   <string name="menu_summary_networkassistants_4">Ponestaje podataka</string>
+  <string name="menu_summary_optimize_manage">Očisti memoriju</string>
+  <string name="menu_summary_optimize_manage_1">Učinite vaš uređaj %d%% bržim</string>
   <string name="menu_summary_power_manager">Štednja baterije daje vam više vremena između punjenja</string>
   <string name="menu_summary_power_manager_1">Baterija je napunjena</string>
   <string name="menu_summary_power_manager_2">Preostalo %s</string>
@@ -2077,6 +2080,7 @@ podatkovnu vezu"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povećaj brzinu</string>
+  <string name="menu_text_optimize_manage_1">Povećaj brzinu</string>
   <string name="menu_text_power_manager">Baterija</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
   <string name="menu_white">Dodaj u iznimke</string>
@@ -2308,6 +2312,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_media_scan_timeout_proc_name">Medijski poslužitelj</string>
   <string name="om_memory_clean_cleaning_text">Povećanje brzine…</string>
   <string name="om_not_finish_speedboost">POtrebno je povećanja brzine</string>
+  <string name="om_optimzing_big_button_text">Povećaj brzinu</string>
+  <string name="om_running_app_info_summary">Oslobodi %s</string>
   <string name="om_notify_cpu_load_too_high_summary">Ograniči aktivnosti u pozadini za povećanje brzine</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU-a od %s je previsoka</string>
   <string name="om_notify_need_clean_memory_summary">Izbriši predmemoriju za povećanje brzine</string>
@@ -2329,6 +2335,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_settings_notify_manage">Obavijesti</string>
   <string name="om_settings_speed_up_auto">Autom. povećaj brzinu</string>
   <string name="om_settings_title">Postavke optimizacije</string>
+  <string name="om_shortcut_added_toast_text">Uspješno dodano</string>
+  <string name="om_shortcut_dialog_summary">"RAM Jet omogućuje vam da očistite memoriju i povećate brzinu vašeg uređaja jednim dodirom. Dodati RAM Jet na Poč. zaslon?"</string>
+  <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
@@ -3252,8 +3261,12 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="section_title_clear_acc">Očisti predmemoriju</string>
   <string name="section_title_security_defend">Sigurnost</string>
   <string name="section_title_system">Sigurnost sustava</string>
+  <string name="security_bottom_guide_to_pm_text">Otvaranje Utility Kit…</string>
   <string name="security_app_lock">Zaklj. aplikacije</string>
   <string name="security_center_slogan">Držite svoj uređaj brzim i sigurnim</string>
+  <string name="security_guide_bubble_text">Otvori</string>
+  <string name="security_guide_summary">One-stop mjesto za alate i usluge</string>
+  <string name="security_guide_title">MIUI Utility Kit</string>
   <string name="security_scan_card_clean_now">Skeniraj</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="securityadd_install_fail">"Nije moguće ažurirati dodatak. Pokušajte ponovno."</string>

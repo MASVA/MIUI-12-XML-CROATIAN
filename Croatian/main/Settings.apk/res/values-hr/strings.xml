@@ -1732,6 +1732,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="channel_notifications_off_desc">Android na vaš zahtjev blokira prikazivanje te kategorije obavijesti na ovom uređaju</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="charge_animation_style_summary">Odaberite željeni stil animacije punjenja Zaklj. zaslona</string>
+  <string name="charge_animation_style_title">Animacija punjenja</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="charging_sounds_title">Zvukovi i vibracija punjenja</string>
   <string name="check_find_device_status_failure_confirm">U redu</string>
@@ -2019,7 +2021,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="continue_all_caps">NASTAVI</string>
   <string name="continue_reset_factory">Vraćanje na tvorničke postavke</string>
   <string name="contributors_title">Suradnici</string>
-  <string name="control_panel_switch_side">Zamijeni stranu Kontrolnog centra</string>
+  <string name="control_center">Centar za kontrolu</string>
+  <string name="control_panel_switch_side">Zamijeni stranu Centra za kontrolu</string>
   <string name="controls_label">Kontrole</string>
   <string name="controls_subtitle">Podesi potrošnju energije</string>
   <string name="convenience_key_category_title">Prečaci</string>
@@ -2719,6 +2722,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="done">Gotovo</string>
   <string name="done_button">Završeno</string>
   <string name="double_click_power_key">Dvoklik tipke Power</string>
+  <string name="double_knock">Dvostruko kucanje</string>
   <string name="double_tap_power_for_camera_suggestion_title">Brzo otvaranje kamere</string>
   <string name="double_tap_power_for_camera_summary">Da biste brzo otvorili kameru, dvaput pritisnite tipku za uključivanje/isključivanje. Funkcionira na svim zaslonima.</string>
   <string name="double_tap_power_for_camera_title">Otvaranje Kamere</string>
@@ -3728,11 +3732,11 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_method_bottom_open">Uključeno</string>
   <string name="input_method_clipboard_settings">Postavke međuspremnika</string>
   <string name="input_method_cloud_data_title">Međuspremnik Clouda</string>
-  <string name="input_method_cloud_paste_mode_bubble_des">"Prikazat će se mjehurić kad god se novi sadržaj pojavi u međuspremniku Clouda. Dodirnite oblačić kako biste unijeli kopirani tekst."</string>
+  <string name="input_method_cloud_paste_mode_bubble_des">"Vidjet ćete mjehurić. Dodirnite oblačić kako biste unijeli kopirani tekst."</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Mjehurić</string>
-  <string name="input_method_cloud_paste_mode_no_des">"Nećete vidjeti obavijesti kada se novi novi sadržaj pojavi u međuspremniku Clouda. Međutim, i dalje ćete moći koristiti međuspremnik dodirom ikone."</string>
+  <string name="input_method_cloud_paste_mode_no_des">"Nećete vidjeti obavijesti. Međutim, i dalje ćete moći koristiti međuspremnik dodirom ikone."</string>
   <string name="input_method_cloud_paste_mode_no_title">Ništa</string>
-  <string name="input_method_cloud_paste_mode_red_point_des">"Na dnu tipkovnice vidjet ćete crvenu točku kad god se novi novi sadržaj pojavi u međuspremniku Clouda. Dodirnite ikonu da otvorite međuspremnik i upotrijebite kopirani sadržaj."</string>
+  <string name="input_method_cloud_paste_mode_red_point_des">"Na dnu tipkovnice vidjet ćete crvenu točkicu. Dodirnite ikonu da otvorite međuspremnik i upotrijebite kopirani sadržaj."</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Crvena točka</string>
   <string name="input_method_function_clipboard">Međuspremnik i česti izrazi</string>
   <string name="input_method_function_clipboard_des">Dodirnite za pregled sadržaja međuspremnika i čestih izraza</string>
@@ -3748,6 +3752,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_method_quick_access">Brzi pristup</string>
   <string name="input_method_quick_cloud_mode_title">Obavijesti o novom sadržaju međuspremnika</string>
   <string name="input_method_quick_cloud_summary">Kopirajte predmete na kompatibilnim računalima i zalijepite ih na svoj uređaj</string>
+  <string name="input_method_quick_cloud_tips">Vrsta obavijesti</string>
   <string name="input_method_quick_cloud_title">Međuspremnik Clouda</string>
   <string name="input_method_quick_paste_summary">Pregledajte kopirane stavke dodirom ikone međuspremnika</string>
   <string name="input_method_quick_paste_title">Brzo zalijepi</string>
@@ -3999,6 +4004,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="last_time_used_label">Posljednja upotreba</string>
   <string name="later">Kasnije</string>
   <string name="lattice_smartcover_title">Rešetkasti prednji pokrov</string>
+  <string name="launch_ai_shortcut">Mi AI prečac</string>
   <string name="launch_by_default">Otvori prema zadanim postavkama</string>
   <string name="launch_camera">Pokreni kameru</string>
   <string name="launch_count_label">Broj</string>
@@ -9490,11 +9496,12 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_ask_disable">%s želi isključiti WLAN</string>
   <string name="wifi_ask_enable">%s želi uključiti WLAN</string>
   <string name="wifi_assist">WLAN pomoćnik</string>
-  <string name="wifi_assistant">Odaberite najbolje mreže automatski</string>
-  <string name="wifi_assistant_auto_confirm_data_message">Ova WLAN mreža nema pristup internetu. Umjesto toga vaš uređaj će upotrebljavati mobilne podatke. WLAN pomoćnika možete isključiti u Postavkama.</string>
-  <string name="wifi_assistant_card_message">Automatski se povežite s dostupnim mrežama pomoću WLAN Asistenta.</string>
+  <string name="wifi_assistant">Odaberi najbolje mreže automatski</string>
+  <string name="wifi_assistant_card_message">Automatski se povežite s dostupnim mrežama pomoću WLAN pomoćnika.</string>
   <string name="wifi_assistant_confirm_always">"Ne prikazuj ponovno"</string>
-  <string name="wifi_assistant_confirm_connection_title">Potvrdi</string>
+  <string name="wifi_assistant_auto_confirm_data_help">Ovu značajku možete isključiti u Postavke &gt; WLAN &gt; WLAN pomoćnik.</string>
+  <string name="wifi_assistant_auto_confirm_data_message">"Koristite mobilne podatkovne mreže kada se vaš uređaj ne može povezati s internetom putem WLAN-a."</string>
+  <string name="wifi_assistant_confirm_connection_title">Odaberi automatski najbolje mreže</string>
   <string name="wifi_assistant_data_prompt">Prikaži upozorenje uporabe podataka</string>
   <string name="wifi_assistant_data_prompt_summary">Prikaži upozorenje o upotrebi podataka prilikom prelaska na mobilne podatke</string>
   <string name="wifi_assistant_description">"Evo kako funkcionira WLAN pomoćnik:

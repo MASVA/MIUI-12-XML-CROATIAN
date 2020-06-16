@@ -168,12 +168,14 @@
   <string name="food_module_thumbs_up">Sviđa mi se</string>
   <string name="food_module_tip">Stavite hranu unutar okvira</string>
   <string name="food_module_title_food">Kalorije</string>
+  <string name="function">Značajke</string>
   <string name="flash_lable">Bljeskalica</string>
   <string name="got_it">Razumijem</string>
   <string name="gps">Navigacija</string>
   <string name="grant_permission">Odobrite dopuštenje</string>
   <string name="history">Povijest</string>
   <string name="history_empty">Nema stavki</string>
+  <string name="if_open_result">Pokažite rezultat skeniranja po povratku u aplikaciju</string>
   <string name="if_to_open_milogo_scanning">Prepoznaj Xiaomi logo</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="importFailed">"Ne mogu uvesti"</string>
@@ -204,6 +206,8 @@
   <string name="language_entry_swedish">Swedish</string>
   <string name="limit_exceeded">Odaberite do %d znakova</string>
   <string name="low_version_tip">Ažurirajte MIUI da možete koristiti Skener.</string>
+  <string name="mipayin_dialog_more">Više</string>
+  <string name="mipayin_dialog_title">Otvori sa</string>
   <string name="miracast_connect">Emitiraj</string>
   <string name="miracast_connect_fail">"Ne mogu emitirati, pokušajte ponovo"</string>
   <string name="miracast_connecting">Emitiranje…</string>

@@ -56,6 +56,11 @@
         <item>Uključi/postavi sinkr.</item>
         <item>Povijest poziva;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>
+	<string-array name="settings_search_phrase">
+        <item>Sinkr. brze odgovore</item>
+        <item>Uključi sinkr.</item>
+        <item>Brzi odgovori;Međuspremnik;Uređivač;Cloud;Sinkr.;Cloud usluge</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Sinkr. snimke sa Mi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
@@ -87,7 +92,7 @@
         <item>Preglednik;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sinkr. Sigurnost s Mi Cloudom</item>
+        <item>Sigurnosna sinkr. Clouda</item>
         <item>Uključi sinkr.</item>
         <item>Sigurnost;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>

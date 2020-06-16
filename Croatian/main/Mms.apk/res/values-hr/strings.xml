@@ -210,6 +210,7 @@
   <string name="copy_to_sdcard">Spremi privitak</string>
   <string name="copy_to_sdcard_fail">Ne mogu spremiti privitak</string>
   <string name="copy_to_sdcard_success">Privitak spremljen</string>
+  <string name="copy_verification_code_tip">Uspješno kopirano</string>
   <string name="current_data_version">Verzija Mi Poruka</string>
   <string name="database_corruption">Popravak…</string>
   <string name="del_private_contact">Ukloni sve privatne kontakte</string>
@@ -414,6 +415,7 @@
   <string name="menu_make_call">Poziv</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_more">Više</string>
+  <string name="menu_multi_select">Odaberi</string>
   <string name="menu_new_contact">Novi kontakt</string>
   <string name="menu_new_manual">Unesite broj ručno</string>
   <string name="menu_pick_from_contact">Odabrati iz kontkata</string>
@@ -622,6 +624,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="nosend_message">"Nemoj slati"</string>
   <string name="not_prepare_for_send">Nema poruke za slanje</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="not_support_audio_forward">"Ne mogu proslijediti glasovne poruke"</string>
   <string name="notification_ad_content">Primili ste promotivnu poruku od %s</string>
   <string name="notification_channel_msg_description">Obavijest o poruci</string>
   <string name="notification_channel_msg_name">Poruka</string>
@@ -703,8 +706,9 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_summary_on_system_mms_priority">"Postavi MIUI Poruke aplikaciju kao zadanu aplikaciju za slanje i primanje MMS-a"</string>
   <string name="pref_summary_privacy_authority">Uključite ovaj prečac kako biste odobrili ili opozvali autorizaciju</string>
   <string name="pref_summary_send_delivery_reports">Pošalji pošiljatelju potvrdu izvješća o isporuci za primljen MMS</string>
+  <string name="pref_summary_voice_report">Uključite za čitanje poruka na glas kad ih primite. Pritisnite tipku za glasnoću ili tipku za uključivanje/isključivanje za zaustavljanje reprodukcije.</string>
   <string name="pref_summary_show_recent_contacts">Prikaži popis nedavnih kontakata kod pisanja nove poruke</string>
-  <string name="pref_summary_wake_up_screen">Upali zaslon kad stigne nova poruka</string>
+  <string name="pref_summary_wake_up_screen">Uključi zaslon kad stigne nova poruka</string>
   <string name="pref_switch_sdk_setting">Promjeni smart SMS uslugu operatera</string>
   <string name="pref_system_title">Sustav</string>
   <string name="pref_time_auto_group_disabled_summary">"Nije podržano u trenutnoj veličini fonta"</string>
@@ -743,6 +747,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_storage_status">Status pohrane poruka</string>
   <string name="pref_title_system_mms_priority">Postavi kao zadano</string>
   <string name="pref_title_vcard">Pošalji pomoću vCard</string>
+  <string name="pref_title_voice_report">Pročitaj poruke naglas</string>
   <string name="pref_title_wake_up_screen">Buđenje zaslona</string>
   <string name="preference_copied">\"%1$s\" kopiran u međuspremnik.</string>
   <string name="preferences_title">Postavke</string>
@@ -1126,6 +1131,7 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="too_many_attachments">"Ne mogu premašiti %1$s privitaka. Samo prvih %2$s privitaka će biti dodano."</string>
   <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
   <string name="too_many_unsent_mms">"Ovu poruku trenutačno nije moguće poslati. Postoji previše neposlanih multimedijskih poruka."</string>
+  <string name="top_conversation">Zakačen razgovor</string>
   <string name="train_edit_destination">Dodaj</string>
   <string name="try_to_send">Pokušati poslati</string>
   <string name="tuesday">Utorak</string>
@@ -1172,11 +1178,15 @@ Provedeni pokušaj: %s."</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Kodovi za provjeru</string>
+  <string name="verification_code_safety_warning">"Ne otkrivajte ove kodove drugim ljudima"</string>
   <string name="view">Prikaži</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
   <string name="view_hms_attachment_fail">"Ne mogu preuzeti sliku."</string>
   <string name="view_hms_details">Detalji</string>
   <string name="view_message_details">Prikaži pojedinosti</string>
+  <string name="voice_report_anytime">Uvijek</string>
+  <string name="voice_report_off">Isključeno</string>
+  <string name="voice_report_wiredon">Sa slušalicama</string>
   <string name="voip_enable">Mi Poruka i Voice</string>
   <string name="voip_enable_popup_msg">"Upućivajte pozive drugim MIUI uređajima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="voip_enable_popup_msg2">Pravila o Privatnosti</string>

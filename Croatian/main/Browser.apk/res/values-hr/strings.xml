@@ -156,6 +156,7 @@
   <string name="autologin_bar_login_text">Prijava</string>
   <string name="autologin_bar_text">Prijavite se kao</string>
   <string name="back_description">Natrag</string>
+  <string name="back_button_label">Natrag</string>
   <string name="block">Blokiraj</string>
   <string name="block_ads_choice_block">Blokiraj</string>
   <string name="block_ads_choice_continue">Nastavi</string>
@@ -468,6 +469,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="geolocation_permissions_prompt_message">%s želi znati vašu lokaciju</string>
   <string name="geolocation_permissions_prompt_remember">Zapamti prednosti</string>
   <string name="geolocation_permissions_prompt_share">Dijeli lokaciju</string>
+  <string name="go_back_descirption">Idi natrag</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Ova stranica može pristupiti detaljima vaše lokacije. To možete promijeniti u Postavkama.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ova stranica ne može pristupiti vašoj lokaciji</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Odustani</string>
