@@ -40,6 +40,11 @@
   <string name="accessibility_remove_reminder">Ukloni podsjetnik</string>
   <string name="accessibility_repeats">Ponavljanje</string>
   <string name="accessibility_sync_cal">Sinkronizacija kalendara</string>
+  <string name="accessibility_month_page_selected_prefix">Mjesečni prikaz za %2$d od %1$d. Odabrani datum: %4$d/%5$d/%3$d.</string>
+  <string name="accessibility_year_item_selected">Odabrani mjesec: %d. Dodirnite za otvaranje mjesečnog prikaza.</string>
+  <string name="accessibility_year_page_selected">Godišnji prikaz za %d. Prijeđite prstom ulijevo ili udesno da biste se prebacivali između godina, a zatim dodirnite za odabir mjeseci.</string>
+  <string name="action_bar_cancel">Odustani</string>
+  <string name="action_bar_confirm">U redu</string>
   <string name="account_and_calendar">Računi</string>
   <string name="accounts">Računi &amp; sinkronizacija</string>
   <string name="acct_not_synced">Ovaj račun nije sinkroniziran. Kalendar možda nije ažuran.</string>
@@ -670,6 +675,7 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Prikaži praznike</string>
   <string name="setting_title_import_todo">Uvezi zadatke</string>
+  <string name="share_title">Podijeli</string>
   <string name="shortcut_new_event">Dodaj događaj</string>
   <string name="shortcut_next_agenda">Sljedeći događaj</string>
   <string name="shortcut_settings">Postavke</string>

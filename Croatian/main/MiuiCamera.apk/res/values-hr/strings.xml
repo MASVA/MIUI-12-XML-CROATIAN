@@ -1107,6 +1107,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne možete koristiti Quick snap način dok je \"Probudi tipkama za glasnoću\" uključen."</string>
+  <string name="pref_camera_snap_value_off">Isključeno</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Slika</string>
   <string name="pref_camera_sound_title">Zvuk okidača</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_sr_enable_title">Uključi SR</string>

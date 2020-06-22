@@ -382,6 +382,8 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="item_resource_audio_optional_color_ring">Zvuk povratnog signala</string>
   <string name="item_resource_audio_optional_notification_ring">Obavijesti</string>
   <string name="item_resource_audio_optional_phone_ring">Melodija zvona</string>
+  <string name="kuyin_user_agreement_content">Pretplate za prilagođene melodije zvona pruža iFlytek. Morate se složiti s %s prije korištenja prilagođenih pretplata za melodije zvona. Slažete te li se?</string>
+  <string name="kuyin_user_agreement_content_href">iFlytek Pravila o privatnosti</string>
   <string name="lab">Beta značajke</string>
   <string name="like_list">Stavke koje su mi sviđaju</string>
   <string name="live_wallpaper">Animirana pozadina</string>
@@ -420,9 +422,9 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
 <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MMMM"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MMMM"</string>
+dd.MM"</string>
      <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE

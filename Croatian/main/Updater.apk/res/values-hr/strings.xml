@@ -14,6 +14,7 @@
   <string name="btn_stop">Zaustavi</string>
   <string name="btn_yes">Da</string>
   <string name="channel_downloading">Napredak preuzimanja</string>
+  <string name="channel_service">Pozadinska usluga</string>
   <string name="channel_update">Dostupna je nova verzija</string>
   <string name="check_new_version">Provjeri</string>
   <string name="default_filedownloader_notification_content">Preuzimatelj datoteka je pokrenut.</string>
@@ -64,6 +65,8 @@ Ažuriranja za vas nisu dostupna!"</string>
   <string name="notif_install">Instaliraj</string>
   <string name="notif_new_summary">Dodirni za dobivanje pojedinosti</string>
   <string name="notif_new_title">Dostupna je nova MIUI verzija!</string>
+  <string name="notif_service_summary">Držite da onemogućite obavijest \"Pozadinska usluga\"!</string>
+  <string name="notif_service_title">Aplikacija se izvodi u pozadini…</string>
   <string name="notifications_switch">Upozori na novu MIUI verziju</string>
   <string name="permdesc_cache_filesystem">Aplikaciji omogućuje pisanje datoteka u / cache.</string>
   <string name="permdesc_reboot">Aplikaciji omogućuje ponovno pokretanje uređaja.</string>

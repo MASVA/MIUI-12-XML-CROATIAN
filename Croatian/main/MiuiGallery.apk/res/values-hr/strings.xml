@@ -1351,6 +1351,7 @@ za fotografije"</string>
   <string name="operation_unforce_top">Otkači</string>
   <string name="operation_unhide">Prikaži</string>
   <string name="operation_video_compress">Sažmi videozapis</string>
+  <string name="operate_with_metered_network_msg">Vaš je uređaj povezan s mrežom s plaćanjem. Nastaviti svejedno?</string>
   <string name="orientation_lock_tip">Autom. rotacija isključena</string>
   <string name="orientation_unlock_tip">Autom. rotacija uključena</string>
   <string name="origin_gif_name">izvorna datoteka</string>
@@ -1962,6 +1963,10 @@ za fotografije"</string>
   <string name="text_edit_dialog_style_transparent">Neprozirnost</string>
   <string name="text_edit_sub_menu_text">Mjehurić</string>
   <string name="text_tab_bubble">Mjehurići</string>
+  <string name="text_tab_city">Grad</string>
+  <string name="text_tab_festival">Praznik</string>
+  <string name="text_tab_scene">Scena</string>
+  <string name="text_tab_spot">Pejzaž</string>
   <string name="text_tab_watermark">Vodeni žig</string>
   <string name="things_album_empty_title">Fotografije se mogu razvrstati po objektima na njima</string>
   <string name="throwing_print">Ispiši</string>

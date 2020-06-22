@@ -251,4 +251,16 @@
         <item quantity="other">svakog %1$s na %2$s</item>
         <item quantity="one">svakog %1$s na %2$s</item>
     </plurals>
+	     <plurals name="n_attendees">
+        <item quantity="other">%d pozivnica</item>
+        <item quantity="one">%d pozivnica</item>
+     </plurals>
+     <plurals name="travel_time_range_hours">
+        <item quantity="other">%d sati</item>
+        <item quantity="one">%d sat</item>
+     </plurals>
+     <plurals name="travel_time_range_mins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
 </resources>

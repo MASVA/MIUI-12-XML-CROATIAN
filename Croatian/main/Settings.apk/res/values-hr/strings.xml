@@ -1435,11 +1435,13 @@ Audio"</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Dodirnite tipku na uređaju za otključavanje.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Potvrdi na Mi bandu.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Potvrdi na satu.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_mi_wear">Potvrdi na uređaju</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Dodirnite tipku na uređaju za otključavanje.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši ovaj uređaj</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrisati ovaj uređaj?</string>
   <string name="bluetooth_unlock_device_matched_text">Upotrijebite ovaj uređaj za otključavanje.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Nema otkrivenih uređaja</string>
+  <string name="bluetooth_unlock_reject">Daljinski uređaj odbija zahtjev za otključavanjem</string>
   <string name="bluetooth_unlock_settings_devices_title">Uređaj</string>
   <string name="bluetooth_unlock_settings_toggle_title">Primjeni na</string>
   <string name="bluetooth_unlock_settings_unlock_device">Otključaj uređaj</string>
@@ -1451,6 +1453,7 @@ Audio"</string>
   <string name="bluetooth_unlock_title">Otključaj s Bluetooth uređajem</string>
   <string name="bluetooth_unlock_turned_off">Isključeno</string>
   <string name="bluetooth_unlock_turned_on">Uključeno</string>
+  <string name="bluetooth_unlock_unsupport">Nepodržana verzija</string>
   <string name="bluetooth_unpair_dialog_body">Vaš telefon više neće biti uparen s uređajem %1$s</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">Zaboravi uređaj</string>
   <string name="bluetooth_unpair_dialog_title">Zaboraviti uređaj?</string>

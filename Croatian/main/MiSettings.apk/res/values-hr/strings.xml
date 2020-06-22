@@ -61,6 +61,19 @@
   <string name="exit_easymode">Isključi Lite način</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_unlock_time">"Prvo otključavanje: "</string>
+  <string name="fmt_chinese_date"/>
+  <string name="fmt_date_long_month">MMMM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM, yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">dd.MM</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM.yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM, yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="focus_mode_timer_add_limit">Možete dodati do %d vlastitih timera</string>
   <string name="focus_mode_custom_time">Prilagođeno trajanje</string>
   <string name="focus_mode_timer_delete">Izbriši</string>
@@ -74,6 +87,7 @@
   <string name="friday_shortest">P</string>
   <string name="gamma">Gamma</string>
   <string name="healthy_use_phone">Upravljanje vremenom zaslona</string>
+  <string name="high_fps_description">Visoka brzina osvježavanja zaslona. Veća potrošnja energije.</string>
   <string name="hsv_space_color">HSV prostor boja</string>
   <string name="hsv_space_color_hue">Nijansa</string>
   <string name="hsv_space_color_saturation">Zasićenje</string>
@@ -392,7 +406,7 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
   <string name="usage_state_focus_level_summary">Trenutna razina: %s</string>
   <string name="usage_state_focus_mode_experience_warning_message">"Način fokusiranja omogućuje samo korištenje kamere i upućivanje hitnih poziva. Nećete moći prerano isključiti način fokusiranja."</string>
   <string name="usage_state_focus_mode_summary">Ograniči sve značajke osim hitnih poziva i kamere</string>
-  <string name="usage_state_focus_mode_summary1">Well begun is half done</string>
+  <string name="usage_state_focus_mode_summary1">Početak je prva polovica</string>
   <string name="usage_state_focus_mode_summary2">Ostani fokusiran</string>
   <string name="usage_state_focus_mode_summary3">Potreban je napor da ostanete fokusirani</string>
   <string name="usage_state_focus_mode_title">Način fokusiranja</string>

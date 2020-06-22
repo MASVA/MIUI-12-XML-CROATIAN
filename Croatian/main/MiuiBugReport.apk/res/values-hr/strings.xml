@@ -279,6 +279,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="feedback_third_packagename_hint">Koje instalirane aplikacije uzrokuju probleme?</string>
   <string name="feedback_title">Naslov</string>
   <string name="feedback_title_hint">Opišite ukratko problem</string>
+  <string name="feedback_title_occurrence_time">Odaberite vrijeme</string>
   <string name="feedback_title_reproductivity">Odaberite reproduktivnost</string>
   <string name="feedback_tracking">Pratite probleme</string>
   <string name="feedback_version_label">Verzija</string>
@@ -292,7 +293,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="goon_feedback_main">Nastavi</string>
   <string name="goto_sign_up">Izradi račun</string>
-  <string name="hint_feedback_main">Describe the issue</string>
+  <string name="hint_feedback_main">Opišite problem</string>
   <string name="i_know">U redu</string>
   <string name="identity">Identifikacija</string>
   <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
