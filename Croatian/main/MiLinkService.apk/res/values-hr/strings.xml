@@ -15,6 +15,8 @@
   <string name="dialog_connected">Povezano</string>
   <string name="dialog_connecting">Povezivanje…</string>
   <string name="dialog_nfc_cast_wifi_off">Uključite WLAN kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
+  <string name="dialog_no_device_message">1. Povežite telefon i TV s istom WLAN mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
+  <string name="dialog_no_device_message_china">1. Povežite telefon i TV s istom WLAN mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videozapise ili glazbu</string>
   <string name="dialog_open_wifi_bt">Uključi</string>
@@ -22,6 +24,12 @@
 Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="dialog_recent_connected">Nedavno</string>
   <string name="dialog_retry">Pokušajte ponovo</string>
+  <string name="dialog_scan_message">"1. Povežite telefon i TV s istom WLAN mrežom.
+
+2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
+  <string name="dialog_scan_message_china">"1. Povežite telefon i TV s istom WLAN mrežom.
+
+2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
   <string name="dialog_scanning_device">Traženje uređaja u blizini…</string>
   <string name="dialog_scanning_precondition">Uključite WLAN i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
   <string name="dialog_select_tv">Odaberite uređaj (%d)</string>

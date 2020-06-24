@@ -627,6 +627,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_sms_verification_code_login">Prijavite se pomoću SMS-a</string>
   <string name="passport_sync_account_data">Sinkr. detalja računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Mi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
+  <string name="passport_talkback_image_captcha">Vertifikacijski kod slike</string>
+  <string name="passport_talkback_switch_image_captcha">Prebaci na vertifikacijski kod slikom</string>
+  <string name="passport_talkback_switch_voice_captcha">Prebaci na glasovni vertifikacijski kod</string>
+  <string name="passport_talkback_voice_captcha">Pokrenite glasovni kod za vertifikaciju</string>
   <string name="passport_timeout_network_error">Isteklo je vrijeme mreže</string>
   <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
@@ -645,6 +649,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_user_agreement_p3"> i </string>
   <string name="passport_user_agreement_p4">Pravila o Privatnosti</string>
   <string name="passport_user_agreement_prefix">Slažem se sa </string>
+  <string name="passport_user_agreement_link">&lt;Data>Pročitao sam i slažem se s Xiaomi&lt;a href=%1$s>Ugovor o korisniku&lt;/a> i &lt;a href=%2$s>Pravila o Privatnosti&lt;/a>.&lt;/Data></string>
+  <string name="passport_user_agreement_link_more">&lt;Data>Pročitao sam i slažem se sa sljedećim dokumentima: Xiaomi&lt;a href=%1$s>Ugovor o korisniku&lt;/a> i &lt;a href=%4$s>Pravila o Privatnosti&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+  <string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
   <string name="passport_user_id_intro">Prijavi se %1$s</string>
   <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Zemlja/Regija</string>
@@ -661,6 +668,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="passport_wrong_phone_number_format">Format broja telefona koji ste unijeli nije važeći</string>
   <string name="passport_wrong_vcode">Uneseni kôd nije ispravan</string>
+  <string name="passport_wrong_voice">Kod koji ste unijeli nije točan</string>
   <string name="passport_yes">Da</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="permission_account_tip">Pristup podacima o računu</string>
@@ -669,6 +677,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="phone_bind_too_many">Ovaj telefon je povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi telefonski broj.</string>
   <string name="phone_hint">Broj telefona</string>
   <string name="phone_number">Broj telefona</string>
+  <string name="phone_num_use_for">Broj telefona se koristi za:</string>
+  <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="platform_unavailable_qq">Instaliraj QQ</string>
   <string name="platform_unavailable_qzone">Instaliraj Qzone</string>
   <string name="platform_unavailable_wechat">Instaliraj Wechat</string>
@@ -694,11 +704,19 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="refresh_network">Osvježi</string>
   <string name="remove">Ukloni</string>
   <string name="req_permission_dis_tip">Potrebno je dopuštenje</string>
+  <string name="resend_active_email">Pošalji ponovno</string>
+  <string name="resend_email_reach_limit_message">Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi.</string>
+  <string name="resend_email_reach_limit_title">Previše pokušaja</string>
+  <string name="resend_email_success">Uspješno poslano</string>
+  <string name="restart_action">Započni ispočetka</string>
+  <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
+  <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="resource_apply">Postavi</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="rv_with_footer_empty">Ovdje nema ništa</string>
   <string name="rv_with_footer_loading">" "Samo trenutak…" "</string>
   <string name="rv_with_footer_pull_load_more">Povuci dolje za prikazati više</string>
+  <string name="same_new_and_old_pwd">Ne može biti ista kao trenutna zaporka</string>
   <string name="save_hdpicture_in_favor">Pogledajte HD slike u Favoritima</string>
   <string name="save_picture_success">Spremljeno</string>
   <string name="save_to_album">Spremljeno u Galeriju</string>
@@ -711,6 +729,11 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="see_all">Pogledaj sve</string>
   <string name="see_more">Pogledaj više</string>
   <string name="see_more_content">Pogledaj više</string>
+  <string name="send_diagnosis_log">Poašalji zapis</string>
+  <string name="send_email_activate_message">Uspješno je poslana e-pošta za potvrdu</string>
+  <string name="sending">Slanje…</string>
+  <string name="service_error">Greška poslužitelja</string>
+  <string name="set_success">Promjena uspješna</string>
   <string name="select_package">Odaberi verziju</string>
   <string name="select_photo_album">Odaberi album</string>
   <string name="select_picture">Odaberi slike</string>
@@ -740,8 +763,13 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="shortcut_exist">Prečac već postoji</string>
   <string name="shortcut_failed">"Ne mogu izraditi prečac"</string>
   <string name="show_wallpaper_loop_entry_title">Postavke dijaprojekcije</string>
+  <string name="sign_in">Prijavi se</string>
+  <string name="sign_in_progress">Prijava…</string>
   <string name="sign_in_title">Prijavite se sa svojim Mi Računom</string>
   <string name="sliding_on_unlock">Povuci gore za otključati</string>
+  <string name="sms_send_success">Uspješno poslano</string>
+  <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
+  <string name="sns_bind_limit">Previše pokušaja. Pokušajte s drugim načinima prijave.</string>
   <string name="sns_sign_in">Drugi načini prijave</string>
   <string name="sst_auto_recommand_desc">Pretplatite se na svoje omiljene kategorije kako biste svakodnevno primali nove slike i priče isporučene na Zaklj. zaslon.</string>
   <string name="sst_auto_recommand_title">Dobijte preporuke za prilagođene pozadine</string>
@@ -808,6 +836,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sst_wifi_only_title">Ažuriraj slike pozadine koristeći mobilne podatke</string>
   <string name="status_wallpaper_loop_not_start">Isklj.</string>
   <string name="status_wallpaper_loop_start">Uklj.</string>
+  <string name="system_default">Zadano</string>
   <string name="subscribe_apply_wp">Pozadina Zaklj. zaslona postavljena</string>
   <string name="subscribe_dlg_btn">Start</string>
   <string name="subscribe_dlg_btn_txt">Pretplati se</string>
@@ -832,6 +861,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sure_close_gallery_des">"Nećete moći primati nove slike pozadina za Početni i Zaklj. zaslon ako isključite Wallpaper Carousel. Isključiti svejedno?"</string>
   <string name="tab_user_title_bar_text">Postavke</string>
   <string name="tb_collapse_desc">Sakrij izbornik \"Podijeli\"</string>
+  <string name="temporary_not_available">Ova značajka još nije dostupna</string>
   <string name="theme_apply_failured">"Ne mogu postaviti, pokušajte ponovo kasnije"</string>
   <string name="theme_apply_lockscreen_apply">Isključivanje Wallpaper Carousela…</string>
   <string name="theme_apply_lockscreen_failed">"Ne mogu postaviti"</string>
@@ -865,6 +895,13 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
   <string name="uninstall_warning_text_desc">"Bez Wallpaper Carousela nećete moći redovito primati nove slike pozadine. Međutim, biti ćete u mogućnosti da ponovno preuzmete i instalirate aplikaciju. Izbrisati Wallpaper Carousel?"</string>
   <string name="uninstall_warning_text_title">Brisanje Wallpaper Carousela…</string>
+  <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
+  <string name="update_email_address_dialog_title">Aktiviranje email adrese za oporavak</string>
+  <string name="update_find_new_version">Dostupno je ažuriranje</string>
+  <string name="update_phone_notice">Promjeni postavke sigurnosti</string>
+  <string name="upload_error_log">Pošalji dnevnik</string>
+  <string name="user_avatar_update_title">Promijeni sliku profila</string>
+  <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_ac_click_to_login">Dodirni za prijavu</string>
   <string name="user_ac_not_login">Niste prijavljeni</string>
   <string name="user_id_hint">E-pošta/Br. telefona</string>

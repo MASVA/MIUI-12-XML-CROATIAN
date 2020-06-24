@@ -39,6 +39,7 @@
   <string name="ads_install_button_isInstalling">Instaliranje</string>
   <string name="ads_install_button_waiting">Na čekanju</string>
   <string name="ads_summary">Ljudi koji su instalirali %1$s također im se sviđa</string>
+  <string name="ads_summary_default_value">Ljudi koji su instalirali ovu aplikaciju također im se sviđa</string>
   <string name="allPerms">Sva</string>
   <string name="all_permissions">Sva dopuštenja</string>
   <string name="anonymous_source_continue">Nastavi</string>

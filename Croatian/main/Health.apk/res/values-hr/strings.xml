@@ -385,6 +385,7 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="expand_all">Prikaži sve</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="fast">Brzo</string>
   <string name="fall_sleep_hard">Problemi kod spavanja</string>
   <string name="falling_duration">Padanje u san</string>
   <string name="falling_duration_hard_description">"Padanje u san je razdoblje između početka i potpunog utonoća u san. Ako vam treba dulje od 30 minuta da zaspite, to bi mogao biti znak nesanice.
@@ -508,8 +509,10 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="light_sleep_time_decrease_description">Vaš lagani san je prekratak</string>
   <string name="light_sleep_time_increase_description">Vaš lagani san je predugačak</string>
   <string name="light_sleep_time_normal_description">Imate dovoljnu količinu laganog sna</string>
+  <string name="load_failed">"Ne mogu učitati stavke. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="login_and_open_sync">Prijavite se i uključite sinkronizaciju</string>
   <string name="login_and_open_sync2">Prijavite se i uključite sinkronizaciju</string>
+  <string name="low">Nisko</string>
   <string name="low_intensity">Nisko</string>
   <string name="low_intensity_description">Redovna brzina disanja koja vam omogućuje održavanje razgovora</string>
   <string name="manage_home">Upravljanje početnom stranicom</string>
@@ -643,6 +646,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="need_auto_start_permission">Da dobijete točniju statistiku, dopustite Me Healthu da se automatski pokrene.</string>
   <string name="need_unrestricted_permission">Da dobijete točniju statistiku, dopustite Mi Healthu da se uvijek izvodi u pozadini.</string>
   <string name="network_connect_failure">"Nije uspjelo povezivanje s mrežom. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="network_not_available">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="next_step">Dalje</string>
   <string name="night">PM</string>
   <string name="no_available_device">Nema uređaja</string>
@@ -732,6 +736,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="recommend_sleep_goal">21:00-11:00</string>
   <string name="record_body_weight_button">Zabilježi težinu</string>
   <string name="record_detail_page_title">Detalji</string>
+  <string name="record_more">Zabilježi još</string>
   <string name="recorded_menstruation">ZAbilježena mjesečnica</string>
   <string name="reference">Referentni materijali</string>
   <string name="relationship_with_contact">Srodstvo</string>
@@ -755,6 +760,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="remind_title_menstruation_start">Podsjeti kada započne menstruacija</string>
   <string name="remind_title_record">Podsjeti zabilježiti</string>
   <string name="remove">Ukloni</string>
+  <string name="retry">Pokušaj ponovno</string>
   <string name="revert_to_default">Vrati na zadane postavke</string>
   <string name="run">Trčanje</string>
   <string name="saturday">Nedjelja</string>
@@ -780,11 +786,13 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="select_target">Odaberite cilj</string>
   <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
   <string name="sending">Slanje…</string>
+  <string name="set_emergency_contact">Kontakt za hitne slučajeve</string>
   <string name="setting">Postavke</string>
   <string name="setting_avatar">Fotografija profila</string>
   <string name="setting_birthday">Datum rođenj</string>
   <string name="setting_blood_type">Krvna grupa</string>
   <string name="setting_data_cloud_sync_tip">Pomoću ove značajke možete sigurnosno kopirati stavke s ovog uređaja i sinkronizirati zdravstvene podatke s drugih uređaja</string>
+  <string name="setting_gender">Postavite spol</string>
   <string name="setting_sedentary_off">ISKLJUČENO</string>
   <string name="setting_sedentary_on">UKLJUČENO</string>
   <string name="setting_sedentary_title">Podsjeti da se prošetam</string>
@@ -880,6 +888,10 @@ podatke o spavanju"</string>
   <string name="sleep_snore_audio_close_desc">Tu značajku možete bilo kada isključiti u Postavkama.</string>
   <string name="sleep_snore_audio_enable">Automatsko otkrivanje je uključeno</string>
   <string name="sleep_snore_audio_enable_desc">Vaše hrkanje i pričanje automatski će se zabilježiti kad pođete na spavanje.</string>
+  <string name="sleep_snore_audio_file_mamagement_desc">Uključite da biste zadržali 100 MB najnovijih snimaka na ovom uređaju i automatski izbrisali starije kako biste uštedjeli prostor za pohranu.</string>
+  <string name="sleep_snore_audio_file_mamagement_title">Automatski obriši snimke</string>
+  <string name="sleep_snore_audio_file_saved">Snimke se pohranjuju lokalno</string>
+  <string name="sleep_snore_audio_file_saved_desc">Izvanmrežni algoritam koristi se za otkrivanje hrkanja i pričanja. Sve će se snimke pohraniti lokalno na ovaj uređaj bez otkrivanja vaših privatnih podataka.</string>
   <string name="sleep_snore_audio_hight_power_desc">"Imajte na umu da korištenje ove značajke troši veliku količinu energije. Dobro je držati punjač priključenim dok spavate kako biste izbjegli neočekivane prekide."</string>
   <string name="sleep_snore_detection">Otkrijte hrkanje i pričanje kako biste saznali više o snu</string>
   <string name="sleep_snore_detection_desc">Pratite svoje spavanje</string>
@@ -896,6 +908,7 @@ podatke o spavanju"</string>
   <string name="sleep_track">Prati spavanje</string>
   <string name="sleep_turn_over_times_title">Uključeno</string>
   <string name="sleep_week">Tjedan</string>
+  <string name="slow">Sporo</string>
   <string name="snore">Hrkanje</string>
   <string name="snore_detection_abnormal_notification_button">Nastavi</string>
   <string name="snore_detection_abnormal_notification_content">"Ne mogu koristiti mikrofon"</string>

@@ -45,8 +45,8 @@
   <string name="passport_trust_device">Vjeruj ovom uređaju</string>
   <string name="passport_vcode_prompt_long">Unesite kod za provjeru</string>
   <string name="passport_verify">Provjeri</string>
-  <string name="password">Zaporka</string>
-  <string name="phone_locked">Ovaj je uređaj možda povezan s postojećim Mi Računom (%s). Prijavite se da aktivirate ovaj uređaj.</string>
+  <string name="password">Unesite zaporku</string>
+  <string name="phone_locked">Ovaj je uređaj povezan s postojećim Mi Računom (%s). Unesite zaporku da aktivirate ovaj uređaj.</string>
   <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
   <string name="phone_locked_account_phone">, povezan broj telefona: %s</string>
   <string name="return_to_call">Natrag na poziv</string>
@@ -73,14 +73,14 @@
   <string name="unlock_error_unknown">"Ne mogu se prijaviti"</string>
   <string name="unlock_error_user_name">Pogrešno korisničko ime</string>
   <string name="unlock_error_wrong_vcode">Uneseni kôd nije ispravan</string>
-  <string name="unlock_help">"Ostanite povezani s mrežom.
-Provjerite jeste li umetnuli ispravnu SIM karticu (ako vaš uređaj to podržava) i uređaj je povezan s valjanom WLAN mrežom.
+  <string name="unlock_help">"Povezite se na mrežu.
+Umetnite ispravnu SIM karticu i ne povezujte se s nevažećim WLAN mrežama.
  
- Zaboravili ste zaporku?
- Idite na id.mi.com da biste poništili zaporku.
+Zaboravili ste zaporku?
+Idite na id.mi.com, odaberite \"Zaboravili ste zaporku?\", i slijedite upute.
  
-Ostali razlozi
- Prijavite se na i.mi.com i pokušajte od tamo otključati svoj uređaj."</string>
+Ne možete aktivirati uređaj?
+Idite na i.mi.com/ss i pošaljite svoju aplikaciju za otključavanje uređaja."</string>
   <string name="unlock_help_title">Pomoć kod otključavanja:</string>
   <string name="unlock_number">Kod za otključavanje: %s</string>
   <string name="unlock_wrong_captcha">Uneseni kôd nije ispravan</string>

@@ -213,6 +213,13 @@
   <string name="copy_verification_code_tip">Uspješno kopirano</string>
   <string name="current_data_version">Verzija Mi Poruka</string>
   <string name="database_corruption">Popravak…</string>
+  <string name="debug_about_mms">O MMS-u</string>
+  <string name="debug_category_db">Baza podataka</string>
+  <string name="debug_category_others">Ostalo</string>
+  <string name="debug_close_success">Otkl. pogrešaka nije dostupno</string>
+  <string name="debug_enable_success">Otkl. pogrešaka je dostupno</string>
+  <string name="debug_export_db">Izvoz baze podataka</string>
+  <string name="debug_title">Otkl. pogrešaka</string>
   <string name="del_private_contact">Ukloni sve privatne kontakte</string>
   <string name="delete">Izbriši</string>
   <string name="delete_block_conversation">Izbriši ovaj razgovor</string>

@@ -67,6 +67,8 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_restore">Vratite stavke sustava da biste mogli normalno koristiti MIUI nakon vraćanja na tvorničke postavke. Dodirnite za početak.</string>
   <string name="close">Ztavori</string>
+  <string name="close_cellular_summary">Vaš uređaj sada koristi mobilne podatke zbog ograničenja sustava. Isključite mobilne podatke i ponovno se povežite s novim uređajem.</string>
+  <string name="close_cellular_title">"Ne mogu se povezati"</string>
   <string name="close_twice_auth_btn">Isključi autorizaciju s dva faktora</string>
   <string name="close_twice_auth_note">"Bilješka:
 Nakon što izradite novo sigurnosno pitanje i potvrdite datum rođenja, autorizacija s dva faktora za vaš Apple ID bit će isključena. Ako ne vidite opciju isključivanja autorizacije s dva faktora na stranici računa Apple ID, ne možete ga isključiti."</string>
@@ -463,6 +465,8 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="prompt_before_transmission_message3_title">"Koristite Drugi prostor"</string>
   <string name="prompt_before_transmission_message4_summary">"Ne isključujte WLAN ili prelaziti s jedne mreže na drugu sve dok prijenos ne bude dovršen."</string>
   <string name="prompt_before_transmission_message4_title">Ostanite povezani tijekom cijelog prijenosa</string>
+  <string name="prompt_before_transmission_message5_summary">"Prijenos velike količine podataka bežičnim putem može uzrokovati lagano pregrijavanje koje nije neuobičajeno. Vaš će se uređaj ohladiti ubrzo nakon prijenosa."</string>
+  <string name="prompt_before_transmission_message5_title">Vaš se uređaj može zagrijati tijekom prijenosa.</string>
   <string name="qq_app">QQ</string>
   <string name="qq_app_receive_fail">"Ne mogu primiti QQ"</string>
   <string name="qq_app_send_fail">"Ne mogu poslati QQ"</string>
@@ -488,6 +492,7 @@ Podaci koji nisu uvezeni moraju se ponovo uvesti."</string>
 Oslobodite barem %s."</string>
   <string name="scan_soft_ap_label">Povežite se s novim uređajem</string>
   <string name="scanner_bottom_tip">Odaberite samo važne stavke za brži prijenos.</string>
+  <string name="scanner_not_support_data_transfer_tip">Prijenos podataka aplikacija s ne-Xiaomi telefona nije podržan (uključujući WeChat i QQ povijest chatova)</string>
   <string name="scanner_permission_alert_cancel">Shvaćam</string>
   <string name="scanner_permission_alert_ok">Postavke</string>
   <string name="scanner_quit_alert_btn_negative">Prekid</string>

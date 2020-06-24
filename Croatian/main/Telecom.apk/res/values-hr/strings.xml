@@ -88,7 +88,7 @@
   <string name="blocked_numbers_block_emergency_number_message">Broj hitne službe ne može se blokirati.</string>
   <string name="blocked_numbers_butter_bar_body">Nakon što nazovete broj hitne službe ili pošaljete poruku na njega, blokada će se isključiti kako bi vam se hitna služba mogla javiti.</string>
   <string name="blocked_numbers_butter_bar_button">Ponovno omogući sada</string>
-  <string name="blocked_numbers_butter_bar_title">Blokiranje je privremeno isključeno</string>
+  <string name="blocked_numbers_butter_bar_title">Lista blokiranih je isključena</string>
   <string name="blocked_numbers_msg">Nećete primati ni pozive ni poruke s blokiranih brojeva.</string>
   <string name="blocked_numbers_number_already_blocked_message">Broj %1$s već je blokiran.</string>
   <string name="blocked_numbers_number_blocked_message">Broj %1$s je blokiran</string>
@@ -279,7 +279,7 @@ Audio"</string>
   <string name="disabled">Onemogućeno</string>
   <string name="disabled_by_admin">Onemogućio administrator</string>
   <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
-  <string name="duplicate_video_call_not_allowed">Poziv se ne može dodati u ovom trenutku.</string>
+  <string name="duplicate_video_call_not_allowed">Ne mogu dodati više poziva.</string>
   <string name="enable_account_preference_title">Računi za pozivanje</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
@@ -405,7 +405,7 @@ Audio"</string>
   <string name="osu_sign_up_failed">Nije moguće dovršiti registraciju. Dodirnite za ponovni pokušaj.</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Poziv se ne može ostvariti, broj koji ste unijeli nije ispravan.</string>
   <string name="outgoing_call_not_allowed">Ovaj korisnik nema dopuštenje upućivati pozive osim na hitne brojeve</string>
-  <string name="outgoing_call_not_allowed_no_permission">Ova aplikacija ne može uspostavljati odlazne pozive bez dopuštenja za telefon.</string>
+  <string name="outgoing_call_not_allowed_no_permission">Ova aplikacija ne može upućivati odlazne pozive bez potrebnih dopuštenja.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Vlasnik uređaja dopušta samo hitne pozive.</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
   <string name="phone_settings_call_blocking_txt">Blokiranje poziva</string>
@@ -526,7 +526,7 @@ Audio"</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>
   <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
-  <string name="telecommAppLabel">Upravljanje pozivom</string>
+  <string name="telecommAppLabel">Upravljanje pozivima</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor prikupljat će zapisnike kada otkrije problem s funkcioniranjem telefona/modema i obavijestiti korisnika da prijavi programsku pogrešku</string>
   <string name="test_account_0_label">Q Mobile</string>

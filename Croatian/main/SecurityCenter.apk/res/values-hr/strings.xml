@@ -204,8 +204,10 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="antivirus_privacy_dialog_cloudscan">Pošalji nazive i detalje aplikacija</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pošalji nazive i detalje aplikacija i skenirajte ih pomoću online definicije virusa.</string>
   <string name="antivirus_privacy_dialog_ok">U redu</string>
-  <string name="antivirus_privacy_dialog_summary">"Ova značajka šifrira i šalje ID vašeg uređaja na Avast, AVL i Tencent poslužitelje (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o Privatnosti</string>
+  <string name="antivirus_privacy_dialog_summary_new">&lt;Data&gt;Ova značajka koristi antivirusne definicije koje pružaju Avast, AVL i Tencent. Pročitajte povezane &amp;lt;a href=\"%1$s\"&amp;gt;ugovore o licenci&amp;lt;/a&amp;gt; da biste saznali više.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_avast">&lt;Data&gt;Ova značajka koristi antivirusne definicije koje pružaju AVL i Tencent. Pročitajte povezane &amp;lt;a href=\"%1$s\"&amp;gt;ugovore o licenci&amp;lt;/a&amp;gt; da biste saznali više.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Ova značajka koristi antivirusne definicije koje pružaju Avast i AVL. Pročitajte povezane &amp;lt;a href=\"%1$s\"&amp;gt;ugovore o licenci&amp;lt;/a&amp;gt; da biste saznali više.&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_title">Pravila o Privatnosti</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji povezivanje na internet?"</string>
   <string name="antivirus_sec_support">Powered by %s</string>

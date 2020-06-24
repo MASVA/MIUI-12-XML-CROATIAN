@@ -88,6 +88,7 @@
   <string name="album_camera_name">Kamera</string>
   <string name="album_cloud_list_page_title">Upravljanje sinkroniziranim albumima</string>
   <string name="album_creative">Moje uređene fotografije</string>
+  <string name="album_detail_default_sort_tip">Prebačeno na kronološki redoslijed</string>
   <string name="album_detail_clear_local_page_empty">Nema pohranjenih fotografija ili videozapisa za brisanje</string>
   <string name="album_detail_page_empty">Nema stavki</string>
   <string name="album_download">Preuzimanja</string>
@@ -280,6 +281,8 @@
   <string name="brannan">Brannan</string>
   <string name="browse_category_title">Pretraži</string>
   <string name="btn_cancel">Odustani</string>
+  <string name="btn_cancel_send">Otkaži ovaj prijenos</string>
+  <string name="btn_exit_send">Izlaz</string>
   <string name="btn_sure">U redu</string>
   <string name="burst_image_download_item_title" formatted="false">Preuzmi original (%s|%s)</string>
   <string name="burst_preview_title">Uzastopno slikanje</string>
@@ -1116,6 +1119,10 @@ za fotografije"</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
   <string name="menu_album_new_album">Novi album</string>
+  <string name="menu_detail_sort_create_date">Izrađeno</string>
+  <string name="menu_detail_sort_name">Naziv datoteke</string>
+  <string name="menu_detail_sort_size">Veličina datoteke</string>
+  <string name="menu_detail_sort_update_date">Zadnji put ažurirano</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_name">Naziv</string>
   <string name="menu_item_sort_size">Veličina</string>
@@ -1321,6 +1328,7 @@ za fotografije"</string>
   <string name="operation_favorites">Favoriti</string>
   <string name="operation_force_top">Zakači</string>
   <string name="operation_hide">Sakrij</string>
+  <string name="operation_hide_time">Sakrij datume</string>
   <string name="operation_in_process">Obrada…</string>
   <string name="operation_move">Premjesti</string>
   <string name="operation_move_to_other_albums">Premjesti u Drugi albumi</string>
@@ -1345,7 +1353,9 @@ za fotografije"</string>
   <string name="operation_share_manage">Upravljanje dijeljenim stavkama</string>
   <string name="operation_show_in_photos_tab">Prikaži u kartici Fotografije</string>
   <string name="operation_show_on_map">Prikaži na mapi</string>
+  <string name="operation_show_time">Prikaži datume</string>
   <string name="operation_slide_show">Pokreni dijaprojekciju</string>
+  <string name="operation_sort">Poredaj</string>
   <string name="operation_successful">Podijeljeno</string>
   <string name="operation_too_often">Previše je zahtjeva napravljeno s vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="operation_unforce_top">Otkači</string>
@@ -1799,6 +1809,7 @@ za fotografije"</string>
   <string name="share_album">Podijeli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne mogu isključiti sinkronizaciju s Mi Cloudom za dijeljene albume"</string>
   <string name="share_album_qr_code">"QR kod albuma"</string>
+  <string name="share_and_delete_screenshot">Izbriši nakon dijeljenja</string>
   <string name="share_app_is_launching">{0,choice,0#Pokretanje aplikacije\u2026|1#%s se pokreće\u2026}</string>
   <string name="share_by_email_start">Podijeli %1$s u pozadini</string>
   <string name="share_by_email_successfully">Podijeljeno %1$s</string>
@@ -1869,8 +1880,9 @@ za fotografije"</string>
   <string name="solar_term_white_dews">Bijela rosa</string>
   <string name="solar_term_winter_begins">Početak zime</string>
   <string name="solar_term_winter_solstice">Zimska kratkodnevica</string>
-  <string name="sort">Sortiraj</string>
+  <string name="sort">Poredaj</string>
   <string name="special_type_8k">AI 8K</string>
+  <string name="special_type_ai_audio">AI Audio</string>
   <string name="special_type_eye_repair">Popravljene zatvorene oči pomoću AI</string>
   <string name="special_type_hdr">HDR</string>
   <string name="special_type_log">LOG</string>
