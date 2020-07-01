@@ -47,6 +47,8 @@
   <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
   <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
   <string name="content_description_dial">Poziv</string>
+  <string name="content_description_next">Sljedeće</string>
+  <string name="content_description_previous">Prethodno</string>
   <string name="content_description_search">Traži</string>
   <string name="content_description_share">Podijeli</string>
   <string name="content_description_translate">Prevedi</string>

@@ -1519,4 +1519,9 @@
         <item>Sjaj</item>
         <item>Val</item>
     </string-array>
+	<string-array name="paper_color_values">
+        <item>Pune boje</item>
+        <item>Svijetle boje</item>
+        <item>Crno i bijelo</item>
+    </string-array>
 </resources>

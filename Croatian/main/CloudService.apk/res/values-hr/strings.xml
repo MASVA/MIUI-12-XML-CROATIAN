@@ -676,9 +676,12 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="starred_contact">Favoriti</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Prostor za pohranu</string>
+  <string name="storage_manage_cloud_data_title">Pogledajte stavke u Cloudu</string>
   <string name="storage_manage_expansion">Nabavite više</string>
+  <string name="storage_manage_full_summary">Cloud pohrana je puna. Nadogradite svoj plan.</string>
   <string name="storage_manage_list_title">Cloud podaci</string>
-  <string name="storage_manage_list_title_action">Prikaži još</string>
+  <string name="storage_manage_list_title_action">Prikaži više</string>
+  <string name="storage_manage_normal_summary">Promijenite plan pohrane u Cloudu</string>
   <string name="storage_manage_renewal">Obnovi</string>
   <string name="storage_manage_title">Promjeni plan Mi Cloud pohrane</string>
   <string name="storage_manage_upgrade">Nadogradi</string>

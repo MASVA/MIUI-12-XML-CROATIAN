@@ -160,7 +160,7 @@
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
   <string name="callrecordview_menu_blocklist">Lista blokiranih</string>
   <string name="callrecordview_menu_conference">Konferencijski poziv</string>
-  <string name="callrecordview_menu_delete">"Izbriši povijest poziva"</string>
+  <string name="callrecordview_menu_delete">Izbriši</string>
   <string name="callrecordview_menu_delete_accepted">Očisti odgovorene pozive</string>
   <string name="callrecordview_menu_delete_all">Izbriši povijest poziva</string>
   <string name="callrecordview_menu_delete_called">Izbriši odlazne pozive</string>

@@ -119,6 +119,25 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
   <string name="notification_show_more">Pogledajte dodatne značajke</string>
   <string name="privacy_agree">Slažem se</string>
+  <string name="privacy_detail">&lt;Data&gt;Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi. Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra">&lt;Data&gt;Neke značajke pruža treći pružatelj usluga HappyCast. Prije upotrebe ove značajke pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;HappyCast Korisnički sporazum&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_explain">"Dobrodošli u Emitiranje! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:"</string>
+  <string name="privacy_negative">Izlaz</string>
+  <string name="privacy_permission_ble">Uključivanje i isključivanje Bluetootha</string>
+  <string name="privacy_permission_ble_desc">Pronalaženje dostupnih uređaja u blizini</string>
+  <string name="privacy_permission_location">Pristup lokaciji</string>
+  <string name="privacy_permission_location_desc">Pronalaženje dostupnih uređaja u blizini</string>
+  <string name="privacy_permission_necessary">Obavezna dopuštenja</string>
+  <string name="privacy_permission_necessary_desc">Ova su dopuštenja potrebna kako bi se omogućile osnovne značajke i usluge ove aplikacije.</string>
+  <string name="privacy_permission_nfc">NFC</string>
+  <string name="privacy_permission_nfc_desc">Za uparivanje uređaja koji koriste NFC</string>
+  <string name="privacy_permission_optional">Dodatna dopuštenja</string>
+  <string name="privacy_permission_optional_desc">"Koriste se za dodatne značajke dok ih upotrebljavate"</string>
+  <string name="privacy_permission_wlan">Uključivanje i isključivanje WLAN-a</string>
+  <string name="privacy_permission_wlan_china">Uključivanje i isključivanje WLAN-a</string>
+  <string name="privacy_permission_wlan_desc">Pronalaženje dostupnih uređaja u blizini</string>
+  <string name="privacy_permission_wlan_desc_china">Pronalaženje dostupnih uređaja u blizini</string>
+  <string name="privacy_positive">Slažem se</string>
   <string name="privacy_text_1">　　Dobrodošli u korištenje funkcije emitiranja zaslona. Uslugu emitiranja zaslona pruža Milian, a neke funkcije emitiranja zaslona podržavaju emitiranja zaslona drugih tvrtki. Da biste osigurali svoju privatnost, obavezno pročitajte&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
   <string name="privacy_text_2">　　Klikom na Slažem se prihvaćate gore navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
   <string name="privacy_text_pemission">"　　• Dopuštenja WLAN mreže koriste se za otkrivanje i povezivanje uređaja.
@@ -127,6 +146,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
 　　•Dobivanje podataka o telefonu, pročitati IMEI, Android_id, snimanje podataka o verziji i zapisniku telefona.
 　　•Nakon čitanja zvuka, emitirajte zvuk na uređaj velikog zaslona.
 　　•Dopuštenja za ciljanje Pronađite i otkrijte okolne uređaje."</string>
+  <string name="privacy_title">Pažnja</string>
   <string name="private_protect">Zaštitite privatnost</string>
   <string name="san_wait_msg_1">Ciljani uređaj mora uključiti bežično emitiranje</string>
   <string name="san_wait_msg_2">Pretraživanje uređaja može potrajati neko vrijeme…</string>

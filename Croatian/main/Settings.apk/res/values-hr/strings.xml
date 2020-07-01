@@ -332,11 +332,12 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="add_rule">Dodaj pravila</string>
   <string name="add_virtual_keyboard">Dodaj virtualnu tipkovnicu</string>
   <string name="adding_profile_owner_warning">"Ako nastavite, vašim će korisnikom upravljati administrator, koji može i pohranjivati povezane podatke, kao i vaše osobne podatke.Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s ovim Kkorisnikom te njima upravljati, uključujući mrežnu aktivnost i podatke o lokaciji vašeg uređaja."</string>
-  <string name="additional_battery_info">Upozorenja o upotrebi</string>
+  <string name="additional_battery_info">Upozorenja o korištenju</string>
   <string name="additional_permissions">Dodatna dopuštenja</string>
   <string name="additional_permissions_more">Još %1$d</string>
   <string name="additional_system_update_settings_list_item_title">Dodatna ažuriranja sustava</string>
   <string name="adjust_3d_depth_title">"Podesi 3D dubinu igara"</string>
+  <string name="adjust_temperature_title">Temperatura boje</string>
   <string name="admin_device_owner_message">Vaš administrator može nadzirati aplikacije i podatke povezane s ovim uređajem, uključujući postavke, dopuštenja, korporacijski pristup, aktivnost na mreži i podatke o lokaciji uređaja, te njima upravljati.</string>
   <string name="admin_disabled_other_options">Ostale je opcije onemogućio vaš administrator.</string>
   <string name="admin_more_details">Više pojedinosti</string>
@@ -344,8 +345,9 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="admin_profile_owner_user_message">Vaš administrator može nadzirati aplikacije i podatke povezane s tim korisnikom, uključujući postavke, dopuštenja, korporacijski pristup, aktivnost na mreži i podatke o lokaciji uređaja, te njima upravljati.</string>
   <string name="admin_support_more_info">Više pojedinosti</string>
   <string name="advanced_apps">Dodatne postavke</string>
-  <string name="advanced_battery_graph_subtext">Procjena stanja baterije temelji se na upotrebi uređaja</string>
+  <string name="advanced_battery_graph_subtext">Procjena stanja baterije temelji se na korištenju uređaja</string>
   <string name="advanced_battery_title">Potrošnja baterije</string>
+  <string name="advanced_screen_paper_mode_title">Način čitanja</string>
   <string name="advanced_section_header">Dodatne postavke</string>
   <string name="advanced_security_title">Dodatne postavke</string>
   <string name="advanced_settings">Napredne postavke</string>
@@ -696,6 +698,8 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="audio_list_loading">Učitavanje…</string>
   <string name="audio_profile_settings_title">Audio profili</string>
   <string name="audio_record_proc_title">Uklanjanje buke</string>
+  <string name="auto_adjst_effect_summary">Prilagodi temperaturu boje ambijentalnom svjetlu automatski kako biste održali optimalnu razinu udobnosti</string>
+  <string name="auto_adjust_effect_title">Prilagodi temperaturu boje automatski</string>
   <string name="auto_backup">Zakažite rutinsku Sig. kopiju</string>
   <string name="auto_backup_all_user_apps">Sve aplikacije</string>
   <string name="auto_backup_choose">Stavke Sig. kopije</string>
@@ -1108,6 +1112,9 @@ Aplikacije:
   <string name="battery_used_by">%2$s upotrebljava %1$s</string>
   <string name="battery_used_for">Upotrebljava se ^1</string>
   <string name="bearer">Nositelj</string>
+  <string name="beauty_camera">Uljepšanje za video pozive</string>
+  <string name="beauty_camera_summary">Koristi Uljepšanje za WeChat video pozive</string>
+  <string name="beauty_camera_switch">Uljepšanje</string>
   <string name="billing_cycle">Upozorenje o potrošnji i ograničenje</string>
   <string name="billing_cycle_fragment_summary">Svaki mjesec na %1$s. dan</string>
   <string name="billing_cycle_less_than_one_day_left">Preostalo je manje od 1 dana</string>
@@ -1441,7 +1448,7 @@ Audio"</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrisati ovaj uređaj?</string>
   <string name="bluetooth_unlock_device_matched_text">Upotrijebite ovaj uređaj za otključavanje.</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Nema otkrivenih uređaja</string>
-  <string name="bluetooth_unlock_reject">Daljinski uređaj odbija zahtjev za otključavanjem</string>
+  <string name="bluetooth_unlock_reject">Zahtjev za otključavanjem ovog uređaja je odbijen</string>
   <string name="bluetooth_unlock_settings_devices_title">Uređaj</string>
   <string name="bluetooth_unlock_settings_toggle_title">Primjeni na</string>
   <string name="bluetooth_unlock_settings_unlock_device">Otključaj uređaj</string>
@@ -1453,7 +1460,7 @@ Audio"</string>
   <string name="bluetooth_unlock_title">Otključaj s Bluetooth uređajem</string>
   <string name="bluetooth_unlock_turned_off">Isključeno</string>
   <string name="bluetooth_unlock_turned_on">Uključeno</string>
-  <string name="bluetooth_unlock_unsupport">Nepodržana verzija</string>
+  <string name="bluetooth_unlock_unsupport">"Verzija firmvera ovog uređaja trenutno nije podržana"</string>
   <string name="bluetooth_unpair_dialog_body">Vaš telefon više neće biti uparen s uređajem %1$s</string>
   <string name="bluetooth_unpair_dialog_forget_confirm_button">Zaboravi uređaj</string>
   <string name="bluetooth_unpair_dialog_title">Zaboraviti uređaj?</string>
@@ -1768,6 +1775,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="choose_unlock_face_msg">Postavite Zaklj. zaslona prije snimanja podataka lica.</string>
   <string name="choose_unlock_fingerprint_msg">Postavite Zaklj. zaslona prije dodavanje otiska prsta.</string>
   <string name="choose_voice_input_title">Odabir glasovnog unosa</string>
+  <string name="classic_mode_summary">Promjeni na toplije boje da biste smanjili količinu plave svjetlosti</string>
+  <string name="classic_mode_title">Klasično</string>
   <string name="cleaner">Čistač</string>
   <string name="clear_activities">Izbriši zadane postavke</string>
   <string name="clear_activities_summary">Koristi ovu aplikaciju kao zadanu za neke radnje</string>
@@ -2810,6 +2819,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="edge_touch_volume">Prilagodi glasnoću na rubovima</string>
   <string name="edit_rule">Uredi pravila</string>
   <string name="edit_rules">Uredi</string>
+  <string name="effect_preview">Pregled</string>
   <string name="eighthours">8 sati</string>
   <string name="emergency_address_summary">Upotrebljava se kao vaša lokacija kada upućujete hitne pozive putem WLAN-a</string>
   <string name="emergency_address_title">Adresa za hitne pozive</string>
@@ -3606,6 +3616,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
 To možete kasnije promijeniti u izborniku Postavke &gt; Aplikacije i obavijesti."</string>
   <string name="high_power_prompt_title">Želite li zanemariti optimizacije baterije?</string>
   <string name="high_power_system">Optimizacija baterije nije dostupna</string>
+  <string name="hint_unadjustable_text">"Ne mogu ručno prilagoditi. Temperatura boje se sada automatski podešava."</string>
   <string name="history_details_title">Detalji povijesti</string>
   <string name="home">Početni zaslon postavki</string>
   <string name="home_app">Početna aplikacija</string>
@@ -5638,6 +5649,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="page_loading">Samo trenutak…</string>
   <string name="page_tab_title_summary">Sve</string>
   <string name="page_tab_title_support">Savjeti i podrška</string>
+  <string name="paper_color_title">Boje</string>
   <string name="palm_enabled">Pokrijte zaslon da biste ga isključili</string>
   <string name="paper_mode_auto_twilight_summary">Promjeni automatski na Način čitanja nakon zalaska sunca</string>
   <string name="paper_mode_auto_twilight_title">"Čitanje za laku noć"</string>
@@ -5648,8 +5660,12 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="paper_mode_get_location_dlg_negative_btn_text">Odustani</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Idi u Postavke</string>
   <string name="paper_mode_get_location_dlg_title">Postavi lokaciju</string>
+  <string name="paper_mode_reset">Vrati na zadano</string>
   <string name="paper_mode_side_effect_hint">Veći intenzitet može utjecati na način prikazivanja sadržaja.</string>
   <string name="paper_mode_start_time_title">Uključi</string>
+  <string name="paper_mode_summary">Promjeni na toplije boje i dodaj teksturu papira pozadini da biste smanjili naprezanje očiju</string>
+  <string name="paper_mode_title">Papir</string>
+  <string name="papger_effect_category">Način</string>
   <string name="partial_connectivity_text">Neke aplikacije i usluge možda neće raditi zbog ograničene povezivosti. Želite ostati na toj mreži?</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
@@ -5660,7 +5676,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="password_guard">Zaporka</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>
   <string name="password_security_settings_title">Zaporka &amp; sigurnost</string>
-  <string name="password_toggle_content_description">Show password</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="password_turned_off_text">Zaporka je isključena</string>
   <string name="password_turned_on_text">Zaporka je uključena</string>
   <string name="password_unlock_title">Zaporka</string>
@@ -6669,7 +6685,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_cancel">Odustani</string>
   <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
   <string name="screen_color_and_optimize">Boje &amp; kontrast</string>
-  <string name="screen_color_and_optimize_disabled">"Ne mogu podesiti temperaturu boje u načinu čitanja"</string>
+  <string name="screen_color_and_optimize_disabled">Ne mogu podesiti shemu boja i temperaturu boje u načinu čitanja"</string>
   <string name="screen_color_temperature">Temperatura boje</string>
   <string name="screen_color_temperature_and_saturation">Boje &amp; zasićenje</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
@@ -6714,19 +6730,20 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_on_proximity_sensor_summary">Zaključaj geste dodira kada je stavljen u džep</string>
   <string name="screen_on_proximity_sensor_title">Džepni način</string>
   <string name="screen_optimize">Kontrast</string>
-  <string name="screen_optimize_disabled">"Ne mogu podesiti kontrast kada je uključen Način čitanja"</string>
-  <string name="screen_paper_mode_adjust_level">Prilagodi</string>
+  <string name="screen_optimize_disabled">"Ne mogu podesiti shemu boja u načinu čitanja"</string>
+  <string name="screen_paper_mode_adjust_level">Podesi</string>
   <string name="screen_paper_mode_apps_loading">Samo trenutak…</string>
-  <string name="screen_paper_mode_apps_title">Koristi Način čitanja</string>
-  <string name="screen_paper_mode_global_summary">Koristi Način čitanja za sve aplikacije</string>
+  <string name="screen_paper_mode_apps_title">Koristi način čitanja</string>
+  <string name="screen_paper_mode_description">Način čitanja prilagođava boje i teksture stavki na zaslonu omogućujući vašim očima da se opuste</string>
+  <string name="screen_paper_mode_global_summary">Koristi način čitanja za sve aplikacije</string>
   <string name="screen_paper_mode_global_title">Sve aplikacije</string>
   <string name="screen_paper_mode_hdr_toast">"Način čitanja bit će isključen dok reproducirate HDR videozapise. Automatski će se uključiti nakon završetka reprodukcije."</string>
   <string name="screen_paper_mode_hdr_toast_new">Način čitanja automatski će se isključiti tijekom reprodukcije HDR videozapisa i provjere otiska prsta. Vaš uređaj će se vratiti na način čitanja kada se te radnje dovrše.</string>
-  <string name="screen_paper_mode_local_summary">Koristi Način čitanja za odabrane aplikacije</string>
+  <string name="screen_paper_mode_local_summary">Koristi način čitanja za odabrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Odabrane aplikacije</string>
-  <string name="screen_paper_mode_off_apps_title">"Ne koristi Način čitanja"</string>
+  <string name="screen_paper_mode_off_apps_title">"Ne koristi način čitanja"</string>
   <string name="screen_paper_mode_range_title">Postavke</string>
-  <string name="screen_paper_mode_set_apps_title">Vlastiti Način čitanja</string>
+  <string name="screen_paper_mode_set_apps_title">Vlastiti način čitanja</string>
   <string name="screen_paper_mode_summary">"Način čitanja čini boje vašeg zaslona toplijima, omogućujući vašim očima da se opuste."</string>
   <string name="screen_paper_mode_time_summary">Odredite vrijeme za uključivanje i isključivanje Načina čitanja</string>
   <string name="screen_paper_mode_time_title">Planirano</string>
@@ -6739,6 +6756,7 @@ Ova postavka utječe na sve korisnike na ovom telefonu."</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Povezivanje s internetom</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje automatski koriste način čitanja</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Ažuriraj automatski</string>
+  <string name="screen_paper_texture">Tekstura</string>
   <string name="screen_pinning_description">"Kada je ta postavka uključena, možete prikvačiti trenutačni zaslon da bi ostao u prednjem planu dok ga ne otkvačite.
 
 Da biste upotrebljavali prikačivanje zaslona:
@@ -7328,6 +7346,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="set_data_warning">Postavi upozorenje o potrošnji</string>
   <string name="set_jeejen_prompt_message">Jeejen bit će postavljen kao zadani pokretač. Možete promijeniti zadani pokretač u Postavke &gt; Postavke sustava &gt; POč. zaslon &amp; Nedavno &gt; Zadani pokretač.</string>
   <string name="set_jeejen_prompt_title">Potvrdi promjene</string>
+  <string name="set_screen_paper_mode">Način čitanja</string>
   <string name="set_password_action">Postavi zaporku</string>
   <string name="set_password_message">Postavite zaporku za isključivanje Dječjeg načina, kao i za otključavanje ovog uređaja.</string>
   <string name="set_password_title">Postavi zaporku</string>
@@ -8345,6 +8364,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni WLAN hotspot, da podijelite
   <string name="tethering_no_sim_alert_title">Nema SIM kartice</string>
   <string name="tethering_no_sim_card_text">Umetnite SIM karticu da možete dijeliti podatkovnu vezu s drugim uređajima korištenjem mobilnog hotspota ili USB dijeljenje veze za pristup internetu.</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
+  <string name="texture_adjust_temperature_title">Temperatura boje</string>
   <string name="tethering_settings_summary">"Dijelite mobilnu podatkovnu mrežu vašeg uređaja putem USB-a ili mobilnog hotspota"</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Probudite glasovnog pomoćnika u načinu rada preko cijelog zaslona (bez virtualnih tipki)</string>
   <string name="theme_customization_accent_color_title">Boja isticanja</string>
@@ -10027,6 +10047,8 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_type_approval_title">Vrsta odobrenja</string>
   <string name="wifi_unchanged">(nepromijenjeno)</string>
   <string name="wifi_unmetered_label">Bez ograničenja prometa</string>
+  <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Automatska veza</string>
+  <string name="wifi_unsaved_network_linking_summary">Omogući pokušaje automatske veze s novim WPA/WPA2‑PSK 5GHz SSID sa trenutno povezanom WPA/WPA2‑PSK 2GHz SSID vjerodajnicama za djelomično podudaranje SSID-a i BSSID-a</string>
   <string name="wifi_unspecified">(nije određeno)</string>
   <string name="wifi_update">Osvježi statistike</string>
   <string name="wifi_use_system_certs">Upotrijebi certifikate sustava</string>
@@ -10065,6 +10087,8 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
   <string name="wifi_wapi_user_cert">Korisnički certifikat</string>
   <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Omogući roaming između različitih SSID WPA/WPA2‑PSK AP-ija s istom MAC adresom pristupnika</string>
   <string name="wifi_wps_available_first_item">WPS dostupan</string>
   <string name="wifi_wps_available_second_item">" (WPS dostupan)"</string>
   <string name="wifi_wps_complete">WPS uspio. Povezivanje s mrežom…</string>

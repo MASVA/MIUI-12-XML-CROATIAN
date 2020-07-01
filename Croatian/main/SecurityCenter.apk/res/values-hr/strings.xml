@@ -943,6 +943,10 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="choose">Odaberite</string>
   <string name="choose_gs_show_way">Odaberite orijentaciju početne stranice</string>
   <string name="clean_immediately">Očisti</string>
+  <string name="clean_master_icon_recall_button_text">Dodaj</string>
+  <string name="clean_master_icon_recall_summary">Dodajte prečac na Poč. zaslon da biste u svakom trenutku očistili smeće.</string>
+  <string name="clean_master_icon_recall_title">Brže očistite smeće</string>
+  <string name="clean_master_icon_recall_toast_text">Prečac uspješno dodan</string>
   <string name="cleaned">Očišćeno</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
   <string name="clear_garbage">Izbrišite Smeće da oslobodite prostor</string>
@@ -3263,7 +3267,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="section_title_clear_acc">Očisti predmemoriju</string>
   <string name="section_title_security_defend">Sigurnost</string>
   <string name="section_title_system">Sigurnost sustava</string>
-  <string name="security_bottom_guide_to_pm_text">Otvaranje Utility Kit…</string>
+  <string name="security_bottom_guide_to_pm_text">Otpusti za otvaranje alata</string>
   <string name="security_app_lock">Zaklj. aplikacije</string>
   <string name="security_center_slogan">Držite svoj uređaj brzim i sigurnim</string>
   <string name="security_guide_bubble_text">Otvori</string>

@@ -66,12 +66,14 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="app_name">Teme</string>
   <string name="apply_choosen_type_resource">Postavi odabrane stavke</string>
   <string name="apply_default_font_tip">"Nastaviti koristiti trenutni font sustava?"</string>
+  <string name="apply_failed">"Ne mogu postaviti"</string>
   <string name="apply_font_btn_exclude">Ne sada</string>
   <string name="apply_font_btn_reboot">Ponovno pokreni</string>
   <string name="apply_font_tip">"Ponovno pokrenite uređaj za primjenu fonta ove teme."</string>
   <string name="apply_not_support_aod">"Always-on zaslon nije podržan na ovom uređaju"</string>
   <string name="apply_not_support_in_second_space">"Ne mogu primijeniti ovu stavku u Drugom prostoru"</string>
   <string name="apply_not_support_maml_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju"</string>
+  <string name="apply_succeed">Ne mogu postaviti</string>
   <string name="apply_success_not_enable_aod">Prvo uključite Always-on zaslon u postavkama</string>
   <string name="apply_success_not_support_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju. Ostali dijelovi ove teme uspješno su postavljeni."</string>
   <string name="apply_theme_with_ringtones">Upotrijebi melodiju zvona teme</string>
@@ -224,6 +226,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="dev_options">DEV OPCIJE</string>
   <string name="dev_options_summary">Web izvor</string>
   <string name="dialog_show_never">"Ne prikazuj ponovno."</string>
+  <string name="display">Zaslon</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
@@ -878,6 +881,14 @@ dd.MM"</string>
   <string name="set_home_wallpaper_failed">"%s. Ne mogu postaviti sliku pozadine Poč. zaslona."</string>
   <string name="setting_font_online">Online fontovi</string>
   <string name="settings">Postavke</string>
+  <string name="settings_search_keyword_font_free">Besplatni fontovi</string>
+  <string name="settings_search_keyword_font_home">Fontovi Poč. zaslona</string>
+  <string name="settings_search_keyword_font_input">Fontovi načina unosa</string>
+  <string name="settings_search_keyword_font_keyboard">Fontovi tipkovnice</string>
+  <string name="settings_search_keyword_font_manager">Upravljaj fontovima</string>
+  <string name="settings_search_keyword_font_online">Online fontovi</string>
+  <string name="settings_search_keyword_font_style">Format fonta</string>
+  <string name="settings_search_keyword_font_wechat">WeChat fontovi</string>
   <string name="shortcut_add">Dodaj</string>
   <string name="shortcut_cancel">Ne hvala</string>
   <string name="shortcut_message">Dodajte prečac Poč. zaslona!</string>

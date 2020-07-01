@@ -29,6 +29,8 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="access_sd_fail">"Ne mogu pristupiti USB pohrani."</string>
+  <string name="accessibility_8k_off">AI 8K je isključen</string>
+  <string name="accessibility_8k_on">AI 8K je uključen</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Promjena kamere i videa (trenutno se koristi %s)</string>
   <string name="accessibility_ai_scene_off">AI kamera je isključena</string>
   <string name="accessibility_ai_scene_on">AI kamera je uključena</string>
@@ -195,6 +197,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="camera_disabled">Kamera je onemogućena</string>
   <string name="camera_error_title">Pogreška kamere</string>
   <string name="camera_facedetection_sub_option_hint">Eksperimentalna značajka</string>
+  <string name="camera_fastmotion_title">Vremenski videozapisi</string>
   <string name="camera_hdr_off">Isklj.</string>
   <string name="camera_hdr_on">Uklj.</string>
   <string name="camera_label">Kamera</string>
@@ -682,6 +685,7 @@ izgledaju veće na fotografijama"</string>
   <string name="module_name_portrait">Portret</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Kvadrat</string>
+  <string name="module_name_super_moon">Super mjesec</string>
   <string name="module_name_video">Video</string>
   <string name="module_name_vlog">VLOG</string>
   <string name="moive_frame">Okvir filma</string>
@@ -768,7 +772,10 @@ dodirnite tipku Okidač"</string>
   <string name="pic_flaw_blink_more">Izgleda da je netko u kadru zatvorio oči</string>
   <string name="pic_flaw_blink_one">Izgleda da je osoba u kadru zatvorila oči</string>
   <string name="pic_flaw_cover">Čini se da je leća dijelom prekrivena</string>
+  <string name="pixel_ai_108">AI 100 milijuna ultra vivid</string>
+  <string name="pixel_ai_108_close">Zatvori AI 100 milijuna ultra vivid</string>
   <string name="popup_tip_3d_beauty_intro_text">3D Uljepšanje</string>
+  <string name="popup_tips_near_range_mode">Zatvori fokus</string>
   <string name="popup_tips_near_range_mode">Način zatvaranja</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Mint</string>
@@ -897,6 +904,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_device_watermark_title">Oznaka uređaja</string>
   <string name="pref_camera_dual_enable_title">Uključi dvojnu kameru</string>
   <string name="pref_camera_dual_sat_enable_title">Uključi dvojnu SAT kameru</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Smanji brzinu kadrova u uvjetima slabog osvjetljenja od %1$d do %2$d FPS za poboljšanje kvalitete videozapisa</string>
+  <string name="pref_camera_dynamic_frame_rate_title">Podesi brzinu kadra pri slabom svjetlu</string>
   <string name="pref_camera_eis_entry_normal">EIS</string>
   <string name="pref_camera_eis_entry_off">Isključeno</string>
   <string name="pref_camera_eis_entry_pro">EIS Pro</string>
@@ -924,6 +933,16 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_facedetection_entry_off">Isklj.</string>
   <string name="pref_camera_facedetection_entry_on">Uklj.</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje lica</string>
+  <string name="pref_camera_fastmotion_duration">Trajanje</string>
+  <string name="pref_camera_fastmotion_duration_description">Trajanje snimanja je po zadanome neograničeno. Možete postaviti i timer koji će zaustaviti sesiju u fiksnom trenutku.</string>
+  <string name="pref_camera_fastmotion_duration_infinity">Neograničeno</string>
+  <string name="pref_camera_fastmotion_speed">Brzina</string>
+  <string name="pref_camera_fastmotion_speed_150x">Izlasci i zalasci sunca</string>
+  <string name="pref_camera_fastmotion_speed_1800x">Biljke</string>
+  <string name="pref_camera_fastmotion_speed_30x">Ulica</string>
+  <string name="pref_camera_fastmotion_speed_750x">Zora</string>
+  <string name="pref_camera_fastmotion_speed_90x">Oblaci</string>
+  <string name="pref_camera_fastmotion_speed_description">Videozapisi s vremenskim kašnjenjem, snimljeni većom brzinom, kraći su i sažetiji. Vrijednosti brzine pogodne za različite prizore:</string>
   <string name="pref_camera_first_tag_tips">Označeno uspješno</string>
   <string name="pref_camera_fisheye_title">Riblje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
@@ -1060,6 +1079,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_quick_settings">Brze postavke</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Uključi animaciju brzog snimanja</string>
   <string name="pref_camera_quick_shot_enable_title">Uključi brzo snimanje</string>
+  <string name="pref_camera_rec_type_3d_record">3D zvuk</string>
+  <string name="pref_camera_rec_type_audio_zoom">Audio zoom</string>
+  <string name="pref_camera_rec_type_normal">Regularno</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
   <string name="pref_camera_recordlocation_title">Spremi detalje lokacije</string>
@@ -1173,6 +1195,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_title">Uljepšanje</string>
   <string name="pref_fingerprint_capture_title">Okidanje otiskom prsta</string>
+  <string name="pref_front_denoise_summary">Smanjite buku koja se stvara iza prednje kamere</string>
+  <string name="pref_front_denoise_title">Selfie filter buke</string>
   <string name="pref_front_mirror_entry_auto">Kada je otkriveno lice</string>
   <string name="pref_front_mirror_entry_off">Isklj.</string>
   <string name="pref_front_mirror_entry_on">Uklj.</string>
@@ -1182,6 +1206,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_google_lens_summary">Usmjerite kameru na kontaktne informacije, URL-ove i QR kodove da biste vidjeli dostupne opcije</string>
   <string name="pref_google_lens_title">Pametni prijedlozi</string>
   <string name="pref_groupshot_with_primitive_title">Spremi originalnu fotografiju također</string>
+  <string name="pref_hdr10_video_mode_description">Podržava 4K i 8K videozapise kodirane sa H.265</string>
+  <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_grp_advanced_settings">Napredne postavke</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
@@ -1223,6 +1249,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_skin_beautify_smooth_title">Koža</string>
   <string name="pref_userdefine_watermark_title">Vlastita oznaka</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
+  <string name="pref_video_denoise_off">Isklj.</string>
+  <string name="pref_video_denoise_on">Uklj.</string>
+  <string name="pref_video_denoise_title">Filter buke</string>
   <string name="pref_video_encoder_entry_h264">H.264 Visoka kompatibilnost</string>
   <string name="pref_video_encoder_entry_h265">H.265 Visoke performanse</string>
   <string name="pref_video_encoder_title">Video koder</string>
@@ -1268,6 +1297,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_watermark_style_entry_timestamp">Oznaka vremena</string>
   <string name="pref_watermark_style_title">Dodaj oznaku vremena na fotografiju</string>
   <string name="pref_watermark_title">Vodeni žig</string>
+  <string name="pref_wind_denoise_title">Filter vjetra</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preparing_sd">Provjera unutarnje pohrane…</string>
   <string name="preview_back_pressed_hint">Dodirnite ponovo za povratak na pregled</string>
@@ -1298,6 +1328,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="secure_access_web_url">Siguran pristup</string>
   <string name="see_app_details">Pogledajte pojedinosti aplikacije</string>
   <string name="see_qrcode_detals">Prikaži detalje QR koda</string>
+  <string name="settings_camera_near_range_description">Ukloni zamagljivanje kada fokusirate ravne površine izbliza</string>
+  <string name="settings_camera_near_range_title">Zatvori fokus</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_image">Odaberi fotografiju</string>
   <string name="select_item">Odaberi stavku</string>
@@ -1360,6 +1392,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="super_eis_pro">Steady video Pro</string>
   <string name="super_eis_pro_disabled_hint">Steady video Pro je isključen</string>
   <string name="super_macro_mode">Super macro</string>
+  <string name="super_moon_improve_effect_tips">Stavite mjesec u krug</string>
+  <string name="super_macro_mode">Super macro</string>
   <string name="super_night_hint">Optimiziranje slike… Držite uređaj stabilnim.</string>
   <string name="super_night_se_tip">Noćni način</string>
   <string name="super_night_toast">Držite telefon mirnim tijekom snimanja fotografije</string>
@@ -1375,11 +1409,10 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="timbre_robot">Robot</string>
   <string name="time">Vrijeme</string>
   <string name="time_lapse_error">"Ne mogu koristiti ovu veličinu videozapisa za time-lapse snimanja"</string>
-  <string name="timer_burst">Timer burst</string>
-  <string name="timer_burst_manu_param_interval">Vremenski interval (ne sadrži vrijeme ekspozicije)</string>
-  <string name="timer_burst_param_interval">Vremenski interval</string>
-  <string name="timer_burst_param_total_count">Ukupan broj snimanja</string>
-  <string name="timer_burst_setting_total_count">Broj: %1$s</string>
+  <string name="timer_burst">Vremenski brzo okidanje</string>
+  <string name="timer_burst_manu_param_interval">Interval bez ekspozicije</string>
+  <string name="timer_burst_param_interval">Interval</string>
+  <string name="timer_burst_param_total_count">Br. fotografija</string>
   <string name="times">X</string>
   <string name="title">Naslov</string>
   <string name="title_snap_double_confirm">Potvrdite ponovno</string>
@@ -1432,6 +1465,11 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="video_beauty_tip_beautification">Uljepšanje</string>
   <string name="video_beauty_tip_filter">Filteri</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
+  <string name="video_bokeh_blur">Blur</string>
+  <string name="video_bokeh_color_point">Šarene mrlje</string>
+  <string name="video_bokeh_spin">Spin</string>
+  <string name="video_bokeh_zoom_in">Zoom in</string>
+  <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
   <string name="video_effect_entry_bygone">Bygone</string>
@@ -1469,6 +1507,8 @@ snimanje i uređivanje videozapisa u pokretu"</string>
   <string name="watermark_tab_general">Općenito</string>
   <string name="watermark_tab_scene">Scena</string>
   <string name="watermark_tab_spots">Web stranica</string>
+  <string name="watermark_tab_super_moon_silhouette">Silueta</string>
+  <string name="watermark_tab_super_moon_text">Tekst</string>
   <string name="web_url_apk_warning">Ova aplikacija dolazi iz nepoznatih izvora i može predstavljati sigurnosni rizik. Instalirajte aplikacije samo iz izvora kojima vjerujete.</string>
   <string name="web_url_warning">Povezana web stranica dolazi iz nepoznatih izvora i može predstavljati sigurnosni rizik.</string>
   <string name="website_details">Detalji web mjesta:</string>

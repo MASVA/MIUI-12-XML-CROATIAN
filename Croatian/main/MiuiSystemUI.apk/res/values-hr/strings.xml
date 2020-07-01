@@ -2371,6 +2371,8 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_status_no_internet">Nema interneta</string>
   <string name="wifi_status_sign_in_required">Obavezna prijava</string>
   <string name="wifi_unmetered_label">Bez ograničenja prometa</string>
+   <string name="wifi_unsaved_network_linking">SSID Bridging ‑ Automatska veza</string>
+  <string name="wifi_unsaved_network_linking_summary">Omogući pokušaje automatske veze s novim WPA/WPA2‑PSK 5GHz SSID sa trenutno povezanom WPA/WPA2‑PSK 2GHz SSID vjerodajnicama za djelomično podudaranje SSID-a i BSSID-a</string>
   <string name="wifi_verbose_logging">Uključi opširnu prijavu na WLAN</string>
   <string name="wifi_verbose_logging_summary">Povećaj razinu WLAN zapisivanja, prikaži RSSI za svaki SSID na popisu WLAN mreža.</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
@@ -2382,6 +2384,8 @@ Provjerite valjanost certifikata"</string>
 Pohrana vjerodajnica možda nije omogućena."</string>
   <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
   <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
+  <string name="wifi_whitelist_roaming">SSID Bridging ‑ Fast Handover</string>
+  <string name="wifi_whitelist_roaming_summary">Omogući roaming između različitih SSID WPA/WPA2‑PSK AP-ija s istom MAC adresom pristupnika</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="wireless_change_to_ac_charging">Promjenjeno na punjenje žicom</string>
   <string name="wireless_charge_current">Punjenje</string>
