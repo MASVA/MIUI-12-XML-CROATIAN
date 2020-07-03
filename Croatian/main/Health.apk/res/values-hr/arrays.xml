@@ -65,6 +65,20 @@
         <item>AB</item>
         <item>O</item>
     </string-array>
+	<string-array name="repeat_mode_mild_abnormal_array">
+        <item>Pon, Sri, Pet</item>
+        <item>Uto, Čet, Sub</item>
+        <item>Sri, Pet, Ned</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Svaki ponedjeljak</item>
+        <item>Svaki utorak</item>
+        <item>Svake srijede</item>
+        <item>Svakog četvrtka</item>
+        <item>Svaki petak</item>
+        <item>Svake subote</item>
+        <item>Svake nedjelje</item>
+    </string-array>
 	<string-array name="rh_blood_array">
         <item>Nije postavljeno</item>
         <item>Negativan</item>

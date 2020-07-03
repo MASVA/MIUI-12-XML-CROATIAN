@@ -1184,7 +1184,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_zsl_entry_off">Isključeno</string>
   <string name="pref_camera_zsl_entry_on">Uključeno</string>
   <string name="pref_capture_settings">Kamera</string>
-  <string name="pref_custom_feature_layout_title">Raspored zančajki</string>
+  <string name="pref_custom_feature_layout_title">Raspored značajki</string>
   <string name="pref_custom_shutter_sound_title">Zvuk</string>
   <string name="pref_custom_tint_title">Boje</string>
   <string name="pref_customization_title">Prilagodi</string>
