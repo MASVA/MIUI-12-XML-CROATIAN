@@ -162,6 +162,10 @@
   <string name="block_ads_choice_continue">Nastavi</string>
   <string name="block_ads_message">Želite li blokirati poruke s ove web stranice?</string>
   <string name="block_ads_title">Sadržaj može sadržavati reklame</string>
+  <string name="book_mark_input_title_hint">Unesite naziv</string>
+  <string name="book_mark_input_url_hint">Unesite poveznicu</string>
+  <string name="book_mark_search_hint">Traži %1$s sadržaj</string>
+  <string name="book_mark_spinner_name">Grupiranje</string>
   <string name="bookmark">Oznaka</string>
   <string name="bookmark_add_to">Dodaj u</string>
   <string name="bookmark_btn_select_all">Odaberi sve</string>
@@ -786,6 +790,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="more_option">Više opcija</string>
   <string name="morning">Jutro</string>
   <string name="movie_player_3g_tip_retry">Nastavi</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="movie_player_loading">Uskoro dolazi: %s</string>
   <string name="mw_abc_action_bar_home_description">Na početnu</string>
   <string name="mw_abc_action_bar_up_description">Gore</string>
@@ -881,6 +886,33 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="mw_common_signin_button_text">Prijava</string>
   <string name="mw_common_signin_button_text_long">Prijava putem Googlea</string>
   <string name="mw_copy_to_clipboard_failure_message">Nije kopirano u međuspremnik</string>
+  <string name="mw_crash_label">Rušenje (%1$s) - [%2$s]</string>
+  <string name="mw_crash_report_button_text">Navedite više informacija</string>
+  <string name="mw_crash_report_template">"VAŽNO: Vaše rušenje već je automatski prijavljeno našem sustavu. Ovo morate ispuniti samo ako možete dijeliti više informacija poput koraka za reprodukciju rušenja.
+
+Naziv uređaja:
+Android OS verzija:
+WebView verzija (Na Androidu L-M, ovo je verzija \"Android System WebView\" aplikacija. Na Androidu N-P, to je najvjerojatnije Chromeova verzija. Verziju bilo koje aplikacije možete pronaći u Postavke &gt; Aplikacije &gt; 3 točkice u gornjem desnom kutu &gt; Prikaži sustav.):
+Primjena: (Ako je moguće, postavite vezu na stranicu Trg. Play. Link možete dobiti iz aplikacije Trg. Play dodirom na 3 točkice u gornjem desnom kutu 
+&gt; Podijeli &gt; Kopiraj u međuspremnik.
+Ili možete pronaći aplikaciju na web mjestu Trg. Play: https://play.google.com/store/apps .)
+Verzija aplikacije:
+
+
+Koraci za reprodukciju:
+(1)
+(2)
+(3)
+
+
+Očekivani rezultat:
+(Što se trebalo dogoditi?)
+
+
+****NE MIJENJAJTE OVO ISPOD****
+Crash ID: http://crash/%1$s"</string>
+  <string name="mw_crashes_list_activity_title">WebView rušenja</string>
+  <string name="mw_crashes_num">Rušenja (%1$d)</string>
   <string name="mw_data_traffic_prompt_change">"Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade."</string>
   <string name="mw_data_traffic_prompt_message">"Korištenje vaše mobilne podatkovne veze za pregledavanje internetom će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade."</string>
   <string name="mw_data_traffic_prompt_message_short">Korištenje mobilnih podataka za stream videozapisa može prouzrokovati prekoračenje vašeg mjesečnog ograničenja</string>
@@ -911,6 +943,7 @@ Napustiti ovu stranicu?"</string>
   <string name="mw_login_dialog_title">Potrebna autentikacija</string>
   <string name="mw_login_dialog_username_field">Ime korisnika:</string>
   <string name="mw_low_memory_error">Nije moguće dovršiti prethodnu operaciju jer nema dovoljno memorije</string>
+  <string name="mw_menu_refresh">Osvježi</string>
   <string name="mw_media_player_error_button">U redu</string>
   <string name="mw_media_player_error_text_invalid_progressive_playback">Videozapis nije valjan za strujanje na uređaj.</string>
   <string name="mw_media_player_error_text_unknown">Nije moguće reproducirati taj videozapis.</string>
@@ -1171,9 +1204,10 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="mw_time_picker_dialog_pm">PM</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Postavite vrijeme</string>
+  <string name="mw_url_copied">Poveznica je kopirana.</string>
   <string name="mw_title_bar_loading">Učitavanje…</string>
   <string name="mw_updating_chrome">Ažuriranje Chrome…</string>
-  <string name="mw_video_buffering_percent">"Buffering "</string>
+  <string name="mw_video_buffering_percent">"Učitavanje "</string>
   <string name="mw_video_float_window">Pop-up</string>
   <string name="mw_video_float_window_playing">Reprodukcija videozapisa</string>
   <string name="mw_video_play_error">"Ne mogu reproducirati videozapis"</string>

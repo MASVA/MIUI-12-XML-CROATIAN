@@ -137,7 +137,7 @@
         <item quantity="one">%1$s bilješka</item>
     </plurals>
 	<plurals name="todo_terms">
-        <item quantity="other">%1$s bilješki</item>
-        <item quantity="one">%1$s bilješka</item>
+        <item quantity="other">%1$s zadataka</item>
+        <item quantity="one">%1$s zadatak</item>
     </plurals>
 </resources> 

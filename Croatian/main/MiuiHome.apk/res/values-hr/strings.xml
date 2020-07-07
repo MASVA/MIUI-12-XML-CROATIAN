@@ -397,6 +397,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
   <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje.</string>
+  <string name="navigation_type_full_screen">Geste</string>
+  <string name="navigation_type_title">Navigacija sustavom</string>
+  <string name="navigation_type_virtual_key">Tipke</string>
   <string name="no_detail_page">Nema detalja stranice</string>
   <string name="no_space_toast">Nema dovoljno prostora</string>
   <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>

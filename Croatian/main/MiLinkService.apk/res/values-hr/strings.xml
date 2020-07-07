@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_other">Ostalo</string>
   <string name="actionbar_button_up_description">Natrag</string>  
   <string name="casting_tips">Emitiranje…</string>
+  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="close_hotspot_hint">Isključite prijenosni hotspot prije emitiranja</string>
+  <string name="close_slave_wifi_hint">Odspojite se sa pomoćne WLAN mreže prije emitiranja</string>
+  <string name="close_slave_wifi_hint_china">Odspojite se sa pomoćne WLAN mreže prije emitiranja</string>
   <string name="console_guide_btn_got_it">Razumijem</string>
   <string name="console_guide_subtitle_hang_up">"Ne prekidajte emitiranje kada se zaslon telefona isključi. Ova značajka može povećati potrošnju energije."</string>
   <string name="console_guide_subtitle_private">"Ne emitiraj plutajuće obavijesti, obavijesti o dolaznim pozivima i druge stavke koje mogu sadržavati osobne podatke"</string>
@@ -35,6 +40,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="dialog_select_tv">Odaberite uređaj (%d)</string>
   <string name="dialog_show_help">Pomoć</string>
   <string name="disconnect">Zaustavi emitiranje</string>
+  <string name="enable_screen_projection_summary">Emitiraj sadržaj zaslona na vanjski monitor</string>
   <string name="hang_up">Emitiraj kad je ekran isključen</string>
   <string name="hang_up_alert_dialog_content">"Emitiranje se neće prekinuti kada se zaslon vašeg telefona isključi. Pritisnite tipku za Power na telefonu da biste ponovo uključili zaslon."</string>
   <string name="hang_up_alert_dialog_neg">Odustani</string>
@@ -114,10 +120,12 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
 4. U slučaju drugih problema, pitanja i prijedloge možete poslati putem aplikacije Povratne inf."</string>
   <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string> 
   <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
+  <string name="keyguard_security_setting_privacy_policy">Pravila o privatnosti</string>
   <string name="nfc_connect_failed_toast">"Nije moguće emitirati. Pokušajte ponovo."</string>
   <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
   <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
   <string name="notification_show_more">Pogledajte dodatne značajke</string>
+  <string name="open_game_accelerate">Uključi Game Turbo</string>
   <string name="privacy_agree">Slažem se</string>
   <string name="privacy_detail">&lt;Data&gt;Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi. Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="privacy_detail_extra">&lt;Data&gt;Neke značajke pruža treći pružatelj usluga HappyCast. Prije upotrebe ove značajke pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;HappyCast Korisnički sporazum&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -153,7 +161,26 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="san_wait_msg_3">"Vanjske uređaje je lakše pronaći kada su povezani na istu mrežu kao i vaš telefon"</string>
   <string name="san_wait_msg_4">"Pogledajte \"Pomoć\" ako ne možete pronaći uređaje"</string>
   <string name="service_name">UniPlay Service</string>
-  <string name="small_window">Minimiziraj prozor</string>
+  <string name="screen_projection">Emitiraj</string>
+  <string name="screen_projection_characteristics">Posebne značajke</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Možete nastaviti emitirati kada je ekran vašeg uređaja isključen. Ova značajka smanjuje potrošnju energije.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Emitiraj s isključenim zaslonom</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"Ne prikazuj plutajuće obavijesti, dolazne pozive i druge privatne stavke na vanjskim monitorima."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Sakrij privatne stavke</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Smanjite prozor koji se emitira kako biste mogli koristiti druge značajke vašeg telefona."</string>
+  <string name="screen_projection_characteristics_small_window_title">Smanji prozor</string>
+  <string name="screen_projection_example_document_summary">Prikažite prezentacije na vanjskom monitoru dok telefonom prelazite s dijapozitiva i pregledavate bilješke. Idite u Datoteke &gt; Dokumenti da isprobate ovu značajku.</string>
+  <string name="screen_projection_example_document_title">Dokumenti</string>
+  <string name="screen_projection_example_gallery_summary">Dodirnite tipku Dijeli ispod stavke u aplikaciji Galerija da biste je prikazali na vanjskom monitoru.</string>
+  <string name="screen_projection_example_gallery_title">Fotografije &amp; videozapisi</string>
+  <string name="screen_projection_example_game_summary">Game Turbo omogućuje vam da igre emitirate na vanjski monitor. Pomoću prečaca u alatnom okviru Game Turbo uključite ovu značajku.</string>
+  <string name="screen_projection_example_game_title">Igre</string>
+  <string name="screen_projection_help">Pomoć</string>
+  <string name="screen_projection_sample_summary">Emitiranje dokumenata, igara, fotografija i videozapisa</string>
+  <string name="screen_projection_sample_title">Demo</string>
+  <string name="screen_projection_title">Emitiraj</string>
+  <string name="search_menu_title">Traži</string>
+  <string name="small_window">Smanji prozor</string>
   <string name="small_window_not_supported">"Ne možete smanjiti ovu aplikaciju dok se emitira"</string>
   <string name="status_bar_in_casting">Emitiranje</string>
   <string name="status_bar_in_casting_long">Kliknite za proširenje dodatnih značajki</string>

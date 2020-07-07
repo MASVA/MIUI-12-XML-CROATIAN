@@ -61,6 +61,7 @@
   <string name="alarmclock_silent_hint">Alarm je utišan</string>
   <string name="alert">Zvuk alarma</string>
   <string name="alert_ringtone">Melodija zvona alarma</string>
+  <string name="alert_vibrate_enable_summary">Vibriraj kada se alarm ugasi</string>
   <string name="alert_volume">Glasnoća alarma</string>
   <string name="alert_volume_summary">Postavite glasnoću zvona za alarme i odbrojavanja</string>
   <string name="allow">Dopusti</string>
@@ -323,6 +324,7 @@
   <string name="ringtone_digital_timer">Timer</string>
   <string name="ringtone_dream">Sanjarenje</string>
   <string name="ringtone_firefly">Krijesnice</string>
+  <string name="ringtone_more">Ostalo</string>
   <string name="ringtone_other">Više melodija zvona</string>
   <string name="ringtone_weather">Vremenski alarm</string>
   <string name="ringtone_week">Alarm prirode</string>
