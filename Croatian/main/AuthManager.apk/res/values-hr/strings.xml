@@ -327,7 +327,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="perm_action_allow">Dopusti</string>
   <string name="perm_action_deny">Nikad ne dopusti</string>
   <string name="perm_modem_location">Pristup vašoj lokaciji</string>
-  <string name="perm_modem_location_desc">Vaš davatelj usluga pokušava pristupiti podacima o vašoj lokaciji. Podijelite podatke o lokaciji s davateljom usluga?</string>
+  <string name="perm_modem_location_desc">Vaš davatelj usluga pokušava pristupiti podacima o vašoj lokaciji. Podijeliti podatke o lokaciji s davateljom usluga?</string>
   <string name="permdesc_camera">Snimati fotografije i videozapise</string>
   <string name="permdesc_in_calls">Nadzirati dolazne pozive</string>
   <string name="permdesc_location">Pristup podacima o lokaciji</string>
