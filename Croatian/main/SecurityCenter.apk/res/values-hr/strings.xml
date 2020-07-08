@@ -271,6 +271,10 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_location_bg">%1s je pristupio vašoj lokaciji u pozadini</string>
   <string name="app_behavior_location_bg_single">Aplikacija je pristupila vašoj lokaciji u pozadini</string>
   <string name="app_behavior_location_single">Aplikacija je pristupila vašoj lokaciji</string>
+  <string name="app_behavior_media_volume">%1s je prilagodio glasnoću medija</string>
+  <string name="app_behavior_media_volume_bg">%1s je prilagodio glasnoću medija u pozadini</string>
+  <string name="app_behavior_media_volume_bg_single">Ova je aplikacija prilagodila glasnoću medija u pozadini</string>
+  <string name="app_behavior_media_volume_single">Ova je aplikacija prilagodila glasnoću medija</string>
   <string name="app_behavior_menu_about">O zapisima ponašanja aplikacija</string>
   <string name="app_behavior_monitor_off">Isključivanje obavijesti</string>
   <string name="app_behavior_monitor_off_content">"Nećete moći primati obavijesti o osjetljivim radnjama koje vrši ova aplikacija. Isključiti svejedno obavijesti?"</string>

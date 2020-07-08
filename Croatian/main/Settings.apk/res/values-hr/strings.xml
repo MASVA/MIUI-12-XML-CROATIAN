@@ -4169,6 +4169,8 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="location_mode_screen_title">Način lokacije</string>
   <string name="location_mode_sensors_only_description">Uporaba GPS-a za utvrđivanje lokacije</string>
   <string name="location_mode_sensors_only_title">Samo uređaj</string>
+  <string name="location_modem_summary">Datum usluga će naučiti o vašoj lokaciji putem baznih stanica</string>
+  <string name="location_modem_title">Podijelite informacije o lokaciji s davateljem usluga</string>
   <string name="location_mode_title">Način</string>
   <string name="location_neighborhood_level">Omogućite aplik. da upotrebljavaju Googleovu uslugu lokacije za brže lociranje. Anonimni podaci prikupljat će se i slati Googleu.</string>
   <string name="location_neighborhood_level_wifi">Lokacija utvrđena pomoću WLAN-a</string>
@@ -5285,13 +5287,13 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>
   <string name="not_installed">Nije instalirano za korisnika</string>
   <string name="not_set">Nije postavljeno</string>
-  <string name="notch_and_status_bar_settings">Centar za kontrolu &amp; Panel obavijesti</string>
+  <string name="notch_and_status_bar_settings">Centar za kontrolu &amp; traka statusa</string>
   <string name="notch_force_black_desc">Kada je uključeno, područje ureza zaslona je crno</string>
   <string name="notch_force_black_title">Sakrij urez zaslona</string>
   <string name="notch_settings">Urez</string>
   <string name="notch_style_mod_description">Mogućnosti prikaza ureza i trake statusa</string>
   <string name="notch_style_mod_title">Sakrij urez</string>
-  <string name="notch_style_show">"Ne sakrivaj"</string>
+  <string name="notch_style_show">"Ne skrivaj"</string>
   <string name="notch_style_status_bar_inside">Sakrij bez pomicanja trake statusa</string>
   <string name="notch_style_status_bar_outside">Sakrij i pomakni traku statusa</string>
   <string name="note_title">Bilješke</string>
@@ -5864,6 +5866,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="peek_notification_icon_title">Prikaži ikone za dolazne obavijesti</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Performanse</string>
+  <string name="permission_action_prompt">Pitaj</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Lokacija</string>
   <string name="perm_read_call_log">Čitanje povijesti poziva</string>
@@ -7831,7 +7834,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Odvojeno</string>
   <string name="status_bar_style_settings">Obavijesti</string>
-  <string name="status_bar_title">Traka statusa</string>
+  <string name="status_bar_title">Centar za kontrolu &amp; traka statusa</string>
   <string name="status_bar_toggle_arrangement">Raspored prečaca</string>
   <string name="status_bt_address">Bluetooth adresa</string>
   <string name="status_data_network_type">Vrsta mobilne podatkovne mreže</string>
