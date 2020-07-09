@@ -291,6 +291,13 @@
   <string name="burst_save_confirm_dialog_title">Spremanje fotografija</string>
   <string name="burst_save_error_msg">"Ne mogu spremiti"</string>
   <string name="burst_save_processing">Obrada…</string>
+  <string name="burst_save_video">Spremi kao videozapis</string>
+  <string name="burst_save_video_choice_1080">%dp</string>
+  <string name="burst_save_video_choice_4k">%dK</string>
+  <string name="burst_save_video_choice_720">%dp</string>
+  <string name="burst_save_video_fail">"Ne mogu spremiti"</string>
+  <string name="burst_save_video_progerss">Izrada videozapisa…</string>
+  <string name="burst_save_video_title">Rezolucija videozapisa</string>
   <string name="buy_member_tip">Postanite član</string>
   <string name="by_email">E-pošta</string>
   <string name="by_others">Ostalo</string>
@@ -760,6 +767,7 @@ za fotografije"</string>
   <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
   <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>
   <string name="file_sending">Slanje datoteka…</string>
+  <string name="filter_category_classic">Klasika</string>
   <string name="filllight">Dopunsko svjetlo</string>
   <string name="filter_bi_bw">B&amp;W</string>
   <string name="filter_bi_dusk">Zora</string>
@@ -777,6 +785,7 @@ za fotografije"</string>
   <string name="filter_bi_warm">Toplo</string>
   <string name="filter_bi_young">Mlado</string>
   <string name="filter_category_film">Film</string>
+  <string name="filter_category_popular">Popularno</string>
   <string name="filter_category_food">Hrana</string>
   <string name="filter_category_general">Općenito</string>
   <string name="filter_category_master">Master</string>
@@ -834,10 +843,14 @@ za fotografije"</string>
   <string name="filter_movie_travel">Putovanje</string>
   <string name="filter_movie_wonderful">Čudo</string>
   <string name="filter_original">Ništa</string>
+  <string name="filter_popular_humanity">Dokumentarac</string>
+  <string name="filter_popular_lnk">Tinta</string>
+  <string name="filter_popular_purple">Ljubičasta</string>
+  <string name="filter_portrait_greyish">Pepeo</string>
   <string name="filter_people_bw">B&amp;W</string>
   <string name="filter_people_fairytale">Djeca</string>
   <string name="filter_people_heart">Emocije</string>
-  <string name="filter_people_japanese">Fresh</string>
+  <string name="filter_people_japanese">Svježe</string>
   <string name="filter_people_lilt">Lilt</string>
   <string name="filter_people_maze">Maze</string>
   <string name="filter_people_mint">Mint</string>
@@ -849,8 +862,10 @@ za fotografije"</string>
   <string name="filter_people_story">Priča</string>
   <string name="filter_people_tea">Čaj</string>
   <string name="filter_portrait_hint">Fokus u boji</string>
+  <string name="filter_portrait_mist">Izmaglica</string>
+  <string name="filter_portrait_painting">Bojanje</string>
   <string name="filter_scene_city">Grad</string>
-  <string name="filter_scene_df">Mist</string>
+  <string name="filter_scene_df">Izmaglica</string>
   <string name="filter_scene_koizora">Amour</string>
   <string name="filter_scene_lomo">LOMO</string>
   <string name="filter_scene_neon">Neon</string>
@@ -1074,6 +1089,7 @@ za fotografije"</string>
   <string name="loading_members">Učitavanje članova…</string>
   <string name="loading_processing_tip">Obrada fotografije…</string>
   <string name="loading_suspend">Preuzimanje pauzirano. Nastaviti će se kada WLAN bude dostupan</string>
+  <string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija (%d/%d)…</string>
   <string name="loading_video">Preuzimanje videozapisa…</string>
   <string name="loading_video_compress_lib">Preuzimanje dodatka za sažimanje videozapisa…</string>
   <string name="loading_video_fail_sync_without_network">Povežite se na mrežu da biste preuzeli metapodatke</string>
@@ -1303,6 +1319,9 @@ za fotografije"</string>
   <string name="onekey_none">Original</string>
   <string name="onekey_portrait">Portret</string>
   <string name="onekey_scene">Pejzaž</string>
+  <string name="online_video_error_unknown">Došlo je do pogreške u reprodukciji na mreži. Umjesto toga,  preuzmite stavku.</string>
+  <string name="online_video_error_unsupported_type">"Online player ne podržava ovaj format. Umjesto toga,  preuzmite stavku."</string>
+  <string name="online_video_normal_transcoding">"Online player još nije spreman. Umjesto toga,  preuzmite stavku."</string>
   <string name="open">Uključi</string>
   <string name="open_public_message">Generiraj poveznicu i pošalji je prijateljima</string>
   <string name="open_public_title">Podijeli</string>
@@ -1679,14 +1698,21 @@ za fotografije"</string>
   <string name="screen_doodle_talkback_size">Doodle širina crte</string>
   <string name="screen_editor_btn_delete">Izbriši</string>
   <string name="screen_editor_btn_save">Spremi</string>
+  <string name="screen_editor_btn_shell_off">Ukloni okvir uređaja</string>
+  <string name="screen_editor_btn_shell_on">Dodaj okvir uređaja</string>
   <string name="screen_editor_delete_dialog_msg">Izbrisati ovu snimnku zaslona?</string>
+  <string name="screen_editor_crop_disallowed_with_shell">"Ne mogu obrezati snimke zaslona s okvirom uređaja"</string>
   <string name="screen_editor_finish">Gotovo</string>
+  <string name="screen_editor_shell_disallowed_with_crop">"Ne mogu dodati okvir uređaja obrezanim snimkama zaslona"</string>
+  <string name="screen_editor_shell_net_error">Povežite se s mrežom za preuzimanje okvira uređaja</string>
+  <string name="screen_editor_shell_res_downloading">Preuzimanje okvira uređaja…</string>
+  <string name="screen_editor_shell_storage_insufficient">"Okvir uređaja nije moguće preuzeti zbog nedovoljnog prostora za pohranu"</string>
   <string name="screen_save_dialog_btn_cancel">Odustani</string>
   <string name="screen_save_dialog_btn_delete">Izbriši snimnku zaslona</string>
   <string name="screen_save_dialog_btn_save">Spremi u Galeriju</string>
   <string name="search_album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="search_backup_full_screen">Uključite sinkr. sa Mi Cloudom bi se pronašli više objekata i osoba</string>
-  <string name="search_backup_full_screen_new">Uključite sinkronizaciju s Mi Cloudom kako biste pretraživanje učinili učinkovitijim</string>
+  <string name="search_backup_full_screen_new">Uključite sinkronizaciju s Mi Cloudom kaDodajte okvir uređaja biste pretraživanje učinili učinkovitijim</string>
   <string name="search_backup_now">Uključi</string>
   <string name="search_backup_sub_title">Uključite da bi se pronašli više slika</string>
   <string name="search_backup_title">Sinkr. sa Mi Cloudom</string>
@@ -1989,6 +2015,8 @@ za fotografije"</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
+  <string name="time_burst_photo_enter">Vremensko uzastopno slikanje</string>
+  <string name="time_burst_preview_title">Vremensko uzastopno slikanje</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
