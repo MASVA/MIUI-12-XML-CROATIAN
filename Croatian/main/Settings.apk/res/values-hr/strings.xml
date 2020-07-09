@@ -5866,7 +5866,6 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="peek_notification_icon_title">Prikaži ikone za dolazne obavijesti</string>
   <string name="percentage">%d%%</string>
   <string name="performance_category">Performanse</string>
-  <string name="permission_action_prompt">Pitaj</string>
   <string name="perm_camera">Kamera</string>
   <string name="perm_location">Lokacija</string>
   <string name="perm_read_call_log">Čitanje povijesti poziva</string>
@@ -5875,7 +5874,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="perm_read_sms">Čitanje SMS-a</string>
   <string name="perm_storage">Čitanje i pisanje na vanjsku pohranu</string>
   <string name="permission_action_accept">Dopusti</string>
-  <string name="permission_action_prompt">Obavijesti</string>
+  <string name="permission_action_prompt">Pitaj</string>
   <string name="permission_action_reject">Odbij</string>
   <string name="permission_bar_chart_details">Pogledajte sve na nadzornoj ploči</string>
   <string name="permission_bar_chart_empty_text">Dopuštenja nije upotrijebila nijedna aplikacija</string>
