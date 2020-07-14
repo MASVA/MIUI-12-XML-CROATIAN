@@ -1405,6 +1405,13 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_scanning_item4">Provjera problema s baterijom…</string>
   <string name="first_aid_scanning_item5">Provjera drugih problema…</string>
   <string name="first_aid_stop_scan">Zaustavi skeniranje</string>
+  <string name="first_settings_default_camera_title">Podijeli bez metapodataka prema zadanim postavkama</string>
+  <string name="first_settings_default_location_subtitle">Ukloni podatke o lokaciji s dijeljenih fotografija</string>
+  <string name="first_settings_default_location_title">Podijeli bez podataka o lokaciji prema zadanim postavkama</string>
+  <string name="first_settings_share_enable">Dodaj značku \"Sigurno dijeljenje\"</string>
+  <string name="first_settings_share_enable_subtitle">Stavke koje dijelite na WeChatu pojavit će se s MIUI značkom</string>
+  <string name="first_settings_subtitle">Ovdje su vam dostupne sigurne mogućnosti dijeljenja:</string>
+  <string name="first_settings_title">Zaštitite svoju privatnost</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="fod_authentication_shift_button">Odustani</string>
@@ -1854,6 +1861,7 @@ vašeg igranja"</string>
   <string name="load_fail">"Ne mogu učitati"</string>
   <string name="load_only_under_wlan">Učitaj samo kada je povezano na WLAN</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija (%d/%d)…</string>
   <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
   <string name="lock_all_title">Zaključaj sve aplikacije</string>
   <string name="lock_mode_title">Postavke zaključavanja</string>
@@ -2238,6 +2246,9 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_exit_extreme_mode_title">Ekstremna Štednja baterije je isključena</string>
   <string name="notification_exit_power_save_mode">Štednja baterije isključena</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napunjena.</string>
+  <string name="notification_garbage_clean_botton_text">Očisti</string>
+  <string name="notification_garbage_clean_hint">Očisti prostor za pohranu</string>
+  <string name="notification_garbage_clean_size">Oslobodi %s</string>
   <string name="notification_garbage_cleanup_summary">Očistite smeće (%s) da ubrzate svoj uređaj</string>
   <string name="notification_garbage_cleanup_title">Očistite datoteke smeća</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
@@ -2253,6 +2264,8 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_quick_charging_title">Brzo punjenje</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
+  <string name="notification_whatsapp_clean_button_text">Očisti</string>
+  <string name="notification_whatsapp_clean_size">WhatsApp predmemorija dosegla %s</string>
   <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je izmijenjena</string>
   <string name="notification_sysapp_cracked_title">Otkriven je sigurnosni rizik</string>
   <string name="notification_title_cmcc_app_check">Dana (%d) od zadnje provjere</string>
@@ -2348,6 +2361,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_shortcut_added_toast_text">Uspješno dodano</string>
   <string name="om_shortcut_dialog_summary">"RAM Jet omogućuje vam da očistite memoriju i povećate brzinu vašeg uređaja jednim dodirom. Dodati RAM Jet na Poč. zaslon?"</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
+  <string name="once_settings_camera_ttile">Podijeli bez metapodataka</string>
+  <string name="once_settings_location_title">Podijeli bez podataka o lokaciji</string>
+  <string name="once_settings_subtitle">Kako želite podijeliti odabrane stavke?</string>
+  <string name="once_settings_title">Zaštita privatnosti</string>
   <string name="one_address_choose_hint">%s1</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Vijesti</string>
@@ -3301,12 +3318,20 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="settings">Postavke uporabe podataka</string>
   <string name="settings_battery_consume_abnormal_summary">Obavijesti kada se baterija prazni prebrzo</string>
   <string name="settings_battery_consume_abnormal_title">Obavijesti prebrzog pražnjenja</string>
+  <string name="settings_camera_subtitle_no">No metadata</string>
   <string name="settings_battery_over_heat_summary">Obavijesti kada uređaj postaje topliji nego što je normalno</string>
   <string name="settings_battery_over_heat_title">Obavijesti pregrijavanja</string>
   <string name="settings_category_other">Ostale postavke</string>
   <string name="settings_category_overheat">Pregrijavanje</string>
   <string name="settings_choice_no_notification">Isključeno</string>
+  <string name="settings_image_camera_summary">Model uređaja, metapodaci itd.</string>
+  <string name="settings_location_subtitle_no">Nema informacija o lokaciji</string>
   <string name="settings_power_save_ontime_title">Raspored</string>
+  <string name="settings_share_enable_summary">Stavke koje dijelite na WeChatu pojavit će se s MIUI značkom</string>
+  <string name="settings_share_info">Ovdje su dostupne sigurne mogućnosti dijeljenja za stavke koje dijelite iz Galerije i Datoteka:</string>
+  <string name="settings_show_detail">Prikaži detalje</string>
+  <string name="settings_tip">Idite u Galerija &gt; Postavke za prikaz više opcija</string>
+  <string name="settings_title">Sigurno dijeljenje</string>
   <string name="settings_title_payment_security">Postavke Sigurnosti plaćanja</string>
   <string name="settings_title_permission">Postavke Dopuštenja</string>
   <string name="share">Podijeli</string>
@@ -3867,8 +3892,10 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="text_button">U redu</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
+  <string name="text_done">U redu</string>
   <string name="text_lock_info">Iscrtajte uzorak za otključavanje</string>
   <string name="there_is_no">Sve izgleda dobro, vratite se kasnije</string>
+  <string name="text_security">Privatnost</string>
   <string name="thermal_tips_message">Igranje igara u načinu Performansi može dovesti do problema s pregrijavanjem.</string>
   <string name="thermal_tips_title">Pažnja</string>
   <string name="third_application">Instalirane aplikacije</string>
@@ -4200,6 +4227,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_advanced_settings_after_open">Poslije</string>
   <string name="vb_advanced_settings_before_open">Prije</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Napravite jasnije pomeranje objekata poboljšavanjem animacija. Ova značajka zahtijeva veću potrošnju energije.</string>
+  <string name="vb_quick_func_auto_bgm">Prepoznaj glazbu u pozadini</string>
   <string name="vb_quick_func_hangup_listening">Reproduciraj video zvuk s isključenim zaslonom</string>
   <string name="vb_quick_func_screen_capture">Snimka zaslona</string>
   <string name="vb_quick_func_screen_record">Snimi</string>

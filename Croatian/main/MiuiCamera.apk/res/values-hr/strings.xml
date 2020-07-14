@@ -140,6 +140,7 @@ i prilagodite postavke automatski"</string>
   <string name="ambilight_intro_silky_water_part1">Upotrijebite ovaj način snimanja pokretnih oblaka. Dati će nebu efekt \"ulja na platnu\".</string>
   <string name="ambilight_intro_silky_water_part2">Ovaj način čini da voda koja se kreće (rijeke, slapovi i jezera) izgleda kao svila.</string>
   <string name="ambilight_intro_star_track">"Snimanje zvjezdanog neba duže vrijeme može uhvatiti putanje zvijezda. Ne zaboravite koristiti stativ i neprekidno snimati najmanje %d minuta."</string>
+  <string name="ambilight_intro_star_track_2">"Snimanje zvjezdanog neba duže vrijeme može uhvatiti putanje zvijezda. Ne zaboravite koristiti stativ. Snimajte neprekidno najmanje %d min. kako biste dobili fotografije i videozapise."</string>
   <string name="ambilight_intro_traffic_light">Noću možete uhvatiti putanju svijetlih pokretnih svjetala (na primjer, na automobilima i brodovima). Ovaj način rada omogućuje pregled konačnog rezultata na vašem zaslonu u stvarnom vremenu.</string>
   <string name="ambilight_scene_crowd_moving">Masa ljudi u pokretu</string>
   <string name="ambilight_scene_light_track">Ulje na platnu</string>
@@ -313,6 +314,11 @@ i na trenutak izađite iz pregleda"</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_text_success">Tekst kopiran</string>
   <string name="crop_saved">Izrezana slika spremljena je u %s.</string>
+  <string name="cta_msg">Dobrodošli u Kameru! Ovom aplikacijom možete fotografirati i snimati. Ova se aplikacija mora povezati s internetom i traži sljedeća neobavezna dopuštenja:</string>
+  <string name="cta_perm_dec">Za dodavanje podataka o lokaciji fotografijama i videozapisima</string>
+  <string name="cta_perm_loc">Lokacija</string>
+  <string name="cta_perm_type">"Izborna dopuštenja (koristi se za dodatne značajke dok ih upotrebljavate)"</string>
+  <string name="cta_user_tips">&lt;Data&gt;Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i pristanite na naša &amp;lt;a href =%1$s&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="custom_sound_art">Retro</string>
   <string name="custom_sound_default">Zadano</string>
   <string name="custom_sound_modern">Moderno</string>
@@ -321,6 +327,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="custom_tint_color_select">Prilagodite boje</string>
   <string name="custom_watermark_contains_senstive_words">"Oznaka ne može sadržavati ograničene pojmove (%1$s)"</string>
   <string name="custom_watermark_tips">Ovaj će se tekst pojaviti kao drugi redak vaše oznake. Može sadržavati do 18 slova ili 14 kineskih znakova.</string>
+  <string name="custom_watermark_tips_gen2" formatted="false">Do %d kineskih znakova ili %d slova.</string>
   <string name="custom_watermark_too_many_words">Uneseni tekst je predugačak</string>
   <string name="custom_watermark_words">Vlastita oznaka</string>
   <string name="custom_watermark_words_input_hint">Unesite tekst</string>
@@ -830,6 +837,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camcorder_settings_category">Postavke</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_ai_scene_title">AI kamera</string>
+  <string name="pref_camera_ai_shutter_description">Odaberite najbolji trenutak automatski kad pritisnete tipku okidača</string>
+  <string name="pref_camera_ai_shutter_title">AI okidač</string>
   <string name="pref_camera_antibanding_entry_0">Isključeno</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -1220,6 +1229,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_module_settings">Načini</string>
   <string name="pref_more_mode_style_title">Načini kamere</string>
+  <string name="pref_multi_camera_dual_video_front">Prednja kamera</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Možete snimati samo 720P videozapise s 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Možete snimati samo 720p videozapise s 960FPS</string>
   <string name="pref_photo_assistance_tips_off">Isklj.</string>
@@ -1452,9 +1462,12 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="undo">Poništi</string>
   <string name="unit_mm">mm</string>
   <string name="unknow_error">Nepoznata pogreška</string>
+  <string name="unsupported_microphones_3d_record_tips">"3D zvuk ne podržava vanjske mikrofone"</string>
+  <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom ne podržava vanjske mikrofone"</string>
   <string name="user_agree">Slažem se</string>
   <string name="user_define_watermark_cancel">Odustani</string>
   <string name="user_define_watermark_save">Spremi</string>
+  <string name="user_disagree">"Ne slažem se"</string>
   <string name="user_notice_identify_summary_format">Prije korištenja Kamere morate se složiti s našim &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Korisnički sporazum&lt;/a&gt; i &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Pravila o Privatnosti&lt;/a&gt;. Kamera se također mora povezati s internetom kako bi radila normalno. Slažete li se?</string>
   <string name="user_notice_title">Uvjeti i odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>

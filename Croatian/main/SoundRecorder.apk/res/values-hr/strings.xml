@@ -189,6 +189,11 @@
   <string name="recording_quality_low">Niska</string>
   <string name="recording_quality_standard">Standardna</string>
   <string name="recording_stopped">Zaustavljeno</string>
+  <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
+  <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
+  <string name="recovery">Vrati</string>
+  <string name="recovery_failed_dialog_button">Razumijem</string>
+  <string name="recovery_failed_dialog_title">Pažnja</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenuj snimku</string>
   <string name="rename_duplicate">Snimka s istim imenom već postoji.</string>
@@ -196,6 +201,7 @@
   <string name="rename_no_more_tip">"Ne prikazuj ponovo"</string>
   <string name="retry">Pokušaj ponovo</string>
   <string name="runtime_permission_ungranted">"Ne mogu koristiti Snimač zbog nedobivenog dopuštenja"</string>
+  <string name="save_record_dialog_title">Spremi snimku</string>
   <string name="search_app">Snimač</string>
   <string name="search_empty">"Ne mogu naći rezultate"</string>
   <string name="search_enable_earpiece_title">Koristi prijemnik za reprodukciju zvuka</string>
@@ -238,7 +244,11 @@
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>
+  <string name="trash_box">Nedavno izbrisane stavke</string>
+  <string name="trash_box_close_tip">Zatvori upit</string>
+  <string name="trash_box_delete_all">Trajno izbrisati sve stavke iz smeća?</string>
   <string name="usage_description">Prepisivanje zvuka i sinkroniziranje stavki s Mi Cloudom</string>
+  <string name="user_feedback">Povratna inf.</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="webview_check_network">Mrežne postavke</string>

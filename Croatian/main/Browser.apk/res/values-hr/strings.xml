@@ -1244,6 +1244,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="network_not_available_comment">Nema internetske veze, ne može se komentirati</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Pronađen je WLAN hotspot u blizini. Pokušati se povezati?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostupna je WLAN mreža</string>
+  <string name="new_copy_address">Zadnji kopiran URL</string>
+  <string name="new_copy_content">Zadnji kopiran sadržaj</string>
   <string name="new_folder_name_lable">Naziv grupe</string>
   <string name="next_button_label">Dalje</string>
   <string name="no_app_open_document">Nije pronađena aplikacija za obradu ove radnje</string>

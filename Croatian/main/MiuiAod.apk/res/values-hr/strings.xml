@@ -30,6 +30,7 @@
   <string name="am">AM</string>
   <string name="animation_clock_panel">Valno biranje</string>
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
+  <string name="aod_component">Prikazane stavke</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12_signature">dd.MM</string>
@@ -70,6 +71,12 @@ dd.MM"</string>
   <string name="clock_panel_icon">Izgled sata</string>
   <string name="color_change_with_time_description">Promijeni boju teksta automatski tijekom vremena</string>
   <string name="color_change_with_time_title">Promijeni boju automatski</string>
+  <string name="component_battery">Baterija</string>
+  <string name="component_date_time">Datum i vrijeme</string>
+  <string name="component_lunar">Tradicionalni kineski kalendar</string>
+  <string name="component_notification">Obavijesti</string>
+  <string name="component_step">Koraci</string>
+  <string name="continue_to_use">Nastavi</string>
   <string name="copy">Kopiraj</string>
   <string name="custom_image">Vlastita slika</string>
   <string name="deep_space_planet">Doba dana</string>
@@ -219,6 +226,9 @@ dd.MM"</string>
   by MASVA"</string>
   <string name="standard_clock_panel">Standard</string>
   <string name="standard_style">Standardno</string>
+  <string name="step_component_info_active_tip">Broj koraka pruža Xiaomi Health. Pristanite na Xiaomi Health uvjete i odredbe za nastavak.</string>
+  <string name="step_component_info_desc">Kada se postigne vaš cilj, broj koraka pretvorit će se u trofej. Broj koraka pruža Xiaomi Health.</string>
+  <string name="step_component_info_tip">Broj koraka pruža Xiaomi Health. Instalirajte ili ažurirajte Xiaomi Health i pristanite na njegove uvjete i odredbe za nastavak.</string>
   <string name="summary">"Da smanjite potrošnju energije, stavke neće biti prikazane u sljedećim situacijama:
 1. Kada vaš uređaj dugo stoji u mraku.
 2. Kada je uključen DND način rada."</string>

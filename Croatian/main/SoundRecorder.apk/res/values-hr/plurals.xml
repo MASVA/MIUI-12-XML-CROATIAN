@@ -12,6 +12,10 @@
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>
     </plurals>
+	<plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Ne mogu vratiti %d stavki zbog nepoznate pogreške."</item>
+        <item quantity="one">"Ne mogu vratiti %d stavku zbog nepoznate pogreške."</item>
+    </plurals>
 	<plurals name="search_alll_records_hint">
         <item quantity="other">Traži među %d snimaka</item>
         <item quantity="one">Traži među %d snimke</item>
@@ -27,6 +31,18 @@
 	<plurals name="search_result">
         <item quantity="other">Pronađeno snimaka: %d</item>
         <item quantity="one">Pronađena %d snimka</item>
+    </plurals>
+	<plurals name="time_left_for_clear_file">
+        <item quantity="other">%d dana preostalo</item>
+        <item quantity="one">%d dan preostao</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Izbrisati trajno %d odabranih snimki?</item>
+        <item quantity="one">Izbrisati trajno %d odabranu snimku?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Izbrisane stavke mogu se pohraniti u smeće do %d dana</item>
+        <item quantity="one">Izbrisana stavka može se pohraniti u smeće do %d dana</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d nije sinkr.</item>
