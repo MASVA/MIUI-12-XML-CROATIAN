@@ -182,6 +182,10 @@ Tipkovnica i navigacijska traka ne mogu se pove&amp;#263;ati."</string>
   <string name="accessibility_setting_item_control_timeout_title">Vrijeme čekanja na radnju za Pristupačnost</string>
   <string name="accessibility_settings">Pristupačnost</string>
   <string name="accessibility_settings_summary">Čitači zaslona, zaslon, kontrole interakcije</string>
+  <string name="accessibility_settings_tabs_general">Općenito</string>
+  <string name="accessibility_settings_tabs_hearing">Sluh</string>
+  <string name="accessibility_settings_tabs_physical">Dodir</string>
+  <string name="accessibility_settings_tabs_visual">Vid</string>
   <string name="accessibility_settings_title">Postavke dostupnosti</string>
   <string name="accessibility_shortcut_description">Kad je taj prečac uključen, možete na tri sekunde pritisnuti oba gumba za glasnoću kako biste pokrenuli značajku prisupačnosti.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Dopusti sa zaključanog zaslona</string>
@@ -360,6 +364,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="agps_roaming_summary">Koristi mobilne podatke za pomoć GPS-a u roamingu</string>
   <string name="ai_button_title">Mi AI tipka</string>
   <string name="ai_button_title_global">AI tipka</string>
+  <string name="ai_call_assistant">AI pozivi</string>
   <string name="ai_key">AI tipka</string>
   <string name="ai_key_double_click">Dvaput pritisnite</string>
   <string name="ai_key_long_press">Pritisnite i držite</string>
@@ -3590,6 +3595,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="heads_up_enabled_title">Skočni za visoki prioritet</string>
   <string name="headset_calibrate">Podešavanje tipki</string>
   <string name="headset_settings_title">Efekti zvuka</string>
+  <string name="hearing_aids_category">Slušni pomoćni alati</string>
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
   <string name="help_and_feedback_title">Pomoć i povratne inf.</string>
   <string name="help_feedback_label">Pomoć i povratne informacije</string>
@@ -3740,6 +3746,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="information_dialog_button_text">Shvaćam</string>
   <string name="information_label">Informacije</string>
   <string name="input_assistance">Alati</string>
+  <string name="input_device_category">Ulazni uređaj</string>
   <string name="input_hint_prefix">Unesi %1$s</string>
   <string name="input_method">Način ulaza</string>
   <string name="input_method_bottom_close">Isključeno</string>
@@ -7168,9 +7175,13 @@ Da biste upotrebljavali prikačivanje zaslona:
   <string name="security_encryption_rejected_via_home_manager">"Ova značajka nije podržana u demo verziji."</string>
   <string name="security_encryption_title">Šifriraj uređaj koristeći zaporku Zaklj. zaslona</string>
   <string name="security_input">Sigurna tipkovnica</string>
+  <string name="security_input_enable">Sigurna tipkovnica</string>
   <string name="security_input_hint">Koristite sigurnu tipkovnicu prilikom unosa zaporki</string>
+  <string name="security_input_num_order">Fixed</string>
+  <string name="security_input_num_random_order">Slučajno</string>
+  <string name="security_input_num_setting_title">Numerička tipkovnica</string>
   <string name="security_keyguard_category_name">Zaklj. zaslon</string>
-  <string name="security_password_category_name">Zaklj. zaslona</string>
+  <string name="security_password_category_name">Zaklj. zaslon</string>
   <string name="security_passwords_title">Privatnost</string>
   <string name="security_patch">Razina Androidove sigurnosne zakrpe</string>
   <string name="security_privacy_settings_title">Privatnost</string>
@@ -9276,6 +9287,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="vision_settings_description">Ovaj uređaj možete prilagoditi svojim potrebama. Značajke pristupačnosti možete promijeniti kasnije u postavkama.</string>
   <string name="vision_settings_suggestion_title">Promjena veličine fonta</string>
   <string name="vision_settings_title">Postavke za vid</string>
+  <string name="voice_access">Glasovne kontrole</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Govor</string>
   <string name="voice_helper_title">Glasovni asistent</string>

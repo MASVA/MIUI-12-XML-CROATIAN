@@ -146,7 +146,7 @@
   <string name="do_not_support_video_calls_by_remote">"Video pozivi nisu podržani na drugom uređaju"</string>
   <string name="emergency_call_dialog_number_for_display">Hitan poziv</string>
   <string name="enter_ai_assistant">Koristi</string>
-  <string name="enter_ai_assistant_tip">"AI omoćnik poziva može preuzeti ovaj poziv i prepisati govor druge osobe umjesto vas. Dozvoliti AI da odgovori?"</string>
+  <string name="enter_ai_assistant_tip">"AI može pretvoriti tekst u govor ako vam nije zgodno da sada razgovarate. Koristiti AI za ovaj poziv?"</string>
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Odbij</string>
   <string name="fraud_call_waring">Budite oprezni: Uvijek provjerite identitet osobe s kojom razgovarate putem telefona ili videopoziva prije odgovora na bilo kakva pitanja koja uključuju vaše osobne informacije.</string>
