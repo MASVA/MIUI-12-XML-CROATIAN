@@ -41,7 +41,6 @@
   <string name="alert_weather_enable_settings_title">Upozorenja o vremenu</string>
   <string name="already_voted">Glasano</string>
   <string name="app_name">Vrijeme</string>
-  <string name="aqi_alert_channel_name">AQI upozorenja</string>
   <string name="aqi_15_days_desc">15-dnevna prognoza kvalitete zraka</string>
   <string name="aqi_24_hours_desc">24-satna prognoza kvalitete zraka</string>
   <string name="aqi_48_hours_desc">48-satna prognoza kvalitete zraka</string>

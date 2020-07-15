@@ -121,6 +121,17 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string> 
   <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o privatnosti</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
+  <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="nfc_connect_failed_toast">"Nije moguće emitirati. Pokušajte ponovo."</string>
   <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
   <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
