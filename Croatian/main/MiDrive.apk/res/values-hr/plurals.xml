@@ -82,27 +82,15 @@
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Prije %1$d min.</item>
-        <item quantity="zero">Prije %1$d min.</item>
         <item quantity="one">Prije %1$d min.</item>
-        <item quantity="two">Prije %1$d min.</item>
-        <item quantity="few">Prije %1$d min.</item>
-        <item quantity="many">Prije %1$d min.</item>
 	</plurals>
     <plurals name="hours_ago">
         <item quantity="other">Prije %1$d sati</item>
-        <item quantity="zero">Prije %1$d sati</item>
         <item quantity="one">Prije %1$d sat</item>
-        <item quantity="two">Prije %1$d sata</item>
-        <item quantity="few">Prije %1$d sati</item>
-        <item quantity="many">Prije %1$d sati</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Prije %1$d dana</item>
-        <item quantity="zero">Prije %1$d dana</item>
         <item quantity="one">Prije %1$d dan</item>
-        <item quantity="two">Prije %1$d dana</item>
-        <item quantity="few">Prije %1$d dana</item>
-        <item quantity="many">Prije %1$d dana</item>
     </plurals>
 	<plurals name="seconds">
          <item quantity="other">%1$d sek</item>
@@ -148,4 +136,52 @@
         <item quantity="other">Izbrisati mape: %1$d?</item>
         <item quantity="one">Izbrisati ovu mapu?</item>
     </plurals>
+	     <plurals name="download_done_info_for_sys_content">
+        <item quantity="other">Uspješno preuzeto %1$d stavki</item>
+        <item quantity="one">Uspješno preuzeta %1$d stavka</item>
+     </plurals>
+     <plurals name="download_fail_info_for_sys_content">
+        <item quantity="other">"Ne mogu preuzeti %1$d stavki"</item>
+        <item quantity="one">"Ne mogu preuzeti %1$d stavku"</item>
+     </plurals>
+     <plurals name="downloading_info_for_sys_title">
+        <item quantity="other">Preuzimanje… %1$d preostalo (%2$s%%)</item>
+        <item quantity="one">Preuzimanje… %1$d preostalo (%2$s%%)</item>
+     </plurals>
+     <plurals name="exception_copy_delete">
+        <item quantity="other">"Neke stavke nedostaju. Ne mogu kopirati %1$d stavki."</item>
+        <item quantity="one">"Neke stavke nedostaju. Ne mogu kopirati %1$d stavku."</item>
+     </plurals>
+     <plurals name="exception_move_delete">
+        <item quantity="other">"Neke stavke nedostaju. Ne mogu premjestiti %1$d stavki."</item>
+        <item quantity="one">"Neke stavke nedostaju. Ne mogu premjestiti %1$d stavku."</item>
+     </plurals>
+     <plurals name="search_head_hint_file">
+        <item quantity="other">%2$d stavki sadrži \"%1$s\"</item>
+        <item quantity="one">%2$d stavka sadrži \"%1$s\"</item>
+     </plurals>
+     <plurals name="setting_file_list_item_desc">
+        <item quantity="other">%1$d stavki | %2$s | %3$s</item>
+        <item quantity="one">%1$d stavka | %2$s | %3$s</item>
+     </plurals>
+     <plurals name="setting_list_folder_item_desc">
+        <item quantity="other">%1$d stavki | %2$s</item>
+        <item quantity="one">%1$d stavka | %2$s</item>
+     </plurals>
+     <plurals name="text_group_count">
+        <item quantity="other">%1$d stavki</item>
+        <item quantity="one">%1$d stavka</item>
+     </plurals>
+     <plurals name="upload_done_info_for_sys_content">
+        <item quantity="other">Uspješno učitano %1$d stavki</item>
+        <item quantity="one">Uspješno učitana %1$d stavka</item>
+     </plurals>
+     <plurals name="upload_fail_info_for_sys_content">
+        <item quantity="other">"Ne mogu učitati %1$d stavke"</item>
+        <item quantity="one">"Ne mogu učitati %1$d stavku"</item>
+     </plurals>
+     <plurals name="uploading_info_for_sys_title">
+        <item quantity="other">Učitavanje… %1$d preostalo (%2$s%%)</item>
+        <item quantity="one">Učitavanje… %1$d preostalo (%2$s%%)</item>
+     </plurals>
 </resources>

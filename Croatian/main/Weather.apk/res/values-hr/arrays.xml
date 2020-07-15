@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="dislike_alert_dialog_selectitems">
+        <item>Nisam zainteresiran</item>
+        <item>Loša kvaliteta sadržaja</item>
+    </string-array>
     <string-array name="hot_city">
         <item>Krapina</item>
         <item>Zagreb</item>

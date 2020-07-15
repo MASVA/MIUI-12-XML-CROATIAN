@@ -118,8 +118,8 @@
   <string name="carousel_suggest1">Dobijte nove slike pozadine dostavljen izravno na vaš Zaklj. zaslon svaki dan besplatno.</string>
   <string name="carousel_suggest2">Da li je Wallpaper Carousel uključen?</string>
   <string name="category_subscribe_failed">"Ne mogu se pretplatiti"</string>
-  <string name="change_activate_email">Promijeni adresu e-pošte</string>
-  <string name="change_password">Promijeni zaporku</string>
+  <string name="change_activate_email">Promjeni adresu e-pošte</string>
+  <string name="change_password">Promjeni zaporku</string>
   <string name="change_time">Promjeni sliku pozadine</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -445,7 +445,7 @@ dd.MM"</string>
   <string name="passport_activing_account">Aktivacija…</string>
   <string name="passport_adding_account">Dodavanje računa…</string>
   <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
-  <string name="passport_area_code_title">Kod zemlje</string>
+  <string name="passport_area_code_title">Pozivni broj</string>
   <string name="passport_auto_generate_pwd">Generiraj sigurnu zaporku</string>
   <string name="passport_back">Natrag</string>
   <string name="passport_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
@@ -530,7 +530,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_input_voice_captcha_hint">Unesite glasovni kôd za provjeru</string>
   <string name="passport_international_phone_password_login_tip">(Za korisnike izvan Kine, unesite broj mobilnog telefona u sljedećem formatu: + broj zemlje, primjer: +91 817282982)</string>
   <string name="passport_license_host_unreachable">"Ne mogu se povezati na mrežu. Možete vidjeti ovu stranicu na %s."</string>
-  <string name="passport_loading">Učitavanje…</string>
+  <string name="passport_loading">Samo trenutak…</string>
   <string name="passport_log_detail">Prikaži detalje zapisa</string>
   <string name="passport_login">Prijavite se</string>
   <string name="passport_login_failed">"Ne mogu se prijaviti"</string>

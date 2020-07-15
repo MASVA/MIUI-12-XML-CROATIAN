@@ -56,7 +56,7 @@
   <string name="account_protection_on">Uklj.</string>
   <string name="account_secure_info_pref_title">Info o računu</string>
   <string name="account_security">Sigurnost računa</string>
-  <string name="account_security_info_pref_title">Info o sigurnosti</string>
+  <string name="account_security_info_pref_title">Informacije o sigurnosti</string>
   <string name="account_security_question">Sigurnosno pitanje</string>
   <string name="account_settings">Račun</string>
   <string name="account_token_expired_msg">"Kôd za potvrdu je istekao, započnite ispočetka ili se odjavite\n ID vašeg računa: %s"</string>

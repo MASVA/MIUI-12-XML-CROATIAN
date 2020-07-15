@@ -948,6 +948,11 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="choose_gs_show_way">Odaberite orijentaciju početne stranice</string>
   <string name="clean_immediately">Očisti</string>
   <string name="clean_master_icon_recall_button_text">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_button_negative">Ne hvala</string>
+  <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
+  <string name="clean_master_icon_recall_dialog_summary">Dodajte prečac na Poč. zaslon da biste u svakom trenutku očistili smeće.</string>
+  <string name="clean_master_icon_recall_dialog_title">Brže očistite smeće</string>
+  <string name="clean_master_icon_recall_hint">Dodaj prečac na Poč. zaslon</string>
   <string name="clean_master_icon_recall_summary">Dodajte prečac na Poč. zaslon da biste u svakom trenutku očistili smeće.</string>
   <string name="clean_master_icon_recall_title">Brže očistite smeće</string>
   <string name="clean_master_icon_recall_toast_text">Prečac uspješno dodan</string>
@@ -1591,6 +1596,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_game_video_type_manual">Ručno</string>
   <string name="gb_game_video_type_manual_record">Snimi ručno</string>
   <string name="gb_global_settings">Opće postavke</string>
+  <string name="gb_gpu_driver_btn_update">Provjeri ima li ažuriranja</string>
+  <string name="gb_gpu_driver_update">Ažuriranje GPU Drivera</string>
+  <string name="gb_gpu_driver_update_app">Ažuriraj</string>
+  <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je ažurna</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite li trajno izbrisati odabrane videozapise?</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
@@ -1627,7 +1636,7 @@ vašeg igranja"</string>
   <string name="gb_wonderful_video_goto_box">Otvori Game Turbo</string>
   <string name="gb_wonderful_video_header_title">Danas</string>
   <string name="gb_wonderful_video_save_suc">Spremljeno</string>
-  <string name="gdpr_msg">"Da biste koristili osnovne značajke aplikacije Sigurnost, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke o načinima na koje koristite značajke zaštite (npr. Statistiku upotrebe mobilnih podataka, informacije o zlonamjernom softveru) kao i osnovne informacije o vašem uređaju) i ostale vrste podataka navedenih u našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="gdpr_msg">"&lt;Data&gt;"Da bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i pristanite na naše &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih podataka, i dalje ćete moći koristiti ovu aplikaciju, ali neke značajke neće vam biti dostupne. "&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_setting_alert_dialog_content">Možete osloboditi %s</string>
@@ -4282,6 +4291,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vtb_func_frc_title">Zaglađivanje pokreta</string>
   <string name="vtb_func_vpp_desc4">"Ova značajka neće raditi ako je razolucija videozapisa veća od 4K."</string>
   <string name="vtb_func_vpp_title">Poboljšane konture</string>
+  <string name="vtb_function_video_translation">Prijevod u stvarnom vremenu</string>
   <string name="vtb_other_milink_connect">"Nije moguće emitirati videozapise. O emitiranju ostalih stavki…"</string>
   <string name="vtb_stop_milink_connect">Zaustavljeno je emitiranje videozapisa</string>
   <string name="wakepath_confirm_start_activity">Dopustiti %1$s otvaranje %2$s?</string>

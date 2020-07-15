@@ -1120,6 +1120,8 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="fiveg_sa_switch_open_dialog_title">Pažnja</string>
   <string name="fiveg_sa_switch_summary">Dopusti povezivanje s 5G mrežama u samostalnom načinu rada</string>
   <string name="fiveg_sa_switch_title">SA način</string>
+  <string name="fiveg_sa_switch_title_slot0">SIM 1 SA način</string>
+  <string name="fiveg_sa_switch_title_slot1">SIM 2 SA način</string>
   <string name="fiveg_sa_switch_warning_toast">Ponovo pokrenite telefon radi efekta.</string>
   <string name="fiveg_signal_strength1">5G Jačina signala:</string>
   <string name="fiveg_switch_status1">5G status promjene:</string>
