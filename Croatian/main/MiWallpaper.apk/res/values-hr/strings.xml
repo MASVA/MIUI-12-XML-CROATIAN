@@ -41,6 +41,7 @@
   <string name="date_picker_label_month" />
   <string name="date_picker_label_year" />
   <string name="date_picker_lunar">Lunarni Kalendar</string>
+  <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="early_morning">AM</string>
   <string name="earth_id">Zemlja</string>
   <string name="earth_summary">Zemlja je kolijevka ljudske civilizacije</string>
@@ -168,6 +169,7 @@ dd.MM"</string>
   <string name="super_wallpaper_setting_choose_position_btn_text">Odaberite lokaciju</string>
   <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
   <string name="super_wallpaper_setting_view_height_title">Visina</string>
+  <string name="task_already_exist">Ovaj zadatak već postoji</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

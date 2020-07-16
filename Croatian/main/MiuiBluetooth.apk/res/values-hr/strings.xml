@@ -93,6 +93,7 @@
   <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano sa Slušnim aparatima</string>
+  <string name="bluetooth_headset_profile_summary_connected">Povezan sa zvukom telefona</string>
   <string name="bluetooth_hearing_aid_profile_summary_use_for">Upotrijebi za Slušne aparate</string>
   <string name="bluetooth_hearingaid_left_battery_level">Lijeva strana – %1$s baterije</string>
   <string name="bluetooth_hearingaid_left_pairing_message">Uparivanje lijevog slušnog aparata…</string>

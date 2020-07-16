@@ -1266,6 +1266,17 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ivr_type_settings">Postavke plana podataka</string>
   <string name="ivr_type_settings_hint">Unesite kod plana podataka</string>
   <string name="jump_to_mobile_network_setting">Postavke mobilne mreže</string>
+  <string name="kddi_sim_lock_status_allowed">Dopušteno</string>
+  <string name="kddi_sim_lock_status_code">Kod</string>
+  <string name="kddi_sim_lock_status_default_code">-</string>
+  <string name="kddi_sim_lock_status_no_sim">Nema SIM kartice</string>
+  <string name="kddi_sim_lock_status_not_allowed">Nije dopušteno</string>
+  <string name="kddi_sim_lock_status_open_wifi_warning">WLAN connection is needed</string>
+  <string name="kddi_sim_lock_status_status">Status</string>
+  <string name="kddi_sim_lock_status_title">Status SIM kartice</string>
+  <string name="kddi_sim_lock_status_update">Ažuriranje statusa SIM kartice</string>
+  <string name="kddi_sim_lock_status_update_fail">Ne mogu ažurirati</string>
+  <string name="kddi_sim_lock_status_update_success">Uspješno ažurirano</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="keep_wait_call_back">Nastavi s čekanjem</string>
