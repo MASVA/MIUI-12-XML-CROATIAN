@@ -217,9 +217,10 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="information_set">Ostale postavke</string>
   <string name="information_settings_title">Informacije o vremenu</string>
   <string name="install">Instaliraj</string>
+  <string name="international_details_humidity_title">VLAGA</string>
   <string name="international_detail_menu_title">Detalji</string>
   <string name="international_details_pressure_title">TLAK</string>
-  <string name="international_details_real_feel_title">"Detalji "</string>
+  <string name="international_details_real_feel_title">STV. OSJEĆAJ®</string>
   <string name="international_details_title">Detalji</string>
   <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_title">VJETAR</string>
