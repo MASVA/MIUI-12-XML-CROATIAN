@@ -6,8 +6,13 @@
   <string name="all_call_livetalk_remain_mins">Preostalo minuta: %1$s domaći | %2$s međunarodni</string>
   <string name="always">Uvijek</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
+  <string name="application_cannot_open_alipay_payment_code">"Ne mogu otvoriti Alipay kôd plaćanja"</string>
+  <string name="application_cannot_open_alipay_scanner">"Ne mogu otvoriti Alipay skener"</string>
+  <string name="application_cannot_open_weixin_payment_code">"Ne mogu otvoriti WeChat kôd plaćanja"</string>
+  <string name="application_cannot_open_weixin_scanner">"Ne mogu otvoriti WeChat skener"</string>
+  <string name="application_not_install_content">"Čini se da aplikacija koja izvodi ovu radnju nije instalirana na vašem uređaju. Možete instalirati ovu aplikaciju ili dodijeliti drugu radnju ovoj gesti."</string>
   <string name="apply_password_action">U redu</string>
-  <string name="apply_password_confirm_dlg_msg">Upotrijebiti trenutačnu zaporku za zaključavanje zaslona za pristup postavkama za %s​?</string>
+  <string name="apply_password_confirm_dlg_msg">Upotrijebiti trenutačnu zaporku za Zaklj. zaslona za pristup postavkama za %s​?</string>
   <string name="apply_password_confirm_dlg_title">%s zaporka</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogućene, dvaput dodirnite bilo koju tipku da ih ponovno uključite</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>

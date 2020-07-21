@@ -996,6 +996,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="storage_info">%1$s dostupno</string>
   <string name="storage_info_detail">Dostupno: %1$s Ukupno: %2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
+  <string name="storage_maintenance_mode">Pohrana za način održavanja</string>
   <string name="storage_internal_description">Unutarnja pohrana</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_sd_card_description">SD kartica</string>

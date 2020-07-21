@@ -543,6 +543,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="app_floating_window_dlg_disable">"Onemogućavanje postavki plutajućih prozora aplikacije %1$s će zaustaviti aplikaciju."</string>
   <string name="app_floating_window_dlg_enable">"Omogućavanje postavki plutajućih prozora aplikacije %1$s zahtijeva njeno ponovno pokretanje."</string>
   <string name="app_forward_locked">Aplikacija ima zaštitu protiv kopiranja.</string>
+  <string name="app_function">Značajka aplikacije</string>
   <string name="app_info_storage_title">Iskorišteni prostor</string>
   <string name="app_install_details_group_title">Trgovina</string>
   <string name="app_install_details_summary">Aplikacija instalirana iz trgovine %1$s</string>
@@ -2332,7 +2333,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="day_of_week">Dan u tjednu</string>
   <string name="dc_light_dialog_summary">Kad je uključen način rada protiv treperenja, to može utjecati na kvalitetu slike. Svejedno uključiti?</string>
   <string name="dc_light_summary">Primijenite DC prigušivanje kako biste smanjili naprezanje očiju</string>
-  <string name="dc_light_summary_new">DC prigušivanje smanjuje naprezanje očiju u uvjetima slabog osvjetljenja. Međutim, kad je uključen način rada protiv treperenja, to može utjecati na kvalitetu slike.</string>
+  <string name="dc_light_summary_new">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
   <string name="dc_light_title">Način rada protiv treperenja</string>
   <string name="debug_app">Aplikacija za otklanjanje pogrešaka</string>
   <string name="debug_app_not_set">Nema aplikacije za otklanjanje pogrešaka</string>
@@ -3360,6 +3361,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="foreground_traffic">U prvom planu %s</string>
   <string name="forget">Zaboravi</string>
   <string name="forget_passpoint_dialog_message">Možda ćete izgubiti pristup preostalom vremenu ili podacima. Prije uklanjanja provjerite s davateljem usluga.</string>
+  <string name="forget_passpoint_wifi_message">Vaš će se telefon automatski prestati povezivati na ovu mrežu.</string>
   <string name="forget_password_button_text">Zaboravljena zaporka</string>
   <string name="forget_password_dialog_button_text">Natrag</string>
   <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Odaberite &amp;lt;font color=#e6e6e6&amp;gt;[Izbriši podatke]&amp;lt;/font&amp;gt;, i pričekajte dok se uređaj ne ponovo pokrene.&lt;/Data&gt;</string>
@@ -3370,7 +3372,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="forget_pattern">Zaboravili ste zaporku?</string>
   <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
   <string name="forget_privacy_password_summary">Koristite Mi Račun za poništavanje vaše zaporke</string>
-  <string name="forget_wifi_message">Vaš uređaj će prestati s automatskim povezivanjem na ovu mrežu.</string>
+  <string name="forget_wifi_message">Vaš će se telefon prestati automatski povezivati na ovu mrežu.</string>
   <string name="found_new_version">Pronađena je nova verzija</string>
   <string name="fourhours">2 sata</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na Poč. zaslon</string>
@@ -3764,7 +3766,11 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_method_function_no_function">Ništa</string>
   <string name="input_method_function_no_function_des">"Ne prikazuj nikakve prečace"</string>
   <string name="input_method_function_switch">Promjeni tipkovnice</string>
-  <string name="input_method_function_switch_des">Dodirnite za prelazak na drugu tipkovnicu</string>
+  <string name="input_method_function_switch_des">Dodirnite za prebacivanje na drugu tipkovnicu</string>
+  <string name="input_method_function_switch_keyboard_language">Promjeni jezik</string>
+  <string name="input_method_function_switch_keyboard_language_des">Dodirnite za prebacivanje između jezika unosa</string>
+  <string name="input_method_function_switch_keyboard_type">Promjeni tipkovnice</string>
+  <string name="input_method_function_switch_keyboard_type_des">Dodirnite za prebacivanje između različitih tipkovnica</string>
   <string name="input_method_function_voice">Glasovni unos</string>
   <string name="input_method_function_voice_des">Dodirnite za upotrebu glasovnog unosa</string>
   <string name="input_method_function_xiaoai">Mi AI Glasovni unos</string>
@@ -5678,6 +5684,13 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="partial_connectivity_text">Neke aplikacije i usluge možda neće raditi zbog ograničene povezivosti. Želite ostati na toj mreži?</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je pouzdana, sigurna i automatska tehnologija povezivanja WLAN-a, koju je pokrenula WLAN Alliance. Automatski konfigurirajte račune za postizanje neprimjetne veze između WLAN konfigurirane mreže i mobilnih uređaja
+
+Ova funkcija prvi put dobiva vašu WLAN MAC adresu za registraciju računa. Obradit ćemo vaše podatke u skladu s našim %s. Molimo pažljivo pročitajte ovo pravilo i pristanite na nastavak."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Odustani</string>
+  <string name="passpoint_r1_privacy_dialog_title">Pažnja</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">Pravila o privatnosti</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Prihvaćam i nastavi</string>
   <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_and_security">Zaporke &amp; sigurnost</string>

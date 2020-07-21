@@ -2356,7 +2356,9 @@ Vaša SIM kartica bit će izbrisana nakon još jednog neuspjelog pokušaja."</st
   <string name="slot">Utor</string>
   <string name="smart_divert_summary">CFNRc postavke</string>
   <string name="smart_divert_title">Smart-Divert</string>
-  <string name="smart_dual_sim_prompt">Vaš će se uređaj povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice kada je trenutna povezanost loša. To može stvoriti dodatne naknade podataka. Za detalje o svom podatkovnom planu kontaktirajte operatera.</string>
+  <string name="smart_dual_sim_prompt">Vaš će se uređaj povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice kada je trenutna povezanost loša. To može stvoriti dodatne naknade podataka. Postavite ograničenje uporabe podataka da biste izbjegli dodatne troškove.</string>
+  <string name="smart_dual_sim_prompt_ok">Postavke</string>
+  <string name="smart_dual_sim_prompt_title">Upozorenje uporabe podataka (SIM %s)</string>
   <string name="smart_dual_sim_summary">Prebacite se na sekundarnu SIM karticu i automatski koristite njene mobilne podatke kada je trenutna povezanost loša. Kada se povezivanje poboljša, vratite se na izvornu SIM karticu.</string>
   <string name="smart_dual_sim_title">Smart dual SIM</string>
   <string name="smart_forwarding_settings_menu">Pametno prosljeđivanje</string>

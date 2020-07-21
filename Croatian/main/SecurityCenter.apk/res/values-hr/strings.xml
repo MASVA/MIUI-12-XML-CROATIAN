@@ -2028,7 +2028,9 @@ podatkovnu vezu"</string>
   <string name="memory_clean_click_tip">Povećaj brzinu</string>
   <string name="memory_clean_memory_size_tip">Predmemorija</string>
   <string name="memory_clean_no_need_clean">Sve izgleda dobro</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">Oslobođeno %s. Vaš je uređaj sad %d%% brži.</string>
+  <string name="memory_clean_no_need_clean_1" formatted="false">"Oslobođeno %s.
+  
+Vaš je uređaj sad %d%% brži."</string>
   <string name="memory_clean_no_running_process">Nema zadataka za brisanje</string>
   <string name="memory_clean_running_process_title">Praćenje aplikacija (%d)</string>
   <string name="memory_cleaned_memory_info">Dostupna memorija</string>
@@ -3490,9 +3492,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_call_other_group">Ostalo</string>
   <string name="st_call_settings">Lista blokiranih poziva</string>
   <string name="st_call_stranger_group">Blokiraj pozive od stranaca</string>
-  <string name="st_confirm_dialog_btn_open">Otvori</string>
-  <string name="st_confirm_dialog_summary_contact_call">Svi pozivi od kontakata bit će presreteni.</string>
-  <string name="st_confirm_dialog_summary_oversea_call">Uključite kako biste blokirali sve dolazne pozive sa stranih brojeva telefona.</string>
+  <string name="st_confirm_dialog_btn_open">Blokiraj</string>
+  <string name="st_confirm_dialog_summary_contact_call">Svi pozivi od kontakata bit će blokirani.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Svi pozivi s stranih telefonskih brojeva bit će blokirani.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Svi pozivi od stranaca bit će presreteni.</string>
   <string name="st_filter_keywords_setting_summary1">SMS od nepoznatih brojeva koje sadrže ključnu riječ bit će blokirane.</string>
   <string name="st_filter_keywords_setting_summary2">"(Koristite zarez za razdvajanje više ključnih riječi)"</string>
