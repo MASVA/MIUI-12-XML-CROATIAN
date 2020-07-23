@@ -1871,7 +1871,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
   <string name="color_lamp_applications_title">Upravljanje obavijestima</string>
-  <string name="color_lamp_applications_title_summary">Možete ograničiti upotrebu LED svjetla za pojedinačne aplikacijestring>
+  <string name="color_lamp_applications_title_summary">Možete ograničiti upotrebu LED svjetla za pojedinačne aplikacije</string>
   <string name="color_lamp_battery_title">Neka bude uključeno tijekom punjenja</string>
   <string name="color_lamp_charging_summary">LED svjetlo će se ugasiti kada je vaš uređaj potpuno napunjen</string>
   <string name="color_lamp_incall_pulse_title">Svijetli za dolazne pozive</string>
@@ -5706,13 +5706,13 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="partial_connectivity_text">Neke aplikacije i usluge možda neće raditi zbog ograničene povezivosti. Želite ostati na toj mreži?</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
-  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je pouzdana, sigurna i automatska tehnologija povezivanja WLAN-a, koju je pokrenula WLAN Alliance. Automatski konfigurirajte račune za postizanje neprimjetne veze između WLAN konfigurirane mreže i mobilnih uređaja
+  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je pouzdana i sigurna tehnologija bežične veze koju je pokrenula WLAN Alliance. Automatski konfigurira račune kako bi ostvario neprimjetnu vezu između WLAN mreža i mobilnih uređaja.
 
-Ova funkcija prvi put dobiva vašu WLAN MAC adresu za registraciju računa. Obradit ćemo vaše podatke u skladu s našim %s. Molimo pažljivo pročitajte ovo pravilo i pristanite na nastavak."</string>
+Ova značajka dobiva vašu WLAN MAC adresu samo za početnu registraciju računa. Obradit ćemo vaše podatke u skladu s našima %s. Pročitajte i prihvatite naša Pravila o privatnosti prije upotrebe ove značajke."</string>
   <string name="passpoint_r1_privacy_dialog_no">Odustani</string>
   <string name="passpoint_r1_privacy_dialog_title">Pažnja</string>
   <string name="passpoint_r1_privacy_dialog_url_text">Pravila o privatnosti</string>
-  <string name="passpoint_r1_privacy_dialog_yes">Prihvaćam i nastavi</string>
+  <string name="passpoint_r1_privacy_dialog_yes">Prihvaćam</string>
   <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_and_security">Zaporke &amp; sigurnost</string>

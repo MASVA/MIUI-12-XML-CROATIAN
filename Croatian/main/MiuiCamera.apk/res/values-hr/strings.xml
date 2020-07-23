@@ -328,7 +328,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="custom_tint_color_select">Prilagodite boje</string>
   <string name="custom_watermark_contains_senstive_words">"Oznaka ne može sadržavati ograničene pojmove (%1$s)"</string>
   <string name="custom_watermark_tips">Ovaj će se tekst pojaviti kao drugi redak vaše oznake. Može sadržavati do 18 slova ili 14 kineskih znakova.</string>
-  <string name="custom_watermark_tips_gen2">Do %d kineskih znakova ili %d slova.</string>
+  <string name="custom_watermark_tips_gen2" formatted="false">Do %d kineskih znakova ili %d slova.</string>
   <string name="custom_watermark_too_many_words">Uneseni tekst je predugačak</string>
   <string name="custom_watermark_words">Vlastita oznaka</string>
   <string name="custom_watermark_words_input_hint">Unesite tekst</string>
