@@ -137,6 +137,7 @@ i prilagodite postavke automatski"</string>
   <string name="ambilight_intro_crowd_moving_part2">Također možete fotografirati gužvu u prometu i masu ljudi u pokretu. Duža ekspozicija održati će zgrade svježima, ali svi će se pomični predmeti zamutiti.</string>
   <string name="ambilight_intro_light_track">Upotrijebite izvor svjetla da \"prebojite\" tamni prizor kako biste sve osvijetljene komade spojili u jednu sliku.</string>
   <string name="ambilight_intro_magic_star">Upotrijebite ovaj način na mjestima sa slabom zagađenošću. Ekspozicija će biti postavljena na %d sekundi, tako da je korištenje stativa sjajna ideja.</string>
+  <string name="ambilight_intro_magic_star_ae">Upotrijebite ovaj način na mjestima sa slabom zagađenošću. Ekspozicija će biti postavljena na %d sekundi, tako da je korištenje stativa sjajna ideja.</string>
   <string name="ambilight_intro_silky_water_part1">Upotrijebite ovaj način snimanja pokretnih oblaka. Dati će nebu efekt \"ulja na platnu\".</string>
   <string name="ambilight_intro_silky_water_part2">Ovaj način čini da voda koja se kreće (rijeke, slapovi i jezera) izgleda kao svila.</string>
   <string name="ambilight_intro_star_track">"Snimanje zvjezdanog neba duže vrijeme može uhvatiti putanje zvijezda. Ne zaboravite koristiti stativ i neprekidno snimati najmanje %d minuta."</string>
@@ -327,7 +328,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="custom_tint_color_select">Prilagodite boje</string>
   <string name="custom_watermark_contains_senstive_words">"Oznaka ne može sadržavati ograničene pojmove (%1$s)"</string>
   <string name="custom_watermark_tips">Ovaj će se tekst pojaviti kao drugi redak vaše oznake. Može sadržavati do 18 slova ili 14 kineskih znakova.</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">Do %d kineskih znakova ili %d slova.</string>
+  <string name="custom_watermark_tips_gen2">Do %d kineskih znakova ili %d slova.</string>
   <string name="custom_watermark_too_many_words">Uneseni tekst je predugačak</string>
   <string name="custom_watermark_words">Vlastita oznaka</string>
   <string name="custom_watermark_words_input_hint">Unesite tekst</string>
@@ -512,11 +513,19 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="lens_dirty_detected_content">""Izgleda da je leća vaše kamere prljava. Očistite je radi boljeg učinka."</string>
   <string name="lens_dirty_detected_title_back">Leća stražnje kamere je prljava</string>
   <string name="lens_dirty_detected_title_front">Leća prednje kamere je prljava</string>
+  <string name="lighting_bright_red">Scarlet</string>
+  <string name="lighting_dazzling">Beams</string>
+  <string name="lighting_dreamland">Dreamland</string>
+  <string name="lighting_gorgeous">Motley</string>
   <string name="lighting_hint_needed">Postavite svoj objekt u kadar</string>
   <string name="lighting_hint_title">Studio osvjetljenje</string>
   <string name="lighting_hint_too_close">Udaljite kameru</string>
   <string name="lighting_hint_too_far">Približite kameru</string>
   <string name="lighting_hint_usage">"Efekte studio osvjetljenja možete koristiti u\n Portretnom načinu rada"</string>
+  <string name="lighting_lanshan">Decadence</string>
+  <string name="lighting_movie_light_effect_title">Filmski efekti</string>
+  <string name="lighting_neon">Neon</string>
+  <string name="lighting_nostalgia">Nostalgija</string>
   <string name="lighting_pattern_dot">Točke</string>
   <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Lišće</string>
@@ -526,6 +535,8 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="lighting_pattern_rainbow">Duga</string>
   <string name="lighting_pattern_shutter">Zavjese</string>
   <string name="lighting_pattern_stage">Pozornica</string>
+  <string name="lighting_phantom">Phantom</string>
+  <string name="lighting_rainbow">Rainbow</string>
   <string name="live_edit_exit_confirm">Zaustavi</string>
   <string name="live_edit_exit_message">Zaustaviti snimanje?</string>
   <string name="live_edit_share_title">Podijeli</string>
@@ -826,6 +837,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_advanced_functions">Napredne postavke</string>
   <string name="pref_advanced_settings">Napredno</string>
   <string name="pref_ai_detect">AI detekcija</string>
+  <string name="pref_audio_denoise_title">Smanjenje smetnji u zvuku</string>
   <string name="pref_audio_focus_entry_front">Prednji</string>
   <string name="pref_audio_focus_entry_general">Normalno</string>
   <string name="pref_audio_focus_entry_rear">Stražnji</string>
@@ -1435,6 +1447,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
+  <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD je isklj.</string>
+  <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
   <string name="ultra_pixel_108mp">108MP</string>
   <string name="ultra_pixel_32mp">32MP</string>
   <string name="ultra_pixel_48mp">48MP</string>

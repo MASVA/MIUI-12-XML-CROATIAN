@@ -76,18 +76,18 @@
   <string name="bluetooth_battery_level">%1$s baterije</string>
   <string name="bluetooth_battery_level_untethered">L: baterija na %1$s, D: baterija na %2$s</string>
   <string name="bluetooth_connected">Upareno</string>
-  <string name="bluetooth_connected_battery_level">Povezano | baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Povezano (bez medija)%1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija) | Baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_battery_level">Povezano | Baterija %1$s %2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Povezano (bez medija )%1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (bez medija) | Baterija %1$s %2$s</string>
   <string name="bluetooth_connected_no_headset">Povezano (bez telefona)%1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona) | Baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona ili medija)%1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona ili medija) | Battery %1$s%2$s</string>
-  <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama)%1$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Povezano (bez telefona) | Baterija %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (bez telefona ili medija) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (bez telefona ili medija) | Baterija %1$s %2$s</string>
+  <string name="bluetooth_connected_no_map">Povezano (bez pristupa porukama) %1$s</string>
   <string name="bluetooth_connecting">Uparivanje…</string>
   <string name="bluetooth_device_context_unpair">Raspari</string>
   <string name="bluetooth_disable_absolute_volume">Onemogući apsolutnu glasnoću</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogućuje Bluetoothovu značajku apsolutne glasnoće ako udaljeni uređaji imaju poteškoća sa zvukom, kao što su neprihvatljiva glasnoća ili nepostojanje kontrole.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogućite apsolutnu glasnoću za Bluetooth u slučaju problema s glasnoćom na udaljenim uređajima, poput neprihvatljivo glasne glasnoće ili nemogućnosti upravljanja.</string>
   <string name="bluetooth_disconnected">Nije upareno</string>
   <string name="bluetooth_disconnecting">Prekid veze…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN Poslužitelj</string>
@@ -186,13 +186,13 @@ Audio"</string>
   <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="content_description_menu_button">Izbornik</string>
-  <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
- Upozorenje! Time će se izbrisati svi vaši podaci.
- Značajka je u alfa verziji i možda neće funkcionirati pravilno.
- Pritisnite \"Izbriši i pretvori…\" da biste nastavili."</string>
+  <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju na temelju datoteka.
+ Upozorenje: Time ćete izbrisati sve svoje podatke.
+ Ova se značajka razvija i možda neće raditi ispravno.
+ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
-  <string name="convert_to_file_encryption_done">Datoteke su već šifrirane</string>
-  <string name="convert_to_file_encryption_enabled">Pretvori…</string>
+  <string name="convert_to_file_encryption_done">Datoteke su šifrirane</string>
+  <string name="convert_to_file_encryption_enabled">Pretvaranje…</string>
   <string name="copy">Kopiraj</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
@@ -220,14 +220,14 @@ Audio"</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
   <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
-  <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
+  <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu učiniti neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
-  <string name="development_settings_enable">Omogući opcije za razvojne programere</string>
+  <string name="development_settings_enable">Dopusti opcije za razvojne programere</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
   <string name="device_picker">Postavke Bluetooth uređaja</string>
-  <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
+  <string name="direct_boot_unaware_dialog_message">"Napomena: Nakon ponovnog pokretanja, ova se aplikacija neće pokrenuti sve dok ne otključate svoj uređaj."</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disabled">Onemogućeno</string>
@@ -247,7 +247,7 @@ Audio"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="external_source_trusted">Dopušteno</string>
   <string name="external_source_untrusted">Nije dopušteno</string>
-  <string name="failed_to_open_app_settings_toast">Otvaranje postavki za aplikaciju %1$s nije uspjelo</string>
+  <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
   <string name="fast_connect_device_battery">Baterija</string>
   <string name="fast_connect_device_box">Box</string>
   <string name="fast_connect_device_box_name">%1$s Box</string>
@@ -294,17 +294,17 @@ Audio"</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
   <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
   <string name="install_package">Instaliraj %1$s za više funkcija</string>
-  <string name="keep_screen_on">Ne pokreći mirovanje</string>
-  <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
+  <string name="keep_screen_on">"Ne zaključavaj zaslon"</string>
+  <string name="keep_screen_on_summary">Zaslon se neće zaključati tijekom punjenja</string>
   <string name="launch_defaults_none">Nema zadanih postavki</string>
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
-  <string name="loading_injected_setting_summary">Učitavanje…</string>
-  <string name="local_backup_password_summary_change">Dodirnite da biste promijenili ili uklonili zaporku za potpune sigurnosne kopije na računalu</string>
-  <string name="local_backup_password_summary_none">Potpune sigurnosne kopije na stolnom računalu trenutačno nisu zaštićene</string>
-  <string name="local_backup_password_title">Zaporka sigurnosne kopije</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Nova zaporka i potvrda ne odgovaraju</string>
-  <string name="local_backup_password_toast_success">Nova zaporka za sigurnosnu kopiju postavljena</string>
-  <string name="local_backup_password_toast_validation_failure">Nije uspjelo postavljanje zaporke za sigurnosnu kopiju</string>
+  <string name="loading_injected_setting_summary">Samo trenutak…</string>
+  <string name="local_backup_password_summary_change">Dodirnite da biste promijenili ili uklonili zaporku za Sig. kopije Poč. zaslona</string>
+  <string name="local_backup_password_summary_none">Sig. kopije Poč. zaslona trenutačno nisu zaštićene</string>
+  <string name="local_backup_password_title">Zaporka Sig. kopije Poč. zaslona</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">"Zaporke se ne podudaraju"</string>
+  <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
+  <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="media_category">Mediji</string>
   <string name="media_transfer_this_device_name">Ovaj uređaj</string>
@@ -350,8 +350,8 @@ Audio"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Ništa</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Osvježavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nije uspjelo</string>
-  <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
-  <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je WLAN aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
+  <string name="mobile_data_always_on">Uvijek drži mobilne podatke uključenim</string>
+  <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu uključeni, čak i kada je WLAN uključen (za brzo prebacivanje s jedne na drugu mrežu).</string>
   <string name="mock_location_app">Odabir aplikacije za lažnu lokaciju</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
@@ -379,7 +379,7 @@ Audio"</string>
   <string name="mr_dialog_transferable_header">Reprodukcija u grupi</string>
   <string name="mr_system_route_name">Sustav</string>
   <string name="mr_user_route_category_name">Uređaji</string>
-  <string name="no_application">Ništa</string>
+  <string name="no_application">Nijedna</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notify_device_lose_connection_text">Dodirnite za prekid veze s %1$s.</string>
   <string name="notify_device_lose_connection_title">Izgubljena je veza s %1$s</string>
@@ -413,8 +413,8 @@ Audio"</string>
   <string name="power_remaining_duration_only">Još približno %1$s</string>
   <string name="power_remaining_duration_only_enhanced">Još otprilike %1$s na temelju vaše upotrebe</string>
   <string name="power_remaining_duration_only_short">Još %1$s</string>
-  <string name="power_remaining_duration_only_shutdown_imminent">Telefon bi se uskoro mogao isključiti</string>
-  <string name="power_remaining_duration_shutdown_imminent">Telefon bi se uskoro mogao isključiti (%1$s)</string>
+  <string name="power_remaining_duration_only_shutdown_imminent">Vaš bi se uređaj uskoro mogao isključiti</string>
+  <string name="power_remaining_duration_shutdown_imminent">Vaš bi se uređaj uskoro mogao isključiti (%1$s)</string>
   <string name="power_remaining_less_than_duration">Preostalo je manje od %1$s (%2$s)</string>
   <string name="power_remaining_less_than_duration_only">Preostalo je manje od %1$s</string>
   <string name="power_remaining_more_than_subtext">Preostalo je više od %1$s (%2$s)</string>
@@ -459,7 +459,7 @@ Audio"</string>
   <string name="select_webview_provider_title">Implementacija WebViewa</string>
   <string name="select_webview_provider_toast_text">Taj izbor više nije važeći. Pokušajte ponovo.</string>
   <string name="show_all_anrs">Prikaži sve ANR-ove</string>
-  <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
+  <string name="show_all_anrs_summary">Prikaži \"Aplikacija ne odgovara\" za pozadinske aplikacije</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora.</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
@@ -483,7 +483,7 @@ Audio"</string>
   <string name="speed_label_very_slow">Vrlo sporo</string>
   <string name="standby_bucket_summary">"Stanje aplikacije u mirovanju:  %s"</string>
   <string name="status_unavailable">Nije dostupno</string>
-  <string name="strict_mode">Omogućen strogi način</string>
+  <string name="strict_mode">Strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="summary_empty"/>
   <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
@@ -496,7 +496,7 @@ Audio"</string>
   <string name="tethering_hardware_offload_summary">Upotreba hardverskog ubrzanja za modemsko povezivanje ako je dostupno</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
   <string name="time_unit_just_now">Upravo sad</string>
-  <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
+  <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka…</string>
   <string name="track_frame_time">Profil HWUI generiranja</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
   <string name="tts_default_lang_summary">Postavlja jezik govora</string>
@@ -508,11 +508,11 @@ Audio"</string>
   <string name="tts_default_sample_string">Ovo je primjer sinteze govora</string>
   <string name="tts_engine_network_required">Da bi se dobili izlazni podaci pretvaranja teksta u govor za taj jezik, potrebna je aktivna veza s mrežom.</string>
   <string name="tts_engine_preference_section_title">Željeni alat</string>
-  <string name="tts_engine_security_warning">Alat za sintezu govora može prikupljati izgovoreni sadržaj, uključujući osobne podatke kao što su zaporke i brojevi kreditnih kartica. To omogućuje alat %s. Želite li omogućiti alat za sintezu govora?</string>
+  <string name="tts_engine_security_warning">Ovaj alat za govor možda će moći snimati i prikupljati sve što kažete, uključujući osobne podatke poput zaporki i brojeva kreditne kartice. Ovaj alat za govor pruža %s. Uključiti alat za govor?</string>
   <string name="tts_engine_settings_button">Postavke pokretanja alata</string>
   <string name="tts_engine_settings_title">Postavke za %s</string>
   <string name="tts_general_section_title">Opće</string>
-  <string name="tts_install_data_summary">Instaliraj glasovne podatke potrebne za sintezu govora</string>
+  <string name="tts_install_data_summary">Instaliraj glasovne podatke potrebne za alat za govor</string>
   <string name="tts_install_data_title">Instaliraj glasovne podatke</string>
   <string name="tts_lang_not_selected">Jezik nije odabran</string>
   <string name="tts_lang_use_system">upotrijebi jezik sustava</string>
@@ -562,9 +562,9 @@ Audio"</string>
   <string name="wapi_password_is_empty">"Zaporka ne može biti prazna"</string>
   <string name="wapi_password_is_not_hex_format">Nevažeći heksadecimalni znakovi</string>
   <string name="wapi_password_length_invalid">Zaporka mora biti: 8-64 znaka</string>
-  <string name="wapi_password_length_is_max">Zaporka ne smije premašiti 64 znakova</string>
+  <string name="wapi_password_length_is_max">Zaporka ne smije premašiti 64 znaka</string>
   <string name="wapi_password_length_is_min">Zaporka mora imati najmanje 8 znakova</string>
-  <string name="wapi_password_length_is_min_to_max">Zaporka mora sadržavati 8-64 znaka</string>
+  <string name="wapi_password_length_is_min_to_max">Zaporka mora biti dugačka od 8 do 64 znaka</string>
   <string name="wapi_psk_type">Vrsta zaporke</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Hexadecimal</string>
@@ -581,9 +581,9 @@ Audio"</string>
   <string name="wifi_coverage_extend_summary">Omogući značajku proširenja pokrivenosti WLAN mreže koristeći Hotspot</string>
   <string name="wifi_disabled_by_recommendation_provider">Niste povezani jer je mreža loše kvalitete</string>
   <string name="wifi_disabled_generic">Onemogućeno</string>
-  <string name="wifi_disabled_network_failure">Konfiguracija IP-a nije uspjela</string>
+  <string name="wifi_disabled_network_failure">"Ne mogu konfigurirati IP"</string>
   <string name="wifi_disabled_password_failure">Problem u autentifikaciji</string>
-  <string name="wifi_disabled_wifi_failure">Povezivanje s WLAN-om nije uspjelo</string>
+  <string name="wifi_disabled_wifi_failure">"Ne mogu se povezati s WLAN-om"</string>
   <string name="wifi_disconnected">Nije povezano</string>
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>

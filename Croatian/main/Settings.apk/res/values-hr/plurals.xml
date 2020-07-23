@@ -145,8 +145,8 @@
          <item quantity="one">%d uređaj</item>
      </plurals>
 	<plurals name="show_pho_countdown">
-        <item quantity="other">"Još %1$d koraka od ulaska u informacije o telefonu."</item>
-        <item quantity="one">"Još %1$d korak do ulaska u informacije o telefonu."</item>
+        <item quantity="other">"Još %1$d koraka do otvaranja podataka o uređaju."</item>
+        <item quantity="one">"Još %1$d korak do otvaranja podataka o uređaju."</item>
      </plurals>
 	 <plurals name="show_cit_countdown">
         <item quantity="other">Još %1$d koraka od ulaska u cit.</item>
@@ -206,11 +206,11 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Uvijek onemogući za ovoliko %d aplikacija</item>
-        <item quantity="one">Uvijek onemogući za 1 aplikaciju</item>
+        <item quantity="one">Uvijek onemogući za %d aplikaciju</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">Nikad ne omogućuj za ovoliko %d aplikacija</item>
-        <item quantity="one">Nikad ne omogućuj za 1 aplikaciju</item>
+        <item quantity="one">Nikad ne omogućuj za %d aplikaciju</item>
     </plurals>
 	<plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
         <item quantity="other">Izrazito kratka odgoda (%1$d ms)</item>
@@ -270,6 +270,10 @@
         <item quantity="other">%d zadataka ispisa</item>
         <item quantity="one">%d zadatak ispisa</item>
      </plurals>
+	 <plurals name="priority_conversation_count">
+        <item quantity="other">%d prioritetnih razgovora</item>
+        <item quantity="one">%d prioritetni razgovor</item>
+    </plurals>
 	  <plurals name="restricted_app_summary">
         <item quantity="other">Ograničavanje korištenje baterije za aplikacije: %1$d</item>
         <item quantity="one">Ograničavanje korištenje baterije za %1$d aplikaciju</item>
@@ -532,6 +536,10 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="one">%s sekunda</item>
         <item quantity="few">%s sekunde</item>
      </plurals>
+	 <plurals name="see_all_apps_title">
+        <item quantity="other">Pogledajte svih %1$d aplikacija</item>
+        <item quantity="one">Pogledaj sve aplikacije</item>
+    </plurals>
      <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">Prikaži %d skrivenih stavki</item>
         <item quantity="one">Prikaži %d skrivenu stavku</item>

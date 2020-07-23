@@ -136,9 +136,9 @@
     </string-array>
 	    <string-array name="bt_hci_snoop_log_entries">
         <item>Onemogućeno</item>
-        <item>Omogućeno filtrirano</item>
-        <item>Omogućena filtrirana zaglavlja</item>
-        <item>Omogućeno filtrirani paketi medija</item>
+        <item>Filtrirano</item>
+        <item>Zaglavlja filtrirana</item>
+        <item>Paketi medija filtrirani</item>
         <item>Omogućeno</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -1311,14 +1311,14 @@
         <item>Stereo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
-        <item>Optimizirano za kvalitetu audioreprodukcije</item>
-        <item>Uravnotežena kvaliteta audioreprodukcije i veze</item>
+        <item>Optimizirano za kvalitetu zvuka</item>
+        <item>Uravnotežena kvaliteta zvuka i veze</item>
         <item>Optimizirano za kvalitetu veze</item>
         <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimizirano za kvalitetu audioreprodukcije (990 kbps/909 kbps)</item>
-        <item>Uravnotežena kvaliteta audioreprodukcije i veze (660 kbps/606 kbps)</item>
+        <item>Optimizirano za kvalitetu zvuka (990 kbps/909 kbps)</item>
+        <item>Uravnotežena kvaliteta zvuka i veze (660 kbps/606 kbps)</item>
         <item>Optimizirano za kvalitetu veze (330 kbps/303 kbps)</item>
         <item>Najbolji rezultat (prilagodljiva brzina prijenosa)</item>
     </string-array>
