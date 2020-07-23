@@ -1871,7 +1871,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
   <string name="color_lamp_applications_title">Upravljanje obavijestima</string>
-  <string name="color_lamp_applications_title_summary">Možete ograničiti upotrebu LED svjetla za pojedinačne aplikacijestring>
+  <string name="color_lamp_applications_title_summary">Možete ograničiti upotrebu LED svjetla za pojedinačne aplikacije</string>
   <string name="color_lamp_battery_title">Neka bude uključeno tijekom punjenja</string>
   <string name="color_lamp_charging_summary">LED svjetlo će se ugasiti kada je vaš uređaj potpuno napunjen</string>
   <string name="color_lamp_incall_pulse_title">Svijetli za dolazne pozive</string>
