@@ -179,7 +179,7 @@
   <string name="noon">PM</string>
   <string name="not_sent_recently">Nedavno</string>
   <string name="not_set">Nije postavljeno</string>
-  <string name="notch_and_status_bar_setting">Urez &amp; traka statusa</string>
+  <string name="notch_and_status_bar_setting">Centar za kontrolu &amp; traka statusa</string>
   <string name="notification_aggregate_description1">MIUI može automatski grupirati push i promotivne obavijesti, čineći vaš Panel obavijesti manje skučenim.</string>
   <string name="notification_aggregate_description2">"Naši algoritmi analiziraju sadržaj obavijesti i ne primjenjuju ovu značajku na važna upozorenja i obavijesti iz trenutačnih poruka. Ako ustanovite da su važne obavijesti grupirane pogreškom, prijavite problem s kojim ste se susreli pomoću naše značajke \"Povratna inf.\"."</string>
   <string name="notification_aggregate_summary">Dopustite MIUI da automatski grupira obavijesti</string>

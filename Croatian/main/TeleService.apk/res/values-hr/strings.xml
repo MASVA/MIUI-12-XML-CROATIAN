@@ -1772,7 +1772,7 @@ Kontaktirajte vašeg operatera."</string>
   <string name="onscreenShowDialpadText">Površina za biranje brojeva</string>
   <string name="onscreenSwapCallsText">Zamijeni</string>
   <string name="onscreenVideoCallText">Videopoziv</string>
-  <string name="open_miui">Otvori</string>
+  <string name="open_miui">Uključi</string>
   <string name="opened_dual_4g_confirm_prompt">Izgleda da imate samo 4G SIM karticu. Dvostruki 4G je uključen automatski.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">Samo SIM %1$s podržava 4G. Da biste bili sigurni da vaša SIM kartica radi normalno, dvostruki 4G je uključen.</string>
   <string name="operation_successfully">Radnja je uspjela!</string>

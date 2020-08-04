@@ -274,6 +274,7 @@
   <string name="download_link_completed">Podijelio sam %1$s koristeći KuaiPan. Dodirni na vezu ispod za pregled: </string>
   <string name="downloaded_sticker_str">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
+  <string name="drag_not_support_with_dir">"Ne mogu se preurediti ili poslati mape"</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
@@ -485,6 +486,8 @@
   <string name="menu_item_sort_size">Po veličini</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_new_display_open">Otvori u novom prozoru</string>
+  <string name="menu_pc_open">Otvorite s računalnim programom</string>
   <string name="menu_list_name">Izbornik</string>
   <string name="menu_set_wallpaper">Postavi za sliku pozadine</string>
   <string name="message_comment_prefix">"Komentar: "</string>
@@ -846,6 +849,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="rlv_refreshing">Osvježavanje…</string>
   <string name="rlv_release_to_close">Otpusti za zatvoriti</string>
   <string name="rlv_release_to_refresh">Otpusti za osvježiti</string>
+  <string name="save_file_to_mishare">"Spremljeno u mapu Mi Share"</string>
   <string name="save">Spremi</string>
   <string name="save_desc_success">Uspješno promjenjeno​</string>
   <string name="save_failed">"Ne mogu spremiti, pokušajte ponovno"</string>

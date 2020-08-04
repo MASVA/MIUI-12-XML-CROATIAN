@@ -31,7 +31,7 @@
   <string name="advanced_mode">Napredne postavke</string>
   <string name="anti_flicker_mode">Način protiv treperenja</string>
   <string name="anti_flicker_mode_categroy">Načini</string>
-  <string name="anti_flicker_mode_summary">Smanjite treperenje u uvjetima slabog osvjetljenja da biste smanjili naprezanje očiju. Neki se elementi možda ne prikazuju ispravno.</string>
+  <string name="anti_flicker_mode_summary">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
   <string name="anti_flicker_title">Način protiv treperenja</string>
   <string name="app_name">Postavke</string>
   <string name="application_sound">Obavijesti aplikacije</string>
@@ -53,6 +53,10 @@
   <string name="created">Izrađeno</string>
   <string name="created_successfully">Uspješno izrađeno</string>
   <string name="cu_confirm">Postavi</string>
+  <string name="dc_light_hint_enable_title">Pažnja</string>
+  <string name="dc_light_hint_normal">DC zatamnjenje može utjecati na način prikazivanja pojedinih stavki.</string>
+  <string name="dc_light_hint_other">DC zatamnjenje može utjecati na brzinu osvježavanja i način prikazivanja pojedinih stavki.</string>
+  <string name="dc_lignt_enable_hint">Način rada protiv treperenja postaviće brzinu osvježavanja zaslona na 60 Hz. Promjeniti na način rada protiv treperenja?</string>
   <string name="display_description">Veće ikone, veliki tekst, manji vizualni neredi</string>
   <string name="display_title">Veće stavke</string>
   <string name="eras_ad">AD</string>

@@ -1221,10 +1221,9 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="nav_close_index_tab">Izbriši stavku %d</string>
   <string name="nav_screen_container_tab_incognito">Anonimna kartica</string>
   <string name="nav_screen_container_tab_normal">Redovna kartica</string>
-  <string name="nav_screen_incognito_message">"Vaša povijest pretraživanja i pretraživanja neće biti spremljena u anonimnom načinu rada.
- Imajte na umu da će datoteke koje ste preuzeli i oznake koje dodate biti spremljene."</string>
+  <string name="nav_screen_incognito_message">"Sada možete pregledavati privatno. Vaša povijest pregledavanja, zahtjevi za pretraživanje i preuzimanja neće se bilježiti. Nećemo također spremiti podatke web mjesta."</string>
   <string name="nav_screen_incognito_time">Nakon %s sek. će se automatski stvoriti nova stranica</string>
-  <string name="nav_screen_incognito_title">Anoniman način</string>
+  <string name="nav_screen_incognito_title">Prešli ste na anonimni način</string>
   <string name="nav_screen_tab_incognito_enter">Uđi u anonimnu karticu</string>
   <string name="nav_screen_tab_incognito_exit">Napusti anonimnu karticu</string>
   <string name="navigate_feedback_dislike">Ne zanima me</string>
@@ -1689,6 +1688,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title_bar_loading">Učitavanje…</string>
   <string name="title_notice_push">Obavijest podsjetnika</string>
+  <string name="toast_feedback">"Vidjet ćete manje stavki ove vrste."</string>
+  <string name="toast_not_support">"Ova značajka još nije podržana"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="too_many_windows_dialog_message">"Preglednik ne može otvoriti novu karticu dok ne zatvorite drugu karticu"</string>

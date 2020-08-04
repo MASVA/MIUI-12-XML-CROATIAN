@@ -17,7 +17,7 @@
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogućene, dvaput dodirnite bilo koju tipku da ih ponovno uključite</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>
   <string name="auto_disable_screenbuttons_float_text">Dodirnite da onemogućite Navigacijske tipke</string>
-  <string name="auto_disable_screenbuttons_prompts_message">Dvaput dodirnite bilo koju tipku da uključite Navigacijske tipke u bilo koje vrijeme.</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Dvaput dodirnite bilo koju tipku da uključite Navigacijske tipke bilo kada.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="auto_disable_screenbuttons_prompts_ok">U redu</string>
   <string name="auto_disable_screenbuttons_prompts_title">Onemogućiti Navigacijske tipke?</string>
@@ -28,13 +28,15 @@
   <string name="autofill">Autom. popuni</string>
   <string name="autofill_save_message">Dopustiti da MIUI spremi vaše račune i zaporke?</string>
   <string name="autofill_save_ok">Dopusti</string>
-  <string name="autofill_save_sub_message">"Moći ćete upravljati spremljenim zaporkama Postavke &gt; Zaporke &amp; Sigurnost &gt; %s."</string>
+  <string name="autofill_save_sub_message">"Možete pregledavati i upravljati svojim zaporkama u Postavke &gt; Zaporke &amp; Sigurnost &gt; %s."</string>
   <string name="autofill_save_title">Spremi zaporke automatski</string>
   <string name="autofill_service_name">Upravljanje zaporkama</string>
+  <string name="bluetooth_close">Ova je aplikacija isključila Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s je isključio Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth je isključen</string>
   <string name="bluetooth_enable_notification_content">%s je uključio Bluetooth</string>
   <string name="bluetooth_enable_notification_title">Bluetooth je uključen</string>
+  <string name="bluetooth_open">Ova je aplikacija uključila Bluetooth</string>
   <string name="btn_cancel">Odustani</string>
   <string name="btn_sure">U redu</string>
   <string name="button_text_cancel">Odustani</string>
@@ -73,7 +75,7 @@
   <string name="enable_livetalk_summary">Uštedite 70% na vašim pozivima</string>
   <string name="enable_livetalk_title">Uključi paket nadoplate</string>
   <string name="enable_midrop">Uključi</string>
-  <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovo izvješće može sadržavati osobne podatke. Vaše će se izvješće koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
+  <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovaj izvještaj može sadržavati osobne podatke. Vaš će se izvještaj koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
   <string name="fc_dialog_jump_to_preview">Prikaži izvještaj</string>
   <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
   <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>

@@ -24,4 +24,12 @@
         <item quantity="other">Istovremeno možete stvoriti do %d klonova.</item>
         <item quantity="one">Istovremeno možete stvoriti do %d klona.</item>
      </plurals>
+	 <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografija u uzastopnom snimanju</item>
+        <item quantity="one">%d fotografija u uzastopnom snimanju</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d sekundi</item>
+        <item quantity="one">Interval: %d sekunda</item>
+    </plurals>
 </resources>

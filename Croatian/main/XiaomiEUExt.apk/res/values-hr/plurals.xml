@@ -6,7 +6,7 @@
     </plurals>
     <plurals name="search_apps">
         <item quantity="other">Traži među %d aplikacija</item>
-        <item quantity="one">Traži među %d aplikacije</item>
+        <item quantity="one">Traži među %d aplikacijom</item>
     </plurals>
     <plurals name="selected_apps">
         <item quantity="other">Odabrano %d aplikacija</item>

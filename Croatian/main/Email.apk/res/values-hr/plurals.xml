@@ -33,12 +33,8 @@
         <item quantity="one">Odbaciti skice iz tog razgovora?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">Odabrano: %d</item>
-		<item quantity="zero">Odabrano: %d</item>
-        <item quantity="one">1 odabran</item>
-	    <item quantity="two">Odabrano: %d</item>
-        <item quantity="few">Odabrano: %d</item>
-        <item quantity="many">Odabrano: %d</item>
+      <item quantity="other">Dodano %d kontakata</item>
+	  <item quantity="one">Dodan %d kontakt</item>
     </plurals>
     <plurals name="conversation_archived">
        <item quantity="other">Arhivirano: %1$d.</item>
@@ -203,6 +199,46 @@
     <plurals name="new_messages">
         <item quantity="other">%1$d novih poruka</item>
         <item quantity="one">%1$d nova poruka</item>
+    </plurals>
+	    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d dana kasnije</item>
+        <item quantity="one">%1$d dan kasnije</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">prije %1$d dana</item>
+        <item quantity="one">prije %1$d dan</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d sati kasnije</item>
+        <item quantity="one">%1$d sat kasnije</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">prije %1$d sati</item>
+        <item quantity="one">prije %1$d sat</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d min. kasnije</item>
+        <item quantity="one">%1$d minutu kasnije</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">prije %1$d min.</item>
+        <item quantity="one">prije %1$d minute</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d sek. kasnije</item>
+        <item quantity="one">%1$d sekundu kasnije</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">prije %1$d sek.</item>
+        <item quantity="one">prije %1$d sekunde</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d tjedana kasnije</item>
+        <item quantity="one">%1$d tjedan kasnije</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">prije %1$d tjedana</item>
+        <item quantity="one">prije %1$d tjedan</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">Odgovori osobama: %1$d</item>

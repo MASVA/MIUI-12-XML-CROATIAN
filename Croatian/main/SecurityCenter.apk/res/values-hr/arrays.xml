@@ -27,7 +27,7 @@
         <item>Pristupiti postavkama vašeg jezika i jeziku, kao i drugim pojedinostima</item>
      </string-array>
      <string-array name="perm_intercept_unknown_source">
-        <item>"Aplikacije treće strane koje GetApps ne potvrdi mogu uzrokovati višestruke probleme i smanjiti stabilnost sustava."</item>
+        <item>"Aplikacije treće strane koje nisu provjerene mogu uzrokovati višestruke probleme i smanjiti stabilnost sustava."</item>
         <item>Neke aplikacije trećih strana mogu sadržavati zlonamjerni softver koji vaše osobne podatke dovodi u opasnost.</item>
      </string-array>
      <string-array name="priority_storage_entries">
