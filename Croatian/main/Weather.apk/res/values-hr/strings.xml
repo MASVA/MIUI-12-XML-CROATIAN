@@ -199,6 +199,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="indices_desc_feel">Osjećaj %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
+  <string name="indices_title_chance_of_rain">Vjerojatnost oborina</string>
   <string name="indices_no_restriction">Ništa</string>
   <string name="indices_title">Preporučene aktivnosti</string>
   <string name="indices_title_Precip1hr">Oborine</string>
@@ -206,6 +207,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="indices_title_feel">Osjećaj</string>
   <string name="indices_title_humidity">Vlaga</string>
   <string name="indices_title_pressure">Tlak</string>
+  <string name="indices_title_wind_speed">Brzina vjetra</string>
   <string name="indices_title_restriction">Ograničenje</string>
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>

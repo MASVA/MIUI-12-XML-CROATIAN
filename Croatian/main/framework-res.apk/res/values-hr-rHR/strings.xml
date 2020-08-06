@@ -83,7 +83,7 @@
   <string name="activitychooserview_choose_application">Odabir aplikacije</string>
   <string name="activitychooserview_choose_application_error">Nije moguće pokrenuti aplikaciju %s</string>
   <string name="adb_active_notification_message">Dodirnite da isključite otklanjanje pogrešaka putem USB-a</string>
-  <string name="adb_active_notification_title">Priključen je alat za otklanjanje pogrešaka putem USB-a</string>
+  <string name="adb_active_notification_title">USB otklanjanje pogrešaka je uključeno</string>
   <string name="adb_debugging_notification_channel_tv">Otklanjanje pogrešaka putem USB-a</string>
   <string name="addToDictionary">Dodaj u rječnik</string>
   <string name="add_account_button_label">Dodaj račun</string>
@@ -2122,7 +2122,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="usb_storage_title">USB povezan</string>
   <string name="usb_supplying_notification_title">Povezani uređaj puni se putem USB-a</string>
   <string name="usb_tether_notification_title">Uključeno je modemsko povezivanje putem USB-a</string>
-  <string name="usb_unsupported_audio_accessory_message">Priključeni uređaj nije kompatibilan s ovim telefonom. Dodirnite da biste saznali više.</string>
+  <string name="usb_unsupported_audio_accessory_message">"Povezani uređaj nije kompatibilan s ovim telefonom. Dodirnite da biste saznali više."</string>
   <string name="usb_unsupported_audio_accessory_title">Otkriven je analogni audiododatak</string>
   <string name="use_a_different_app">Upotrijebite neku drugu aplikaciju</string>
   <string name="use_physical_keyboard">Fizička tipkovnica</string>

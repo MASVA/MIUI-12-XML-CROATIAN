@@ -4079,7 +4079,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="launch_google_search">Pokreni Google Pretraživanje</string>
   <string name="launch_instant_app">Otvori</string>
   <string name="launch_mdp_app_text">Prikaži plan</string>
-  <string name="launch_notification_center">Panle obavijesti</string>
+  <string name="launch_notification_center">Panel obavijesti</string>
   <string name="launch_recents">Pokreni Nedavno</string>
   <string name="launch_voice_assistant">Pokreni glasovnog pomoćnika</string>
   <string name="launch_wechat_payment_code">WeChat kod plaćanja</string>
@@ -5744,12 +5744,12 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="partial_connectivity_text">Neke aplikacije i usluge možda neće raditi zbog ograničene povezivosti. Želite ostati na toj mreži?</string>
   <string name="passpoint_content">%1$s vjerodajnice</string>
   <string name="passpoint_label">Spremljeno putem</string>
-  <string name="passpoint_r1_privacy_dialog_message">"Passpoint je pouzdana i sigurna tehnologija bežične veze koju je pokrenula WLAN Alliance. Automatski konfigurira račune kako bi ostvario neprimjetnu vezu između WLAN mreža i mobilnih uređaja.
-
-Ova značajka dobiva vašu WLAN MAC adresu samo za početnu registraciju računa. Obradit ćemo vaše podatke u skladu s našima %s. Pročitajte i prihvatite naša Pravila o privatnosti prije upotrebe ove značajke."</string>
-  <string name="passpoint_r1_privacy_dialog_no">Odustani</string>
+  <string name="passpoint_r1_privacy_dialog_message">"Ovu WLAN uslugu pružaju exands. Omogućuje vam da se automatski povežete s podržanim hotspotovima.
+  
+Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
+  <string name="passpoint_r1_privacy_dialog_no">Izlaz</string>
   <string name="passpoint_r1_privacy_dialog_title">Pažnja</string>
-  <string name="passpoint_r1_privacy_dialog_url_text">Pravila o privatnosti</string>
+  <string name="passpoint_r1_privacy_dialog_url_text">\"exands Pravila o privatnosti\"</string>
   <string name="passpoint_r1_privacy_dialog_yes">Prihvaćam</string>
   <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
