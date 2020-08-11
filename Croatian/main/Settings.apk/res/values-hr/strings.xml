@@ -354,6 +354,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="advanced_apps">Dodatne postavke</string>
   <string name="advanced_battery_graph_subtext">Procjena stanja baterije temelji se na korištenju uređaja</string>
   <string name="advanced_battery_title">Potrošnja baterije</string>
+  <string name="advanced_gesture">Prilagođene geste</string>
   <string name="advanced_screen_paper_mode_title">Način čitanja</string>
   <string name="advanced_section_header">Dodatne postavke</string>
   <string name="advanced_security_title">Dodatne postavke</string>
@@ -379,6 +380,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="ai_settings_long_click_title">Pritisnite i zadržite</string>
   <string name="ai_settings_single_press_des">Pritisnite AI tipku da razgovarate s Googleovim pomoćnikom, a zatim otpustite da dobijete odgovor.</string>
   <string name="airplane_mode">Zrakoplovni način</string>
+   <string name="airplane_mode_summary">"Uključite da biste prekinuli vezu uređaja s mobilnim mrežama. Nećete moći pozivati, slati i primati tekstualne poruke niti koristiti mobilne podatke kada je ova značajka uključena."</string>
   <string name="alarm_ringtone_title">Zadani zvuk alarma</string>
   <string name="alarm_sound_dialog_title">Odaberite zvuk alarma</string>
   <string name="alarm_sound_title">Alarm</string>
@@ -1754,8 +1756,10 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="cellular_to_wlan_hint_toast">Mreže-&gt;WLAN povezivanje može biti pogođeno</string>
   <string name="cellular_to_wlan_title">Mreže-&gt;WLAN</string>
   <string name="change">Promijeni</string>
+  
   <string name="change_lock_screen_password_title">Promjeni Zaklj. zaslona</string>
-  <string name="change_password">Promijenite Zaklj. zaslona</string>
+  <string name="change_password">Promijeni Zaklj. zaslona</string>
+  <string name="change_brightness">Podešavanje svjetline</string>
   <string name="change_security_lock">Probaj ostale načine otključavanja</string>
   <string name="change_storage">Promijeni pohranu</string>
   <string name="change_theme_reboot">Promjena teme zahtijeva ponovno pokretanje.</string>
@@ -2772,10 +2776,11 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="done">Gotovo</string>
   <string name="done_button">Završeno</string>
   <string name="double_click_power_key">Dvoklik tipke Power</string>
+  <string name="double_click_volume_down_when_lock">Dvaput pritisnite Glasnoća - kad je zaslon zaključan</string>
   <string name="double_knock">Dvostruko kucanje</string>
-  <string name="double_tap_power_for_camera_suggestion_title">Brzo otvaranje kamere</string>
+  <string name="double_tap_power_for_camera_suggestion_title">Brzo otvori kameru</string>
   <string name="double_tap_power_for_camera_summary">Da biste brzo otvorili kameru, dvaput pritisnite tipku za uključivanje/isključivanje. Funkcionira na svim zaslonima.</string>
-  <string name="double_tap_power_for_camera_title">Otvaranje Kamere</string>
+  <string name="double_tap_power_for_camera_title">Otvori kameru</string>
   <string name="double_twist_for_camera_mode_summary">Za uključivanje i isključivanje načina za snimanje selfieja u Google fotoaparatu dvaput obrnite fotoaparat dok ste u aplikaciji.</string>
   <string name="double_twist_for_camera_mode_title">Okreni kameru</string>
   <string name="double_twist_for_camera_suggestion_title">Brže snimanje selfieja</string>
@@ -3242,6 +3247,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="find_my_device">Pronađi uređaj</string>
   <string name="find_my_device_disable">Isključeno</string>
   <string name="find_my_device_enable">Uključeno</string>
+  <string name="find_my_device_summary">Ova značajka zahtijeva prijavu u Mi Račun</string>
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
   <string name="fingerprint_add_max">Maksimalni broj otisaka prstiju koji se može dodati iznosi %d</string>
@@ -3505,6 +3511,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gentle_notifications_display_summary_shade_status_lock">Prikaži na zaslonu obavijesti, traci statusa i zaključanom zaslonu</string>
   <string name="gentle_notifications_education">Neupadljive obavijesti uvijek su bešumne i uvijek se prikazuju na zaslonu obavijesti</string>
   <string name="gentle_notifications_title">Neupadljive obavijesti</string>
+  <string name="gesture_function_dialog_message">%1$s se koristi za \"%2$s\". Zamjeniti sa \"%3$s\"?</string>
   <string name="gesture_c">Uzorak C</string>
   <string name="gesture_double_twist_sensor_name"/>
   <string name="gesture_double_twist_sensor_vendor"/>
@@ -3522,6 +3529,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gesture_prevent_ringing_title">Istovremeno pritisnite tipku za uključivanje/isključivanje i pojačavanje glasnoće</string>
   <string name="gesture_setting_off">Isključeno</string>
   <string name="gesture_setting_on">Uključeno</string>
+  <string name="gesture_settings_title">Prečaci gesti</string>
   <string name="gesture_w">Uzorak W</string>
   <string name="gesture_wakeup_summary">Možete dvaput dodirnuti za isključivanje zaslona kada se primijeni zadana ili klasična tema</string>
   <string name="gesture_wakeup_title">Dvaput dodirnite za buđenje ili isključivanje zaslona</string>
@@ -3883,9 +3891,10 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u stanje mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
-  <string name="key_combination_power_back">Power + Natrag</string>
-  <string name="key_combination_power_home">Power + Početna</string>
-  <string name="key_combination_power_menu">Power + Izbornik</string>
+  <string name="key_combination_power_back">Power & Natrag</string>
+  <string name="key_combination_power_home">Power & Početna</string>
+  <string name="key_combination_power_menu">Power & Izbornik</string>
+  <string name="key_combination_power_volume_down">Glasnoća - & Power</string>
   <string name="key_fsg_dialog_message">"Koristite geste na cijelom zaslonu za navigaciju. Značajke vezane uz tipke sada nisu dostupne. Promjeniti na tipke?"</string>
   <string name="key_fsg_dialog_negative">Odustani</string>
   <string name="key_fsg_dialog_positive">Promjeni</string>
@@ -4492,9 +4501,10 @@ kao i PIN za Prvi prostor"</string>
   <string name="long_press_menu_key">Duži pritisak tipke Izbornik</string>
   <string name="long_press_menu_key_when_lock">Duži pritisak tipke Izbornik na Zaklj. zaslonu</string>
   <string name="long_press_power_key">Duži pritisak tipke Power</string>
-  <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku napajanja 0,5 sekundi da biste uključili Google pomoćnika</string>
+  <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku Power 0,5 sekundi da biste uključili Google pomoćnika</string>
+  <string name="long_press_power_key_half_second">Pritisnite i držite tipku Power 0,5 sekundi</string>
   <string name="long_press_power_key_tips">&lt;Data&gt;Duže pritisnite tipku Power &amp;lt;font color=#999999&amp;gt;brže i praktičnije&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="long_press_volume_down">Duže pritisnite smanjivanje glasnoće</string>
+  <string name="long_press_volume_down">Duže pritisnite tipku Glasnoća -</string>
   <string name="lost_internet_access_cancel">Ostani na WLAN-u</string>
   <string name="lost_internet_access_persist">Nemoj više prikazivati</string>
   <string name="lost_internet_access_switch">Prelazak na mobilnu mrežu</string>

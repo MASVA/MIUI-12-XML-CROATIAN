@@ -61,6 +61,7 @@
   <string name="feedback_tip_msg">Da bismo preciznije grupirali obavijesti, moramo prikupiti naziv aplikacije, naslov i opis obavijesti i vrijeme slanja obavijesti. Poslati povratne informacije?</string>
   <string name="feedback_tip_title">Povratne informacije o kategorijama obavijesti</string>
   <string name="float_notifications">Plutajuće obavijesti</string>
+  <string name="float_notifications_short">Plutajuće</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -75,6 +76,7 @@
   <string name="lock_screen_display_rules">Format</string>
   <string name="lock_screen_tip_toast">Dopustite obavijesti Zaklj. zaslona u \"Format\"</string>
   <string name="lockscreen_notifications">Obavijesti Zaklj. zaslona</string>
+  <string name="lockscreen_notifications_short">Zaklj. zaslon</string>
   <string name="menu_setting_recommend_to_minus">Prikaži manje obavijesti</string>
   <string name="menu_setting_recommend_to_normal">"Ne smanjuj obavijesti"</string>
   <string name="menu_setting_show_in_home">"Ne grupiraj"</string>
@@ -204,6 +206,7 @@ Prijavite ovaj problem &gt;"</string>
   <string name="search_menu_title">Traži</string>
   <string name="settings_guide_title">Trebate druge postavke??</string>
   <string name="show_badge_notifications">Značke obavijesti</string>
+  <string name="show_badge_notifications_short">Značke</string>
   <string name="status_bar_setting">Traka statusa</string>
   <string name="summary_disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>
   <string name="summary_disable_lockscreen_notification">"Obavijesti Zaklj. zaslona nisu dopuštene"</string>

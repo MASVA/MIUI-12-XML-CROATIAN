@@ -119,8 +119,8 @@
         <item>Dodirnite \"Nastavi\" da biste saznali više i uključili ovu značajku.</item>
     </string-array>
     <string-array name="stand_guide_page_content2">
-        <item>Xiaomi Health saznaje jeste li ustali na temelju načina na koji ste koristili svoj uređaj. Ako se tijekom sata vremena ne primijeti kretanje, podsjetit će vas se da ustanete ili dodate zapis ručno.</item>
-        <item>Ova će značajka pratiti vaše kretanje i slati podsjetnike.</item>
+        <item>Xiaomi Health može otkriti i zabilježiti kad ustanete. Također možete dobiti podsjetnike za ustajanje nakon 1 sata neaktivnosti.</item>
+        <item>Ova značajka prati vaše kretanje i šalje podsjetnike na temelju rezultata.</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>

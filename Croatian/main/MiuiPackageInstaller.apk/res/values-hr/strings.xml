@@ -28,6 +28,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="action_bar_report_link_des">Upozorenje aplikacije</string>
   <string name="adb_install_no_network">"Povezivanje s mrežom nije uspjelo. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="adb_install_open">Otvaranje…</string>
   <string name="adb_install_open_error">"Ne mogu otvoriti. Provjerite mrežne postavke i pokušajte ponovo."</string>
@@ -96,6 +97,7 @@ Svi postojeći podaci aplikacije će biti spremljeni."</string>
 
 Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="done">Gotovo</string>
+  <string name="exit_install_button">"Ne instaliraj"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="external_sources_settings">Postavke</string>
   <string name="external_sources_settings_negative">Ograniči</string>
@@ -121,18 +123,27 @@ Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="increment_preparing">Priprema…</string>
   <string name="install">Instaliraj</string>
   <string name="install_app_progress_clear_apk">Izbriši aplikaciju</string>
+  <string name="install_confirm_dialog_message">Ovu je aplikaciju napravio Google. Trebali biste instalirati Google Play usluge da biste mogli normalno koristiti ovu aplikaciju. Instaliranje ove aplikacije sada može učiniti da se vaš uređaj loše ponaša. Instalirati svejedno?</string>
+  <string name="install_confirm_dialog_negative_button">Odustani</string>
+  <string name="install_confirm_dialog_positive_button">Instaliraj</string>
+  <string name="install_confirm_dialog_title">Pažnja</string>
   <string name="install_confirm_question">Želite li instalirati ovu aplikaciju? Aplikacija će moći sljedeće:</string>
+  <string name="install_confirm_question_des_10">"Ako želite preuzeti rizike i želite nastaviti s instalacijom, autorizirajte instalaciju u Sigurnost &gt; Upravljanje aplikacijama &gt; Dopuštenja &gt; Aplikacije s mogućim rizicima. Ako ne možete pronaći \"Aplikacije s mogućim rizicima\", ažurirajte aplikaciju Sigurnost i pokušajte ponovo."</string>
   <string name="install_confirm_question_no_perms">Želite li instalirati ovu aplikaciju? Aplikacija ne zahtijeva nikakav poseban pristup.</string>
   <string name="install_confirm_question_update">Želite li instalirati ažuriranje postojeće aplikacije? Vaši postojeći podaci neće biti izgubljeni. Ažurirana aplikacija dobit će pristup sljedećem:</string>
   <string name="install_confirm_question_update_no_perms">Želite li instalirati ažuriranje postojeće aplikacije? Vaši postojeći podaci neće se izgubiti. Nije potreban nikakav poseban pristup.</string>
   <string name="install_confirm_question_update_system">Želite li instalirati ažuriranje za ovu ugrađenu aplikaciju? Vaši postojeći podaci neće biti izgubljeni. Ažurirana aplikacija dobit će pristup sljedećem:</string>
   <string name="install_confirm_question_update_system_no_perms">Želite li instalirati ažuriranje te ugrađene aplikacije? Vaši postojeći podaci neće se izgubiti. Nije potreban nikakav poseban pristup.</string>
+  <string name="install_confirm_text_gms">Ovu je aplikaciju napravio Google. Instalirajte usluge Google Play prije instaliranja ove aplikacije. Bez frameworka aplikacija možda neće raditi ispravno.</string>
+  <string name="install_continue">Nastavi s instalacijom</string>
   <string name="install_control_cancel_install">"Ne instaliraj"</string>
+  <string name="install_control_cancel_vip_account_install">Izlaz</string>
   <string name="install_control_continue_install">Instaliraj svejedno</string>
   <string name="install_control_lite_mode_explain_des">Ova aplikacija dolazi iz nepoznatog izvora i možda neće raditi u Lite načinu.</string>
   <string name="install_control_lite_mode_solution_des">"Možete ionako odlučiti instalirati ovu aplikaciju.
 Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="install_control_normal_mode_explain_des">"Ne mogu se instalirati ovu aplikaciju zbog zakonskih ograničenja"</string>
+  <string name="install_control_vip_account_install">Prijavi se u Beta</string>
   <string name="install_done">Aplikacija je instalirana.</string>
   <string name="install_failed">Aplikacija nije instalirana.</string>
   <string name="install_failed_blocked">Instaliranje paketa blokirano je.</string>
@@ -144,7 +155,12 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="install_finished_notification_summary">Dodirnite da oslobodite prostor za pohranu</string>
   <string name="install_finished_notification_title">%1$s je uspješno instaliran. Možete osloboditi %2$s prostora za pohranu</string>
   <string name="install_from_appstore_hint">Preporučujemo vam da instalirate aplikaciju iz &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="install_vip_account_mode_explain_des">Ovo je Beta verzija aplikacije. Podnesite zahtjev za Beta testiranje prije nego što je instalirate.</string>
+  <string name="install_vip_account_mode_solution_des">Prijavi se u Beta</string>
   <string name="installing">Instaliranje…</string>
+  <string name="intercept_confirm_dialog_message">%1$s pokušava instalirati %2$s. Potvrdite svoj identitet za nastavak.</string>
+  <string name="intercept_confirm_dialog_positive">Potvrdi</string>
+  <string name="intercept_confirm_dialog_title">Pažnja</string>
   <string name="intercept_install">Instaliraj</string>
   <string name="launch">Otvori</string>
   <string name="lift_ban">Dopusti</string>
@@ -327,6 +343,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
  "&lt;li&gt;Instalacijski paket dolazi iz nepoznatog izvora.&lt;/li&gt;</string>
   <string name="settings_warning_dialog_msg">"Vaš je telefon sklon sigurnosnim rizicima. Ako isključite ovu značajku, od vas se neće tražiti da instalirate sigurne verzije aplikacije. Isključiti svejedno? "</string>
   <string name="settings_warning_dialog_title">Pažnja</string>
+  <string name="spannable_continue_text">Razumijem rizike. Instaliraj svejedno.</string>
   <string name="system_warning">Ako ne odobrite ovo dopuštenje, osnovne značajke vašeg uređaja možda više neće funkcionirati pravilno.</string>
   <string name="toast_network_eror">"Ne mogu se povezati na mrežu"</string>
   <string name="trust_switch_dialog_msg">"Neće vas se pitati kada ova aplikacija pristupa vašim kontaktima, porukama, zaporkama ili drugim dijelovima sustava."</string>

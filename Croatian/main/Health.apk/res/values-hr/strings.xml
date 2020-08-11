@@ -469,6 +469,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="health_score">Rezultat</string>
   <string name="health_score_tips">Zdravstveni rezultat izračunava se na temelju vašeg BMI (indeksa tjelesne mase), kao i koraka spavanja i aktivnosti. Što ste bliže svojim ciljevima, to vam je bolji zdravstveni rezultat.</string>
   <string name="health_setting">Postavke</string>
+  <string name="heart_rate">Brzina otkucaja srca</string>
   <string name="high">Visoki</string>
   <string name="high2">Visoki</string>
   <string name="high_intensity">Visoko</string>
@@ -483,6 +484,15 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="hour">H</string>
   <string name="hour_in_day_format">%1$d</string>
   <string name="hour_in_day_format_short">%1$d</string>
+  <string name="hr_heart_rate_unit">Brzina otkucaja srca (BPM)</string>
+  <string name="hr_input_heart_rate">Zabilježi broj otkucaja srca</string>
+  <string name="hr_state">Status</string>
+  <string name="hr_state_active">Aktivan</string>
+  <string name="hr_state_fast">Brz</string>
+  <string name="hr_state_normal">Normalan</string>
+  <string name="hr_state_regular">Regularan</string>
+  <string name="hr_state_resting">Odmaranje</string>
+  <string name="hr_state_slow">Sporo</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="improve_step_target">Svoj cilj postižete prečesto. Pokušajte postaviti viši.</string>
   <string name="improve_your_health_default_tips">Vježbajte i dovoljno spavajte da biste ostali zdravi.</string>
@@ -729,6 +739,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="pause">Pauza</string>
   <string name="per_time_minutes">%d po min.</string>
   <string name="per_time_minutes1">" po min."</string>
+  <string name="per_time_minutes_heart_rate">" BPM"</string>
   <string name="permission_check_result">Uspješno postavljeno</string>
   <string name="permission_check_result_failed">"Ne mogu postaviti"</string>
   <string name="permission_manage">Upravljanje dopuštenja</string>
@@ -806,6 +817,8 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="remind_weight_title">Vaganje</string>
   <string name="remove">Ukloni</string>
   <string name="repeat_mode">Ponovi</string>
+  <string name="resting_heart_rate">Otkucaji srca kod odmoranja</string>
+  <string name="resting_heart_rate_desc">Normalna brzina otkucaja srca za odrasle u mirovanju kreće se od 60 do 100 otkucaja u minuti. Može varirati ovisno o dobi, spolu i drugim čimbenicima.</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="revert_to_default">Vrati na zadane postavke</string>
   <string name="run">Trčanje</string>
@@ -1035,7 +1048,9 @@ podatke o spavanju"</string>
   <string name="stand_notice_title4">Ustanite i protegnite se malo</string>
   <string name="stand_notice_title5">Izgleda da niste ustali u posljednjih sat vremena</string>
   <string name="stand_notice_title6">Jeste li ustali u posljednjih sat vremena?</string>
+  <string name="stand_remind_setting_desc">Receive a reminder to stand up after 1 hour of inactivity</string>
   <string name="stand_setting">Postavke</string>
+  <string name="stand_stop_reminding">"Ne prikazuj ponovno"</string>
   <string name="standard_format">(standardno: %1s)</string>
   <string name="standing_already">" Ustali ste"</string>
   <string name="state_agree">Slažem se</string>
@@ -1136,12 +1151,15 @@ podatke o spavanju"</string>
   <string name="tb_go_next_a_day">Prethodni dan</string>
   <string name="tb_go_on_detection">Nastavi</string>
   <string name="tb_has_snore_dream_talk">Otkriveno hrkanje i pričanje</string>
+   <string name="tb_heart_rate_max_min">Otkucaji srca. Najviši: %1$d. Najniži: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Krvni tlak. Sistolički: %1$d. Dijastolički: %2$d. Zabilježeno: %3$s. Status: %4$s.</string>
   <string name="tb_home_blood_pressure_card_no_data">Krvni tlak. Nema podataka.</string>
   <string name="tb_home_exercise_card_finish">Vježba. %1$s. Dovršeno: %2$s. Cilj: %3$s. Dovršeno: %4$s.</string>
   <string name="tb_home_exercise_card_not_set_goal">Vježba. %1$s. Dovršeno: %2$s. Otvori cilj.</string>
   <string name="tb_home_exercise_card_not_supported_step">"Vježba. Ovaj uređaj ne broji korake."</string>
   <string name="tb_home_exercise_card_speed_of_progress">Vježba. %1$s. Dovršeno: %2$s. Cilj: %3$s. Napredak: %4$s.</string>
+  <string name="tb_home_heart_rate_card">Otkucaji srca. %1$d otkucaja u minuti. Zabilježeno %2$s.</string>
+  <string name="tb_home_heart_rate_card_no_data">Otkucaji srca. Nema podataka.</string>
   <string name="tb_home_sleep_card">Spavanje. %1$s danas. Otišao u krevet u %2$s. Probudio se u %3$s. %4$s.</string>
   <string name="tb_home_sleep_card_no_data">Spavanje. Nema podataka danas.</string>
   <string name="tb_home_sleep_card_not_open_trace">Spavanje. Analiza ciklusa spavanja je isključena.</string>
@@ -1178,6 +1196,9 @@ podatke o spavanju"</string>
   <string name="tb_picker_year">Odabrana godina: %1$d. Povucite okomito da biste odabrali godinu.</string>
   <string name="tb_play_next">Prebaci na sljedeću snimku</string>
   <string name="tb_play_previous">Prebaci na prethodnu snimku</string>
+  <string name="tb_range">Od %1$s do %2$s</string>
+  <string name="tb_resting_heart_rate_avg">Prosječni otkucaji srca u mirovanju: %1$d. Status: %2$s.</string>
+  <string name="tb_resting_heart_rate_avg2">Prosječni otkucaji srca u mirovanju. Najviši: %1$d. Najniži: %2$d.</string>
   <string name="tb_select_a_column">Odabrano %1$s</string>
   <string name="tb_show_sleep_info">Prikazivanje statistike spavanja za %1$s</string>
   <string name="tb_sleep_evaluation">Procijenjeni rezultat: %1$s</string>

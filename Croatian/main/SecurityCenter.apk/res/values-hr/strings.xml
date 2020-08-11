@@ -121,6 +121,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_permission_manager">Dopuštenja</string>
   <string name="activity_title_permissions_manager">Dopuštenja</string>
   <string name="activity_title_power_manager">Optimizacija baterije</string>
+  <string name="activity_title_risk_app_install_manager">Aplikacije s mogućim rizicima</string>
   <string name="activity_title_risk_app_install_manager">Potrebno je dopuštenje rizične aplikacije</string>
   <string name="activity_title_risk">Rizik</string>
   <string name="activity_title_risk_detail">Detalji</string>
@@ -3224,6 +3225,15 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="result_virus_header">Pronađeno %d virusa i nesigurnih aplikacija</string>
   <string name="result_wifi_header">Otkriven WLAN rizk</string>
   <string name="right_precent">100%</string>
+  <string name="risk_app_install_agree_button">Vjeruj ovoj aplikaciji</string>
+  <string name="risk_app_install_agree_checkbox">"Spreman sam preuzeti sve moguće rizike."</string>
+  <string name="risk_app_install_agree_message">"Ovu je aplikaciju razvila treća strana i možda krši lokalne zakone i propise. Xiaomi ne jamči dostupnost, kontinuitet i pristupačnost sadržaja i usluga koje pruža ova aplikacija. Svaki gubitak ili štetu nastalu upotrebom ove aplikacije snosit ćete sami."</string>
+  <string name="risk_app_install_agree_title">Odricanje</string>
+  <string name="risk_app_install_auth_result">"Potvrdili ste instaliranje %1$s. Možete nastaviti nakon otkrivanja instalacijskog paketa."</string>
+  <string name="risk_app_install_empty_text">Ovdje još nema stavki</string>
+  <string name="risk_app_install_history">Povijest autorizacije</string>
+  <string name="risk_app_install_item_des">Verzija: %1$s</string>
+  <string name="risk_app_install_manager">Aplikacije s mogućim rizicima</string>
   <string name="risk_list_header_title">Otkriveno (%d) sumnjivih aplikacija</string>
   <string name="roaming_allow_network_dialog_title">Želite li dopustiti roaming podataka?</string>
   <string name="roaming_limit_dialog_message">Postignuto dnevno ograničenje pod. u roamingu.</string>

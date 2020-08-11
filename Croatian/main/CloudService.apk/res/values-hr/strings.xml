@@ -567,6 +567,15 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_wipe_data_confirm_title">Neke stavke iz sljedećih aplikacija sinkronizirane su s Mi Cloudom. Možete ih izbrisati s ovog uređaja i zadržiti na Mi Cloudu.</string>
   <string name="micloud_wipe_data_remove">Ukloni</string>
   <string name="micloud_wipe_data_retain">Zadrži</string>
+  <string name="midrive_guide1_desc">Izradite Sig. kopiju stavki u cloud da biste oslobodili prostor za pohranu na uređaju.</string>
+  <string name="midrive_guide1_title">Sigurne Sig. kopije</string>
+  <string name="midrive_guide2_desc">Preuzmite stavke brzinom prijenosa.</string>
+  <string name="midrive_guide2_title">Brza preuzimanja</string>
+  <string name="midrive_guide3_desc">Koristite Mi Drive na mobilnim uređajima, računalima i u preglednicima.</string>
+  <string name="midrive_guide3_title">Radi svugdje</string>
+  <string name="midrive_guide_btn_install">Instaliraj Mi Drive</string>
+  <string name="midrive_guide_btn_installed">Otvori Mi Drive</string>
+  <string name="midrive_guide_btn_installing">Instaliranje…</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
