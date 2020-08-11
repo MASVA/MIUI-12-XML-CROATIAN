@@ -3891,10 +3891,10 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u stanje mirovanje tijekom punjenja</string>
   <string name="kernel_version">Verzija jezgre</string>
-  <string name="key_combination_power_back">Power & Natrag</string>
-  <string name="key_combination_power_home">Power & Početna</string>
-  <string name="key_combination_power_menu">Power & Izbornik</string>
-  <string name="key_combination_power_volume_down">Glasnoća - & Power</string>
+  <string name="key_combination_power_back">Power i Natrag</string>
+  <string name="key_combination_power_home">Power i Početna</string>
+  <string name="key_combination_power_menu">Power i Izbornik</string>
+  <string name="key_combination_power_volume_down">Glasnoća - i Power</string>
   <string name="key_fsg_dialog_message">"Koristite geste na cijelom zaslonu za navigaciju. Značajke vezane uz tipke sada nisu dostupne. Promjeniti na tipke?"</string>
   <string name="key_fsg_dialog_negative">Odustani</string>
   <string name="key_fsg_dialog_positive">Promjeni</string>

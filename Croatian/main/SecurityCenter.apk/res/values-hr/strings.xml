@@ -122,7 +122,6 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_permissions_manager">Dopuštenja</string>
   <string name="activity_title_power_manager">Optimizacija baterije</string>
   <string name="activity_title_risk_app_install_manager">Aplikacije s mogućim rizicima</string>
-  <string name="activity_title_risk_app_install_manager">Potrebno je dopuštenje rizične aplikacije</string>
   <string name="activity_title_risk">Rizik</string>
   <string name="activity_title_risk_detail">Detalji</string>
   <string name="activity_title_root_acquired">Dopusti ROOT pristup</string>
