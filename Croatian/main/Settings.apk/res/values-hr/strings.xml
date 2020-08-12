@@ -7594,6 +7594,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="sim_call_back_title">Uzvratni poziv sa zadanog SIM-a</string>
   <string name="sim_calls_always_use">Uvijek upotrebljavaj za pozive</string>
   <string name="sim_calls_ask_first_prefs_title">Pitaj svaki put</string>
+  <string name="sim_card_lock">Status SIM kartice</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Odaberite SIM karticu</string>
   <string name="sim_cards_changed_message">SIM kartice su se promijenile</string>
@@ -7743,6 +7744,9 @@ Obavijesti za te aplikacije mogu kasniti."</string>
   <string name="smart_battery_manager_title">Prilagodljiva baterija</string>
   <string name="smart_battery_summary">Ograničava potrošnju baterije za aplikacije koje ne upotrebljavate često</string>
   <string name="smart_battery_title">Prilagodljiva baterija</string>
+  <string name="smart_home_title">Smart Home</string>
+  <string name="smart_home_value_none">Ništa</string>
+  <string name="smart_home_value_unknown">Nepoznato</string>
   <string name="smart_notifications_title">Prilagodljive obavijesti</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Zaklj./otklj. telefon autom. koristeći smart cover</string>
