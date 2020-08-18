@@ -4958,12 +4958,13 @@ Prelaskom na mobilnog operatera %1$s neće se otkazati vaša usluga kod mobilnog
   <string name="mqs_privacy_automatically_upload">Automatski učitaj sljedeći put</string>
   <string name="mqs_privacy_dialog_cancel">Odustani</string>
   <string name="mqs_privacy_dialog_confirm">Učitaj</string>
-  <string name="mqs_privacy_dialog_content">Učitati zapise koji će nam pomoći da pronađemo i riješimo taj problem? Zapisi mogu sadržavati vaše osobne podatke, uključujući informacije o vašoj lokaciji.</string>
-  <string name="mqs_privacy_dialog_title">Dogodila se pogreška</string>
-  <string name="mr_button_content_description">Gumb za emitiranje</string>
-  <string name="mr_cast_button_connected">Gumb za emitiranje. Povezan</string>
-  <string name="mr_cast_button_connecting">Gumb za emitiranje. Povezivanje</string>
-  <string name="mr_cast_button_disconnected">Gumb za emitiranje. Veza prekinuta</string>
+  <string name="mqs_privacy_dialog_content">Čini se da su se na vašem uređaju nedavno pojavile pogreške. Možete poslati zapisnike da biste nam pomogli pronaći i riješiti ovaj problem. Zapisnici mogu sadržavati vaše osobne podatke, uključujući podatke o vašoj lokaciji. 
+  Poslati sada?</string>
+  <string name="mqs_privacy_dialog_title">Slanje zapisnika</string>
+  <string name="mr_button_content_description">Tipka za emitiranje</string>
+  <string name="mr_cast_button_connected">Tipka za emitiranje. Povezan</string>
+  <string name="mr_cast_button_connecting">Tipka za emitiranje. Povezivanje</string>
+  <string name="mr_cast_button_disconnected">Tipka za emitiranje. Veza prekinuta</string>
   <string name="mr_cast_dialog_title_view_placeholder">Informacije nisu dostupne</string>
   <string name="mr_chooser_searching">Traženje uređaja</string>
   <string name="mr_chooser_title">Emitiranje na</string>

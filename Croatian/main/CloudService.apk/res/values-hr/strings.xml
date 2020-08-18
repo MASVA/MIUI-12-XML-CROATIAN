@@ -227,8 +227,10 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="last_sync_time_just_now">Upravo sad</string>
   <string name="last_sync_time_yesterday">Jučer</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
-  <string name="loading">Učitavanje…</string>
-  <string name="loading_hint">Učitavanje</string>
+  <string name="loading">Samo trenutak…</string>
+  <string name="low_battery_locate_summary">Automatski prijavi podatke o lokaciji kada je baterija slaba</string>
+  <string name="low_battery_locate_title">Prijavi lokaciju kada je baterija slaba</string>
+  <string name="loading_hint">Samo trenutak</string>
   <string name="master_alert_notif_content">"Redovito stvarajte sigurnosne kopije da ne izgubite ništa važno"</string>
   <string name="master_alert_notif_dspt_add">Stavke čekaju na sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
@@ -625,6 +627,9 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="picker_list_empty">Ovdje nema kontakata</string>
   <string name="picker_search_empty">"Ne mogu pronaći kontakte"</string>
   <string name="picker_search_hint">Traži</string>
+  <string name="power_off_locate_summary">"Podatke o lokaciji prijavite dugim pritiskom tipke Power.
+Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string>
+  <string name="power_off_locate_title">Prijavi lokaciju prije isključivanja</string>
   <string name="pre_privacy_policy">Pravila o Privatnosti</string>
   <string name="pre_user_agreement">Korisnički Sporazum</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sinkr. slike kontakata samo kada je povezano na WLAN mrežu"</string>
@@ -658,8 +663,6 @@ Ova značajka šifrira i šalje ID vašeg uređaja na Mi poslužitelje."</string
   <string name="search_finddevice_pref_key_words">pronađiuređaj, pronađi uređaj</string>
   <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/PRONAĐI UREĐAJ</string>
   <string name="search_menu_title">Traži</string>
-  <string name="send_last_location_summary">Sinkronizirajte podatke o lokaciji dok se uređaj isključuje</string>
-  <string name="send_last_location_title">Lociraj prije isključivanja</string>
   <string name="secret_photo">Skrivene fotografije</string>
   <string name="setting">Postavke</string>
   <string name="settings_backup_title">Postavke Sig. kopije sustava</string>

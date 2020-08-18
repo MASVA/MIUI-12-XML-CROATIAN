@@ -265,6 +265,10 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
   <string name="license_host_unreachable">"Vaš uređaj nije povezan s uslugama u cloudu. Da biste pregledali ovu stavku, posjetite %s na bilo kojem povezanom uređaju."</string>
+  <string name="load_label_up_no_data">Nema više stavki za prikaz</string>
+  <string name="load_label_up_none">Nema više stavki za prikaz</string>
+  <string name="load_label_up_refresh">Učitavanje stavki…</string>
+  <string name="load_label_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="load_metered_network_dialog_cancel">Odustani</string>
   <string name="load_metered_network_dialog_desc">"Vaš uređaj nije povezan na WLAN mrežu. Učitati pomoću mob. podataka?"</string>
@@ -489,6 +493,10 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="pre_user_agreement">Korisnički sporazum</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="refresh_label_pull_to_refresh">Povuci dolje za osvježiti</string>
+  <string name="refresh_label_refreshed">Uspješno osvježeno</string>
+  <string name="refresh_label_refreshing">Osvježavanje…</string>
+  <string name="refresh_label_release_to_refresh">Otpusti za osvježiti</string>
   <string name="psw_hint">Zaporka</string>
   <string name="psw_sign_in">Prijavite se pomoću zaporke</string>
   <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
