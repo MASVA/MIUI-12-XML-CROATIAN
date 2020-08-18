@@ -139,7 +139,9 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
   <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
   <string name="notification_show_more">Pogledajte dodatne značajke</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="open_game_accelerate">Uključi Game Turbo</string>
+  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_agree">Slažem se</string>
   <string name="privacy_detail">&lt;Data&gt;Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi. Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="privacy_detail_extra">&lt;Data&gt;Neke značajke pruža treći pružatelj usluga HappyCast. Prije upotrebe ove značajke pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;HappyCast Korisnički sporazum&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>

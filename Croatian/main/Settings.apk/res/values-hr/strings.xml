@@ -5771,7 +5771,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="password_turned_off_text">Zaporka je isključena</string>
   <string name="password_turned_on_text">Zaporka je uključena</string>
-  <string name="password_unlock_title">Zaporka</string>
+  <string name="password_unlock_title">Zaklj. zaslon</string>
   <string name="path_about_about_settings">Postavke/O uređaju</string>
   <string name="path_accelerometer_settings">Postavke/Zaslon/Automatski zakreni zaslon</string>
   <string name="path_access_control_settings">Postavke/Dodatne postavke/Privatnost/Postavke privatnosti</string>
@@ -6902,6 +6902,8 @@ Da biste upotrebljavali prikačivanje zaslona:
   <string name="screen_projection_sample_title">Demos</string>
   <string name="screen_projection_title">Emitiraj</string>
   <string name="screen_reader_category_title">Čitači zaslona</string>
+  <string name="screen_reader_mode_input_type_summary">Odaberite gestu za aktiviranje unosa teksta kada je TalkBack uključen</string>
+  <string name="screen_reader_mode_input_type_title">Unos teksta</string>
   <string name="screen_recorder">Snimač zaslona</string>
   <string name="screen_resolution_confirm">Ponovno pokreni</string>
   <string name="screen_resolution_dialog_title">Promjeni rezoluciju</string>

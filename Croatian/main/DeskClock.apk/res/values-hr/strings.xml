@@ -27,6 +27,11 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="action_for_continue_timer">Nastavi</string>
+  <string name="action_for_pause_timer">Pauza</string>
+  <string name="action_for_restart">Ponovi</string>
+  <string name="action_for_snooze">Odgodi</string>
+  <string name="action_for_stop">Stop</string>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="add_clock">Dodaj sat</string>
   <string name="add_common_timer">Dodaj timer</string>
