@@ -587,6 +587,16 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="transing">Slanje…</string>
   <string name="transport_end_button">Uredi</string>
   <string name="transport_title">Prijenosi</string>
+  <string name="update_dialog_button_cancel">Ne sad</string>
+  <string name="update_dialog_button_ok">Ažuriraj</string>
+  <string name="update_dialog_content">"Nova verzija: %1$s
+%2$s"</string>
+  <string name="update_dialog_title">Dostupno je ažuriranje</string>
+  <string name="update_failed">Došlo je do pogreške na poslužitelju. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
+  <string name="update_failed_no_app_info">"Ne mogu dobiti instalacijski paket"</string>
+  <string name="update_no_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="update_no_update">Trenutna verzija je ažurna</string>
+  <string name="update_progress_dialog_content">Preuzimanje…</string>
   <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije nego što možete ažurirati E-poštu.</string>
   <string name="update_email_address_dialog_title">Aktiviranje email adrese za oporavak</string>
   <string name="update_find_new_version">Dostupno je ažuriranje</string>

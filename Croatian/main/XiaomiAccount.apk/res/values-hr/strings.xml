@@ -97,7 +97,7 @@
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="agreement_and_privacy">Korisnički ugovor i Pravila o privatnosti</string>
+  <string name="agreement_and_privacy">Uvjeti i odredbe</string>
   <string name="alert_title_remove_account">Ukloniti račun?</string>
   <string name="app_name">Mi Račun</string>
   <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
@@ -269,6 +269,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="health_state_not_activated">Nije aktivirano</string>
   <string name="health_state_not_installed">Nije instalirano</string>
   <string name="health_state_not_support">Nije podržano u ovoj verziji</string>
+  <string name="help_center">Pomoć</string>
   <string name="i_agree">U redu</string>
   <string name="i_agree_continue">Nastavi</string>
   <string name="identity">Identifikacija</string>

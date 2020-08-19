@@ -29,6 +29,38 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
      </plurals>
+	 <plurals name="anonymous_resource_count_aod">
+        <item quantity="other">%1$d AOD tema</item>
+        <item quantity="one">%1$d AOD tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_font">
+        <item quantity="other">%1$d fontova</item>
+        <item quantity="one">%1$d font</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_icon">
+        <item quantity="other">%1$d ikona</item>
+        <item quantity="one">%1$d ikona</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_theme">
+        <item quantity="other">%1$d tema</item>
+        <item quantity="one">%1$d tema</item>
+    </plurals>
+    <plurals name="anonymous_resource_count_title">
+        <item quantity="other">Dodaj %1$d stavki</item>
+        <item quantity="one">Dodaj %1$d stavku</item>
+    </plurals>
+    <plurals name="anonymous_resource_link_success_message">
+        <item quantity="other">Dodano %1$d stavki na vaš račun. Pogledajte dodane stavke u svojim narudžbama.</item>
+        <item quantity="one">Dodana %1$d stavka na vaš račun. Pogledajte dodane stavke u svojim narudžbama.</item>
+    </plurals>
+    <plurals name="anonymous_resource_login_message">
+        <item quantity="other">"Možete samo preuzeti %1$d besplatnih stavki ako niste prijavljeni (pozadine i melodije zvona isključeni). Prijavite se za preuzimanje stavki bez ograničenja."</item>
+        <item quantity="one">"Možete samo preuzeti %1$d besplatnu stavku ako niste prijavljeni (pozadine i melodije zvona isključeni). Prijavite se za preuzimanje stavki bez ograničenja."</item>
+    </plurals>
+    <plurals name="anonymous_resource_view">
+        <item quantity="other">"%1$d stavki nije dodano na vaš račun"</item>
+        <item quantity="one">"%1$d stavka nije dodana na vaš račun"</item>
+    </plurals>
      <plurals name="aod_batch_has_update_text">
         <item quantity="other">Dostupna su ažuriranja za %1$d tema</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>
@@ -38,7 +70,7 @@
         <item quantity="one">Ažuriranje %1$d teme</item>
      </plurals>
      <plurals name="de_author_fans_amount">
-        <item quantity="other">%1$d fans</item>
+        <item quantity="other">%1$d fanova</item>
         <item quantity="one">%1$d fan</item>
      </plurals>
      <plurals name="de_author_theme_amount">
@@ -97,8 +129,8 @@
         <item quantity="one">%1$s tema</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Ažuriranja dostupna za teme: %1$d</item>
-        <item quantity="one">Ažuriranje dostupno za %1$d temu</item>
+        <item quantity="other">Dostupna su ažuriranja za %1$d tema</item>
+        <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>
     </plurals>
 	<plurals name="resource_download_notification_title_many">
         <item quantity="other">Uspješno preuzeto %1$d stavki</item>

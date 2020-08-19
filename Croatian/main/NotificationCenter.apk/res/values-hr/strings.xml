@@ -77,15 +77,12 @@
   <string name="lock_screen_tip_toast">Dopustite obavijesti Zaklj. zaslona u \"Format\"</string>
   <string name="lockscreen_notifications">Obavijesti Zaklj. zaslona</string>
   <string name="lockscreen_notifications_short">Zaklj. zaslon</string>
-  <string name="menu_setting_recommend_to_minus">Prikaži manje obavijesti</string>
-  <string name="menu_setting_recommend_to_normal">"Ne smanjuj obavijesti"</string>
+  <string name="menu_setting_aggregatation_feedback">Opcije grupiranja</string>
+  <string name="menu_setting_feedback_donot_classify">"Ne grupiraj"</string>
+  <string name="menu_setting_more_settings">Više opcija</string>
   <string name="menu_setting_show_in_home">"Ne grupiraj"</string>
-  <string name="menu_setting_tip_recommend_minus">"Vidjet ćete manje obavijesti od %s"</string>
-  <string name="menu_setting_tip_recommend_normal">"Obavijesti od %s neće biti smanjene"</string>
   <string name="menu_setting_tip_show_in_home">"Obavijesti od %s neće biti grupirane"</string>
   <string name="menu_setting_tip_unfold">Sve će se obavijesti iz ove aplikacije smatrati važnim</string>
-  <string name="menu_setting_toast_recommend_minus">"Vidjet ćete manje obavijesti od %s"</string>
-  <string name="menu_setting_toast_recommend_normal">"Obavijesti od %s neće biti smanjene"</string>
   <string name="menu_setting_toast_show_in_home">"Obavijesti od %s neće biti grupirane"</string>
   <string name="menu_setting_unfold">Važno</string>
   <string name="midnight">Ponoć</string>
@@ -177,6 +174,7 @@
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
+  <string name="mune_setting_prefix_category">"Grupiraj s "</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
   <string name="not_sent_recently">Nedavno</string>
@@ -192,8 +190,6 @@
   <string name="notification_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
   <string name="notification_fold_title">Mapa obavijesti</string>
   <string name="notification_manager">Obavijesti aplikacije</string>
-  <string name="notification_setting_menu_feedback_text">"Ova obavijest ne bi trebala biti ovdje?
-Prijavite ovaj problem &gt;"</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
   <string name="off">Isključi</string>
@@ -204,7 +200,8 @@ Prijavite ovaj problem &gt;"</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
   <string name="search_menu_title">Traži</string>
-  <string name="settings_guide_title">Trebate druge postavke??</string>
+  <string name="setting_menu_success">Uspješno postavljeno</string>
+  <string name="settings_guide_title">Trebate druge postavke?</string>
   <string name="show_badge_notifications">Značke obavijesti</string>
   <string name="show_badge_notifications_short">Značke</string>
   <string name="status_bar_setting">Traka statusa</string>
@@ -227,8 +224,7 @@ Prijavite ovaj problem &gt;"</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
-  <string name="tip_feedback_success">Uspješno poslano</string>
-  <string name="tip_select_category">Odaberite kategoriju obavijesti</string>
+  <string name="tip_feedback_thanks">Hvala na povratnim informacijama!</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>
