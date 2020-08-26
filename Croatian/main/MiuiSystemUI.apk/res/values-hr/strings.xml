@@ -1937,6 +1937,8 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="show_silently">Prikaži obavijesti tiho</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
+  <string name="sim_state_locked_dialog_title">Nevažeća SIM kartica</string>
+  <string name="sim_state_locked_puk_dialog_message">"Unijeli ste pogrešan PUK kôd najmanje 10 puta. Vaša SIM kartica sada nije važeća. Zamijenite ovu SIM karticu drugom."</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
   <string name="slice_permission_allow">Dopusti</string>
   <string name="slice_permission_checkbox">Dopusti aplikaciji %1$s da prikazuje isječke iz bilo koje aplikacije</string>

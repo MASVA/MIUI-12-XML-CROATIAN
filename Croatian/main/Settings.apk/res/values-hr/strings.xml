@@ -1581,6 +1581,8 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_lhdc_property">Svojstva</string>
   <string name="bt_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
   <string name="bt_rarely_used_device_title">Rijetko korišteni uređaji (%d)</string>
+  <string name="bt_show_notification_summary">Prikaži trajnu obavijest u Panelu obavijesti</string>
+  <string name="bt_show_notification_title">Obavijesti o Bluetooth povezivanju</string>
   <string name="bt_trace_log">Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
   <string name="btn_back">Natrag</string>
@@ -1649,9 +1651,9 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="call_records_name_1">Mario MASVA</string>
   <string name="call_records_name_2">MIUI Adria</string>
   <string name="call_records_name_3">Dinamo Zagreb</string>
-  <string name="call_records_summary_1">9:35 AM | 26 sek. | Mario MASVA</string>
-  <string name="call_records_summary_2">Kolovoz 16 | 1m 16s | MIUI Adria</string>
-  <string name="call_records_summary_3">Kolovoz 16 | 2m 24s | Dinamo Zagreb</string>
+  <string name="call_records_summary_1">%1$d:%2$d AM | %3$d sekundi</string>
+  <string name="call_records_summary_2">Kolovoz %1$d | %2$dm %3$ds</string>
+  <string name="call_records_summary_3">Kolovoz %1$d | %2$dm %3$ds</string>  
   <string name="call_settings_primary_user_only">Promijeni postavke poziva u zadanom prostoru</string>
   <string name="call_settings_summary">Postavite govornu poštu, preusmjeravanje poziva, ID pozivatelja</string>
   <string name="call_settings_title">Postavke poziva</string>
@@ -3817,6 +3819,9 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_method_function_xiaoai">Mi AI Glasovni unos</string>
   <string name="input_method_function_xiaoai_des">Dodirnite za upotrebu Mi AI glasovnog unosa</string>
   <string name="input_method_manage">Upravljanje tipkovnicama</string>
+  <string name="input_method_middle_function_move_cursor">Pomicanje kursora</string>
+  <string name="input_method_middle_function_move_cursor_des">Pritisnite i zadržite središnje područje za pomicanje kursora</string>
+  <string name="input_method_middle_function_no_function_des">"Ne dodjeljivaj nikakve radnje"</string>
   <string name="input_method_quick_access">Brzi pristup</string>
   <string name="input_method_quick_cloud_mode_title">Obavijesti o novom sadržaju međuspremnika</string>
   <string name="input_method_quick_cloud_summary">Kopirajte predmete na kompatibilnim računalima i zalijepite ih na svoj uređaj</string>
@@ -4721,6 +4726,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
   <string name="micloud_service_summary">Sinkronizirajte popis aplikacija, izradite Sig. kopiju postavki sustava i izgleda Poč. zaslona</string>
   <string name="micloud_service_title">Mi Cloud</string>
+  <string name="middle_function_key">Središnje područje</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
