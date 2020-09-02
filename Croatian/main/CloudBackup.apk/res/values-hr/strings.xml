@@ -11,19 +11,33 @@
   <string name="back_up_task_in_process">Izrada u tijeku…</string>
   <string name="back_up_task_unfinished">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
+  <string name="backup_action_buy_cloud_space">Nabavite još prostora za pohranu</string>
+  <string name="backup_action_check_network">Provjerite mrežne postavke</string>
+  <string name="backup_action_clean_disk_space">Oslobodite prostor</string>
+  <string name="backup_action_retry_now">Pokušaj ponovno</string>
   <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je WLAN."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Mi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Oslobodite prostor za pohranu.</string>
-  <string name="backup_failed_reason_network_error">Pogreška mreže. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="backup_failed_reason_network_error">Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč. zaslona, postavke sustava, itd.</string>
   <string name="backup_now">Izradi Sig. kopiju sada</string>
+  <string name="backup_remind_buy_cloud_space">Nadogradite svoj plan za cloud pohranu</string>
+  <string name="backup_remind_clean_disk_space">Oslobodite prostor za pohranu</string>
+  <string name="backup_remind_cloud_space_cost">Veličina Sig. kopije: %s</string>
   <string name="backup_size">Veličina: %s</string>
   <string name="backup_stopped_msg">Trenutna Sig. kopija će prebrisati prethodnu. Dodirnite za prikaz.</string>
   <string name="backup_stopped_title">Sig. kopija je pauzirana</string>
   <string name="backup_success">Sig. kopija uspješno izrađena</string>
   <string name="backup_successfully">Sig. kopija uspješno izrađena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
+  <string name="backup_warning_reason_cloud_space_not_enough">"Ne mogu napraviti Sig. kopiju"</string>
+  <string name="backup_warning_reason_disk_space_not_enough">"Nema dovoljno prostora.
+Ne mogu napraviti Sig. kopiju"</string>
+  <string name="backup_warning_reason_network_error">"Pogreška mreže.
+Ne mogu napraviti Sig. kopiju"</string>
+  <string name="backup_warning_reason_no_server_response">"Veza je prekinuta
+Pokušajte ponovo"</string>
   <string name="btn_back">Natrag</string>
   <string name="btn_continue">Nastavi</string>
   <string name="btn_restore_abort">Odustani</string>

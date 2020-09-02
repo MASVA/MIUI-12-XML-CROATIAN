@@ -935,6 +935,11 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="card_tc_failed_content">"Mogući razlozi:\n 1. Operateri reagiraju sporije na početku i na kraju mjeseca. Pokušajte ponovno za nekoliko dana.\n 2. Potreban je zahtjev predložak zahtjeva mreže kada kalibrirate prvi puta. Povežite se s mrežom i pokušajte ponovno.\n 3. Vaš mobilni operater možda ne podržava slanje tekstualnih poruka s ostalim podacima i stanjem računa. Obratite se    mobilnom operateru za više informacija.\n 4. Možda postoji pogreška u podacima operatera. Pokušajte dijagnostikom operatera riješiti ovaj problem.\n 5. Izgleda da ništa ne pomaže? Dodirni "Prijavi putem SMS-a" da pošaljete povratnu informaciju Xiaomi-ju u SMS poruci."</string>
   <string name="cd_back">Natrag</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charger_detect_button_ok">Razumijem</string>
+  <string name="charger_detect_info1">Provjerite jesu li ispravljač i kabel ispravno spojeni.</string>
+  <string name="charger_detect_info2">"Punjenje se može usporiti i ako koristite nestandardne ili stare adaptere i kabele za punjenje."</string>
+  <string name="charger_detect_no_remind">"Ne prikazuj ponovo"</string>
+  <string name="charger_detect_title">Punjenje je sporo</string>
   <string name="charging_text_battery_full_time">"Zadnje punjenje "</string>
   <string name="charging_text_battery_nearly_full">Skoro napunjeno</string>
   <string name="charging_text_battery_perfect">Napunjeno</string>
@@ -975,6 +980,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="connecting">Povezivanje…</string>
   <string name="continue_install">Instaliraj</string>
+  <string name="continue_set">Nastavi s postavljanjem</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
   <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
   <string name="copy">Kopiraj</string>
@@ -1443,6 +1449,11 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
+  <string name="function_auto_reject_detail">"O ovoj značajki:
+1. Dok igrate igre, svi dolazni pozivi na SIM karticu bez mobilne podatkovne usluge automatski će se odbiti.
+2. Vidjet ćete obavijesti o propuštenim pozivima, a druga će osoba čuti zvučnu poruku koja govori da ste trenutno zauzeti.
+3. Ovu značajku podržavaju samo mobilni operateri u Kini."</string>
+  <string name="function_auto_reject_title">Reject VoLTE calls to SIM cards without data service</string>
   <string name="function_close">Isključi</string>
   <string name="function_gwsd_detail">"O ovoj značajki:
   1. Kada koristite mobilne podatke na podatkovnoj SIM ili uobičajenoj SIM kartici spojenoj na VoLTE mrežu, dolazni pozivi neće se prekinuti dok se ne javite.
@@ -1698,11 +1709,14 @@ vašeg igranja"</string>
   <string name="gtb_dialog_btn_open">Uključi</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
   <string name="gtb_dialog_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži. Želite li sada uključiti tu značajku?</string>
-  <string name="gtb_dialog_title_smart_5g">5G mrežna optimizacija</string>
+  <string name="gtb_dialog_title_smart_5g">5G optimizacija mreže</string>
   <string name="gtb_exit_game_to_gtb">Otvori gamebox</string>
   <string name="gtb_exit_game_to_home">Natrag na Poč. zaslon</string>
   <string name="gtb_setting_item_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži</string>
-  <string name="gtb_setting_item_title_smart_5g">5G mrežna optimizacija</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
+  <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Mi WLAN povećanje brzine</string>
+  <string name="gtb_wlan_speed_tips">Korištenje Mi WLAN-a…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Koristite aplikaciju Sigurnost\nda biste upravljali vašim mobilnim podacima"</string>
@@ -1784,6 +1798,9 @@ vašeg igranja"</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danas</string>
   <string name="i_know">Razumijem</string>
+  <string name="icon_text_size_giga_byte">%.1fGB</string>
+  <string name="icon_text_size_max">9.9GB</string>
+  <string name="icon_text_size_mega_byte">%dMB</string>
   <string name="im">IM</string>
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="info_antispam_close">AntiSpam je isključen</string>
@@ -4248,6 +4265,10 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_advanced_settings_after_open">Poslije</string>
   <string name="vb_advanced_settings_before_open">Prije</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Napravite jasnije pomeranje objekata poboljšavanjem animacija. Ova značajka zahtijeva veću potrošnju energije.</string>
+  <string name="vb_fps_display_unit">Hz</string>
+  <string name="vb_fps_settings">Brzina automatskog osvježavanja</string>
+  <string name="vb_fps_settings_tips">Ova značajka prilagođava brzinu osvježavanja zaslona brzini kadra videozapisa, što štedi bateriju i reprodukciju čini glatkom. Uključivanjem plutajućih komentara isključit će se stopa automatskog osvježavanja.
+</string>
   <string name="vb_quick_func_auto_bgm">Prepoznaj glazbu u pozadini</string>
   <string name="vb_quick_func_hangup_listening">Reproduciraj video zvuk s isključenim zaslonom</string>
   <string name="vb_quick_func_screen_capture">Snimka zaslona</string>

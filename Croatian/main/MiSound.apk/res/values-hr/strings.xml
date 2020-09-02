@@ -193,6 +193,8 @@
   <string name="personal_sound">Reproduciraj sa postavljenim presetom</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="retry_test">Počni ispočetka</string>
+  <string name="ringtone_output_device_summary">Omogućite zvuk za dolazne pozive i obavijesti kad su povezani dodaci (žičane slušalice ili Bluetooth uređaji)</string>
+  <string name="ringtone_output_device_title">Omogući zvuk zvučnika</string>
   <string name="save_and_apply">Spremi i primijeni</string>
   <string name="search_menu_title">Traži</string>
   <string name="second_note">Stavite slušalice.</string>

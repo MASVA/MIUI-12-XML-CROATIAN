@@ -792,7 +792,10 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_offset_top">Podignite malo telefon</string>
   <string name="face_unlock_open_eye">Otvorite oči malo šire</string>
   <string name="face_unlock_passwork">Koristi zaporku</string>
-  <string name="face_unlock_passwork_and_fingerprint">Koristi zaporku ili prepoznavanje lica</string>
+  <string name="face_unlock_passwork_and_fingerprint">Koristi zaporku ili otisak prsta</string>
+  <string name="face_unlock_passwork_and_fingerprint_v11">Unesite zaporku ili otključajte pomoću otiska prsta</string>
+  <string name="face_unlock_pattern_and_fingerprint_v11">Iscrtajte uzorak ili otključajte pomoću otiska prsta</string>
+  <string name="face_unlock_pin_and_fingerprint_v11">Unesite PIN ili otključajte pomoću otiska prsta</string>
   <string name="face_unlock_quality">"Ne mogu jasno vidjeti vaše lice"</string>
   <string name="face_unlock_reenter_content">Algoritam otključavanja lica je ažuriran. Dodirnite za ponovno snimanje lica.</string>
   <string name="face_unlock_reenter_title">Snimite vaše lice ponovno.</string>
@@ -961,8 +964,11 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
   <string name="input_password_handle_sdcard_fs">"Ne mogu ući u Drugi prostor sa Zaklj. zaslona. Uđi iz Prvog prostora."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
+  <string name="input_password_hint_text_v11">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
+  <string name="input_pattern_hint_text_v11">Iscrtajte uzorak</string>
   <string name="input_pin_code">Unesite PIN</string>
+  <string name="input_pin_hint_text_v11">Unesite PIN</string>
   <string name="input_puk_code">Unesite PUK</string>
   <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
   <string name="installer_cd_button_title">Instaliraj Android – Prijenos datoteka za Mac</string>
@@ -1241,11 +1247,6 @@ dd.MM."</string>
   <string name="lockscreen_access_pattern_start">Uzorak započet</string>
   <string name="lockscreen_carrier_default">Nema usluge</string>
   <string name="lockscreen_charging_msg">Punjenje</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Netočno ste pokušali otključati telefon %1$d puta. Nakon još %2$d neuspjelih pokušaja, telefon će se resetirati na tvorničke postavke i svi korisnički podaci će biti izgubljeni.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste unijeli zaporku %1$d puta. Nakon još %2$d neuspjelih pokušaja, od vas će se tražiti prijava na vaš Mi Račun kako bi otključali telefon .
-	
-Pokušajte ponovo za %3$d sek."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Netočno ste pokušali otključati telefon %d puta. Telefon će se vratiti na tvorničke postavke.</string>
   <string name="lockscreen_none">Ništa</string>
   <string name="lockscreen_shortcut_left">Lijevi prečac</string>
   <string name="lockscreen_shortcut_right">Desni prečac</string>
@@ -1938,7 +1939,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="sim_state_locked_dialog_title">Nevažeća SIM kartica</string>
-  <string name="sim_state_locked_puk_dialog_message">"Unijeli ste pogrešan PUK kôd najmanje 10 puta. Vaša SIM kartica sada nije važeća. Zamijenite ovu SIM karticu drugom."</string>
+  <string name="sim_state_locked_puk_dialog_message">"Unijeli ste pogrešan PUK kôd najmanje %d puta. Vaša SIM kartica sada nije važeća. Zamijenite ovu SIM karticu drugom."</string>
   <string name="simulate_color_space">Simuliraj prostor boja</string>
   <string name="slice_permission_allow">Dopusti</string>
   <string name="slice_permission_checkbox">Dopusti aplikaciji %1$s da prikazuje isječke iz bilo koje aplikacije</string>

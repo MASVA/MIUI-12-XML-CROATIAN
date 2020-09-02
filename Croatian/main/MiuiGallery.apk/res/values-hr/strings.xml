@@ -288,6 +288,7 @@
   <string name="burst_preview_title">Uzastopno slikanje</string>
   <string name="burst_save_all">Zadrži sve fotografije</string>
   <string name="burst_save_choice_title" formatted="false">Odabrano %d od %d</string>
+  <string name="burst_save_dialog_title">Odaberite koje ćete fotografije zadržati</string>
   <string name="burst_save_confirm_dialog_title">Spremanje fotografija</string>
   <string name="burst_save_error_msg">"Ne mogu spremiti"</string>
   <string name="burst_save_processing">Obrada…</string>
@@ -1548,6 +1549,7 @@ za fotografije"</string>
   <string name="photo_movie_module_finish">Isječci uspješno učitani</string>
   <string name="photo_movie_module_loading">Učitavanje isječaka…</string>
   <string name="photo_movie_select_image_range">Isječci mogu sadržavati 3-20 fotografija</string>
+  <string name="photo_page_rotate_screen">Zakreni zaslon</string>
   <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u Galeriju"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija spremljena u Galeriju</string>
   <string name="photo_portrait_color_download_fail">"Preuzimanje dodatka nije uspjelo. Spojite se na mrežu i pokušajte ponovo."</string>
@@ -2064,8 +2066,9 @@ za fotografije"</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_burst_photo_enter">Vremensko uzastopno slikanje</string>
   <string name="time_burst_preview_title">Vremensko uzastopno slikanje</string>
-  <string name="time_burst_save_all">Spremi sve fotografije</string>
-  <string name="time_burst_save_select">Spremi odabrane fotografije</string>
+  <string name="time_burst_save_all">Izvezi sve fotografije</string>
+  <string name="time_burst_save_dialog_title">Izvezi stavke</string>
+  <string name="time_burst_save_select">Izvezi odabrane fotografije</string>
   <string name="time_burst_save_video">Spremi kao videozapis</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>

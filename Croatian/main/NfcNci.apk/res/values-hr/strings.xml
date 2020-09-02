@@ -29,6 +29,8 @@
   <string name="inbound_me_profile_text">Dodirnite kako biste ovu osobu dodali kao kontakt</string>
   <string name="inbound_me_profile_title">Kontakt primljen NFC-om</string>
   <string name="nfcUserLabel">NFC</string>
+  <string name="nfc_blocking_alert_message">Dodirnite da biste saznali kako popraviti.</string>
+  <string name="nfc_blocking_alert_title">NFC je možda blokiran</string>
   <string name="nfc_enabled_dialog">"NFC je trenutno onemogućen. 
 Želite li ga omogućiti za NFC Uslugu"</string>
   <string name="no">Ne</string>

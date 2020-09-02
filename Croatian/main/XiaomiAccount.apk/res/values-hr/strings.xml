@@ -422,7 +422,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_extra_gdpr_license">Izradom vašeg Mi Računa znači da se slažete da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke za potvrdu (npr. Kontrolne kodove), podatke Drugog prostora (npr. informacije o načinima korištenja Drugog prostora, ID-ova koji se koriste u Prvom i Drugom prostori) i druge podatke navedene u našim pravilima o privatnosti. Pogledajte naša Pravila o privatnosti kako biste saznali kako obrađujemo i upotrebljavamo osobne podatke.</string>
   <string name="passport_failed_to_send_activate_email">"Ne mogu poslati e-poštu aktivacije"</string>
   <string name="passport_find_password_on_web_msg">Posjetite account.mi.com da resetirate svoju zaporku.</string>
-  <string name="passport_first_login_prompt">Mi Račun će se izraditi automatski kada se prvi put prijavite.</string>
+  <string name="passport_first_login_prompt">Mi Račun će se izraditi automatski kada prvi put koristite broj telefona.</string>
   <string name="passport_forget_password">Zaboravljena zaporka</string>
   <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
   <string name="passport_get_back_pwd">Dobivanje zaporke računa</string>
