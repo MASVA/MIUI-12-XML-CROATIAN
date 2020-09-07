@@ -91,6 +91,9 @@
   <string name="auto_identify_btn_title">Ova poruka se šalje s nepoznatog broja.</string>
   <string name="auto_identify_confirmation">Aktivacija ove značajke može potrajati nekoliko minuta.</string>
   <string name="back_to_message_list">Natrag na popis poruka</string>
+  <string name="banner_btn_install">Instaliraj</string>
+  <string name="banner_btn_not_now">Ne sad</string>
+  <string name="banner_btn_open">Otvori</string>
   <string name="batch_adding_progress_message">Dodavanje…</string>
   <string name="batch_delete_confirm_dialog_message">Jeste li sigurni da želite obrisati odabranu %1$s poruku(e)?</string>
   <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke(a)</string>
@@ -220,6 +223,7 @@
   <string name="debug_enable_success">Otkl. pogrešaka je dostupno</string>
   <string name="debug_export_db">Izvoz baze podataka</string>
   <string name="debug_title">Otkl. pogrešaka</string>
+  <string name="default_google_message_promo_content">"Googleove poruke postavili ste kao zadanu aplikaciju za razmjenu poruka. Dodirnite \"Otvori\" za početak slanja poruka."</string>
   <string name="del_private_contact">Ukloni sve privatne kontakte</string>
   <string name="delete">Izbriši</string>
   <string name="delete_block_conversation">Izbriši ovaj razgovor</string>
@@ -282,7 +286,8 @@
   <string name="enable_password_protect">Omogućite zaštitu zaporkom</string>
   <string name="enable_visible_pattern_title">Napravite uzorak vidljivim</string>
   <string name="enabled">Uključeno</string>
-  <string name="english_subject_limit">max 40 znakova</string>
+  <string name="enable_classify_tip_dialog_content">Ovo će ponovno pokrenuti aplikaciju Poruke. Svjedeno nastaviti?</string>
+  <string name="english_subject_limit">maks. 40 znakova</string>
   <string name="enter_edit_mode">Izbrisati</string>
   <string name="error_code_label">"Greška koda: "</string>
   <string name="error_field_required">Potrebno</string>
@@ -351,6 +356,8 @@
   <string name="from_pkg_name">Iz aplik: </string>
   <string name="ft_cfs_dialog_content">"Datoteke se ne mogu isporučiti pomoću RCS-a. Poslati poveznicu u SMS poruci?"</string>
   <string name="ft_cfs_dialog_title">Alternativni prijenos datoteka</string>
+  <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na WLAN mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Prikaz detalja&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="google_message_promo_title">Nadogradite svoju aplikaciju za razmjenu poruka</string>
   <string name="group_already_kicked_hint">"Ne mogu slati poruke. Nisi član ovog grupnog razgovora."</string>
   <string name="group_member_is_composing">Tipka…</string>
   <string name="group_message">Grupne poruke</string>
@@ -393,6 +400,8 @@
   <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvoz…</string>
   <string name="in_sms">Poruka</string>
+  <string name="installed_google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na WLAN mreži, dijeljenje visokokvalitetnih medija i još mnogo toga.</string>
+  <string name="installed_google_message_promo_title">Počnite koristiti Poruke</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>
   <string name="invalid_destination">Pogrešna adresa odredišta.</string>
@@ -663,6 +672,9 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="perm_purpose_rcs_account">"Za prikazivanje početnih vodiča novim korisnicima"</string>
   <string name="perm_purpose_rcs_phone_state">Za pristup IMEI radi identifikacije vašeg uređaja</string>
   <string name="perm_purpose_rcs_storage">Za spremanje slika, videozapisa, datoteka i ostalih RCS privitaka</string>
+  <string name="permission_retry_deny">Odustani</string>
+  <string name="permission_retry_dialog_msg">Aplikacija Poruke treba dopuštenje da bi mogla normalno raditi. Da odobrite potrebna dopuštenja, dodirnite \"Postavke\", odaberite \"Dopuštenja aplikacije\", i omogućite aplikaciji pristup telefonu, SMS-u i kontaktima.</string>
+  <string name="permission_retry_setting">Postavke</string>
   <string name="phrase_confirm_delete_message">Odabrani izraz bit će izbrisan</string>
   <string name="phrase_empty">Nema izraza</string>
   <string name="phrase_from">Šalje %1s</string>
@@ -702,6 +714,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
   <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
   <string name="pref_summary_delivery_ringtone">Primi zvučne obavijesti za isporučene poruke.</string>
+  <string name="pref_summary_enable_classify">Premjesti promotivne i financijske poruke na zasebne kartice</string>
   <string name="pref_summary_hide_festival">Sakrij karticu Pozdravi za Ne-kineski jezik</string>
   <string name="pref_summary_manage_sim_messages">Upravljaj porukama spremljenim na SIM kartici</string>
   <string name="pref_summary_mms_auto_retrieval">Preuzmi fotografije i videozapise u porukama automatski</string>
@@ -727,7 +740,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_auto_delete">Izbriši stare poruke</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_collapse_ad_notification">Grupne obavijesti o promotivnim porukama</string>
-  <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
+  <string name="pref_title_delivery_reports">Status isporuke</string>
+  <string name="pref_title_enable_classify">Automatski grupiraj poruke</string>
   <string name="pref_title_festival_networking">Obavijest o povezivanju</string>
   <string name="pref_title_fwd_sender_info">Proslijedi informaciju pošiljatelja</string>
   <string name="pref_title_hide_festival">Sakrij karticu Pozdravi</string>
@@ -811,18 +825,18 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="rcs_group_notification_invitation">Pozivnica za grupni chat</string>
   <string name="rcs_hello_from_pc">Prijavite se na Fetion na računalu da biste prenijeli datoteke.</string>
   <string name="rcs_main_purpose">Ova značajka omogućuje vam slanje i primanje RCS poruka. RCS poruke omogućuje China Mobile.</string>
-  <string name="rcs_message">China Mobile Messaging</string>
+  <string name="rcs_message">5G Poruke</string>
   <string name="rcs_message_disable">"Ovu poruku nije moguće pregledati u Drugom prostoru"</string>
   <string name="rcs_message_title">RCS Poruka</string>
-  <string name="rcs_msg">China Mobile Messaging</string>
-  <string name="rcs_not_online">"Ne mogu China Mobile Messaging. Provjerite postavke mreže i pokušajte ponovno."</string>
+  <string name="rcs_msg">5G Poruke</string>
+  <string name="rcs_not_online">"Ne mogu koristiti 5G Poruke. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="rcs_offline">Niste prijavljeni na UC. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-  <string name="rcs_offline_hint">"China Mobile Messaging is offline. Can't forward this message."</string>
+  <string name="rcs_offline_hint">"5G Poruke je offline. Ne mogu proslijediti ovu poruku."</string>
   <string name="rcs_pref_button_login">Prijava</string>
   <string name="rcs_pref_button_logout">Odjava</string>
   <string name="rcs_pref_category_rcs">RCS poruke</string>
   <string name="rcs_pref_category_rcs_message">RCS poruke</string>
-  <string name="rcs_pref_category_set_alias">SPokažite pseudonim drugoj osobi kada koristite RCS</string>
+  <string name="rcs_pref_category_set_alias">Pokažite pseudonim drugoj osobi kada koristite RCS</string>
   <string name="rcs_pref_cfs">Alternativni prijenos datoteka</string>
   <string name="rcs_pref_default_sending_method">Zadani način slanja</string>
   <string name="rcs_pref_ft_auto_download">Automatski preuzmi datoteke</string>
@@ -840,13 +854,13 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="rcs_recipient_type_group">Proslijedi na grupni chat</string>
   <string name="rcs_recipient_type_pc">Proslijedi rnaačunalo</string>
   <string name="rcs_remember_my_choice">Zapamti moj odabir</string>
-  <string name="rcs_resend_not_online">"Ne mogu koristiti China Mobile Messaging"</string>
+  <string name="rcs_resend_not_online">"Ne mogu koristiti 5G Poruke"</string>
   <string name="rcs_resend_sim_card_not_insert">"SIM kartica nije umetnuta"</string>
   <string name="rcs_send_rms_remind_change">Postavke</string>
-  <string name="rcs_send_rms_remind_desp">China Mobile Messaging is an instant messaging service provided by China Mobile. You can turn this feature off in the Settings.</string>
-  <string name="rcs_send_rms_remind_title">Send messages using China Mobile Messaging</string>
+  <string name="rcs_send_rms_remind_desp">5G Poruke usluga je razmjene trenutnih poruka koju pruža China Mobile. Ovu značajku možete isključiti u Postavkama.</string>
+  <string name="rcs_send_rms_remind_title">Slanje poruka putem 5G Poruke</string>
   <string name="rcs_service_agreement">Ugovor o usluzi</string>
-  <string name="rcs_setting">China Mobile Messaging postavke</string>
+  <string name="rcs_setting">Postavke 5G Poruke</string>
   <string name="rcs_setting_tips">Možete promijeniti alternativne načine isporuke u postavkama Poruka.</string>
   <string name="rcs_silence_message">Silence message notifications</string>
   <string name="rcs_summary_auto_resend_mms">"Convert China Mobile multimedia messages to SMS after the original message couldn't be sent. Your carrier will charge you for this message."</string>
@@ -1041,8 +1055,9 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="sp_category_bank">Obavijesti poruke iz banke</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Obavijesti</string>
-  <string name="sp_mark_as_read">Označiti sve poruke pročitanima?</string>
+  <string name="sp_mark_as_read">Označiti sve poruke pročitanima ?</string>
   <string name="sp_mark_as_read_menu_title">Označi kao pročitano</string>
+  <string name="sp_msg_entry">Usluge</string>
   <string name="sp_mark_as_read_progress">Obrada…</string>
   <string name="sp_mark_as_read_title">Označiti sve obavijesti kao pročitanima?</string>
   <string name="sqlite_disk_full">Prostor za pohranu na uređaju je pun</string>
@@ -1132,6 +1147,9 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="to_label">"Prima "</string>
   <string name="to_send_wrapper">Poslano će biti u %s</string>
   <string name="toast_failed_to_close_priv_auth">"Autorizaciju nije moguće opozvati. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="toast_not_show_camera_perm_req">Dopustite aplikaciji Poruke korištenje kamere da bi mogla koristiti ovu značajku</string>
+  <string name="toast_not_show_microphone_perm_req">Dopustite aplikaciji Poruke korištenje mikrofona da bi mogla koristiti ovu značajku</string>
+  <string name="toast_not_show_storage_perm_req">Dopustite aplikaciji Poruke pristup pohrani da bi mogla koristiti ovu značajku</string>
   <string name="toast_pending_hangup_msg">Poruka će biti poslana nakon završetka poziva</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>

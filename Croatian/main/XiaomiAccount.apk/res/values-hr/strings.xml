@@ -712,7 +712,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
   <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
   <string name="updated_nothing">Ažurirano</string>
-  <string name="used_cloud_storage_info">Iskorišten prostor za pohranu %s</string>
+  <string name="used_cloud_storage_info">Iskorišteno %s</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="v7_preference_off">ISKLJUČENO</string>

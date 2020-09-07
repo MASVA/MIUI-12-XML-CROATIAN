@@ -288,6 +288,7 @@
   <string name="enable_usb">Povežite USB uređaj</string>
   <string name="encrypt_error">"Ne mogu sakriti datoteke, pokušajte ponovno"</string>
   <string name="encrypt_prefix">SKRIVENO</string>
+  <string name="encrypt_setting">Šifriranje</string>
   <string name="encrypt_success">Uspješno skriveno</string>
   <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
   <string name="encrypting">Šifriranje…</string>
@@ -631,6 +632,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="not_installed_documentsui">"Nemate instaliranu DocumentsUI aplikaciju"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_documentui">"Aplikacija DocumentUI nije podržana na ovom uređaju"</string>
+  <string name="not_use">Ne sada</string>
   <string name="notif_server_starting">Pokretanje FTP poslužitelja…</string>
   <string name="notif_title">FTP poslužitelj pokrenut.</string>
   <string name="notification_content_hint">Dodirni za prikaz</string>
@@ -681,6 +683,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_delete_confirm_message">Izbrisati stavku?</string>
   <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan."</string>
   <string name="operation_deleting">Brisanje…</string>
+  <string name="operation_encrypt_summary">Šifriranje datoteka u privatnoj mapi. Dešifriranje velikih datoteka može potrajati duže od očekivanog.</string>
+  <string name="operation_encrypt_title">Šifriranje privatnih datoteka</string>
   <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
   <string name="operation_download_link">Kreiraj vezu za preuzimanje</string>
   <string name="operation_favorite">Favoriti</string>
@@ -790,6 +794,9 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="private_folder">Skriveno</string>
   <string name="private_folder_no_file_hints">Nema skrivenih datoteka.</string>
   <string name="private_folder_update">Ažuriranje skrivenih datoteka…</string>
+  <string name="private_folder_update_msg">Aplikacija Datoteke uvodi dodatnu sigurnosnu mjeru: sada možete šifrirati privatne datoteke!</string>
+  <string name="private_folder_update_msg_summary">Dešifriranje će usporiti uklanjanje datoteka iz privatne mape. U postavkama možete uključiti/isključiti šifriranje.</string>
+  <string name="private_folder_update_tips">Nova značajka</string>
   <string name="private_toast_hint1">Dodirni za dodavanje datoteka u skrivene mape</string>
   <string name="private_toast_hint2">Da sakrijete datoteku, pritisnite i zadržite je, a zatim je dodajte u skrivenu mapu.</string>
   <string name="private_toast_hint3">Povucite prema dolje za prikaz skrivenih mapa</string>
@@ -1129,6 +1136,7 @@ oslobodili prostor.</string>
   <string name="uploading">Učitavanje…</string>
   <string name="uploading_video">Učitavanje…</string>
   <string name="usb_label">USB</string>
+  <string name="use">Koristi</string>
   <string name="use_to_all">Primjeni na sve</string>
   <string name="used">Iskorišteno</string>
   <string name="user">Korisnici</string>

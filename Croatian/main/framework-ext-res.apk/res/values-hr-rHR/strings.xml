@@ -118,8 +118,8 @@
   <string name="input_method_clipboard_clear_all_phrase_title">Čišćenje međuspremnika</string>
   <string name="input_method_clipboard_copy_success">Uspješno kopirano</string>
   <string name="input_method_clipboard_delete_success">Uspješno izbrisano</string>
-  <string name="input_method_clipboard_move_cursor_guide1">Pritisnite i držite plavo područje za pomicanje kursora ~</string>
-  <string name="input_method_clipboard_move_cursor_guide2">Pomičite prst vodoravno ~</string>
+  <string name="input_method_clipboard_move_cursor_guide1">Pritisnite i držite plavo područje za pomicanje kursora</string>
+  <string name="input_method_clipboard_move_cursor_guide2">Pomičite prst vodoravno</string>
   <string name="input_method_clipboard_participle">Odvojene riječi</string>
   <string name="input_method_clipboard_settings_button">Postavke</string>
   <string name="input_method_clipboard_tips">Kopirane stavke bit će izbrisane iz međuspremnika nakon 48 sati</string>

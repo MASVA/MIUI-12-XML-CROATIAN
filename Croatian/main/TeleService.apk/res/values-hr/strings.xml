@@ -1537,7 +1537,7 @@ Uvijek koristi ovaj broj"</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Podatkovni roaming je uključen</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Roaming je u tijeku, podatkovni paket je aktivan</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Roaming je u tijeku, potreban je podatkovni paket</string>
-  <string name="mobile_intelligent_connection_title">Inteligentna veza s mobilnom mrežom</string>
+  <string name="mobile_intelligent_connection_title">Inteligentna veza mobilne mreže</string>
   <string name="mobile_network_settings_not_available">Postavke mobilne mreže nisu dostupne za tog korisnika</string>
   <string name="mobile_networks">Postavke mobilne mreže</string>
   <string name="mobile_property">Svojstva mobilne mreže</string>
