@@ -375,6 +375,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="hide_pull_down_positive">Sakrij</string>
   <string name="home_apply_failured">"Ne mogu postaviti pozadinu Poč. zaslona"</string>
   <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
+  <string name="home_daily">Dnevni naglasci</string>
   <string name="i_know">Razumijem</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="in_the_end">Nema više stavki za prikazivanje</string>
@@ -382,16 +383,16 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="incall_show_apply_fail">"Ne mogu postaviti"</string>
   <string name="incall_show_apply_success">"Uspješno postavljeno. Da biste ovu značajku isključili,
 idite u Postavke &gt; Zvuk &amp; vibracija &gt; Profilni videozapis."</string>
-  <string name="incall_show_apply_success_without_ringtone">"Uspješno postavljeno. Ovaj videozapis nema zvuka. Koristit će se originalni zvuk zvona.
+  <string name="incall_show_apply_success_without_ringtone">"Uspješno postavljeno. Ovaj videozapis nema zvuka. Koristiti će se originalni zvuk zvona.
 Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &gt; Profilni videozapis."</string>
   <string name="incall_show_find_more">Pronađi više</string>
   <string name="incall_show_not_set">Nema profilnog videozapisa</string>
   <string name="incall_show_remove">Ukloni profilni videozapis</string>
-  <string name="incall_show_remove_dialog_message">"Već ste postavili profilni videozapis za odlazne pozive. UklonitI videozapis?"</string>
+  <string name="incall_show_remove_dialog_message">"Već ste postavili profilni videozapis za odlazne pozive. Ukloniti videozapis?"</string>
   <string name="incall_show_remove_success">Profilni videozapis uspješno uklonjen</string>
   <string name="incall_show_title">Profilni videozapisi</string>
   <string name="incompatible_dialog_cancel">"Ne postavljaj"</string>
-  <string name="incompatible_dialog_message">"Ova tema još nije u potpunosti kompatibilna s ovom verzijom MIUI-ja. Neke stranice možda neće raditi ispravno."</string>
+  <string name="incompatible_dialog_message">"Ova tema još nije u potpunosti kompatibilna s ovom MIUI verzijom. Neke stranice možda neće raditi ispravno."</string>
   <string name="incompatible_dialog_ok">Razumijem</string>
   <string name="incompatible_dialog_title">Problemi s kompatibilnošću</string>
   <string name="internal_online_precust_gorgeous_black_name">Prekrasna crna</string>
@@ -401,12 +402,14 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="item_resource_audio_optional_color_ring">Zvuk povratnog signala</string>
   <string name="item_resource_audio_optional_notification_ring">Obavijesti</string>
   <string name="item_resource_audio_optional_phone_ring">Melodija zvona</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="kuyin_user_agreement_content">Pretplate za prilagođene melodije zvona pruža iFlytek. Morate se složiti s %s prije korištenja prilagođenih pretplata za melodije zvona. Slažete te li se?</string>
   <string name="kuyin_user_agreement_content_href">iFlytek Pravila o privatnosti</string>
   <string name="lab">Beta značajke</string>
   <string name="like_list">Stavke koje su mi sviđaju</string>
   <string name="live_wallpaper">Dinamične pozadine</string>
   <string name="loading">Učitavam…</string>
+  <string name="loading_picture">Učitavanje slike…</string>
   <string name="loading_resource_detail_fail">"Ne mogu učitati resurse!"</string>
   <string name="loading_resource_detail_info">Samo trenutak…</string>
   <string name="local_photos">Lokalne fotografije</string>
@@ -425,6 +428,8 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="lockscreen_wallpaper">Zaklj. zaslon</string>
   <string name="lockstyle_personal_settings">Prilagođeno</string>
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
+  <string name="material_slider_range_end">Kraj,</string>
+  <string name="material_slider_range_start">Početak,</string>
   <string name="loop_wallpaper_is_here">Dijaprojekcija slika pozadine sada je dostupna</string>
   <string name="mi_wallpaper">MIUI pozadina</string>
   <string name="midnight">AM</string>
@@ -544,6 +549,7 @@ dd.MM"</string>
   <string name="morning">AM</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
@@ -837,6 +843,7 @@ dd.MM"</string>
   <string name="resource_share_subject">Podijeli temu: %1$s</string>
   <string name="resource_share_text">Evo teme koja bi vam se mogla svidjeti: %1$s! Poveznica: %2$s</string>
   <string name="resource_share_title">Podijeli</string>
+  <string name="resource_status_error">"Dogodila se pogreška. Trenutno ne mogu vidjeti ovu pozadinu."</string>
   <string name="resource_system_title">Resursi sustava</string>
   <string name="resource_tab_to_view">Dodirnite za pregled.</string>
   <string name="resource_tip_select_none">Nije odabrano</string>
@@ -914,6 +921,18 @@ dd.MM"</string>
   <string name="settings_search_keyword_font_online">Online fontovi</string>
   <string name="settings_search_keyword_font_style">Format fonta</string>
   <string name="settings_search_keyword_font_wechat">WeChat fontovi</string>
+  <string name="share_copy_theme_url">Kopiraj URL teme</string>
+  <string name="share_copy_url_success">Uspješno kopirano</string>
+  <string name="share_copy_wallpaper_url">Kopiraj URL slike pozadine</string>
+  <string name="share_picture_loading">Učitavanje slike…</string>
+  <string name="share_save_success">Uspješno spremljeno</string>
+  <string name="share_save_to_photo">Galerija</string>
+  <string name="share_send_to_friend">WeChat</string>
+  <string name="share_theme_content_text">"Ovdje možete preuzeti nevjerojatnu temu \"%1$s\": %2$s. Od "</string>
+  <string name="share_to_qq">QQ</string>
+  <string name="share_to_weibo">Weibo</string>
+  <string name="share_vipaccount">Mi Community</string>
+  <string name="share_wallpaper_content_text">"Ovdje možete preuzeti nevjerojatnu sliku pozadine \"%1$s\": %2$s. Od "</string>
   <string name="shortcut_add">Dodaj</string>
   <string name="shortcut_cancel">Ne hvala</string>
   <string name="shortcut_message">Dodajte prečac Poč. zaslona!</string>
@@ -1187,6 +1206,7 @@ Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
   <string name="wallpaper_set_as_incall_show">Postavi kao profilni video</string>
   <string name="wallpaper_set_as_lockscreen">Postavi za Zaklj. zaslon</string>
   <string name="wallpaper_setting_all">Sve slike pozadine</string>
+  <string name="wallpaper_setting_library">Knjižnica</string>
   <string name="wallpaper_setting_live">Uživo</string>
   <string name="wallpaper_settings">Postavke slike pozadine</string>
   <string name="wallpaper_settings_change_wallpaper">Promjeni</string>
@@ -1198,6 +1218,7 @@ Idite u Teme&gt; Moj račun &gt; Lab. Tema za više opcija."</string>
   <string name="wallpaper_settings_page_title">Slika pozadine</string>
   <string name="wallpaper_share_alert">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
   <string name="wallpaper_static">Statična</string>
+  <string name="wallpaper_subject_version">MI</string>
   <string name="wechat_not_found">Prvo instalirajte WeChat</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

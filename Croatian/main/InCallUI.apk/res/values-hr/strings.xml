@@ -98,6 +98,7 @@
   <string name="crbt_second_hold_prompt">%s je na čekanju…</string>
   <string name="crbt_second_hold_prompt_conference">Konferencijski poziv je na čekanju…</string>
   <string name="crbt_second_hold_prompt_no_name">Prethodni poziv je na čekanju…</string>
+  <string name="description_icon_sim_card">SIM %1$d</string>
   <string name="default_area_code_setting">Zadani kod područja</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_dialpad">Tipke za biranje</string>

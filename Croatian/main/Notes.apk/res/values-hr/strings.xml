@@ -130,6 +130,7 @@
   <string name="done">Gotovo</string>
   <string name="edit_header_done_description">Gotovo</string>
   <string name="edit_header_lock_description">Skrivena bilješka</string>
+  <string name="edit_note_hint_title">Naslov</string>
   <string name="empty_folder_hint">"Nema mapa
 Dodirnite + da napravite mapu"</string>
   <string name="empty_folder_import_notes">Uvezi bilješke</string>

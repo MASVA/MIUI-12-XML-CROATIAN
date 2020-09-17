@@ -261,6 +261,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">javljanje, nadzor i završavanje poziva</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Usluga</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Čitanje SMS usluge</string>
+  <string name="HIPS_Perm_recognition">Pristup informacijama o aktivnostima</string>
+  <string name="HIPS_Perm_recognition_Desc">Dopustite aplikaciji pristup informacijama o vašoj aktivnosti</string>
   <string name="HIPS_Perm_service_foreground">Usluga u prednjem planu</string>
   <string name="HIPS_Perm_service_foreground_Desc">Usluga u prednjem planu</string>
   <string name="HIPS_Perm_show_when_locked">Prikaži na Zaklj. zaslonu</string>

@@ -288,6 +288,8 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="activating">Aktivacija…</string>
   <string name="active_device_admin_msg">Aplikacija administratora uređaja</string>
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
+  <string name="activity_check_context">"Vaš se uređaj sada pokušava povezati s internetom. Ovaj postupak može potrajati duže nego što se očekuje ako upotrebljavate mobilne podatke. Umjesto toga možete se vratiti i povezati s WLAN mrežom ili čekati dok se ne uspostavi mobilna podatkovna veza."</string>
+  <string name="activity_check_title">Povezivanje s internetom</string>
   <string name="activity_list_empty">Nisu pronađene podudarne radnje.</string>
   <string name="activity_not_found">Aplikacija nije instalirana na vašem telefonu.</string>
   <string name="activity_picker_label">Odabir aktivnosti</string>
@@ -2550,6 +2552,12 @@ Da biste pokušali riješiti taj problem, možete zaustaviti aplikaciju %1$s i s
   <string name="dialog_backup_password_restore_tips">"Ne mogu vratiti stavke kad je uključena zaporka za Sig. kopije. Prvo isključite zaporku."</string>
   <string name="dialog_backup_password_to_settings">Postavke</string>
   <string name="dialog_backup_title">Ažurirati Sig. kopije prije vraćanja na tvorničke postavke?</string>
+  <string name="dialog_check_button_negative">Pokušaj ponovo</string>
+  <string name="dialog_check_button_positive">Poveži se na WLAN</string>
+  <string name="dialog_check_context">"Vaš se uređaj sada ne može povezati s internetom.
+1. Dodirnite \"Poveži se na WLAN\" za odabir jedne od dostupnih mreža.
+2. Ako želite koristiti mobilne podatke, dodirnite \"Pokušaj ponovo\" ili izvadite i ponovo umetnite SIM karticu."</string>
+  <string name="dialog_check_title">"Ne mogu se povezati s internetom"</string>
   <string name="dialog_chose_item">Odaberite stavku za prikaz</string>
   <string name="dialog_content_login">Prijaviti se na vaš Mi Račun za primanje ažuriranje?</string>
   <string name="dialog_location_message">"Vaš telefon ne može upravljati baterijom na uobičajen način jer aplikacija %1$s neprestano zahtijeva vašu lokaciju kada je ne upotrebljavate.
@@ -2587,6 +2595,10 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dialog_title_font_size">Veličina fonta</string>
   <string name="dialog_title_hdmi_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_login">Prijavite se u vaš Mi Račun</string>
+  <string name="dialog_wifi_button_negative">Ne</string>
+  <string name="dialog_wifi_button_positive">Da</string>
+  <string name="dialog_wifi_context">Za postavljanje uređaja morate se povezati s internetom. Ako se ne povežete s WLAN-om, možda će se koristiti mobilni podaci. Korištenje mobilnih podataka može generirati dodatne naknade operatera. Svejedno koristiti mobilne podatke?</string>
+  <string name="dialog_wifi_title">Korištenje mobilnih podataka</string>
   <string name="dialog_yes">Da</string>
   <string name="dirac_control">Optimiziranje kvalitete zvuka</string>
   <string name="dirac_mode_earbuds">Mi slušalice</string>
@@ -3352,6 +3364,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="following_us_title">Pratite nas</string>
   <string name="font_size_exhuge">Extra velik</string>
   <string name="font_size_huge">Ogroman</string>
+  <string name="font_size_kddi">Srednji</string>
   <string name="font_size_large">Veliki</string>
   <string name="font_size_make_larger_desc">Povećaj</string>
   <string name="font_size_make_smaller_desc">Smanji</string>
@@ -9745,12 +9758,14 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_configure_titlebar">Konfiguriraj WLAN</string>
   <string name="wifi_configured_ap_list">Prethodno konfigurirane pristupne točke</string>
   <string name="wifi_connect">Poveži</string>
+  <string name="wifi_connect_channel">WLAN kanal:</string>
   <string name="wifi_connect_cmcc_dialog_cancel">Odustani</string>
   <string name="wifi_connect_cmcc_dialog_confirm">U redu</string>
   <string name="wifi_connect_cmcc_dialog_content">Povezano na CMCC mrežne podatkovne usluge.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Ne prikazuj ponovno"</string>
   <string name="wifi_connect_cmcc_dialog_title">Obavijesti uporabe podataka</string>
   <string name="wifi_connect_failed_message">Telefon se nije mogao povezati s ovom WLAN mrežom.</string>
+  <string name="wifi_connect_frequency">WLAN frekvencija:</string>
   <string name="wifi_connected_mac_randomization">Nasumični odabir MAC-a pri povezivanju</string>
   <string name="wifi_connected_mac_randomization_summary">Nasumično odaberi MAC adresu pri povezivanju s WLAN mrežama</string>
   <string name="wifi_connected_no_internet">Povezano, bez interneta</string>
