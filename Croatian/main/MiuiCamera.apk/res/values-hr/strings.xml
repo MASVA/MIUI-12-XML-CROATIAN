@@ -246,6 +246,9 @@ i prilagodite postavke automatski"</string>
   <string name="ai_watermark_toast_off">AI je isklj.</string>
   <string name="ai_watermark_toast_on">AI je uklj.</string>
   <string name="albums">Albumi</string>
+  <string name="aiwatermark_location_absent_hint">"Nije bilo moguće dobiti informacije o lokaciji"</string>
+  <string name="aiwatermark_location_list_title">Lokacija</string>
+  <string name="aiwatermark_location_tips">Dopustite Kameri da pristupi vašoj lokaciji kako bi dobila relevantnije oznake</string>
   <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
   <string name="ambilight_description_title">O dužoj ekspoziciji</string>
   <string name="ambilight_intro_crowd_moving_part1">Prilikom snimanja u prometnoj ulici zamolite svog subjekta da miruje. Drugi će se ljudi pojaviti kao mutni tragovi.</string>

@@ -9237,7 +9237,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="use_otg_file_transfers_summary">Sporije 500 mA punjenje i prijenos datoteka</string>
   <string name="use_otg_title">USB On-The-Go</string>
   <string name="use_personalized_ad_service">Personalizirana Preporuka oglasa</string>
-  <string name="use_personalized_ad_service_summary">Kada se preporuke isključe, i dalje ćete vidjeti istu količinu oglasa kao kada je uključena, no neće se temeljiti na vašim podacima o ponašanju ili vašim osobnim podacima.</string>
+  <string name="use_personalized_ad_service_summary">Kad su isključene preporuke za prilagođene oglase, i dalje ćete vidjeti istu količinu oglasa kao i kad je značajka uključena. Oglasi, međutim, više neće biti relevantni jer se neće temeljiti na vašim osobnim željama.</string>
   <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezik sustava</string>
   <string name="use_this_wlan">Ostani povezan</string>

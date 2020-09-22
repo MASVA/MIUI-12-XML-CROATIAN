@@ -7,5 +7,6 @@
     <string-array name="privacy_dialog_runtime_permission_desc">
         <item>Za prijavu putem Mi Računa</item>
         <item>Za pregled, prijenos, preuzimanje i sinkronizaciju datoteka</item>
+		<item>Za otkrivanje dostupnih ažuriranja</item>
     </string-array>
 </resources>

@@ -55,9 +55,38 @@
   <string name="close">Zatvori</string>
   <string name="combine_loan">Kombinirani kredit</string>
   <string name="commercial_loan">Komercijalni kredit</string>
+  <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
+  <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite Google Play usluge.</string>
+  <string name="common_google_play_services_enable_title">Omogući usluge za Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Zahtijeva aplikacija %1$s</string>
+  <string name="common_google_play_services_install_button">Preuzmi usluge za Google Play</string>
+  <string name="common_google_play_services_install_text_phone">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem telefonu.</string>
+  <string name="common_google_play_services_install_text_tablet">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem tabletu.</string>
+  <string name="common_google_play_services_install_title">Preuzmi usluge za Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun.</string>
+  <string name="common_google_play_services_invalid_account_title">Nevažeći račun</string>
+  <string name="common_google_play_services_needs_enabling_title">Aplikacija zahtijeva da Usluge za Google Play budu omogućene.</string>
+  <string name="common_google_play_services_network_error_text">Potrebna je podatkovna veza za povezivanje s uslugama Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Mrežna pogreška</string>
+  <string name="common_google_play_services_notification_needs_update_title">Aplikacija zahtijeva ažuriranje Usluga za Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
+  <string name="common_google_play_services_sign_in_failed_text">Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Prijava nije uspjela</string>
+  <string name="common_google_play_services_unknown_issue">Nepoznata poteškoća s uslugama za Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">%1$s radi uz pomoć Google Play usluge koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču.</string>
+  <string name="common_google_play_services_unsupported_title">Usluge za Google Play</string>
+  <string name="common_google_play_services_update_button">Ažuriranje</string>
+  <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+  <string name="common_google_play_services_update_title">Ažuriraj usluge za Google Play</string>
+  <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
+  <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
+  <string name="common_open_on_phone">Otvaranje na telefonu</string>
+  <string name="common_signin_button_text">Prijava</string>
+  <string name="common_signin_button_text_long">Prijava uslugom Google</string>
   <string name="convert_currency">Konverzija valuta</string>
   <string name="convertion_unit">Konverzija jedinica</string>
   <string name="convertion_unit_area">Konverzija površine</string>
+  <string name="convertion_unit_data">Konverzija podataka</string>
   <string name="convertion_unit_length">Konverzija duljine</string>
   <string name="convertion_unit_radix">Brojčani sustav</string>
   <string name="convertion_unit_temperature">Konverzija temperature</string>
@@ -66,6 +95,7 @@
   <string name="convertion_unit_volume">Konverzija volumena</string>
   <string name="convertion_unit_weight">Konverzija mase</string>
   <string name="copyright">Autorska prava</string>
+  <string name="currency_dialog_privacy_content">Konverzija valuta mora se povezati s internetom da dobije najnovije tečajeve valuta. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke.</string>
   <string name="currency_update_connect_to_get_data">Tečajnu listu pruža Webull. Povežite se s mrežom kako biste dobili najnovije informacije.</string>
   <string name="currency_update_support">Tečajnu listu pruža Webull.</string>
   <string name="currency_update_time_format">Devizni tečaj osigurava Webull (%s)</string>
@@ -77,11 +107,11 @@
   <string name="day">dan</string>
   <string name="degDesc">Kut</string>
   <string name="deleteDesc">izbriši</string>
-  <string name="description_content">Pored osnovnih značajki, Kalkulator također radi kao višenamjenski pretvarač te za izračun hipoteka, kredita i poreza</string>
+  <string name="description_content">Pored osnovnih značajki, Kalkulator također radi višenamjensku konverziju te izračun hipoteka, kredita i poreza</string>
   <string name="description_title">O Kalkulatoru</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="devided_by_zero_reminder_message">"Ne može se dijeliti s nulom"</string>
-  <string name="dialog_privacy_content">Osim osnovnih značajki kalkulatora, naša aplikacija sadrži i znanstveni kalkulator i višenamjenski pretvarač. Neke značajke se moraju povezati s internetom da bi normalno radile. Prije upotrebe kalkulatora morate pročitati i prihvatiti naše %1$s i %2$s.</string>
+  <string name="dialog_privacy_content">Osim osnovnih značajki Kalkulatora, naša aplikacija sadrži i znanstveni kalkulator i višenamjensku konverziju. Neke se značajke moraju povezati s internetom da bi normalno radile. Morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; prije korištenja Kalkulatora.</string>
   <string name="dialog_privacy_title">Uvjeti i Odredbe</string>
   <string name="dialog_rating_desc_ask">Što mislite o Kalkulatoru?</string>
   <string name="dialog_rating_desc_less">Možete li nam dati povratne informacije?</string>
@@ -89,6 +119,7 @@
   <string name="dialog_rating_title">Ocijenite našu aplikaciju</string>
   <string name="disallow">"Ne prihvaćam"</string>
   <string name="dob_selection_error">"Datum rođenja mora biti prije današnjeg datuma"</string>
+  <string name="dont_allow">"Ne prihvaćam"</string>
   <string name="eDesc">"Eulerov broj"</string>
   <string name="email">E-pošta</string>
   <string name="error">Pogreška</string>
@@ -182,6 +213,7 @@
   <string name="item_title_calculator">Kalkulator</string>
   <string name="item_title_bmi">BMI</string>
   <string name="item_title_currency">Valuta</string>
+  <string name="item_title_data_conversion">Podaci</string>
   <string name="item_title_date_calculator">Datum</string>
   <string name="item_title_discount">Popust</string>
   <string name="item_title_dress_size">Veličina odjeće</string>
@@ -214,6 +246,7 @@
   <string name="label_loan_tenure">Kredit</string>
   <string name="label_months">Mjeseci</string>
   <string name="label_no_history">Ovdje nema još stavki</string>
+  <string name="label_powered_by">Powered by Mi Kalkulator</string>
   <string name="label_principal">Glavnica</string>
   <string name="label_share">Podijeli</string>
   <string name="label_start_date">Datum početka</string>
@@ -357,7 +390,7 @@
   <string name="permission_location_desc">Za pružanje usluga temeljenih na lokaciji</string>
   <string name="permission_phone">Pristup statusu i ID-u uređaja</string>
   <string name="permission_phone_desc">Za prepoznavanje različitih uređaja</string>
-  <string name="permission_privacy_link">&lt;Data&gt;Prije upotrebe ove aplikacije pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Ugovor o korisniku&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_privacy_link">&lt;Data&gt;Prije korištenja ove aplikacije pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Ugovor o korisniku&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permission_purpose">"Dobrodošli u Kalkulator! Osim osnovne funkcionalnosti, Kalkulator vam omogućuje pretvaranje valuta i mjernih jedinica, izračunavanje otplate hipoteke i još mnogo toga. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
 Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:"</string>
   <string name="permission_remove_desc">Možete odlučiti deinstalirati ovu aplikaciju ili ograničiti dopuštenja i oduzeti autorizaciju u Postavkama.</string>
@@ -389,7 +422,10 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="preference_use_voice_summary">Uključite da biste koristili govorni izlaz tijekom izračuna</string>
   <string name="preference_use_voice_title">Govorni izlaz</string>
   <string name="preference_user_feedback_title">Povratna inf.</string>
+  <string name="privacy_disagree">Nakon što ne prihvatite naše uvjete i odredbe pravila o privatnosti, Mi Kalkulator zaustavit će prikupljanje podataka i svi povezani podaci bit će izbrisani s poslužitelja. Možda nećete moći koristiti određene značajke u aplikaciji. Svejedno ne prihvaćate?</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_switch">Pristajem</string>
+  <string name="privacy_switch_disagree">Ne pristajem</string>
   <string name="rate_data_provider">Kamate su osigurane od strane hexun.com</string>
   <string name="reciprocalDesc">Recipročan</string>
   <string name="sar">RF Informacije o izloženosti</string>

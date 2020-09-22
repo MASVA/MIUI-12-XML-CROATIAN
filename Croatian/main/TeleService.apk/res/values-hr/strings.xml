@@ -2531,7 +2531,7 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="title_user_config">Aktivirajte SIM karticu</string>
   <string name="top_up_first">Nadoplatite prvo</string>
   <string name="track_frame_time">Profil GPU prikazivanja</string>
-  <string name="traffic_mode_summary">Trenutačna aplikacija ima prioritet za korištenje mrežnog resursa, pruža ekstremno iskustvo, to može uzrokovati da pozadinska aplikacija ne može koristiti mrežu</string>
+  <string name="traffic_mode_summary">Dajte prednost mobilnoj mrežnoj vezi za trenutno korištene aplikacije. Aplikacije u pozadini možda se neće moći povezati.</string>
   <string name="traffic_mode_switch_title">Extremni način</string>
   <string name="transition_animation_scale_title">Brzina animacije prijelaza</string>
   <string name="transport_title">Vrsta transporta</string>

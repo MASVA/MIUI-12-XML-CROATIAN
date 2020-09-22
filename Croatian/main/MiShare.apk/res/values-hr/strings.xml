@@ -99,10 +99,10 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
     <string name="refuse_file">Odbijam</string>
     <string name="retry_task">Pošalji ponovno</string>
     <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite je li drugi uređaj u vidljivom načinu.</string>
-    <string name="scanning_only_xiaomi_device">Ovu stavku možete poslati samo na Xiaomi uređaj</string>
+    <string name="scanning_only_xiaomi_device">Ovu stavku možete poslati samo na Xiaomi ili Black Shark uređaj</string>
     <string name="send_file">SEND FILE</string>
     <string name="send_files_to">Pošaljite stavke na</string>
-    <string name="send_files_to_remote_success">Slanje stavki do %1$s uspješno</string>
+    <string name="send_files_to_remote_success">Slanje stavki na %1$s uspješno</string>
     <string name="sender_error">Nije moguće poslati. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
     <string name="somepc_send_much_file_to_you_files">%1$s šalje vam više od 200 datoteka…</string>
     <string name="somepc_send_muchfile_files">%1$s šalje vam više od 200 datoteka…</string>
@@ -111,7 +111,7 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
     <string name="start_scan">START SCAN</string>
     <string name="stop_advertise">STOP ADVERTISE</string>
     <string name="stop_scan">STOP SCAN</string>
-    <string name="success_receive_much_file_from_pc">Primljeno je iz više od 200 datoteka %1$s. Dodirnite za prikaz.</string>
+    <string name="success_receive_much_file_from_pc">Primljeno je više od 200 datoteka od %1$s. Dodirnite za prikaz.</string>
     <string name="support_device_type">Podržani uređaji</string>
     <string name="throwing_print">Ispis</string>
     <string name="throwing_screen">Emitiraj</string>

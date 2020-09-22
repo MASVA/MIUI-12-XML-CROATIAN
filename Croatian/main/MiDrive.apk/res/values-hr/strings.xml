@@ -509,6 +509,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="request_permission_confirm">Razumijem</string>
   <string name="request_permission_content">Mi Drive mora pristupiti računima na ovom uređaju kako biste mogli koristiti svoj Mi Račun za prijavu. Dopuštenje za pristup i spremanje datoteka na vašem uređaju omogućit će Mi Drive pregled, prijenos, preuzimanje i sinkronizaciju stavki.</string>
   <string name="request_permission_msg">Dopusti Mi Drive-u pristup vašim informacijama o računu i vanjskoj pohrani da radi normalno.</string>
+  <string name="request_permission_content_with_phone_state">Da biste se mogli prijaviti s Mi Računom, pregledati, prenijeti, preuzeti i sinkronizirati datoteke i provjeriti ima li ažuriranja, Mi Drive zahtijeva dopuštenja za pristup vašim računima, fotografijama, datotekama i IMEI-u.</string>
   <string name="request_permission_title">Potrebna su dopuštenja</string>
   <string name="resend_active_email">Pošalji ponovo</string>
   <string name="resend_email_reach_limit_message">Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi.</string>
@@ -525,7 +526,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="search_error_hint">Unesite ključne riječi za pretraživanje</string>
   <string name="search_file_no_file">"Ne mogu naći rezultate"</string>
   <string name="search_hint">Traži</string>
-  <string name="search_max_length">Your search request is too long</string>
+  <string name="search_max_length">Vaš zahtjev za pretragu je predugačak</string>
   <string name="search_menu_title">Traži</string>
   <string name="select_copy_title">Kopiraj u</string>
   <string name="select_dir_tail">Odabrano: %s</string>
