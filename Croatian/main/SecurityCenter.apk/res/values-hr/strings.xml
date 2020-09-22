@@ -795,6 +795,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="boot_time">Uključi u: %1$s</string>
   <string name="boot_time_day">Uključi u: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Uključi u: %1$s</string>
+  <string name="bottom_func_guide_default_text">Više značajki</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
@@ -1260,10 +1261,14 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exception_notify_message">"Ne mogu izračunati statističke podatke zbog pogreške. Ponovno pokrenite uređaj radi vraćanja."</string>
   <string name="exception_titile">Dogodila se pogreška</string>
   <string name="exit">Izlaz</string>
+  <string name="exit_dialog_exit">Izlaz</string>
   <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
+  <string name="exit_dialog_garbage_clean_message_new"><Data>Čistač može osloboditi &lt;font color=#0099ff>%s&lt;/font> prostora za pohranu. Očistiti sada?</Data></string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
-  <string name="exit_dialog_garbage_clean_title">Očisti smeće</string>
+  <string name="exit_dialog_garbage_clean_title">Oslobodite prostor za pohranu</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
+  <string name="exit_dialog_release_memory_positive_button">Zatvori</string>
+    <string name="exit_dialog_release_memory_title"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
   <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
   <string name="exit_dialog_release_storage_title">Oslobodi prostor</string>
@@ -2076,10 +2081,11 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_item_app_permissions_control">Upravitelj Dopuštenja</string>
   <string name="menu_item_control_app_permissions">Aplikacija će pitati za dopuštenje prije nego što joj se dopusti pristup vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristup kameri i ostalim resursima uređaja</string>
   <string name="menu_item_force_stop">Prisilno zaustavi</string>
-  <string name="menu_item_install_debug_package">Instaliraj debug paket</string>
+  <string name="menu_item_install_debug_package">Instaliraj paket za otkl. grešaka</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
+  <string name="menu_item_notification_optimize_text">%d%% zauzeto</string>
   <string name="menu_item_notification_garbage_text_error">Greška</string>
   <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_notification_title">Prikaži izbornik u panelu obavijesti</string>
@@ -2117,7 +2123,9 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_summary_power_manager_4">%s do dovršetka punjenja</string>
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">Sigurnost</string>
+  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s zauzeto</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
+  <string name="menu_text_garbage_cleanup_danger">%s smeća</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
   <string name="menu_text_networkassistants">Potrošnja podataka</string>
   <string name="menu_text_networkassistants_danger">Premašeno: %s</string>
@@ -3196,7 +3204,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="renew_now">Obnovi</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Samo trenutak…</string>
-  <string name="repeated_marked_number_summary">"Ne blokiraj drugi poziv od istog prijavljenog broja u roku od 3 minute."</string>
+  <string name="repeated_marked_number_summary">"Ne blokiraj drugi poziv od istog prijavljenog broja u roku od %d min."</string>
   <string name="repeated_marked_number_title">"Ne blokiraj ponovljene pozive s prijavljenih brojeva"</string>
   <string name="replace_dns">Zamjeni DNS automatski</string>
   <string name="report">Prijavi</string>
@@ -3548,7 +3556,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_mute_title">"Bez zvona i vibracije"</string>
   <string name="st_other_setting_group">Ostale postavke</string>
   <string name="st_settings_name">Postavke liste zabranjenih</string>
-  <string name="st_share_settings">Koristi postavke SIM 1</string>
+  <string name="st_share_settings">Koristi postavke SIM kartice %d</string>
   <string name="st_show_block_notification">Obavijesti o blokiranim stavkama</string>
   <string name="st_show_num_keyword">" ključne riječi"</string>
   <string name="st_show_num_number">" brojeva"</string>
@@ -3689,6 +3697,12 @@ Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
 
 Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubitak sadržaja, izradite Sig. kopiranje na drugom ^3 ili uređaju."</string>
   <string name="storage_wizard_format_confirm_v2_title">Formatirati ^1 sada?</string>
+  <string name="stranger_call_dialog_add_block_list">Blokiraj</string>
+  <string name="stranger_call_dialog_add_contacts">Novi kontakt</string>
+  <string name="stranger_call_dialog_notification_body">Dodajte u kontakte ili blokirajte ovaj broj</string>
+  <string name="stranger_call_dialog_notification_title_format">Nepoznati broj %s</string>
+  <string name="stranger_call_dialog_subtitle_format">"%s nije među vašim kontaktima. Ovaj broj telefona možete dodati kontaktima ili ga blokirati."</string>
+  <string name="stranger_call_dialog_title">"Nepoznati broj "</string>
   <string name="suffix_pay_risk_count_bottom">rizika</string>
   <string name="suffix_pay_risk_count_top">plaćanje</string>
   <string name="suffix_virus_count_bottom">ukupno</string>
