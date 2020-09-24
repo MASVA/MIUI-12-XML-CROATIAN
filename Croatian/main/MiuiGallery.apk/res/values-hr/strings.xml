@@ -287,7 +287,7 @@
   <string name="burst_image_download_item_title" formatted="false">Preuzmi original (%s|%s)</string>
   <string name="burst_preview_title">Uzastopno slikanje</string>
   <string name="burst_save_all">Zadrži sve fotografije</string>
-  <string name="burst_save_choice_title" formatted="false">Odabrano %d od %d</string>
+  <string name="burst_save_choice_title">Odabrano %1$d od %2$d</string>
   <string name="burst_save_dialog_title">Odaberite koje ćete fotografije zadržati</string>
   <string name="burst_save_confirm_dialog_title">Spremanje fotografija</string>
   <string name="burst_save_error_msg">"Ne mogu spremiti"</string>
@@ -634,7 +634,7 @@
   <string name="empty_album_other_list_title">Nema albuma</string>
   <string name="empty_album_rubbish_list_title">Nema albuma</string>
   <string name="empty_description_conditions">Zapamtite stvari koje su važne</string>
-  <string name="empty_description_conditions_new">"Provjerite jeste li snimili dovoljno fotografije, priključite punjač i isključite zaslon kako bi se stavke ovdje prije pojavljivale."</string>
+  <string name="empty_description_conditions_new">"Spojite punjač i isključite zaslon kako bi se stavke ovdje prije pojavile"</string>
   <string name="empty_description_no_cards">Zapamtite stvari koje su važne</string>
   <string name="empty_query_text_msg">"Ne znam što tražiti…"</string>
   <string name="empty_recommend_back">Natrag</string>
@@ -848,7 +848,15 @@ za fotografije"</string>
   <string name="filter_movie_travel">Putovanje</string>
   <string name="filter_movie_wonderful">Čudo</string>
   <string name="filter_original">Ništa</string>
+  <string name="filter_popular_autumn">Autumn</string>
+  <string name="filter_popular_bluedream">Drijem</string>
+  <string name="filter_popular_coffee">Kava</string>
+  <string name="filter_popular_coldsmoke">Cool mist</string>
+  <string name="filter_popular_comic">Anime</string>
+  <string name="filter_popular_dream">Sanjarenje</string>
+  <string name="filter_popular_hill">Brda</string>
   <string name="filter_popular_humanity">Dokumentarac</string>
+  <string name="filter_popular_kamakura">Kamakura</string>
   <string name="filter_popular_lnk">Tinta</string>
   <string name="filter_popular_purple">Ljubičasta</string>
   <string name="filter_portrait_greyish">Pepeo</string>
@@ -1070,6 +1078,7 @@ za fotografije"</string>
   <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
   <string name="input_relation_name">Unesi naziv grupe</string>
   <string name="install_fail">"Ne mogu učitati dodatak zbog pogreške."</string>
+  <string name="internal_storage_device">Unutarnja pohrana</string>
   <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
   <string name="invite_send_sms_tip">Vaš operater može vam naplatiti SMS poruku korištenu za slanje ove pozivnice.</string>
@@ -1395,6 +1404,8 @@ za fotografije"</string>
   <string name="operation_move_to_other_albums">Premjesti u Drugi albumi</string>
   <string name="operation_move_to_rubbish_albums">Premjesti u smeće</string>
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj u kartici Fotografije"</string>
+  <string name="operation_photo_rename">Preimenuj</string>
+  <string name="operation_pic_to_pdf">Izradi PDF</string>
   <string name="operation_produce">Kreativnost</string>
   <string name="operation_projection">Emitiraj</string>
   <string name="operation_remove_face">Ukloni</string>
@@ -1566,6 +1577,18 @@ za fotografije"</string>
   <string name="photo_save_to_msg">Spremljeno u %s</string>
   <string name="photo_vlog_module_finish">Uređivač videozapisa uspješno preuzet</string>
   <string name="photo_vlog_module_loading">Preuzimanje Uređivača videozapisa…</string>
+  <string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
+  <string name="photodetail_rename_failed">"Nije moguće preimenovati"</string>
+  <string name="photodetail_rename_invalid">"Nazivi datoteka ne mogu sadržavati ove znakove: /\\:*?&lt;>|."</string>
+  <string name="photodetail_rename_success">Uspješno preimenovano</string>
+  <string name="photodetail_rename_title">Preimenuj</string>
+  <string name="photodetail_rename_too_long">Naziv datoteke koji ste unijeli je predug</string>
+  <string name="pic_to_pdf_a4_format">A4 papir</string>
+  <string name="pic_to_pdf_all_not_support">"Odabrane slike nije moguće spremiti kao PDF"</string>
+  <string name="pic_to_pdf_exit_notice">"Ovaj PDF neće biti spremljen ako sada izađete. Izaći svejedno?"</string>
+  <string name="pic_to_pdf_not_support_video">"Videozapisi se ne mogu spremiti kao PDF"</string>
+  <string name="pic_to_pdf_preview_loading">Učitavanje pregleda…</string>
+  <string name="pic_to_pdf_save_in">Spremi PDF u %s</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="pick_from_contact">Odaberi iz kontakata</string>
   <string name="pick_people_cover_fail">Dogodila se pogreška. Pokušajte ponovo.</string>
@@ -1732,6 +1755,7 @@ za fotografije"</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="save_error_try_a_different_template_msg">"Nije moguće spremiti. Slika je prevelika."</string>
   <string name="save">Spremi</string>
   <string name="save_photo">Spremiti uređenu fotografiju?</string>
   <string name="saving_failure">"Ne mogu spremiti sliku"</string>
@@ -1815,6 +1839,7 @@ za fotografije"</string>
   <string name="search_title_more">Više</string>
   <string name="search_title_others">Svi rezultati</string>
   <string name="search_title_people">Osobe</string>
+  <string name="search_title_photo_name">Naziv datoteke</string>
   <string name="search_title_recommend">Preporučeno</string>
   <string name="search_title_suggestion">Prijedlozi</string>
   <string name="search_title_tag">Objekti</string>
@@ -2090,6 +2115,9 @@ za fotografije"</string>
   <string name="to_enable_sync_dialog_message">Uključite prvo sinkr.</string>
   <string name="to_enable_sync_dialog_positive_button_text">Idi u Postavke</string>
   <string name="to_enable_sync_dialog_title">Sinkr.</string>
+  <string name="toast_invalid_char">"Nazivi datoteka ne mogu sadržavati \"%s\""</string>
+  <string name="toast_invalid_prefix">"Nazivi ne mogu počinjati s \".\" or \"_\""</string>
+  <string name="toast_rename_exit">Ova datoteka već postoji</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>

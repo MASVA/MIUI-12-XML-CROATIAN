@@ -636,6 +636,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="auto_data_booster_suc">Game Turbo je uključen. Prebačeno na Interaktivan način.</string>
   <string name="auto_handle_title">OPĆENITO</string>
   <string name="auto_import_games">Stavite sve vaše igre na jedno mjesto</string>
+  <string name="auto_send_correcting_msg">Ostavite prazno za automatsku provjeru putem besplatnog SMS-a</string>
+  <string name="auto_set_by_brand">Sinkronizirajte detalje podatkovnog plana sa svojim mobilnim operatorom</string>
   <string name="auto_task_condition_choose_battery_level_down">Kada baterija dosegne određenu razinu</string>
   <string name="auto_task_condition_choose_battery_level_up">Kada je baterija napunjena do određene razine</string>
   <string name="auto_task_condition_choose_end_time">Vrijeme završetka</string>
@@ -936,6 +938,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="card_tc_failed_content">"Mogući razlozi:\n 1. Operateri reagiraju sporije na početku i na kraju mjeseca. Pokušajte ponovno za nekoliko dana.\n 2. Potreban je zahtjev predložak zahtjeva mreže kada kalibrirate prvi puta. Povežite se s mrežom i pokušajte ponovno.\n 3. Vaš mobilni operater možda ne podržava slanje tekstualnih poruka s ostalim podacima i stanjem računa. Obratite se    mobilnom operateru za više informacija.\n 4. Možda postoji pogreška u podacima operatera. Pokušajte dijagnostikom operatera riješiti ovaj problem.\n 5. Izgleda da ništa ne pomaže? Dodirni "Prijavi putem SMS-a" da pošaljete povratnu informaciju Xiaomi-ju u SMS poruci."</string>
   <string name="cd_back">Natrag</string>
   <string name="celcius_symbol">℃</string>
+  <string name="cellular_data_auto_check">Provjeri automatski</string>
+  <string name="cellular_package_daily_input">Unesite</string>
   <string name="charger_detect_button_ok">Razumijem</string>
   <string name="charger_detect_info1">Provjerite jesu li ispravljač i kabel ispravno spojeni.</string>
   <string name="charger_detect_info2">"Punjenje se može usporiti i ako koristite nestandardne ili stare adaptere i kabele za punjenje."</string>
@@ -981,6 +985,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
   <string name="connecting">Povezivanje…</string>
   <string name="continue_install">Instaliraj</string>
+  <string name="continue_set">Nastavi</string>
   <string name="continue_set">Nastavi s postavljanjem</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
   <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
@@ -1061,6 +1066,7 @@ Vaš mobilni operater može vam naplatiti dodatne naknade ako ponovo uključite 
   <string name="data_usage_warning_title_notify">Prekoračeno ograničenje uporabe podataka</string>
   <string name="databooster_tips_message">Uključite da ograničite sve SIM kartice osim podatkovne kartice. Isključite tu značajku ako se dogode pogreške u igrama po vašem izboru.</string>
   <string name="databooster_tips_title">Pažnja</string>
+  <string name="day_overflow_tips">Upozorenje o dnevnoj uporabi podataka</string>
   <string name="datausage_ignore_app_list_count">"Ignoriranje uporabe podataka aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Natrag</string>
   <string name="datausage_purchase_banner_title">%s ponuda nadoplate (ekskluzivno)</string>
@@ -1428,6 +1434,9 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_settings_subtitle">Ovdje su vam dostupne sigurne mogućnosti dijeljenja:</string>
   <string name="first_settings_title">Zaštitite svoju privatnost</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
+  <string name="fixed_cellular_data_quota_monthly">Mjesečno ograničenje podataka</string>
+  <string name="fixed_package_tips">Dodatne naknade generirat će se nakon što dosegnete ograničenje</string>
+  <string name="fixed_traffic_quota">Ograničenje podataka (obvezno)</string>
   <string name="flow_rank_title">Uporaba podataka</string>
   <string name="fod_authentication_shift_button">Odustani</string>
   <string name="fod_button_finger">Koristi otisak prsta</string>
@@ -1454,6 +1463,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="free_time_traffic_settings">Isklj. maks. ograničenja podataka</string>
   <string name="free_time_traffic_title">Unesite Isklj. maks. ograničenje podataka</string>
   <string name="free_traffic_settings">Postavke Isklj. maks. ograničenja</string>
+  <string name="full_fill_oprator_and_location">Navedite podatke o svojem operateru i lokaciju</string>
+  <string name="full_fill_sim_location">Prvo postavite lokaciju</string>
   <string name="function_auto_reject_detail">"O ovoj značajki:
 1. Dok igrate igre, svi dolazni pozivi na SIM karticu bez mobilne podatkovne usluge automatski će se odbiti.
 2. Vidjet ćete obavijesti o propuštenim pozivima, a druga će osoba čuti zvučnu poruku koja govori da ste trenutno zauzeti.
@@ -1652,6 +1663,7 @@ vašeg igranja"</string>
   <string name="gb_wonderful_video_header_title">Danas</string>
   <string name="gb_wonderful_video_save_suc">Spremljeno</string>
   <string name="gdpr_msg">"&lt;Data&gt;"Da bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i pristanite na naše &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih podataka, i dalje ćete moći koristiti ovu aplikaciju, ali neke značajke neće vam biti dostupne. "&lt;/Data&gt;</string>
+  <string name="get_detail_by_click">Dodirnite za prikaz pojedinosti</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_setting_alert_dialog_content">Možete osloboditi %s</string>
@@ -1659,6 +1671,7 @@ vašeg igranja"</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
   <string name="gmscore_support_service">Osnovne Google usluge</string>
   <string name="go_to">Nastavi</string>
+  <string name="go_to_send">Pošalji</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
   <string name="google_base_app_fail">"Ne mogu preuzeti. Provjerite da li je aplikaciji Sigurnost dopušteno povezivanje s internetom."</string>
   <string name="google_base_app_install_choice">Aplikacija zahtijeva Google Service Framework da radi normalno, preuzeti i instalirati je?</string>
@@ -1806,6 +1819,7 @@ vašeg igranja"</string>
   <string name="icon_text_size_giga_byte">%.1fGB</string>
   <string name="icon_text_size_max">9.9GB</string>
   <string name="icon_text_size_mega_byte">%dMB</string>
+  <string name="ignore_special_app">Iz svog plana izuzmite podatke koje koriste odabrane aplikacije</string>
   <string name="im">IM</string>
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="info_antispam_close">AntiSpam je isključen</string>
@@ -1817,8 +1831,11 @@ vašeg igranja"</string>
   <string name="info_unantispam_phone_sms">Dopusti pozive i SMS</string>
   <string name="info_unantispam_sms">Dopusti SMS</string>
   <string name="information_setting">Preporučeno</string>
+  <string name="input_available_cellular_data_daily_hint">Unesite dnevno ograničenje podataka</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
-  <string name="input_password_hint_text">Unesi zaporku</string>
+  <string name="input_celluar_data_quota_hint">Unesite ograničenje podataka</string>
+  <string name="input_cellular_data_warn_hint">Unesite upozorenje ograničenja uporabe podataka</string>
+  <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_traffic_pkg">Unesite uporabu podataka</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
   <string name="input_used_max_hint">Unesite uporabu podataka (manje od %s)</string>
@@ -1831,7 +1848,7 @@ vašeg igranja"</string>
   <string name="international_roaming_setting">Međunarodni roaming</string>
   <string name="intl_app_manager_card_permission_title">Privatnost &amp; dopuštenja</string>
   <string name="international_roaming_whitelist_count">%d aplik. se može povezati na podatkovne usluge u roamingu</string>
-  <string name="intl_perm_intro_message">Dodirnite za prilagođavanje postavki dopuštenja kako biste izbjegli curenje podataka</string>
+  <string name="intl_perm_intro_message">Dodirnite za prilagođavanje postavki dopuštenja kako biste izbjegli gubitak podataka</string>
   <string name="intl_perm_notification_content">Prilagodite postavke dopuštenja</string>
   <string name="intl_perm_notification_title">Zaštitite svoju privatnost</string>
   <string name="intl_perm_privacy_control_calendar">"Aplikacija može pristupiti ili uređivati stavke kalendara samo dok je koristite"</string>
@@ -1887,6 +1904,7 @@ vašeg igranja"</string>
   <string name="legal_workday_message">(Preskoči praznike)</string>
   <string name="leisure_usage_dialog_message">"Dosegli ste ograničenje podataka.\n\nVaš vam operater može naplatiti dodatne troškove ako ponovno koristite mobilnu podatkovnu vezu."</string>
   <string name="leisure_usage_dialog_title">Ograničenje uporabe podataka prekoračeno, podatkovna veza je prekinuta</string>
+  <string name="limit_speed_by_quota">Ograničenja brzine mogu se primijeniti nakon što dosegnete ograničenje</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
   <string name="load_only_under_wlan">Učitaj samo kada je povezano na WLAN</string>
@@ -1995,7 +2013,8 @@ podatkovnu vezu"</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
   <string name="main_toolbar_statistic">Statistika uporabe podataka</string>
-  <string name="main_traffic_detail">UporabA podataka</string>
+  <string name="main_traffic_detail">Uporaba podataka</string>
+  <string name="make_sure_package_type">Odaberite svoj podatkovni paket</string>
   <string name="main_traffic_overlimit_text">prekoračeno</string>
   <string name="main_traffic_remian_text">preostalo</string>
   <string name="main_traffic_used">%s iskorišteno</string>
@@ -2162,6 +2181,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="mixed_recording_intro_header">Unesite od %1$s-%2$s znaka</string>
   <string name="mixed_retry_button_text">Odustani</string>
   <string name="mixed_settings_help_how_to_record">Kako postaviti zaporku</string>
+  <string name="modify_cellular_type">Dodirnite za odabir plana</string>
   <string name="modify_password_mode">Promjeni vrstu zaporke</string>
   <string name="modifypassword">Promjeni vrstu zaporke</string>
   <string name="monitor_app_add">Dodaj</string>
@@ -2266,6 +2286,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="not_limited_brand">Neograničeno</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="not_settled">Nije postavljeno</string>
   <string name="note">Napomena</string>
   <string name="note_call_none">Nema poziva</string>
   <string name="note_keyword_none">Nema ključnih riječi</string>
@@ -2324,6 +2345,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notify_weekly_traffic_body">Kako bi se ograničila uporaba podataka automatski, postavite vaš mjesečni promet.</string>
   <string name="notify_weekly_traffic_title">Iskorišteno %s ovaj tjedan</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s iskorišteno %2$s ovaj tjedan</string>
+  <string name="number_address">Lokacija</string>
   <string name="numeric_need_to_confirm">Unesite ponovno za potvrdu</string>
   <string name="numeric_password_confirmed_header_confirm">Uspješno postavljeno. Dodirnite za potvrdu.</string>
   <string name="numeric_password_confirmed_header_continue">Uspješno postavljeno. Dodirnite \"Dalje\".</string>
@@ -2420,6 +2442,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="operator_name_mi_mobile">Mi Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
+  <string name="operator_name_virtual_operator">Virtualni operater</string>
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
@@ -3031,6 +3054,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="preferred_app_entries_messaging">Poruke</string>
   <string name="preferred_app_entries_music">Glazba</string>
   <string name="pricacy_permission_use_total">Statistika dopuštenja</string>
+  <string name="priority_statistics_fixed_traffic">Prvo će se koristiti podaci iz mjesečnog plana</string>
   <string name="priority_storage_app_settings">Podaci će biti spremljeni u %1$s</string>
   <string name="priority_storage_settings_summary">"Ako nije otkrivena nijedna SD kartica, vaši će se podaci automatski pohraniti na unutarnju pohranu vašeg uređaja."</string>
   <string name="priority_storage_summary">Odaberite lokaciju za spremanje podataka</string>
@@ -3351,12 +3375,20 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="see_detail">Detalji</string>
   <string name="see_more">Više</string>
   <string name="see_more_content">Ažurirajte igre da biste vidjeli više istaknutih stavki</string>
+  <string name="select_province_and_city">Odaberite lokaciju</string>
+  <string name="send_msg_to_query">Pošaljite SMS poruku za provjeru</string>
+  <string name="set_applock_password">Postavite zaporku</string>
+  <string name="set_complete">Uspješno postavljeno</string>
+  <string name="set_location">Postavite lokaciju</string>
   <string name="select_pattern">Odaberite uzorak</string>
   <string name="set_applock_password">Postavite zaporku</string>
   <string name="set_immediately">Postavi</string>
-  <string name="set_mixed_password_name">Postavi zaporku</string>
-  <string name="set_numeric_password_name">Postavi PIN</string>
-  <string name="set_pattern_password_name">Postavi uzorak</string>
+  <string name="set_mixed_password_name">Postavite zaporku</string>
+  <string name="set_numeric_password_name">Postavite PIN</string>
+  <string name="set_package_tips">"Poslat ćemo besplatni SMS vašem mobilnom operateru kako bismo provjerili vaš podatkovni paket. Podaci koje navedete šifrirat će se i prenijeti na naše poslužitelje kako bi se sastavila ova poruka."</string>
+  <string name="set_package_tips_detail">"Podaci preneseni na poslužitelje Xiaomi sadržavat će podatke o vašem mobilnom operateru, kao i vaš broj telefona, IMEI i Mi Račun."</string>
+  <string name="set_traffic_tips">Postavite svoj podatkovni plan za upravljanje korištenjem mobilnih podataka i izbjegavajte dodatne naknade mobilnog operatera</string>
+  <string name="set_pattern_password_name">Postavite uzorak</string>
   <string name="seton_immediately">Uključi</string>
   <string name="setting">Postavke</string>
   <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
@@ -3364,7 +3396,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="settings">Postavke uporabe podataka</string>
   <string name="settings_battery_consume_abnormal_summary">Obavijesti kada se baterija prazni prebrzo</string>
   <string name="settings_battery_consume_abnormal_title">Obavijesti prebrzog pražnjenja</string>
-  <string name="settings_camera_subtitle_no">No metadata</string>
+  <string name="settings_camera_subtitle_no">Nema meta podataka</string>
   <string name="settings_battery_over_heat_summary">Obavijesti kada uređaj postaje topliji nego što je normalno</string>
   <string name="settings_battery_over_heat_title">Obavijesti pregrijavanja</string>
   <string name="settings_category_other">Ostale postavke</string>
@@ -3537,8 +3569,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="st_filter_keywords_setting_title">Konfiguriraj filtar ključnih riječi</string>
   <string name="st_filter_sms_button">Filtriraj SMS</string>
   <string name="st_group_list_management">Upravljaj Listom blokiranih</string>
-  <string name="st_hint_add_head_number">Unesi predbroj</string>
-  <string name="st_hint_add_phonenumber">Unesi broj telefona</string>
+  <string name="st_hint_add_head_number">Unesite predbroj</string>
+  <string name="st_hint_add_phonenumber">Unesite broj telefona</string>
   <string name="st_hint_operatelist">Izgleda da to pravilo već postoji</string>
   <string name="st_message_SMS_AntiSpam">Blokiraj SMS</string>
   <string name="st_message_SMSpass">Dopusti SMS</string>
@@ -4076,6 +4108,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="traffic_alert_auto_modify_notification_sumarry">Mjesečni plan promijenjen u %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Ažuriran plan podataka</string>
   <string name="traffic_alert_auto_modify_package_summary">"Automatski prilagodi paket podataka prema informacijama mobilnog mobilnog operatera"</string>
+  <string name="traffic_calculation">Koristi dnevni ciklus naplate</string>
   <string name="traffic_config_alert_auto_modify">Ažuriraj autom. plan podataka</string>
   <string name="traffic_config_alert_body">"Prema vašem operateru imate: %s.
 
@@ -4100,6 +4133,7 @@ Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_config_alert_setted">Postavke primjenjene</string>
   <string name="traffic_config_alert_title">%s ispravak</string>
   <string name="traffic_correction_failed">"Ne mogu doznati detalje"</string>
+  <string name="traffic_correction_failed_tips">"Nije moguće provjeriti podatkovni plan. Provjerite jesu li postavke operatora ispravne ili ručno postavite plan."</string>
   <string name="traffic_correction_start_correction">"Razgovor s poslužiteljem mobilnog operatera…"</string>
   <string name="traffic_correction_start_correction_failed">Ne mogu poslati zahtjev. Provjerite postavke operatera.</string>
   <string name="traffic_correction_success">Uporaba podataka ažurirana</string>
@@ -4108,6 +4142,7 @@ Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_limit_error_alert_package">"
 Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</string>
   <string name="traffic_limit_error_alert_title">Podsjetnik ograničenja podataka %s</string>
+  <string name="traffic_limit_input">Ograničenje podataka (obvezno)</string>
   <string name="traffic_none">Ništa</string>
   <string name="traffic_over_purchase_body">Dodirnite za prikaz pojedinosti.</string>
   <string name="traffic_over_purchase_link">"Dosegli ste ograničenje uporabe podataka.&lt;br/&gt;Ako premašite vaše ograničenje, vaš operater može vam naplatiti dodatne naknade.&lt;br/&gt;&lt;br/&gt;&lt;font color='ccffffff'&gt;&lt;U&gt;Obnovite bon.&lt;/U&gt;&lt;/font&gt;"</string>
@@ -4225,7 +4260,9 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="uninstall_danagerous_desc">\"%s\" može vaš oštetiti uređaj</string>
   <string name="uninstall_danagerous_msg">\"%s\" može vaš oštetiti uređaj, smanjiti njegovu učinkovitost ili uzrokovati ponovno pokretanje.</string>
   <string name="uninstall_danagerous_title">Deinstaliraj zlonamjerne aplikacije</string>
+  <string name="unknown_package">Niste sigurni koji je vaš plan?</string>
   <string name="unlike">Ne hvala</string>
+  <string name="unlimited_cellular_data_monthly">Neograničen plan</string>
   <string name="unlock_failed">Interna pogreška</string>
   <string name="unlock_pattern">Obrazac</string>
   <string name="unlock_pattern_to_bind_fingerprint">Unesite zaporku za aktivaciju otiska prsta</string>

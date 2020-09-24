@@ -201,6 +201,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="status_bar_in_casting">Emitiranje</string>
   <string name="status_bar_in_casting_long">Kliknite za proširenje dodatnih značajki</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="synergy_casting">"Ne možete emitirati dok Screen Combo radi"</string>
   <string name="tile_label">Emitiranje</string>
   <string name="toast_guide_show_more">Saznajte više</string>
   <string name="toast_guide_title">Istražite nove značajke</string>

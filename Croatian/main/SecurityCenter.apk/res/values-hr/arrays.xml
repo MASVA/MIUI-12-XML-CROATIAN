@@ -56,6 +56,13 @@
 		 <item>"Prošli mjesec "</item>
          <item>"Ovaj mjesec: "</item>
      </string-array>
+	 <string-array name="daily_rent_card_brands">
+        <item>Vlastito</item>
+        <item>Mi Mobile</item>
+        <item>Mi Fan kartica</item>
+        <item>Tianshen kartica</item>
+        <item>Tencent kartica</item>
+    </string-array>
      <string-array name="date_of_app_all">
          <item>"Jučer (Mobilni podaci) "</item>
          <item>"Danas (Mobilni podaci) "</item>
@@ -198,6 +205,15 @@
         <item>Uzorak</item>
         <item>PIN</item>
         <item>Zaporka</item>
+    </string-array>
+	<string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Mjesečni plan</item>
+        <item>Neograničeno</item>
+        <item>Dnevni plan</item>
     </string-array>
 	<string-array name="app_behavior_type_menu">
         <item>Svi zapisi</item>

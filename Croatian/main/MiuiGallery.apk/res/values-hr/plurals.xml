@@ -72,6 +72,14 @@
         <item quantity="other">%d sati</item>
         <item quantity="one">%d sat</item>
     </plurals>
+	<plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Filtrirano %d nepodržanih stavki</item>
+        <item quantity="one">Filtrirana %d nepodržana stavka</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">PDF datoteke mogu sadržavati do %d slika</item>
+        <item quantity="one">PDF datoteka može sadržavati %d sliku</item>
+    </plurals>
     <plurals name="picker_all_image_need_download">
          <item quantity="other">"Odabrane fotografije nisu na uređaju. Preuzeti ih putem mobilnih podataka?"</item>
          <item quantity="one">"Odabrana fotografija nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
@@ -81,8 +89,8 @@
          <item quantity="one">"Odabrana fotografija (%dMB) nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
      </plurals>
      <plurals name="picker_all_image_will_download">
-         <item quantity="other">"Odabrane fotografije nisu na uređaju. One će se preuzeti."</item>
-         <item quantity="one">"Odabrana fotografija nije na uređaju. Ona će se preuzeti."</item>
+         <item quantity="other">"Odabrane fotografije nisu na uređaju te će se preuzeti."</item>
+         <item quantity="one">"Odabrana fotografija nije na uređaju te će se preuzeti."</item>
      </plurals>
 	 <plurals name="picker_skip_unavailable_images">
          <item quantity="other">"Preskočeno %d fotografija koje nisu na uređaju."</item>

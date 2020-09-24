@@ -35,6 +35,8 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="activity_not_found">Nijedna aplikacija ne može podržati ovu radnju</string>
   <string name="activity_not_found_uri">Nijedna aplikacija ne može podržati ovu radnju</string>
+  <string name="ad_close_button_text">Promocija</string>
+  <string name="ad_notification_title">Nevažne poruke</string>
   <string name="addBlackList">Dodaj na listu blokiranih</string>
   <string name="add_attachment">Dodaj privitak</string>
   <string name="add_contact">Kontakt</string>
@@ -690,6 +692,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_delivery_ringtone">Zvuk isporuke</string>
   <string name="pref_edit_smsc_address">Centar Usluga Kratkih Poruka (SMSC)</string>
   <string name="pref_forward_title">Proslijedi</string>
+  <string name="pref_group_ad_mms_recognition">Grupiraj promotivne poruke</string>
   <string name="pref_hide_verification_code_summary">Automatski sakrij jednokratne zaporke i obavijesti poruka na osiguranom Zaklj. zaslonu</string>
   <string name="pref_message_recovery_introduction_title">Obnova poruka</string>
   <string name="pref_messages_to_save">Podesi broj poruka za spremanje</string>
@@ -706,11 +709,13 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_smart_messages_settings">Pametne poruke</string>
   <string name="pref_sms_storage_title">Prostor za pohranu</string>
   <string name="pref_sms_theme_title">Postavke teme</string>
+  <string name="pref_summary_ad_mms_recognition">Postavi promotivne poruke na zasebnu karticu</string>
   <string name="pref_summary_allow_si_sl_push">Dopusti porukama učitavanje sadržaja s web stranica</string>
   <string name="pref_summary_allow_upload_message_info">"Spam poruke i informacije o pošiljatelju bit će poslane MIUI kada ih prijavite."</string>
   <string name="pref_summary_auto_delete">Izbriši stare poruke kada se dosegne ograničenje</string>
   <string name="pref_summary_collapse_ad_notification">Prikaži sve promotivne poruke u zasebnoj mapi Panela obavijesti</string>
   <string name="pref_summary_collapse_ad_notification_mms">Prikaži sve promotivne poruke na zasebnoj kartici</string>
+  <string name="pref_summary_collapse_ad_notification_mms_new">Grupiraj promotivne poruke i označite ih kao nevažne u Panelu obavijesti</string>
   <string name="pref_summary_delete_limit">%1$s poruka po razgovoru</string>
   <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
   <string name="pref_summary_delivery_ringtone">Primi zvučne obavijesti za isporučene poruke.</string>
@@ -731,6 +736,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_summary_wake_up_screen">Uključi zaslon kad stigne nova poruka</string>
   <string name="pref_switch_sdk_setting">Promjeni smart SMS uslugu operatera</string>
   <string name="pref_system_title">Sustav</string>
+  <string name="pref_title_ad_mms_recognition">Prepoznaj promotivne poruke</string>
   <string name="pref_time_auto_group_disabled_summary">"Nije podržano u trenutnoj veličini fonta"</string>
   <string name="pref_time_auto_group_summary">Grupne poruke po vremenu</string>
   <string name="pref_time_auto_group_title">Grupne poruke</string>
