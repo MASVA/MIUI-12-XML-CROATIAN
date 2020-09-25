@@ -97,6 +97,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_storage_loading_data">Samo trenutak…</string>
   <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
   <string name="cloud_storage_no_data">Nema stavki u Cloudu još</string>
+  <string name="cloud_space_full_gallery_notification_content_text">Nadogradite svoj plan da biste dobili više cloud prostora za pohranu</string>
   <string name="cloudservice_new_sync">Sinkr. %s s Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari s prijateljima.</string>
   <string name="confirm_delete">Izbriši</string>
@@ -105,6 +106,8 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="connect_wlan">Povežite se na WLAN</string>
   <string name="contact">Kontakti</string>
   <string name="copy">Kopiraj</string>
+  <string name="cta_notification_content_text">Dopustite %s povezivanje s internetom kako biste mogli vratiti stavke</string>
+  <string name="cta_notification_content_title">"Nije moguće vratiti stavke iz %s"</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz više aplikacija (uključujući %1$s i %2$s) s stavkama na ovom uređaju?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_one">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz %s sa stavkama na ovom uređaju?</string>
   <string name="data_merge_dialog_alert_active_on_phone_msg_two">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz %1$s i %2$s sa stavkama na ovom uređaju?</string>
@@ -429,6 +432,11 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_manual_pausing">Sinkr. pauzirana</string>
   <string name="micloud_manual_pending">Na čekanju…</string>
   <string name="micloud_manual_reactivate">Aktiviraj ponovno</string>
+  <string name="micloud_manual_request_permission_cancel">Odustani</string>
+  <string name="micloud_manual_request_permission_confirm">Postavke</string>
+  <string name="micloud_manual_request_permission_content">Da biste mogli koristiti naše usluge, dajte Mi Cloudu sljedeća dopuštenja u Postavkama: \"%s\".</string>
+  <string name="micloud_manual_request_permission_content_on_provision">Prvo dajte potrebna dopuštenja u aplikaciji Sigurnost</string>
+  <string name="micloud_manual_request_permission_title">Potrebno je dopuštenje</string>
   <string name="micloud_manual_sync_all">Sinkr. sve stavke</string>
   <string name="micloud_manual_sync_now">Sinkr.</string>
   <string name="micloud_manual_sync_now_retry">Pokušaj ponovno</string>

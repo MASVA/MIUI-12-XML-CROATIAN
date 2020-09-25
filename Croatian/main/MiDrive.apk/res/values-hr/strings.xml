@@ -540,10 +540,13 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="service_error">Greška poslužitelja</string>
   <string name="set_success">Promjena uspješna</string>
   <string name="setting_clear_cache">Očisti predmemoriju</string>
+  <string name="setting_create_shortcut">Prečac Poč. zaslona</string>
   <string name="setting_default_download_dir">Zadana lokacija za preuzimanje</string>
   <string name="setting_default_download_dir_title">Odaberite zadanu lokaciju za preuzimanje</string>
   <string name="setting_no_download_path">Odaberite najprije zadanu lokaciju za preuzimanje</string>
   <string name="setting_title">Postavke</string>
+  <string name="shortcut_dialog_confirm">Izradi</string>
+  <string name="shortcut_dialog_content">Izraditi prečac Poč. zaslona za Mi Drive?</string>
   <string name="sign_in">Prijavi se</string>
   <string name="sign_in_progress">Prijava…</string>
   <string name="sign_in_title">Prijavite se s Mi Računom</string>
@@ -581,6 +584,8 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="ticket_hint">Kontrolni kôd</string>
   <string name="ticket_invalid">Uneseni kôd nije točan</string>
   <string name="ticket_sign_in">Prijavite se putem SMS-a</string>
+  <string name="tip_shortcut_added_success">Uspješno izrađeno</string>
+  <string name="tip_shortcut_already_added">Prečac Poč. zaslona već postoji</string>
   <string name="tools">Alati</string>
   <string name="trans_mobile_network_message">Korištenje mobilnih podataka da prijenos datoteka će potrošiti puno podataka, jeste li sigurni za nastavak?</string>
   <string name="trans_task">Mrežni prijenos</string>

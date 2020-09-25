@@ -986,7 +986,6 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="connecting">Povezivanje…</string>
   <string name="continue_install">Instaliraj</string>
   <string name="continue_set">Nastavi</string>
-  <string name="continue_set">Nastavi s postavljanjem</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
   <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
   <string name="copy">Kopiraj</string>
@@ -3381,7 +3380,6 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="set_complete">Uspješno postavljeno</string>
   <string name="set_location">Postavite lokaciju</string>
   <string name="select_pattern">Odaberite uzorak</string>
-  <string name="set_applock_password">Postavite zaporku</string>
   <string name="set_immediately">Postavi</string>
   <string name="set_mixed_password_name">Postavite zaporku</string>
   <string name="set_numeric_password_name">Postavite PIN</string>

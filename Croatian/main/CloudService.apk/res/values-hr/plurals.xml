@@ -92,4 +92,8 @@
         <item quantity="other">%d WLAN mreža</item>
         <item quantity="one">%d WLAN mreža</item>
      </plurals>
+	      <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Ne mogu sinkronizirati stavke: %s"</item>
+        <item quantity="one">"Ne mogu sinkronizirati %s stavku"</item>
+     </plurals>
 </resources>
