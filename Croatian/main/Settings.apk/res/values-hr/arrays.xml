@@ -1528,4 +1528,17 @@
         <item>Dodir</item>
         <item>Dvostruki dodir</item>
     </string-array>
+	<string-array name="captioning_font_size_selector_summaries">
+        <item>Vrlo mala veličina teksta</item>
+        <item>Mala veličina teksta</item>
+        <item>Zadana veličina teksta</item>
+        <item>Velika veličina teksta</item>
+        <item>Vrlo velika veličina teksta</item>
+     </string-array>
+     <string-array name="eap_ocsp_type">
+        <item>Nemoj potvrđivati</item>
+        <item>Zatraži status certifikata</item>
+        <item>Zahtijevaj status certifikata</item>
+        <item>Zahtijevaj sve nepovjerljive statuse certifikata</item>
+     </string-array>
 </resources>

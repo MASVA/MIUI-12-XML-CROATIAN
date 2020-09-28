@@ -8,9 +8,9 @@
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_SUCCESS">RUIM korporativno otključavanje bilo je uspješno.</string>
-  <string name="PERSOSUBSTATE_RUIM_HRPD_ENTRY">RUIM hrpd otključavanje PIN-a</string>
+  <string name="PERSOSUBSTATE_RUIM_HRPD_ENTRY">RUIM Hrpd otključavanje PIN-a</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_ERROR">RUIM Hrpd zahtjevanje otključavanja nije uspjelo.</string>
-  <string name="PERSOSUBSTATE_RUIM_HRPD_IN_PROGRESS">Zahtjev za RUIM hrpd otključavanje…</string>
+  <string name="PERSOSUBSTATE_RUIM_HRPD_IN_PROGRESS">Zahtjev za RUIM Hrpd otključavanje…</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ENTRY">Unesi PUK</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ERROR">PUK otključavanje nije uspjelo.</string>
   <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_IN_PROGRESS">Zahtjev za PUK otključavanje…</string>
@@ -521,7 +521,7 @@ Audio"</string>
   <string name="call_description_recording">Snimanje…</string>
   <string name="call_forward_option">Prosljeđivanje poziva</string>
   <string name="call_forwarding_number_hint">Prosljedi pozive na</string>
-  <string name="call_forwarding_settings">Postavke preusmjeravanja poziva</string>
+  <string name="call_forwarding_settings">Prosljeđivanje poziva</string>
   <string name="call_forwarding_settings_with_label">Prosljeđivanje poziva (%s)</string>
   <string name="call_log">Zapis poziva</string>
   <string name="call_record_add_numbers">Dodaj brojeve</string>

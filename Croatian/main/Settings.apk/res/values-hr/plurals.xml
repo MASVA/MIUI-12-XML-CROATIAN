@@ -752,4 +752,41 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Odabrano: %d</item>
         <item quantity="one">Odabrano: %d</item>
      </plurals>
+	      <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s sek.</item>
+        <item quantity="one">%1$s sek.</item>
+        <item quantity="few">%1$s sek.</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Srednje (%1$s sek.)</item>
+        <item quantity="one">Srednje (%1$s sek.)</item>
+     </plurals>
+     <plurals name="app_link_open_always_summary">
+        <item quantity="other">Aplikacija tvrdi da obrađuje %d poveznica</item>
+        <item quantity="one">Aplikacija tvrdi da obrađuje %d poveznicu</item>
+     </plurals>
+     <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">Povezano je %d aplikacija</item>
+        <item quantity="one">Povezana je %d aplikacijad</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Mora sadržavati najmanje %d ne-numeričkih znakova</item>
+        <item quantity="one">Mora sadržavati najmanje 1 ne-numerički znak</item>
+     </plurals>
+     <plurals name="notification_history_count">
+        <item quantity="other">%d obavijesti</item>
+        <item quantity="one">%d obavijest</item>
+     </plurals>
+     <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d kontakata</item>
+        <item quantity="one">1 kontakt</item>
+     </plurals>
+     <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d razgovora</item>
+        <item quantity="one">1 razgovor</item>
+     </plurals>
+     <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s može prekinuti</item>
+        <item quantity="one">%s može prekinuti</item>
+     </plurals>
 </resources> 

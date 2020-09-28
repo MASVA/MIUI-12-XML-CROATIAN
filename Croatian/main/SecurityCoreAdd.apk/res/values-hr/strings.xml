@@ -291,7 +291,6 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="notificationTitle">Prečac Panela obavijesti</string>
   <string name="notification_from_owner_user">Prikaži obavijesti iz Prvog prostora</string>
   <string name="notification_from_second_user">Prikaži obavijesti iz Drugog prostora</string>
-  <string name="notification_recommend_title">Top 12 Aplik. za Drugi prostor</string>
   <string name="notification_setting_second_space">Postavite Drugi prostor</string>
   <string name="notification_setting_second_space_desc">Dodajte zaporku Drugog prostora i premjestite podatke</string>
   <string name="ok_button">U redu</string>
@@ -518,23 +517,30 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_disable">Nije izrađeno</string>
   <string name="xspace_enable">Izrađeno</string>
   <string name="xspace_facebook_title">Facebook</string>
-  <string name="xspace_guide_des">Koristi 2 računa bez promjene</string>
-  <string name="xspace_guide_title">Izradi dvojnu aplikaciju</string>
+  <string name="xspace_guide_content_bound">Dostupne aplikacije</string>
+  <string name="xspace_guide_des">Dvojne aplikacije omogućuju vam istovremeno korištenje dva računa</string>
+  <string name="xspace_guide_description">"Svaki račun
+zaslužuje vlastitu aplikaciju"</string>
+  <string name="xspace_guide_title">Isprobajte Dvojne aplikacije</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_install_complete">&lt;font>Uspješno izrađeno&lt;/font>&lt;font color=#0D84FF>Otcori sada&lt;/font></string> 
   <string name="xspace_header">Dvojne aplikacije</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="xspace_install_completed">Ikona dodana na Početni zaslon</string>
   <string name="xspace_install_completed_global">Ikona dodana na ladicu</string>
-  <string name="xspace_install_failed">"Ne mogu napraviti"</string>
+  <string name="xspace_install_failed">"Ne mogu izraditi"</string>
   <string name="xspace_installing">Instaliranje…</string>
   <string name="xspace_introduce">Preporučeno</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Učitavanje aplikacija…</string>
   <string name="xspace_notification">Obavijesti dvojnih aplikacija</string>
+  <string name="xspace_notification_button">Isprobajte</string>
   <string name="xspace_notification_error">Prijavite se na dvojni WeChat i pokušajte ponovo</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">"Izbriši račune dvojnih aplikacija"</string>
   <string name="xspace_setting_label">Postavke dvojne aplikacije</string>
   <string name="xspace_settins">Postavi</string>
+  <string name="xspace_start">Izradi</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspješno deinstalirana</string>
   <string name="xspace_uninstall_dialog_content">Deinstalacija dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Deinstaliraj dvojnu aplikaciju</string>

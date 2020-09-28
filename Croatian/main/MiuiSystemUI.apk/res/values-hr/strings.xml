@@ -573,10 +573,10 @@ brzina uzorkovanja"</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezano putem WLAN pomoćnika</string>
   <string name="content_description_menu_button">Izbornik</string>
-  <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
- !!Upozorenje!! Time ćete izbrisati sve podatke.
- Značajka je u alfa verziji i možda neće raditi pravilno.
- Pritisnite \"Izbriši i pretvori…\" da biste nastavili."</string>
+  <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju na temelju datoteka.
+!!Upozorenje: Time ćete izbrisati sve svoje podatke.
+Ova se značajka razvija i možda neće raditi ispravno.
+Dodirnite \"Izbriši i pretvori…\" za nastavak.</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
   <string name="convert_to_file_encryption_done">Datoteke su već šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvori…</string>
@@ -1454,6 +1454,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="notification_channel_tv_pip">Slika u slici</string>
   <string name="notification_channel_usb">USB</string>
   <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
+  <string name="notification_control_center">Obavijesti &amp; Centar za kontrolu</string>
   <string name="notification_default_channel_desc">Ova aplikacija nema kategorije obavijesti</string>
   <string name="notification_done">Gotovo</string>
   <string name="notification_group_collapse_button_text">Presavij</string>

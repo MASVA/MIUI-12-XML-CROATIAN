@@ -58,11 +58,16 @@
          <item>"Ime vašeg supružnika"</item>
          <item>"Rođendan vašeg supružnika"</item>
      </string-array>
-	 <string-array name="settings_search_account_and_authority">
+	 <string-array name="settings_search_account_and_authority_global">
         <item>Računi</item>
         <item>Dodajte i upravljajte računima trećih strana</item>
-        <item>Autorizacija;Račun;Mi Račun;Dodaj;Upari;Xiaomi;Prikaži;SNS;WeChat;Google;Weibo</item>
+        <item>Autorizacija;Račun;Mi Račun;Dodaj;Upari;Xiaomi;Prikaži;SNS;Facebook;Google</item>
     </string-array>
+	<string-array name="settings_search_account_and_authority_non_global">
+        <item>Računi</item>
+        <item>Dodajte i upravljajte računima trećih strana</item>
+        <item>Autorizacija;Račun;Mi Račun;Dodaj;Upari;Xiaomi;Prikaži;SNS;WeChat;QQ;Weibo</item>
+	</string-array>
     <string-array name="settings_search_change_password">
         <item>Promijeni zaporku</item>
         <item>Promijeni zaporku Mi Računa</item>

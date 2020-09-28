@@ -187,9 +187,9 @@ Audio"</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju na temelju datoteka.
- Upozorenje: Time ćete izbrisati sve svoje podatke.
- Ova se značajka razvija i možda neće raditi ispravno.
- Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
+!!Upozorenje: Time ćete izbrisati sve svoje podatke.
+Ova se značajka razvija i možda neće raditi ispravno.
+Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
   <string name="convert_to_file_encryption_done">Datoteke su šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvaranje…</string>

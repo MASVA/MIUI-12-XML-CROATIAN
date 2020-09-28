@@ -105,7 +105,7 @@
   <string name="miui_feedback_edit_submit_directly">Pošalji</string>
   <string name="miui_feedback_edit_title_occurrence_time">Odaberite vrijeme</string>
   <string name="miui_feedback_edit_title_reproductivity">Odaberite reproduktivnost</string>
-  <string name="miui_feedback_edit_toast_description_required">Potreban je opis</string>
+  <string name="miui_feedback_edit_toast_description_required">Prvo opišite problem</string>
   <string name="miui_feedback_edit_toast_module_required">Odaberi stavku</string>
   <string name="miui_feedback_edit_toast_more_desc_required">Vaš bi opis trebao biti dulji</string>
   <string name="miui_feedback_edit_toast_problem_class_required">Odaberite kategoriju</string>
