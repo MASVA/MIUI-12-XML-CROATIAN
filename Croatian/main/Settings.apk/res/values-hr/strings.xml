@@ -4030,7 +4030,6 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="ignore_optimizations_on_desc">Baterija se može brže isprazniti. Aplikacijama više neće biti ograničeno korištenje pozadinske baterije.</string>
   <string name="ignore_optimizations_title">Želite li dopustiti aplikaciji %s da zanemari optimizacije baterije?</string>
   <string name="ime_security_warning">%1$s može snimati sve što unosite, uključujući zaporke, brojeve kreditnih kartica i druge osobne podatke.</string>
-  <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="ime_security_warning_title_global">Uključivanje tipkovnice</string>
   <string name="imei_information_summary">Relativne informacije IMEI-ja</string>
   <string name="imei_information_title">Informacije IMEI-ja</string>
@@ -4878,7 +4877,6 @@ kao i PIN za Prvi prostor"</string>
   <string name="manage_conversations">Upravljajte razgovorima</string>
   <string name="manage_condition_providers">Davatelji uvjeta</string>
   <string name="manage_condition_providers_summary_zero">Nijedna aplikacija ne pruža uvjete</string>
-  <string name="manage_conversations">Manage conversations</string>
   <string name="manage_device_admin">Aplikacije administratora uređaja</string>
   <string name="manage_device_admin_summary">Prikaz ili deaktivacija administratora uređaja</string>
   <string name="manage_external_storage_title">Pristup svim datotekama</string>
@@ -10615,9 +10613,8 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_scan_notify_remember_choice">Ne prikazuj ponovno</string>
   <string name="wifi_scan_notify_text">Radi poboljšanja preciznosti lokacije aplikacije i usluge sustava i dalje mogu tražiti WLAN mreže. To možete promijeniti u postavkama traženja.</string>
   <string name="wifi_scan_notify_text_location_off">Aplikacije mogu skenirati mreže u blizini, čak i kada je WLAN isključen. Ako ne želite da se to događa, idite na opcije Napredno &gt; Skeniranje je uvijek dostupno.</string>
-  <string name="wifi_scan_notify_text">Da bi se poboljšala točnost lokacije, aplikacije i usluge i dalje mogu tražiti Wi‑Fi mreže u bilo kojem trenutku, čak i kada je Wi‑Fi isključen. Na taj se način mogu, na primjer, poboljšati značajke i usluge koje se temelje na lokaciji. To možete promijeniti u LINK_BEGINpostavkama pretraživanjaLINK_END.</string>
   <string name="wifi_scan_notify_text_scanning_off">Radi poboljšanja preciznosti lokacije uključite traženje WLAN-a u postavkama traženja.</string>
-  <string name="wifi_scan_throttling">Usporavanje traženja Wi-Fija</string>
+  <string name="wifi_scan_throttling">Usporavanje traženja WLAN-a</string>
   <string name="wifi_scan_throttling_summary">Smanjuje potrošnju baterije i poboljšava rad mreže</string>
   <string name="wifi_secured_first_item">Osigurano značajkom %1$s</string>
   <string name="wifi_secured_second_item">, osigurano značajkom %1$s</string>
