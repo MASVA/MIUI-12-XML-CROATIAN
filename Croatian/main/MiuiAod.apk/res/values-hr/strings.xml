@@ -92,9 +92,12 @@ dd.MM"</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="font_thickness">Podebljani font</string>
   <string name="icon_content_description">Ikona dijaloga</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="large_time">Veliki sat</string>
   <string name="letter_space">Razmak između slova</string>
   <string name="line_space">Razmak između redova</string>
+  <string name="material_slider_range_end">Kraj,</string>
+  <string name="material_slider_range_start">Početak,</string>
   <string name="midnight">AM</string>
   <string name="mini_time">Mali sat</string>
   <string name="minimalist_clock">Jednostavan sat</string>
@@ -151,6 +154,7 @@ dd.MM"</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>

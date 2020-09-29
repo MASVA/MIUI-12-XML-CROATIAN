@@ -86,6 +86,13 @@
   <string name="focus_mode_timer_pick_dialog_title">Unesite trajanje</string>
   <string name="focus_time_exception_tip">Izgleda da se promijenilo vrijeme sustava. Isključite način fokusiranja.</string>
   <string name="follow_sim1">Primijeni postavke SIM 1</string>
+  <string name="fps_nature_summary">Visoka brzina osvježavanja čini sve oštrim i jasnim</string>
+  <string name="fps_nature_title">Visoka</string>
+  <string name="fps_smooth_summary">Srednja brzina osvježavanja dodaje više jasnoće detaljima</string>
+  <string name="fps_smooth_title">Srednja</string>
+  <string name="fps_standard_summary">Standardna brzina osvježavanja štedi bateriju</string>
+  <string name="fps_standard_title">Standardna</string>
+  <string name="fps_user_tip">Ove demo animacije reproduciraju se na maloj brzini za vašu referencu. Stvarne performanse mogu izgledati drugačije ovisno o različitim čimbenicima.</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
