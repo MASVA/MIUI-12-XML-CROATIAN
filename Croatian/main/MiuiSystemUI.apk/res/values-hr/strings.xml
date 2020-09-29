@@ -1393,7 +1393,6 @@ snimke zaslona"</string>
   <string name="media_projection_action_text">Započni</string>
   <string name="media_projection_dialog_text">"%s će početi snimanje svega što se prikazuje na zaslonu."</string>
   <string name="media_projection_remember_text">"Ne prikazuj ponovno"</string>
-  <string name="media_transfer_this_device_name">Ovaj uređaj</string>
   <string name="media_transfer_this_device_name">Zvučnik telefona</string>
   <string name="media_transfer_wired_device_name">Žičani audiouređaj</string>
   <string name="megabyte_per_second">MB/s</string>

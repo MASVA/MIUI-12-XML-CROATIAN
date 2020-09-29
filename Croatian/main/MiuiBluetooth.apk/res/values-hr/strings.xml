@@ -369,7 +369,6 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="media_category">Mediji</string>
-  <string name="media_transfer_this_device_name">Ovaj uređaj</string>
   <string name="media_transfer_this_device_name">Zvučnik telefona</string>
   <string name="media_transfer_wired_device_name">Žičani audiouređaj</string>
   <string name="mi_audio_relay_cancel">U redu</string>
