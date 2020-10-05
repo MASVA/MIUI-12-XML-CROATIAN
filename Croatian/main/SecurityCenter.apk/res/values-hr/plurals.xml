@@ -700,4 +700,24 @@
         <item quantity="other">%1$s:</item>
         <item quantity="one">%1$s:</item>
      </plurals>
+	 <plurals name="applock_app_suggest_lock">
+        <item quantity="other">Možete koristiti Zaklj. aplikacija sa %1$s aplikacija</item>
+        <item quantity="one">Možete koristiti Zaklj. aplikacija sa %1$s aplikacijom</item>
+     </plurals>
+     <plurals name="applock_one_key_lock">
+        <item quantity="other">%s aplikacija će biti zaštićene sa Zaklj. aplikacija</item>
+        <item quantity="one">%s aplikacija će biti zaštićena sa Zaklj. aplikacija</item>
+     </plurals>
+     <plurals name="ew_concern_date">
+        <item quantity="other">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
+     </plurals>
+     <plurals name="game_booster_incoming_call_duration_p2">
+        <item quantity="other">%1$s</item>
+        <item quantity="one">%1$s</item>
+     </plurals>
+     <plurals name="gb_signed_days_sum">
+        <item quantity="other">Prijavljeno %d dana za redom</item>
+        <item quantity="one">Prijavljeno %d puta</item>
+	</plurals>
 </resources>

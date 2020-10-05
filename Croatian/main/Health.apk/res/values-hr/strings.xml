@@ -156,6 +156,7 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="breaststroke">Prsni stil</string>
   <string name="butterfly_stroke">Leptir</string>
   <string name="button_record_menstruation">Zabilježi</string>
+  <string name="calories">kalorija</string>
   <string name="buy">Kupi</string>
   <string name="camera_permission_desc">Za postavljanje fotografije profila</string>
   <string name="cancel">Odustani</string>
@@ -537,6 +538,16 @@ Pričekajte dok krug ne postane crven."</string>
   <string name="hr_detect_state_reseting">Stanje odmaranja</string>
   <string name="hr_detect_state_reseting_desc">Upravo se probudio ili potpuno opušten</string>
   <string name="hr_disturb_detect">Otkrivanje prekinuto</string>
+  <string name="hr_fp_area">Područje otiska prsta</string>
+  <string name="hr_fp_detect_desc">Protok krvi u prstima povećava se za vrijeme otkucaja srca. Kroz izvor jakog svjetla u području otiska prsta ispod zaslona može se dobiti učestalost promjene krvi prstiju. Frekvencija se pretvara u impulsni signal za izračunavanje točnog otkucaja srca.</string>
+  <string name="hr_fp_detect_principle_desc">"Krv može apsorbirati svjetlost. Sa svakim otkucajem srca, više krvi teče prema prstima i upija se više svjetlosti; u intervalu između otkucaja srca apsorbira se manje svjetlosti. Kroz svijetli izvor svjetlosti u području otiska prsta ispod zaslona može se dobiti učestalost promjene krvi prsta. Frekvencija se pretvara u impulsni signal za izračunavanje točnog otkucaja srca.
+
+Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 BPM"</string>
+  <string name="hr_fp_detect_principle_desc_2">Napomena: pripazite da prst u potpunosti prekriva područje otiska prsta; lagano ga pritisnite tijekom otkrivanja. Ako je tlak previsok, smanjit će se protok krvi u prstu, što će rezultirati netočnim rezultatima. Podaci ispitivanja su samo referentni, a ne za medicinske instrumente.</string>
+  <string name="hr_fp_detect_start_desc">Pritisnite lagano prst. Nemojte pomicati područje otiska prsta</string>
+  <string name="hr_fp_detecting">Otkrivanje…</string>
+  <string name="hr_fp_not_put_well">Prst nije na pravom mjestu, pokušajte ponovo</string>
+  <string name="hr_fp_report_common_desc">Normalni broj otkucaja srca kreće se od 60 do 100 otkucaja u minuti. Otkucaji srca niži od 60 BPM znak su bradikardije, dok je puls veći od 100 BPM prihvaćen kao tahikardija kod odraslih.</string>
   <string name="hr_disturb_detect_desc">Počnite ispočetka. Pokušajte ne micati prstom tijekom mjerenja.</string>
   <string name="hr_heart_rate_unit">Brzina otkucaja srca (BPM)</string>
   <string name="hr_in_detect">Molimo ne puštajte prste tijekom testiranja</string>
@@ -968,11 +979,14 @@ Pričekajte dok krug ne postane crven."</string>
   <string name="setting_avatar">Fotografija profila</string>
   <string name="setting_birthday">Datum rođenj</string>
   <string name="setting_blood_type">Krvna grupa</string>
+  <string name="setting_cycling_goals">Postavite cilj bicikliranja</string>
   <string name="setting_data_cloud_sync_tip">Pomoću ove značajke možete sigurnosno kopirati stavke s ovog uređaja i sinkronizirati zdravstvene podatke s drugih uređaja</string>
   <string name="setting_gender">Postavite spol</string>
+  <string name="setting_running_goals">Postavite cilj trčanja</string>
   <string name="setting_sedentary_off">ISKLJUČENO</string>
   <string name="setting_sedentary_on">UKLJUČENO</string>
   <string name="setting_sedentary_title">Podsjeti da se prošetam</string>
+  <string name="setting_walking_goals">Postavite cilj hodanja</string>
   <string name="severe_abnormal">Hipertenzivna kriza</string>
   <string name="severe_abnormal_tip">Svaki dan nakon ustajanja, nakon ručka i prije odlaska u krevet</string>
   <string name="share">Podijeli</string>
@@ -1170,6 +1184,9 @@ podatke o spavanju"</string>
   <string name="stand_stop_reminding">"Ne prikazuj ponovno"</string>
   <string name="standard_format">(standardno: %1s)</string>
   <string name="standing_already">" Ustali ste"</string>
+  <string name="start_cycling">Počnite voziti bicikl</string>
+  <string name="start_running">Počnite trčati</string>
+  <string name="start_walking">Počnite hodati</string>
   <string name="state_agree">Slažem se</string>
   <string name="state_auto_run_disenable">Isklj.</string>
   <string name="state_auto_run_enable">Uklj.</string>
@@ -1282,7 +1299,7 @@ podatke o spavanju"</string>
   <string name="tb_home_sleep_card_no_data">Spavanje. Nema podataka danas.</string>
   <string name="tb_home_sleep_card_not_open_trace">Spavanje. Analiza ciklusa spavanja je isključena.</string>
   <string name="tb_home_tip_open_data_sync">Sinkronizirajte stavke Xiaomi Health s Mi Cloudom kako biste im pristupili na drugim uređajima. Dvaput dodirnite za početak.</string>
-  <string name="tb_home_weight_card">Težina. %1$.1f kg. Vrijeme vaganja: %2$s. Status: %3$s.</string>
+  <string name="tb_home_weight_card">Težina. %1$.2f kg. Vrijeme vaganja: %2$s. Status: %3$s.</string>
   <string name="tb_home_weight_card_no_data">Težina. Nema podataka.</string>
   <string name="tb_manage_home">Ovdje možete ukloniti ili preurediti kartice prikazane na početnoj stranici.</string>
   <string name="tb_mens_mark_success">Označeno uspješno</string>
