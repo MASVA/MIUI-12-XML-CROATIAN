@@ -39,7 +39,7 @@
   <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
   <string name="accessibility_wifi_three_bars">WLAN signal ima tri stupca.</string>
   <string name="accessibility_wifi_two_bars">WLAN signal ima dva stupca.</string>
-  <string name="accessibility_work_profile_app_description">Work %s</string>
+  <string name="accessibility_work_profile_app_description">Radni profil %s</string>
   <string name="accessor_expires_text">Najam istječe %s</string>
   <string name="accessor_info_title">Aplikacije koje dijele podatke</string>
   <string name="accessor_no_description_text">U aplikaciji nije naveden opis.</string>

@@ -10,10 +10,10 @@
     <string name="connecting_to">Povezivanje s pisačem %1$s</string>
     <string name="connections">Veze</string>
     <string name="connects_via_network">Povezuje se putem trenutačne mreže na IP adresi %1$s</string>
-    <string name="connects_via_wifi_direct">Povezuje se putem Izravnog Wi-Fija</string>
+    <string name="connects_via_wifi_direct">Povezuje se putem Izravnog WLAN-a</string>
     <string name="failed_connection">Povezivanje s pisačem %1$s nije uspjelo</string>
     <string name="failed_printer_connection">Povezivanje s pisačem nije uspjelo</string>
-    <string name="find_wifi_direct">Pronađi pisače s Izravnim Wi-Fijem</string>
+    <string name="find_wifi_direct">Pronađi pisače s Izravnim WLAN-om</string>
     <string name="fix">Pregled dopuštenja</string>
     <string name="forget">Zaboravi</string>
     <string name="hostname_or_ip">Naziv hosta ili IP adresa</string>
@@ -37,6 +37,11 @@
     <string name="printer_out_of_ink">Nema tinte</string>
     <string name="printer_out_of_paper">Nema papira</string>
     <string name="printer_out_of_toner">Nema tonera</string>
+	<string name="recommendation_enable_summary">Odaberite za omogućavanje</string>
+    <string name="recommendation_install_summary">Odaberite za instaliranje</string>
+    <string name="recommendation_manage">Upravljanje uslugama</string>
+    <string name="recommendation_summary">Zadana usluga ispisa nudi osnovne opcije. Ostale opcije za ovaj pisač mogu biti dostupne iz druge usluge ispisa.</string>
+    <string name="recommendations_heading">Preporučene usluge</string>
     <string name="reject">Odbij</string>
     <string name="saved_printers">Spremljeni pisači</string>
     <string name="searching">Pretraživanje…</string>
@@ -44,8 +49,8 @@
     <string name="title_activity_add_printer">Dodaj pisač</string>
     <string name="unreadable_input">Dokument se ne može pročitati</string>
     <string name="waiting_to_send">Čeka se slanje</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wifi_direct">WLAN Direct</string>
     <string name="wifi_direct_permission_rationale">Zadanoj usluzi ispisa potrebna su dopuštenja za lokaciju kako bi pronašla uređaje u blizini.</string>
-    <string name="wifi_direct_printers">Pisači s Izravnim Wi-Fijem</string>
-    <string name="wifi_direct_printing">Ispis putem Izravnog Wi-Fija</string>
+    <string name="wifi_direct_printers">Pisači s Izravnim WLAN-om</string>
+    <string name="wifi_direct_printing">Ispis putem Izravnog WLAN-a</string>
 </resources>

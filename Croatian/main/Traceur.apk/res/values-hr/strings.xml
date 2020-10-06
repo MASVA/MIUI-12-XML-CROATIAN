@@ -39,10 +39,41 @@
   <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
   <string name="accessibility_wifi_three_bars">WLAN signal ima tri stupca.</string>
   <string name="accessibility_wifi_two_bars">WLAN signal ima dva stupca.</string>
+  <string name="accessibility_work_profile_app_description">Radni profil %s</string>
+  <string name="accessor_expires_text">Najam istječe %s</string>
+  <string name="accessor_info_title">Aplikacije koje dijele podatke</string>
+  <string name="accessor_no_description_text">U aplikaciji nije naveden opis.</string>
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
+  <string name="adb_device_fingerprint_title_format">Otisak prsta na uređaju: %1$s</string>
+  <string name="adb_device_forget">Zaboravi</string>
   <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
+  <string name="adb_pair_method_code_summary">Uparivanje novih uređaja pomoću šesteroznamenkastog koda</string>
+  <string name="adb_pair_method_code_title">Uparivanje uređaja pomoću koda za uparivanje</string>
+  <string name="adb_pair_method_qrcode_summary">Uparivanje novih uređaja pomoću čitača QR koda</string>
+  <string name="adb_pair_method_qrcode_title">Uparivanje uređaja pomoću QR koda</string>
+  <string name="adb_paired_devices_title">Upareni uređaji</string>
+  <string name="adb_pairing_device_dialog_failed_msg">Provjerite je li uređaj povezan na istu mrežu.</string>
+  <string name="adb_pairing_device_dialog_failed_title">Uparivanje nije uspjelo</string>
+  <string name="adb_pairing_device_dialog_pairing_code_label">Kôd za uparivanje putem WLAN-a</string>
+  <string name="adb_pairing_device_dialog_title">Uparivanje s uređajem</string>
+  <string name="adb_qrcode_pairing_device_failed_msg">Uparivanje uređaja nije uspjelo. QR kôd je neispravan ili uređaj nije povezan na istu mrežu.</string>
   <string name="adb_warning_message">Otklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
   <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
+  <string name="adb_wireless_connection_failed_message">Provjerite je li uređaj %1$s povezan na ispravnu mrežu</string>
+  <string name="adb_wireless_connection_failed_title">Neuspješno povezivanje</string>
+  <string name="adb_wireless_device_connected_summary">Trenutačno povezano</string>
+  <string name="adb_wireless_device_details_title">Pojedinosti o uređaju</string>
+  <string name="adb_wireless_error">Pogreška</string>
+  <string name="adb_wireless_ip_addr_preference_title">IP adresa i priključak</string>
+  <string name="adb_wireless_list_empty_off">Da biste vidjeli dostupne uređaje i mogli se njima koristiti, uključite bežično otklanjanje pogrešaka</string>
+  <string name="adb_wireless_no_network_msg">Povežite se s WLAN mrežom</string>
+  <string name="adb_wireless_qrcode_pairing_description">Uparivanje uređaja putem WLAN-a skeniranjem QR koda</string>
+  <string name="adb_wireless_qrcode_pairing_title">Skenirajte QR kôd</string>
+  <string name="adb_wireless_qrcode_summary">Uparivanje uređaja putem WLAN-a skeniranjem QR koda</string>
+  <string name="adb_wireless_settings">Bežično otklanjanje pogrešaka</string>
+  <string name="adb_wireless_verifying_qrcode_text">Uparivanje uređaja…</string>
+  <string name="adbwifi_warning_message">Bežično otklanjanje pogrešaka namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaj bez obavijesti i za čitanje dnevničkih zapisa.</string>
+  <string name="adbwifi_warning_title">Želite li omogućiti bežično otklanjanje pogrešaka?</string>
   <string name="alarm_template">u %1$s</string>
   <string name="alarm_template_far">u %1$s</string>
   <string name="all_traces_will_be_deleted">Izbrisat će se svi tragovi iz /data/local/traces</string>
@@ -52,14 +83,20 @@
   <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="applications">Prijave</string>
+  <string name="auto_connect_disable">Automatsko povezivanje je isključeno</string>
+  <string name="available_via_app">Dostupno putem mreže %1$s</string>
   <string name="available_via_carrier">Dostupno putem mreže %1$s</string>
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="battery_info_status_charging">Punjenje</string>
+  <string name="battery_info_status_charging_fast">Brzo punjenje</string>
   <string name="battery_info_status_charging_lower">punjenje</string>
+  <string name="battery_info_status_charging_slow">Sporo punjenje</string>
   <string name="battery_info_status_discharging">Ne puni se</string>
   <string name="battery_info_status_full">Puna</string>
   <string name="battery_info_status_not_charging">Uključen, trenutačno se ne može puniti</string>
   <string name="battery_info_status_unknown">Nepoznato</string>
+  <string name="blob_expires_text">Istječe %s</string>
+  <string name="blob_id_text">ID dijeljenih podataka: %d</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano s medijskim zvukom</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Koristi za medijski zvuk</string>
   <string name="bluetooth_active_battery_level">Aktivan, %1$s baterije</string>
@@ -83,6 +120,8 @@
   <string name="bluetooth_disconnecting">Isključivanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN Poslužitelj</string>
   <string name="bluetooth_dun_profile_summary_use_for">Upotrijebi se za dial-up pristup mreži</string>
+  <string name="bluetooth_enable_gabeldorsche">Omogući  Gabeldorsche</string>
+  <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za telefonski zvuk</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano sa Slušnim aparatima</string>
@@ -142,8 +181,11 @@ Audio: brzina uzorkovanja"</string>
   <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Audio</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Pokreni odabir kodeka za Bluetooth
 Audio"</string>
+  <string name="bluetooth_select_a2dp_codec_type_help_info">Ako je stavka siva, znači da je telefon ili slušalice ne podržavaju</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Odaberite verziju AVRCP-a za Bluetooth</string>
   <string name="bluetooth_select_avrcp_version_string">Verzija AVRCP-a za Bluetooth</string>
+  <string name="bluetooth_select_map_version_dialog_title">Odaberite verziju MAP-a za Bluetooth</string>
+  <string name="bluetooth_select_map_version_string">Verzija MAP-a za Bluetooth</string>
   <string name="bluetooth_show_devices_without_names">Prikaži Bluetooth uređaje bez naziva</string>
   <string name="bluetooth_show_devices_without_names_summary">Prikazivat će se Bluetooth uređaji bez naziva (samo MAC adrese)</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
@@ -159,6 +201,10 @@ Audio"</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
   <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
+  <string name="cached_apps_freezer_device_default">Zadani uređaj</string>
+  <string name="cached_apps_freezer_disabled">Onemogućeno</string>
+  <string name="cached_apps_freezer_enabled">Omogućeno</string>
+  <string name="cached_apps_freezer_reboot_dialog_text">Da bi se ova promjena primijenila, vaš se uređaj mora ponovno pokrenuti. Ponovo pokrenite odmah ili otkažite.</string>
   <string name="cancel">Odustani</string>
   <string name="categories">Kategorije</string>
   <string name="category_personal">Osobno</string>
@@ -169,6 +215,7 @@ Audio"</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
   <string name="clear_saved_traces">Izbriši spremljene tragove</string>
   <string name="clear_saved_traces_question">Želite li izbrisati spremljene tragove?</string>
+  <string name="clear_saved_traces_summary">Tragovi se uklanjaju nakon mjesec dana</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_via_app">Povezan putem mreže %1$s</string>
@@ -210,6 +257,8 @@ Audio"</string>
   <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
   <string name="default_categories">Zadano</string>
   <string name="default_categories_restored">Zadane su kategorije vraćene</string>
+  <string name="delete_blob_confirmation_text">Jeste li sigurni da želite izbrisati te dijeljene podatke?</string>
+  <string name="delete_blob_text">Izbriši dijeljene podatke</string>
   <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
   <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
@@ -229,6 +278,8 @@ Audio"</string>
   <string name="eight_thousand_kb">8192 KB</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka putem USB-a</string>
+  <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>
+  <string name="enable_adb_wireless_summary">Način otklanjanja pogrešaka kad je WLAN povezan</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
   <string name="enable_freeform_support_summary">Omogući podršku za eksperimentalne prozore slobodnog oblika.</string>
   <string name="enable_gpu_debug_layers">Omogući slojeve za otklanjanje pogrešaka GPU-a</string>
@@ -236,7 +287,11 @@ Audio"</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
+  <string name="enable_verbose_vendor_logging">Omogući opširni zapisnik</string>
+  <string name="enable_verbose_vendor_logging_summary">Uključite dodatne zapisnike dobavljača pojedinog uređaja u izvješća o programskoj pogrešci koja mogu sadržavati privatne podatke, trošiti više baterije i/ili zauzeti više prostora za pohranu.</string>
   <string name="enabled_by_admin">Omogućio administrator</string>
+  <string name="enhanced_connectivity">Poboljšana povezivost</string>
+  <string name="enhanced_connectivity_summary">Omogućuje značajku Poboljšana povezivost.</string>
   <string name="expand_button_title">Napredno</string>
   <string name="external_source_trusted">Dopušteno</string>
   <string name="external_source_untrusted">Nije dopušteno</string>
@@ -253,9 +308,13 @@ Audio"</string>
   <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
   <string name="four_thousand_kb">4096 KB</string>
+  <string name="guest_exit_guest">Uklanjanje gosta</string>
+  <string name="guest_new_guest">Dodavanje gosta</string>
+  <string name="guest_nickname">Gost</string>
   <string name="hdcp_checking_dialog_title">Postavke HDCP provjere</string>
   <string name="hdcp_checking_title">HDCP provjera</string>
   <string name="help_feedback_label">Pomoć i povratne informacije</string>
+  <string name="help_label">Pomoć i povratne informacije</string>
   <string name="home">Početni zaslon postavki</string>
   <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
@@ -263,6 +322,7 @@ Audio"</string>
   <string name="ims_reg_status_not_registered">Nije registrirano</string>
   <string name="ims_reg_status_registered">Registrirano</string>
   <string name="ims_reg_title">Stanje registracije IMS-a</string>
+  <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Aplikacije u stanju mirovanja</string>
@@ -324,6 +384,8 @@ Audio"</string>
   <string name="max_long_trace_size">Maksimalna veličina dugog praćenja</string>
   <string name="media_category">Mediji</string>
   <string name="media_transfer_this_device_name">Ovaj uređaj</string>
+  <string name="media_transfer_wired_device_name">Žičani audiouređaj</string>
+  <string name="media_transfer_wired_usb_device_name">Žičane slušalice</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je Wi‑Fi aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
   <string name="mock_location_app">Odabir aplikacije za lažnu lokaciju</string>
@@ -392,15 +454,19 @@ Audio"</string>
   <string name="power_remaining_more_than_subtext">Preostalo je više od %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Preostalo je više od %1$s</string>
   <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
+  <string name="power_suggestion_battery_run_out">Baterija bi se mogla isprazniti do %1$s</string>
   <string name="power_suggestion_extend_battery">Neka baterija potraje i nakon %1$s</string>
   <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
   <string name="preference_summary_default_combination">%1$s/%2$s</string>
+  <string name="private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
   <string name="private_dns_mode_provider">Naziv hosta davatelja usluge privatnog DNS-a</string>
   <string name="private_dns_mode_provider_failure">Povezivanje nije moguće</string>
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="process_kernel_label">Android OS</string>
+  <string name="profile_connect_timeout_subtext">Problem s povezivanjem. Isključite i ponovo uključite uređaj</string>
+  <string name="profile_info_settings_title">Profilni podaci</string>
   <string name="record_system_activity">Bilježenje aktivnosti sustava i njihova analiza radi poboljšanja izvedbe</string>
   <string name="record_trace">Snimanje traga</string>
   <string name="remaining_length_format">Još %1$s</string>
@@ -435,6 +501,12 @@ Audio"</string>
   <string name="select_webview_provider_toast_text">Taj izbor više nije važeći. Pokušajte ponovo.</string>
   <string name="share">Dijeli</string>
   <string name="share_trace">Želite li podijeliti praćenje?</string>
+  <string name="shared_data_delete_failure_text">Došlo je do pogreške prilikom brisanja dijeljenih podataka.</string>
+  <string name="shared_data_no_accessors_dialog_text">Nisu potrebna iznajmljivanja za ove dijeljene podatke. Želite li ih izbirsati?</string>
+  <string name="shared_data_no_blobs_text">Nema dijeljenih podataka za ovog korisnika.</string>
+  <string name="shared_data_query_failure_text">Došlo je do pogreške prilikom dohvaćanja dijeljenih podataka. Pokušajte ponovno.</string>
+  <string name="shared_data_summary">Prikaz i izmjena dijeljenih podataka</string>
+  <string name="shared_data_title">Dijeljeni podaci</string>
   <string name="show_all_anrs">Pokaži pozadinske ANR-ove</string>
   <string name="show_all_anrs_summary">Dijalog o pozadinskim aplikacijama koje ne reagiraju</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
@@ -462,12 +534,14 @@ Audio"</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_unavailable">Nije dostupno</string>
   <string name="stop_tracing">Zaustavite bilježenje tragova</string>
+  <string name="storage_category">Pohrana</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_trace_sensitive_data">Datoteke praćenja sustava mogu sadržavati osjetljive podatke o sustavu i aplikacijama (na primjer o upotrebi aplikacija). Praćenja sustava dijelite samo s osobama i aplikacijama koje smatrate pouzdanima.</string>
   <string name="system_traces_storage_title">Praćenja sustava</string>
   <string name="system_tracing">Praćenje sustava</string>
+  <string name="tap_to_renew_subscription_and_connect">Dodirnite da biste obnovili pretplatu i povezali se</string>
   <string name="tap_to_share">Dodirnite da biste podijelili trag</string>
   <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
   <string name="tap_to_stop_tracing">Dodirnite da biste zaustavili bilježenje tragova</string>
@@ -528,7 +602,32 @@ Audio"</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
   <string name="use_perfetto_beta">Upotrijebi Perfetto (beta)</string>
   <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>
+  <string name="user_add_profile_item_summary">Možete ograničiti pristup aplikacijama i sadržaju sa svojeg računa</string>
+  <string name="user_add_profile_item_title">Ograničeni profil</string>
+  <string name="user_add_user_item_summary">Korisnici imaju vlastite aplikacije i sadržaj</string>
+  <string name="user_add_user_item_title">Korisnik</string>
+  <string name="user_add_user_message_long">"Da biste ovaj uređaj dijelili s drugima, možete napraviti dodatne korisnike. Svaki korisnik ima svoj prostor koji može prilagoditi pomoću vlastitih aplikacija, pozadine i tako dalje. Korisnici mogu prilagoditi i postavke uređaja koje utječu na sve ostale korisnike, na primjer Wi‑Fi.
+
+Kada dodate novog korisnika, ta osoba mora postaviti svoj prostor.
+
+Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike. Postavke i usluge pristupačnosti možda se neće prenijeti na novog korisnika."</string>
+  <string name="user_add_user_message_short">"Kada dodate novog korisnika, ta osoba mora postaviti vlastiti prostor.
+
+Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string>
+  <string name="user_add_user_title">Dodati novog korisnika?</string>
+  <string name="user_add_user_type_title">Dodavanje</string>
   <string name="user_guest">Gost</string>
+  <string name="user_info_settings_title">Podaci o korisniku</string>
+  <string name="user_need_lock_message">Prije izrade ograničenog profila trebate postaviti zaključavanje zaslona radi zaštite svojih aplikacija i osobnih podataka.</string>
+  <string name="user_new_profile_name">Novi profil</string>
+  <string name="user_new_user_name">Novi korisnik</string>
+  <string name="user_set_lock_button">Postavi zaključavanje</string>
+  <string name="user_setup_button_setup_later">Ne sad</string>
+  <string name="user_setup_button_setup_now">Postavi sada</string>
+  <string name="user_setup_dialog_message">Provjerite može li osoba uzeti uređaj i postaviti svoj prostor</string>
+  <string name="user_setup_dialog_title">Postaviti korisnika sada?</string>
+  <string name="user_setup_profile_dialog_message">Želite li sada postaviti profil?</string>
+  <string name="user_switch_to_user">Prelazak na korisnika %s</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
@@ -569,6 +668,8 @@ Audio"</string>
   <string name="wifi_disconnected">Nije povezano</string>
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
+  <string name="wifi_enhanced_mac_randomization">Nasum. odabir MAC-a poboljšanim WLAN-om</string>
+  <string name="wifi_enhanced_mac_randomization_summary">Kad je ovaj način omogućen, MAC adresa ovog uređaja može se promijeniti svaki put kada se poveže s mrežom koja ima omogućenu MAC slučajnost.</string>
   <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_limited_connection">Ograničena veza</string>
@@ -576,9 +677,11 @@ Audio"</string>
   <string name="wifi_no_internet">Nema pristupa internetu</string>
   <string name="wifi_no_internet_no_reconnect">Neće se povezati automatski</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
+  <string name="wifi_passpoint_expired">Isteklo</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_scan_throttling">Usporavanje traženja WLAN-a</string>
   <string name="wifi_scan_throttling_summary">Smanjuje potrošnju baterije i poboljšava rad mreže</string>
+  <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_none">Nema</string>
   <string name="wifi_ssid_is_empty">Polje SSID ne može ostati prazno</string>
   <string name="wifi_ssid_length_is_max">SSID ne smije premašivati 32 znakova u dužini</string>

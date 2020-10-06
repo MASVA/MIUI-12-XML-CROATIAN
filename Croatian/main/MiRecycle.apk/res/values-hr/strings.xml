@@ -62,6 +62,7 @@ accidental damage to your smartphone"</string>
  <string name="cs_buy_privacy_description">Tapping Continue signifies that you agree to Terms and Conditions provided by &lt;a href="http://www.miui.com/res/doc/privacy/en.html"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Xiaomi&lt;/u&gt;&lt;/font&gt;&lt;/a&gt; and &lt;a href="https://www.cashify.in/privacy-policy"&gt;&lt;font color="#3F87EA"&gt;&lt;u&gt;Cashify&lt;/u&gt;&lt;/font&gt;&lt;/a&gt;.</string>
  <string name="cs_buy_unsupport_content">Unsupported device type or rooted device.</string>
  <string name="default_error_msg">Nešto je pošlo po zlu!</string>
+ <string name="dialog_title_attention">Pažnja</string>
  <string name="device_battery">Kapacitet baterije</string>
  <string name="device_processor">Procesor</string>
  <string name="device_resolution">Rezolucija</string>

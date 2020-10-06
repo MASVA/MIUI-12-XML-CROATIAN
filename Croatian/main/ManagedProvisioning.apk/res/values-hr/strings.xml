@@ -48,6 +48,17 @@
   <string name="cant_replace_or_remove_work_profile">Radni se profil ne može zamijeniti niti ukloniti</string>
   <string name="cant_set_up_device">Postavljanje uređaja nije uspjelo</string>
   <string name="cant_set_up_profile">Postavljanje profila nije uspjelo</string>
+  <string name="car_ui_alert_dialog_default_button">Zatvori</string>
+  <string name="car_ui_preference_switch_off">Isključi</string>
+  <string name="car_ui_preference_switch_on">Uključi</string>
+  <string name="car_ui_restricted_while_driving">Značajka nije dostupna tijekom vožnje</string>
+  <string name="car_ui_scrollbar_page_down_button">Pomakni dolje</string>
+  <string name="car_ui_scrollbar_page_up_button">Pomakni gore</string>
+  <string name="car_ui_toolbar_default_search_hint">Traži…</string>
+  <string name="car_ui_toolbar_menu_item_overflow_title">Overflow</string>
+  <string name="car_ui_toolbar_menu_item_search_title">Traži</string>
+  <string name="car_ui_toolbar_menu_item_settings_title">Postavke</string>
+  <string name="car_ui_toolbar_nav_icon_content_description">Natrag</string>
   <string name="change_device_launcher">Promijenite pokretač na uređaju</string>
   <string name="character_counter_content_description">Uneseno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -65,9 +76,14 @@
   <string name="continue_button">Nastavi</string>
   <string name="continue_provisioning_notify_text">Dodirnite da biste nastavili postavljati radni profil</string>
   <string name="continue_provisioning_notify_title">Enkripcija je dovršena</string>
+  <string name="cope_provisioning_step_1_header">Poslovne aplikacije nalaze se na vašem poslovnom profilu i njima upravlja vaš IT administrator</string>
+  <string name="cope_provisioning_step_2_header">Osobne aplikacije su odvojene i skrivene od poslovnih aplikacija</string>
+  <string name="cope_provisioning_step_3_header">Vaš IT administrator može upravljati uređajem i blokirati određene aplikacije</string>
+  <string name="cope_provisioning_summary">Poslovne aplikacije nalaze se na vašem poslovnom profilu i njima upravlja vaš IT administrator. Osobne aplikacije su odvojene i skrivene od poslovnih aplikacija. Vaš IT administrator može upravljati ovim uređajem i blokirati određene aplikacije.</string>
   <string name="copy">Kopiraj</string>
   <string name="copying_certs">Postavljanje CA certifikata</string>
   <string name="couldnt_set_up_device">Postavljanje uređaja nije uspjelo. Ako vam je potrebna pomoć, obratite se administratoru.</string>
+  <string name="creditor_capabilities_header">%1$s može:</string>
   <string name="default_first_meat_user_name">Primarni korisnik</string>
   <string name="default_managed_profile_name">Radni profil</string>
   <string name="default_owned_device_username">Korisnik radnog uređaja</string>
@@ -118,14 +134,17 @@
   <string name="info_anim_title_0">Promijenite način rada</string>
   <string name="info_anim_title_1">Odvojite poslovno od osobnog</string>
   <string name="info_anim_title_2">Isključite radni profil kad završite</string>
+  <string name="install_creditor_app_description">Instalirajte aplikaciju %1$s kako biste mogli izvršiti plaćanja za ovaj uređaj</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
+  <string name="just_a_sec">Samo trenutak…</string>
   <string name="launcher_app_cant_be_used_by_work_profile">Vaš radni profil ne može upotrebljavati tu aplikaciju pokretača</string>
   <string name="learn_more_label">Gumb Saznajte više</string>
   <string name="learn_more_link">Saznajte više</string>
   <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">Ova veza nije sigurna i ne može se otvoriti dok se uređaj ne postavi: %1$s</string>
+  <string name="lock_device_description">"Ograničite pristup ovom uređaju ako ne izvršavate plaćanja"</string>
   <string name="managed_device_info">Informacije o upravljanom uređaju</string>
   <string name="managed_provisioning_error_text">Postavljanje vašeg radnog profila nije uspjelo. Obratite se IT odjelu ili pokušajte ponovno kasnije.</string>
   <string name="mdm_icon_label">Ikona %1$s</string>
@@ -138,6 +157,7 @@
   <string name="next">Dalje</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="now_lets_set_up_everything_else">Postavimo sada sve ostalo</string>
+  <string name="now_lets_set_up_everything_else_explanation">Sad kad je vaš poslovni profil spreman, možete dodati i osobni Google račun kako biste pristupili svojim aplikacijama i sadržaju.</string>
   <string name="ok_setup">U redu</string>
   <string name="one_place_for_work_apps">Jedno mjesto za aplikacije za posao</string>
   <string name="opening_paragraph_delete_profile">Već imate radni profil. Njime se upravlja pomoću sljedeće aplikacije:</string>
@@ -165,9 +185,10 @@
   <string name="progress_set_owner">Postavljanje vlasnika uređaja…</string>
   <string name="provisioning">Omogućivanje</string>
   <string name="provisioning_error_title">Ups!</string>
-  <string name="read_more_delete_profile">Prije nego što nastavite, <a href="#read_this_link">pročitajte ovo</a>.</string>
+  <string name="read_more_delete_profile">Prije nego što nastavite, &lt;a href="#read_this_link"&gt;pro&amp;#269;itajte ovo&lt;/a&gt;.</string>
   <string name="read_terms">Pročitajte uvjete</string>
   <string name="reset">Vrati na zadano</string>
+  <string name="reset_device">Vratite uređaj na zadano i pokušajte ga ponovo postaviti</string>
   <string name="scroll_bar_page_down_button">Pomak prema dolje</string>
   <string name="scroll_bar_page_up_button">Pomak prema gore</string>
   <string name="search_menu_title">Pretraživanje</string>
@@ -187,6 +208,7 @@
   <string name="setup_provisioning_header_description">Postavljanje administratorske aplikacije</string>
   <string name="setup_work_device">Postavljanje radnog uređaja…</string>
   <string name="setup_work_profile">Postavljanje radnog profila</string>
+  <string name="something_went_wrong">Nešto nije u redu</string>
   <string name="speed_bump_lockout_message">Usredotočite se na cestu</string>
   <string name="stop_setup_reset_device_question">Želite li zaustaviti postavljanje i vratiti uređaj na zadano?</string>
   <string name="sud_back_button_label">Natrag</string>

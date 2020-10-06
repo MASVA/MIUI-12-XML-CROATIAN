@@ -34,6 +34,9 @@
   <string name="back">Natrag</string>
   <string name="cancel">Odustani</string>
   <string name="category_other">Ostalo</string>
+  <string name="channel_name_aggregation">Grupirane obavijesti</string>
+  <string name="channel_name_notification">Obavijesti aplikacije</string>
+  <string name="channel_name_recovered">Vraćene obavijesti</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="chip_text">Chip tekst</string>

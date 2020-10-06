@@ -726,6 +726,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="search_menu_title">Traži</string>
   <string name="search_str">Popularno</string>
   <string name="see_all">Pogledaj sve</string>
+  <string name="see_detail">Prikaži</string>
   <string name="see_more">Pogledaj više</string>
   <string name="see_more_content">Pogledaj više</string>
   <string name="send_diagnosis_log">Poašalji zapis</string>
@@ -890,6 +891,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="toast_update_no_more_newest_feeds">Za sada nema novih stavki</string>
   <string name="top_search_tip">Potražite kategorije koje vam se sviđaju</string>
   <string name="torch">Svjetiljka</string>
+  <string name="understand_band_story">Saznajte više</string>
   <string name="uninstall_introducation_text_desc">Wallpaper Carousel isporučuje nove kvalitete slike izravno na Zaklj. zaslon. Provjerite da možete učiniti bez njenih mogućnosti prije nego što deinstalirati aplikaciju.</string>
   <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
   <string name="uninstall_warning_text_desc">"Bez Wallpaper Carousela nećete moći redovito primati nove slike pozadine. Međutim, biti ćete u mogućnosti da ponovno preuzmete i instalirate aplikaciju. Izbrisati Wallpaper Carousel?"</string>

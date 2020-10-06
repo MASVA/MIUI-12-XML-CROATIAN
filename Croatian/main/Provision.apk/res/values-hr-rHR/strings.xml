@@ -68,6 +68,9 @@
   <string name="framwork_base_service">Da bismo vam pružili ove usluge, Mi Services Framework (Mi Račun, Mi Push, Mi Stats, MIUI BI) treba se povezati s internetom, pristupiti vašoj lokaciji, broju telefona, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
   <string name="game_introduction">Dodatak za igre omogućuje vam prijavu, stvaranje narudžbi, dovršavanje plaćanja, korištenje kupona i sudjelovanje u promotivnim događajima.</string>
   <string name="google_service_introduction">Da bi mogao normalno raditi, Google Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
+  <string name="home_settings_miui_home">Klasično</string>
+  <string name="home_settings_poco_launcher">Ladica za aplikacije</string>
+  <string name="home_settings_title">Odaberite zadani pokretač</string>
   <string name="ime_privacy_policy">Pravila o Privatnosti za odabrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o Privatnosti za ovu tipkovnicu na %s.</string>
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti za pisanje poruka, bilješki i za sve ostalo. Također možete instalirati druge tipkovnice kasnije."</string>
@@ -75,11 +78,14 @@
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="item_fingerprint">Otisak prsta</string>
   <string name="item_lock_screen_password">Samo Zaklj. zaslona</string>
+  <string name="ktposition_header">Dijeljenje informacija o lokaciji s hitnim spasilačkim agencijama</string>
   <string name="language_picker_other_languages_title">Više jezika</string>
   <string name="language_picker_popular_languages_title">Odaberi jezik</string>
   <string name="language_settings">Postavke jezika</string>
   <string name="locale_picker_other_locale_title">Više regija</string>
   <string name="locale_picker_title">Odaberite vašu regiju</string>
+  <string name="location_content">U skladu sa zakonom, mobilni operateri mogu dobiti informacije o lokaciji mobilnih uređaja kako bi udovoljili zahtjevima hitnih spasilačkih agencija (vatrogasne službe i policija) koje provode sigurnosne i hitne spasilačke svrhe.</string>
+  <string name="location_location">Agencije za hitno spašavanje mogu dobiti vaše trenutno mjesto na zahtjev</string>
   <string name="location_introduction">Usluge utemeljene na lokaciji pronalaze proizvode i usluge u vašoj blizini.</string>
   <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
   <string name="mint_keyboard_oobe_checkbox">"Pročitao sam i prihvatio Pravila o privatnosti Mint Keyboard"</string>
@@ -170,6 +176,8 @@ Isključiti personalizirane oglase svejedno?"</string>
   <string name="poco_agree_terms_other">(Uključujući POCO Launcher Pravila o Privatnosti i Korisnički Sporazum)</string>
   <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o privatnosti</string>
   <string name="poco_launcher_user_agreement">POCO Launcher Korisnički sporazum</string>
+  <string name="position_header">Dijeljenje informacija o lokaciji</string>
+  <string name="position_subheading">Informacije o lokaciji</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
