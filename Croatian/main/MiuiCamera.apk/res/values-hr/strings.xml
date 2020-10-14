@@ -1647,6 +1647,8 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="unknow_error">Nepoznata pogreška</string>
   <string name="unsupported_microphones_3d_record_tips">"3D zvuk ne podržava vanjske mikrofone"</string>
   <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom ne podržava vanjske mikrofone"</string>
+  <string name="update_loading">Preuzeto %1$d%%</string>
+  <string name="update_start">Ažuriraj %1$s</string>
   <string name="user_agree">Slažem se</string>
   <string name="user_define_watermark_cancel">Odustani</string>
   <string name="user_define_watermark_save">Spremi</string>

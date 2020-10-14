@@ -566,8 +566,15 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
   <string name="passport_uplink_reg">Koristi broj telefona</string>
+  <string name="passport_uplink_send_sms_hint">"Dodirnite \"Pošalji\" nakon što vas se preusmjeri na stranicu sa sastavljenom porukom."</string>
   <string name="passport_uplink_slot1_reg">Koristi SIM 1</string>
   <string name="passport_uplink_slot2_reg">Koristi SIM 2</string>
+  <string name="passport_uplink_sms_send_cancel">Otkazano slanje SMS-a uzlazne veze</string>
+  <string name="passport_uplink_sms_send_confirm">Poslano</string>
+  <string name="passport_uplink_sms_send_failed">"Nije moguće potvrditi SMS uzlazne veze"</string>
+  <string name="passport_uplink_sms_sending">Slanje plaćene poruke…</string>
+  <string name="passport_uplink_suggest_dialog_msg">"Nije moguće primiti kôd. Umjesto toga koristiti plaćeni SMS uzlazne veze?"</string>
+  <string name="passport_uplink_suggest_dialog_title">Pažnja</string>
   <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
   <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
   <string name="passport_user_agreement">Korisnički Sporazum</string>
