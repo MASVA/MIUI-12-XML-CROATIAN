@@ -1496,14 +1496,12 @@
         <item>Postotak (pored ikone u Panelu obavijesti)</item>
     </string-array>
 	<string-array name="aggregate_entries">
-        <item>Preporučeno</item>
-        <item>Važno</item>
-        <item>Nevažno</item>
+        <item>Grupiraj</item>
+        <item>"Ne grupiraj"</item>
     </string-array>
     <string-array name="aggregate_summaries">
-        <item>MIUI će odlučiti koje se obavijesti trebaju pojaviti izravno</item>
-        <item>Obavijesti će se pojaviti u Panelu obavijesti</item>
-        <item>Obavijesti će se pojaviti u zasebnoj mapi</item>
+        <item>Promotivne i sadržajne push obavijesti bit će grupirane</item>
+        <item>"Push obavijesti neće se grupirati"</item>
     </string-array>
 	 <string-array name="vpn_proxy_settings">
         <item>Ništa</item>

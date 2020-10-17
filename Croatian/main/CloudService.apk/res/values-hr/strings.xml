@@ -82,6 +82,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_find_device_on">Uključeno</string>
   <string name="cloud_lab_title">Cloud Lab</string>
   <string name="cloud_restore_title">Vrati iz Sig. kopije</string>
+  <string name="cloud_space_full_gallery_notification_content_text">Nadogradite svoj plan da biste dobili više cloud prostora za pohranu</string>
   <string name="cloud_space_upgrade_message">Dodirnite za dodavanje %s GB na vaš cloud.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne mogu dobiti detalje prostora za pohranu"</string>
   <string name="cloud_space_upgrade_title">Više prostora za Mi Cloud</string>
@@ -97,7 +98,6 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="cloud_storage_loading_data">Samo trenutak…</string>
   <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
   <string name="cloud_storage_no_data">Nema stavki u Cloudu još</string>
-  <string name="cloud_space_full_gallery_notification_content_text">Nadogradite svoj plan da biste dobili više cloud prostora za pohranu</string>
   <string name="cloudservice_new_sync">Sinkr. %s s Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Koristite Mi Cloud za sinkronizaciju podataka, da pronađete svoj uređaj, i podijelite stvari s prijateljima.</string>
   <string name="confirm_delete">Izbriši</string>
@@ -176,16 +176,15 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="find_device_service_summary">"Posjetite i.mi.com da locirate vaš uređaj i zaključajte ga na daljinu."</string>
   <string name="find_device_service_summary_international">"Posjetite i.mi.com da locirate vaš uređaj i zaključajte ga na daljinu."</string>
   <string name="find_device_service_title">Pronađi uređaj</string>
+  <string name="find_device_status_ok">Pronađite svoj uređaj s bilo kojeg mjesta na i.mi.com</string>
+  <string name="find_device_status_ok_international">Pronađite svoj uređaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_status_summary">Locirajte i zaključajte uređaj, kao i daljinsko izbrišite podatke</string>
   <string name="find_device_status_title_pad">Pronađi uređaj</string>
   <string name="find_device_status_title_phone">Pronađi uređaj</string>
-  <string name="find_device_status_ok">Pronađite svoj uređaj s bilo kojeg mjesta na i.mi.com</string>
-  <string name="find_device_status_ok_international">Pronađite svoj uređaj s bilo kojeg mjesta na www.mi.com/micloud</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
   <string name="finddevice_miservice_notification_content">"Zaključajte svoj uređaj na daljinu ako je izgubljen"</string>
   <string name="finddevice_miservice_notification_title">Uključi Pronađi uređaj</string>
   <string name="forget_password">Zaboravljena zaporka</string>
-  <string name="help_and_feedback">Pomoć i povratne inf.</string>
   <string name="free_space_has_received">Već ste dodali slobodan prostor ovaj mjesec</string>
   <string name="free_space_receive_fail">"Ne mogu nadograditi"</string>
   <string name="get_first_month_gb">Dobijte %s slobodnog prostora</string>
@@ -198,6 +197,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="header_cloud_restore_summary">Ponovno instaliraj aplikacije i vrati izgled Poč. zaslona i postavke sustava iz Sig. kopije na Mi Cloudu</string>
   <string name="header_data_and_synchronization">Podaci &amp; sink.</string>
   <string name="header_find_device_settings">Pronađi uređaj</string>
+  <string name="help_and_feedback">Pomoć i povratne inf.</string>
   <string name="hybrid_check_network">Mrežne postavke</string>
   <string name="hybrid_data_error">Došlo je do pogreške</string>
   <string name="hybrid_network_access_denied">Pristup mreži je odbijen</string>
@@ -231,9 +231,9 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="last_sync_time_yesterday">Jučer</string>
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="loading_hint">Samo trenutak</string>
   <string name="low_battery_locate_summary">Automatski prijavi podatke o lokaciji kada je baterija slaba</string>
   <string name="low_battery_locate_title">Prijavi lokaciju kada je baterija slaba</string>
-  <string name="loading_hint">Samo trenutak</string>
   <string name="master_alert_notif_content">"Redovito stvarajte sigurnosne kopije da ne izgubite ništa važno"</string>
   <string name="master_alert_notif_dspt_add">Stavke čekaju na sinkr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinkronizirano</string>
@@ -338,9 +338,9 @@ Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_find_device_guide_alert_positive">U redu</string>
   <string name="micloud_find_device_guide_alert_title">Zapamtite svoj ID Mi Računa i zaporku</string>
   <string name="micloud_find_device_guide_button">Uključi Pronađi uređaj</string>
+  <string name="micloud_find_device_guide_content">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš će vam davatelj usluge naplatiti za ovu poruku. Kada promjenite SIM karticu, automatski će se poslati poruka za ponovno aktiviranje ove značajke.</string>
   <string name="micloud_find_device_guide_desc_pad">Ako je vaš uređaj izgubljen, prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; na bilo kojem drugom uređaju da biste locirali, daljinsko zaključali ili izbrisali podatke na izgubljenom uređaju. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Prikaz detalja&lt;/a&gt;.</string>
   <string name="micloud_find_device_guide_desc_phone">Ako je vaš uređaj izgubljen, prijavite se na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; na bilo kojem drugom uređaju da biste locirali, daljinsko zaključali ili izbrisali podatke na izgubljenom uređaju. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice&gt;Prikaz detalja&lt;/a&gt;.</string>
-  <string name="micloud_find_device_guide_content">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš će vam davatelj usluge naplatiti za ovu poruku. Kada promjenite SIM karticu, automatski će se poslati poruka za ponovno aktiviranje ove značajke.</string>
   <string name="micloud_find_device_guide_fail_reopen">Uključi Pronađi uređaj na Mi Cloudu</string>
   <string name="micloud_find_device_guide_fail_sub_net">Provjerite mrežnu vezu i pokušajte ponovo.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Veza je istekla. Pokušajte ponovno kasnije.</string>
@@ -577,6 +577,9 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_wipe_data_confirm_title">Neke stavke iz sljedećih aplikacija sinkronizirane su s Mi Cloudom. Možete ih izbrisati s ovog uređaja i zadržiti na Mi Cloudu.</string>
   <string name="micloud_wipe_data_remove">Ukloni</string>
   <string name="micloud_wipe_data_retain">Zadrži</string>
+  <string name="microsoft_cloud">Microsoft Cloud Service</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
   <string name="midrive_guide1_desc">Izradite Sig. kopiju stavki u cloud da biste oslobodili prostor za pohranu na uređaju.</string>
   <string name="midrive_guide1_title">Sigurne Sig. kopije</string>
   <string name="midrive_guide2_desc">Preuzmite stavke brzinom prijenosa.</string>
@@ -586,9 +589,6 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="midrive_guide_btn_install">Instaliraj Mi Drive</string>
   <string name="midrive_guide_btn_installed">Otvori Mi Drive</string>
   <string name="midrive_guide_btn_installing">Instaliranje…</string>
-  <string name="microsoft_cloud">Microsoft Cloud Service</string>
-  <string name="microsoft_cloud_eng">One Drive</string>
-  <string name="microsoft_cloud_price">Oko 80 RMB godišnje</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -652,7 +652,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
   <string name="privacy_dialog_sync_all_purpose">Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki WLAN-a, snimaka, izgleda početnog zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
   <string name="privacy_doc_cloudservice">"Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki WLAN-a, snimaka, izgleda početnog zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Odlazna SMS poruka može biti potrebna za aktiviranje ovih usluga. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, poruka može biti poslana automatski za ponovno aktiviranje tih usluga.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Kalendar:&lt;br /&gt;Za sinkronizaciju događaja&lt;br /&gt;• Pristup SMS-u:&lt;br /&gt;Za sinkronizaciju SMS poruka&lt;br /&gt;• Pristup MMS-u:&lt;br /&gt;Za sinkronizaciju MMS poruka&lt;br /&gt;• Pristup kontaktima:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Uređivanje kontakata:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Pohrana:&lt;br /&gt;Za spremanje stavki na uređaj (npr. slike, videozapisi, pjesme)&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Xiaomi Cloud.&lt;br /&gt;"</string>
-  <string name="privacy_doc_cloudservice_global">Mi Cloud treba se povezati s internetom da bi normalno radio. Sinkronizacija podataka može zahtijevati upotrebu mobilnih podataka i uključivanje WLAN mreže. Pročitajte i prihvatite naše &lt;a href=%1$s>&lt;u>Korisnički sporazum&lt;/u>&lt;/a> i &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije korištenja Mi Cloud usluga.</string>
+  <string name="privacy_doc_cloudservice_global">Mi Cloud treba se povezati s internetom da bi normalno radio. Sinkronizacija podataka može zahtijevati upotrebu mobilnih podataka i uključivanje WLAN mreže. Pročitajte i prihvatite naše &lt;a href=%1$s&gt;&lt;u&gt;Korisnički sporazum&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Mi Cloud usluga.</string>
   <string name="privacy_doc_finddevice_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da ga locirate, zaključate ili resetirate.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Pristup podacima o uređaju:&lt;br /&gt;Za identificiranje vašeg uređaja&lt;br /&gt;• Lokacija:&lt;br /&gt;Za lociranje uređaja i prebacivanje na izgubljeni način rada&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Pronađi uređaj.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da ga locirate, zaključate ili resetirate.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Pristup podacima o uređaju:&lt;br /&gt;Za identificiranje vašeg uređaja&lt;br /&gt;• Lokacija:&lt;br /&gt;Za lociranje uređaja i prebacivanje na izgubljeni način rada&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Pronađi uređaj.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_with_telephony_feature_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da ga locirate, zaključate ili resetirate.&lt;br /&gt;&lt;br /&gt;Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, poruka može biti poslana automatski za ponovno aktiviranje tih usluga.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Pristup podacima o uređaju:&lt;br /&gt;Za identificiranje vašeg uređaja&lt;br /&gt;• Lokacija:&lt;br /&gt;Za lociranje uređaja i prebacivanje na izgubljeni način rada&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;prije korištenja Pronađi uređaj.&lt;br /&gt;"</string>
@@ -678,6 +678,69 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_cancel">Dijeljenje otkazano</string>
   <string name="share_failed">"Ne mogu podijeliti"</string>
   <string name="share_miliao_not_installed">Mi Talk nije instaliran.</string>
+  <string name="share_sdk_btn_already_shared_text">Pozivnica isporučena</string>
+  <string name="share_sdk_btn_quit_share_text">Zaustavi dijeljenje</string>
+  <string name="share_sdk_btn_resend_share_text">Pošalji ponovno</string>
+  <string name="share_sdk_btn_send_share_text">Pošalji pozivnicu</string>
+  <string name="share_sdk_btn_stop_share_text">Zaustavi dijeljenje</string>
+  <string name="share_sdk_btn_undo_invitation_text">Pozovi pozivnicu</string>
+  <string name="share_sdk_contact_invite_result_category_send_fail_summary">"Sljedeće pozivnice nisu isporučene zbog netočnih telefonskih brojeva"</string>
+  <string name="share_sdk_contact_invite_result_category_send_fail_title">Nije isporučeno</string>
+  <string name="share_sdk_contact_invite_result_category_title_send_success">Isporučeno ili prihvaćeno</string>
+  <string name="share_sdk_dialog_cancel">Odustani</string>
+  <string name="share_sdk_dialog_confirm">U redu</string>
+  <string name="share_sdk_error_code_error_and_msg">Pogreška %1$d (%2$s)</string>
+  <string name="share_sdk_error_current_invitation_invalid">Pozivnica je istekla</string>
+  <string name="share_sdk_error_current_sharing_invalid">Dijeljenje zaustavljeno</string>
+  <string name="share_sdk_error_too_frequent">Previše zahtjeva. Pričekajte minutu-dvije i pokušajte ponovo.</string>
+  <string name="share_sdk_error_update_sharing">Odaberite najmanje 1 stavku</string>
+  <string name="share_sdk_error_user_already_invited">"Već ste pozvali ovu osobu"</string>
+  <string name="share_sdk_error_user_invalid">"Ovaj korisnik ne postoji"</string>
+  <string name="share_sdk_error_user_myself">"Ne možete pozvati samog sebe"</string>
+  <string name="share_sdk_error_user_not_support">"Ne mogu pozvati ljude iz ove regije"</string>
+  <string name="share_sdk_expire_time">Rok valjanosti poziva: %1$s</string>
+  <string name="share_sdk_family_member_title">Članovi obitelji</string>
+  <string name="share_sdk_invitation_not_accepted_now">"Pozivnica još nije prihvaćena"</string>
+  <string name="share_sdk_invite_by_qr_code_title">Pozivnica putem QR koda</string>
+  <string name="share_sdk_invite_family_list_error">Nema članova obitelji koje treba pozvati</string>
+  <string name="share_sdk_invite_share_member_title">Članovi obitelji</string>
+  <string name="share_sdk_invite_suggestion_list_error">Nema preporučenih osoba za pozivanje</string>
+  <string name="share_sdk_invite_way_contact_summary">Pozovite više ljudi odjednom</string>
+  <string name="share_sdk_invite_way_contact_title">Pozovite putem SMS-a</string>
+  <string name="share_sdk_invite_way_qr_code_summary">Koristite WeChat skener ili MIUI skener</string>
+  <string name="share_sdk_invite_way_qr_code_title">Pozovite putem QR koda</string>
+  <string name="share_sdk_invite_way_wechat_summary">Pozovite ljude ili grupe</string>
+  <string name="share_sdk_invite_way_wechat_title">Pozovite putem WeChata</string>
+  <string name="share_sdk_member_info_title">Podaci o članu</string>
+  <string name="share_sdk_normal_invite_success_btn_text">Razumijem</string>
+  <string name="share_sdk_normal_invite_success_title">Pozivnica poslana</string>
+  <string name="share_sdk_operation_success">Gotovo</string>
+  <string name="share_sdk_permission_checked_error">Odaberite najmanje 1 stavku</string>
+  <string name="share_sdk_pref_category_family_detail">Detalji</string>
+  <string name="share_sdk_pref_category_member_title">Odaberite članove</string>
+  <string name="share_sdk_pref_category_search_local_title">Kontakti</string>
+  <string name="share_sdk_pref_category_title_scan_qr_code">Skeniraj QR kod</string>
+  <string name="share_sdk_pref_family_detail_title">Pogledajte detalje obiteljske grupe</string>
+  <string name="share_sdk_privacy_link_description">Pročitajte i pristanite na &lt;a href="https://account.xiaomi.com/about/protocol/privacy"&gt;&lt;u&gt;Pravla o privatnosti Mi Ra&amp;#269;una&lt;/u&gt;&lt;/a&gt; prije kori&amp;#353;tenja ove usluge.</string>
+  <string name="share_sdk_qr_code_description">"Pozivnica od %1$s"</string>
+  <string name="share_sdk_qr_code_expire_time">Rok valjanosti QR koda: %1$s</string>
+  <string name="share_sdk_resend_invitation_times_exceed">Previše odlaznih pozivnica. Pokušajte ponovo za 24 sata.</string>
+  <string name="share_sdk_search_hint">Broj telefona/ID Mi Računa</string>
+  <string name="share_sdk_search_online">Traži online %1$s</string>
+  <string name="share_sdk_share_entrance_title">Dodajte članove</string>
+  <string name="share_sdk_suggest_member_pref_summary">Algoritam preporuke pruža Xiaomi Cloud</string>
+  <string name="share_sdk_suggest_member_title">Preporučene osobe</string>
+  <string name="share_sdk_user_info_account_id">Račun: %1$s</string>
+  <string name="share_sdk_user_info_already_invited">Pozvano</string>
+  <string name="share_sdk_user_info_already_shared">Podijeljeno</string>
+  <string name="share_sdk_user_info_family_suffix">" (Član obitelji)"</string>
+  <string name="share_sdk_user_info_no_account_id">"Ova osoba nema Mi Račun"</string>
+  <string name="share_sdk_user_info_no_bind_phone_number">"Ovaj Mi Račun nije povezan s brojem telefona"</string>
+  <string name="share_sdk_user_info_phone_number">Broj telefona: %1$s</string>
+  <string name="share_sdk_user_info_role_format">Uloga: %1$s</string>
+  <string name="share_sdk_user_info_role_organizer">Organizator</string>
+  <string name="share_sdk_user_info_role_sharer">Član</string>
+  <string name="share_sdk_user_info_wechat_user">WeChat korisnik</string>
   <string name="share_success">Uspješno podijeljeno</string>
   <string name="share_weibo_not_installed">Weibo nije instaliran.</string>
   <string name="share_weixin_not_installed">WeChat nije instaliran.</string>

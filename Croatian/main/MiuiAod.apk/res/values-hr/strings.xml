@@ -86,6 +86,7 @@ dd.MM"</string>
   <string name="disable_aod_in_dark_room">Isključi kad leži u mraku</string>
   <string name="disable_aod_in_power_save_mode">Isključi kad je uključena Štednja baterije</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne prikazuj stavke radi uštede energije"</string>
+  <string name="dual_clock_tip">Dvostruki sat je uključen. Dodirnite da biste otvorili Postavke.</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="evening">PM</string>
   <string name="expand_button_title">Napredno</string>
@@ -101,6 +102,17 @@ dd.MM"</string>
   <string name="midnight">AM</string>
   <string name="mini_time">Mali sat</string>
   <string name="minimalist_clock">Jednostavan sat</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

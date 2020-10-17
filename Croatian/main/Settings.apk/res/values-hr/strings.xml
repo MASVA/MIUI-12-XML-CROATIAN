@@ -955,6 +955,9 @@ Posljednji put pokrenuto %2$s"</string>
   <string name="aware_wake_display_summary">Prikazivanje vremena, ikona obavijesti i drugih informacija kad ste u blizini</string>
   <string name="aware_wake_display_summary_aod_off">Nedostupno jer je isključena opcija uvijek uključenog zaslona</string>
   <string name="aware_wake_display_title">Uključeno kad ste u blizini</string>
+  <string name="back_button">Natrag</string>
+  <string name="back_double_tap">Dvaput dodirnite natrag</string>
+  <string name="back_key">Natrag</string>
   <string name="back_sensitivity_dialog_message">Veća osjetljivost može utjecati na pokrete iz aplikacije uz rub zaslona.</string>
   <string name="back_sensitivity_dialog_title">Osjetljivost stražnje strane</string>
   <string name="back_tap">Dodir iza</string>
@@ -4030,6 +4033,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="ignore_optimizations_on_desc">Baterija se može brže isprazniti. Aplikacijama više neće biti ograničeno korištenje pozadinske baterije.</string>
   <string name="ignore_optimizations_title">Želite li dopustiti aplikaciji %s da zanemari optimizacije baterije?</string>
   <string name="ime_security_warning">%1$s može snimati sve što unosite, uključujući zaporke, brojeve kreditnih kartica i druge osobne podatke.</string>
+  <string name="ime_security_warning_global">Načini unosa možda će moći prikupiti sav tekst koji upisujete, uključujući osobne podatke poput lozinke i brojeva kreditnih kartica. Koristiti %1$s?</string>
   <string name="ime_security_warning_title_global">Uključivanje tipkovnice</string>
   <string name="imei_information_summary">Relativne informacije IMEI-ja</string>
   <string name="imei_information_title">Informacije IMEI-ja</string>
@@ -4193,6 +4197,8 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="invalid_location">Lokacija instalacije nije važeća.</string>
   <string name="invalid_size_value">Nije moguće izračunati veličinu paketa.</string>
   <string name="ipaddr_label">IPaddr:</string>
+  <string name="ipv4_congertion_control">Odaberite TCP kontrolu zagušenja</string>
+  <string name="ipv4_congertion_xontrol_chose">TCP algoritam za izbjegavanje zagušenja</string>
   <string name="item_system_app">Aplikacije sustava</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
@@ -4422,6 +4428,9 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="launch_instant_app">Otvori</string>
   <string name="launch_mdp_app_text">Prikaži plan</string>
   <string name="launch_notification_center">Panel obavijesti</string>
+  <string name="launch_noapp_dialog_cancel">Odustani</string>
+  <string name="launch_noapp_dialog_install">Instaliraj</string>
+  <string name="launch_noapp_dialog_replace">Postavke</string>
   <string name="launch_recents">Pokreni Nedavno</string>
   <string name="launch_voice_assistant">Pokreni glasovnog pomoćnika</string>
   <string name="launch_wechat_payment_code">WeChat kod plaćanja</string>
@@ -10735,6 +10744,8 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_switch_to_gsm_title">Koristiti GSM?</string>
   <string name="wifi_tap_to_sign_in">Dodirnite ovdje da biste se prijavili na mrežu</string>
   <string name="wifi_tether_checkbox_text">Prijenosni hotspot</string>
+  <string name="wifi_tether_checkbox_kddi_text">WLAN dijeljenje veze</string>
+  <string name="wifi_tether_configure_ap_kddi_text">Postavljanje WLAN dijeljenja veze</string>
   <string name="wifi_tether_configure_ap_text">Postavljanje hotspota</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prijenosni</string>
