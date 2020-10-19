@@ -68,10 +68,10 @@
   <string name="alert_weather_enable_settings_title">Upozorenja o vremenu</string>
   <string name="already_voted">Glasano</string>
   <string name="app_name">Vrijeme</string>
-  <string name="aqi_15_days_desc">15-dnevna prognoza kvalitete zraka</string>
-  <string name="aqi_24_hours_desc">24-satna prognoza kvalitete zraka</string>
-  <string name="aqi_48_hours_desc">48-satna prognoza kvalitete zraka</string>
-  <string name="aqi_5_days_desc">5-dnevna prognoza kvalitete zraka</string>
+  <string name="aqi_15_days_desc">%d-dnevna prognoza kvalitete zraka</string>
+  <string name="aqi_24_hours_desc">%d-satna prognoza kvalitete zraka</string>
+  <string name="aqi_48_hours_desc">%d-satna prognoza kvalitete zraka</string>
+  <string name="aqi_5_days_desc">%d-dnevna prognoza kvalitete zraka</string>
   <string name="aqi_alert_channel_name">AQI upozorenja</string>
   <string name="aqi_data_source">Powered by Colorful Clouds</string>
   <string name="aqi_detail_24_hours">24-satna prognoza</string>
@@ -445,7 +445,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="weather_alert_channel_name">Upozorenja</string>
   <string name="weather_introduce">Uvijek s vama.</string>
   <string name="weather_main_aqi_desc">Kvaliteta zraka</string>
-  <string name="weather_main_minute_hour">2-satna vjerojatnost kiše</string>
+  <string name="weather_main_minute_hour">%d-satna vjerojatnost kiše</string>
   <string name="weather_main_speak_tips">Kliknite da biste vrijeme emitirali glasom</string>
   <string name="weather_permission_agree">Prihvaćam</string>
   <string name="weather_service_channel_name">Usluge u pozadini</string>

@@ -226,11 +226,6 @@
   <string name="delete_wallpaper_message">Izbrisati sliku pozadine: %1$d?</string>
   <string name="delete_wallpapers_message">Izbrisati slike pozadine: %1$d?</string>
   <string name="deselect_all">Poništi odabir</string>
-  <string name="dialog_work_profile_button_1">Dalje</string>
-  <string name="dialog_work_profile_button_2">Shvaćam</string>
-  <string name="dialog_work_profile_content_1">Osobni podaci su odvojeni &amp; skriveni od radnih aplikacija</string>
-  <string name="dialog_work_profile_content_2">Radne aplikacije &amp; podaci su vidljivi vašem IT administratoru</string>
-  <string name="dialog_work_profile_title">Radni profil</string>
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
   <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
   <string name="download_action">Preuzmi</string>
@@ -646,5 +641,10 @@
   <string name="widgets_preview_title">Dodaj widget</string>
   <string name="work_mode_off_label">"Obavijesti su isključene i aplikacije sada nisu dostupne"</string>
   <string name="work_mode_on_label">Upravlja vaša organizacija</string>
+  <string name="work_profile_first_content">Osobni podaci su odvojeni &amp; skriveni od radnih aplikacija</string>
+  <string name="work_profile_got_button">Shvaćam</string>
+  <string name="work_profile_next_button">Dalje</string>
+  <string name="work_profile_second_content">Radne aplikacije &amp; podaci su vidljivi vašem IT administratoru</string>
+  <string name="work_profile_title">Radni profil</string>
   <string name="work_profile_toggle_label">Radni profil</string>
 </resources>

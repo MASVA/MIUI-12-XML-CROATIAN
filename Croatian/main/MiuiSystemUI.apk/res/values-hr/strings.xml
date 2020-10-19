@@ -1509,10 +1509,11 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="mr_dialog_transferable_header">Reprodukcija u grupi</string>
   <string name="mr_system_route_name">Sustav</string>
   <string name="mr_user_route_category_name">Uređaji</string>
+  <string name="msim_set_sub_not_supported_phone_in_call">"Nije moguće postaviti tijekom poziva"</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_picker_cancel">Odustani</string>
   <string name="mtrl_picker_confirm">Spremi</string>
-  <string name="mtrl_picker_date_format">MMM dd, yyyy</string>
+  <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
   <string name="mtrl_picker_header_prompt">Odaberi datum</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_range_header_prompt">Odaberite datumski raspon</string>
@@ -1912,6 +1913,9 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_user_new_user">Novi korisnik</string>
   <string name="quick_settings_user_title">Korisnik</string>
   <string name="quick_settings_vibrate_label">Vibracija</string>
+  <string name="quick_settings_vowifi_label">WLAN pozivi</string>
+  <string name="quick_settings_vowifi_sim1_label">WLAN pozivi SIM1</string>
+  <string name="quick_settings_vowifi_sim2_label">WLAN pozivi SIM2</string>
   <string name="quick_settings_wifi_detail_dual_wifi_accelerated">Povećanje brzine</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_cancel">Odustani</string>
   <string name="quick_settings_wifi_detail_dual_wifi_switching_confirm">Potvrdi</string>
@@ -1927,7 +1931,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_wifi_on_label">WLAN uključen</string>
   <string name="quick_settings_wifi_secondary_label_transient">Uključivanje…</string>
   <string name="quick_settings_wireless_label">Obrnuto bežično punjenje</string>
-    <string name="quick_settings_work_mode_label">Radni profil</string>
+  <string name="quick_settings_work_mode_label">Radni profil</string>
   <string name="quick_step_accessibility_toggle_overview">Uključivanje/isključivanje pregleda</string>
   <string name="rapid_charge_mode_tip">Brzo punjenje</string>
   <string name="recent_cannot_dock">"Ne mogu koristiti podijeljeni zaslon u Drugom prostoru"</string>

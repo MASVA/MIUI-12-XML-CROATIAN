@@ -2395,8 +2395,10 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_color_summary">Koristite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije</string>
   <string name="dark_color_summary_lcd">"Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada može vam pomoći pri uklanjanju naprezanja očiju dok uređaj koristite u mraku."</string>
   <string name="dark_color_summary_oled">Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada smanjuje potrošnju energije i pomaže u oslobađanju naprezanja očiju.</string>
-  <string name="dark_mode_contrast">Prilagodi kontrast automatski</string>
-  <string name="dark_mode_contrast_hint">Prilagodi boje i smanji kontrast automatski kad se smanji svjetlina</string>
+  <string name="dark_mode_apps_header">Pojedinačne aplikacije</string>
+  <string name="dark_mode_contrast">Automatski prilagodi kontrast</string>
+  <string name="dark_mode_contrast_hint">Automatski prilagodi boje i smanji kontrast kad se smanji svjetlina</string>
+  <string name="dark_mode_font_background_title">Automatski prilagodi tekst i pozadinu</string>
   <string name="dark_theme_slice_subtitle">Pomaže produljiti trajanje baterije</string>
   <string name="dark_theme_slice_title">Isprobajte Tamnu temu</string>
   <string name="dark_ui_activation_off_auto">Isključi do zalaska sunca</string>
@@ -3380,6 +3382,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="experimental_category_title">Eksperimentalno</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
   <string name="extended_power_menu">Prošireni izbornik Power</string>
+  <string name="exterior">Shema boja</string>
   <string name="external_code_size_label">USB aplikacija za pohranu</string>
   <string name="external_data_size_label">USB uređaj za pohranu podataka</string>
   <string name="external_source_switch_title">Dopusti iz ovog izvora</string>
@@ -4480,6 +4483,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="legal_written_offer">Pisana ponuda</string>
   <string name="license_title">Licenca</string>
   <string name="lift_to_wake_title">Aktivacija podizanjem</string>
+  <string name="light_color_mode">Svijetli način</string>
   <string name="lights_title">LED svjetlo</string>
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
@@ -5320,6 +5324,7 @@ Prelaskom na mobilnog operatera %1$s neće se otkazati vaša usluga kod mobilnog
   <string name="module_version">Ažuriranje sustava Google Playa</string>
   <string name="more_account_settings_title">Ostali računi</string>
   <string name="more_dangerous_option_hint">Značajke visokog rizika, uključujući \"%1$s\" su omogućene. Dodirni za promjenu postavki.</string>
+  <string name="more_dark_mode_settings">Više opcija Tamnog načina</string>
   <string name="more_installed_services_title">Više usluga preuzimanja</string>
   <string name="move_app">Premjesti</string>
   <string name="move_app_failed_dlg_text">"Ne mogu premjestiti aplikaciju %1$s."</string>
@@ -7250,14 +7255,10 @@ Ta postavka utječe na sve korisnike ovog telefona."</string>
   <string name="screen_compatibility_label">Kompatibilnost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija možda nije dizajnirana za vaš zaslon. Ovdje možete provjeriti kako se prilagođava vašem zaslonu.</string>
   <string name="screen_confirm">Uključi</string>
-  <string name="screen_dark_mode_advanced_title">Napredno</string>
   <string name="screen_dark_mode_select_time_error_summary">"Vrijeme početka i završetka ne mogu biti isti"</string>
-  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplikacije trećih strana</string>
   <string name="screen_dark_mode_smart_dark_apps_setting_summary">Neke se aplikacije mogu prikazati pogrešno u Tamnom načinu. Ovdje možete ograničiti upotrebu Tamnog načina za pojedinačne aplikacije.</string>
-  <string name="screen_dark_mode_smart_dark_apps_setting_title">Pojedinačne aplikacije</string>
-  <string name="screen_dark_mode_smart_dark_summary">Primijenite tamni način i na aplikacije trećih strana. Neke se aplikacije možda prikazuju pogrešno.</string>
   <string name="screen_dark_mode_smart_dark_title">Globalni tamni način</string>
-  <string name="screen_dark_mode_time_title">Raspored</string>
+  <string name="screen_dark_mode_time_title">Raspored tamnog načina</string>
   <string name="screen_effect">Kontrast &amp; boje</string>
   <string name="screen_fps_summary_power_save">Korištenje fiksne brzine osvježavanja troši manje energije</string>
   <string name="screen_fps_summary_smooth">Neke će aplikacije automatski povećati brzinu osvježavanja radi poboljšanja kvalitete slike</string>
