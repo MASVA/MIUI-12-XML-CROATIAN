@@ -4487,7 +4487,6 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="lights_title">LED svjetlo</string>
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Brzina veze:</string>
   <string name="link_turbo_prompt">"Statistika na ovoj stranici prikazuje samo količinu podataka koja se koristi za pojačavanje brzine WLAN veze. Ove statistike ne odražavaju stvarnu upotrebu mobilnih podataka."</string>
   <string name="link_turbo_settings_all_app_display_loading">Samo trenutak…</string>
@@ -5055,7 +5054,6 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
   <string name="memory_usage">Uporaba memorije</string>
   <string name="memory_usage_apps">Memorija koju upotrebljavaju aplikacije</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
   <string name="menu_cancel">"Odbaci"</string>
   <string name="menu_check">Iskustvo</string>
@@ -5632,7 +5630,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_how_it_works_got_it">Shvaćam</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
   <string name="nfc_more_title">Više…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_btn_text_set_deault">Postavi zadano</string>
   <string name="nfc_payment_btn_text_update">Ažuriraj</string>
   <string name="nfc_payment_default">Zadano plaćanje</string>
@@ -10285,7 +10282,6 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_calling_off_explanation_2"/>
   <string name="wifi_calling_pref_managed_by_carrier">Postavkom upravlja mobilni operater</string>
   <string name="wifi_calling_roaming_mode_dialog_title">Željena postavka za roaming</string>
-  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
   <string name="wifi_calling_roaming_mode_title">Željena postavka za roaming</string>
   <string name="wifi_calling_settings_activation_instructions">Aktivirajte WLAN pozive</string>
   <string name="wifi_calling_settings_title">WLAN pozivi</string>
