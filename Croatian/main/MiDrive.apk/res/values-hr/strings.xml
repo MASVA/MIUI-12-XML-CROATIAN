@@ -42,6 +42,10 @@
   <string name="account_error_user_birthday">Rođendan koji ste unijeli nije važeći</string>
   <string name="account_error_user_name">Ime koje ste unijeli nije važeće</string>
   <string name="account_info_desc">Upravljanje podacima o računu</string>
+  <string name="ai_ppt_to_pdf">Pretvoreno u PDF</string>
+  <string name="ai_recommend_pdf">Pretvoreno u PDF</string>
+  <string name="album">Galerija</string>
+  <string name="all">Sve</string>
   <string name="account_invalid_user_avatar">Ova je fotografija nevažeća. Probajte neku drugu.</string>
   <string name="account_limit_update_birthday">"Ne mogu sada ažurirati datum rođendana"</string>
   <string name="account_logout">Izlaz iz računa “%1$s”</string>
@@ -77,12 +81,14 @@
   <string name="app_function">Spremanje, pregled, preuzimanje datoteka i još mnogo toga</string>
   <string name="app_is_running">Aplikacija se izvodi…</string>
   <string name="app_name">Mi Drive</string>
+  <string name="auto_save_to_file">Spremljeno u mapu \"Pretvoreno u PDF\"</string>
   <string name="auth_fail_warning">Sesija je istekla Prijavite se ponovo.</string>
   <string name="background">Sakrij</string>
   <string name="be_sure_to_clear_cache">Želite li sada očistiti predmemoriju?</string>
   <string name="bind_sign_in_title">Dodajte Mi Račun</string>
   <string name="byteShort">B</string>
   <string name="cancel">Odustani</string>
+  <string name="camera">Kamera</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_document_title">Dokumenti</string>
   <string name="category_file">Datoteke</string>
@@ -105,6 +111,7 @@
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">"Ne, izraditi ću račun"</string>
   <string name="clear_cache_success">Uspješno očišćeno</string>
+  <string name="cloud_gallery_to_pdf">Autom. generirano</string>
   <string name="cloud_storage_already_full">Cloud pohrana je puna: %1$s/%2$s</string>
   <string name="cloud_storage_already_used">Zauzeto: %1$s/%2$s</string>
   <string name="cloud_storage_default_title">Cloud pohrana</string>
@@ -132,6 +139,8 @@
   <string name="copy_failed_retry">"Ne mogu kopirati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="copy_file_success">Uspješno kopirano</string>
   <string name="create_folder_success">Mapa uspješno napravljena</string>
+  <string name="create_other_pdf">Novi PDF</string>
+  <string name="create_pdf_manual">Novi PDF</string>
   <string name="create_new_folder_failed">"Ne mogu napraviti mapu"</string>
   <string name="current_speed_content">Trenutna brzina: %1$s</string>
   <string name="delete_failed">"Ne mogu izbrisati"</string>
@@ -142,6 +151,8 @@
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati ovoliko (%1$d) mapa?</string>
   <string name="delete_record_only">"Stavke na koje se odnose odabrani zapisi neće biti izbrisane."</string>
+  <string name="delete_success">Uspješno izbrisano</string>
+  <string name="dialog_content_delete_pdf_content">Želite li odmah izbrisati ovaj PDF?</string>
   <string name="delete_success">Datoteka izbrisana</string>
   <string name="diagnosis_log_send_failed">Ne mogu poslati zapise dijagnoze.</string>
   <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
@@ -149,10 +160,15 @@ ID:%s
 Pošaljite ovaj kôd nadzorniku."</string>
   <string name="dialog_copy_storage_full_desc">"Stavke se ne mogu kopirati zbog nedostatnog prostora za pohranu u cloudu. Nadogradite svoj plan kako biste dobili više prostora za pohranu."</string>
   <string name="dialog_copy_storage_full_title">"Ne mogu kopirati"</string>
+  <string name="dialog_immediately_open">Uključi</string>
   <string name="dialog_new_folder_hint">Unesite naziv mape</string>
   <string name="dialog_new_folder_title">Nova mapa</string>
+  <string name="dialog_open_ai_recommend_ppt_to_pdf_content">Fotografije dijapozitiva pohranjenih u cloudu mogu se automatski prilagoditi i pretvoriti u PDF. Želite li sada uključiti ovu značajku?</string>
+  <string name="dialog_select_photo_title">Odaberite izvor slike</string>
   <string name="dialog_select_type">Odaberite vrstu datoteke</string>
   <string name="dialog_storage_full_upgrade">Nadogradi</string>
+  <string name="dialog_title_delete_pdf">Izbriši PDF</string>
+  <string name="dialog_title_open_ai_recommend_ppt_to_pdf">Pretvori dijapozitive u PDF</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Slika</string>
   <string name="dialog_type_text">Tekst</string>
@@ -196,6 +212,8 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="error_filename_too_long">Naziv datoteke je predugačak</string>
   <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli nije važeća.</string>
   <string name="error_open_file_failed_no_app_found">"Nisu pronađene aplikacije koje mogu otvoriti ovu stavku"</string>
+  <string name="error_ppt_to_pdf_algorithm">"Nije moguće obraditi sliku. Umjesto toga koristi se izvorna datoteka."</string>
+  <string name="error_ptp_ai_recommend_pdf_save_fail">"Nije moguće spremiti. Pokušajte ponovo."</string>
   <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
   <string name="exception_cloud_storage_is_full">Cloud pohrana je puna</string>
   <string name="exception_copy_file_exist">"Stavka koju ste kopirali već se nalazi u odredišnoj mapi"</string>
@@ -235,6 +253,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="file_too_large">Datoteka je prevelika za učitavanje.</string>
   <string name="file_upload_dialog_cancel">Odustani</string>
   <string name="file_upload_dialog_title">Odaberi kategoriju</string>
+  <string name="h5_ppt_to_pdf_introduce_title">O pretvaranju dijapozitiva u PDF</string>
   <string name="files">Datoteke</string>
   <string name="find_psw">Zaboravljena zaporka</string>
   <string name="finished">Dovršeno</string>
@@ -371,6 +390,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="operation_pause_all">Pauziraj sve</string>
   <string name="operation_refresh">Osvježi</string>
   <string name="operation_rename">Preimenuj</string>
+  <string name="operation_save">Spremi</string>
   <string name="operation_rename_message">Preimenuj mapu</string>
   <string name="operation_renaming">Preimenovanje…</string>
   <string name="operation_resume">Start</string>
@@ -488,11 +508,17 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="play_metered_network_dialog_cancel">Odustani</string>
   <string name="play_metered_network_dialog_desc">"Vaš uređaj nije povezan na WLAN mrežu. Reproducirati pomoću mob. podataka?"</string>
   <string name="play_metered_network_dialog_ok">Reproduciraj</string>
-  <string name="play_metered_network_dialog_title">Korištenje mob. podataka?</string>
+  <string name="play_metered_network_dialog_title">Korištenje mob. podataka</string>
+  <string name="ppt_to_pdf">Pretvoreno u PDF</string>
   <string name="pre_privacy_policy">Pravila o privatnosti</string>
   <string name="pre_user_agreement">Korisnički sporazum</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preview">Pregled</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="private_empty_desc">Ovdje datoteke možete pohraniti privatno.</string>
+  <string name="private_empty_sub_desc">Pokušajte ovdje premjestiti datoteke ili ih izravno prenijeti.</string>
+  <string name="private_folder_name">Privatne datoteke</string>
+  <string name="ptp_ai_recommend_empty_page">Ovdje nema automatski generiranih PDF-ova</string>
   <string name="refresh_label_pull_to_refresh">Povuci dolje za osvježiti</string>
   <string name="refresh_label_refreshed">Uspješno osvježeno</string>
   <string name="refresh_label_refreshing">Osvježavanje…</string>
@@ -519,6 +545,9 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="root_page_name">Moj drive</string>
+  <string name="save">Spremi</string>
+  <string name="save_pdf">Spremi</string>
+  <string name="saving_pdf">Spremanje…</string>
   <string name="same_new_and_old_pwd">Nova zaporka mora se razlikovati od stare</string>
   <string name="sd_full">Vaša SD kartica je puna.</string>
   <string name="sd_invalid">Vaša SD kartica je oštećena.</string>

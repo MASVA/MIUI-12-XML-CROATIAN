@@ -960,7 +960,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="card_sms_report">Prijavi putem SMS-a</string>
   <string name="card_tc_failed">"Ne mogu kalibrirati"</string>
-  <string name="card_tc_failed_content">"Mogući razlozi:\n 1. Operateri reagiraju sporije na početku i na kraju mjeseca. Pokušajte ponovno za nekoliko dana.\n 2. Potreban je zahtjev predložak zahtjeva mreže kada kalibrirate prvi puta. Povežite se s mrežom i pokušajte ponovno.\n 3. Vaš mobilni operater možda ne podržava slanje tekstualnih poruka s ostalim podacima i stanjem računa. Obratite se    mobilnom operateru za više informacija.\n 4. Možda postoji pogreška u podacima operatera. Pokušajte dijagnostikom operatera riješiti ovaj problem.\n 5. Izgleda da ništa ne pomaže? Dodirni "Prijavi putem SMS-a" da pošaljete povratnu informaciju Xiaomi-ju u SMS poruci."</string>
+  <string name="card_tc_failed_content">"Mogući razlozi:\n 1. Operateri reagiraju sporije na početku i na kraju mjeseca. Pokušajte ponovno za nekoliko dana.\n 2. Potreban je zahtjev predložak zahtjeva mreže kada kalibrirate prvi puta. Povežite se s mrežom i pokušajte ponovno.\n 3. Vaš mobilni operater možda ne podržava slanje tekstualnih poruka s ostalim podacima i stanjem računa. Obratite se  mobilnom operateru za više informacija.\n 4. Možda postoji pogreška u podacima operatera. Pokušajte dijagnostikom operatera riješiti ovaj problem.\n 5. Izgleda da ništa ne pomaže? Dodirni "Prijavi putem SMS-a" da pošaljete povratnu informaciju Xiaomi-ju u SMS poruci."</string>
   <string name="cd_back">Natrag</string>
   <string name="celcius_symbol">℃</string>
   <string name="cellular_data_auto_check">Provjeri automatski</string>
@@ -1003,8 +1003,12 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodavanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Stavite prst na senzor</string>
+  <string name="confirm_leave">Ne hvala</string>
+  <string name="confirm_open">Uključi</string>
   <string name="confirm_prompt_all_permission">Tražiti dopuštenje za sve aplikacije?</string>
   <string name="confirm_reject_all_permission">Ograničiti svim aplikacijama korištenje ove značajke?</string>
+  <string name="confirm_take">Dobij</string>
+  <string name="confirm_upgrade">Opcije</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
   <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
   <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
@@ -2305,6 +2309,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="next_step_button">Dalje</string>
   <string name="nickname">Nadimak</string>
   <string name="no_game">"Ne mogu pronaći igre”</string>
+  <string name="no_open">Ne sad</string>
   <string name="no_network">"Ne mogu se povezati s mrežom, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
@@ -2323,14 +2328,23 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_battery_scan_consume_abnormal_summary">Dodirnite da biste riješili problem</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s crpi bateriju</string>
   <string name="notification_channel_battery">Baterija</string>
+  <string name="notification_checker_installed_apk_hint">Nije potrebno zadržati APK nakon instalacije</string>
   <string name="notification_charging_title">"Punjenje "</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremna Štednja baterije je isključena</string>
   <string name="notification_exit_power_save_mode">Štednja baterije isključena</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napunjena.</string>
   <string name="notification_garbage_clean_botton_text">Očisti</string>
+  <string name="notification_garbage_clean_botton_text_new">Očisti</string>
   <string name="notification_garbage_clean_hint">Očisti prostor za pohranu</string>
+  <string name="notification_garbage_clean_hint_new">Neka vaš uređaj lebdi</string>
   <string name="notification_garbage_clean_size">Oslobodi %s</string>
+  <string name="notification_garbage_clean_size_float_unit">%.1f GB</string>
+  <string name="notification_garbage_clean_size_found">"Postoji %s smeća"</string>
+  <string name="notification_garbage_clean_size_found_hint">Vrijeme je za iznošenje smeća!</string>
+  <string name="notification_garbage_clean_size_found_text">Previše datoteka smeća</string>
+  <string name="notification_garbage_clean_size_int_unit">%d GB</string>
+  <string name="notification_garbage_clean_size_new">Oslobodite %s prostora za pohranu</string>
   <string name="notification_garbage_cleanup_summary">Očistite smeće (%s) da ubrzate svoj uređaj</string>
   <string name="notification_garbage_cleanup_title">Očistite datoteke smeća</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
@@ -2338,14 +2352,29 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_low_battery_need_charge">Napunite svoj uređaj</string>
   <string name="notification_low_battery_open_save_mode">Uključi Štednju baterije</string>
   <string name="notification_low_battery_title">Preostalo je manje od %s baterije</string>
+  <string name="notification_low_memory_button_text">Popravi</string>
+  <string name="notification_low_memory_hint">Smeće usporava vaš uređaj</string>
+  <string name="notification_low_memory_text">Ponestaje memorije</string>
+  <string name="notification_low_storage_size">Preostalo je manje od %s prostora za pohranu</string>
+  <string name="notification_low_storage_size_1_gb_hint">Oslobodite pohranu kako biste ubrzali svoj uređaj</string>
+  <string name="notification_low_storage_size_1p5_gb_hint">Izbrišite smeće da biste ubrzali svoj uređaj</string>
   <string name="notification_mask_summary">"Ne prikazuje sadržaj obavijesti za zaštićene aplikacije"</string>
   <string name="notification_mask_title">Sakrij sadržaj obavijesti</string>
   <string name="notification_masked_item">Kako sakriti sadržaj obavijesti?</string>
   <string name="notification_masked_subtitle">Koristite Zaklj. aplikacije da sakrijete sadržaj obavijesti za odabrane aplikacije</string>
+  <string name="notification_qq_clean_hint">Smeće usporava vaš uređaj</string>
+  <string name="notification_qq_clean_text">"Izbrišite QQ smeće"</string>
   <string name="notification_open_extreme_mode_text">Ekstremna Štednja baterije je uključena</string>
   <string name="notification_quick_charging_title">Brzo punjenje</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
+  <string name="notification_uninstall_clean_hint">Izbrišite smeće kako biste oslobodili prostor za pohranu</string>
+  <string name="notification_uninstall_clean_text">Deinstalirane aplikacije ostavljaju smeće na vašem uređaju</string>
+  <string name="notification_wechat_clean_high_level_hint">Izbrišite smeće da biste ubrzali svoj uređaj</string>
+  <string name="notification_wechat_clean_high_level_text_a">WeChat je generirao puno datoteka za smeće</string>
+  <string name="notification_wechat_clean_high_level_text_b">"Smeće WeChat-a usporava vaš uređaj"</string>
+  <string name="notification_wechat_clean_low_level_hint">Oslobodite prostor za pohranu</string>
+  <string name="notification_wechat_clean_low_level_text">"Izbrišite smeće WeChat-a"</string>
   <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je izmijenjena</string>
   <string name="notification_sysapp_cracked_title">Otkriven je sigurnosni rizik</string>
   <string name="notification_title_cmcc_app_check">Dana (%d) od zadnje provjere</string>
@@ -2630,6 +2659,66 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_close_permission_control_dialog_msg">"Kada je Upravitelj dopuštenja isključen, aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja."</string>
   <string name="permission_close_permission_control_dialog_title">Isključiti?</string>
   <string name="permission_exception_title">Ograničena veza za aplikacije</string>
+  <string name="permission_instruction_access_notification">Ovo dopuštenje omogućuje aplikacijama čitanje, pretraživanje i brisanje svih vaših obavijesti. Imajte na umu da obavijesti mogu sadržavati privatne podatke (npr. brojeve bankovnih kartica i zaporke).</string>
+  <string name="permission_instruction_activity_recognition">Ovo dopuštenje aplikacijama omogućuje pristup informacijama koje prikupljaju ugrađeni senzori koji otkrivaju vašu tjelesnu aktivnost (npr. broj koraka i vježbanja). Zapamtite da su podaci o vašoj tjelesnoj aktivnosti osobni.</string>
+  <string name="permission_instruction_add_voicemail">Ovo dopuštenje omogućuje aplikacijama dodavanje govorne pošte u sustav.</string>
+  <string name="permission_instruction_answer_phone_call">Ovo dopuštenje omogućava aplikacijama da odgovaraju na pozive ili završavaju bez vašeg pristanka.</string>
+  <string name="permission_instruction_auto_start">Ovo dopuštenje omogućuje aplikacijama automatsko pokretanje bez vaše potvrde. Davanje ovog dopuštenja za više aplikacija može usporiti vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za prikupljanje vaših osobnih podataka, a da vi to ne znate.
+</string>
+  <string name="permission_instruction_background_start">Ovo dopuštenje omogućuje aplikacijama prikaz skočnih prozora bez vaše potvrde. Ovi skočni prozori mogu pokriti vaš zaslon u potpunosti utječući na uobičajeno korištenje.</string>
+  <string name="permission_instruction_bluetooth_admin">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje Bluetootha bez vaše potvrde.</string>
+  <string name="permission_instruction_body_sensors">Ovo dopuštenje omogućuje aplikacijama pristup podacima o vašem tijelu koje prikupljaju senzori (npr. otkucaji srca). Zapamtite da su podaci o vašem tijelu osobni.</string>
+  <string name="permission_instruction_call_phone">"Ovo dopuštenje omogućuje aplikacijama upućivanje neželjenih poziva, što može generirati dodatne naknade. Imajte na umu da ovo dopuštenje aplikacijama ne dopušta pozivanje hitnih telefonskih brojeva. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za upućivanje plaćenih poziva bez vašeg pristanka."</string>
+  <string name="permission_instruction_camera">Ovo dopuštenje aplikacijama omogućuje korištenje kamere za fotografiranje ili snimanje videozapisa.</string>
+  <string name="permission_instruction_change_wifi_state">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje WLAN-a bez vaše potvrde.</string>
+  <string name="permission_instruction_device_admin">Ovo dopuštenje omogućuje aplikacijama da kontroliraju vaš uređaj, što može uključivati brisanje podataka, otključavanje uređaja i promjenu zaporki. Ovo je dopuštenje visokog rizika.</string>
+  <string name="permission_instruction_dont_disturb">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje DND načina rada.</string>
+  <string name="permission_instruction_draw_overlay">Ovo dopuštenje omogućuje aplikacijama prikaz plutajućih prozora preko bilo kojeg drugog sučelja na vašem uređaju, što može utjecati na uobičajeno korištenje drugih aplikacija. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za čitanje ili prikupljanje privatnih podataka (npr. zaporke) kroz prozirne plutajuće prozore.</string>
+  <string name="permission_instruction_external_storage">Ovo dopuštenje omogućuje aplikacijama pristup fotografijama, medijima i datotekama na vašem uređaju. Budite oprezni s ovim dopuštenjem kako biste izbjegli nepotrebno otkrivanje privatnih podataka.</string>
+  <string name="permission_instruction_get_accounts">Ovo dopuštenje omogućuje aplikacijama pristup popisu računa pohranjenih na vašem uređaju. Ovaj popis može sadržavati sve vaše osobne račune koje su stvorile instalirane aplikacije, kao i račune s platformi društvenih medija i alata za komunikaciju.</string>
+  <string name="permission_instruction_install_shortcuts">Ovo dopuštenje omogućuje aplikacijama stvaranje prečaca na početnom zaslonu.</string>
+  <string name="permission_instruction_install_unknown_source">Ovo dopuštenje omogućuje aplikacijama instaliranje drugih aplikacija na vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za instaliranje aplikacija bez vaše potvrde.</string>
+  <string name="permission_instruction_modify_audio_settings">Ovo dopuštenje omogućuje aplikacijama izmjenu postavki zvuka (npr. podešavanje glasnoće bez vaše potvrde). Možda nećete moći prilagoditi glasnoću u nekim aplikacijama ako im ne date ovo dopuštenje.</string>
+  <string name="permission_instruction_nfc">Ovo dopuštenje omogućuje aplikacijama komunikaciju s NFC karticama i uređajima.</string>
+  <string name="permission_instruction_notification_adjustment">Ovo dopuštenje omogućuje aplikacijama pružanje personaliziranih i raznolikih prilagodljivih obavijesti.</string>
+  <string name="permission_instruction_ongoing_notification">Ovo dopuštenje omogućuje aplikacijama stvaranje trajnih prečaca u Panelu obavijesti, što vam može onemogućiti redovite obavijesti.</string>
+  <string name="permission_instruction_package_usage_stat">Ovo dopuštenje omogućuje aplikacijama praćenje ponašanja drugih aplikacija na vašem uređaju i dobivanje podataka koji mogu uključivati postavke vašeg mobilnog operatera i jezika. Ovo je dopuštenje visokog rizika. Vaš se uređaj može nadzirati, a sigurnost vaših osobnih podataka također može biti ugrožena.</string>
+  <string name="permission_instruction_picture_in_picture">Ovo dopuštenje omogućuje aplikacijama prikaz stavki na vašem početnom zaslonu ili preko drugih aplikacija putem sučelja slika u slici.</string>
+  <string name="permission_instruction_popup_window">Ovo dopuštenje omogućuje aplikacijama prikaz plutajućih prozora preko bilo kojeg drugog sučelja na vašem uređaju, što može utjecati na uobičajeno korištenje drugih aplikacija. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za čitanje ili prikupljanje privatnih podataka (npr. zaporke) kroz prozirne plutajuće prozore.
+</string>
+  <string name="permission_instruction_read_appplication_list">Ovo dopuštenje omogućuje aplikacijama pristup informacijama o svim aplikacijama instaliranim na vašem uređaju. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za analizu vaših osobnih preferencija.
+</string>
+  <string name="permission_instruction_read_calllog">Ovo dopuštenje omogućuje aplikacijama pristup povijesti poziva koja može sadržavati detaljne informacije o vašim dolaznim i odlaznim pozivima. Ovo dopuštenje također omogućuje aplikacijama spremanje zapisa povijesti poziva. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za dijeljenje vaše povijesti poziva s trećim stranama ili vašu povijest poziva za prijevaru.
+</string>
+  <string name="permission_instruction_read_clipboard">Ovo dopuštenje omogućuje aplikacijama čitanje bilo kojeg sadržaja koji kopirate, što može uključivati privatne podatke (npr. podatke o računu, brojeve bankovnih kartica i zaporke).
+</string>
+  <string name="permission_instruction_read_contacts">Ovo dopuštenje omogućuje aplikacijama pristup podacima za kontakt pohranjenim na vašem uređaju. Te informacije mogu sadržavati učestalost vaše komunikacije s određenim kontaktima putem poziva, e-pošte i drugih metoda. Ovo dopuštenje također omogućuje aplikacijama spremanje kontakata. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za dijeljenje kontakata bez vašeg pristanka
+.</string>
+  <string name="permission_instruction_read_notify_sms">Ovo dopuštenje omogućuje aplikacijama čitanje tekstnih poruka obavijesti pohranjenih na vašem uređaju ili SIM kartici.</string>
+  <string name="permission_instruction_read_phone_state">"Ovo dopuštenje omogućuje aplikacijama pristup vašem telefonskom broju, IMEI, IMSI i drugim identifikatorima uređaja. Aplikacije obično koriste ovo dopuštenje da odrede prosljeđuju li se vaši pozivi. Ako koristite virtualni ID uređaja, aplikacije neće moći pristupiti vašim stvarnim identifikatorima uređaja
+."</string>
+  <string name="permission_instruction_read_sms">Ovo dopuštenje omogućuje aplikacijama čitanje svih tekstualnih poruka pohranjenih na vašem uređaju ili SIM kartici. Takve poruke mogu sadržavati zaporke, podatke o bankovnom računu i druge osobne podatke.
+</string>
+  <string name="permission_instruction_read_write_calendar">Ovo dopuštenje omogućuje aplikacijama pristup vašem kalendaru, kao i čitanje, dodavanje, uklanjanje, uređivanje, dijeljenje i spremanje kalendarskih događaja. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje poruka od vašeg imena ili uređivanje događaja u kalendaru bez vašeg pristanka.</string>
+  <string name="permission_instruction_receive_mms">Ovo dopuštenje omogućuje aplikacijama čitanje svih multimedijskih poruka pohranjenih na vašem uređaju ili SIM kartici. Takve poruke mogu sadržavati zaporke, podatke o bankovnom računu i druge osobne podatke.</string>
+  <string name="permission_instruction_record_audio">"Ovo dopuštenje omogućuje aplikacijama korištenje mikrofona za snimanje zvuka. Imajte na umu da ovo dopuštenje aplikacijama omogućuje snimanje bilo čega, uključujući vaše razgovore s drugima. Najbolje je dozvoliti aplikacijama da koriste ovo dopuštenje samo dok ih koristite.
+"</string>
+  <string name="permission_instruction_running_background">Ovo dopuštenje omogućuje aplikacijama rad u pozadini. Radeći to, aplikacije mogu prikupljati podatke i pružati usluge. Imajte na umu da takve aktivnosti povećavaju potrošnju energije.</string>
+  <string name="permission_instruction_running_exceed_data">Ovo dopuštenje omogućuje aplikacijama da ignoriraju ograničenja upotrebe mobilnih podataka.</string>
+  <string name="permission_instruction_send_mms">Ovo dopuštenje omogućuje aplikacijama slanje multimedijskih poruka, što može generirati dodatne naknade. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje plaćenih poruka bez vašeg pristanka.
+</string>
+  <string name="permission_instruction_send_payment_sms">Ovo dopuštenje omogućuje aplikacijama slanje plaćenih tekstualnih poruka.</string>
+  <string name="permission_instruction_send_sms">Ovo dopuštenje omogućuje aplikacijama slanje tekstnih poruka, što može generirati dodatne naknade. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje plaćenih poruka bez vašeg pristanka.</string>
+  <string name="permission_instruction_show_locked">Ovo dopuštenje omogućuje aplikacijama prikaz stavki na zaključanom zaslonu. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za prikazivanje dosadnih oglasa.</string>
+  <string name="permission_instruction_touch_pay">Ovo dopuštenje aplikacijama omogućuje beskontaktno plaćanje.</string>
+  <string name="permission_instruction_use_sip">Ovo dopuštenje omogućuje aplikacijama upotrebu SIP video usluga.</string>
+  <string name="permission_instruction_vr_assistant">Ovo dopuštenje omogućuje aplikacijama upotrebu usluga pomoćnika VR-a.</string>
+  <string name="permission_instruction_write_calllog">Ovo dopuštenje omogućuje aplikacijama uređivanje povijesti poziva koja može sadržavati detaljne informacije o vašim dolaznim i odlaznim pozivima. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za brisanje ili uređivanje povijesti poziva.
+</string>
+  <string name="permission_instruction_write_clipboard">Ovo dopuštenje omogućuje aplikacijama spremanje stavki u međuspremnik. Neželjene poruke mogu utjecati na vašu uobičajenu upotrebu međuspremnika.</string>
+  <string name="permission_instruction_write_contacts">Ovo dopuštenje omogućuje aplikacijama uređivanje, dodavanje i brisanje podataka o kontaktima pohranjenih na vašem uređaju. Te informacije mogu sadržavati učestalost vaše komunikacije s određenim kontaktima putem poziva, e-pošte i drugih metoda. Ovo dopuštenje također omogućava aplikacijama da izbrišu vaše kontakte.
+</string>
+  <string name="permission_instruction_write_settings">Ovo dopuštenje omogućuje aplikacijama izmjenu postavki sustava. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje s postavkama vašeg sustava i utjecati na uobičajenu upotrebu vašeg uređaja.</string>
   <string name="permission_group_title_others">Ostalo</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj Dopuštenja</string>
@@ -3960,14 +4049,14 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_get_sms_successs">Informacije o uporabi podataka uspješno ažurirane</string>
   <string name="tc_sms_report_get_sms_timeout">Istek vremena zahtjeva</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od mobilnog operatera. Uvjerite se da je točan
-     i pošaljite ga nama."</string>
+   i pošaljite ga nama."</string>
   <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje izvješća SMS-a…</string>
   <string name="tc_sms_report_notify_correction_body">Idi u-&gt; Sigurnost-&gt; Uporaba podataka i pokušajte ponovno ručno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne mogu ažurirati detalje uporabe podataka"</string>
   <string name="tc_sms_report_notify_get_failure_body">Ne mogu poslati izvješće o uporabi podataka. Provjerite da li ste spojeni
-      na mobilnu mrežu.</string>
+  na mobilnu mrežu.</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Istek vremena obrade. Potvrdi sa svojim operaterom da je upit koda SMS-om koji ste unijeli je ispravan.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
@@ -4138,19 +4227,19 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
 Prihvaćate li to?"</string>
   <string name="traffic_config_alert_body_extra">"
 Kupili ste dodatnog interneta od %1$s ovaj mjesec. 
-     To se razlikuje od %2$s što ste dodali ručno."</string>
+   To se razlikuje od %2$s što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
 Kupili ste dodatnog interneta od %s ovaj mjesec. 
-     To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
+   To se ne odražava na mjesečne podatke ograničenja koje ste postavili ručno."</string>
   <string name="traffic_config_alert_body_leisure">"
 Vaše mjesečno ograničenje uporabe podataka je %1$s. 
-     To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
+   To se razlikuje od %2$s ograničenja što ste dodali ručno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. 
-      Niste postavili ograničenje maks. podataka."</string>
+  Niste postavili ograničenje maks. podataka."</string>
   <string name="traffic_config_alert_body_normal">"
 Vaš mjesečni maks. ograničenja uporabe podataka je %1$s. 
-     To se razlikuje od %2$s što ste postavili ručno."</string>
+   To se razlikuje od %2$s što ste postavili ručno."</string>
   <string name="traffic_config_alert_package">"
 Prekoračeno preko dodatnih podataka"</string>
   <string name="traffic_config_alert_setted">Postavke primjenjene</string>
@@ -4325,10 +4414,10 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usb_mount">Učitaj USB uređaj</string>
   <string name="usb_mount_summary"/>
   <string name="usbsharenet_exception_summary">"Ne mogu se povezati na internet putem USB veze. 
-      Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
+  Provjerite USB priključak vašeg uređaja i ponovno pokrenite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Testiraj povezivanje putem USB-a</string>
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. 
-      Provjerite internetsku vezu vašeg računala."</string>
+  Provjerite internetsku vezu vašeg računala."</string>
   <string name="use_immediately">Upotrijebi</string>
   <string name="user_define_title">Dodaj pravila</string>
   <string name="user_guide">Prijeđite prstom prema gore da biste otkrili nove igre</string>

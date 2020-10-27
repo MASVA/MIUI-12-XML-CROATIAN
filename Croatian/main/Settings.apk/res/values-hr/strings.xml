@@ -3193,6 +3193,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_webview_multiprocess">Omogući višeprocesni WebView</string>
   <string name="enable_webview_multiprocess_desc">Pokreni ispunjivače WebViewa u izoliranim procesima.</string>
   <string name="enable_wifi_display">Bežični zaslon</string>
+  <string name="enabled">Uključeno</string>
   <string name="enable_wifi_master_key_service">Uključi WLAN Master ključ</string>
   <string name="enable_wifi_master_key_service_first">Uključi</string>
   <string name="enabled_5g_mode_title">Enable 5G</string>
@@ -5756,6 +5757,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_allowed">Vaša SIM kartica ne dopušta povezivanje s ovom mrežom.</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>
+  <string name="not_enabled">Isključeno</string>
   <string name="not_installed">Nije instalirano za korisnika</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notch_and_status_bar_settings">Centar za kontrolu &amp; traka statusa</string>
@@ -6071,6 +6073,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="other_conversations_summary">Razgovori koje ste izmijenili</string>
   <string name="other_data">Ostale stavke na ovom uređaju</string>
   <string name="other_device_info">Ostalo</string>
+  <string name="other_input_method">Ostale tipkovnice</string>
   <string name="other_input_settings">Dodatne postavke tipkovnice</string>
   <string name="other_password">Ostale zaporke</string>
   <string name="other_personal_settings">Osobne postavke</string>
@@ -8870,7 +8873,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="sync_enable">Sinkr.</string>
   <string name="sync_enabled">Sink. UKLJUČENA</string>
   <string name="sync_error">Pogreška sink.</string>
-  <string name="sync_failed">Sinkronizacija nije uspjela</string>
+  <string name="sync_failed">"Sinkronizacija nije uspjela. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Sinkronizacija u tijeku…</string>
   <string name="sync_is_failing">Sinkronizacija trenutačno ima problema. Uskoro će nastaviti s radom.</string>
@@ -8882,6 +8885,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobro došli u Googleovu sinkronizaciju!&lt;/font&gt;"
 Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sastancima i drugim stavkama s bilo kojeg mjesta."</string>
   <string name="sync_settings">Računi &amp; Sinkronizacija</string>
+  <string name="sync_success">Uspješno sinkronizirano</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Samo na WLAN-u</string>
   <string name="system">Sustav</string>
@@ -9697,11 +9701,13 @@ ili slušalice s 3,5 mm utikačem"</string>
   <string name="usb_preference">Postavke USB-a</string>
   <string name="usb_ptp_summary">Omogućuje vam prijenos fotografija pomoću softvera Kamere i prijenos bilo koje datoteke na računala koja ne podržavaju MTP</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
+  <string name="usb_reverse_charge">Obrnuto punjenje</string>
   <string name="usb_restore_select_data_too_large">"Datoteke Sig. kopije su velike. Može potrajati neko vrijeme da biste ih vratili.
 Vraćanje samo važnih stavki bit će brže."</string>
   <string name="usb_sdcard_summary">Omogućuje prijenos medijskih datoteka sa SD kartice na računalo</string>
   <string name="usb_sdcard_title">Učitaj SD karticu</string>
   <string name="usb_summary_MIDI">Upotreba uređaja kao MIDI-ja</string>
+  <string name="usb_use_MIDI_miui12_5">MIDI</string>
   <string name="usb_summary_MIDI_power">MIDI i napajanje</string>
   <string name="usb_summary_charging_only">Punjenje ovog uređaja</string>
   <string name="usb_summary_file_transfers">Prijenos datoteka</string>
@@ -9738,8 +9744,11 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="usb_use_charging_only_desc">Samo punjenje uređaja</string>
   <string name="usb_use_file_transfers">Prijenos datoteka/Android Auto</string>
   <string name="usb_use_file_transfers_desc">Prijenos datoteka na drugi uređaj</string>
+  <string name="usb_use_file_transfers_miui12_5">Prijenos datoteka</string>
+  <string name="usb_use_miui12_5">Svrha upotrebe USB-a</string>
   <string name="usb_use_photo_transfers">PTP</string>
   <string name="usb_use_photo_transfers_desc">Prijenos fotografija i datoteka ako MTP nije podržan (PTP)</string>
+  <string name="usb_use_photo_transfers_miui12_5">Prijenos fotografija</string>
   <string name="usb_use_power_only">Napajanje</string>
   <string name="usb_use_power_only_desc">Punjenje drugog povezanog uređaja</string>
   <string name="usb_use_tethering">Modemsko povezivanje USB-om</string>
@@ -10909,6 +10918,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Mi Cloud sinkronizira vaše fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
   <string name="xiaomi_cloud_service_disabled">Isključeno</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
+  <string name="xiaomi_custom_input_method">Prilagođeno za Xiaomi</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
   <string name="xiaomi_money_service">Mi Krediti</string>

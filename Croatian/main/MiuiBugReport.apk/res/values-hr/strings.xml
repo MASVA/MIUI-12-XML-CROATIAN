@@ -62,6 +62,7 @@
   <string name="action_cancel">Odustani</string>
   <string name="action_submit">Pošalji</string>
   <string name="action_update_phone">Promjeni broj telefona</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
@@ -121,6 +122,7 @@
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">"Ne, izraditi ću račun"</string>
+  <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close_feedback_main">Sakrij</string>
   <string name="collect_diagnosis_log">Prikupi zapise dijagnoze</string>
   <string name="confirm_activate_email">Potvrđeno</string>
@@ -336,6 +338,17 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="mi_service_dialog_content">Sve su značajke za povratne informacije premještene u novu aplikaciju \"Usluge i povratne informacije\". Aplikacija Povratne informacije bit će uklonjena s vašeg početnog zaslona. Dodirnite \"Otvori\" da biste isprobali \"Usluge i povratne informacije\".</string>
   <string name="mi_service_dialog_title">Predstavljamo \"Usluge i povratne informacije\"</string>  
   <string name="min_error">Vaš %1$s bi trebao biti duži.</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -461,8 +474,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_unknow_error">Došlo je do nepoznate pogreške</string>
   <string name="passport_unknow_host_network_error">Provjerite svoju mrežnu vezu i pokušajte ponovno</string>
   <string name="passport_unknow_network_error">Došlo je do pogreške mreže</string>
-  <string name="passport_user_agreement_link">&lt;Data>Pročitao sam i slažem se s Xiaomi&lt;a href=%1$s>Ugovor o korisniku&lt;/a> i &lt;a href=%2$s>Pravila o Privatnosti&lt;/a>.&lt;/Data></string>
-  <string name="passport_user_agreement_link_more">&lt;Data>Pročitao sam i slažem se sa sljedećim dokumentima: Xiaomi&lt;a href=%1$s>Ugovor o korisniku&lt;/a> i &lt;a href=%4$s>Pravila o Privatnosti&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
+  <string name="passport_user_agreement_link">Pročitao sam i slažem se s Xiaomi&lt;a href=\"%1$s\">Ugovor o korisniku&lt;/a> i &lt;a href=\"%2$s\">Pravila o Privatnosti&lt;/a>.</string>
+  <string name="passport_user_agreement_link_more">Pročitao sam i slažem se sa sljedećim dokumentima: Xiaomi&lt;a href=\"%1$s\">Ugovor o korisniku&lt;/a> i &lt;a href=\"%4$s\">Pravila o Privatnosti&lt;/a>, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>."</string>
   <string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
   <string name="passport_v_code_error">Kod za provjeru nije valjan</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
@@ -530,6 +543,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="submit_dialog_confirm">Slažem se</string>
   <string name="submit_dialog_content">&lt;Data&gt;Morate se složiti s našim &lt;a href=\"%1$s\"&gt;Pravila o Privatnosti&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Korisnički Sporazum&lt;/a&gt; da biste mogli koristiti povratne informacije. Problemi koje prijavite zajedno s stavkama koje priložite (možda sadrže osobne podatke, kao i informacije o uređaju i mreži) bit će prenesene na MIUI poslužitelje. To će nam pomoći da pronađemo i riješimo probleme koje prijavljujete.&lt;/Data&gt;</string>
   <string name="submit_dialog_content_global">&lt;Data&gt;Vaše povratne informacije, zajedno s privicima (ako ih ima) i zapisima (možete poništiti odgovarajuće okvire za stavke koje ne želite učitati) bit će poslane na MIUI poslužitelje. Zapisi mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Slažem se\" znači da ste pročitali i slažete se s našim &lt;a href=\"%1$s\"&gt;Pravila o Privatnosti&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Korisnički Sporazum&lt;/a&gt;.&lt;/Data&gt;</string>
+  <string name="submit_dialog_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">Ne mogu poslati izvješće</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
@@ -606,4 +620,5 @@ Veličina Delta ažuriranja: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+  <string name="yesterday">Jučer</string>
 </resources>

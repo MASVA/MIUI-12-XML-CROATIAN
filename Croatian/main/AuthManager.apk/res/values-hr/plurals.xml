@@ -16,4 +16,20 @@
         <item quantity="other">%s sek.</item>
         <item quantity="one">%s sek.</item>
     </plurals>
+	<plurals name="clipboard_ai_allow_more">
+        <item quantity="other">Dopušteno %1$s da automatski pristupi stavkama u međuspremniku %2$d puta</item>
+        <item quantity="one">Dopušteno %1$s da automatski pristupi stavkama u međuspremniku %2$d put</item>
+    </plurals>	 
+    <plurals name="clipboard_read_allow_more">
+        <item quantity="other">%1$s je pristupio stavkama u međuspremniku %2$d puta</item>
+        <item quantity="one">%1$s je pristupio stavkama u međuspremniku %2$d put</item>
+    </plurals>	  
+    <plurals name="perm_manager_suggest_allow_content">
+        <item quantity="other">"Dopustitli ste već %2$s da pristupi stavkama u međuspremniku %1$d puta. Želite li uvijek dopustiti %3$s da pristupi stavkama u međuspremniku?"</item>
+        <item quantity="one">"Dopustitli ste već %2$s da pristupi stavkama u međuspremniku %1$d put. Želite li uvijek dopustiti %3$s da pristupi stavkama u međuspremniku?"</item>
+    </plurals>	    
+    <plurals name="perm_manager_suggest_deny_content">
+        <item quantity="other">"Već ste ograničili pristup međuspremniku za %2$s %1$d puta. Trajno ograničiti pristup međuspremniku za %3$s?"</item>
+        <item quantity="one">"Već ste ograničili pristup međuspremniku za %2$s %1$d put. Trajno ograničiti pristup međuspremniku za %3$s?"</item>
+    </plurals>	   
 </resources>
