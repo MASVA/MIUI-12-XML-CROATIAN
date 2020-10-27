@@ -8104,7 +8104,11 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="shuting_down_find_device">Isključivanje Pronađi uređaj…</string>
   <string name="silent_duration">Trajanje</string>
   <string name="silent_mode">Bešumni način</string>
+  <string name="silent_mode_disable_media">Utišaj sve</string>
+  <string name="silent_mode_enable_media">Reproduciraj medije</string>
+  <string name="silent_mode_summary">Utišajte pozive, obavijesti i medije</string>
   <string name="silent_mode_title">Bešumni način</string>
+  <string name="silent_mode_toggle_title">Bešumni način</string>
   <string name="silent_notifications_status_bar">Sakrij tihe obavijesti na traci statusa</string>
   <string name="silent_off">Isključeno</string>
   <string name="silent_settings">Bešumno/DND</string>
@@ -8441,7 +8445,7 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_peek_notification_icon">Prikaži ikone za dolazne obavijesti</string>
   <string name="status_bar_settings_qs_layout">Raspored prečaca</string>
   <string name="status_bar_settings_show_carrier">Prikaži naziv operatera</string>
-  <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u panelu obavijesti kada je ova značajka isključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Naziv operatera se i dalje prikazuje na Zaklj. zaslonu i u Panelu obavijesti kada je ova značajka isključena</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Prikaži naziv operatera kada je uređaj zaključan</string>
   <string name="status_bar_settings_show_floating_notification">Plutajuće obavijesti</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Dopusti važne obavijesti na vrhu zaslona"</string>
@@ -8451,12 +8455,12 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Dopusti važne obavijesti na Zaklj. zaslonu</string>
   <string name="status_bar_settings_show_lte_for_4g">Prikaži LTE ikonu za 4G</string>
   <string name="status_bar_settings_show_network_speed">Prikaži brzinu veze</string>
-  <string name="status_bar_settings_show_notificationBar_notification">Prikaži u panelu</string>
+  <string name="status_bar_settings_show_notificationBar_notification">Prikaži u Panelu</string>
   <string name="status_bar_settings_show_notification_icon">Prikaži ikone obavijesti</string>
   <string name="status_bar_settings_show_screenshot_notification">Prikaži obavijest o snimci zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Prikaži kao popis</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Obavijest se na kratko pojavljuje na vrhu zaslona</string>
-  <string name="status_bar_settings_show_weather">Prikaži vremensku prognozu u Panelu obavijesti</string>
+  <string name="status_bar_settings_show_weather">Prikaži informacije o vremenu</string>
   <string name="status_bar_settings_show_wifi_name">Prikaži WLAN</string>
   <string name="status_bar_settings_status_bar">Traka statusa</string>
   <string name="status_bar_settings_style">Obavijesti &amp; raspored prečaca</string>
@@ -9981,6 +9985,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="volte_5G_limited_text">"Time se isključuje i vaša 5G veza.
 Tijekom glasovnog poziva ne možete upotrebljavati internet i neke aplikacije možda neće funkcionirati."</string>
   <string name="volte_5G_limited_title">Isključiti VoLTE?</string>
+  <string name="volume_adjustment">Podesi glasnoću</string>
   <string name="volte_provisioned_flag_off">Isključi oznaku pružanja usluga putem VoLTE-a</string>
   <string name="volte_provisioned_flag_on">Uključi oznaku pružanja usluga putem VoLTE-a</string>
   <string name="volte_provisioned_switch_string">VoLTE omogućen</string>
@@ -10977,10 +10982,12 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_all_calls_summary">Dostupni ste za sve pozive</string>
   <string name="zen_mode_all_messages">Sve poruke</string>
   <string name="zen_mode_all_messages_summary">Dostupni ste za sve poruke</string>
+  <string name="zen_mode_always">Uvijek</string>
   <string name="zen_mode_all_visual_interruptions">Isključeno</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_mode_app_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Aplikacija %1$s automatski je uključila način Ne ometaj s prilagođenim ponašanjem.</string>
   <string name="zen_mode_apps_bypassing_list_count">još %d</string>
+  <string name="zen_mode_auto_rule">Raspored DND sesije</string>
   <string name="zen_mode_automatic_rule_settings_page_title">Raspored</string>
   <string name="zen_mode_automation_category">Automatizacija</string>
   <string name="zen_mode_automation_settings_page_title">Rasporedi</string>
@@ -11095,6 +11102,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_from_sms">"Poruke od "</string>
   <string name="zen_mode_from_starred">Kontakti označeni zvjezdicom</string>
   <string name="zen_mode_important_category">Prioritetni prekidi</string>
+  <string name="zen_mode_lockscreen">Kad je zaključano</string>
   <string name="zen_mode_media">Zvukovi medija</string>
   <string name="zen_mode_media_list">mediji</string>
   <string name="zen_mode_media_list_first">Mediji</string>
@@ -11106,6 +11114,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_messages_title">Poruke</string>
   <string name="zen_mode_miui_disturb_category">Ne ometaj</string>
   <string name="zen_mode_miui_silent_category">Dopusti</string>
+  <string name="zen_mode_more_actions">Više DND opcija</string>
   <string name="zen_mode_no_exceptions">Ništa</string>
   <string name="zen_mode_no_visual_interruptions">Kada je zaslon uključen ili isključen</string>
   <string name="zen_mode_none_calls">Ništa</string>
@@ -11204,6 +11213,7 @@ Kada isključite način \"Ne ometaj\", propuštene obavijesti pronaći ćete tak
   <string name="zen_mode_starred_contacts_title">Kontakti označeni zvjezdicom</string>
   <string name="zen_mode_start_time">Vrijeme početka</string>
   <string name="zen_mode_summary">Utišaj dolazne pozive, obavijesti, medije i ograniči vibraciju</string>
+  <string name="zen_mode_summary2">Utišaj pozive i obavijesti, isključi vibraciju</string>
   <string name="zen_mode_summary_alarms_only_by_time">Promijeni na \"Samo alarmi\" do %1$s</string>
   <string name="zen_mode_summary_alarms_only_indefinite">Promijeni na \"Samo alarmi\" na neodređeno vrijeme</string>
   <string name="zen_mode_summary_always">Promijeni na \"Uvijek prekidaj\"</string>

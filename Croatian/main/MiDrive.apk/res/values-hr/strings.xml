@@ -153,7 +153,6 @@
   <string name="delete_record_only">"Stavke na koje se odnose odabrani zapisi neće biti izbrisane."</string>
   <string name="delete_success">Uspješno izbrisano</string>
   <string name="dialog_content_delete_pdf_content">Želite li odmah izbrisati ovaj PDF?</string>
-  <string name="delete_success">Datoteka izbrisana</string>
   <string name="diagnosis_log_send_failed">Ne mogu poslati zapise dijagnoze.</string>
   <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
 ID:%s
@@ -395,7 +394,6 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="operation_renaming">Preimenovanje…</string>
   <string name="operation_resume">Start</string>
   <string name="operation_resume_all">Nastavi sve</string>
-  <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_sure_to_delete">Izbrisati sada?</string>
   <string name="operation_task_manage">Prikaži prijenose</string>
