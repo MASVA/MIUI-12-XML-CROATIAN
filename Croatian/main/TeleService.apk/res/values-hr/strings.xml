@@ -1188,6 +1188,10 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="fiveg_icon_type1">Nr vrsta ikone :</string>
   <string name="fiveg_infos">5G informacije</string>
   <string name="fiveg_network_config_type1">Vrsta mrežne konfiguracije:</string>
+  <string name="fiveg_network_mode_default">Auto</string>
+  <string name="fiveg_network_mode_nsa">NSA</string>
+  <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
+  <string name="fiveg_network_mode_title">Odaberite način 5G mreže</string>
   <string name="fiveg_network_title">5G mreže</string>
   <string name="fiveg_plmn_info_list1">PLMN popis podataka:</string>
   <string name="fiveg_power_secret_code_tip">Upravljajte ovime kroz Sigurnost - Baterija - 5G Štednja baterije</string>
@@ -1199,6 +1203,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="fiveg_sa_switch_title_slot0">SIM 1 SA način</string>
   <string name="fiveg_sa_switch_title_slot1">SIM 2 SA način</string>
   <string name="fiveg_sa_switch_warning_toast">Ponovo pokrenite telefon radi efekta.</string>
+  <string name="fiveg_sa_vice_switch_title">SA na sekundarnom SIM-u</string>
   <string name="fiveg_signal_strength1">5G Jačina signala:</string>
   <string name="fiveg_switch_status1">5G status promjene:</string>
   <string name="fiveg_switch_title">5G mreža</string>
