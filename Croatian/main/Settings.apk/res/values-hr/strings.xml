@@ -8274,6 +8274,7 @@ Obavijesti će se za neke aplikacije možda odgoditi."</string>
   <string name="smart_home_value_none">Ništa</string>
   <string name="smart_home_value_unknown">Nepoznato</string>
   <string name="smart_notifications_title">Prilagodljive obavijesti</string>
+  <string name="smart_space_clock">Na prvi pogled</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Zaklj./otklj. telefon autom. koristeći smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>

@@ -110,6 +110,7 @@
   <string name="network_tip_dialog_title">Potrebno je povezivanje s Internetom</string>
   <string name="new_record_name">Nova snimka</string>
   <string name="no_file">Prazno</string>
+  <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_message_all_paused">Čekanje na WLAN vezu.</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
