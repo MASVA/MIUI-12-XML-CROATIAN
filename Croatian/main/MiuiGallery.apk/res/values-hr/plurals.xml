@@ -85,8 +85,8 @@
          <item quantity="one">"Odabrana fotografija nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
      </plurals>
      <plurals name="picker_all_origin_need_download">
-         <item quantity="other">"Odabrane fotografije (%dMB) nisu na uređaju. Preuzeti ih putem mobilnih podataka?"</item>
-         <item quantity="one">"Odabrana fotografija (%dMB) nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
+         <item quantity="other">"Odabrane fotografije (%d MB) nisu na uređaju. Preuzeti ih putem mobilnih podataka?"</item>
+         <item quantity="one">"Odabrana fotografija (%d MB) nije na uređaju. Preuzeti je putem mobilnih podataka?"</item>
      </plurals>
      <plurals name="picker_all_image_will_download">
          <item quantity="other">"Odabrane fotografije nisu na uređaju te će se preuzeti."</item>
@@ -98,7 +98,7 @@
      </plurals>
      <plurals name="picker_retry_image_confirm_message">
          <item quantity="other">"Ne mogu preuzeti %1$d fotografija, pokušati ponovno?"</item>
-         <item quantity="one">"Ne mogu preuzeti fotografiju, pokušati ponovno?"</item>
+         <item quantity="one">"Ne mogu preuzeti %1$d fotografiju, pokušati ponovno?"</item>
      </plurals>
 	 <plurals name="picker_file_will_download">
         <item quantity="other">Preuzimanje %d preostalih datoteka</item>
@@ -106,19 +106,19 @@
     </plurals>
 	 <plurals name="picker_no_network_retry_image_confirm_message">
          <item quantity="other">"Ne mogu preuzeti %1$d fotografija, povežite se s mrežom i pokušajte ponovno"</item>
-         <item quantity="one">"Ne mogu preuzeti fotografiju, povežite se s mrežom i pokušajte ponovno"</item>
+         <item quantity="one">"Ne mogu preuzeti %1$d fotografiju, povežite se s mrežom i pokušajte ponovno"</item>
      </plurals>
      <plurals name="picker_retry_origin_confirm_message">
-         <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$dMB), pokušati ponovno?"</item>
-         <item quantity="one">"Ne mogu preuzeti fotografiju (%2$dMB), pokušati ponovno?"</item>
+         <item quantity="other">"Ne mogu preuzeti %1$d fotografija (%2$d MB), pokušati ponovno?"</item>
+         <item quantity="one">"Ne mogu preuzeti %1$d fotografiju (%2$d MB), pokušati ponovno?"</item>
      </plurals>
 	 <plurals name="picker_no_network_retry_origin_confirm_message">
-    	<item quantity="other">"Ne mogu preuzeti %1$d datoteka (%2$dMB). Povežite se s mrežom i pokušajte ponovno."</item>
-        <item quantity="one">"Ne mogu preuzeti %1$d datoteku (%2$dMB). Povežite se s mrežom i pokušajte ponovno."</item>
+    	<item quantity="other">"Ne mogu preuzeti %1$d datoteka (%2$d MB). Povežite se s mrežom i pokušajte ponovno."</item>
+        <item quantity="one">"Ne mogu preuzeti %1$d datoteku (%2$d MB). Povežite se s mrežom i pokušajte ponovno."</item>
     </plurals>
     <plurals name="picker_origin_need_to_download">
-        <item quantity="other">"%1$d datoteka (%2$dMB) još nisu preuzete. Preuzeti putem mobilnih podataka?"</item>
-        <item quantity="one">"%1$d datoteka (%2$dMB) još nije preuzeta. Preuzeti putem mobilnih podataka?"</item>
+        <item quantity="other">"%1$d datoteka (%2$d MB) još nisu preuzete. Preuzeti putem mobilnih podataka?"</item>
+        <item quantity="one">"%1$d datoteka (%2$d MB) još nije preuzeta. Preuzeti putem mobilnih podataka?"</item>
     </plurals>	    
      <plurals name="picker_cancel_confirm_message">
          <item quantity="other">"%d datoteka još nisu preuzete. Otkazati svejedno?"</item>
@@ -259,11 +259,11 @@
      </plurals>
 	<plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotografija</item>
-         <item quantity="one">1 fotografija</item>
+         <item quantity="one">%1$d fotografija</item>
     </plurals>
     <plurals name="number_of_videos_synced">
          <item quantity="other">%1$d videozapisa</item>
-         <item quantity="one">1 videozapis</item>
+         <item quantity="one">%1$d videozapis</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">Fotografije čekaju sinkronizaciju: %1$d</item>
@@ -329,7 +329,7 @@
         <item quantity="one">Odaberite %d fotografiju</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
-        <item quantity="other">Odabrano stavki %d</item>
+        <item quantity="other">Odabrano stavki: %d</item>
         <item quantity="one">Odabrana %d stavka</item>
     </plurals>
 	<plurals name="fail_reason_processing_file">
@@ -338,15 +338,15 @@
      </plurals>
 	<plurals name="fast_share_auto_render_failed">
         <item quantity="other">"Preskočeno %1$d fotografija koje nisu mogle biti podijeljene."</item>
-        <item quantity="one">"Preskočena fotografija koja nije mogla biti podijeljena."</item>
+        <item quantity="one">"Preskočena %1$d fotografija koja nije mogla biti podijeljena."</item>
      </plurals>
 	 <plurals name="video_count_format">
          <item quantity="other">Ukupno: %1$d</item>
          <item quantity="one">Ukupno: %1$d</item>
      </plurals>
      <plurals name="quickly_discovery_message_format">
-         <item quantity="other">Pronađeno fotografija: %1$d</item>
-         <item quantity="one">Pronađena nova fotografija</item>
+         <item quantity="other">Pronađeneo nove fotografije: %1$d</item>
+         <item quantity="one">Pronađena %1$d nova fotografija</item>
      </plurals>
      <plurals name="backuping_desc_normal">
          <item quantity="other">Fotografija ili videozapisa: %1$d</item>

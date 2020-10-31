@@ -62,7 +62,7 @@
         <item quantity="one">"%1$d stavka nije dodana na vaš račun"</item>
     </plurals>
      <plurals name="aod_batch_has_update_text">
-        <item quantity="other">Dostupna su ažuriranja za %1$d tema</item>
+        <item quantity="other">Dostupna su ažuriranja za teme: %1$d</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>
      </plurals>
      <plurals name="aod_batch_updating_text">

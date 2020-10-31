@@ -381,7 +381,7 @@
   <string name="cleaner_similar_description">Izbriši dvostruke fotografije</string>
   <string name="cleaner_similar_title">Dvostruke fotografije</string>
   <string name="cleaner_slim_action">Pokreni optimizaciju</string>
-  <string name="cleaner_slim_description">Zadrži optimizirane fotografije na uređaju. Izvorne datoteke pohranjuju se u Mi Cloudu.</string>
+  <string name="cleaner_slim_description">Zadrži optimizirane fotografije na uređaju. Originalne datoteke pohranjuju se u Mi Cloudu.</string>
   <string name="cleaner_slim_start">Optimiziraj</string>
   <string name="cleaner_slim_title">Optimiziraj fotografije</string>
   <string name="cleaner_space_description">može biti oslobođeno</string>
@@ -589,18 +589,20 @@
   <string name="download_canceled">Preuzimanje otkazano</string>
   <string name="download_error_format">"Ne mogu preuzeti %s"</string>
   <string name="download_error_tip">. Preuzimanje je prekinuto.</string>
-  <string name="download_origin_dialog_message">"Izvorne će se slike preuzeti sa Mi Clouda. Lokalne fotografije neće biti optimizirane."</string>
+  <string name="download_origin_dialog_message">"Originalne će se slike preuzeti sa Mi Clouda. Lokalne fotografije neće biti optimizirane."</string>
   <string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovno"</string>
   <string name="download_retry_text">Pokušajte ponovno</string>
   <string name="download_retry_title">"Ne mogu preuzeti datoteke"</string>
   <string name="download_tip">Preuzmi</string>
   <string name="download_title">Priprema datoteka…</string>
-  <string name="download_type_origin">Izvorne datoteke</string>
-  <string name="download_type_origin_desc">Izvorne datoteke</string>
+  <string name="download_type_origin">Originalne datoteke</string>
+  <string name="download_type_origin_subtitle_china">Originalne slike zauzimaju više prostora za pohranu i mogu se preuzeti samo putem WLAN mreže</string>
+  <string name="download_type_origin_title">Original</string>
   <string name="download_type_thumbnail">Visoka</string>
-  <string name="download_type_thumbnail_desc">Visoka</string>
+  <string name="download_type_thumbnail_subtitle">Slike visoke kvalitete izgledaju gotovo identično originalnim, ali zauzimaju manje prostora za pohranu</string>
+  <string name="download_type_thumbnail_title">Visoka kvaliteta</string>
   <string name="download_type_title">Kvaliteta preuzimanja</string>
-  <string name="download_with_metered_network_msg">"Preuzimanje originalnih datoteka će stvorriti dodatne troškove. Preuzeti svejedno?"</string>
+  <string name="download_with_metered_network_msg">"Preuzimanje originalnih datoteka će stvoriti dodatne troškove. Preuzeti svejedno?"</string>
   <string name="download_with_metered_network_title">"Povezani ste na plaćenu mrežu"</string>
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Možete odabrati kvalitetu preuzete slike ili isključiti automatska preuzimanja u Postavkama.</string>
@@ -655,8 +657,8 @@
   <string name="eras_ad">CE</string>
   <string name="eras_bc">BCE</string>
   <string name="error_album_not_exist">"Album ne postoji."</string>
-  <string name="error_build_thumbnail_action">Preuzmi izvornu datoteku</string>
-  <string name="error_build_thumbnail_msg">"Ne mogu preuzeti minijaturu. Pokušajte preuzeti izvornu datoteku."</string>
+  <string name="error_build_thumbnail_action">Preuzmi originalnu datoteku</string>
+  <string name="error_build_thumbnail_msg">"Ne mogu preuzeti minijaturu. Pokušajte preuzeti originalnu datoteku."</string>
   <string name="error_build_thumbnail_tip">"Ne mogu preuzeti minijaturu."</string>
   <string name="error_change_storage_action">Promjeni pohranu</string>
   <string name="error_change_storage_msg">Idite u Postavke &gt; Pohrana, promjenite pohranu i pokušajte ponovno.</string>
@@ -1059,7 +1061,7 @@ za fotografije"</string>
   <string name="ignore_face">Ignoriraj ovu osobu</string>
   <string name="ignore_faces_title">Ignorirano</string>
   <string name="image_decode_failed">"Ne mogu dešifrirati sliku"</string>
-  <string name="image_download_item_title">Preuzmi izvornu fotografiju (%s)</string>
+  <string name="image_download_item_title">Preuzmi originalnu fotografiju (%s)</string>
   <string name="image_invalid_path">Pogrešna putanja</string>
   <string name="image_not_found">"Ne mogu pronaći sliku"</string>
   <string name="image_quota_fulfiled">Previše slika. Izbrišite neke i pokušajte ponovno.</string>
@@ -1279,7 +1281,7 @@ za fotografije"</string>
   <string name="movie_download">Preuzmi</string>
   <string name="movie_download_failed">"Ne mogu preuzeti"</string>
   <string name="movie_download_failed_for_notwork">"Ne mogu preuzeti. Povežite se na mrežu i pokušajte ponovno."</string>
-  <string name="movie_download_sdk_without_wifi_msg">"Izgleda da vaš uređaj nije povezan na WLAN mrežu. Preuzeti potreban dodatak (3MB) putem mob. podataka?"</string>
+  <string name="movie_download_sdk_without_wifi_msg">"Izgleda da vaš uređaj nije povezan na WLAN mrežu. Preuzeti potreban dodatak (%2$d MB) putem mob. podataka?"</string>
   <string name="movie_download_sdk_without_wifi_title">Preuzmi putem mob. podataka</string>
   <string name="movie_download_with_metered_network_msg">"Preuzimanje originalnih datoteka će stvorriti dodatne troškove. Preuzeti svejedno?"</string>
   <string name="movie_download_with_metered_network_title">"Povezani ste na plaćenu mrežu"</string>
@@ -1323,6 +1325,7 @@ za fotografije"</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na WLAN</string>
   <string name="negative">Negativan</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
+  <string name="new_album_invalid_byte">Naziv je predugačak</string>
   <string name="network_unsatisfied_button_text">Povežite se na mrežu</string>
   <string name="new_album_invalid_char">"Nazivi ne mogu sadržavati \"%s\", unesite slovo ili broj."</string>
   <string name="new_album_invalid_name">\"%s\" je album sustava, preimenujte ga.</string>
@@ -1343,6 +1346,7 @@ za fotografije"</string>
   <string name="not_remind_again">"Ne prikazuj ponovno"</string>
   <string name="not_remind_any_more">"Ne prikazuj ponovno"</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="notice_click_lock_orientation">Dodirnite za zaključavanje orijentacije</string>
   <string name="ocr_abnormal">"Ne mogu prepoznati tekst."</string>
   <string name="ocr_abnormal_pic_format">"Ne mogu prepoznati tekst. Ovaj format slike nije podržan."</string>
   <string name="ocr_abnormal_pic_too_large">"Ne mogu prepoznati tekst. Ova je slika prevelika."</string>
@@ -1415,6 +1419,9 @@ za fotografije"</string>
   <string name="operation_remove_rubbish">Vrati</string>
   <string name="operation_remove_secret">Ukloni iz privatnog albuma</string>
   <string name="operation_rename">Preimenuj</string>
+  <string name="operation_replace_album_cover">Promijeni naslovnicu albuma</string>
+  <string name="operation_replace_album_cover_custom_mode">Vlastito</string>
+  <string name="operation_replace_album_cover_default_mode">Zadano</string>
   <string name="operation_save">Spremi</string>
   <string name="operation_send">Pošalji</string>
   <string name="operation_set_contact_photo">Postavi za sliku kontakta</string>
@@ -1511,7 +1518,7 @@ za fotografije"</string>
   <string name="photo_editor_miui_beauty_no_face">"Ne mogu otkriti lice"</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">Odustani</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Preuzimanje %s zahtjeva oko 4 MB mob. podataka. Preuzeti sada?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg" formatted="false">Preuzimanje %s zahtjeva oko %2$d MB mob. podataka. Preuzeti sada?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Upozorenje mob. podataka</string>
   <string name="photo_editor_navigator_export">Spremi</string>
   <string name="photo_editor_navigator_module_download_failed">"Ne mogu preuzeti %s"</string>
@@ -1560,6 +1567,7 @@ za fotografije"</string>
   <string name="photo_movie_module_finish">Isječci uspješno učitani</string>
   <string name="photo_movie_module_loading">Učitavanje isječaka…</string>
   <string name="photo_movie_select_image_range">Isječci mogu sadržavati 3-20 fotografija</string>
+  <string name="photo_page_lock_screen">Zaklj. orijentaciju</string>
   <string name="photo_page_rotate_screen">Zakreni zaslon</string>
   <string name="photo_page_save_uri_image_fail">"Ne mogu spremiti u Galeriju"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija spremljena u Galeriju</string>
@@ -1607,8 +1615,8 @@ za fotografije"</string>
   <string name="picker_image_will_download">"%d odabranih fotografija nije na uređaju. One će se preuzeti."</string>
   <string name="picker_mobile_data_video">"Ne mogu preuzeti videozapise putem mob. podataka, preskočeno %d."</string>
   <string name="picker_no_network_message">Povežite se na mrežu za preuzimanje</string>
-  <string name="picker_origin_need_download">"%1$d odabranih fotografija nije na uređaju (%2$dMB). Preuzeti ih putem mob. podataka?"</string>
-  <string name="picker_origin_request_progress_fail">"Ne mogu preuzeti izvornu sliku zbog mrežne pogreške."</string>
+  <string name="picker_origin_need_download">"%1$d odabranih fotografija nije na uređaju (%2$d MB). Preuzeti ih putem mob. podataka?"</string>
+  <string name="picker_origin_request_progress_fail">"Ne mogu preuzeti originalnu sliku zbog mrežne pogreške."</string>
   <string name="picker_origin_request_progress_message">Priprema izvornih datoteka (%1$d/%2$d)…</string>
   <string name="picker_title_format">Odaberite %1$d do %2$d fotografija</string>
   <string name="picker_title_format_video">Odaberite videozapise (%1$d)</string>
@@ -1737,7 +1745,7 @@ za fotografije"</string>
   <string name="reset">Resetiraj</string>
   <string name="retry_to_create_album">Pokušaj ponovno</string>
   <string name="retry_to_request_qr_code">Pokušaj ponovno</string>
-  <string name="return_from_clear_local_file_fragment_toast">Optimizirane fotografije su pohranjene na uređaju. Dodirnite fotografiju da preuzmete izvornu stavku sa Mi Clouda.</string>
+  <string name="return_from_clear_local_file_fragment_toast">Optimizirane fotografije su pohranjene na uređaju. Dodirnite fotografiju da preuzmete originalnu stavku sa Mi Clouda.</string>
   <string name="revert">Vrati</string>
   <string name="rise">Toplo</string>
   <string name="risk_control_deleted_date">dd/MM</string>
@@ -1938,11 +1946,11 @@ za fotografije"</string>
   <string name="slim_cost_time_minute">preostalo %d min</string>
   <string name="slim_cost_time_minute_and_second">preostalo %1$d min %2$d sek</string>
   <string name="slim_cost_time_second">preostalo %d sek</string>
-  <string name="slim_description_dialog_detail">Smanjite veličinu lokalnih fotografija. Izvorne datoteke pohranjuju se u Mi Cloudu.</string>
+  <string name="slim_description_dialog_detail">Stisnite fotografije i ostavite manje visokokvalitetne kopije na ovom uređaju čuvajući originalne datoteke u Mi Cloudu.</string>
   <string name="slim_description_dialog_ok">Razumijem</string>
-  <string name="slim_description_dialog_slim_after">"Poslije:  167KB"</string>
-  <string name="slim_description_dialog_slim_before">"Prije:  3.07MB"</string>
-  <string name="slim_dialog_message">Optimizirane HD fotografije bit će preuzete s Mi Clouda umjesto izvornih datoteka.</string>
+  <string name="slim_description_dialog_slim_after">"Poslije: 167KB"</string>
+  <string name="slim_description_dialog_slim_before">"Prije: %2$d MB"</string>
+  <string name="slim_dialog_message">Optimizirane HD fotografije bit će preuzete s Mi Clouda umjesto originalnih datoteka.</string>
   <string name="slim_exit_dialog_positive">Zaustavi</string>
   <string name="slim_exit_dialog_title">Zaustavi optimiziranje</string>
   <string name="slim_introduce">Zamijenite fotografije i videozapise pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti više od 90% prostora za pohranu (potreban Mi Račun).</string>
@@ -1953,7 +1961,7 @@ za fotografije"</string>
   <string name="slim_running">Optimiziranje…</string>
   <string name="slim_space">oslobodi</string>
   <string name="slim_stop">Zaustavi optimiziranje</string>
-  <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi izvornu datoteku" u izborniku te stavke.</string>
+  <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na WLAN. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi originalnu datoteku" u izborniku te stavke.</string>
   <string name="slim_tip_title">Optimiziranje pohrane</string>
   <string name="slimming">Optimiziranje…</string>
   <string name="solar_term_autumn_begins">Početak jeseni</string>
@@ -2118,6 +2126,7 @@ za fotografije"</string>
   <string name="to_enable_sync_dialog_title">Sinkr.</string>
   <string name="toast_invalid_char">"Nazivi datoteka ne mogu sadržavati \"%s\""</string>
   <string name="toast_invalid_prefix">"Nazivi ne mogu počinjati s \".\" or \"_\""</string>
+  <string name="toast_orientation_locked">Orijentacija zaključana uspješno</string>
   <string name="toast_rename_exit">Ova datoteka već postoji</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
@@ -2173,7 +2182,7 @@ za fotografije"</string>
   <string name="video_compress_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="video_compress_encode_video">Sažimanje videozapisa…</string>
   <string name="video_compress_lib_download">Preuzmite dodatak za sažimanje videozapisa</string>
-  <string name="video_compress_lib_download_without_wifi">"Čini se da vaš uređaj nije povezan s WLAN-om. Možete koristiti mobilne podatke za preuzimanje dodatka za sažimanje videozapisa (1.3MB)."</string>
+  <string name="video_compress_lib_download_without_wifi">"Čini se da vaš uređaj nije povezan s WLAN-om. Možete koristiti mobilne podatke za preuzimanje dodatka za sažimanje videozapisa (%2$d MB)."</string>
   <string name="video_compress_not_with_8k">"Ne mogu se sažeti 8K videozapisi"</string>
   <string name="video_compress_not_with_format">"Sažimanje videozapisa nije podržana za ovaj format"</string>
   <string name="video_compress_not_with_low_quality">Trenutna razlucija je najniža</string>
@@ -2450,6 +2459,7 @@ za fotografije"</string>
   <string name="vlog_video_selected_not_support">"Ne mogu urediti odabrani videozapis"</string>
   <string name="vlog_video_trans_code_cons">Obrada datoteke visoke razlučivosti…</string>
   <string name="voice_assistant">Unos glasom</string>
+  <string name="watch_all_photo">Galerija</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
