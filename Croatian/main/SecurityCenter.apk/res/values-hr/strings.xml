@@ -3300,6 +3300,13 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_special_permission_summary">Nadgledajte kako aplikacije koriste osjetljiva dopuštenja</string>
   <string name="privacy_special_permission_title">Posebna dopuštenja</string>
   <string name="privacy_summary">Saznajte o zaštiti privatnosti u MIUI 12</string>
+  <string name="privacy_thumbnail_blur_category_financial">Financije</string>
+  <string name="privacy_thumbnail_blur_category_other">Ostalo</string>
+  <string name="privacy_thumbnail_blur_category_photography">Fotografija &amp; videozapisi</string>
+  <string name="privacy_thumbnail_blur_category_tip">Preporučeno</string>
+  <string name="privacy_thumbnail_blur_search_empty">"Ne mogu pronaći rezultate"</string>
+  <string name="privacy_thumbnail_blur_title">Zamuti preglede</string>
+  <string name="privacy_thumbnail_blur_top_tip">Odaberite aplikacije za koje će pregledi biti zamućeni u Nedavno</string>
   <string name="privacy_type_open">Uključeno</string>
   <string name="privacy_using_camera">Korištenje kamere</string>
   <string name="privacy_using_location">Pristup lokaciji</string>

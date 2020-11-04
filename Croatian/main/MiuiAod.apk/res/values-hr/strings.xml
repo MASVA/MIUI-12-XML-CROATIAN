@@ -28,7 +28,10 @@
   <string name="afternoon">PM</string>
   <string name="align_type">Poravnaj</string>
   <string name="always_style">Uvijek</string>
+  <string name="always_style_symmary">Troši više energije</string>
   <string name="am">AM</string>
+  <string name="ambient_display_screen_title">Always-on zaslon</string>
+  <string name="ambient_display_screen_title_sp">Ambijentalni zaslon</string>
   <string name="animation_clock_panel">Valno biranje</string>
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
   <string name="aod_component">Prikazane stavke</string>
@@ -206,6 +209,8 @@ dd.MM"</string>
   <string name="notification_anim_star">Starlight</string>
   <string name="notification_nothing">Ništa</string>
   <string name="notification_screen_on">Osvijetli zaslon</string>
+  <string name="off">Isključeno</string>
+  <string name="on">Uključeno</string>
   <string name="only_show_bg_description">"Ne prikazuj vrijeme, datum i druge stavke"</string>
   <string name="only_show_bg_title">Prikaži samo pozadinu</string>
   <string name="open_aod_mode">Uključi</string>
@@ -225,6 +230,7 @@ dd.MM"</string>
   <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
   <string name="scheduled_mode_msg">Aktivno razdoblje: %s</string>
   <string name="scheduled_style">Raspored</string>
+  <string name="scheduled_style_summary">Postavite prilagođeno vrijeme</string>
   <string name="scope_des">Svaki kaleidoskop sadrži 5 različitih uzoraka koji će se redom prikazivati svaki put kada se zaslon upali.</string>
   <string name="scope_icon">Stil kaleidoskopa</string>
   <string name="scope_time">Kaleidoskop</string>
@@ -259,7 +265,8 @@ dd.MM"</string>
 dd/MM"</string>
   <string name="super_wallpaper_date_inter">"EEEE
 dd/MM"</string>
-  <string name="temporary_style">Za 10 sekundi nakon što dodirnete</string>
+  <string name="temporary_style">Za 10 sekundi nakon dodira</string>
+  <string name="temporary_style_summary">Preporučeno</string>
   <string name="text_color">Boja teksta</string>
   <string name="text_length_exceed_limit_alert">*Tekst koji ste unijeli je predugačak</string>
   <string name="text_size">Veličina teksta</string>

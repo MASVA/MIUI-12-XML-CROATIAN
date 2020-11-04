@@ -160,7 +160,8 @@
   <string name="miui_upgrading_notification_title">Sustav se učitava, neke značajke mogu biti ograničene</string>
   <string name="miui_warning_button_cancel">Odustani</string>
   <string name="miui_warning_button_ok">U redu</string>
-  <string name="miui_warning_tip_info">Došlo je do pogreške %1$s. Zatvoriti aplikaciju?</string>
+  <string name="miui_warning_tip_info">Došlo je do pogreške u %1$s. Zatvoriti aplikaciju?</string>
+  <string name="notification_channel_hotspot">Hotspot obavijest</string>
   <string name="onehour">30 minuta</string>
   <string name="open_close_tip_action">Razumijem</string>
   <string name="open_close_tip_content">Da zatvorite plutajući prozor, pritisnite i držite radnu traku, a zatim povucite prema gore</string>
