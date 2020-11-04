@@ -3094,7 +3094,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dual_wifi_switching_prompt">Prebacivanje između mreža</string>
   <string name="dual_wifi_switching_summary">Dvopojasno povećanje WLAN brzine treba koristiti dva različita WLAN pojasa. Ako se povežete s drugom glavnom mrežom, pomoćna veza će se izgubiti.</string>
   <string name="dump_log">Dobivanje zapisa vezane uz probleme</string>
-  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje 284 zapisa u alfa i beta verzijama MIUI. Koristite je s oprezom.
+  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje 284 zapisa u beta verzijama MIUI. Koristite je s oprezom.
 Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="dump_log_title">O ovoj značajci</string>
   <string name="duration_less_than_one_minute">Manje od jedne minute</string>
@@ -3874,6 +3874,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gxzw_dialog_ok">Shvaćam</string>
   <string name="gxzw_dialog_title">O senzoru otiska prsta unutar zaslona</string>
   <string name="gxzw_enroll_again">Podignite prst i ponovno pritisnite skener otiska prsta</string>
+  <string name="gxzw_lowlight_open_summary">Smanji svjetlinu ikone otiska prsta u uvjetima slabog osvjetljenja. Uređaj će se možda sporije otključati kad je ova značajka uključena.</string>
+  <string name="gxzw_lowlight_open_title">Otključavanje otiska prsta pri slabom osvjetljenju</string>
   <string name="gxzw_quick_open_enable_summary">Upotrijebite prečace gesta za otvaranje aplikacija ili značajke aplikacija kada je uređaj otključan</string>
   <string name="gxzw_quick_open_enable_title">Prečaci otiska prsta</string>
   <string name="gxzw_quick_open_fast_summary">Prijeđite prstom da biste koristili prečac nakon što se uređaj otključa.</string>

@@ -214,12 +214,19 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="de_mix_mode_icon_desc">Ikone aplikacija</string>
   <string name="de_mix_mode_lockscreen">Zaklj. zaslon</string>
   <string name="de_mix_mode_lockscreen_desc">Slika pozadine i sat</string>
+  <string name="de_mix_mode_superwallpaper">Super slike pozadine</string>
+  <string name="de_mix_mode_superwallpaper_with_aod_desc">Always-on display, Lock screen, and Home screen</string>
+  <string name="de_mix_mode_superwallpaper_without_aod_desc">Lock screen and Home screen</string>
   <string name="de_more_info">Više</string>
   <string name="de_more_resource">Povucite da biste vidjeli više</string>
   <string name="de_no_more_recommendations">"To je sve za sada."</string>
   <string name="de_preview">Pregled</string>
   <string name="de_redeem">Redeem</string>
   <string name="de_resource_author">Autor (%1$s)</string>
+  <string name="de_super_wp_apply_wallpaper_button_text">Postavi</string>
+  <string name="de_super_wp_dialog_tip_content">Super slike pozadine primjenjuju se istovremeno na Zaklj. zaslon, Početni zaslon i druge srodne elemente.</string>
+  <string name="de_super_wp_dialog_tip_title">Super slike pozadine</string>
+  <string name="de_super_wp_land_position_default_des">Točka slijetanja</string>
   <string name="de_to_comment">Komentiraj</string>
   <string name="de_try">Isprobajte</string>
   <string name="deleting">Brisanje…</string>
@@ -447,11 +454,11 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
 <string name="miui_lock_screen_date_two_lines">"EEEE
 dd.MM"</string>
-     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+   <string name="miui_lock_screen_date_two_lines_12">"EEEE
 dd.MM"</string>
-     <string name="miui_lock_screen_large_date">"EEE
+   <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
-     <string name="miui_lock_screen_large_date_12">"EEE
+   <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>  
   <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
@@ -623,6 +630,20 @@ dd.MM"</string>
   <string name="ota_recovery_theme_notity_content">"Možete se vratiti na temu koju ste koristili prije ažuriranja"</string>
   <string name="ota_recovery_theme_notity_title">Vraćanje vaše teme</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
+  <string name="personalize_alarm_ringtone_title">Alarms</string>
+  <string name="personalize_aod_title">AOD</string>
+  <string name="personalize_call_ringtone_title">Melodije zvona</string>
+  <string name="personalize_charge_style_title">Punjenje</string>
+  <string name="personalize_default_font">Zadani font</string>
+  <string name="personalize_fingerprint_style_title">Otisak prsta</string>
+  <string name="personalize_icon_title">Ikone</string>
+  <string name="personalize_notify_ringtone_title">Obavijesti</string>
+  <string name="personalize_notify_style_title">Efekti</string>
+  <string name="personalize_theme_entrance">Teme</string>
+  <string name="personalize_third_font">Fontovi</string>
+  <string name="personalize_title">Slike pozadine i personalizacija</string>
+  <string name="personalize_wallpaper_sub_title">Super slike pozadine i istaknute slike</string>
+  <string name="personalize_wallpaper_title">Slike pozadine</string>
   <string name="playing_ringtone">Reproducira se</string>
   <string name="pm">PM</string>
   <string name="pref_privacy_policy">Pravila o Privatnosti</string>

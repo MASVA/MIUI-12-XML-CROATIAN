@@ -184,6 +184,74 @@
 		<item quantity="few">%1$d</item>
         <item quantity="many">%1$d</item>
     </plurals>
+	    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Preostalo je još %s kalorija za potrošiti dok ne postignete cilj</item>
+        <item quantity="one">Preostala je još %s kalorija za potrošiti dok ne postignete cilj</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Preostalo je još %s kilometara dok ne postignete cilj</item>
+        <item quantity="one">Preostao je još %s kilometar dok ne postignete cilj</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Preostalo je još %s min. dok ne postignete cilj</item>
+        <item quantity="one">Preostala je još %s minuta dok ne postignete cilj</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"Vozili ste bicikl %s kilometara"</item>
+        <item quantity="one">"Vozili ste bicikl %s kilometar"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Trčali ste %s kilometara"</item>
+        <item quantity="one">"Trčali ste %s kilometar"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Potrošili ste %s Cal"</item>
+        <item quantity="one">"Potrošili ste %s Cal"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Hodali ste %s kilometara"</item>
+        <item quantity="one">"Hodali ste %s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Već ste potrošili %1$s Cal"</item>
+        <item quantity="one">"Već ste potrošili %1$s Cal"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">%1$d min.</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Vozili ste bicikli već %1$s kilometara"</item>
+        <item quantity="one">"Vozili ste bicikl već %1$s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Protrčali ste već %1$s kilometara"</item>
+        <item quantity="one">"Protrčali ste već %1$s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Prohodali ste već %1$s kilometers"</item>
+        <item quantity="one">"Prohodali ste već %1$s kilometer"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Prohodali ste već %1$s koraka"</item>
+        <item quantity="one">"Prohodali ste već %1$s korak"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">koraka</item>
+        <item quantity="one">korak</item>
+    </plurals>
 	<plurals name="step_num_format">
         <item quantity="other">%1$d koraci</item>
         <item quantity="one">%1$d korak</item>

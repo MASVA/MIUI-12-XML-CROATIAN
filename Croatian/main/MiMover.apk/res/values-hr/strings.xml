@@ -17,6 +17,7 @@
   <string name="am">AM</string>
   <string name="antispam">Lista blokiranih</string>
   <string name="app_name">Mi Mover</string>
+  <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
   <string name="audio">Audiozapis</string>
   <string name="audio_video_document">Audio, videozapisi i dokumenti</string>
   <string name="back">Natrag</string>
@@ -44,7 +45,7 @@
   <string name="ble_waiting_verify_code">Provjera koda…</string>
   <string name="ble_waiting_verify_code_error">Kôd koji ste unijeli nije ispravan</string>
   <string name="btn_got_it">Shvaćam</string>
-  <string name="btn_install_complete">Instalirano. Započnite prijenos.</string>
+  <string name="btn_install_complete">Instalirano.</string>
   <string name="btn_mi_cloud_install_complete">"Instalirao sam aplikaciju"</string>
   <string name="btn_restore_data_to_device_complete">Prijavite se</string>
   <string name="btn_sync_data_to_mi_cloud_complete">Uspješno sinkronizirano</string>
@@ -173,8 +174,8 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="error_permissions">Ova aplikacija nema potrebno dopuštenje za pristup Kalendaru. Idite na Postavke i provjerite dopuštenja za nastavak.</string>
   <string name="error_title">"Ne mogu sinkronizirati"</string>
   <string name="error_unauthorized">Sinkronizacija je isključena zbog prevelikog broja pokušaja prijave.</string>
+  <string name="fail_list_tips">"Sljedeće stavke nije moguće prenijeti na novi uređaj."</string>
   <string name="failed_description">Nije uspjelo</string>
- <string name="fmt_chinese_date"/>
   <string name="fmt_date_long_month">MMMM</string>
   <string name="fmt_date_long_month_day">d MMMM</string>
   <string name="fmt_date_long_year_month">MMMM, yyyy</string>
@@ -193,8 +194,10 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="get_known_tip">Pokušajte ponovo</string>
-  <string name="group_info_scanning">Izračunavanje…</string>
-  <string name="guest_hint_connect_new_device">Dodirnite novi uređaj za povezivanje.</string>
+  <string name="group_info_scanning">Izračun…</string>
+  <string name="guest_connect_dialog_ensure_text">Poveži</string>
+  <string name="guest_connect_dialog_fail_message">"Ne mogu se povezati. Pokušajte ponovo."</string>
+  <string name="guest_hint_connect_new_device">Odaberite novi uređaj</string>
   <string name="guest_install_app_hint_ensure">Preuzmi</string>
   <string name="guest_install_app_hint_summary">Nova verzija Mi Mover-a nije kompatibilna sa Mi Mi Mover-om instaliranom na ovom uređaju. Preuzmite i instalirajte novu verziju.</string>
   <string name="guest_install_app_hint_title">Preuzmite novu verziju Mi Mover-a</string>
@@ -222,6 +225,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="host_dialog_known_button">Razumijem</string>
   <string name="host_dialog_message">Provjerite je li najnovija inačica Mi Mover-a instalirana na drugom uređaju; Inače se dva uređaja možda neće moći povezati.</string>
   <string name="host_dialog_title">Ne mogu se povezati duže vrijeme</string>
+  <string name="host_install_hint">"Mi Mover nije instaliran?"</string>
   <string name="host_manual_connect_link_text">Ako traje predugo da vaš stari uređaj pronađe hotspot, pokušajte se ručno povezati.</string>
   <string name="host_memory_insuff_cancel">Odustani</string>
   <string name="host_memory_insuff_confirm">Odaberite ponovo</string>
@@ -295,6 +299,10 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="main_chooser_item_android_others">Uvezi s drugog Android uređaja</string>
   <string name="main_chooser_item_ios">Uvezi s iPhone uređaja</string>
   <string name="main_chooser_title">Odaberite stari uređaj</string>
+  <string name="main_receiver_summary">Dodirnite za primanje stavki</string>
+  <string name="main_receiver_title">Novi</string>
+  <string name="main_sender_summary">Dodirnite za slanje stavki</string>
+  <string name="main_sender_title">Stari</string>
   <string name="manual_connection_content1">1. Dodirnite \"Povežite se s novim uređajem ručno\" na starom uređaju.</string>
   <string name="manual_connection_content2">2. Odaberite sljedeći WLAN hotspot.</string>
   <string name="manual_connection_content3">3. Unesite ovu zaporku na stari uređaj za povezivanje.</string>
@@ -494,7 +502,11 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="qq_app_receive_fail">"Ne mogu primiti QQ"</string>
   <string name="qq_app_send_fail">"Ne mogu poslati QQ"</string>
   <string name="qq_data_external">QQ SD podatci kartice</string>
-  <string name="quit_now">Prekid</string>
+  <string name="quit_now">Prekini</string>
+  <string name="receiver_finish_detail_button">Prikaži izvješće</string>
+  <string name="receiver_finish_detail_fail">"Ne mogu poslati"</string>
+  <string name="receiver_finish_detail_success">Poslane stavke</string>
+  <string name="receiver_finish_title">"Sve je postavljeno!"</string>
   <string name="reconnect">Poveži ponovno</string>
   <string name="recovery_progress">Vraćanje stavki (%1$d/%2$d)…</string>
   <string name="recreate_soft_ap_tips">Dodirnite donji gumb da biste pokušali ponovo.</string>
@@ -525,15 +537,19 @@ Oslobodite barem %s."</string>
   <string name="scanner_send_dialog_btn">Razumijem</string>
   <string name="scanner_send_dialog_message">Ne isključujte WLAN ili prebacivajte između mreža tijekom prijenosa.</string>
   <string name="scanner_size_selected">Odabrano: %s</string>
-  <string name="scanner_time_remained">Procijenjeno vrijeme: %s</string>
+  <string name="scanner_time_remained">Procijenjeno vrijeme prijenosa: %s</string>
   <string name="scanner_title_tip">Odaberite stavke za prijenos</string>
   <string name="scanner_wechat_overwrite_hit">Zbog postavljenih ograničenja aplikacija trećih strana, povijest razgovora i ostali podaci aplikacija na Vašem novom uređaju bit će zamijenjeni onima s Vašeg starog uređaja tek kada je prijenos završen.</string>
   <string name="search_action_mode_cancel">Odustani</string>
   <string name="search_input_description">Traži</string>
   <string name="search_mode_button_back_description">Natrag</string>
-  <string name="searching_for_new_device">Tražim uređaje u blizini…</string>
+  <string name="searching_for_new_device">Traženje novog uređaja…</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_all_description">Odaberi sve</string>
+  <string name="select_android_summary">Huawei, OPPO, vivo, i više</string>
+  <string name="select_android_title">Android</string>
+  <string name="select_apple_summary">iPhone</string>
+  <string name="select_apple_title">Apple</string>
   <string name="select_empty">Prvo odaberite stavke za uvoz</string>
   <string name="select_item">Odaberi stavke</string>
   <string name="select_item_calendar">Kalendar</string>
@@ -543,12 +559,17 @@ Oslobodite barem %s."</string>
   <string name="select_item_photos">Fotografije</string>
   <string name="select_item_remind">Podsjetnici</string>
   <string name="select_item_summary_loading">Samo trenutak…</string>
+  <string name="select_mi_summary">Xiaomi i Redmi</string>
+  <string name="select_mi_title">Xiaomi</string>
+  <string name="select_old_device_title">Odaberite model starog uređaja</string>
   <string name="selected">Odabrano</string>
   <string name="send">Pošalji</string>
   <string name="send_sms_for_sync_notice">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="send_sms_for_sync_title">Upozorenje uporabe podataka</string>
   <string name="send_verification_code_fail">"Nije moguće poslati kod potvrde"</string>
   <string name="send_verification_code_fail_tips">Provjerite da ste prijavljeni s ovim računom na Vašem Apple uređaju, u protivnom nećete biti u mogućnosti primiti kod.</string>
+  <string name="sender_finish_bottom_tips">"Prije brisanja podataka na ovom uređaju provjerite jeste li napravili sigurnosnu kopiju svih važnih stavki."</string>
+  <string name="sender_finish_title">Uspješno preneseno</string>
   <string name="settings_phone">Postavke telefona</string>
   <string name="settings_powerkeeper">Podaci brojača koraka</string>
   <string name="settings_sms">Postavke Poruka</string>
@@ -569,7 +590,7 @@ Oslobodite barem %s."</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_underline">Preskoči ovaj korak</string>
   <string name="sms">SMS</string>
-  <string name="soft_ap_create_failed">Nije moguće izraditi hotspot</string>
+  <string name="soft_ap_create_failed">"Ne mogu izraditi hotspot. Pokušajte ponovo."</string>
   <string name="soft_ap_creating">Izrada hotspota…</string>
   <string name="succ_description">Dovršeno</string>
   <string name="sunday">Nedjelja</string>
@@ -613,18 +634,18 @@ Preuzmite i instalirajte Mi Mover."</string>
 2. Preuzmite i instalirajte Mi Mover.
 3. Dodirnite donju tipku kada je instaliranje završeno."</string>
   <string name="trans_intro_title">Često postavljena pitanja</string>
-  <string name="trans_main_activity_tutor_first">"Premjestite svoje fotografije, kontakte, poruke, povijest poziva, 
-audio, video, dokumente i aplikacije na novi uređaj"</string>
+  <string name="trans_main_activity_tutor_first">"Prenesite stavke na novi uređaj"</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_receive_time_remained">Pimljeno: %1$s | Preostalo: %2$s</string>
   <string name="trans_send_time_remained">Poslano: %1$s | Preostalo: %2$s</string>
-  <string name="trans_show_qr_code_label">Povežite se na stari uređaj</string>
+  <string name="trans_show_qr_code_label">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">Vrijeme: %s</string>
   <string name="transfer_bottom_tip">"Tijekom prijenosa nećete moći koristiti WLAN ili Bluetooth. Ne napuštajte ovu stranicu."</string>
   <string name="transfer_connect_fail_summary">Dodirnite tipku u nastavku da biste se ručno povezali</string>
   <string name="transfer_finish_bottom_tip">Ako više nećete koristiti svoj stari uređaj, možete izbrisati sve podatke na njemu nakon što potvrdite da su sve važne stavke uspješno prenesene.</string>
+  <string name="transfer_finish_summary">Preneseno %1$s (%2$s)</string>
   <string name="transfer_lose_connect_summary">Čini se da je veza prekinuta. Ponovno se povežite.</string>
   <string name="transfer_lose_connect_title">Veza je prekinuta</string>
   <string name="transfer_multi_connect_summary">Vaš prijenos bio je prekinut iz sigurnosnih razloga. Možete dodirnuti \"Ponovno se poveži\" kako biste svejedno nastavili.</string>
