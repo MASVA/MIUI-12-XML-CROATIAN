@@ -214,7 +214,8 @@
   <string name="grayscale">Sive nijanse</string>
   <string name="history">Povijest</string>
   <string name="history_empty">Nema stavki</string>
-  <string name="hold_down">Press and hold to take the word</string>
+  <string name="hold_down">Pritisnite i držite da biste prenijeli riječ</string>
+  <string name="identify_the_results">Prepoznaj rezultate</string>
   <string name="if_open_result">Pokažite rezultat skeniranja po povratku u aplikaciju</string>
   <string name="if_to_open_milogo_scanning">Prepoznaj Xiaomi logo</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
@@ -329,6 +330,7 @@
   <string name="pdf_is_being_saved">Spremanje PDF-a…</string>
   <string name="pdf_name">Naziv datoteke</string>
   <string name="pdf_save_sucess">Uspješno spremljeno</string>
+  <string name="picture_is_being_saved">Slika se sprema</string>
   <string name="permission_denied_albums">Dopustite pristup fotografijama, medijima i datotekama na svom uređaju za pregled albuma</string>
   <string name="permission_denied_images">Dopustite pristup fotografijama, medijima i datotekama na svom uređaju za pregled slika</string>
   <string name="phone">Telefon:</string>

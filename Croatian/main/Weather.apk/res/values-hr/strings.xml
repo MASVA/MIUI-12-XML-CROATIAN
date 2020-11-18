@@ -459,7 +459,6 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="weather_aqi_full_air_quality_forcast">Potpuna prognoza kvalitete zraka</string>
   <string name="weather_introduce">Uvijek s vama, bila kiša ili sunce.</string>
   <string name="weather_main_aqi_desc">AQI</string>
-  <string name="weather_main_aqi_desc">Kvaliteta zraka</string>
   <string name="weather_main_minute_hour">%d-satna vjerojatnost kiše</string>
   <string name="weather_main_speak_tips">Kliknite da biste vrijeme emitirali glasom</string>
   <string name="weather_more_air_quality">Više o kvaliteti zraka</string>

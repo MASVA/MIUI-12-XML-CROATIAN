@@ -146,6 +146,12 @@
   <string name="accessibility_portrait_depth_effect_panel_on">Portret panel</string>
   <string name="accessibility_preview_button">Pregled</string>
   <string name="accessibility_preview_effect_button">Efekat pregleda</string>
+  <string name="accessibility_preview_expand">Približi</string>
+  <string name="accessibility_preview_front">Pregled prednje kamere</string>
+  <string name="accessibility_preview_select_tip">Položaj %1$d</string>
+  <string name="accessibility_preview_selected">Odabrano</string>
+  <string name="accessibility_preview_shrink">Udalji</string>
+  <string name="accessibility_preview_zoom_tip">%1$.1fX zoom pregled</string>
   <string name="accessibility_pro_video_simple_mode">Lite način</string>
   <string name="accessibility_protrait">Portret</string>
   <string name="accessibility_pull_down_to_open_camera">Povuci prema dolje za otvaranje kamere</string>
@@ -1598,6 +1604,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="timbre_robot">Robot</string>
   <string name="time">Vrijeme</string>
   <string name="time_lapse_error">"Ne mogu koristiti ovu veličinu videozapisa za time-lapse snimanja"</string>
+  <string name="time_stamp_date_format">dd/MM/yyyy</string>
   <string name="timer_burst">Vremenski brzo okidanje</string>
   <string name="timer_burst_manu_param_interval">Interval bez ekspozicije</string>
   <string name="timer_burst_param_interval">Interval</string>

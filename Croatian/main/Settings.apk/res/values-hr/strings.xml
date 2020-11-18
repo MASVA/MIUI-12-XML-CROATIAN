@@ -2749,7 +2749,6 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="device_oaid_desc">Umjesto vašeg stvarnog identifikatora, MIUI će aplikacijama treće strane pružiti virtualni ID (PAID). Sprečava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
   <string name="device_oaid_title">Virtualni ID</string>
   <string name="device_opcust_version">Prilagođena verzija</string>
-  <string name="device_opcust_version">Verzija operatora</string>
   <string name="device_picker">Odaberite Bluetooth uređaj</string>
   <string name="device_rear_camera">Stražnja kamera</string>
   <string name="device_reset_title">Vrati uređaj na zadano</string>
