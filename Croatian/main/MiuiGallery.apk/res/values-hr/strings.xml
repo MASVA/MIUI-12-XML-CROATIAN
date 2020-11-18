@@ -396,7 +396,7 @@
   <string name="clear_dup_success">Uspješno izbrisano</string>
   <string name="clear_dup_tip">Brisanje duplih fotografija</string>
   <string name="clear_local_photo_direction">Ako izbrišete fotografije ili videozapise s uređaja, oni će i dalje biti dostupni u Mi Cloudu</string>
-  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_download_gif">Dodirnite za preuzimanje GIF-a</string>
   <string name="click_top_right">Dodirnite ovu ikonu</string>
   <string name="clip_menu_back">Natrag</string>
@@ -2161,9 +2161,10 @@ za fotografije"</string>
   <string name="unrecognized_model">Nepoznati uređaj</string>
   <string name="unsupport_raw">"%s ne radi sa RAW slikama"</string>
   <string name="unsupport_raw_and_video">"%s ne radi sa s videozapisima i RAW slikama"</string>
+  <string name="unsupport_type">"Ova vrsta datoteke nije podržana"</string>
   <string name="unsupport_video">"%s ne radi s videozapisima"</string>
   <string name="unsupported_media_downloading_tip_common">"Gledanje originalnih slika u ovom formatu nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>
-  <string name="unsupported_media_downloading_tip_format">"Viewing original %s images isn't supported in this version of Android. Preuzeti svejedno?"</string>
+  <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>
   <string name="unsupported_media_scanned_tip">"Otkriveno je %1$s slika. Gledanje %2$s slika nije podržano u ovoj verziji Androida."</string>
   <string name="unsupported_media_view_tip">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida"</string>
   <string name="user_agree">Slažem se</string>

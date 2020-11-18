@@ -72,6 +72,18 @@
         <item quantity="other">Izbrisati kontakte: %1$d?</item>
         <item quantity="one">Izbrisati %1$d kontakt?</item>
     </plurals>
+	<plurals name="bh_day">
+        <item quantity="other">" dana"</item>
+        <item quantity="one">" dan"</item>
+    </plurals>
+    <plurals name="bh_hour">
+        <item quantity="other">" sati"</item>
+        <item quantity="one">" sat"</item>
+    </plurals>
+    <plurals name="bh_minute">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Izbriši kontakte: %1$d</item>
         <item quantity="one">Izbriši %1$d kontakt</item>
@@ -79,6 +91,14 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Zvonilo %1$d puta</item>
         <item quantity="one">Zvonilo %1$d put</item>
+    </plurals>
+	<plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d brojeva telefona</item>
+        <item quantity="one">%d broj telefona</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">Izbrisati brojeve telefona: %d?</item>
+        <item quantity="one">Izbrisati %d broj telefona?</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Kontakti/fotografije nisu sinkronizirani: %1$d"</item>
@@ -200,6 +220,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">Pronađeno: %d</item>
         <item quantity="one">Pronađeno: %d</item>
+    </plurals>
+	<plurals name="search_group_contacts_result">
+        <item quantity="other">%s rezultata</item>
+        <item quantity="one">%s rezultat</item>
     </plurals>
 	<plurals name="select_all_exceed_plurals">
         <item quantity="other">"Odaberite ne više od %1$d, ne možete odabrati sve"</item>

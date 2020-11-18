@@ -311,6 +311,50 @@
         <item quantity="other">Pronađeno %d problema baterije</item>
         <item quantity="one">Pronađen %d problem baterije</item>
     </plurals>
+	    <plurals name="privacy_risk_app_count">
+        <item quantity="other">%d aplikacija</item>
+        <item quantity="one">%d aplikacija</item>
+    </plurals>
+    <plurals name="privacy_risk_dangerous_permissions_tip">
+        <item quantity="other">odobreno %d dopuštenja visokog rizika</item>
+        <item quantity="one">odobreno %d dopuštenje visokog rizika</item>
+    </plurals>
+    <plurals name="privacy_risk_install_app_tip">
+        <item quantity="other">pronađeno %d rizičnih aplikacija</item>
+        <item quantity="one">pronađeno %d rizična aplikacija</item>
+    </plurals>
+    <plurals name="privacy_risk_photo_location_tip">
+        <item quantity="other">otkriveno %d rizika otkrivanja podataka o lokaciji</item>
+        <item quantity="one">%d otkriven rizik otkrivanja podataka o lokaciji</item>
+    </plurals>
+    <plurals name="privacy_risk_result_item_error">
+        <item quantity="other">%d rizika otkriveno</item>
+        <item quantity="one">%d rizik otkriven</item>
+    </plurals>
+    <plurals name="privacy_risk_result_msg">
+        <item quantity="other">pronađeno %d mogućih rizika</item>
+        <item quantity="one">pronađen %d mogući rizik</item>
+    </plurals>
+    <plurals name="privacy_risk_result_photo_sensitive_msg">
+        <item quantity="other">%d fotografija mogu sadržavati privatne ili osjetljive informacije</item>
+        <item quantity="one">%d fotografija može sadržavati privatne ili osjetljive informacije</item>
+    </plurals>
+    <plurals name="privacy_risk_result_protection_tip">
+        <item quantity="other">%d značajki koje štite vašu privatnost su isključene</item>
+        <item quantity="one">%d značajka koja štiti vašu privatnost je isključena</item>
+    </plurals>
+    <plurals name="privacy_risk_sensitive_permissions_tip">
+        <item quantity="other">odobreno %d osjetljivih dopuštenja</item>
+        <item quantity="one">odobreno %d osjetljivo dopuštenje</item>
+    </plurals>
+    <plurals name="privacy_risk_uninstall_btn">
+        <item quantity="other">Deinstaliraj %d aplik.</item>
+        <item quantity="one">Deinstaliraj %d aplik.</item>
+    </plurals>
+    <plurals name="privacy_risk_work_encryption_msg">
+        <item quantity="other">%d stavki treba dodatnu zaštitu</item>
+        <item quantity="one">%d stavka treba dodatnu zaštitu</item>
+    </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d problema baterije</item>
         <item quantity="one">%d problem baterije</item>
@@ -608,6 +652,18 @@
 	    <item quantity="other">"Pričekajte %d sek. i pokušajte ponovno. "</item>
         <item quantity="one">"Pričekajte %d sek. i pokušajte ponovno. "</item>
 	 </plurals>
+	 <plurals name="image_protect_del_tips">
+        <item quantity="other">Izbrisati slike trajno: %d?</item>
+        <item quantity="one">Izbrisati trajno %d sliku?</item>
+    </plurals>
+    <plurals name="image_protect_exit_del_tips">
+        <item quantity="other">%d slika će trajno biti izbrisano nakon što napustite ovu stranicu. Svejedno izbrisati?</item>
+        <item quantity="one">%d slika će trajno biti izbrisana nakon što napustite ovu stranicu. Svejedno izbrisati?</item>
+    </plurals>
+    <plurals name="image_protect_try_del_tips">
+        <item quantity="other">Izbriši slike: %d</item>
+        <item quantity="one">Izbriši %d sliku</item>
+    </plurals>
 	 <plurals name="install_game_count_title">
          <item quantity="other">Broj dodanih igara: %d</item>
          <item quantity="one">Dodana %d igra</item>
@@ -651,6 +707,10 @@
 	 <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">%d ikona aplikacija nisu skrivene</item>
         <item quantity="one">%d ikona aplikacije nije skrivena</item>
+    </plurals>
+	<plurals name="pp_times">
+        <item quantity="other">%s puta</item>
+        <item quantity="one">%s put</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">"%d ikona aplikacija su skrivene"</item>

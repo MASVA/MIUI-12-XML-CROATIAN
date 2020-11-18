@@ -122,7 +122,7 @@
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">"Ne, izraditi ću račun"</string>
-  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close_feedback_main">Sakrij</string>
   <string name="collect_diagnosis_log">Prikupi zapise dijagnoze</string>
   <string name="confirm_activate_email">Potvrđeno</string>

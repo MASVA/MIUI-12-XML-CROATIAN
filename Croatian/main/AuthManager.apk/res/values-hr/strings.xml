@@ -67,6 +67,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Odbij&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Once">Odbij jednom</string>
   <string name="HIPS_Action_Reject_This">Ograniči jednom</string>
+  <string name="HIPS_Perm_Access_Gallery">Pristup Galeriji</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Omogućite ovoj aplikaciji pristup stavkama u vašoj Galeriji</string>
   <string name="HIPS_Group_DataPrivacy">Privatnost</string>
   <string name="HIPS_Group_Expense">Sigurnost</string>
   <string name="HIPS_Group_Internet">Pristup Internetu</string>
@@ -271,7 +273,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_service_foreground">Usluga u prednjem planu</string>
   <string name="HIPS_Perm_service_foreground_Desc">Usluga u prednjem planu</string>
   <string name="HIPS_Perm_show_when_locked">Prikaži na Zaklj. zaslonu</string>
-  <string name="HIPS_Perm_show_when_locked_Desc">biti prikazan na Zaklj. zaslonu</string>
+  <string name="HIPS_Perm_show_when_locked_Desc">biti prikazano na Zaklj. zaslonu</string>
+  <string name="HIPS_Perm_tencentControl">Pristup porukama u aplikacijama društvenih medija</string>
+  <string name="HIPS_Perm_tencentControl_Desc">Omogućite ovoj aplikaciji pristup vašim WeChat i QQ porukama</string>
   <string name="HIPS_Perm_use_sip">Video usluge</string>
   <string name="HIPS_Perm_use_sip_Desc">koristiti Session Initiation Protocol za streaming videozapisa</string>
   <string name="HIPS_Perm_write_clipboard">Spremiti stavke u međuspremnik</string>
@@ -290,6 +294,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6">Odobriti %1$s ROOT pristup?</string>
   <string name="HIPS_SecurityPrompt_Reject">Odbij (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Clear_This">Ograniči i očisti međuspremnik (%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject_Never">"Odbij i ne pitaj ponovno (%d)"</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Odbij jednom (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_This">Ograniči jednom (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Zapamti pojedinosti.</string>
@@ -340,6 +345,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="grant_dialog_button_deny_and_dont_ask_again">Dopusti i ne pitaj ponovno</string>
   <string name="grant_dialog_button_deny_background">Samo tijekom korištenja aplikacije</string>
   <string name="grant_dialog_button_deny_background_and_dont_ask_again">Uvijek, ali samo tijekom korištenja aplikacije</string>
+  <string name="grant_dialog_storage_category_title">Ova aplikacija zahtijeva dopuštenja za pristup Galeriji i porukama u aplikacijama društvenih medija</string>
+  <string name="grant_dialog_storage_gallery_title">Galerija</string>
+  <string name="grant_dialog_storage_sociality_title">Poruke u aplikacijama društvenih medija</string>
   <string name="location_settings">Postavke lokacije</string>
   <string name="location_warning">%1$s je davatelj usluga lociranja za ovaj uređaj. Pristup lokaciji može se mijenjati iz postavki lokacija.</string>
   <string name="never_ask_again">"Ne pitaj ponovo nakon ograničavanja"</string>
@@ -403,6 +411,11 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="screen_overlay_button">Otvori postavke</string>
   <string name="screen_overlay_message">Za promjenu postavke dopuštenja, prvo morate isključiti Prekrivanje zaslona u Postavke &gt; Aplikacije</string>
   <string name="screen_overlay_title">Otkriveno Prekrivanje zaslona</string>
+  <string name="storage_policy_notify_both_title">"%1$s nije dopušten pristup Galeriji i porukama u aplikacijama društvenih medija"</string>
+  <string name="storage_policy_notify_content">Dodirnite za podešavanje dopuštenja</string>
+  <string name="storage_policy_notify_gallery_title">"%1$s nije dopušten pristup Galeriji"</string>
+  <string name="storage_policy_notify_sociality_title">"%1$s nije dopušten pristup porukama u aplikacijama društvenih medija"</string>
+  <string name="storage_policy_notify_title">"%1$s nije dopušten pristup Galeriji"</string>
   <string name="virtual_reject_notice_content">U aplikaciju je poslan prazan odgovor kako bi zaštitili vaše osobne podatke</string>
   <string name="virtual_reject_notice_title_calendar">%1$s pokušava pristupiti kalendaru</string>
   <string name="virtual_reject_notice_title_calllog">%1$s pokušava pristupiti povijesti poziva</string>

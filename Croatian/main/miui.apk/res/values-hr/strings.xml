@@ -20,7 +20,7 @@
   <string name="cancel_description">Odustani</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
   <string name="check_phone_io_error">"Ne mogu se povezati na mrežu".</string>
-  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
   <string name="click_to_restore">Vratite stavke sustava da biste mogli normalno koristiti MIUI nakon vraćanja na tvorničke postavke. Dodirnite za početak.</string>
   <string name="com_android_email">E-pošta</string>

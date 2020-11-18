@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="app_name">Screen Combo</string>
   <string name="cancel">Odustani</string>
-  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="copy">Kopiraj</string>
   <string name="default_boss_terminal_name">Mi Notebook</string>
   <string name="display_max_screen_count_toast">U ovoj verziji možete otvoriti do 2 prozora</string>

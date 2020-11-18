@@ -3,7 +3,7 @@
   <string name="account_other">Ostalo</string>
   <string name="actionbar_button_up_description">Natrag</string>  
   <string name="casting_tips">Emitiranje…</string>
-  <string name="clearable_edittext_clear_description">Očisti</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close_hotspot_hint">Isključite prijenosni hotspot prije emitiranja</string>
   <string name="close_slave_wifi_hint">Odspojite se sa pomoćne WLAN mreže prije emitiranja</string>
   <string name="close_slave_wifi_hint_china">Odspojite se sa pomoćne WLAN mreže prije emitiranja</string>
