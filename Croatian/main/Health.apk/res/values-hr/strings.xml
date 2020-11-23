@@ -550,6 +550,7 @@ Pričekajte dok krug ne postane crven."</string>
   <string name="hr_detect_state_regular_desc">Svakodnevni radni i studijski status</string>
   <string name="hr_detect_state_reseting">Stanje odmaranja</string>
   <string name="hr_detect_state_reseting_desc">Upravo se probudio ili potpuno opušten</string>
+  <string name="hr_disable_in_split_screen">"Puls nije moguće izmjeriti tijekom korištenja podijeljenog zaslona"</string>
   <string name="hr_disturb_detect">Otkrivanje prekinuto</string>
   <string name="hr_finger_permission_desc">Da biste izmjerili otkucaje srca, ova značajka treba pristupiti skeneru otiska prsta kako bi mogla otkriti promjene u vašem protoku krvi. Dopustiti?</string>
   <string name="hr_fp_area">Područje otiska prsta</string>

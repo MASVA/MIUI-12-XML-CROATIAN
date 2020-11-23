@@ -248,6 +248,8 @@
   <string name="trash_box">Nedavno izbrisane stavke</string>
   <string name="trash_box_close_tip">Zatvori upit</string>
   <string name="trash_box_delete_all">Trajno izbrisati sve stavke iz smeća?</string>
+  <string name="uninstall_warning_content">"Snimač je sistemska aplikacija. Nećete moći snimati i transkribirati zvuk i glasovne pozive nakon što ga deinstalirate."</string>
+  <string name="uninstall_warning_title">Želite li deinstalirati Snimač?</string>
   <string name="usage_description">Prepisivanje zvuka i sinkroniziranje stavki s Mi Cloudom</string>
   <string name="user_feedback">Povratna inf.</string>
   <string name="v7_preference_off">ISKLJUČENO</string>

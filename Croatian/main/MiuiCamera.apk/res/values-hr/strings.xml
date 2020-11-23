@@ -1394,8 +1394,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_grp_capture_settings">Postavke snimanja</string>
   <string name="pref_grp_picture_settings">Postavke slike</string>
   <string name="pref_grp_restore_settings">Obnovi postavke</string>
-  <string name="pref_hdr10_video_mode_description">Podržava 4K i 8K videozapise kodirane sa H.265</string>
+  <string name="pref_hdr10_video_mode_description">Automatski optimizira boje i kontrast za 4K i 8K videozapise. Optimizirani videozapisi mogu se reproducirati samo na uređajima kompatibilnim s HDR10</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
+  <string name="pref_hdr10plus_video_mode_description">Optimizira boje i kontrast za 4K i 8K videozapise. Ova značajka radi samo na uređajima kompatibilnim s HDR10 +.</string>
   <string name="pref_hdr_indicator_entry_auto">Autom.</string>
   <string name="pref_hdr_indicator_entry_off">Isklj.</string>
   <string name="pref_hdr_indicator_entry_on">Uklj.</string>
