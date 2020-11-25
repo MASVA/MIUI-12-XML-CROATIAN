@@ -170,6 +170,10 @@
   <string name="dlg_title_use_privacy_password">Upotrijebi Zaporku zaštite privatnosti</string>
   <string name="dlg_unhide_message">Otkrivanje…</string>
   <string name="dlg_unmark_privacy_message">Otkrivanje…</string>
+  <string name="dlg_update_cancel">Ne sad</string>
+  <string name="dlg_update_checkbox_title">Zanemari ovu verziju</string>
+  <string name="dlg_update_title">Dostupno je ažuriranje</string>
+  <string name="dlg_update_update_now">Ažuriraj</string>
   <string name="done">Gotovo</string>
   <string name="doodle_action_enter_immersion_mode">Prebaci na interaktivni način</string>
   <string name="doodle_action_exit_immersion_mode">Interaktivni način je isključen</string>
@@ -184,14 +188,17 @@
   <string name="doodle_feature">Doodles</string>
   <string name="doodle_palette">Paleta boja</string>
   <string name="doodle_save_progress_text">Spremanje…</string>
+  <string name="doodle_saving">Spremanje</string>
   <string name="doodle_setting_show_grid_background">Doodle crte rešetke</string>
   <string name="doodle_setting_show_grid_background_desc">Prikažite crte mreže doodle</string>
   <string name="doodle_text_click_input_text">Dodirnite za unos teksta</string>
+  <string name="doodle_tool_background">Promijeni pozadinu</string>
   <string name="doodle_tool_eraser">Brisač</string>
   <string name="doodle_tool_eraser_element_mode">Brisač poteza</string>
   <string name="doodle_tool_eraser_pixel_mode">Brisač Pixela</string>
   <string name="doodle_tool_picture">Dodaj sliku</string>
   <string name="doodle_tool_text">Dodaj tekst</string>
+  <string name="doodle_tool_text_dialog_hint">Unesite tekst</string>
   <string name="doodle_tool_text_hint">Dodirnite za unos teksta</string>
   <string name="edit_header_done_description">Gotovo</string>
   <string name="edit_header_lock_description">Skrivena bilješka</string>
@@ -364,11 +371,14 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_gesture_guide_step1">Pritisnite i držite plus za stvaranje glasovne bilješke</string>
   <string name="note_gesture_guide_step2">Pritisnite i držite bilješku, a zatim je prevucite preko druge bilješke da biste stvorili mapu</string>
   <string name="note_gesture_guide_step3">Pritisnite i držite bilješku, a zatim je prevucite preko mape da biste je premjestili</string>
+  <string name="note_invalid_mindnote_hint">"Mape uma nisu dostupne u ovoj verziji. Ažurirajte aplikaciju da biste koristili ovu značajku."</string>
   <string name="note_link_email">"Nova e-pošta"</string>
   <string name="note_link_other">Otvori pomoću aplikacije Karte</string>
   <string name="note_link_select">"Odaberi tekst"</string>
   <string name="note_link_tel">"Nazovi"</string>
   <string name="note_link_web">Pregledaj u Pregledniku</string>
+  <string name="note_mindnote_entrance_hint">"Počnite tipkati "</string>
+  <string name="note_mindnote_entrance_icon_text">Stvorite umnu mapu</string>
   <string name="note_sort_way">Odaberite kako želite poredati vaše bilješke</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
@@ -645,5 +655,8 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="widget_content_loading">Samo trenutak…</string>
   <string name="widget_havenot_content">"Dodirnite za stvaranje bilješke. Držite widget za promjenu veličine."</string>
   <string name="widget_under_privacy_mode">"Ne mogu pregledavati bilješke u Gost načinu rada"</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="yesterday">Jučer</string>
 </resources>

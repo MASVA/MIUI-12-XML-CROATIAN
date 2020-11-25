@@ -126,6 +126,7 @@
     </plurals>
 	<plurals name="people">
          <item quantity="other">Preuzelo %1$d osoba</item>
+		 <item quantity="one">Preuzela %1$d osoba</item>
      </plurals>
 	 <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dana preostalo</item>
@@ -193,11 +194,7 @@
      </plurals>
     <plurals name="view_num">
          <item quantity="other">%1$d pregleda</item>
-         <item quantity="zero">%1$d pregleda</item>
          <item quantity="one">%1$d pregled</item>
-         <item quantity="two">%1$d pregleda</item>
-         <item quantity="few">%1$d pregleda</item>
-         <item quantity="many">%1$d pregleda</item>
     </plurals>
 	<plurals name="scan_result_description">
        <item quantity="other">Pronađeno rizika plaćanja: %d</item>
@@ -529,7 +526,6 @@
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">Pronađeno %d aplik.</item>
-        <item quantity="zero">Pronađeno 0 aplik.</item>
         <item quantity="one">Pronađena %d aplik.</item>
     </plurals>
 	<plurals name="search_app_count_txt_na">
@@ -784,4 +780,60 @@
         <item quantity="other">Prijavljeno %d dana za redom</item>
         <item quantity="one">Prijavljeno %d puta</item>
 	</plurals>
+	     <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problema s korištenjem baterije</item>
+        <item quantity="one">%d problem s korištenjem baterije</item>
+     </plurals>
+     <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimizirajte %d stavki za uštedu baterije</item>
+        <item quantity="one">Optimizirajte %d stavku za uštedu baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_charge_number">
+        <item quantity="other">puta</item>
+        <item quantity="one">put</item>
+     </plurals>
+     <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problema s korištenjem baterije</item>
+        <item quantity="one">%d problem s korištenjem baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+     </plurals>
+     <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Potpuno napunite uređaj najmanje %2$d puta da dobijete precizne statističke podatke</item>
+        <item quantity="one">Potpuno napunite uređaj najmanje %2$d put da dobijete precizne statističke podatke</item>
+     </plurals>
+     <plurals name="power_center_battery_problem">
+        <item quantity="other">Popravljeno %d problema s korištenjem baterije</item>
+        <item quantity="one">Popravljen %d problem s korištenjem baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_problem_result">
+        <item quantity="other">Možete popraviti %d problema s korištenjem baterije</item>
+        <item quantity="one">Možete popraviti %d problem s korištenjem baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d stavki može biti optimizirano"</item>
+        <item quantity="one">" %d stavka može biti optimizirana"</item>
+     </plurals>
+     <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimizirajte %d stavki za uštedu baterije</item>
+        <item quantity="one">Optimizirajte %d stavku za uštedu baterije</item>
+     </plurals>
+     <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">Možete optimizirati %d stavki za uštedu baterije</item>
+        <item quantity="one">Možete optimizirati %d stavku za uštedu baterije</item>
+     </plurals>
+     <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d aplikacija se često automatski pokreće</item>
+        <item quantity="one">%d aplikacija se često automatski pokreće</item>
+     </plurals>
+     <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d aplikacija prazni bateriju</item>
+        <item quantity="one">%d aplikacija prazni bateriju</item>
+     </plurals>
 </resources>

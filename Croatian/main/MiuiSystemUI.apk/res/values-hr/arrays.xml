@@ -327,4 +327,8 @@
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
     </string-array>
+	     <string-array name="miui_notification_aggregate_category">
+        <item>Ovo je preporučeni sadržaj.</item>
+        <item>Ovo je oglas.</item>
+     </string-array>
 </resources>

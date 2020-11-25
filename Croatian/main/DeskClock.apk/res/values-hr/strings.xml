@@ -174,6 +174,9 @@
   <string name="force_touch_add_alarm">Dodaj alarm</string>
   <string name="force_touch_enter_stopwatch">Štoperica</string>
   <string name="force_touch_enter_timer">Timer</string>
+  <string name="friday">Petak</string>
+  <string name="friday_short">Pet</string>
+  <string name="friday_shortest">P</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Natrag</string>
   <string name="guide_newfunc_content">Sada možete filtrirati formate datoteka, preurediti raspored stavki i prelaziti s različitih prikaza na dodir prečacem.</string>
@@ -300,7 +303,7 @@
   <string name="module_white_noise_download_wifi">Sat treba preuzeti datoteke zvuka za timere buke okoline. Preuzeti sada?</string>
   <string name="module_white_noise_download_wifi_privacy">Da biste preuzeli datoteke zvuka za timere buke okoline i pružanje prilagođenih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; Slažete li se?</string>
   <string name="monday_to_friday">Pon - Pet</string>
-   <string name="monday">Ponedjeljak</string>
+  <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
   <string name="month_april">Travanj</string>
@@ -339,6 +342,7 @@
   <string name="month_september">Rujan</string>
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
+  <string name="more">Više</string>
   <string name="more_alert_setting">Dodatne postavke alarma</string>
   <string name="more_setting">Više postavki</string>
   <string name="more_settings">Postavke</string>
@@ -457,7 +461,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="stat_repeat_weekdays">Pon-Pet</string>
   <string name="stat_repeat_weekends">Vikend</string>
   <string name="stopwatch_lap_empty_text">Nema krugova</string>
-  <string name="stopwatch_reset_notification">Štoperica je resetirana</string>
+  <string name="stopwatch_reset_notification">Štoperica je poništena</string>
   <string name="stopwatch_running_notification">Štoperica</string>
   <string name="stopwatch_title">Štoperica</string>
   <string name="system_permission_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom da biste pristupili svim njenim značajkama.</string>
@@ -476,6 +480,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_picker_label_second">S</string>
+  <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_settings">Postavke sata</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dodirnite zaslon da zaustavite alarm</string>
@@ -524,6 +529,9 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="thursday_shortest">Č</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="tuesday">Utorak</string>
+  <string name="tuesday_short">Uto</string>
+  <string name="tuesday_shortest">U</string>
   <string name="turn_off_a_repeat_alarm">Isključi ponavljajući alarm</string>
   <string name="turn_off_this_repeat_alarm">Isključi ovaj ponavljajući alarm</string>
   <string name="upcoming_alarm">Nadolazeći alarm: %s</string>

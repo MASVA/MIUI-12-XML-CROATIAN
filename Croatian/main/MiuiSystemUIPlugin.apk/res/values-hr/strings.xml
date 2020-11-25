@@ -97,6 +97,7 @@
   <string name="miui_guide_dialog_message">Medijski zvukovi (glazba, videozapisi itd.) I dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
   <string name="miui_ringer_count_down">Odbrojavanje</string>
   <string name="miui_ringer_count_down_time">%s</string>
+  <string name="miui_ringer_total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="miui_ringer_standard">Bešumno</string>
   <string name="miui_ringer_standard_description">Utišaj melodije zvona za dolazne pozive i obavijesti</string>
   <string name="miui_ringer_status_close">Isljučeno</string>

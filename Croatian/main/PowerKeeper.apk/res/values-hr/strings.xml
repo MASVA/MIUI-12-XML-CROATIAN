@@ -29,6 +29,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_extreme_mode">Ekstremna Štednja baterije</string>
   <string name="about_hide_mode">O Štednji baterije</string>
+  <string name="accessibility_service_description">Pametna ušteda energije</string>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Postavke</string>
   <string name="action_title_optimize">Optimiziraj sada</string>

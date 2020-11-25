@@ -163,4 +163,51 @@
         <item quantity="other">%1$d uređaja povezano</item>
         <item quantity="one">%1$d uređaj povezan</item>
     </plurals>
+     <plurals name="abc_slice_duration_days">
+        <item quantity="other">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
+     </plurals>
+     <plurals name="abc_slice_duration_min">
+        <item quantity="other">prije %d min.</item>
+        <item quantity="one">prije %d min.</item>
+     </plurals>
+     <plurals name="abc_slice_duration_years">
+        <item quantity="other">prije %d godina</item>
+        <item quantity="one">prije %d godine</item>
+     </plurals>
+     <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s kontrola dodano.</item>
+        <item quantity="one">%s kontrola dodana.</item>
+     </plurals>
+     <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="other">Unesite SIM%1$d PIN, imate još %2$d preostalih pokušaja.</item>
+        <item quantity="one">Unesite SIM%1$d PIN, imate još %2$d preostalih pokušaja prije zaključavanja SIM kartice.</item>
+     </plurals>
+     <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Netočan  SIM%1$d PIN kôd, imate još %2$d preostalih pokušaja.</item>
+        <item quantity="one">Netočan  SIM%1$d PIN kôd, imate još %2$d preostalih pokušaja prije zaključavanja SIM kartice.</item>
+     </plurals>
+     <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Pokušajte ponovno za %d sek.</item>
+        <item quantity="one">Pokušajte ponovno za 1 sekundu.</item>
+     </plurals>
+     <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d uređaja</item>
+        <item quantity="one">%d uređaj</item>
+     </plurals>
+     <plurals name="snoozeHourOptions">
+        <item quantity="other">%d hr</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="two">%d hr</item>
+        <item quantity="few">%d hr</item>
+     </plurals>
+     <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutu</item>
+        <item quantity="few">%d minuta</item>
+     </plurals>
+     <plurals name="user_limit_reached_message">
+        <item quantity="other">Možete dodati do %d korisnika.</item>
+        <item quantity="one">Može se dodati samo jedan korisnik.</item>
+     </plurals>
 </resources>

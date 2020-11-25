@@ -16,7 +16,7 @@
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
   <string name="abc_menu_shift_shortcut_label">Shift+</string>
-  <string name="abc_menu_space_shortcut_label">svemir</string>
+  <string name="abc_menu_space_shortcut_label">razmaknica</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
   <string name="abc_search_hint">Pretražite…</string>
@@ -30,10 +30,14 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="afternoon">PM</string>
+  <string name="aggregate_title">Pravila za grupiranje obavijesti</string>
   <string name="app_name">Obavijesti</string>
   <string name="back">Natrag</string>
   <string name="cancel">Odustani</string>
   <string name="category_other">Ostalo</string>
+  <string name="channel_keyguard_hide_content">Prikaži sve obavijesti, ali sakrij sadržaj</string>
+  <string name="channel_keyguard_show_content">Prikaži sve obavijesti i njihov sadržaj</string>
+  <string name="channel_keyguard_show_nothing">"Uopće ne prikazuj obavijesti"</string>
   <string name="channel_name_aggregation">Grupirane obavijesti</string>
   <string name="channel_name_notification">Obavijesti aplikacije</string>
   <string name="channel_name_recovered">Vraćene obavijesti</string>
@@ -65,6 +69,10 @@
   <string name="feedback_tip_title">Povratne informacije o kategorijama obavijesti</string>
   <string name="float_notifications">Plutajuće obavijesti</string>
   <string name="float_notifications_short">Plutajuće</string>
+  <string name="fold_importance_default">Preporučeno</string>
+  <string name="fold_importance_important">Važno</string>
+  <string name="fold_importance_unimportant">Nevažno</string>
+  <string name="fold_title">Rules for grouped notifications</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -192,6 +200,9 @@
   <string name="notification_display_style">Stil obavijesti</string>
   <string name="notification_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
   <string name="notification_fold_title">Mapa obavijesti</string>
+  <string name="notification_keyguard_hide_content">Prikaži obavijesti, ali sakrij sadržaj</string>
+  <string name="notification_keyguard_show_content">Prikaži obavijesti i sadržaj</string>
+  <string name="notification_keyguard_show_nothing">"Ne prikazuj obavijesti Zaklj. zaslona"</string>
   <string name="notification_manager">Obavijesti aplikacije</string>
   <string name="notification_style_android">Android</string>
   <string name="notification_style_miui">MIUI</string>
@@ -199,6 +210,7 @@
   <string name="on">Uključi</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="rule_keyguard_display">Format</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -229,6 +241,8 @@
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tip_feedback_thanks">Hvala na povratnim informacijama!</string>
+  <string name="title_aggregate_default">Grupiraj obavijesti</string>
+  <string name="title_aggregate_home">"Ne grupiraj obavijesti"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>
