@@ -482,6 +482,8 @@ skenirane dokumente automatski"</string>
   <string name="download_by_browser">Preuzmi sa Preglednikom</string>
   <string name="download_qq">Preuzmi QQ</string>
   <string name="download_wechat">Preuzmi WeChat</string>
+  <string name="download_in_progress">Preuzimanje…</string>
+  <string name="download_title">Upozorenje upotrebe podataka</string>
   <string name="dual_camera_lens_covered_toast">Objektiv je pokriven.</string>
   <string name="dual_camera_low_constract_toast">Izgleda da je kontrast prenizak.</string>
   <string name="dual_camera_lowlight_toast">"Izgleda kao da je premračno."</string>

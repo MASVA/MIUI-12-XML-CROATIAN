@@ -1880,6 +1880,7 @@ za fotografije"</string>
   <string name="select_item_face">"Na fotog. je %s ?"</string>
   <string name="select_origin_tip">Izvorna datoteka (%s)</string>
   <string name="send_file_beautify_failed">"Ne mogu podijeliti"</string>
+  <string name="send_files_by">Podijelite datoteke putem</string>
   <string name="send_files_to">Pošalji stavke na</string>
   <string name="send_heif_summary">Pretvorite HEIF slike u JPEG kako biste osigurali kompatibilnost</string>
   <string name="send_heif_title">Pretvorite HEIF u JPEG prije slanja</string>
@@ -2115,7 +2116,7 @@ za fotografije"</string>
   <string name="tip_file_path">Putanja: </string>
   <string name="tip_not_download">Nije na uređaju. Biti će preuzeto s Mi Clouda tijekom reprodukcije.</string>
   <string name="tip_screenshot_package_info">Naziv aplik.: </string>
-  <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="title_set_name">Unesite ime</string>
   <string name="title_tip">Savjet</string>
   <string name="title_warn">Upozorenje</string>

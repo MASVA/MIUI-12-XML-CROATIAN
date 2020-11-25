@@ -691,7 +691,9 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="user_name_null">Apple ID ne može biti prazan</string>
   <string name="video">Videozapis</string>
   <string name="view_password_description">Prikaži zaporku</string>
-  <string name="waiting_restore_desktop">Prijenos aplikacija trećih strana za vraćanje izgleda Poč. zaslona…</string>
+  <string name="waiting_restore_aod">Vraćanje Always-on zaslona…</string>
+  <string name="waiting_restore_desktop">Vraćanje rasporeda Poč. zaslona…</string>
+  <string name="waiting_restore_desktop">Prijenos aplikacija trećih strana za vraćanje rasporeda Poč. zaslona…</string>
   <string name="web_sso_login_fail">Morate se prijaviti ponovno</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="website">Web stranica</string>

@@ -197,6 +197,9 @@
   <string name="reboot_info_shutdown_alarm">Alarm za isključivanje: %s</string>
   <string name="reset">Resetiraj</string>
   <string name="restart">Ponovno pokreni</string>
+  <string name="safe_media_volume_warning">"Povećati glasnoću iznad preporučene razine?
+
+Dugotrajno slušanje velike glasnoće može oštetiti vaš sluh."</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
