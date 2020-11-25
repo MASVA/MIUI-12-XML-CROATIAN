@@ -181,7 +181,6 @@
         <item>Naziv aplikacije</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Nijedan</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -233,6 +232,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interno pohranjivanje na uređaj</item>
@@ -556,6 +556,9 @@
         <item>IPSec VPN s unaprijed dijeljenim ključevima i Xauth autentifikacijom</item>
         <item>IPSec VPN s certifikatima i Xauth autentifikacijom</item>
         <item>IPSec VPN s certifikatima i hibridnom autentifikacijom</item>
+		<item>IKEv2/IPSec VPN s unaprijed dijeljenim ključevima i Xauth autentifikacijom</item>
+        <item>IKEv2/IPSec VPN s unaprijed dijeljenim ključevima</item>
+        <item>IKEv2/IPSec VPN s certifikatima</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Nije povezano</item>

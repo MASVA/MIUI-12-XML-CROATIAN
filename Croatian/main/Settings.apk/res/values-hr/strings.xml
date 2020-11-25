@@ -940,7 +940,6 @@ Posljednji put pokrenuto %2$s"</string>
   <string name="aware_footer_when_airplane_on">Senzor kretnji nije dostupan jer je uključen način rada u zrakoplovu</string>
   <string name="aware_footer_when_batterysaver_on">Senzor kretnji nije dostupan jer je uključena štednja baterije</string>
   <string name="aware_info_button_description">Više postavki</string>
-  <string name="aware_settings_description"/>
   <string name="aware_lock_title">Automatski zaključaj kad nikoga nema u blizini</string>
   <string name="aware_settings_description">Uređaj koristi senzor za detektiranje udaljenosti i kretanja u blizini telefona</string>
   <string name="aware_settings_disabled_info_dialog_content">Značajke senzora kretnji kao što su Brze geste, prikazivanje zaslona kad ste u blizini i provjera telefona dohvaćanjem nisu podržane u ovoj zemlji</string>
