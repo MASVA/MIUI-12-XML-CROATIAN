@@ -96,6 +96,9 @@ dd.MM"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="font_thickness">Podebljani font</string>
+  <string name="friday">Petak</string>
+  <string name="friday_short">Pet</string>
+  <string name="friday_shortest">P</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="large_time">Veliki sat</string>

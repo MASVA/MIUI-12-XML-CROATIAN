@@ -229,6 +229,11 @@
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
   <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
   <string name="download_action">Preuzmi</string>
+  <string name="dialog_work_profile_button_1">Dalje</string>
+  <string name="dialog_work_profile_button_2">Shvaćam</string>
+  <string name="dialog_work_profile_content_1">Osobni podaci odvojeni su &amp; skriveni od radnih aplikacija</string>
+  <string name="dialog_work_profile_content_2">Radne aplikacije &amp; podaci vidljivi su vašem IT administratoru</string>
+  <string name="dialog_work_profile_title">Radni profil</string>
   <string name="drawer_background">Pozadina</string>
   <string name="drawer_background_dark">Tamna</string>
   <string name="drawer_background_light">Svijetla</string>
@@ -506,6 +511,9 @@
   <string name="recents_exit_multi_window_mode">Izlaz</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Ne mogu koristiti podijeljeni zaslon tijekom emitiranja"</string>
   <string name="recents_incompatible_app_message">"Ova aplikacija ne podržava Podijeljeni zaslon"</string>
+  <string name="recents_layout_style">Rasporedite stavke u Nedavno</string>
+  <string name="recents_layout_style_horizontal">Vodoravno</string>
+  <string name="recents_layout_style_vertical">Okomito</string>
   <string name="recents_smallwindow_text">Otpusti za dodavanje</string>
   <string name="recents_task_screening">Emitiranje</string>
   <string name="recents_title_app_manager">Upravljanje aplikacijama</string>

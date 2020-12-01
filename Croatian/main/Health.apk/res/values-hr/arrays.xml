@@ -5,10 +5,11 @@
         <item>Vježba</item>
     </string-array>
     <string-array name="SportTabTitle">
-        <item>Trčanje na otvorenom</item>
-        <item>Šetanje</item>
-        <item>Jahanje na otvorenom</item>
-        <item>Ergometar</item>
+        <item>Trčanje</item>
+        <item>Hodanje</item>
+        <item>Vožnja biciklom</item>
+        <item>Traka za trčanje</item>
+		<item>Trening</item>
     </string-array>
     <string-array name="arr_prompt_label">
         <item>Razumno</item>

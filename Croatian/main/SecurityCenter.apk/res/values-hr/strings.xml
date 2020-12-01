@@ -1616,7 +1616,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_advance_settings_edge_gear4">Veliki</string>
   <string name="gb_advance_settings_edge_suppression">Područje otporno na dodir</string>
   <string name="gb_advance_settings_edge_suppression_summary">Smanjite osjetljivost dodira u blizini rubova kako biste izbjegli pokretanje dodirnih kontrola. Držite uređaj za označena područja kako bi zvučnici ostali nepokriveni.</string>
-  <string name="gb_advance_settings_finger_up">Osjetljivost do ponovljeni dodiri</string>
+  <string name="gb_advance_settings_finger_up">Osjetljivost na ponovljene dodiri</string>
   <string name="gb_advance_settings_follow_up">Osjetljivost dodira</string>
   <string name="gb_advance_settings_reset">Vrati na tvorničke postavke</string>
   <string name="gb_advance_settings_reset_dialog_content">Vratiti na tvorničke postavke?</string>
@@ -3047,7 +3047,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_optimize_manual_catagory_title">Ručno</string>
   <string name="power_optimize_open_hide_mode">Uključi Štednju baterije</string>
   <string name="power_optimize_power_save_extend_time">Dodaj %s</string>
-  <string name="power_optimize_power_save_summary">Prebacite se na tamni način i primijenite višestruke optimizacije sustava koje ograničavaju pozadinsku aktivnost i štede bateriju</string>
+  <string name="power_optimize_power_save_summary">Uključite Štednju baterije da biste primijenili više optimizacija sustava koje ograničavaju pozadinsku aktivnost</string>
   <string name="power_optimize_prohibit_app_autostart">"Nemojte dopustiti da se aplikacije automatski pokreću"</string>
   <string name="power_optimize_reduce_fps">Smanjite brzinu osvježavanja zaslona na %d Hz</string>
   <string name="power_optimize_reduce_fps_summary">Niža stopa osvježavanja djeluje za većinu scenarija</string>

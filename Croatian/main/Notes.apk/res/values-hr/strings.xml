@@ -382,6 +382,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_sort_way">Odaberite kako želite poredati vaše bilješke</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
+  <string name="notes_description_content">"Bilješke su sistemska aplikacija. Nećete moći koristiti ovu aplikaciju nakon što je deinstalirate."</string>
+  <string name="notes_description_title">Deinstalirati Bilješke?</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
   <string name="notification_content_add_todo_from_other_app">Dodali ste novi zadatak. Dodirnite za prikaz.</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>

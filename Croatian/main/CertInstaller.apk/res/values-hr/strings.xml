@@ -47,6 +47,7 @@
   <string name="redirect_ca_certificate_close_button">Zatvori</string>
   <string name="redirect_ca_certificate_message">CA certifikati mogu ugroziti vašu privatnost i potrebno ih je instalirati u Postavkama</string>
   <string name="redirect_ca_certificate_title">Instaliranje CA certifikata nije uspjelo</string>
+  <string name="redirect_ca_certificate_with_app_info_message">Ovaj certifikat od %1$s mora biti instaliran u Postavkama. Instalirajte CA certifikate samo od organizacija kojima vjerujete.</string>
   <string name="sdcard_not_present">"USB pohrana nije dostupna."</string>
   <string name="select_certificate_usage_title">Odaberite vrstu certifikata</string>
   <string name="storage_error">"Ne mogu spremiti certifikat. Dodirnite U redu za ponovni pokušaj."</string>

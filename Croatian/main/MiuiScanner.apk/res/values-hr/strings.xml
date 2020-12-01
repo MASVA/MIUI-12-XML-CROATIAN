@@ -126,8 +126,9 @@
   <string name="document_default_location">"Datoteke će biti spremljene u "</string>
   <string name="document_effect">Efekti</string>
   <string name="document_grayscale">Crnobijelo</string>
-  <string name="document_grayscale_tip_msg">Pretvaranje u crnobijelo…</string>
+  <string name="document_grayscale_tip_msg">Pretvaranje u crno-bijelo…</string>
   <string name="document_list">Dokumenti</string>
+  <string name="document_list_is_empty">Popis dokumenata je prazan</string>
   <string name="document_list_rename">Unesite naziv</string>
   <string name="document_ocr">OCR</string>
   <string name="document_ocr_fail">"Ne mogu prepoznati tekst. Rotirajte sliku tako da odgovara orijentaciji vašeg uređaja i pokušajte ponovo."</string>
@@ -136,6 +137,7 @@
   <string name="document_ocr_result_title">Fotografija dokumenta</string>
   <string name="document_ocr_tip_msg">Čitanje…</string>
   <string name="document_ocr_vendor_info">OCR powered by Kingsoft</string>
+  <string name="document_read">Pročitaj</string>
   <string name="document_recognize_fail_tip">"Ne mogu pročitati dokumenat"</string>
   <string name="document_recognize_null_tip">Ne mogu prepoznati dokumenat</string>
   <string name="document_recognize_text">Prepoznaj tekst</string>
@@ -143,6 +145,8 @@
   <string name="document_rectify_tip_msg">Podešavanje…</string>
   <string name="document_region">Prilagodi</string>
   <string name="document_rename">Preimenuj</string>
+  <string name="document_rnext_step">Dalje</string>
+  <string name="document_save_text">Spremi</string>
   <string name="document_save_succeed_tip">Dokument spremljen u %1$s</string>
   <string name="document_spin">Rotiraj</string>
   <string name="document_take_a_single">Jedna stranica</string>
@@ -157,7 +161,8 @@
   <string name="drag_barcode_into_frame">Poravnajte kod unutar okvira</string>
   <string name="drag_crop_to_business_card">Premjesti</string>
   <string name="duplicate_file_name_please_rename">Datoteka s ovim nazivom već postoji</string>
-  <string name="email">Email:</string>
+  <string name="email">E-pošta:</string>
+  <string name="emails">E-pošta</string>
   <string name="error_camera_disabled">Pristup Kameri je odbijen zbog sigurnosnih razloga</string>
   <string name="error_cannot_connect_camera">"Ne mogu se se povezati s Kamerom"</string>
   <string name="error_day_limit">Previše pokušaja u jednom danu</string>
@@ -220,6 +225,7 @@
   <string name="if_to_open_milogo_scanning">Prepoznaj Xiaomi logo</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="image_view">Prikaži sliku</string>
+  <string name="import_picture">Uvezi</string>
   <string name="importFailed">"Ne mogu uvesti"</string>
   <string name="import_contact">Uvezi kontakt</string>
   <string name="impunity_declaration_content">"Skener mora koristiti kameru i obrađivati slike koje snimate tijekom korištenja aplikacije. Nemojte koristiti Skener da biste fotografirali objekte koji sadrže vaše osobne podatke. Dodirom \"Slažem se\", pristajete na naše &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o Privatnosti&lt;/a&gt;&lt;/font&gt; i dopustite aplikaciji povezivanje s internetom."</string>
@@ -390,7 +396,8 @@
   <string name="select_dialog_confirm">U redu</string>
   <string name="select_from_album">Galerija</string>
   <string name="selected">Odabrano</string>
-  <string name="send_mail">Pošalji email</string>
+  <string name="send_mail">Pošalji e-poštu</string>
+  <string name="send_email">Pošalji e-poštu</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Uvijek pitaj</string>
   <string name="setting_default_function">Zadana značajka</string>
@@ -415,6 +422,7 @@
   <string name="store_module_title">Trgovina</string>
   <string name="store_no_date">"Ne mogu prepoznati trgovinu"</string>
   <string name="store_title">Skeniraj znak trgovine</string>
+  <string name="study_more">Više</string>
   <string name="study_report_title">Izvješće</string>
   <string name="study_rotate_picture">Obrada slike…</string>
   <string name="study_scan_result">Rezultat</string>
@@ -474,7 +482,14 @@
   <string name="translation_see_more">Pikaži definiciju</string>
   <string name="translation_type_chat">Chat</string>
   <string name="translation_type_sentence">Izraz</string>
+  <string name="translation_type_words">Prevedi riječi</string>
   <string name="translation_type_word">Riječ</string>
+  <string name="ucrop_crop">Obreži</string>
+  <string name="ucrop_label_edit_photo">Uredi fotografiju</string>
+  <string name="ucrop_label_original">Original</string>
+  <string name="ucrop_menu_crop">Obreži</string>
+  <string name="ucrop_rotate">Rotiraj</string>
+  <string name="ucrop_scale">Skaliraj</string>
   <string name="uninstall_prompt">Ako se tijekom instalacije pojave problemi, idite na Postavke&gt; Aplikacije &gt; Informacije o aplikaciji &gt; Skener, dodirnite \"Deinstaliraj\", i pokušajte ponovo instalirati aplikaciju.</string>
   <string name="url_is_phish">Ovo je možda phishing web stranica</string>
   <string name="url_is_safety">Ova je web stranica sigurna</string>

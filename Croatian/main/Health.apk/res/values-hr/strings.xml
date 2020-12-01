@@ -32,8 +32,8 @@
   <string name="accessibility_sync_closed_device">Sinkronizacija s %1$s je isključena</string>
   <string name="accessibility_unbound_device">%1$s više nije povezan s vašim računom</string>
   <string name="achieve_goals">Cilj postignut</string>
-  <string name="acting">Energija</string>
   <string name="achieve_stand_goals">Dosegnite cilj stajanja</string>
+  <string name="acting">Energija</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="activity_title_basic_info">Osnovne informacije</string>
   <string name="activity_title_exercise">Aktivnost</string>
@@ -67,11 +67,21 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="altitude">Visina</string>
   <string name="altitude_range">Visina</string>
   <string name="am">AM</string>
+  <string name="app_setting">Aplikacije</string>
   <string name="audio_permission_dialog_desc">Dopuštenje za snimanje zvuka nije odoboreno. Dajte dopuštenje</string>
   <string name="audio_permission_dialog_title">Odobrite dopuštenje za snimanje zvuka</string>
   <string name="audio_record_perm_description">Zabilježite hrkanje i snove tijekom spavanja</string>
   <string name="audio_record_permission_description">Za snimanje razgovora i hrkanja tijekom analize ciklusa spavanja</string>
   <string name="auth_description">Omogućite %1$s sinkronizaciju podataka sa sljedećih uređaja</string>
+  <string name="auth_dialog_description">"Uključiti preporuke?
+
+Da bismo vam pružili preporuke, podijelit ćemo vaše zdravstvene podatke s trećim pružateljem usluga. Stavke koje ćemo podijeliti uključuju osobne podatke (dob, spol), zdravstvene podatke (visina, težina, rutina vježbanja), podaci o ponašanju (vrijeme početka i završetka, kao i trajanje vaših treninga).
+
+Te ćemo stavke obraditi prije nego što ih podijelimo kako bismo spriječili da vas pružatelji usluga treće strane osobno identificiraju na temelju podataka koje dobivaju.
+
+Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristiti redovite treninge."</string>
+  <string name="auth_dialog_link">Da biste u potpunosti razumjeli svoja korisnička prava, kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Korisnički ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#0D84FF\"&gt;&lt;a href=%2$s&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="auth_dialog_title">Preporučeni tečajevi</string>
   <string name="auto_start_fail">"Ne mogu odobriti dopuštenje"</string>
   <string name="auto_start_success">Dopuštenje je uspješno odobreno</string>
   <string name="auto_start_tips">Dodirnite \"Postavke\" da otvorite postavke Mi Healtha i dajte potrebna dopuštenja.</string>
@@ -131,7 +141,7 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="blood_pressure_unit_short">mmHg</string>
   <string name="blood_type">Krvna grupa</string>
   <string name="blood_type_rh">Rh faktor</string>
-  <string name="blood_type_select">Tip %1$s</string>	  
+  <string name="blood_type_select">Tip %1$s</string>
   <string name="bmi_label">BMI</string>
   <string name="body_bmi_descripe_content">Indeks tjelesne mase (BMI) definira se kao tjelesna masa u kilogramima podijeljena s kvadratom visine tijela u metrima. Poznavanje BMI može vam pomoći da shvatite ima li vaša težina negativan utjecaj na vaše zdravlje.</string>
   <string name="body_composition">Sastav tijela</string>
@@ -156,8 +166,8 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="breaststroke">Prsni stil</string>
   <string name="butterfly_stroke">Leptir</string>
   <string name="button_record_menstruation">Zabilježi</string>
-  <string name="calories">kalorija</string>
   <string name="buy">Kupi</string>
+  <string name="calories">kalorija</string>
   <string name="camera_permission_desc">Za postavljanje fotografije profila</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_edit">Odbaci promjene</string>
@@ -280,6 +290,9 @@ Ako odlučite izbrisati svoje zdravstvene podatke nakon što odlučite čuvati i
   <string name="delete_record">Izbriši</string>
   <string name="delete_wear_data_toast">"Nije moguće izbrisati podatke koje pruža %1$s"</string>
   <string name="description">Detalji</string>
+  <string name="detail_format">%1$.1f</string>
+  <string name="detail_record_pace_describe">Tempo (Vrijeme prelaska 1 km)</string>
+  <string name="detail_record_pace_title">Segmenti tempa</string>
   <string name="detection_has_no_data">Nema podataka</string>
   <string name="detection_not_start">"Još niste započeli"</string>
   <string name="detection_not_start_detail">"Nemojte ostati budni do kasno"</string>
@@ -288,9 +301,6 @@ Ako odlučite izbrisati svoje zdravstvene podatke nakon što odlučite čuvati i
   <string name="detection_stop">Ova sesija završit će kad ustanete</string>
   <string name="detection_wait_generate_report">Stvaranje statistike…</string>
   <string name="detection_wait_generate_report_detail">Vratite se kasnije</string>
-  <string name="detail_format">%1$.1f</string>
-  <string name="detail_record_pace_describe">Tempo (Vrijeme prelaska 1 km)</string>
-  <string name="detail_record_pace_title">Segmenti tempa</string>
   <string name="device_data_manage">Upravljanje uređajima</string>
   <string name="device_data_sync">Sinkr. zdravstvene podatke</string>
   <string name="device_description">"Ovaj je uređaj povezan s Mi Računom %s. Ako ne možete pronaći potreban uređaj, prvo ga dodajte u Mi Fit ili Xiaomi Wear."</string>
@@ -360,9 +370,9 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="each_week_day_format1">Svaki %1$s</string>
   <string name="each_week_day_format2">Svaki %1$s, %2$s, i %3$s</string>
   <string name="each_week_day_format3">Svaki %1$s sve do %2$s</string>
+  <string name="edit_aid_file">Uredi</string>
   <string name="edit_basic_info_desc">Osnovne informacije</string>
   <string name="edit_immediately">Unesite podatke</string>
-  <string name="edit_aid_file">Uredi</string>
   <string name="edit_sleep_record_button">Uredi</string>
   <string name="elliptical_machine">Eliptični</string>
   <string name="emergency_contact">Kontakt za hitne slučajeve</string>
@@ -370,8 +380,8 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="enable">Uključeno</string>
   <string name="enable_go_now">Uključi</string>
   <string name="enable_not_now">Ne sad</string>
-  <string name="engrgy_format">%1$d W</string>
   <string name="enable_right_now">Isključi</string>
+  <string name="engrgy_format">%1$d W</string>
   <string name="enough">Dovoljno</string>
   <string name="enter_mi_health">Otvori Mi Health</string>
   <string name="equivalent_exercise">≈%1$s km prohodano (%2$s kcal)</string>
@@ -432,8 +442,8 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="exercise_setting_label_reach_standard_remind">Upozorenje o aktivnosti</string>
   <string name="exercise_setting_page_title">Postavke aktivnosti</string>
   <string name="exercise_speed">Brzina</string>
-  <string name="exercise_strokes">Broj zamaha</string>
   <string name="exercise_start">Start</string>
+  <string name="exercise_strokes">Broj zamaha</string>
   <string name="exercise_sum">Izvještaj o vježbi</string>
   <string name="exercise_time">Trajanje</string>
   <string name="exercise_walk_description">Prema prehrambenim smjernicama za kineze, aktivna tjelesna aktivnost trebala bi trajati najmanje 40 minuta dnevno, što je ekvivalent hodanju od 6000 koraka. Koraci koje svaki dan poduzimate kako biste hodali, trčali i ići gore, ovdje su sažeti.</string>
@@ -444,12 +454,12 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="expand_all">Prikaži sve</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-  <string name="fast">Brzo</string>
   <string name="fall_sleep_hard">Problemi kod spavanja</string>
   <string name="falling_duration">Padanje u san</string>
   <string name="falling_duration_hard_description">"Padanje u san je razdoblje između početka i potpunog utonoća u san. Ako vam treba dulje od 30 minuta da zaspite, to bi mogao biti znak nesanice.
 Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike koji pridonose ovoj pojavi. Pijte manje kave; nemojte vizualno i emocionalno simulirati živčani sustav gledajući videozapise ili čitajući prije spavanja; neka spavaća soba bude mračna, tiha i ugodna. Ako ove mjere ne donesu nikakvo olakšanje, posavjetujte se s liječnikom."</string>
   <string name="falling_duration_normal_description">Padanje u san je razdoblje između početka i potpunog utonoća u san. Znajući koliko vam treba vremena da zaspite važno je za liječenje nesanice i ostalih stanja povezanih sa spavanjem.</string>
+  <string name="fast">Brzo</string>
   <string name="fat_rate">Masnoća</string>
   <string name="fat_rate_descripe_content">Postotak tjelesne masti odnosi se na udio masti u ukupnoj težini ljudskog tijela.</string>
   <string name="feedback_need_permission_msg">Dopustite Mi Health da piše u vanjsku pohranu kako bi mogao generirati zapisnike koji se koriste za povratne informacije.</string>
@@ -508,6 +518,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="health_cloud_service">Cloud usluge</string>
   <string name="health_data_cloud_sync_subtitle">Sinkronizirajte svoje zdravstvene podatke s cloudom i pristupite im sa bilo kojeg uređaja</string>
   <string name="health_data_cloud_sync_title">Sinkronizirajte podatke s cloudom</string>
+  <string name="health_data_sync">Sinkr. podatke Health-a</string>
   <string name="health_score">Rezultat</string>
   <string name="health_score_tips">Zdravstveni rezultat izračunava se na temelju vašeg BMI (indeksa tjelesne mase), kao i koraka spavanja i aktivnosti. Što ste bliže svojim ciljevima, to vam je bolji zdravstveni rezultat.</string>
   <string name="health_setting">Postavke</string>
@@ -529,16 +540,15 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="hour">H</string>
   <string name="hour_in_day_format">%1$d</string>
   <string name="hour_in_day_format_short">%1$d</string>
+  <string name="hr_camera_permission_desc">Za dobivanje frekvencije promjene svjetlosti oko prsta kroz kameru kako bi se utvrdila vrijednost otkucaja srca</string>
   <string name="hr_choose_detect_state">Odaberite stanje prilikom otkrivanja</string>
   <string name="hr_cover_to_red">"Kameru potpuno prekrijte prstom.
 Pričekajte dok krug ne postane crven."</string>
   <string name="hr_detect">Otkrivanje otkucaja srca</string>
   <string name="hr_detect_desc">Kroz bljeskalicu kao neprekidni izvor svjetlosti, kamera mobitela za prikupljanje promjena protoka krvi, analizom slike može se prikupiti stabilan signal pulsnog vala, znanstveno otkrivanje otkucaja srca</string>
   <string name="hr_detect_finished">Otkrivanje završeno</string>
+  <string name="hr_detect_fps_jitter">"Puls nije moguće izmjeriti. Pokušajte ponovo."</string>
   <string name="hr_detect_paused">Pauzirano</string>
-  <string name="hr_re_detect_title">Počnite ispočetka</string>
-  <string name="hr_report_active_desc">Mjerenje pulsa odmah nakon vježbanja može vam pomoći prilagoditi navike u vježbanju, jer treninzi različitog intenziteta imaju različite optimalne zone otkucaja srca. Ako je vaš puls previsok, aktivnost može štetiti vašem zdravlju, što dovodi do vrtoglavice, stezanja u prsima i drugih rizika. Nizak puls može biti znak niske učinkovitosti određenog treninga.</string>
-  <string name="hr_report_common_desc">Normalni puls održava ljudsko tijelo tijekom svakodnevnih aktivnosti i kreće se od 60 do 100 otkucaja u minuti. Otkucaji srca niži od 60 BPM znak su bradikardije, dok je puls preko 100 BPM prihvaćen kao tahikardija kod odraslih.</string>
   <string name="hr_detect_principle_desc_1">Kroz bljeskalicu pored kamere kao neprekidni izvor svjetlosti, prst nježno zalijepite na kameru, može se dobiti slika krvotoka, analizom slike može se prikupiti stabilan signal pulsnog vala, čime se dobiva vrijednost otkucaja srca.</string>
   <string name="hr_detect_principle_desc_2">Kroz velik broj eksperimenata vrijednost pogreške srčanog ritma je unutar plus ili minus 2.</string>
   <string name="hr_detect_principle_desc_3">Budući da su kamera i bljeskalica neprofesionalna oprema za akviziciju, preporučuje se mjerenje i promatranje više puta.</string>
@@ -552,6 +562,7 @@ Pričekajte dok krug ne postane crven."</string>
   <string name="hr_detect_state_reseting_desc">Upravo se probudio ili potpuno opušten</string>
   <string name="hr_disable_in_split_screen">"Puls nije moguće izmjeriti tijekom korištenja podijeljenog zaslona"</string>
   <string name="hr_disturb_detect">Otkrivanje prekinuto</string>
+  <string name="hr_disturb_detect_desc">Počnite ispočetka. Pokušajte ne micati prstom tijekom mjerenja.</string>
   <string name="hr_finger_permission_desc">Da biste izmjerili otkucaje srca, ova značajka treba pristupiti skeneru otiska prsta kako bi mogla otkriti promjene u vašem protoku krvi. Dopustiti?</string>
   <string name="hr_fp_area">Područje otiska prsta</string>
   <string name="hr_fp_detect_desc">Protok krvi u prstima povećava se za vrijeme otkucaja srca. Kroz izvor jakog svjetla u području otiska prsta ispod zaslona može se dobiti učestalost promjene krvi prstiju. Frekvencija se pretvara u impulsni signal za izračunavanje točnog otkucaja srca.</string>
@@ -559,11 +570,11 @@ Pričekajte dok krug ne postane crven."</string>
 
 Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 BPM"</string>
   <string name="hr_fp_detect_principle_desc_2">Napomena: pripazite da prst u potpunosti prekriva područje otiska prsta; lagano ga pritisnite tijekom otkrivanja. Ako je tlak previsok, smanjit će se protok krvi u prstu, što će rezultirati netočnim rezultatima. Podaci ispitivanja su samo referentni, a ne za medicinske instrumente.</string>
+  <string name="hr_fp_detect_principle_desc_3">Naši testovi pokazuju da ova metoda mjeri vaš puls samo s pogreškom od ≤3 BPM.</string>
   <string name="hr_fp_detect_start_desc">Pritisnite lagano prst. Nemojte pomicati područje otiska prsta</string>
   <string name="hr_fp_detecting">Mjerenje…</string>
   <string name="hr_fp_not_put_well">Prst nije na pravom mjestu, pokušajte ponovo</string>
   <string name="hr_fp_report_common_desc">Normalni broj otkucaja srca kreće se od 60 do 100 otkucaja u minuti. Otkucaji srca niži od 60 BPM znak su bradikardije, dok je puls veći od 100 BPM prihvaćen kao tahikardija kod odraslih.</string>
-  <string name="hr_disturb_detect_desc">Počnite ispočetka. Pokušajte ne micati prstom tijekom mjerenja.</string>
   <string name="hr_heart_rate_unit">Brzina otkucaja srca (BPM)</string>
   <string name="hr_in_detect">Molimo ne puštajte prste tijekom testiranja</string>
   <string name="hr_input_heart_rate">Zabilježi broj otkucaja srca</string>
@@ -574,6 +585,9 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="hr_pre_detect">Prstima potpuno blokirajte kameru i bljeskalicu radi otkrivanja</string>
   <string name="hr_pre_detect_finger">Provjera…</string>
   <string name="hr_pre_detect_finger_desc">Otkriva se pokrivanje prstima. Molimo vas da ne puštate</string>
+  <string name="hr_re_detect_title">Počnite ispočetka</string>
+  <string name="hr_report_active_desc">Mjerenje pulsa odmah nakon vježbanja može vam pomoći prilagoditi navike u vježbanju, jer treninzi različitog intenziteta imaju različite optimalne zone otkucaja srca. Ako je vaš puls previsok, aktivnost može štetiti vašem zdravlju, što dovodi do vrtoglavice, stezanja u prsima i drugih rizika. Nizak puls može biti znak niske učinkovitosti određenog treninga.</string>
+  <string name="hr_report_common_desc">Normalni puls održava ljudsko tijelo tijekom svakodnevnih aktivnosti i kreće se od 60 do 100 otkucaja u minuti. Otkucaji srca niži od 60 BPM znak su bradikardije, dok je puls preko 100 BPM prihvaćen kao tahikardija kod odraslih.</string>
   <string name="hr_see_report">Pogledaj izvještaj</string>
   <string name="hr_start_detect">Započnite isprobavati</string>
   <string name="hr_state">Status</string>
@@ -647,7 +661,8 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="light_sleep_time_increase_description">Vaš lagani san je predugačak</string>
   <string name="light_sleep_time_normal_description">Imate dovoljnu količinu laganog sna</string>
   <string name="load_failed">"Ne mogu učitati stavke. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
-  <string name="location_permission_dialog_content">Dopustite Xiaomi Healthu da pristupi vašoj lokaciji u \"Xiaomi Health\" > \"Upravljanje dopuštenjima\" kako biste mogli pratiti svoje vježbe na otvorenom.</string>
+  <string name="loading">Samo trenutak…</string>
+  <string name="location_permission_dialog_content">Dopustite Xiaomi Healthu da pristupi vašoj lokaciji u \"Xiaomi Health\" &gt; \"Upravljanje dopuštenjima\" kako biste mogli pratiti svoje vježbe na otvorenom.</string>
   <string name="location_permission_dialog_negative">Ne sad</string>
   <string name="location_permission_dialog_positive">Dopusti</string>
   <string name="location_permission_dialog_title">Potrebna su dopuštenja za lokaciju</string>
@@ -749,9 +764,20 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="min_pace">Najniži tempo</string>
   <string name="minimum">Min.</string>
   <string name="minute">M</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -827,6 +853,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="need_unrestricted_permission">Da dobijete točniju statistiku, dopustite Mi Healthu da se uvijek izvodi u pozadini.</string>
   <string name="network_connect_failure">"Nije uspjelo povezivanje s mrežom. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="network_not_available2">"Ne mogu se povezati na mrežu"</string>
   <string name="next_step">Dalje</string>
   <string name="night">PM</string>
   <string name="no_available_data_source">Nisu dostupni izvori podataka</string>
@@ -887,6 +914,8 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="permission_check_result_failed">"Ne mogu postaviti"</string>
   <string name="permission_manage">Upravljanje dopuštenja</string>
   <string name="permission_tip">Dajte Mi Healthu sljedeća dopuštenja koja će vam omogućiti da točno prati vaše spavanje</string>
+  <string name="personal_course_recommend_subtitle">Pristupite tečajevima koji su vam preporučeni na temelju vaših osobnih podataka, zdravstvene statistike i sklonosti</string>
+  <string name="personal_course_recommend_title">Preporučeni tečajevi</string>
   <string name="phone_detection">Otkrij automatski</string>
   <string name="photograph">Kamera</string>
   <string name="picker_day">Odabrani dan: %1$d. Povucite okomito za odabir.</string>
@@ -917,6 +946,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="preference_update_find_new_version">Provjeri za ažuriranja</string>
   <string name="preference_update_find_newer_version">Dostupno je ažuriranje: %1$s</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="privacy_setting">Privatnost</string>
   <string name="prompt_more_than_3h">Više od 3 sata</string>
   <string name="prompt_sleep_time_night">Spavanje noću</string>
   <string name="prompt_sleep_time_noon">Dnevno drijemanje</string>
@@ -961,6 +991,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="remind_query_menstruation_start">"Je li vaša menstruacija započela? Ne zaboravite to zabilježiti."</string>
   <string name="remind_sleep_report_complete">Statistika spavanja je spremna</string>
   <string name="remind_sleep_report_content">Spavali ste %1$d hr %2$d min. prošlu noć. Dodirnite za prikaz detalja.</string>
+  <string name="remind_sleep_report_content_1">Spavali ste %1$d hr prošlu noć. Dodirnite za prikaz pojedinosti.</string>
   <string name="remind_sleep_report_title">Statistika spavanja je spremna</string>
   <string name="remind_subtitle_menstruation_start">Primite podsjetnik 2 dana prije početka sljedeće menstruacije</string>
   <string name="remind_subtitle_record">Primite podsjetnik kada trebate zabilježiti datum početka i završetka menstruacije</string>
@@ -997,10 +1028,10 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="sedentary_title">Podsjeti da se prošetam</string>
   <string name="sedentary_toggle_content">"Mi Health će vas podsjetiti da ustanete i prošetate ako ste dugo bili neaktivni."</string>
   <string name="sedentaty_hazard_description">Sjedenje ne koristi vašem zdravlju. 12 sati s 1-minutnim pauzama ustajanja svakog dana pomoći će vam da izbjegnete rizike sjedilačkog načina života.</string>
+  <string name="select_exercise_intensity">Odaberite intenzitet</string>
+  <string name="select_exercise_type">Odaberite vrstu vježbanja</string>
   <string name="select_menstruation_end_date">Odaberite datum završetka ove menstruacije</string>
   <string name="select_null">Nije odabrano</string>
-  <string name="select_exercise_type">Odaberite vrstu vježbanja</string>
-  <string name="select_exercise_intensity">Odaberite intenzitet</string>
   <string name="select_recog_question">Odaberite radnju</string>
   <string name="select_swim_posture">Odaberite stil</string>
   <string name="select_target">Odaberite cilj</string>
@@ -1023,12 +1054,35 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="severe_abnormal_tip">Svaki dan nakon ustajanja, nakon ručka i prije odlaska u krevet</string>
   <string name="share">Podijeli</string>
   <string name="skip">Preskoči</string>
+  <string name="skip_to_next_item_button_content_description">Preskoči na sljedeću stavku</string>
+  <string name="skip_to_previous_item_button_content_description">Preskoči na prethodnu stavku</string>
+  <string name="skipping_count">Skokovi</string>
+  <string name="skipping_detection_no">"Ne mogu otkriti vaš trening."</string>
+  <string name="skipping_detection_no_hint">Izbjegavajte bučna mjesta i držite ovaj uređaj u blizini.</string>
+  <string name="skipping_kcal">Kalorije</string>
+  <string name="skipping_pause">Preskakanje pauzirano</string>
+  <string name="skipping_pause_tips">Pauzirano | Nastavite s vježbanjem da nastavite s autom. praćenjem</string>
+  <string name="skipping_ready">Možete sada započeti svoj trening</string>
+  <string name="skipping_ready_hint_one">Uređaj držite na udaljenosti manjoj od 1 metar.</string>
+  <string name="skipping_ready_hint_two">Trening će biti pauziran i automatski nastavljen na temelju zvukova koje proizvedete.</string>
+  <string name="skipping_ready_toast">"Povećali smo glasnoću kako biste bolje čuli upute."</string>
+  <string name="skipping_reset_time">Odmor</string>
+  <string name="skipping_start_counting">Start</string>
+  <string name="skipping_time">Trajanje</string>
+  <string name="skipping_upload_dialog_agree_and_upload">Prihvaćam i pošalji</string>
+  <string name="skipping_upload_dialog_msg">Kako bi pružio preciznije iskustvo brojanja preskakanja, Xiaomi Health će poslati datoteku snimke vašeg užeta za preskakanje pod %s uvjetima kako bi optimizirao efekt prepoznavanja preskakanja užeta. Da biste zaštitili vašu privatnost, prijenos i pohrana datoteka za snimanje strogo će se šifrirati.</string>
+  <string name="skipping_upload_dialog_reject_not_remind">Odbijam i ne pitaj ponovo</string>
+  <string name="skipping_upload_dialog_title">Pošaljite preskakanje užeta kako biste optimizirali prepoznavanje</string>
+  <string name="skipping_upload_tips">Pošaljite ovu snimku preskakanja užeta kako biste poboljšali učinak prepoznavanja</string>
   <string name="sleep">Spavanje</string>
   <string name="sleep_and_get_up_time">Raspored spavanja</string>
   <string name="sleep_auto_start_perm_grant">Dopuštenje odobreno</string>
   <string name="sleep_chart_empty">Nema podataka</string>
   <string name="sleep_chart_loading">Samo trenutak…</string>
   <string name="sleep_day">Dan</string>
+  <string name="sleep_day_multi_short_title">Drijemanje %1$d</string>
+  <string name="sleep_day_single_short_title">Drijemanje</string>
+  <string name="sleep_day_title">Spavanje danju</string>
   <string name="sleep_deep">Dubok san</string>
   <string name="sleep_deep_light_analysis">Lagani san i dubok san</string>
   <string name="sleep_deep_light_close_tip">Analiza dubokog sna je isključena</string>
@@ -1091,6 +1145,7 @@ Ako se ovaj problem često javlja, provjerite uređaj radi planiranih zadataka i
   <string name="sleep_need_auto_start">Dopustite Mi Healthu da se automatski pokrene kako bi podaci o snu bili točniji</string>
   <string name="sleep_need_background_run">Odaberite \"Bez ograničenja\" kako bi podaci o snu bili točniji</string>
   <string name="sleep_need_necessary_permissions">Dajte potrebna dopuštenja za preciznije podatke o snu</string>
+  <string name="sleep_night_title">Spavanje noću</string>
   <string name="sleep_no_data_info">"Prođite kroz kompletan
 ciklus spavanja"</string>
   <string name="sleep_no_deep_light_data_tip">"Zašto nije zabilježen lagani i duboki san?"</string>
@@ -1122,6 +1177,8 @@ podatke o spavanju"</string>
   <string name="sleep_snore_detection_desc">Pratite svoje spavanje</string>
   <string name="sleep_sober">Budan</string>
   <string name="sleep_sober_times_title">Probudio se</string>
+  <string name="sleep_state_this_month">"Ovomjesečno sanvanje "</string>
+  <string name="sleep_state_this_week">"Ovotjedno spavanje"</string>
   <string name="sleep_status">Statistka spavanja</string>
   <string name="sleep_time_edit">Uredi</string>
   <string name="sleep_time_standard_pattern">Standardno: %1$dh</string>
@@ -1305,6 +1362,7 @@ podatke o spavanju"</string>
   <string name="sustain_title">"Niste se pokrenuli "</string>
   <string name="swim">Plivanje</string>
   <string name="swim_type">Stil</string>
+  <string name="sync_health_data">Sinkr. podatke Health-a</string>
   <string name="sync_immediately">Sinkr.</string>
   <string name="sync_is_not_closed">Sinkronizacija je uključena</string>
   <string name="sync_is_off">Sinkronizacija je isključena</string>
@@ -1315,8 +1373,12 @@ podatke o spavanju"</string>
   <string name="sync_status_network_failure">"Ne mogu sinkronizirati. Povežite s mrežom i pokušajte ponovo."</string>
   <string name="sync_status_never_done">Nije sinkronizirano</string>
   <string name="sync_status_oauth_error">"Ne mogu sinkronizirati podatke. Prvo odobrite potrebna dopuštenja."</string>
+  <string name="system_app_setting">Postavke sistemske aplikacije</string>
   <string name="systolic_pressure">Sistolički</string>
   <string name="tb_audio_progress_bar">Traka reprodukcije zvuka</string>
+  <string name="tb_blood_pressure_day_chart">%1$s. Najviši sistolički tlak: %2$d milimetara žive. Najniži dijastolički tlak: %3$d milimetara žive.</string>
+  <string name="tb_blood_pressure_item">%1$s. Sistolički tlak: %2$d milimetara žive. Dijastolički tlak: %3$d milimetara žive.</string>
+  <string name="tb_blood_pressure_wm_card">Prosj. sistolički tlak: %1$d milimetara žive. Prosj. dijastolički tlak: %2$d milimetara žive. Najviši sistolički tlak: %3$d milimetara žive. Najviši dijastolički tlak: %4$d milimetara žive. Najniži sistolički tlak: %5$d milimetara žive. Najniži dijastolički tlak: %6$d milimetara žive.</string>
   <string name="tb_card_on_using_list">Dodano</string>
   <string name="tb_click_finish_stand">Nedovršeno stajanje skoro 1 sat, kliknite da biste dovršili stajanje</string>
   <string name="tb_current_select">%1$s trenutno odabrano</string>
@@ -1374,7 +1436,7 @@ podatke o spavanju"</string>
   <string name="tb_go_next_a_day">Prethodni dan</string>
   <string name="tb_go_on_detection">Nastavi</string>
   <string name="tb_has_snore_dream_talk">Otkriveno hrkanje i pričanje</string>
-   <string name="tb_heart_rate_max_min">Otkucaji srca. Najviši: %1$d. Najniži: %2$d.</string>
+  <string name="tb_heart_rate_max_min">Otkucaji srca. Najviši: %1$d. Najniži: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Krvni tlak. Sistolički: %1$d. Dijastolički: %2$d. Zabilježeno: %3$s. Status: %4$s.</string>
   <string name="tb_home_blood_pressure_card_no_data">Krvni tlak. Nema podataka.</string>
   <string name="tb_home_exercise_card_finish">Vježba. %1$s. Dovršeno: %2$s. Cilj: %3$s. Dovršeno: %4$s.</string>
@@ -1550,6 +1612,7 @@ podatke o spavanju"</string>
   <string name="tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
   <string name="tracking_progress_labe_up_nodata">Nema podataka</string>
   <string name="tracking_progress_labe_up_refresh">Povuci za osvježiti</string>
+  <string name="treadmill">Traka za trčanje</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>

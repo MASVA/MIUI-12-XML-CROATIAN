@@ -68,7 +68,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_intl_sim_card_msg">Za aktiviranje %2$s, %1$d će vam poslati međunarodnu SMS poruku. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Pogledajte &lt;a href=https://account.xiaomi.com/helpcenter/faq>Mi Account User Manual&lt;/a> ako imate ikakvih pitanja.</Data></string>
   <string name="activate_popup_desc_mixed_sim_cards">Vaš operater može vam naplatiti 1 domaću i 1 međunarodnu SMS poruku korištenu za aktivaciju %s.</string>
-  <string name="activate_popup_desc_mixed_sim_cards_msg">Za aktiviranje %3$s, %1$d poslati će redovnu i %2$d međunarodnu SMS poruku. Vaš mobilni operater će vam naplatiti tu poruku.</string>
+  <string name="activate_popup_desc_mixed_sim_cards_msg">Za aktiviranje %3$s, %1$d poslati će redovnu i %2$d međunarodnu SMS poruku. Vaš mobilni operater će vam naplatiti te poruke.</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktivaciju %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
   <string name="activate_popup_desc_new_2_sim_cards">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktivaciju %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>
   <string name="activate_popup_desc_new_intl_sim_card">"Izgleda da ste se promijenili SIM kartice. 2 SMS-a aktivacije će biti poslana za aktivaciju %s. Vaš mobilni operater će vam naplatiti tu poruku."</string>

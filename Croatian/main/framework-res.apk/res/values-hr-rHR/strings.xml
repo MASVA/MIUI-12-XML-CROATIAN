@@ -1961,6 +1961,7 @@ za račun %s."</string>
   <string name="permlab_writeVoicemail">pisanje govorne pošte</string>
   <string name="perms_description_app">Omogućuje aplikacija %1$s.</string>
   <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NOVO: </font></string>
+  <string name="personal_apps_suspension_soon_text">Osobne aplikacije bit će blokirane %1$s u %2$s. Vaš IT administrator ne dopušta da vaš radni profil ostane isključen duže od %3$d dana.</string>
   <string name="personal_apps_suspended_turn_profile_on">Uključi poslovni profil</string>
   <string name="personal_apps_suspension_text">Vaše su osobne aplikacije blokirane dok ne uključite poslovni profil</string>
   <string name="personal_apps_suspension_title">Uključite poslovni profil</string>

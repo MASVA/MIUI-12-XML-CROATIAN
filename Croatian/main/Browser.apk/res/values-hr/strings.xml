@@ -197,6 +197,11 @@
   <string name="bottom_bar_tabs_long_click_down_tip_txt">Kliznite dolje da zatvorite</string>
   <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ovo je posljednja kartica</string>
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Kliznite gore da zatvorite</string>
+  <string name="browser_default_setting_cancel">Odustani</string>
+  <string name="browser_default_setting_confirm">U redu</string>
+  <string name="browser_default_setting_content">Brzo i sigurno pregledavanje weba</string>
+  <string name="browser_default_setting_title">Postavi kao zadani preglednik</string>
+  <string name="channel_header_description">Dodirnite za otvaranje. Pritisnite i držite za uređivanje.</string>
   <string name="browserFrameFileErrorLabel">Pogreška datoteke</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Stranica koju pokušavate vidjeti sadrži podatke koji su već podneseni. Ako ponovo pošaljete podatke, prethodne radnje (poput pretrage ili mrežne kupovine) biti će ponovljene."</string>

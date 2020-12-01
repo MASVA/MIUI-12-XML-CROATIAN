@@ -122,6 +122,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
   <string name="cloud_backup">Mi Cloud Sig. kopije</string>
   <string name="cloud_backup_detail_frequence">Raspored Sig. kopije</string>
+  <string name="cloud_backup_detail_frequence_every_7_day">Izradi Sig. kopiju svakih %d dana</string>
+  <string name="cloud_backup_detail_frequence_every_day">Izradi Sig. kopiju svakodnevno</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
   <string name="cloud_backup_detail_state">Autom. Sig. kopija</string>
   <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu.</string>
