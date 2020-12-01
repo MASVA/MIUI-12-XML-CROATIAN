@@ -124,6 +124,8 @@
   <string name="download">Preuzimanja</string>
   <string name="download_auth">Dobivanje autorizacije…</string>
   <string name="download_complete">ZAVRŠENO</string>
+  <string name="download_description_content">"Aplikacija Preuzimanja je sistemska aplikacija. Nećete moći upravljati svojim preuzimanjima nakon što je uklonite."</string>
+  <string name="download_description_title">Ukloniti \"Preuzimanja\" sa Poč. zaslona?</string>
   <string name="download_detail">Pojedinosti</string>
   <string name="download_error">"Ne mogu preuzeti"</string>
   <string name="download_error_download_file_not_exists">"Datoteka ne postoji"</string>

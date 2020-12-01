@@ -142,6 +142,7 @@
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
+  <string name="magic_window_toast">Aplikacija Multiplier je omogućena.</string>
   <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB | Dostupno: %2$sB"</string>
@@ -239,6 +240,7 @@
   <string name="security_share_text">Zaštita privatnosti</string>
   <string name="select">Odaberi</string>
   <string name="select_all">Odaberi sve</string>
+  <string name="send_files_by">Dijelite datoteke putem</string>
   <string name="send_files_to">Pošalji stavke na</string>
   <string name="serviceEnabled">Usluga je omogućena.</string>
   <string name="set_password_action">Postavite zaporku</string>
@@ -310,7 +312,7 @@
   <string name="talk_back_water_mark_string2">Pritisnite i držite \"Glasnoća +\" i \"Glasnoća -\" na 3 sekunde da ga isključite</string>
   <string name="throwing_print">Ispiši</string>
   <string name="throwing_screen">Emitiraj</string>
-  <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
+  <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="total">DND</string>
   <string name="total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="total_title">DND</string>

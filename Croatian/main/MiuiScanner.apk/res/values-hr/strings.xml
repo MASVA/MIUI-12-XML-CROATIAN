@@ -86,6 +86,7 @@
   <string name="classes_isNull">"Još niste dodali nijednu klasu"</string>
   <string name="classes_titlt">Raspored sati</string>
   <string name="classes_topTitle">Skenirajte raspored svoje klase</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite WLAN.</string>
   <string name="common_retake_picture">Snimi ponovno</string>
   <string name="common_retry">Pokušaj ponovno</string>

@@ -3100,7 +3100,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dual_wifi_switching_prompt">Prebacivanje između mreža</string>
   <string name="dual_wifi_switching_summary">Dvopojasno povećanje WLAN brzine treba koristiti dva različita WLAN pojasa. Ako se povežete s drugom glavnom mrežom, pomoćna veza će se izgubiti.</string>
   <string name="dump_log">Dobivanje zapisa vezane uz probleme</string>
-  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje 284 zapisa u beta verzijama MIUI. Koristite je s oprezom.
+  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje %s zapisa u beta verzijama MIUI. Koristite je s oprezom.
 Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="dump_log_title">O ovoj značajci</string>
   <string name="duration_less_than_one_minute">Manje od jedne minute</string>

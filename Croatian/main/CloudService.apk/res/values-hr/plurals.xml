@@ -4,6 +4,10 @@
          <item quantity="other">Isključeno stavki: %d</item>
          <item quantity="one">Isključena %d stavka</item>
     </plurals>
+	<plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Pokušajte ponovno za %d sek.</item>
+        <item quantity="one">Pokušajte ponovno za %d sekundu</item>
+    </plurals>
     <plurals name="items_unsynced">
          <item quantity="other">Stavke koje čekaju na sinkr.: %d</item>
          <item quantity="one">Stavka koja čeka na sinkr.: %d</item>
