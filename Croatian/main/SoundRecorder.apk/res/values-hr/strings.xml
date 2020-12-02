@@ -43,6 +43,8 @@
   <string name="call_record_list_group_connected">Povezano</string>
   <string name="call_record_list_group_unconnected">Nije povezano</string>
   <string name="cancel_rename">Odustani</string>
+  <string name="clear_data_dialog_content">Iz predmemorije će se izbrisati stavke, podaci aplikacije i prilagođene postavke, ali vaše će snimke ostati na mjestu.</string>
+  <string name="clear_data_dialog_title">Želite li odmah izbrisati podatke?</string>
   <string name="clear_records">Izbriši sinkronizirane zapise</string>
   <string name="cloud_record">Sinkronizirano %d</string>
   <string name="cloud_record_open">Sinkr. snimaka</string>
@@ -122,6 +124,7 @@
   <string name="pause">Pauza</string>
   <string name="playback_delete_records">Izbriši snimku</string>
   <string name="playback_share_records">Podijeli snimku</string>
+  <string name="preference_clear_data">Izbriši</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preference_enable_earpiece_summary">Koristite zvučnik za vanjsku reprodukciju</string>
   <string name="preference_enable_earpiece_title">Koristi prijemnik za reprodukciju zvuka</string>

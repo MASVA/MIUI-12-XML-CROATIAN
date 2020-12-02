@@ -284,6 +284,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_key_camera">Snimanje fotografija</string>
   <string name="app_behavior_key_location">Lokacija</string>
   <string name="app_behavior_key_protect">Zaštitite osobne informacije</string>
+  <string name="app_behavior_link_start">Aktivirano pokretanje</string>
   <string name="app_behavior_list_load_more">Učitavanje…</string>
   <string name="app_behavior_location">%1s je pristupio vašoj lokaciji</string>
   <string name="app_behavior_location_bg">%1s je pristupio vašoj lokaciji u pozadini</string>
@@ -345,6 +346,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_settings_category_privacy">Zaštitite osobne informacije</string>
   <string name="app_behavior_settings_perm_tips">Prikaži upozorenje na traci statusa kad aplikacije pristupaju vašoj lokaciji, snimaju zvuk ili snimaju fotografije</string>
   <string name="app_behavior_settings_privacy_tips">Primi obavijesti kada aplikacije pristupaju vašim kontaktima, povijesti poziva ili izvršavaju druge osjetljive radnje</string>
+  <string name="app_behavior_share_file">Podijeli datoteku</string>
+  <string name="app_behavior_share_picture">Podijeli sliku</string>
   <string name="app_behavior_sms_read">%1s čita SMS poruke</string>
   <string name="app_behavior_sms_read_single">Ova aplikacija čita SMS poruke</string>
   <string name="app_behavior_sms_send">%1s je poslala SMS</string>
@@ -3513,7 +3516,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_risk_result_uninstall_btn">Deinstaliraj</string>
   <string name="privacy_risk_sensitive">Osjetljiva dopuštenja</string>
   <string name="privacy_risk_sensitive_bar_title">Osjetljiva dopuštenja</string>
-  <string name="privacy_risk_sensitive_call_records">Dopustite aplikacijama pristup ili povijest poziva</string>
+  <string name="privacy_risk_sensitive_call_records">Dopustite aplikacijama pristup ili uređivanje povijesti poziva</string>
   <string name="privacy_risk_sensitive_contact">Dopustite aplikacijama pristup ili uređivanje kontakata</string>
   <string name="privacy_risk_sensitive_location">Dopustite aplikacijama da lociraju vaš uređaj pomoću dostupnih mreža ili satelita</string>
   <string name="privacy_risk_sensitive_permissions">Osjetljiva dopuštenja</string>
@@ -3946,7 +3949,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="special_perm_intercept_system_msg">Instaliranje aplikacije koje mogu sadržavati viruse ili se loše ponašati na bilo koji drugi način</string>
   <string name="special_perm_intercept_system_title">"Utječe na sigurnost i stabilnost sustava"</string>
   <string name="special_perm_intercept_title">"\"%s\" je vrlo osjetljivo dopuštenje. Ako odobrite ovo dopuštenje, vaši će privatni podaci možda biti otkriveni, a vaše je vlasništvo u opasnosti. Evo što će aplikacije moći raditi:"</string>
-  <string name="special_perm_intercept_usb_title">"\"%s\" je vrlo osjetljiva usluga namijenjena samo programerima. Ako ga uključite, vaši će privatni podaci možda biti otkriveni, a vaše je vlasništvo u opasnosti. Evo što bi se moglo dogoditi:"</string>
+  <string name="special_perm_intercept_usb_title">"\"%s\" je vrlo osjetljiva usluga namijenjena samo programerima. Ako je uključite, vaši će privatni podaci možda biti otkriveni, a vaše je vlasništvo u opasnosti. Evo što bi se moglo dogoditi:"</string>
   <string name="special_perm_manager_msg">Dopustite aplikacijama da kontroliraju ovaj uređaj</string>
   <string name="special_perm_manager_title">Kontrola uređaja</string>
   <string name="special_perm_nfc_msg">Dopustite aplikacijama obavljanje beskontaktnih plaćanja</string>

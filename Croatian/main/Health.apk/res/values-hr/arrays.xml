@@ -8,7 +8,7 @@
         <item>Trčanje</item>
         <item>Hodanje</item>
         <item>Vožnja biciklom</item>
-        <item>Traka za trčanje</item>
+        <item>Preskakanje užeta</item>
 		<item>Trening</item>
     </string-array>
     <string-array name="arr_prompt_label">
@@ -147,6 +147,15 @@
         <item>Subota</item>
     </string-array>
     <string-array name="week_label">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+    </string-array>
+	<string-array name="week_short">
         <item>Ned</item>
         <item>Pon</item>
         <item>Uto</item>

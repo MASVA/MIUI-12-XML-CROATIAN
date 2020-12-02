@@ -246,8 +246,42 @@
   <string name="call_problem_report">Prijavi problem</string>
   <string name="call_radio">"Nazovi radio"</string>
   <string name="call_record_setting_miui">Postavke snimanja zvuka</string>
+  <string name="call_record_add_numbers">Dodajte telefonske brojeve</string>
+  <string name="call_record_auto_always">Dodajte pozive</string>
+  <string name="call_record_auto_scenario_title">Snimljeni pozivi</string>
+  <string name="call_record_auto_summary">Snimi pozive automatski</string>
+  <string name="call_record_auto_title">Snimi automatski</string>
+  <string name="call_record_auto_unknown_number">Nepoznati broj</string>
+  <string name="call_record_auto_whitelist">Odabrani brojevi telefona</string>
+  <string name="call_record_content_search">Pretraživanje glasovnih poziva</string>
+  <string name="call_record_content_search_summary">Automatski snimite i prepišite pozive kako biste mogli pronaći pozive tijekom kojih su spomenute određene riječi</string>
+  <string name="call_record_content_summary">"Kako bi zaštitili vašu privatnost, audio snimke vaših poziva zajedno s prepisanim tekstom šifrirat će se i lokalno pohraniti na vaš uređaj. Ostale aplikacije neće moći pristupiti tim stavkama."</string>
+  <string name="call_record_content_title">Prepišite snimke poziva</string>
+  <string name="call_record_content_type">Spremljene snimke</string>
+  <string name="call_record_content_type_audio">Samo zvuk</string>
+  <string name="call_record_content_type_audio_text">Zvuk i tekst</string>
+  <string name="call_record_content_type_text">Samo tekst</string>
+  <string name="call_record_history">Snimke poziva</string>
+  <string name="call_record_password">Zaporka zaštite privatnosti</string>
+  <string name="call_record_password_closed">Isključeno</string>
+  <string name="call_record_password_opened">Uključeno</string>
+  <string name="call_record_password_summary">Zaštitite snimke poziva dodatnom zaporkom</string>
+  <string name="call_record_storage_list">Snimke poziva</string>
+  <string name="call_record_text_auto_delete">Automatski izbriši snimke poziva</string>
+  <string name="call_record_text_auto_delete_half_year">Nakon %d mjeseci</string>
+  <string name="call_record_text_auto_delete_never">Never</string>
+  <string name="call_record_text_auto_delete_one_month">Nakon %d mjeseca</string>
+  <string name="call_record_user_notice_all_purpose">Pronađite pozive tijekom kojih su spomenute određene riječi</string>
+  <string name="call_record_user_notice_permission_desc_microphone">Za snimanje poziva</string>
+  <string name="call_record_user_notice_permission_desc_storage">Za spremanje snimaka</string>
+  <string name="call_record_user_notice_title">Pretraživanje glasovnih poziva</string>
+  <string name="call_record_whitelist_custom">Odabrani pozivi</string>
+  <string name="call_recording_notification_summary">Primite obavijest nakon što je poziv snimljen</string>
+  <string name="call_recording_notification_title">Obavijesti o snimljenim pozivima</string>
+  <string name="call_recording_notification_title_error">"Nije moguće snimiti poziv"</string>
+  <string name="call_recording_setting">Snimke poziva</string>
   <string name="call_settings">Postavke</string>
-  <string name="call_settings_primary_user_only">Postavke poziva može mijenjati samo primarni korisnik..</string>
+  <string name="call_settings_primary_user_only">Postavke poziva može mijenjati samo primarni korisnik.</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Nazovi sa SIM 1</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -557,7 +591,7 @@ Kartice kontakata su isključene"</string>
   <string name="device_paired_dialog_title">Dohvaćanje kontakata…</string>
   <string name="device_pairing_dialog_message">Uparivanje…</string>
   <string name="device_pairing_dialog_title">Upari uređaje</string>
-  <string name="device_transfer_by_bluetooth_message">"%1$d.  Uključite \"Bluetooth\" na drugom uređaju;    
+  <string name="device_transfer_by_bluetooth_message">"%1$d.  Uključite \"Bluetooth\" na drugom uređaju;  
  
 - Android uređaji obično imaju stavku \"Bluetooth\" u odjeljku mreže
 
