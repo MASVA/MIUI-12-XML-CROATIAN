@@ -10,7 +10,7 @@
         <item>Brzina animacije 10x</item>
      </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Standardna ograničenje</item>
+        <item>Standardno ograničenje</item>
         <item>Nema pozadinskih procesa</item>
         <item>Najviše 1 proces</item>
         <item>Najviše 2 procesa</item>
@@ -123,30 +123,30 @@
         <item>MIDI</item>
      </string-array>
      <string-array name="weather_type">
-        <item>Sunčano</item>
+        <item>Vedro</item>
         <item>Oblačno</item>
         <item>Naoblaka</item>
         <item>Maglovito</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
+        <item>Jaka kiša</item>
+        <item>Pljusak</item>
+        <item>Pljusak</item>
         <item>Oluja</item>
         <item>Kiša</item>
-        <item>Kiša</item>
+        <item>Obilna kiša</item>
         <item>Umjerena kiša</item>
         <item>Lagana kiša</item>
         <item>Susnježica</item>
-        <item>Vijavica</item>
+        <item>Mećava</item>
         <item>Snijeg</item>
         <item>Gust snijeg</item>
         <item>Umjeren snijeg</item>
         <item>Susnježica</item>
-        <item>Snažna pješčana oluja</item>
+        <item>Jaka pješčana oluja</item>
         <item>Pješčana oluja</item>
-        <item>Slaba pješčana oluja</item>
+        <item>Pijesak</item>
         <item>Vjetrovito</item>
         <item>Tuča</item>
-        <item>Prašnjavo</item>
+        <item>Prašina</item>
         <item>Sumaglica</item>
         <item>Ledena kiša</item>
         <item></item>

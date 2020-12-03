@@ -2866,11 +2866,6 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_top">Kada je uključena Štednja baterije, MIUI će izvršiti sljedeće optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Sada možete riješiti probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Automatski podesite svjetlinu zaslona</string>
-  <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-  <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-  <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-  <string name="power_center_list_item_battery_status_capacity">mAh</string>
-  <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Isključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Napredne postavke</string>
