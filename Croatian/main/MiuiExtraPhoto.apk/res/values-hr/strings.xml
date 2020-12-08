@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cancel">Odustani</string>
   <string name="doc_photo_adjust_section_title">Povuci za prilagoditi</string>
   <string name="doc_photo_cancel">Odustani</string>
   <string name="doc_photo_confirm">Izlaz</string>
@@ -13,6 +14,8 @@
   <string name="doc_photo_idcard_portrait">Prednja</string>
   <string name="doc_photo_not_support">"Ne mogu urediti ovu sliku kao dokument"</string>
   <string name="doc_photo_view_effect">Pregled</string>
+  <string name="exit_alert_msg">Sve nespremljene promjene bit će izgubljene.</string>
+  <string name="exit_alert_title">Odbaciti promjene?</string>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_save_fail">Ne mogu spremiti</string>
   <string name="extra_photo_common_saving">Spremanje…</string>
@@ -28,6 +31,7 @@
   <string name="motion_photo_toast_default">Zadano</string>
   <string name="motion_photo_toast_long_press_play">Pritisnite i držite fotografiju za reprodukciju</string>
   <string name="motion_photo_toast_suggest">Preporučeno</string>
+  <string name="ok">U redu</string>
   <string name="refocus_discard_confirm_message">Spremiti promjene?</string>
   <string name="refocus_discard_negative_btn">Odbaci</string>
   <string name="refocus_discard_positive_btn">Spremi</string>

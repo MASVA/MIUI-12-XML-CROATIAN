@@ -497,6 +497,9 @@ Ubrzajte preuzimanja na svim vašim uređajima</string>
   <string name="web_dialog_cancel">Odustani</string>
   <string name="web_dialog_confirm">U redu</string>
   <string name="xiaomi_account_not_exist_message">"Taj Mi Račun ne postoji"</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="xl_annual_vip_open">Godišnje članstvo (%1$s Mi Kredita ili %2$s mjesečno)</string>
   <string name="xl_annual_vip_renew">Obnovite za 1 godinu (%1$s Mi Kredita ili %2$s mjesečno)</string>
   <string name="xl_bind_account">Dodaj postojeći Xunlei Račun </string>

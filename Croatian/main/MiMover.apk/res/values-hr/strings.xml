@@ -290,6 +290,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="launcher">Izgled Poč. zaslona</string>
   <string name="less_than_1_minute">Manje od 1 minute</string>
   <string name="loading_data">Samo trenutak…</string>
+  <string name="location_permission_request">Za povezivanje s drugim uređajima u blizini</string>
   <string name="login">Prijavi se</string>
   <string name="login_failed">Ne mogu se prijaviti. Pokušajte ponovno.</string>
   <string name="logining">Prijava…</string>
@@ -308,7 +309,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="manual_connection_content3">3. Unesite ovu zaporku na stari uređaj za povezivanje.</string>
   <string name="manual_connection_summary2">"Ako ne možete pronaći ovaj hotspot, osvježite popis dostupnih WLAN mreža i pokušajte ponovno."</string>
   <string name="manual_connection_title">Ručno se povežite sa starim uređajem</string>
-  <string name="message_request_package_stats_perm">Dodirnite \"Nastavi\" kako biste otvorili postavke i Mi Mover-u dali potrebna dopuštenja.</string>
+  <string name="message_request_package_stats_perm">Mi Mover treba ovo dopuštenje da bi saznao koje su aplikacije instalirane na uređaju i prebacio ih na drugi.</string>
   <string name="midnight">AM</string>
   <string name="miui_need_location_permission_summary">Dopustite Mi Mover-u da pristupi vašoj lokaciji kako bi pronašli uređaje u blizini. Nećete moći koristiti Mi Mover ako ne odobrite ovo dopuštenje.</string>
   <string name="miui_need_location_permission_title">Omogući pristup lokaciji</string>
@@ -594,6 +595,9 @@ Oslobodite barem %s."</string>
   <string name="soft_ap_create_failed">"Ne mogu izraditi hotspot. Pokušajte ponovo."</string>
   <string name="soft_ap_creating">Izrada hotspota…</string>
   <string name="succ_description">Dovršeno</string>
+  <string name="summary_open_wlan">Mi Mover treba ovo dopuštenje da osigura stabilnost postupka prijenosa.</string>
+  <string name="summary_request_alert_window_prem">Mi Mover treba ovo dopuštenje da osigura stabilnost postupka prijenosa.</string>
+  <string name="summary_request_write_settings_prem">Mi Mover treba ovo dopuštenje za uključivanje WLAN-a i izradu hotspota za prijenos datoteka.</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">Ned</string>
@@ -621,8 +625,10 @@ Oslobodite barem %s."</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_spent">Vrijeme: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
+  <string name="title_open_wlan">Uključi WLAN</string>
+  <string name="title_request_alert_window_perm">Dopusti plutajuće prozore</string>
   <string name="title_request_package_stats_perm">Potrebno je dopuštenje</string>
-  <string name="title_request_write_settings_perm">Potrebno je dopuštenje za promjenu postavki sustava</string>
+  <string name="title_request_write_settings_perm">Dopusti promjenu postavki sustava</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="trans_detail_item_app_data_skip_data">Nije moguće prenijeti podatke aplikacije</string>

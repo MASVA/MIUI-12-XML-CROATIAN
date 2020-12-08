@@ -189,7 +189,7 @@
      </plurals>
      <plurals name="kg_too_many_failed_attempts_countdown">
         <item quantity="other">Pokušajte ponovno za %d sek.</item>
-        <item quantity="one">Pokušajte ponovno za 1 sekundu.</item>
+        <item quantity="one">Pokušajte ponovno za %d sekundu.</item>
      </plurals>
      <plurals name="quick_settings_hotspot_secondary_label_num_devices">
         <item quantity="other">%d uređaja</item>

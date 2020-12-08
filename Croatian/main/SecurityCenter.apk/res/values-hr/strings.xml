@@ -183,6 +183,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="alert_back_milink_hangup_tips_content">"Emitiranje se neće prekinuti dok završite poziv. Možete pritisnuti tipku Power da probudite zaslon."</string>
   <string name="alert_back_milink_hangup_tips_content_vb">"Emitiranje se neće prekinuti ako je zaslon isključen i aplikacija radi u pozadini. Možete pritisnuti tipku Power da opet uključite zaslon."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
+  <string name="allow_all">Dopusti sve</string>
   <string name="already_close_gamebooster">Game Turbo je isključen</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
@@ -1027,6 +1028,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
   <string name="comprehensive_protection_measures">Sveobuhvatna zaštita</string>
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
+  <string name="confirm_allow_all_permission">Želite li dopustiti svim aplikacijama upotrebu ove značajke?</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodavanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Stavite prst na senzor</string>
   <string name="confirm_leave">Ne hvala</string>

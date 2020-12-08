@@ -97,7 +97,9 @@
   <string name="album_from_format">Od %s</string>
   <string name="album_hidden_item_button_title">Prikaži</string>
   <string name="album_hidden_page_title">Sakrij</string>
+  <string name="album_homepage_show_all_photos">Prikaži sve fotografije</string>
   <string name="album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
+  <string name="album_lockscreen_wallpapers">Pozadine Zaklj. zaslona</string>
   <string name="album_member">Članovi albuma %s</string>
   <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Naziv albuma</string>
@@ -584,7 +586,7 @@
   <string name="doodle_super_big_size">Ogromno</string>
   <string name="doodle_tooltip">Dodirni za crtariju</string>
   <string name="double_tap_for_hr_preview_108m">Dvaput dodirnite za prelazak na pregled od 108MP</string>
-  <string name="double_tap_to_higher_definition">Dvaput dodirnite opet za HD pregled</string>
+  <string name="double_tap_to_higher_definition">Dvaput dodirnite ponovo da biste otvorili HD pregled</string>
   <string name="download">Preuzimanje</string>
   <string name="download_canceled">Preuzimanje otkazano</string>
   <string name="download_error_format">"Ne mogu preuzeti %s"</string>
@@ -1186,9 +1188,17 @@ za fotografije"</string>
   <string name="mi_drop">Mi Share</string>
   <string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
   <string name="midnight">Ponoć</string>
-  <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-  <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -1596,7 +1606,7 @@ za fotografije"</string>
   <string name="pic_to_pdf_exit_notice">"Ovaj PDF neće biti spremljen ako sada izađete. Izaći svejedno?"</string>
   <string name="pic_to_pdf_not_support_video">"Videozapisi se ne mogu spremiti kao PDF"</string>
   <string name="pic_to_pdf_preview_loading">Učitavanje pregleda…</string>
-  <string name="pic_to_pdf_save_in">Spremi PDF u %s</string>
+  <string name="pic_to_pdf_saved_in_fileexplorer">Uspješno spremljeno. Pogledajte stavku u aplikaciji Datoteke.</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="pick_from_contact">Odaberi iz kontakata</string>
   <string name="pick_people_cover_fail">Dogodila se pogreška. Pokušajte ponovo.</string>
@@ -2128,6 +2138,7 @@ za fotografije"</string>
   <string name="toast_invalid_char">"Nazivi datoteka ne mogu sadržavati \"%s\""</string>
   <string name="toast_invalid_prefix">"Nazivi ne mogu počinjati s \".\" or \"_\""</string>
   <string name="toast_orientation_locked">Orijentacija zaključana uspješno</string>
+  <string name="toast_orientation_unlock">Orijentacija zaslona je otključana</string>
   <string name="toast_rename_exit">Ova datoteka već postoji</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
@@ -2162,7 +2173,7 @@ za fotografije"</string>
   <string name="unrecognized_model">Nepoznati uređaj</string>
   <string name="unsupport_raw">"%s ne radi sa RAW slikama"</string>
   <string name="unsupport_raw_and_video">"%s ne radi sa s videozapisima i RAW slikama"</string>
-  <string name="unsupport_type">"Ova vrsta datoteke nije podržana"</string>
+  <string name="unsupport_type">"Ovaj format nije podržan"</string>
   <string name="unsupport_video">"%s ne radi s videozapisima"</string>
   <string name="unsupported_media_downloading_tip_common">"Gledanje originalnih slika u ovom formatu nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>
   <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>

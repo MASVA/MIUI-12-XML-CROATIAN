@@ -879,6 +879,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Omogućite dopuštenja korištenja Kalendara,kontakata i pohrane u postavkama</string>
   <string name="open_external_storage_and_contacts_permission">Omogućite dopuštenja korištenja kontakata u postavkama</string>
   <string name="open_notification_kingagent">Uključite obavijesti o grobnim točkama</string>
+  <string name="open_pdf_error">Ne mogu otvoriti PDF datoteku. Preuzmite druge aplikaciju za otvaranje PDF-a i pokušajte ponovo kasnije.</string>
   <string name="optimization_suggestion">Prijedlozi za optimizaciju</string>
   <string name="others_mail">Ostalo</string>
   <string name="others_mail_des">(Kompatibilan s uslugama e-pošte od 600K)</string>

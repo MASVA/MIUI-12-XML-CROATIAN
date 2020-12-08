@@ -474,7 +474,7 @@ Kartice kontakata su isključene"</string>
   <string name="contactsJoinedMessage">Kontakti su pridruženi</string>
   <string name="contactsList">"Kontakti"</string>
   <string name="contacts_default_notification_channel">Obavijesti</string>
-  <string name="contacts_hybrid_activity_label">Obnovi kontakte</string>
+  <string name="contacts_hybrid_activity_label">Vrati kontakte</string>
   <string name="contacts_setting_title">Postavke kontakta</string>
   <string name="contacts_unavailable_add_account">Prijavite se na račun</string>
   <string name="contacts_unavailable_create_contact">Izradi novi kontakt</string>
@@ -756,6 +756,8 @@ Razlog: \"%s\""</string>
   <string name="heduohao_label">HeDuoHao</string>
   <string name="heduohao_main_call_menu_title">Biraj na početnoj</string>
   <string name="heduohao_popup_txt">Sub%d</string>
+  <string name="hide_app_description_content">"Kontakti je sistemska aplikacija. I dalje ćete ga moći koristiti putem aplikacije Telefon nakon što uklonite prečac na Poč. zaslonu."</string>
+  <string name="hide_app_description_title">Ukloniti \"Kontakti\" sa Poč. zaslona?</string>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
@@ -1120,7 +1122,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="night">PM</string>
   <string name="noAccounts">Za stvaranje grupa potreban vam je račun</string>
   <string name="noContactHelpTextAccountsInfo"/>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Obnovi podatke o kontaktu sa Mi Računa</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Vrati podatke o kontaktu sa Mi Računa</string>
   <string name="noContacts">Nema kontakata</string>
   <string name="noContactsHelpText">"Nemate kontakata za prikaz.
   
@@ -1226,7 +1228,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="path_batch_delete">Aplikacije sustava/Kontakti/Organizraj kontakte/Izbriši seriju</string>
   <string name="path_contacts_display">Aplikacije sustava/Kontakti/Opcije prikaza</string>
   <string name="path_contacts_more">Aplikacije sustava/Kontakti/Organizraj kontakte</string>
-  <string name="path_contacts_recovery">Aplikacije sustava/Kontakti/Obnovi kontakte</string>
+  <string name="path_contacts_recovery">Aplikacije sustava/Kontakti/Vrati kontakte</string>
   <string name="path_contacts_setting">Aplikacije sustava/Kontakti</string>
   <string name="path_display_only_phones">Aplikacije sustava/Kontakti/Opcije prikaza/Sakrij nepotpune brojeve</string>
   <string name="path_display_sim_contacts">Aplikacije sustava/Kontakti/Opcije prikaza/Prikaži SIM kontakte</string>
@@ -1321,7 +1323,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="preference_import">"Uvoz"</string>
   <string name="preference_import_export">"Uvoz/izvoz"</string>
   <string name="preference_import_export_title">"Uvoz/izvoz kontakata"</string>
-  <string name="preference_key_trash_bin_title">Obnovite kontakte</string>
+  <string name="preference_key_trash_bin_title">Vratite kontakte</string>
   <string name="preference_other">Ostalo</string>
   <string name="preference_others">Ostalo</string>
   <string name="preference_phone">"Uređaj"</string>
@@ -1419,7 +1421,11 @@ Za dodavanje kontakta na listu favorita :
 
  Za početak, dodirnite ikonu "Združi" na dnu zaslona."</string>
   <string name="report_inquiry_mms">Prijavi SMS</string>
-  <string name="restore_nickname">Obnovi</string>
+  <string name="restore_app_btn_cancel">Odustani</string>
+  <string name="restore_app_btn_restore">U redu</string>
+  <string name="restore_app_description_content">Dodajte prečac Poč. zaslona da biste brže mogli pristupiti svojim kontaktima.</string>
+  <string name="restore_app_description_title">Dodati \"Kontakti\" na Poč. zaslon?</string>
+  <string name="restore_nickname">Vrati</string>
   <string name="ret_sign">"
 "</string>
   <string name="returnCall">Povratni poziv</string>
@@ -1451,7 +1457,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_contacts_display">Kontakti;Prikaz</string>
   <string name="search_contacts_more">Organiziraj;Kontakti</string>
   <string name="search_contacts_recovery">Kontakti</string>
-  <string name="search_contacts_setting">Postavke kontakata;Prikaži slike i informacije;Fotografija za sve;Uvoz i izvoz;Podijeli;Uvoz sa SD kartice;Uvoz sa SIM kartice;Uvoz sa drugog telefona;Izvoz sa SD kartice;Uvoz sa SD kartice;Dijeli vidljive kontakte;Prikaži kontakte;Sakrij nepotpune brojeve;Prikaži SIM kontakte;Konfigururaj popis kontakata;Pametne grupe;Organizraj kontakte; Združi dvostruke kontakte;Delete batch;Izbriši seriju;Ponovno izgradi podatke indeksa;t9;SIM kartice;Pohrana SIM kartice;Obnovi kontakte</string>
+  <string name="search_contacts_setting">Postavke kontakata;Prikaži slike i informacije;Fotografija za sve;Uvoz i izvoz;Podijeli;Uvoz sa SD kartice;Uvoz sa SIM kartice;Uvoz sa drugog telefona;Izvoz sa SD kartice;Uvoz sa SD kartice;Dijeli vidljive kontakte;Prikaži kontakte;Sakrij nepotpune brojeve;Prikaži SIM kontakte;Konfigururaj popis kontakata;Pametne grupe;Organizraj kontakte; Združi dvostruke kontakte;Delete batch;Izbriši seriju;Ponovno izgradi podatke indeksa;t9;SIM kartice;Pohrana SIM kartice;Vrati kontakte</string>
   <string name="search_display_only_phones">Kontakti;Prikaz</string>
   <string name="search_display_sim_contacts">Kontakti;Prikaz</string>
   <string name="search_export_to_sdcard">Kontakti;Izvoz;SD kartica</string>

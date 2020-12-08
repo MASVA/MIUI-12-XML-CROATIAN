@@ -376,7 +376,7 @@
   <string name="app_accessed_mic">Aplikacija %1$s pristupila je mikrofonu</string>
   <string name="app_info">Informacije o aplikaciji</string>
   <string name="app_label">"UI Sustava"</string>
-  <string name="app_name">Zaklj. zaslon</string>
+  <string name="app_name">Keyguard</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="appops_camera">Ova aplikacija upotrebljava kameru.</string>
@@ -965,11 +965,11 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_offset_right">Pomaknite se ulijevo</string>
   <string name="face_unlock_offset_top">Podignite malo telefon</string>
   <string name="face_unlock_open_eye">Otvorite oči malo šire</string>
+  <string name="face_unlock_password_and_fingerprint">Unesite zaporku ili otključajte pomoću otiska prsta</string>
   <string name="face_unlock_passwork">Koristi zaporku</string>
   <string name="face_unlock_passwork_and_fingerprint">Koristi zaporku ili otisak prsta</string>
-  <string name="face_unlock_passwork_and_fingerprint_v11">Unesite zaporku ili otključajte pomoću otiska prsta</string>
-  <string name="face_unlock_pattern_and_fingerprint_v11">Iscrtajte uzorak ili otključajte pomoću otiska prsta</string>
-  <string name="face_unlock_pin_and_fingerprint_v11">Unesite PIN ili otključajte pomoću otiska prsta</string>
+  <string name="face_unlock_pattern_and_fingerprint">Iscrtajte uzorak ili otključajte pomoću otiska prsta</string>
+  <string name="face_unlock_pin_and_fingerprint">Unesite PIN ili otključajte pomoću otiska prsta</string>
   <string name="face_unlock_quality">"Ne mogu jasno vidjeti vaše lice"</string>
   <string name="face_unlock_reenter_content">Algoritam otključavanja lica je ažuriran. Dodirnite za ponovno snimanje lica.</string>
   <string name="face_unlock_reenter_title">Snimite vaše lice ponovno.</string>
@@ -1148,6 +1148,9 @@ Kad se ohladi, radit će normalno."</string>
   <string name="inline_stop_button">Zaustavi obavijesti</string>
   <string name="inline_turn_off_notifications">Isključi obavijesti</string>
   <string name="inline_undo">Poništi</string>
+  <string name="input_lockscreen_password_hint_text">Unesite zaporku</string>
+  <string name="input_lockscreen_pattern_hint_text">Iscrtajte uzorak</string>
+  <string name="input_lockscreen_pin_hint_text">Unesite PIN</string>
   <string name="input_password_after_boot_msg">"Da otključate uređaj, unesite svoju zaporku"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne mogu promjeniti prostore kada su uključene roditeljske kontrole"</string>
@@ -1155,11 +1158,8 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
   <string name="input_password_handle_sdcard_fs">"Ne mogu ući u Drugi prostor sa Zaklj. zaslona. Uđi iz Prvog prostora."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
-  <string name="input_password_hint_text_v11">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
-  <string name="input_pattern_hint_text_v11">Iscrtajte uzorak</string>
   <string name="input_pin_code">Unesite PIN</string>
-  <string name="input_pin_hint_text_v11">Unesite PIN</string>
   <string name="input_puk_code">Unesite PUK</string>
   <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
   <string name="installer_cd_button_title">Instaliraj Android – Prijenos datoteka za Mac</string>
@@ -1241,7 +1241,7 @@ prioritetno"</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
   <string name="keyguard_charging_info_click_to_detail">Prikaži detalje</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Potrošeno</string>
-  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_time">dd/Mm HH:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Danas %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Jučer %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Zadnje punjenje</string>
@@ -1281,7 +1281,7 @@ prioritetno"</string>
   <string name="keyguard_missing_sim_instructions_long">SIM kartica nedostaje ili nije čitljiva. Umetnite SIM karticu.</string>
   <string name="keyguard_missing_sim_message">U telefonu nema SIM kartice.</string>
   <string name="keyguard_missing_sim_message_short">Nema SIM kartice</string>
-  <string name="keyguard_network_locked_message">Mreža je zaključana</string>
+  <string name="keyguard_network_locked_message">Mreža zaključana</string>
   <string name="keyguard_password_enter_password_code">Unesite zaporku da biste otključali</string>
   <string name="keyguard_password_enter_pin_code">Unesite PIN kôd</string>
   <string name="keyguard_password_enter_pin_password_code">Unesite PIN da biste otključali</string>
@@ -1293,10 +1293,10 @@ prioritetno"</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Vaša SIM kartica trajno je onemogućena.
  Zatražite drugu SIM karticu od svog davatelja bežičnih usluga."</string>
   <string name="keyguard_permanent_disabled_sim_message_short">SIM kartica nije upotrebljiva.</string>
-  <string name="keyguard_plugged_in">Punjenje</string>
-  <string name="keyguard_plugged_in_charging_fast">Brzo punjenje</string>
-  <string name="keyguard_plugged_in_charging_slowly">Sporo punjenje</string>
-  <string name="keyguard_plugged_in_wireless">%s • bežično punjenje</string>
+  <string name="keyguard_plugged_in">%s • Punjenje</string>
+  <string name="keyguard_plugged_in_charging_fast">%s • Brzo punjenje</string>
+  <string name="keyguard_plugged_in_charging_slowly">%s • Sporo punjenje</string>
+  <string name="keyguard_plugged_in_wireless">%s • Bežično punjenje</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Brzo punjenje. Dodirnite da biste vidjeli pojedinosti.</string>
   <string name="keyguard_retry">Prijeđite prstom prema gore za ponovni pokušaj</string>
   <string name="keyguard_sim_error_message_short">Nevažeća kartica.</string>
@@ -1305,10 +1305,10 @@ prioritetno"</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
   <string name="keyguard_torch_cover_text">Da svjetiljka ostane uključena, držite tipku za uključivanje</string>
   <string name="keyguard_unlock">Prijeđite prstom prema gore za otključavanje</string>
-  <string name="keyguard_widget_12_hours_format">hmm</string>
-  <string name="keyguard_widget_24_hours_format">kkmm</string>
+  <string name="keyguard_widget_12_hours_format">h:mm</string>
+  <string name="keyguard_widget_24_hours_format">kk:mm</string>
   <string name="keywords_adb_wireless">adb, otklanjanje pogrešaka, razvoj</string>
-  <string name="kg_enter_confirm_pin_hint">Potvrdite novi PIN kôd</string>
+  <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
   <string name="kg_face_not_recognized">Nije prepoznato</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja radni će se profil ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja taj će se korisnik ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
@@ -1355,16 +1355,15 @@ prioritetno"</string>
   <string name="kg_sim_pin_instructions">Unesite PIN za SIM</string>
   <string name="kg_sim_pin_instructions_multi">Unesite PIN za SIM mobilnog operatera \"%1$s\"</string>
   <string name="kg_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
-  <string name="kg_too_many_failed_attempts_countdown">Pokušajte ponovo za %d s.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message">"Netočno ste unijeli zaporku %1$d put/a. 
 
-Pokušajte ponovo za %2$d s."</string>
+Pokušajte ponovo za %2$d sek."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Netočno ste iscrtali uzorak za otključavanje %1$d put/a. 
 
-Pokušajte ponovo za %2$d s."</string>
+Pokušajte ponovo za %2$d sek."</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message">"Netočno ste unijeli PIN %1$d put/a. 
 
-Pokušajte ponovo za %2$d s."</string>
+Pokušajte ponovo za %2$d sek."</string>
   <string name="kg_wrong_password">Pogrešna zaporka</string>
   <string name="kg_wrong_pattern">Pogrešan uzorak</string>
   <string name="kg_wrong_pin">Pogrešan PIN</string>
