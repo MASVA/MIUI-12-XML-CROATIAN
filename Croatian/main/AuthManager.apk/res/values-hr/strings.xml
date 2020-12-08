@@ -355,7 +355,6 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="background_location_access_reminder_notification_content">Ova aplikacija uvijek može pristupiti vašoj lokaciji. Dodirnite za promjenu.</string>
   <string name="background_location_access_reminder_notification_title">%s koristi vašu lokaciju</string>
   <string name="clipboard_ai_allow_once">Dopušteno %1$s da automatski pristupi stavkama u međuspremniku</string>
-  <string name="clipboard_data">Stavke u međuspremniku</string>
   <string name="clipboard_data_request">%1$s pokušava pristupiti stavkama u međuspremniku</string>
   <string name="clipboard_deny_notification_content">Ovaj je pokušaj blokiran. Dodirnite za upravljanje dopuštenjima.</string>
   <string name="clipboard_deny_notification_operation">Upravljaj</string>
