@@ -591,7 +591,6 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_notification_style_animation">Animacija</string>
   <string name="aod_notification_style_none">Ništa</string>
   <string name="aod_notification_style">Efekat obavijesti</string>
-  <string name="aod_notification_style_none">Ništa</string>
   <string name="aod_notification_style_screen_on">Uključi zaslon</string>
   <string name="aod_sample_date">10. Svibanj Utorak</string>
   <string name="aod_sample_hour">2</string>
