@@ -1183,7 +1183,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="fiveg_bearer_status1">5G status davatelja usluga :</string>
   <string name="fiveg_endc_available1">NR ENDC dostupan :</string>
   <string name="fiveg_endc_status1">Endc Status :</string>
-  <string name="fiveg_hosted_mode_summary">Kad je 5G veza loša, automatski se prebaci na najbolje dostupne mreže</string>
+  <string name="fiveg_hosted_mode_summary">Automatski odaberi najbolju mrežu radi uštede baterije</string>
   <string name="fiveg_hosted_mode_title">5G Pametna promjena</string>
   <string name="fiveg_icon_type1">Nr vrsta ikone :</string>
   <string name="fiveg_infos">5G informacije</string>

@@ -354,6 +354,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="app_name">Dopuštenja</string>
   <string name="background_location_access_reminder_notification_content">Ova aplikacija uvijek može pristupiti vašoj lokaciji. Dodirnite za promjenu.</string>
   <string name="background_location_access_reminder_notification_title">%s koristi vašu lokaciju</string>
+  <string name="blur_location_now_tip">Približna lokacija je uključena</string>
   <string name="clipboard_ai_allow_once">Dopušteno %1$s da automatski pristupi stavkama u međuspremniku</string>
   <string name="clipboard_data_request">%1$s pokušava pristupiti stavkama u međuspremniku</string>
   <string name="clipboard_deny_notification_content">Ovaj je pokušaj blokiran. Dodirnite za upravljanje dopuštenjima.</string>
@@ -371,6 +372,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="go_behavior_record">Povijest ponašanja aplikacije</string>
   <string name="default_permission_description">izvesti nepoznate radnje</string>
   <string name="go_perm_manager">Upravljanje dopuštenjima</string>
+  <string name="go_setting">Postavke</string>
   <string name="grant_confirm_question">Želite li odobriti slijedeća dopuštenja? Ona će dobiti pristup:</string>
   <string name="grant_dialog_button_allow">Dopusti</string>
   <string name="grant_dialog_button_allow_always">Dopusti cijelo vrijeme</string>
@@ -507,6 +509,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="permission_warning_template_ask">Dopustiti %1$s sljedeća dopuštenja?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nema dopuštenje za %2$s. Dopuštenja aplikacije možete promijeniti u Aplikacije &gt; Dopuštenja."</string>
   <string name="permisson_reject_notice_toast_text2">"nema dopuštenje za %1$s."</string>
+  <string name="real_location_off">Približna lokacija je uključena</string>
+  <string name="real_location_on">Približna lokacija je isključena</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>

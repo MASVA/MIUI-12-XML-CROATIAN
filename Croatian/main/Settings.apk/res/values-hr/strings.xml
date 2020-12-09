@@ -459,6 +459,8 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="advanced_security_title">Dodatne postavke</string>
   <string name="advanced_settings">Napredne postavke</string>
   <string name="advanced_settings_summary">Omogući više opcija postavki</string>
+  <string name="aggregate_rule_group_disabled">"Nemoj grupirati"</string>
+  <string name="aggregate_rule_group_enabled">Grupiraj</string>
   <string name="advanced_text_layout">Omogući napredan izgled teksta</string>
   <string name="aggregate_title">Pravila za grupirane obavijesti</string>
   <string name="agps_roaming">A-GPS u roamingu</string>
@@ -586,7 +588,9 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_mode_turn_off">Isključeno</string>
   <string name="aod_mode_turn_on">Uključeno</string>
   <string name="aod_name_wanxiang">Always-on zaslon</string>
-  <string name="aod_notification_style_animation">Prikaži animaciju</string>
+  <string name="aod_notification_style_animation">Animacija</string>
+  <string name="aod_notification_style_none">Ništa</string>
+  <string name="aod_notification_style">Efekat obavijesti</string>
   <string name="aod_notification_style_none">Ništa</string>
   <string name="aod_notification_style_screen_on">Uključi zaslon</string>
   <string name="aod_sample_date">10. Svibanj Utorak</string>
@@ -3370,6 +3374,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="error_mcc_not3">MCC polje mora imati 3 znamenke.</string>
   <string name="error_mnc_not23">Polje MNC mora imati 2 ili 3 znamenke.</string>
   <string name="error_name_empty">Polje naziva ne može biti prazno.</string>
+  <string name="error_xcap_not_add">Vrsta APN-a ne može biti XCAP vrste.</string>
   <string name="error_permissions">"Ova aplikacija nema dopuštenje za pristup Kalendaru. Idite u Postavke i provjerite dopuštenje za nastavak."</string>
   <string name="error_title"/>
   <string name="estimated_charging_time_left">Do potpune napunjenosti</string>
@@ -3617,6 +3622,9 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="floating_window_switch_label_disable">Isključi skočne prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
+  <string name="fold_rule_default">Preporučeno</string>
+  <string name="fold_rule_important">Važno</string>
+  <string name="fold_rule_unimportant">Nevažno</string>
   <string name="fluency_mode_confirm_title">Ponovno pokrenuti?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Morate ponovno pokrenuti uređaj za primjenu ovih postavki.</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">Omogućene animacije i povećana potrošnja RAM može uzrokovati usporavanje sustava na nekim uređajima s 1GB RAM-a.</string>

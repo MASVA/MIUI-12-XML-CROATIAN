@@ -122,11 +122,12 @@
   <string name="description_image_button_tools">Opcije</string>
   <string name="description_image_button_two">dva</string>
   <string name="description_image_button_video_answer">Videopoziv</string>
+  <string name="description_incoming_video">Profilni video za dolazne pozive</string>
   <string name="description_image_button_zero">nula</string>
   <string name="description_message_list_title">Popis brzih odgovora</string>
   <string name="description_target_answer">Odgovori</string>
   <string name="dialog_activate_livetalk">Potvrdi broj</string>
-  <string name="dialog_call_ordinary_telephone">Regularni poziv</string>
+  <string name="dialog_call_ordinary_telephone">Redoviti poziv</string>
   <string name="dialog_purchase">Nadoplati</string>
   <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>

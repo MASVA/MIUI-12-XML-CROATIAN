@@ -332,7 +332,11 @@
   <string name="holiday_detail_read_more">Više</string>
   <string name="horoscope_select_activity_label">Odaberite hor. znak</string>
   <string name="hour_picker_description">Kružni klizni sat</string>
+  <string name="icon_add_description">Dodajte prečac Poč. zaslon</string>
   <string name="icon_content_description">Ikona dijaloga</string>
+  <string name="icon_remove_confirm">Ukloni</string>
+  <string name="icon_remove_description_content">"Kalendar je sistemska aplikacija. Omogućuje vam stvaranje događaja i upravljanje njima. I dalje ćete moći upotrebljavati Kalendar putem widgeta na Poč. zaslonu iz Zaklj. aplikacija nakon što uklonite prečac Poč. zaslona."</string>
+  <string name="icon_remove_description_title">Ukloniti \"Kalendar\" sa Poč. zaslona?</string>
   <string name="import_action">Uvezi</string>
   <string name="import_birthday">Uvezi rođendan</string>
   <string name="import_help">Pomoć</string>

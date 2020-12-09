@@ -345,6 +345,8 @@ i na trenutak izađite iz pregleda"</string>
   <string name="cannot_connect_camera_volte_call">Videopoziv u tijeku, pokušajte kasnije.</string>
   <string name="cannot_move_warning_message">Fotografiram, držite uređaj mirnim</string>
   <string name="capture_back_pressed_hint">Dodirnite ponovno za izlaz</string>
+  <string name="capture_shortcut_long">Selfie</string>
+  <string name="capture_shortcut_short">Selfie</string>
   <string name="ccc_temperature_warning_msg">Vaš je uređaj pregrijan. Kamera će se zatvoriti za %d sek. Vaše fotografije ili videozapisi će biti automatski spremljeni.</string>
   <string name="ccc_temperature_warning_title">Uređaj je pregrijan</string>
   <string name="clear_effects">Očisti efekte</string>
@@ -479,8 +481,10 @@ i na trenutak izađite iz pregleda"</string>
   <string name="dirty_tip_toast">Leća je prljava. Očistite je.</string>
   <string name="disable_video_snapshot_hint">Snimanje videozapisa onemogućeno je kada su uključeni specijalni efekti.</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovo"</string>
+  <string name="doc_shortcut_long">Dokumenti</string>
+  <string name="doc_shortcut_short">Dokumenti</string>
   <string name="document_blackwhite">B&amp;W</string>
-  <string name="document_blur_warn">Mutno</string>
+  <string name="document_blur_warn">Tekst je mutan</string>
   <string name="document_mode_use_hint_text_body">"Poravnaj i poboljšaj
 skenirane dokumente automatski"</string>
   <string name="document_mode_use_hint_text_title">Skeniraj dokumente</string>
@@ -1519,6 +1523,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="preparing_sd">Provjera unutarnje pohrane…</string>
   <string name="preview_back_pressed_hint">Dodirnite ponovo za povratak na pregled</string>
   <string name="pro_color_mode">Pro boja</string>
+  <string name="professional_shortcut_long">Pro</string>
+  <string name="professional_shortcut_short">Pro</string>
   <string name="qq_details">QQ datalji:</string>
   <string name="qr_code_details">Detalji QQ koda:</string>
   <string name="raw_data_exit_button_text">Izlaz iz RAW načina</string>
@@ -1724,6 +1730,8 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="video_err">"Ne mogu reproducirati videozapis"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
+  <string name="video_shortcut_long">Videozapis</string>
+  <string name="video_shortcut_short">Videozapis</string>
   <string name="video_snapshot_hint">Snimite fotografiju tijekom snimanja videozapisa dodirom zaslona za pregled.</string>
   <string name="video_tag_flag_title">Označi</string>
   <string name="videocamera_settings_label">Postavke Video kamere</string>

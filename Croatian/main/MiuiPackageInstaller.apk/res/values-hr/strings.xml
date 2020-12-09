@@ -136,6 +136,7 @@ Bit će spremljeni svi vaši prethodni korisnički podaci."</string>
   <string name="install_confirm_question_update_system_no_perms">Želite li instalirati ažuriranje te ugrađene aplikacije? Vaši postojeći podaci neće se izgubiti. Nije potreban nikakav poseban pristup.</string>
   <string name="install_confirm_text_gms">Ovu je aplikaciju napravio Google. Instalirajte usluge Google Play prije instaliranja ove aplikacije. Bez frameworka aplikacija možda neće raditi ispravno.</string>
   <string name="install_continue">Nastavi s instalacijom</string>
+  <string name="install_continue">Instaliraj</string>
   <string name="install_control_cancel_install">"Ne instaliraj"</string>
   <string name="install_control_cancel_vip_account_install">Izlaz</string>
   <string name="install_control_continue_install">Instaliraj svejedno</string>
@@ -214,12 +215,12 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="miui_failed_solution_3">Pokušajte spremiti instalacijski paket na drugo mjesto.</string>
   <string name="miui_failed_solution_4">Oslobodite pohranu u Sigurnost &gt; Čistač i pokušajte ponovo.</string>
   <string name="miui_failed_solution_5">Pokušajte koristiti kompatibilni instalacijski paket.</string>
-  <string name="miui_failed_solution_6">Deinstalirajte ovu aplikaciju u Drugom prostoru i pokušajte ponovo.</string>
+  <string name="miui_failed_solution_6">Deinstalirajte već instaliranu verziju i pokušajte ponovo instalirati.</string>
   <string name="miui_failed_solution_7">Preuzmite najnoviju verziju ove aplikacije sa GetApps.</string>
   <string name="miui_failed_system_incompatible">Nekompatibilni instalacijski paket</string>
   <string name="miui_failed_update_incompatible">Konflikt sa potpisom aplikacija</string>
   <string name="miui_failed_version_downgrade">"Ne mogu unazaditi aplikacije"</string>
-  <string name="miui_failed_version_downgrade_space">"Postoji novija verzija ove aplikacije u Drugom prostoru. Deinstalirajte je u Drugom prostoru, a zatim je instalirajte ovdje."</string>
+  <string name="miui_failed_version_downgrade_space">"Postoji novija verzija ove aplikacije instalirana u Drugom prostoru ili Dječjem prostoru."</string>
   <string name="miui_help_feedback_label">Pomoć &amp; povratna inf.</string>
   <string name="miui_install_confirm_question">Instalirati ovu aplikaciju?</string>
   <string name="miui_install_confirm_question_update">Prepisati postojeću aplikaciju?</string>
