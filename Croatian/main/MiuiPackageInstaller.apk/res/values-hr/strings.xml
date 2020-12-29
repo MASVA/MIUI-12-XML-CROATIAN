@@ -216,6 +216,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="miui_failed_solution_5">Pokušajte koristiti kompatibilni instalacijski paket.</string>
   <string name="miui_failed_solution_6">Deinstalirajte već instaliranu verziju i pokušajte ponovo instalirati.</string>
   <string name="miui_failed_solution_7">Preuzmite najnoviju verziju ove aplikacije sa GetApps.</string>
+  <string name="miui_failed_solution_8">Preuzmite aplikaciju sa GetApps.</string>
   <string name="miui_failed_system_incompatible">Nekompatibilni instalacijski paket</string>
   <string name="miui_failed_update_incompatible">Konflikt sa potpisom aplikacija</string>
   <string name="miui_failed_version_downgrade">"Ne mogu unazaditi aplikacije"</string>

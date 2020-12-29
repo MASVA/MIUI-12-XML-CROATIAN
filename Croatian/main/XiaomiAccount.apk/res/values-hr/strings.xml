@@ -210,6 +210,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
 ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
+  <string name="download_file">Preuzimanje %s…</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
   <string name="ep_unsupported">Vaš uređaj ne podržava prijavu na Xiaomi račun</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
@@ -464,6 +465,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_instead_reg_with_email">Koristi ovu e-poštu</string>
   <string name="passport_login_notice">Prijava…</string>
   <string name="passport_login_other_account">Drugi račun</string>
+  <string name="passport_login_other_phone">Koristi drugi račun</string>
   <string name="passport_login_prompt">Sve Mi usluge. Jedan Mi Račun.</string>
   <string name="passport_login_recycle_account_no">Ne</string>
   <string name="passport_login_recycle_account_yes">Da</string>
@@ -484,6 +486,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_prev">Natrag</string>
   <string name="passport_privacy_policy">Pravila o Privatnosti</string>
   <string name="passport_privacy_policy_required">Pravila o Privatnosti (obavezno)</string>
+  <string name="passport_provision_input_email_register_prompt">Vaši osobni podaci bit će pohranjeni u skladu sa zakonima i propisima regije koju odaberete.</string>
   <string name="passport_pwd_generate_failure">"Ne mogu generirati zaporku"</string>
   <string name="passport_pwd_generating">Generiranje…</string>
   <string name="passport_querying_phone_info">Zahtijevanje podataka o računu…</string>
@@ -523,6 +526,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_register_restricted_title">"Ne mogu koristiti ovaj broj telefona"</string>
   <string name="passport_register_using_other_ways">Ostali načini registriranja</string>
   <string name="passport_registered_phone_num">Telefon: %s</string>
+  <string name="passport_registered_phone_num_v2">Broj telefona</string>
   <string name="passport_registered_phone_user_ID">ID korisnika: %s</string>
   <string name="passport_registered_phone_user_name">Korisničko ime: %s</string>
   <string name="passport_reject_recycle_account">Ne</string>
@@ -558,6 +562,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_sms_verification_code_login_or_register">Prijavite se ili izradite račun pomoću SMS-a</string>
   <string name="passport_sync_account_data">Sinkr. detalja računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Mi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
+  <string name="passport_talkback_image_captcha">Slikovni kontrolni kôd</string>
+  <string name="passport_talkback_switch_image_captcha">Prebacite se na slikovni kontrolni kôd</string>
+  <string name="passport_talkback_switch_voice_captcha">Prebacite se na glasovni kontrolni kôd</string>
+  <string name="passport_talkback_voice_captcha">Reproduciraj glasovni kontrolni kôd</string>
   <string name="passport_ticket_login_select_sim_card">Odaberite SIM karticu</string>
   <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
   <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
@@ -607,6 +615,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="phone_num_use_for">Broj telefona se koristi za:</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="provision_back">Natrag</string>
+  <string name="provision_next">Dalje</string>
+  <string name="provision_skip_underline">Preskoči</string>
   <string name="push_notification_content">Nabavite kôd</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun na nepoznatog uređaja</string>
   <string name="push_notify_dialog_message">"Nepoznati uređaj se koristi za prijavu na vaš Mi Račun. Upišite kod za provjeru na uređaju. Ako to niste bili vi, promijenite odmah zaporku Mi Računa. Ne otkrivajte kod za provjeru drugim osobama."</string>

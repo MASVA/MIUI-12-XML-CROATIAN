@@ -178,6 +178,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="adjust_traffic_carrier_summary_yesterday">Ažurirano jučer u %s</string>
   <string name="adjust_traffic_data">Postavi uporabu podataka</string>
   <string name="after_the_lock_screen">"Zaključaj aplikacije zajedno sa zaslonom."</string>
+  <string name="ai_allow_all">Odluči za mene u svim slučajevima</string>
   <string name="alert_back_diving_mode_summary">Isključiti Interaktivan način?</string>
   <string name="alert_back_diving_mode_title">Interaktivan način</string>
   <string name="alert_back_milink_hangup_tips_content">"Emitiranje se neće prekinuti dok završite poziv. Možete pritisnuti tipku Power da probudite zaslon."</string>
@@ -240,6 +241,10 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_about_content_no_link">"MIUI može prikazati kada su aplikacije pokrenule druge aplikacije, automatski se pokrenule, koristile dopuštenja i izvodile osjetljive radnje. Zbog problema sa kompatibilnošću verzije Androida, neki od ovih zapisa možda nisu točni. Ako pronađete zapis ponašanja aplikacije koji nije točan, prijavite nam ga putem aplikacije \"Usluge &amp; Povratna inf.\"."</string>
   <string name="app_behavior_about_negative">Prijavite netočnosti</string>
   <string name="app_behavior_about_positive">Razumijem</string>
+  <string name="app_behavior_access_gallery">%1s je pristupio Galeriji</string>
+  <string name="app_behavior_access_gallery_single">Ova je aplikacija pristupila Galeriji</string>
+  <string name="app_behavior_access_sociality">%1s je pristupio porukama u aplikacijama društvenih mreža</string>
+  <string name="app_behavior_access_sociality_single">Ova je aplikacija pristupila porukama u aplikacijama društvenih medija</string>
   <string name="app_behavior_allowed">Dopusti</string>
   <string name="app_behavior_audio">%1s je snimio zvuk</string>
   <string name="app_behavior_audio_bg">%1s je snimio zvuk u pozadini</string>
@@ -273,6 +278,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_contacts_bg">%1s je pristupio vašim kontaktima u pozadini</string>
   <string name="app_behavior_contacts_bg_single">Aplikacija je pristupila vašim kontaktima u pozadini</string>
   <string name="app_behavior_contacts_single">Aplikacija je pristupila vašim kontaktima</string>
+  <string name="app_behavior_delete_pic">%1s je izbrisao stavke iz galerije</string>
+  <string name="app_behavior_delete_pic_single">Ova je aplikacija izbrisala stavke iz Galerije</string>
   <string name="app_behavior_denied">Odbij</string>
   <string name="app_behavior_desc_allow_once">Dopušteno u %1$s</string>
   <string name="app_behavior_desc_deny_once">Odbijeno u %1$s</string>
@@ -1218,6 +1225,14 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
   <string name="dialog_roaming_warning_message">Nakon uključivanja međunarodnog roaminga podataka, operater će vam naplatiti naknadu. Uključiti svejedno?</string>
   <string name="dialog_roaming_warning_ok">Uključi</string>
+  <string name="dialog_skt_roaming_warning_cancel">Ne slažem se</string>
+  <string name="dialog_skt_roaming_warning_message">"Pročitajte i prihvatite dolje navedene uvjete za korištenje podatkovnog roaminga. Mogu se naplaćivati troškovi međunarodnog podatkovnog roaminga. Bez plana podatkovnog roaminga mogu se primijeniti značajni troškovi za aplikacije koje se automatski ažuriraju, poput aplikacija povezanih s društvenim mrežama, e-poštom i vremenskim prilikama.
+ * Kada se ne složite s podatkovnim roamingom, podatkovni roaming bit će onemogućen.
+ * HD Voice koristi se kao zadani na podržanim mrežama.
+ * 5G podatkovni roaming dostupan je samo u našim partnerskim mrežama.
+"</string>
+  <string name="dialog_skt_roaming_warning_ok">Slažem se</string>
+  <string name="dialog_skt_roaming_warning_title">Ugovor o roamingu podataka</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -1391,6 +1406,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="face_unlock_verity_dialog_summary">Provjerite podatke vašeg lica</string>
   <string name="face_unlock_verity_dialog_title_failed">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_verity_dialog_title_succeed">Uspješno provjereno</string>
+  <string name="file_confirm_start_activity">"%s ne smije pristupiti vašoj galeriji i aplikacijama na društvenim mrežama. Ova aplikacija želi pristupiti datotekama pohranjenim na ovom uređaju za dijeljenje predmeta. Dopustiti?"</string>
   <string name="finger_remind_message">Također možete koristiti svoj otisak sa Zaklj. aplikacija</string>
   <string name="fingerprint_identify_msg">Skenirajte svoj otisak prsta</string>
   <string name="fingerprint_not_identified_msg">Da otključate uređaj, unesite svoju zaporku.</string>
@@ -3566,6 +3582,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
   <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja..</string>
+  <string name="provision_back">Natrag</string>
+  <string name="provision_next">Dalje</string>
+  <string name="provision_skip_underline">Preskoči</string>
   <string name="qucick_replay_instrument">Koristite brze odgovore u obavijestima odabranih aplikacija (npr. WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">Skeniranje</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Ne mogu produljiti vijek trajanja baterije"</string>
@@ -3586,6 +3605,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="reach_daily_limit_value_title">Postignuto ograničenje dnevnih podataka</string>
   <string name="read_all_sms">Pročitaj sve</string>
   <string name="read_and_write_clipboard">Pristup stavkama i spremanje u međuspremnik</string>
+  <string name="read_clipboard_ai_action_desc">Primajte obavijesti kad god je pristup dopušten ili ograničen</string>
   <string name="read_clipboard_ai_close_no">Ne sad</string>
   <string name="read_clipboard_ai_close_tip">"Više nećete primati obavijesti kad aplikacije pristupe međuspremniku. Umjesto toga, dopustit će im korištenje ovog dopuštenja samo dok koristite aplikaciju. Prilagoditi dopuštenja?"</string>
   <string name="read_clipboard_ai_close_yes">Prilagodi</string>
@@ -3595,6 +3615,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="read_clipboard_tip_title">Pristup stavkama u međuspremniku</string>
   <string name="read_number">86 predmeta</string>
   <string name="read_unit">" predmeta"</string>
+  <string name="real_location_off">Približna lokacija je uključena</string>
+  <string name="real_location_on">Približna lokacija je isključena</string>
   <string name="receive_now">Primi</string>
   <string name="recently_reject_message">Odbijeno (%1$s) instalacija i drugih aplikacija (%2$d)</string>
   <string name="recently_reject_message_one">Odbijeno (%1$s) zahtjeva za instalaciju</string>

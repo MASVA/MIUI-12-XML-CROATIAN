@@ -47,6 +47,8 @@
   <string name="boosting">Ubrzavanje…</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
+   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="close">Zatvori</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -312,6 +314,9 @@
   <string name="privacy_declare_dialog_title">Uvjeti pružanja usluge</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaš broj telefona i pojedinosti operatera biti će šifrirani i poslani na Mi poslužitelje da bi dobili više informacija o mogućnosti kupnje podataka."</string>
   <string name="release_memory">Očisti predmemoriju</string>
+  <string name="saturday">Subota</string>
+  <string name="saturday_short">Sub</string>
+  <string name="saturday_shortest">S</string>
   <string name="save_energy_text">"Ograniči automatsko pokretanje i sinkronizaciju aplikacija u pozadini kako bi dobili najviše iz baterije uređaja"</string>
   <string name="save_energy_title">Optimiziraj bateriju</string>
   <string name="scan_installed_games">Provjera instaliranih igara…</string>

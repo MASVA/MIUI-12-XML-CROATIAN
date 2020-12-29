@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="items_unsynced">
          <item quantity="other">Stavke koje čekaju na sinkr.: %d</item>
-         <item quantity="one">Stavka koja čeka na sinkr.: %d</item>
+         <item quantity="one">%d stavka koja čeka na sinkr.</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
          <item quantity="other">%d stavki čekaju na sinkr.</item>
@@ -18,19 +18,23 @@
      </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">Kontakti: %d</item>
-        <item quantity="one">Kontakt: %d</item>
+        <item quantity="one">%d kontakt</item>
     </plurals>
     <plurals name="dirty_mms_count">
         <item quantity="other">Poruka: %d</item>
-        <item quantity="one">Poruka: %d</item>
+        <item quantity="one">%d poruka</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">Bilješki: %d</item>
-        <item quantity="one">Bilješka: %d</item>
+        <item quantity="other">Bilješke: %d</item>
+        <item quantity="one">%d bilješka</item>
     </plurals>
+	     <plurals name="dirty_note_count_v2">
+        <item quantity="other">Bilješke: %d</item>
+        <item quantity="one">%d bilješka</item>
+     </plurals>
     <plurals name="dirty_image_count">
         <item quantity="other">Fotografija: %d</item>
-        <item quantity="one">Fotografija: %d</item>
+        <item quantity="one">%d fotografija</item>
     </plurals>
 	<plurals name="dirty_callog_count">
          <item quantity="other">%d zapisa povijesti poziva</item>
@@ -89,8 +93,8 @@
         <item quantity="one">%s usluga će se sinkronizirati s Mi Cloudom</item>
     </plurals>
 	<plurals name="select_no_more_than">
-        <item quantity="other">"Ne može se odabrati više od %d stavki"</item>
-        <item quantity="one">"Ne može se odabrati više od %d stavke"</item>
+        <item quantity="other">"Ne možete odabrati više od %d stavki"</item>
+        <item quantity="one">"Ne možete odabrati više od %d stavke"</item>
     </plurals>
 	     <plurals name="dirty_wlan_count_china">
         <item quantity="other">%d WLAN mreža</item>
@@ -102,7 +106,7 @@
      </plurals>
 	      <plurals name="share_sdk_invitation_some_people_accepted">
         <item quantity="other">Poziv je prihvatilo %d osoba</item>
-        <item quantity="one">Poziv je prihvatila %d osoba</item>
+        <item quantity="one">%d osoba je prihvatila poziv</item>
      </plurals>
      <plurals name="time_format_day">
         <item quantity="other">%1$s dana</item>

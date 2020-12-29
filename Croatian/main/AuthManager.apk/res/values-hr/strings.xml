@@ -28,9 +28,11 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="blur_location_is_on_tip">%1$s je započeo uslugu približne lokacije. Želite li zadržati približnu uslugu lokacije uključenom?</string>
+  <string name="blur_location_title">Približna lokacija</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clipboard_data">"Sadržaj: "</string>
-  <string name="Dashboard_App">Aplik.</string>
+  <string name="Dashboard_App">Aplikacija</string>
   <string name="Dashboard_HIPS_Disable_Content">"MIUI neće nadzirati zahtjeve dopuštenja aplikacija"</string>
   <string name="Dashboard_HIPS_Disable_Title">Dopuštenja</string>
   <string name="Dashboard_Log">Zapisi</string>
@@ -373,6 +375,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="default_permission_description">izvesti nepoznate radnje</string>
   <string name="go_perm_manager">Upravljanje dopuštenjima</string>
   <string name="go_setting">Postavke</string>
+  <string name="gold_master_dialog_reject">Odbij (%d)</string>
+  <string name="gold_master_dialog_title">%1$s želite pročitati međuspremnik</string>
   <string name="grant_confirm_question">Želite li odobriti slijedeća dopuštenja? Ona će dobiti pristup:</string>
   <string name="grant_dialog_button_allow">Dopusti</string>
   <string name="grant_dialog_button_allow_always">Dopusti cijelo vrijeme</string>
@@ -386,6 +390,8 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="grant_dialog_storage_category_title">Ova aplikacija zahtijeva dopuštenja za pristup Galeriji i porukama u aplikacijama društvenih medija</string>
   <string name="grant_dialog_storage_gallery_title">Galerija</string>
   <string name="grant_dialog_storage_sociality_title">Poruke u aplikacijama društvenih medija</string>
+  <string name="keep_blur_location">Drži uključeno</string>
+  <string name="keep_notice_me">Obavještavaj i dalje</string>
   <string name="location_settings">Postavke lokacije</string>
   <string name="location_warning">%1$s je davatelj usluga lociranja za ovaj uređaj. Pristup lokaciji može se mijenjati iz postavki lokacija.</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -395,6 +401,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi sve</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
@@ -452,6 +461,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
   <string name="never_ask_again">"Ne pitaj ponovo nakon ograničavanja"</string>
+  <string name="notification_click_tip">Dodirnite za prikaz detalja</string>
   <string name="no">Ne</string>
   <string name="ok">U redu</string>
   <string name="perm_action_allow">Dopusti</string>

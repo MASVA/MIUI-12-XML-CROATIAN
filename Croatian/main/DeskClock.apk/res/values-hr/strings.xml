@@ -576,4 +576,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Jučer</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
 </resources>

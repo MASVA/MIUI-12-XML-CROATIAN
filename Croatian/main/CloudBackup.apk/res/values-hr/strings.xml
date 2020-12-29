@@ -229,6 +229,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>
+  <string name="provision_back">Natrag</string>
+  <string name="provision_next">Dalje</string>
+  <string name="provision_skip_underline">Preskoči</string>
   <string name="provision_background_restore_more_data">Vratite više stavki u pozadini</string>
   <string name="provision_error_connect_msg">Testirajte mrežu i pokušajte ponovno. Sig. kopije nisu dostupne kada je uređaj izvan mreže.</string>
   <string name="provision_error_connect_title">Ne mogu se povezati</string>

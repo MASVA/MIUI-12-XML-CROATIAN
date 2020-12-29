@@ -339,6 +339,9 @@
   <string name="home_switch_personal_assistant">-1 ZASLON</string>
   <string name="icon_reorganize_channel">Rasporedite ikone</string>
   <string name="icon_size">Veličina ikone</string>
+  <string name="icon_customize_summary">Odaberite stil i prilagodite veličinu</string>
+  <string name="icon_form">Ikone</string>
+  <string name="icon_style">Stil</string>
   <string name="image_too_small_message">"Originalna slika nije dovoljno velika"</string>
   <string name="install">Instaliraj</string>
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
@@ -536,6 +539,8 @@
   <string name="recommend_xout">"Ne prikazuj"</string>
   <string name="refresh">Osvježi</string>
   <string name="remove_invalidate_gadget_tips">Jedan od widgeta koji koristite više nije dostupan. Možete dodati neki drugi.</string>
+  <string name="remove_dialog_message">Odabrane aplikacije sadrže osnovne značajke sustava. Možete ukloniti samo njihove prečace na Poč. zaslonu.</string>
+  <string name="remove_dialog_title_format">Ukloniti \"%s\" s Poč. zaslona?</string>
   <string name="reset_cate_tip_content">Ako nastavite, zadane grupe aplikacija će biti vraćene . Nastaviti svejedno?</string>
   <string name="reset_cate_tip_title">Vrati zadane grupe</string>
   <string name="reset_description_first_time">Možete vratiti raspored iz %1$s unutar 2 sata</string>

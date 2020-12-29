@@ -836,4 +836,42 @@
         <item quantity="other">%d aplikacija prazni bateriju</item>
         <item quantity="one">%d aplikacija prazni bateriju</item>
      </plurals>
+	      <plurals name="gb_voice_changer_toast_tips_window_bubble">
+        <item quantity="other">"Isprobajte Voice Changeer odmah 
+da biste dobili %d-dnevno besplatno probno razdoblje"</item>
+     </plurals>
+     <plurals name="gb_voice_changer_trial_gain_fail">
+        <item quantity="other">"Ne mogu primiti %d-dnevno besplatno probno razdoblje"</item>
+        <item quantity="one">"Ne mogu primiti %d-dnevno besplatno probno razdoblje"</item>
+     </plurals>
+     <plurals name="gb_voice_changer_trial_gain_success">
+        <item quantity="other">Uspješno primljeno %d-dnevno besplatno probno razdoblje</item>
+        <item quantity="one">Uspješno primljeno %d-dnevno besplatno probno razdoblje</item>
+     </plurals>
+     <plurals name="gb_voice_changer_user_status_get_trial_card">
+        <item quantity="other">Dobijte %d-dnevno besplatno probno razdoblje</item>
+        <item quantity="one">Dobijte %d-dnevno besplatno probno razdoblje</item>
+     </plurals>
+     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
+        <item quantity="other">"Vaša je pretplata istekla.
+Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
+        <item quantity="one">"Vaša je pretplata istekla.
+Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
+     </plurals>
+     <plurals name="gb_voice_changer_user_tips_info">
+        <item quantity="other">Dobijte %d-dnevno besplatno probno razdoblje</item>
+        <item quantity="one">Dobijte %d-dnevno besplatno probno razdoblje</item>
+     </plurals>
+     <plurals name="lockpattern_recording_intro_header_new">
+        <item quantity="other">Povežite najmanje %s točaka</item>
+        <item quantity="one">Povežite najmanje %s točku</item>
+     </plurals>
+     <plurals name="unlock_set_unlock_pattern_summary_new">
+        <item quantity="other">Povežite najmanje %s točaka</item>
+        <item quantity="one">Povežite najmanje %s točku</item>
+     </plurals>
+     <plurals name="unlock_set_unlock_pin_summary_new">
+        <item quantity="other">Unesite %s brojeva</item>
+        <item quantity="one">Unesite %s broj</item>
+     </plurals>
 </resources>

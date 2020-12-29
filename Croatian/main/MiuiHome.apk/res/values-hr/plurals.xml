@@ -107,4 +107,8 @@
         <item quantity="other">povlačenje stavki %1$d</item>
         <item quantity="one">povlačenje %1$d stavke</item>
      </plurals>
+	 <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Ukloniti %1$d aplikacija s Poč. zaslona?</item>
+        <item quantity="one">Ukloniti %1$d aplikaciju s Poč. zaslona?</item>
+     </plurals>
 </resources> 

@@ -75,9 +75,9 @@
   <string name="attach_photo_dialog_title">Kontakt fotografija</string>
   <string name="audio_chat">Glasovni chat</string>
   <string name="auto_nickname">"Automatski"</string>
-  <string name="back">Natrag</string>
   <string name="auto_record_yellowpage">Yellow pages</string>
   <string name="auto_set_nickname">"Automatski"</string>
+  <string name="back">Natrag</string>
   <string name="back_description">Natrag</string>
   <string name="back_view_description">Idi natrag</string>
   <string name="batch_delete">Izbriši seriju</string>
@@ -91,6 +91,7 @@
   <string name="bh_app_name">Mi Usluge operatera</string>
   <string name="bh_app_name_short">Usluge operatera</string>
   <string name="bh_b">B</string>
+  <string name="bh_back">Natrag</string>
   <string name="bh_bill_balance">Stanje</string>
   <string name="bh_bill_charge">Nadoplati bon</string>
   <string name="bh_bugreport">Business feedback</string>
@@ -106,6 +107,7 @@
   <string name="bh_charged_phone_number">Broj telefona: %1$s</string>
   <string name="bh_close_traffic_package">Zatvori detalje plana mobilnog operatera</string>
   <string name="bh_cmcc">China Mobile</string>
+  <string name="bh_confirm">U redu</string>
   <string name="bh_contact_number">%1$s iz vaših kontakata</string>
   <string name="bh_ct">China Telecom</string>
   <string name="bh_cu">China Unicom</string>
@@ -245,7 +247,6 @@
   <string name="call_pager">"Nazovi dojavljivač"</string>
   <string name="call_problem_report">Prijavi problem</string>
   <string name="call_radio">"Nazovi radio"</string>
-  <string name="call_record_setting_miui">Postavke snimanja zvuka</string>
   <string name="call_record_add_numbers">Dodajte telefonske brojeve</string>
   <string name="call_record_auto_always">Dodajte pozive</string>
   <string name="call_record_auto_scenario_title">Snimljeni pozivi</string>
@@ -266,6 +267,7 @@
   <string name="call_record_password_closed">Isključeno</string>
   <string name="call_record_password_opened">Uključeno</string>
   <string name="call_record_password_summary">Zaštitite snimke poziva dodatnom zaporkom</string>
+  <string name="call_record_setting_miui">Postavke snimanja zvuka</string>
   <string name="call_record_storage_list">Snimke poziva</string>
   <string name="call_record_text_auto_delete">Automatski izbriši snimke poziva</string>
   <string name="call_record_text_auto_delete_half_year">Nakon %d mjeseci</string>
@@ -490,6 +492,13 @@ Kartice kontakata su isključene"</string>
   <string name="create_group_item_label">Izrada nove grupe</string>
   <string name="create_qrcode_fail_message">"Ne mogu kreirati QR kod"</string>
   <string name="create_voip_shortcut_success">Prečac je napravljen</string>
+  <string name="cta_content_seg1">&lt;Data&gt;"&amp;lt;strong&amp;gt;Va&amp;#382;na obavijest
+Dodirom na \"Sla&amp;#382;em se\" dolje, sla&amp;#382;ete se s &amp;lt;font color=#33aaff&amp;gt;&amp;lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'&amp;gt;Mi Account Service Agreement&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;, &amp;lt;font color=#33aaff&amp;gt;&amp;lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'&amp;gt;Mi Roaming User Agreement&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;, i &amp;lt;font color=#33aaff&amp;gt;&amp;lt;a href ='http://www.miui.com/res/doc/privacy/en.html'&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;. Pa&amp;#382;ljivo pro&amp;#269;itajte ove dokumente i u potpunosti razumite sve povezane uvjete i odredbe prije nego &amp;#353;to se slo&amp;#382;ite.&amp;lt;/strong&amp;gt;"&lt;/Data&gt;</string>
+  <string name="cta_content_seg2">"
+Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji da bi normalno radio. Uz to, Mi Roaming može prikupljati, koristiti i dijeliti vaše osobne podatke. Vaši osobni podaci bit će zaštićeni u skladu s lokalnim zakonima i propisima."</string>
+  <string name="cta_dialog_cancel">Izlaz</string>
+  <string name="cta_dialog_ok">Slažem se</string>
+  <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="customLabelPickerTitle">Prilagođeni naziv oznake</string>
   <string name="custom_list_filter">"Definiranje prilagođenog prikaza"</string>
   <string name="custom_nickname_hint">Unesite nadimak</string>
@@ -713,6 +722,7 @@ Razlog: \"%s\""</string>
   <string name="favoritesFrequentContacted">Često kontaktirani</string>
   <string name="favorites_list_empty">Nema favorita</string>
   <string name="firewall_setting">Lista blokiranih</string>
+  <string name="flow_use_analyse">Statistika korištenja</string>
   <string name="followed_yellowpage">Provjereni računi</string>
   <string name="force_touch_miprofile">Kartica kontakta</string>
   <string name="force_touch_new_contact">Novi kontakt</string>
@@ -756,11 +766,11 @@ Razlog: \"%s\""</string>
   <string name="heduohao_label">HeDuoHao</string>
   <string name="heduohao_main_call_menu_title">Biraj na početnoj</string>
   <string name="heduohao_popup_txt">Sub%d</string>
-  <string name="hide_app_description_content">"Kontakti je sistemska aplikacija. I dalje ćete ga moći koristiti putem aplikacije Telefon nakon što uklonite prečac na Poč. zaslonu."</string>
-  <string name="hide_app_description_title">Ukloniti \"Kontakti\" sa Poč. zaslona?</string>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
+  <string name="hide_app_description_content">"Kontakti je sistemska aplikacija. I dalje ćete ga moći koristiti putem aplikacije Telefon nakon što uklonite prečac na Poč. zaslonu."</string>
+  <string name="hide_app_description_title">Ukloniti \"Kontakti\" sa Poč. zaslona?</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">"Pronađi kontakte"</string>
   <string name="hint_more_contact">Spoji dvostruke kontakte</string>
@@ -1251,6 +1261,13 @@ Za dodavanje kontakta na listu favorita :
   <string name="path_wipe_data">Aplikacije sustava/Kontakti/Organizraj kontakte/Izbriši podatke</string>
   <string name="payphone">"Telefonska govornica"</string>
   <string name="people">"Kontakti"</string>
+  <string name="permission_access_fine_location_desc">Za poboljšanje signala lokalne mreže</string>
+  <string name="permission_camera_desc">Za fotografiranje tijekom provjere osobne iskaznice</string>
+  <string name="permission_contact_desc">Za nadopunu računa kontakata</string>
+  <string name="permission_dailog_positive_button">Kreni</string>
+  <string name="permission_dailog_title">Potrebna dopuštenja</string>
+  <string name="permission_record_audio_desc">Za upotrebu glasa tijekom provjere osobnih podataka</string>
+  <string name="permission_write_external_storage_desc">Za spremanje podataka aplikacije</string>
   <string name="phoneLabelsGroup">"Telefon"</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>
@@ -1352,6 +1369,14 @@ Za dodavanje kontakta na listu favorita :
   <string name="preview_contact_card_title">"Uvoz kontakata…"</string>
   <string name="preview_incall_show_entry">Pregled videozapisa</string>
   <string name="previous">Prethodno</string>
+  <string name="privacy_password_message1">Zaporka za zaštitu privatnosti radi za fotografije, bilješke i skrivene mape.</string>
+  <string name="privacy_password_message2">Koristite zaporku za zaštitu privatnosti. Radi za fotografije, bilješke i skrivene mape.</string>
+  <string name="privacy_password_message3">Vaša će zaporka biti zamijenjena zaporkom za zaštitu privatnosti koja radi za fotografije, bilješke i skrivene mape.</string>
+  <string name="privacy_password_set_password">Postavi</string>
+  <string name="privacy_password_title1">Postavi zaporku</string>
+  <string name="privacy_password_title2">Koristi zaporku za zaštitu privatnosti</string>
+  <string name="privacy_password_title3">Nadogradite vašu zaporku</string>
+  <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="private_num">"Privatni broj"</string>
   <string name="profileSavedErrorToast">"Ne mogu spremiti promjene profila"</string>
   <string name="profileSavedToast">Promjene profila spremljene</string>
@@ -1462,6 +1487,9 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_display_sim_contacts">Kontakti;Prikaz</string>
   <string name="search_export_to_sdcard">Kontakti;Izvoz;SD kartica</string>
   <string name="search_export_to_sim">Kontakti;Izvoz;SIM kartica</string>
+  <string name="search_group_call">Pozivi</string>
+  <string name="search_group_call_search_tip">Pronađeni rezultati u ovom pozivu. Dodirnite za prikaz.</string>
+  <string name="search_group_contacts">Kontakti</string>
   <string name="search_import_export">Uvoz;Izvoz;Podijeli</string>
   <string name="search_import_from_other_phone">Kontakti;Uvoz;Drugi telefon</string>
   <string name="search_import_from_sdcard">Kontakti;Uvoz;SD kartica</string>
@@ -1471,6 +1499,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="search_key_rebuild_t9_index_title">Organiziraj;Kontakti;t9</string>
   <string name="search_key_sim_manage">Organiziraj;Kontakti</string>
   <string name="search_menu_title">Traži</string>
+  <string name="search_new_funcation">O ovoj značajci</string>
+  <string name="search_open_new_funcation">Uključi</string>
+  <string name="search_open_new_funcation_tip">Kad je ova značajka uključena, vaši će se pozivi automatski snimati, što vam omogućuje da pronađete pozive tijekom kojih su spomenute određene riječi.</string>
+  <string name="search_open_new_funcation_title">Pretraživanje glasovnih poziva</string>
   <string name="search_preference_contacts_filter">Kontakti;Prikaz</string>
   <string name="search_quick_dial_setting">Kontakti</string>
   <string name="search_remove_duplicate">Organiziraj;Kontakti</string>
@@ -1609,6 +1641,8 @@ Za dodavanje kontakta na listu favorita :
   <string name="take_photo">Snimi fotografiju</string>
   <string name="telecom_fraud_insurance">Telekom prijevara osiguranja</string>
   <string name="telecom_fraud_insurance_description">10,000 CNY osiguranje| Ekskluzivna Xiaomi ponuda | 9.9 CNY godišnje</string>
+  <string name="text_msim_balance">Iskorišteno danas</string>
+  <string name="text_vsim_remain_time">Preostalo minuta</string>
   <string name="theme_dialog_confirm_button">Razumijem</string>
   <string name="theme_dialog_confirm_content">"Ova verzija aplikacije Kontakti ne podržava temu koja se trenutno postavlja."</string>
   <string name="theme_dialog_confirm_title">"Ne mogu postaviti temu"</string>
@@ -1647,6 +1681,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="type_outgoing">Odlazni poziv</string>
   <string name="type_voicemail">"Govorna pošta"</string>
   <string name="unable_get_device_id">"Ne mogu dobiti IMEI"</string>
+  <string name="undefined">Nije postavljeno</string>
   <string name="unfold_all">Prikaži sve</string>
   <string name="unknow_phone_number_call_failed">"Ne mogu nazvati nepoznate brojeve"</string>
   <string name="unknow_phone_number_mms_failed">"Ne mogu poslati SMS na nepoznate brojeve"</string>
@@ -1707,12 +1742,15 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_video_description">VoIP videopoziv</string>
   <string name="websiteLabelsGroup">"Web-lokacija"</string>
+  <string name="webview_btn_retry">Pokušajte ponovo</string>
+  <string name="webview_network_failure">"Ne mogu se povezati na mrežu"</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
   <string name="wipe_data">Izbriši podatke</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>
+  <string name="yellowpage_address_tag">Adresa</string>
   <string name="yellowpage_fc_toast">"Ne mogu nastaviti koristiti jer je Direktorij prestao raditi."</string>
   <string name="yellowpage_mi_family">Mi Obitelj</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
@@ -1734,6 +1772,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Preuzimanje…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">"Ne mogu se povezati na mrežu."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na početni zaslon</string>
+  <string name="yellowpage_provider_label">Tehničku podršku za prepoznavanje ID-a pozivatelja/pošiljatelja pruža</string>
   <string name="yellowpage_search_the_yellowpage">Pretraži imenik</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Jučer</string>

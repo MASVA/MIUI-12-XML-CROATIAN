@@ -1656,6 +1656,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="no_sim_card">Nema SIM kartice</string>
   <string name="no_tiles_add">Nema pločica za dodavanje</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
+  <string name="not_default_data_content_description">Nije postavljeno za upotrebu podataka</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podržava Podijeljeni zaslon"</string>
   <string name="notch_sos_status_bar_title">SOS</string>

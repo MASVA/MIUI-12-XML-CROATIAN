@@ -24,6 +24,7 @@
     <string name="media_size_8x10in">8x10 in</string>
     <string name="no_printer_found">Na ovoj adresi nije pronađen pisač</string>
     <string name="not_encrypted_request">Ovaj pisač više ne prihvaća kriptirane zadatke. Želite li nastaviti s ispisom?</string>
+	<string name="print">Ispiši</string>
     <string name="printer_bad_certificate">Neispravan certifikat</string>
     <string name="printer_busy">Zauzet</string>
     <string name="printer_check">Provjerite pisač</string>

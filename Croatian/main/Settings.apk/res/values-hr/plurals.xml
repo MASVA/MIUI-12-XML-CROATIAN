@@ -119,7 +119,6 @@
 	 <plurals name="billing_cycle_days_left">
         <item quantity="other">još %d dana</item>
         <item quantity="one">još %d dan</item>
-        <item quantity="few">još %d dana</item>
     </plurals>
 	<plurals name="connected_devices_number">
          <item quantity="other">%d uređaja</item>
@@ -679,6 +678,7 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
 	 <plurals name="accessibilty_autoclick_delay_unit_second">
         <item quantity="other">%1$s sek.</item>
         <item quantity="one">%1$s sek.</item>
+		<item quantity="few">%1$s sek.</item>
      </plurals>
      <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
         <item quantity="other">Srednje (%1$s sek.)</item>

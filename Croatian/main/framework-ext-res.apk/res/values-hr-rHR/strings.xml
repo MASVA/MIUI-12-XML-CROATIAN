@@ -72,10 +72,14 @@
   <string name="device_status_success">Uspješno poslano</string>
   <string name="device_status_waiting">Na čekanju…</string>
   <string name="device_type_pc">Računalo</string>
+  <string name="disable_nfc">Isključen NFC za bežično punjenje</string>
+  <string name="disable_nfc_reverse">Isključen NFC za obrnuto bežično punjenje</string>
   <string name="eighthours">8 sati</string>
   <string name="enable_livetalk_summary">Uštedite 70% na vašim pozivima</string>
   <string name="enable_livetalk_title">Uključi paket nadoplate</string>
   <string name="enable_midrop">Uključi</string>
+  <string name="enable_nfc">Nema više punjenja. NFC ponovno uključen.</string>
+  <string name="enable_nfc_reverse">Nema više obrnutog bežičnog punjenja. NFC ponovno uključen.</string>
   <string name="fc_dialog_body">Poslati izvještaj o pogreškama Mi za analizu? Ovaj izvještaj može sadržavati osobne podatke. Vaš će se izvještaj koristiti za pomoć rješavanja ove pogreške i nikada neće se dijeliti u komercijalnom kontekstu.</string>
   <string name="fc_dialog_jump_to_preview">Prikaži izvještaj</string>
   <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
@@ -91,6 +95,8 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne sada</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Uključi</string>
   <string name="fp_nav_center_action_choose_dlg_title">Uključi Brzi dodir</string>
+  <string name="freeform_exchange_tip">Release to open app</string>
+  <string name="freeform_exchange_tip2">Povucite u kut da biste odustali</string>
   <string name="frequent_email">Česta adresa e-pošte</string>
   <string name="frequent_phrases">Česti izrazi</string>
   <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
