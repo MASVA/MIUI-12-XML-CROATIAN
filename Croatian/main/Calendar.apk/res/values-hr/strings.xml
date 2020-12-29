@@ -158,6 +158,8 @@
   <string name="clear_net_mock_success">Net mock uspješno očišćen</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="click_for_create_event">Kliknite da izradite događaj za %s</string>
+  <string name="click_paste">Kliknite za lijepljenje</string>
   <string name="close_alarm">Isključi</string>
   <string name="color_picker_default_title">Odaberite boju</string>
   <string name="color_swatch_description">Boja %1$d</string>

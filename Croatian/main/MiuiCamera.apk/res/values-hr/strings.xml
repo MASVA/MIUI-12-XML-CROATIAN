@@ -491,6 +491,9 @@ skenirane dokumente automatski"</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Poboljšano</string>
   <string name="download_by_browser">Preuzmi sa Preglednikom</string>
+  <string name="download_cancel_hint">Otkazati preuzimanje %1$s?</string>
+  <string name="download_confirm">Preuzmi</string>
+  <string name="download_hint">%1$s MB mobilnih podataka koristit će se za preuzimanje stavke. Svejedno preuzeti?</string>
   <string name="download_in_progress">Preuzimanje…</string>
   <string name="download_qq">Preuzmi QQ</string>
   <string name="download_title">Upozorenje upotrebe podataka</string>
@@ -1365,6 +1368,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_ultra_wide_ldc_description">Ispravi izobličene objekte automatski</string>
   <string name="pref_camera_ultra_wide_ldc_title">Ispravi izobličenje u ultra širokim snimkama</string>
   <string name="pref_camera_ultra_wide_mode_title">Ultra široki kut</string>
+  <string name="pref_camera_video_ai_scene_title">AI kamera</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh je zatvoren</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_video_duration_entry_10">10 minuta</string>
@@ -1430,6 +1434,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_hdr10_video_mode_description">Automatski optimizira boje i kontrast za 4K i 8K videozapise. Optimizirani videozapisi mogu se reproducirati samo na uređajima kompatibilnim s HDR10</string>
   <string name="pref_hdr10_video_mode_title">HDR10</string>
   <string name="pref_hdr10plus_video_mode_description">Optimizira boje i kontrast za 4K i 8K videozapise. Ova značajka radi samo na uređajima kompatibilnim s HDR10 +.</string>
+  <string name="pref_hdr10_hdr10plus_video_mode_description">Optimizirajte boje za 4K (HDR10 +) i 8K (HDR10) videozapise. Ova značajka radi samo na uređajima kompatibilnim s HDR10 +/HDR10.</string>
   <string name="pref_hdr_indicator_entry_auto">Autom.</string>
   <string name="pref_hdr_indicator_entry_off">Isklj.</string>
   <string name="pref_hdr_indicator_entry_on">Uklj.</string>

@@ -24,7 +24,11 @@
   <string name="change_passwork_dialog_title">Ažurirati zaporke?</string>
   <string name="delete">Izbriši</string>
   <string name="invalid_package_signature">Potpis aplikacije nije važeći</string>
+  <string name="login_mi_account_alert">Upit</string>
+  <string name="login_mi_account_summary">Da biste uključili upravitelja zaporkama, trebate se prijaviti na Mi Račun, prijaviti se sad?</string>
   <string name="ok">U redu</string>
+  <string name="password_manager">Upravitelj zaporkama</string>
+  <string name="password_manager_summary">Upravitelj zaporkama u cloudu, sigurnosna kopija na Mi Račun</string>
   <string name="save_content_tip">"Spremit će se sljedeće stavke: "</string>
   <string name="search">Traži</string>
   <string name="settings_clear_data_confirmation_description">"Ako sada izbrišete zaporke, morat ćete ih unijeti ručno sljedeći put kada se prijavite.

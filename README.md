@@ -1,9 +1,9 @@
 
-<dl><dd><img src="https://i.imgur.com/erbkbaC.jpg" border="0" alt="MIUI12_logo"></a></dd></dl>
+<dl><dd><img src="https://i.ibb.co/Pt8HBq6/12-5.png" border="0" alt="MIUI12_logo"></a></dd></dl>
 
 # MIUI 12-XML-CROATIAN
 
- Croatian translation for MIUI 12
+ Croatian translation for MIUI 12.5
  
 
  MIUI Translation: **MASVA**
