@@ -33,6 +33,7 @@
   <string name="action_mode_switcher_grid_description">Rešetka</string>
   <string name="action_mode_switcher_list_description">Popis</string>
   <string name="action_settings_description">Otvori Postavke</string>
+  <string name="action_to_link">Otvori URL</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="actionbar_close_description">Zatvori</string>
   <string name="actionbar_home_description">Natrag</string>
@@ -43,6 +44,7 @@
   <string name="alert_edit_action_delete">Ukloni</string>
   <string name="alert_edit_action_update">Promjeni</string>
   <string name="alert_message_delete">Izbrisati %1$s?</string>
+  <string name="alert_message_delete_excerpt">Želite li izbrisati ovu bilješku? Isječak će se također izbrisati.</string>
   <string name="alert_message_delete_note">Izbrisati ovu bilješku?</string>
   <string name="alert_message_edit_anyway">Ako uredite ovu bilješku, nešto od sadržaja može biti izgubljeno.</string>
   <string name="alert_message_restore">"Ne mogu otvoriti ovu bilješku. Obnovite je da možete urediti njen sadržaj."</string>
@@ -120,6 +122,8 @@
   <string name="cloud_trash_bin_title">Izbriši bilješke u Mi Cloudu</string>
   <string name="confirm_cancel">"Ne slažem se"</string>
   <string name="confirm_ok">Slažem se</string>
+  <string name="continuous_default_hint">Kopirajte tekst, spremajte slike i snimke zaslona kao isječke</string>
+  <string name="continuous_new_excerpt_title">Novi isječak</string>
   <string name="copy">Kopiraj</string>
   <string name="cta_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i dodijelite neobavezna dopuštenja kako bi mogla koristiti sve njegove značajke.</string>
   <string name="cta_confirm_cancel">"Odustani"</string>
@@ -145,6 +149,12 @@
   <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu MIUI verziju zahtijeva brisanje podataka aplikacije za Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju bilježaka na Mi Cloud."</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>
+  <string name="dialog_button_cancel">Odustani</string>
+  <string name="dialog_button_close">Zatvori</string>
+  <string name="dialog_button_confirm">U redu</string>
+  <string name="dialog_button_confirm_delete">Izbriši</string>
+  <string name="dialog_button_continue_work">Nastavi</string>
+  <string name="dialog_button_move">Premjesti</string>
   <string name="dialog_privacy_revoke_tips">"Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Mi Cloud."</string>
   <string name="dialog_share_as_pic">Podijeli bilješku kao sliku</string>
   <string name="dialog_share_as_text">Podijeli bilješku kao tekst</string>
@@ -179,6 +189,8 @@
   <string name="doodle_action_exit_immersion_mode">Interaktivni način je isključen</string>
   <string name="doodle_action_hide_tool_panel">Sakrij alate</string>
   <string name="doodle_action_show_tool_panel">Prikaži alate</string>
+  <string name="doodle_background_dot">Točkasto</string>
+  <string name="doodle_background_white">Bijelo</string>
   <string name="doodle_brush_config_alpha">Neprozirnost poteza</string>
   <string name="doodle_brush_config_width_level">Širina poteza</string>
   <string name="doodle_brush_markpen">Marker</string>
@@ -186,6 +198,11 @@
   <string name="doodle_brush_pencil">Kemijska</string>
   <string name="doodle_brush_watercolor">Flomaster</string>
   <string name="doodle_feature">Doodles</string>
+  <string name="doodle_guide_brush_config_hint">Ponovno dodirnite za podešavanje širine poteza i neprozirnosti</string>
+  <string name="doodle_guide_dialog_confirm">U redu</string>
+  <string name="doodle_guide_dialog_skip">Preskoči</string>
+  <string name="doodle_guide_dialog_title">Skiciranje</string>
+  <string name="doodle_guide_quick_shape_hint" formatted="false">Pritisnite i držite skicu na %d–%d sek. za automatsko podešavanje poteza</string>
   <string name="doodle_palette">Paleta boja</string>
   <string name="doodle_save_progress_text">Spremanje…</string>
   <string name="doodle_saving">Spremanje</string>
@@ -220,8 +237,16 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_unsupport_content">Ova bilješka sadrži nepodržani sadržaj, dodirnite ovdje za ažuriranje</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="exceed_todo_text_limitation">Opis zadatka je predugačak.</string>
+  <string name="excerpt">Izradite isječak</string>
+  <string name="excerpt_bubble_tips">Kopirani tekst i spremljene slike bit će spremljeni u Bilješke</string>
+  <string name="excerpt_link_bubble_tips">Dodirnite za spremanje u Bilješke</string>
+  <string name="excerpt_note">Moji izvodi</string>
+  <string name="excerpted_to_note">Isječak spremljen u Bilješke</string>
+  <string name="excerpting">Izrada izvoda…</string>
   <string name="expand_button_title">Napredno</string>
   <string name="first_enter_custom_folder_hint">Ovdje možete preimenovati ili brisati mape</string>
+  <string name="float_note_empty">Ovdje nema bilješki</string>
+  <string name="float_note_title">Bilješke</string>
   <string name="float_todo_guide_cancel">Odustani</string>
   <string name="float_todo_guide_message">Prečac Poč. zaslona omogućuje vam da prijeđete prstom od ruba zaslona da biste pogledali i izradili zadatke. Izraditi prečac sada?</string>
   <string name="float_todo_guide_message_v2">Prečac gesti omogućuje vam da pregledate i izradite zadatke povlačenjem s ruba zaslona. Možete uključiti i isključiti ovu značajku u Postavkama.</string>
@@ -235,6 +260,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="force_touch_menu_add">Dodaj bilješku</string>
   <string name="format_move_note_out_folder">Ta je bilješka premještena</string>
   <string name="format_move_note_to_folder">Premješteno u %1$s</string>
+  <string name="frequently_click_tips">Prebrzo! Pričekajte minutu-dvije i pokušajte ponovo.</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -256,6 +282,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="image_annotation_edit_hint">Opis slike</string>
   <string name="image_annotation_edit_length_warning">Opis slike može sadržavati do %d znakova</string>
   <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
+  <string name="last_excerpt_unfinish_hint">Najnoviji isječak je nepotpun</string>
   <string name="loading_text">Samo trenutak…</string>
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
   <string name="lunar_day">Lunar %1$s</string>
@@ -290,6 +317,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="menu_unstick">Oslobodi</string>
   <string name="merge_to_folder">Izradi mapu</string>
   <string name="midnight">AM</string>
+  <string name="mind_note_first_enter_guide">Dodirnite za stvaranje mape uma</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -357,10 +385,12 @@ Dodirnite + da napravite mapu"</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
   <string name="morning">AM</string>
+  <string name="new_app_name">Mi Bilješke</string>
   <string name="new_audio_create_cancel_talkback_des">Otkazano</string>
   <string name="new_audio_create_done_talkback_des">Izrađeno</string>
   <string name="new_audio_create_guide_tip">Pritisnite i držite za stvaranje glasovne bilješke</string>
   <string name="new_audio_create_talkback_des">Dodirnite za stvaranje tekstualne bilješke. Pritisnite i držite za stvaranje glasovne bilješke. Otpustite tipku da zaustavite snimanje i izradite bilješku ili povucite prema gore da odustanete.</string>
+  <string name="new_data_empty_note">Ovdje još nema stavki</string>
   <string name="night">PM</string>
   <string name="noon">PM</string>
   <string name="not_now">Ne sada</string>
@@ -368,9 +398,12 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_alert_expired">Isteklo</string>
   <string name="note_description_content">Aplikacija Bilješke izvrstan je alat za snimanje vaših ideja. Ima ugrađene podsjetnike i sinkronizira vaše stavke u Mi Cloudu tako da im možete pristupiti bilo gdje i bilo kada.</string>
   <string name="note_description_title">O Bilješkama</string>
+  <string name="note_dual_screen_dialog_content">"Izgleda da sada uređujete bilješke na računalu. Da biste izbjegli sukobljena uređivanja, zatvorite Bilješke na računalu."</string>
+  <string name="note_dual_screen_dialog_title">Korištenje Combo zaslona…</string>
   <string name="note_gesture_guide_step1">Pritisnite i držite plus za stvaranje glasovne bilješke</string>
   <string name="note_gesture_guide_step2">Pritisnite i držite bilješku, a zatim je prevucite preko druge bilješke da biste stvorili mapu</string>
   <string name="note_gesture_guide_step3">Pritisnite i držite bilješku, a zatim je prevucite preko mape da biste je premjestili</string>
+  <string name="note_header_first_enter_guide">Povucite prema dolje za prikazati više</string>
   <string name="note_invalid_mindnote_hint">"Mape uma nisu dostupne u ovoj verziji. Ažurirajte aplikaciju da biste koristili ovu značajku."</string>
   <string name="note_link_email">"Nova e-pošta"</string>
   <string name="note_link_other">Otvori pomoću aplikacije Karte</string>
@@ -382,11 +415,45 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_sort_way">Odaberite kako želite poredati vaše bilješke</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
+  <string name="notelist_menu_new">Dodaj bilješku</string>
   <string name="notes_description_content">"Bilješke su sistemska aplikacija. Nećete moći koristiti ovu aplikaciju nakon što je deinstalirate."</string>
   <string name="notes_description_title">Deinstalirati Bilješke?</string>
-  <string name="notelist_menu_new">Dodaj bilješku</string>
   <string name="notification_content_add_todo_from_other_app">Dodali ste novi zadatak. Dodirnite za prikaz.</string>
   <string name="notify_alarm_title">Podsjetnik bilješke</string>
+  <string name="option_menu_delete">Izbriši</string>
+  <string name="option_menu_multi_choice">Odaberi</string>
+  <string name="option_menu_new">Izradi</string>
+  <string name="option_menu_rename">Preimenuj</string>
+  <string name="option_menu_restore_note">Vrati</string>
+  <string name="option_menu_save_as">Spremi kao</string>
+  <string name="pc_action_create_new_folder">Mapa</string>
+  <string name="pc_action_create_new_mind_note">Mapa uma</string>
+  <string name="pc_action_create_new_normal_note">Bilješka</string>
+  <string name="pc_action_create_new_note">Izradi bilješku</string>
+  <string name="pc_action_search_notes_hint">Traži bilješke</string>
+  <string name="pc_action_search_todo_hint">Traži zadatke</string>
+  <string name="pc_all_folder_name">Sve</string>
+  <string name="pc_date_time_picker_set_date">Postavi datum</string>
+  <string name="pc_date_time_picker_set_time">Postavi vrijeme</string>
+  <string name="pc_module_notes_name">Bilješke</string>
+  <string name="pc_module_todo_name">Zadaci</string>
+  <string name="pc_note_dual_screen_dialog_content">"Izgleda da sada uređujete bilješke na telefonu. Da biste izbjegli sukobljena uređivanja, zatvorite Bilješke na telefonu."</string>
+  <string name="pc_note_edit_blank_view_tips">Povucite sliku ovdje da biste izradili bilješku</string>
+  <string name="pc_note_edit_create_time">"Izrađeno: "</string>
+  <string name="pc_note_edit_insert_doodle_by_phone">Izradite crtariju na telefonu</string>
+  <string name="pc_note_edit_insert_picture_from_pc">Odaberite sliku s računala</string>
+  <string name="pc_note_edit_insert_picture_from_phone">Odaberite sliku s mobilnog uređaja</string>
+  <string name="pc_note_edit_last_modified_time">"Zadnje uređivanje: "</string>
+  <string name="pc_note_edit_lock_dialog_doodle_by_phone">Izrada crtarije na telefonu…</string>
+  <string name="pc_note_edit_lock_dialog_take_photo_by_phone">Snimanje fotografije telefonom…</string>
+  <string name="pc_note_edit_take_photo_by_phone">Snimite fotografije s telefonom</string>
+  <string name="pc_note_edit_text_format_body">Tijelo</string>
+  <string name="pc_note_edit_text_format_des">Postavite veličinu teksta</string>
+  <string name="pc_note_edit_text_format_title_level1">Naslov</string>
+  <string name="pc_note_edit_text_format_title_level2">Zaglavlje</string>
+  <string name="pc_note_trash_folder_remind">Ova je bilješka izbrisana. Vratite za uređivanje.</string>
+  <string name="pc_todo_fast_create_hint">Unesite tekst i pritisnite \"Ulaz\" za dodati nedovršeni zadatak</string>
+  <string name="pc_todo_set_remind_time_hint">Postavite vrijeme</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
   <string name="permission_get_account_desc">Sinkroniziranje bilješki s Mi Cloudom</string>
   <string name="permission_intro_contact">Za označavanje bilješki snimljenih tijekom poziva</string>
@@ -398,12 +465,16 @@ Dodirnite + da napravite mapu"</string>
   <string name="permission_phone_state_desc">Za zaustavljanje snimanja glasovnih bilješki tijekom poziva</string>
   <string name="permission_read_contact_desc">Povezivanje bilješki stvorenih tijekom poziva s kontaktima</string>
   <string name="permission_storage_desc">Za spremanje bilješki kao slika</string>
+  <string name="permission_storage_desc_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slike</string>
   <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI prikupit će vaše glasovne snimke i ID uređaja da prepiše zvuk i izradi glasovne bilješke. Saznajte više u Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pm">PM</string>
+  <string name="pref_category_title_quick_func">Brze značajke</string>
   <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>
   <string name="pref_desc_todo_float_mode">Prijeđite prstom od ruba zaslona da biste otvorili okvir alata sa zadacima</string>
+  <string name="pref_excerpt_link_float">Primite podsjetnik za izradu isječka kad god se URL kopira</string>
+  <string name="pref_quick_note_desc">Upotrijebite prečac na rubu zaslona za izradu bilješki i zadataka, kao i spremanje kopiranih URL-ova, teksta i slika u Bilješke.</string>
   <string name="pref_remind_type_summary">Reproduciraj zvuk podsjetnika u Bešumnom načinu rada</string>
   <string name="pref_remind_type_summary_new">Zanemari Bešumni način i nastavi reproducirati zvuk dok se alarm ne isključi</string>
   <string name="pref_remind_type_title">Zanemari Bešumni način</string>
@@ -411,8 +482,10 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>
   <string name="pref_title_cloud_trash_bin">Izbriši bilješke u Mi Cloudu</string>
   <string name="pref_title_common">"Dodatne postavke"</string>
+  <string name="pref_title_excerpt_remind">Podsjetnici isječaka</string>
   <string name="pref_title_font_size">Veličina fonta</string>
   <string name="pref_title_note_style">Stil</string>
+  <string name="pref_title_quick_note">Brze bilješke</string>
   <string name="pref_title_recover_help">Obnovi bilješke</string>
   <string name="pref_title_show_root_folder_in_homepage">Prikaži samo brze bilješke na početnoj stranici</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Izbrišite pomoću gesta</string>
@@ -424,6 +497,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="privacy_notes_fragment_title">Skrivene bilješke</string>
   <string name="private_entry_available">Otpusti za otvaranje privatne mape</string>
   <string name="private_entry_default">Povuci dolje za otvaranje privatne mape</string>
+  <string name="quick_note_link_default_text">URL</string>
+  <string name="quick_note_new_user_guide">Brze bilješke omogućuju vam izradu bilješki i isječaka</string>
   <string name="recover_notes_hint">Došlo je do pogreške, idite na i.mi.com da vratite bilješke.</string>
   <string name="redo">Ponovi</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Pričekajte da se bilješka učita i pokušajte ponovno.</string>
@@ -466,6 +541,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="save_single_excerpt">Spremi</string>
   <string name="save_to_gallery_failure_message">"Ne mogu spremiti"</string>
   <string name="save_to_gallery_icon_name">Spremi u Galeriju</string>
   <string name="save_to_gallery_success_message">Uspješno spremljeno</string>
@@ -486,6 +562,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao, dodajte račun ponovno.</string>
   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, dodajte račun ponovno.</string>
+  <string name="single_link_excerpt_saving">Spremanje stavki…</string>
+  <string name="single_new_excerpt_title">Isječci</string>
   <string name="snippet_audio_stub">Glasovna bilješka</string>
   <string name="snippet_image_stub">Slikovna bilješka</string>
   <string name="snippet_image_template">[Slika %1$s]</string>
@@ -534,6 +612,10 @@ Dodirnite + da napravite mapu"</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="toast_cancel_to_insert_image">"Ne mogu dodati sliku."</string>
+  <string name="toast_excerpt_end">Isječak uspješno izrađen</string>
+  <string name="toast_excerpt_no_content">Ovdje nema isječaka</string>
+  <string name="toast_excerpt_open_note">Otvorena bilješka s isječkom</string>
+  <string name="toast_excerpt_saved">Spremanje isječka u Bilješke…</string>
   <string name="toast_folder_privacy_mode">"Ne mogu urediti mapu u Gost načinu rada"</string>
   <string name="toast_mark_privacy_notes">Uspješno skriveno</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspješno skriven</string>
@@ -561,6 +643,7 @@ Dopustite aplikaciji Bilješke čitanje sadržaja SD kartice."</string>
 Dopustite aplikaciji Bilješke čitanje statusa i identiteta telefona."</string>
   <string name="toast_refuse_to_use_record_audio">"Dopuštenja za mikrofon su ograničena.
 Dopustite aplikaciji Bilješke snimanje zvuka."</string>
+  <string name="toast_refuse_to_use_storage_in_excerpt">Omogućite Bilješkama pristup pohrani da bi mogli dodavati slike u vaše bilješke</string>
   <string name="toast_unmark_privacy_notes">Uspješno otkriveno</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspješno otkriven</string>
   <string name="today">Danas</string>
@@ -630,6 +713,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="tomorrow">Sutra</string>
   <string name="toolbar_check_description">Dodaj potvrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši ovu bilješku</string>
+  <string name="toolbar_done_description">Gotovo</string>
   <string name="toolbar_gallery_description">Dodaj sliku</string>
   <string name="toolbar_redo_description">Ponovi</string>
   <string name="toolbar_share_description">Podijeli ovu bilješku</string>
@@ -648,6 +732,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="unknown_source">Nepoznat izvor</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="view_all_notes">Prikaži sve</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

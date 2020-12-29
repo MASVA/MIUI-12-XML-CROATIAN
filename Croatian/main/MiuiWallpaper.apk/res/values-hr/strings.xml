@@ -37,9 +37,9 @@
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="copy">Kopiraj</string>
-  <string name="date_picker_label_day" />
-  <string name="date_picker_label_month" />
-  <string name="date_picker_label_year" />
+  <string name="date_picker_label_day"/>
+  <string name="date_picker_label_month"/>
+  <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Lunarni Kalendar</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="early_morning">AM</string>
@@ -47,7 +47,7 @@
   <string name="earth_summary">Zemlja je kolijevka ljudske civilizacije</string>
   <string name="earth_super_wallpaper_label">zemlja</string>
   <string name="earth_title">Planet Zemlja</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
   <string name="evening">PM</string>
@@ -56,6 +56,9 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="game_view_content_description">Prikaz u igrama</string>
+  <string name="geometry_summary">Oblici, svjetlost i boje</string>
+  <string name="geometry_super_wallpaper_label">Geometrija</string>
+  <string name="geometry_title">Geometrija</string>
   <string name="install_failed">"Ne mogu instalirati"</string>
   <string name="mars_position_content_0">"Ovo područje sadrži litice, ostrvce i široke ravne doline za koje se vjeruje da su uzrokovane ledenjacima prekrivenim krhotinama. Ovdje su otkriveni i glineni minerali koji su od velikog interesa za potragu za dokazima života na drevnom Marsu.
 
@@ -77,21 +80,37 @@ Mawrth Vallis"</string>
   <string name="mars_view_height_0">287.3 km</string>
   <string name="mars_view_height_1">256.7 km</string>
   <string name="mars_view_height_2">286.2 km</string>
+  <string name="mi_wallpaper_loading">Učitavanje…</string>
+  <string name="mi_wallpaper_title"> Mi Pozadina</string>
   <string name="midnight">AM</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
 dd.MMMM"</string>
-     <string name="miui_lock_screen_date_two_lines_12">"EEEE
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
 dd.MMMM"</string>
-     <string name="miui_lock_screen_large_date">"EEE
+  <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
-     <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string> 
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Sinkronizacija s Cloudom…</string> 
+  <string name="miuix_appcompat_cloud_state_syncing">Sinkronizacija s Cloudom…</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi sve</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -147,9 +166,9 @@ dd.MM"</string>
   <string name="morning">Jutro</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="night">PM</string>
-  <string name="noon">PM</string>
   <string name="no_cta_agreed">"GetApps nema CTA dopuštenja"</string>
   <string name="no_install_permission">"Nemate dopuštenja za instaliranje ove stavke"</string>
+  <string name="noon">PM</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="pm">PM</string>
@@ -162,6 +181,10 @@ dd.MM"</string>
   <string name="saturn_super_wallpaper_label">saturn</string>
   <string name="saturn_title">Daleki prstenovi</string>
   <string name="search_menu_title">Traži</string>
+  <string name="snowmountain_id">Snježna planina</string>
+  <string name="snowmountain_summary">Osunčane planinske padine planine Siguniang</string>
+  <string name="snowmountain_super_wallpaper_label">Snježni vrhovi</string>
+  <string name="snowmountain_title">Snježni vrhovi</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
@@ -197,10 +220,13 @@ dd.MM"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Super slike pozadine</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Više</string>
   <string name="wallpaper_setting_title">Slika pozadine</string>
+  <string name="weather_super_wallpaper_label">Vrijeme</string>
+  <string name="weather_title">Vrijeme</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="yesterday">Jučer</string>
-  <string name="mi_wallpaper_loading">Učitavanje…</string>
-  <string name="mi_wallpaper_title"> Mi Pozadina</string>
 </resources>

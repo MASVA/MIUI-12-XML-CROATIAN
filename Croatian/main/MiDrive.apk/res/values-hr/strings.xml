@@ -695,6 +695,9 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="warning_bar_title_cloud_space_full">"Cloud pohrana je puna. Ne mogu sinkronizirati fotografije, povijest poziva ili druge stavke."</string>
   <string name="xiaomi_drive_description_content">Mi Drive je alat za online pohranu koji omogućuje pohranu datoteka na mreži i oslobađanje pohrane na vašem uređaju. Prestati koristiti Mi Drive?</string>
   <string name="xiaomi_drive_description_title">O Mi Drive aplikaciji</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="year_month_day_format">dd.MMM.yyyy</string>
   <string name="yesterday">Jučer</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
 </resources>

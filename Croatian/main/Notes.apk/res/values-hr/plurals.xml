@@ -140,4 +140,12 @@
         <item quantity="other">%1$s zadataka</item>
         <item quantity="one">%1$s zadatak</item>
     </plurals>
+	<plurals name="pc_notes_search_result">
+        <item quantity="other">Pronađeno %1$s bilješki</item>
+        <item quantity="one">Pronađeno %1$s bilješka</item>
+     </plurals>
+     <plurals name="pc_todo_search_result">
+        <item quantity="other">Pronađeno %1$s zadataka</item>
+        <item quantity="one">Pronađen %1$s zadatak</item>
+     </plurals>
 </resources> 

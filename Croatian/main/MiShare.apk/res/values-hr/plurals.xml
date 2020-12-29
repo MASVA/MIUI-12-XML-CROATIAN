@@ -3,77 +3,62 @@
     <plurals name="file_type_detail_count">
         <item quantity="other">%1$d datoteke</item>
         <item quantity="one">%1$d datoteka</item>
-        <item quantity="few">%1$d datoteke</item>
     </plurals>
     <plurals name="send_file_success_detail_files">
         <item quantity="other">Poslano %1$s datoteka uspješno</item>
         <item quantity="one">Poslana %1$s datoteka uspješno</item>
-        <item quantity="few">Poslano %1$s datoteka uspješno</item>
     </plurals>
     <plurals name="send_file_success_detail_images">
         <item quantity="other">Poslane %1$s slike uspješno</item>
         <item quantity="one">Poslana %1$s slika uspješno</item>
-        <item quantity="few">Poslano %1$s slika uspješno</item>
     </plurals>
     <plurals name="send_files_to_device_files">
         <item quantity="other">Priprema za slanje %2$d datoteka u %1$s…</item>
         <item quantity="one">Priprema za slanje %2$d datoteke u %1$s…</item>
-        <item quantity="few">Priprema za slanje %2$d datoteka u %1$s…</item>
     </plurals>
     <plurals name="send_files_to_device_images">
         <item quantity="other">Priprema za slanje %2$d slika u %1$s…</item>
         <item quantity="one">Priprema za slanje %2$d slike u %1$s…</item>
-        <item quantity="few">Priprema za slanje %2$d slika u %1$s…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_files">
         <item quantity="other">%1$s šalje %2$d datoteka za vas…</item>
         <item quantity="one">%1$s šalje %2$d datoteka za vas…</item>
-        <item quantity="few">%1$s šalje %2$d datoteke za vas…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_images">
         <item quantity="other">%1$s šalje %2$d slika…</item>
         <item quantity="one">%1$s šalje %2$d sliku…</item>
-        <item quantity="few">%1$s šalje %2$d slike…</item>
     </plurals>
     <plurals name="someone_send_somefile_files">
         <item quantity="other">%1$s šalje %2$d datoteka…</item>
         <item quantity="one">%1$s šalje %2$d datoteku…</item>
-        <item quantity="few">%1$s šalje %2$d datoteke…</item>
     </plurals>
     <plurals name="someone_send_somefile_images">
         <item quantity="other">%1$s šalje %2$d fotografija…</item>
         <item quantity="one">%1$s šalje %2$d fotografiju…</item>
-        <item quantity="few">%1$s šalje %2$d fotografija…</item>
     </plurals>
     <plurals name="start_receive_files_files">
         <item quantity="other">Primanje %2$d datoteka sa %1$s…</item>
         <item quantity="one">Primanje %2$d datoteke sa %1$s…</item>
-        <item quantity="few">Primanje %2$d datoteka sa %1$s…</item>
     </plurals>
     <plurals name="start_receive_files_images">
         <item quantity="other">Primanje %2$d slika sa %1$s…</item>
         <item quantity="one">Primanje %2$d slike sa %1$s…</item>
-        <item quantity="few">Primanje %2$d slika sa %1$s…</item>
     </plurals>
     <plurals name="start_send_files_to_device_files">
         <item quantity="other">Slanje %2$d datoteka u %1$s…</item>
         <item quantity="one">Slanje %2$d datoteke u %1$s…</item>
-        <item quantity="few">Slanje %2$d datoteka u %1$s…</item>
     </plurals>
     <plurals name="start_send_files_to_device_images">
         <item quantity="other">Slanje %2$d slika u %1$s…</item>
         <item quantity="one">Slanje %2$d slike u %1$s…</item>
-        <item quantity="few">Slanje %2$d slika u %1$s…</item>
     </plurals>
     <plurals name="success_receive_file_files">
         <item quantity="other">Primljeno %2$d datoteka od %1$s. Dodirnite za prikaz.</item>
         <item quantity="one">Primljena %2$d datoteka od %1$s. Dodirnite za prikaz.</item>
-        <item quantity="few">Primljeno %2$d datoteka od %1$s. Dodirnite za prikaz.</item>
     </plurals>
     <plurals name="success_receive_file_images">
         <item quantity="other">Primljeno %2$d slika od %1$s. Dodirnite za prikaz.</item>
         <item quantity="one">Primljena %2$d slika od %1$s. Dodirnite za prikaz.</item>
-        <item quantity="few">Primljeno %2$d slika od %1$s. Dodirnite za prikaz.</item>
     </plurals>
 	     <plurals name="file_received_successfully">
         <item quantity="other">Uspješno primljeno %2$d datoteka od %1$s</item>
