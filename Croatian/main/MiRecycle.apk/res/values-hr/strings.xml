@@ -121,7 +121,7 @@ Damaged Device from your doorstep"</string>
  <string name="item_name_rearcamera">Stražnja kamera</string>
  <string name="item_name_sensors">Senzori</string>
  <string name="item_name_vibration">Vibracija</string>
- <string name="item_name_wifi">WLAN</string>
+ <string name="item_name_wifi">Wi-Fi</string>
  <string name="item_result_canceled">Otkazano</string>
  <string name="item_result_fail">Abnormalno</string>
  <string name="item_result_pass">Dobro</string>

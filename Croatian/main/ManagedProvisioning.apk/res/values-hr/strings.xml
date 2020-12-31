@@ -100,7 +100,7 @@
   <string name="device_owner_error_installation_failed">Instaliranje administratorske aplikacije nije uspjelo</string>
   <string name="device_owner_error_ok">U redu</string>
   <string name="device_owner_error_package_invalid">Administratorska aplikacija ne može se upotrebljavati. Nedostaju joj neke komponente ili je oštećena. Ako vam je potrebna pomoć, obratite se administratoru.</string>
-  <string name="device_owner_error_wifi">Spajanje na WLAN nije uspjelo</string>
+  <string name="device_owner_error_wifi">Spajanje na Wi-Fi nije uspjelo</string>
   <string name="device_owner_info">Ovim će uređajem upravljati %1$s i pružati mu sigurnosnu zaštitu. Primjenjivat će se uvjeti. %2$s</string>
   <string name="device_owner_info_with_terms_headers">Ovim će uređajem upravljati %1$s i pružati mu sigurnosnu zaštitu. Primjenjivat će se uvjeti tvrtki %2$s. %3$s</string>
   <string name="device_provisioning_finished">Vaš je uređaj spreman za upotrebu!</string>

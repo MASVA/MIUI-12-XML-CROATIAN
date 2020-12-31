@@ -260,7 +260,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="hour_3">Svaka 3 sata</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="idbct_desc">Prilagodite Wallpaper Carousel prema vrstama mreže</string>
-  <string name="idbct_opt_auto_select_desc_text">Preuzmite standardne slike pomoću mobilnih podataka i HD slike putem WLAN veze</string>
+  <string name="idbct_opt_auto_select_desc_text">Preuzmite standardne slike pomoću mobilnih podataka i HD slike putem Wi-Fi veze</string>
   <string name="idbct_opt_auto_select_main_text">Autom.</string>
   <string name="idbct_opt_high_def_desc_text">Uvijek preuzimaj HD slike</string>
   <string name="idbct_opt_high_def_main_text">HD</string>
@@ -912,8 +912,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="wallpaper">Slika pozadine</string>
   <string name="wallpaper_feed_title">Moglo bi vam se svidjeti</string>
   <string name="wallpaper_relations_title">Preporuke</string>
-  <string name="wlan_download">Ažuriraj samo preko WLAN-a</string>
-  <string name="wlan_download_cn">Ažuriraj samo preko WLAN-a</string>
+  <string name="wlan_download">Ažuriraj samo preko Wi-Fi-ja</string>
+  <string name="wlan_download_cn">Ažuriraj samo preko Wi-Fi-ja</string>
   <string name="wm_storage_left">"Preostalo: "</string>
   <string name="wm_storage_used">"Zauzeto: "</string>
   <string name="wp_desktop_enable_title">Dijaprojekcija Poč. zaslona</string>

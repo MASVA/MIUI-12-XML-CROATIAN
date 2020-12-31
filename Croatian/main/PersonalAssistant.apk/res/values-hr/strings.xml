@@ -689,7 +689,7 @@
   <string name="upgrade_later">Instaliraj kasnije</string>
   <string name="upgrade_log_default">"1. Poboljšane performanse.
 2. Ispravljene pogreške."</string>
-  <string name="upgrade_log_subtitle">(Preuzeto putem WLAN-a)</string>
+  <string name="upgrade_log_subtitle">(Preuzeto putem Wi-Fi-ja)</string>
   <string name="upgrade_now">Instaliraj sada</string>
   <string name="upgrade_now_bottom">Instaliraj sada</string>
   <string name="uploads_disabled">Ne mogu učitati datoteke</string>

@@ -55,8 +55,8 @@
   <string name="open">Uključi</string>
   <string name="open_print_service">Omogući ispis</string>
   <string name="open_print_service_tips">Da biste mogli koristiti ovu značajku, prvo omogućite ispis u Postavkama.</string>
-  <string name="open_wlan">Uključi WLAN</string>
-  <string name="open_wlan_tips">Uključi WLAN za brže pronalaženje pisača.</string>
+  <string name="open_wlan">Uključi Wi-Fi</string>
+  <string name="open_wlan_tips">Uključi Wi-Fi za brže pronalaženje pisača.</string>
   <string name="other_printer">Ostali pisači</string>
   <string name="page_description_template">Stranica %1$d od %2$d</string>
   <string name="pages_range_example">npr. 1 – 5,8,11 – 13</string>
@@ -77,7 +77,7 @@
   <string name="print_fail_network_error">"Nije moguće ispisati. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="print_forget_printer">Zaboravite pisač</string>
   <string name="print_help_label">Pomoć</string>
-  <string name="print_help_tip">Provjerite jesu li i telefon i pisač spojeni na istu WLAN mrežu ili je Izravni WLAN uključen. Pogledajte \"Pomoć\".</string>
+  <string name="print_help_tip">Provjerite jesu li i telefon i pisač spojeni na istu Wi-Fi mrežu ili je Izravni Wi-Fi uključen. Pogledajte \"Pomoć\".</string>
   <string name="print_help_tip_reg">Pomoć</string>
   <string name="print_no_print_services">Nije omogućena nijedna usluga ispisa</string>
   <string name="print_no_printers">Nije pronađen nijedan pisač</string>
@@ -124,7 +124,7 @@
   <string name="system_print_service_help">O usluzi ispisa</string>
   <string name="template_all_pages">Sve stranice (%1$s)</string>
   <string name="template_page_range">Raspon od %1$s</string>
-  <string name="wifi_direct">Izravni WLAN</string>
+  <string name="wifi_direct">Izravni Wi-Fi</string>
   <string name="wps_convert_error_toast_text">"Nije moguće pretvoriti datoteku zbog pogreške u formatu"</string>
   <string name="wps_convert_too_large_and_wait_toast_text">Pretvorba može potrajati duže zbog veće veličine datoteke. Pretvaranje…</string>
 </resources>

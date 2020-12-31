@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Upravitelj preuzimanja</string>
-  <string name="auto_restart_under_wifi">WLAN će preuzeti automatski ovu datoteku</string>
+  <string name="auto_restart_under_wifi">Wi-Fi će preuzeti automatski ovu datoteku</string>
   <string name="button_cancel_download">Odustani</string>
   <string name="button_download_now">Preuzmite sada</string>
   <string name="button_queue_for_wifi">Red čekanja</string>
@@ -15,7 +15,7 @@
   <string name="dialog_button_ok">U redu</string>
   <string name="dialog_content_limit0">Ograniči preuzimanja</string>
   <string name="dialog_content_limit_max">Neograničeno</string>
-  <string name="dialog_data_limit_button1">Čekaj na WLAN</string>
+  <string name="dialog_data_limit_button1">Čekaj na Wi-Fi</string>
   <string name="dialog_data_limit_button2">Preuzmi sada</string>
   <string name="dialog_data_limit_msg1">%s mobilnih podataka koristit će se za preuzimanje ove datoteke. Preuzeti sada?</string>
   <string name="dialog_data_limit_msg3">Promjeni ograničenje</string>
@@ -49,13 +49,13 @@
   <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
   <string name="notification_download_failed_more">"Ne mogu preuzeti %1$d stavaka"</string>
   <string name="notification_download_success_more">%1$d preuzeto</string>
-  <string name="notification_need_wifi_for_size">Potreban WLAN za veličinu preuzimanja</string>
+  <string name="notification_need_wifi_for_size">Potreban Wi-Fi za veličinu preuzimanja</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini</string>
   <string name="notify_disabled_net_by_app">Povezivanje s internetom ograničeno od strane aplikacije Sigurnost</string>
   <string name="notify_install_guide_forward_text">Otvori</string>
   <string name="notify_install_guide_msg">Uspješno instalirano</string>
   <string name="notify_install_guide_title">%s uspješno instaliran</string>
-  <string name="notify_only_wifi_download">Čekanje na WLAN</string>
+  <string name="notify_only_wifi_download">Čekanje na Wi-Fi</string>
   <string name="paused_waiting_for_network">Čekanje na mrežu</string>
   <string name="permdesc_accessAllDownloads">Omogućuje aplikaciji prikaz i izmjenu svih preuzimanja koja je pokrenula bilo koja aplikacija.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Omogućuje aplikaciji preuzimanje datoteka u predmemoriju preuzimanja koja se ne može automatski izbrisati kada upravitelj preuzimanja treba više prostora.</string>
@@ -82,17 +82,17 @@
   <string name="root_downloads">Preuzimanja</string>
   <string name="task_already_exist">Zadatak već postoji</string>
   <string name="warning_tip_cancel">Preuzmi</string>
-  <string name="warning_tip_content">"Više niste povezani s WLAN-om. Korištenje vaše mobilne podatkovne veze za dovršetak ovog preuzimanja će povećati uporabu podataka. Ako premašite svoje ograničenje, vaš operater vam može naplatiti dodatne naknade."</string>
+  <string name="warning_tip_content">"Više niste povezani s Wi-Fi-jem. Korištenje vaše mobilne podatkovne veze za dovršetak ovog preuzimanja će povećati uporabu podataka. Ako premašite svoje ograničenje, vaš operater vam može naplatiti dodatne naknade."</string>
   <string name="warning_tip_ok">Pauza</string>
   <string name="warning_tip_title">Upozorenje uporabe podataka</string>
   <string name="wifi_recommended_body">"Pokretanje ovog %1$s preuzimanja može skratiti vijek baterije i/ili uzrokovati pretjeranu upotrebu podatkovne veze i dodatne troškove.
 
 
- Dodirnite %2$s da biste preuzeli pri sljedećem povezivanju s WLAN mrežom."</string>
+ Dodirnite %2$s da biste preuzeli pri sljedećem povezivanju s Wi-Fi mrežom."</string>
   <string name="wifi_recommended_title">Staviti na čekanje za kasnije preuzimanje?</string>
-  <string name="wifi_required_body">"Povežite s WLAN-om za dovršetak ovog %1$s preuzimanja. 
+  <string name="wifi_required_body">"Povežite s Wi-Fi-jem za dovršetak ovog %1$s preuzimanja. 
 
-Dodirnite %2$s da biste pokrenuli preuzimanje sljedeći put kada se povežete s WLAN mrežom."</string>
+Dodirnite %2$s da biste pokrenuli preuzimanje sljedeći put kada se povežete s Wi-Fi mrežom."</string>
   <string name="wifi_required_title">Preuzimanje je preveliko za mrežu operatora</string>
   <string name="xl_speedup_experience_notify_context">"Brzina je povećana za svako preuzimanje kada ste Xunlei član"</string>
   <string name="xl_speedup_experience_notify_title">Xunlei članstvo</string>

@@ -101,7 +101,7 @@
   <string name="similar_programs">Slični programi</string>
   <string name="sleep_mode_canceled">Sleep mode isključen</string>
   <string name="still_in_dev">U razvoju</string>
-  <string name="summary_download">Automatski preuzmi zvuk samo na WLAN-u, povoljno uživajte izvanmrežno</string>
+  <string name="summary_download">Automatski preuzmi zvuk samo na Wi-Fi-ju, povoljno uživajte izvanmrežno</string>
   <string name="summary_download_quality">Dodatne postavke za radio koji ste preuzeli</string>
   <string name="summary_off_sleep_mode">Zaustavi radio nakon proteklog vremena</string>
   <string name="summary_on_sleep_mode">Zaustavi radio nakon proteklog vremena</string>

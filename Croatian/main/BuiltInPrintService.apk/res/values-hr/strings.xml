@@ -10,10 +10,10 @@
     <string name="connecting_to">Povezivanje s pisačem %1$s</string>
     <string name="connections">Veze</string>
     <string name="connects_via_network">Povezuje se putem trenutačne mreže na IP adresi %1$s</string>
-    <string name="connects_via_wifi_direct">Povezuje se putem Izravnog WLAN-a</string>
+    <string name="connects_via_wifi_direct">Povezuje se putem Izravnog Wi-Fi-ja</string>
     <string name="failed_connection">Povezivanje s pisačem %1$s nije uspjelo</string>
     <string name="failed_printer_connection">Povezivanje s pisačem nije uspjelo</string>
-    <string name="find_wifi_direct">Pronađi pisače s Izravnim WLAN-om</string>
+    <string name="find_wifi_direct">Pronađi pisače s Izravnim Wi-Fi-jem</string>
     <string name="fix">Pregled dopuštenja</string>
     <string name="forget">Zaboravi</string>
     <string name="hostname_or_ip">Naziv hosta ili IP adresa</string>
@@ -50,8 +50,8 @@
     <string name="title_activity_add_printer">Dodaj pisač</string>
     <string name="unreadable_input">Dokument se ne može pročitati</string>
     <string name="waiting_to_send">Čeka se slanje</string>
-    <string name="wifi_direct">WLAN Direct</string>
+    <string name="wifi_direct">Izravni Wi-Fi</string>
     <string name="wifi_direct_permission_rationale">Zadanoj usluzi ispisa potrebna su dopuštenja za lokaciju kako bi pronašla uređaje u blizini.</string>
-    <string name="wifi_direct_printers">Pisači s Izravnim WLAN-om</string>
-    <string name="wifi_direct_printing">Ispis putem Izravnog WLAN-a</string>
+    <string name="wifi_direct_printers">Pisači s Izravnim Wi-Fi-om</string>
+    <string name="wifi_direct_printing">Ispis putem Izravnog Wi-Fi-ja</string>
 </resources>

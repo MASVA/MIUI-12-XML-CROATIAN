@@ -3,8 +3,8 @@
   <string name="app_name">Mi Play</string>
   <string name="cancel">Odustani</string>
   <string name="enable_wifi_btn">Uključi</string>
-  <string name="enable_wifi_message">Uključi WLAN za pretraživanje i povezivanje uređaja u blizini.</string>
-  <string name="enable_wifi_title">Uključi WLAN</string>
+  <string name="enable_wifi_message">Uključi Wi-Fi za pretraživanje i povezivanje uređaja u blizini.</string>
+  <string name="enable_wifi_title">Uključi Wi-Fi</string>
   <string name="media_feature_projection">Zrcalni zaslon</string>
   <string name="media_route_controller_disconnect">Prekini vezu</string>
   <string name="media_status_error">Pogreška</string>

@@ -62,7 +62,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="email_subject">Predmet</string>
   <string name="email_to">Prima</string>
   <string name="empty_tag">Ova oznaka je prazna</string>
-  <string name="enable_wifi">WLAN</string>
+  <string name="enable_wifi">Wi-Fi</string>
   <string name="erase_pon_pon_tile">Izbrisati oznaku</string>
   <string name="erase_success">Izbrisano</string>
   <string name="erasing">Brisanje…</string>
@@ -93,7 +93,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="hint_input_subject">Predmet</string>
   <string name="hint_input_web_label">Naziv web stranice</string>
   <string name="hint_input_web_url">URL</string>
-  <string name="hint_wifi_password">Unesite zaporku WLAN-a</string>
+  <string name="hint_wifi_password">Unesite zaporku Wi-Fi-ja</string>
   <string name="inconsistent_password">Nedosljedna lozinkom, pokušajte ponovno</string>
   <string name="input_new_password">Unesite novu zaporku od četiri znamenke</string>
   <string name="input_old_password">Unesite spremljenu zaporku</string>
@@ -110,7 +110,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="new_config">Novi zadaci</string>
   <string name="new_configures">Nove konfiguracije</string>
   <string name="no_available_networks">Nema dostupnih mreža</string>
-  <string name="no_available_networks_summary">Pokušajte ponovo nakon spajanja na WLAN mrežu.</string>
+  <string name="no_available_networks_summary">Pokušajte ponovo nakon spajanja na Wi-Fi mrežu.</string>
   <string name="no_available_xiaomi_shop">"Ne mogu otvoriti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
   <string name="null_task">Nema zadataka</string>
@@ -158,7 +158,7 @@ dotaknite ga stražnjom stranom vašeg telefona"</string>
   <string name="share">Dijeli</string>
   <string name="share_content">"Ja sam *%1$s* pisao na Mi NFC oznaku. Da je pročitate, dotaknite je stražnjom stranom vašeg telefona. Nabavite aplikaciju ovdje: http://app.xiaomi.com/detail/56946"</string>
   <string name="share_subject">Dijeli jednu aplikaciju: %1$s</string>
-  <string name="share_wifi">Dijeli WLAN</string>
+  <string name="share_wifi">Dijeli Wi-Fi</string>
   <string name="shortcut">Brzi zadaci</string>
   <string name="sleep_mode">Ne ometaj</string>
   <string name="sms_content">Poruka</string>
@@ -196,7 +196,7 @@ dotaknite stražnjom stranom vašeg telefona drugu oznaku."</string>
   <string name="volume">Zvuk</string>
   <string name="web_label">Web natpis (opcija)</string>
   <string name="web_url">URL</string>
-  <string name="wifi">WLAN</string>
+  <string name="wifi">Wi-Fi</string>
   <string name="wireless_network">Bežično &amp; mreže</string>
   <string name="write_a_tag">Napiši oznaku</string>
   <string name="write_pon_pon_tile">Napiši oznake</string>

@@ -367,14 +367,14 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="get_data_fail_tips">"Ne mogu dobiti podatke, pokušajte ponovno"</string>
   <string name="get_info_failed">"Ne mogu dobiti informacije"</string>
   <string name="get_location_fail_tip">"Ne mogu postaviti lokaciju, izaberite grad"</string>
-  <string name="guid_one">· Povežite se na istu WLAN mrežu kao i ciljni uređaj.</string>
+  <string name="guid_one">· Povežite se na istu Wi-Fi mrežu kao i ciljni uređaj.</string>
   <string name="guid_three">"· Neke kontrole možda neće biti dostupne ako vaš TV ili set-up box ne podržava Android."</string>
   <string name="guid_two">· Uređaji će biti otkriveni i prikazani na ovoj stranici</string>
-  <string name="guid_zero">". Vaš uređaj ne podržava infracrvene uređaje, ali podržava WLAN daljinske upravljače."</string>
+  <string name="guid_zero">". Vaš uređaj ne podržava infracrvene uređaje, ali podržava Wi-Fi daljinske upravljače."</string>
   <string name="guide">Vodič</string>
   <string name="guide_title_one">Vaš telefon ne podržava infracrvenu vezu, ne možete daljinski upravljati infracrvenim uređajima</string>
   <string name="guide_title_three">Upute</string>
-  <string name="guide_title_two">Ali možete kontrolirati Mi TV i Mi Box putem WLAN mreže</string>
+  <string name="guide_title_two">Ali možete kontrolirati Mi TV i Mi Box putem Wi-Fi mreže</string>
   <string name="has_installed">Instalirano</string>
   <string name="hd_channel_preferred">Preferiraj HD video</string>
   <string name="help">Pomoć</string>
@@ -419,7 +419,7 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="ir_device_ir">Infracrveni daljinski</string>
   <string name="ir_device_lamp">Svjetiljka</string>
   <string name="ir_device_mibox">Mi Box</string>
-  <string name="ir_device_milink">Mi WLAN</string>
+  <string name="ir_device_milink">Mi Wi-Fi</string>
   <string name="ir_device_mitv">Mi TV</string>
   <string name="ir_device_mitvbox">Mi TV/Mi Box</string>
   <string name="ir_device_name">Naziv daljinskog</string>
@@ -431,7 +431,7 @@ Pokušajte sljedeće kako biste riješili problem:
   <string name="ir_device_stb">STB</string>
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_water_heater">Kuhalo za vodu</string>
-  <string name="ir_device_wifi">WLAN daljinski</string>
+  <string name="ir_device_wifi">Wi-Fi daljinski</string>
   <string name="ir_not_supported_devices">"* Pojedini Mi TV/Box-ovi ne podržavaju IR. Probajte koristiti Bežični daljinski."</string>
   <string name="jump_to_mivideo">Pogledaj na mobilnom uređaju</string>
   <string name="just_now">Upravo sada</string>
@@ -553,7 +553,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="milink_device_offline">Offline</string>
   <string name="milink_device_online">Online</string>
   <string name="milink_device_rc_saved">Daljinski spremljen</string>
-  <string name="milink_nowifi">Nije povezano na WLAN</string>
+  <string name="milink_nowifi">Nije povezano na Wi-Fi</string>
   <string name="milink_screenshot_done">Snimka zaslona TV-a uspješno napravljena</string>
   <string name="milink_screenshot_pic">Snimka zaslona</string>
   <string name="milink_view_screenshot">Spremljeno u Galeriju, dodirnite za prikaz</string>
@@ -591,7 +591,7 @@ pričekajte trenutak nakon radnje"</string>
   <string name="no_current_play">"Reproducira se: - "</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_introduction">Nema opisa</string>
-  <string name="no_ir_other_support">I dalje možete koristiti svoj uređaj za kontrolu Mi TV-a ili Mi Box-a putem WLAN-a.</string>
+  <string name="no_ir_other_support">I dalje možete koristiti svoj uređaj za kontrolu Mi TV-a ili Mi Box-a putem Wi-Fi-ja.</string>
   <string name="no_ir_support">Nema pronađenih IR uređaja</string>
   <string name="no_network">"· Ne mogu se povezati na mrežu"</string>
   <string name="no_program">Nema sadržaja.</string>
@@ -944,9 +944,9 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="share_friends_search_hint_text">Traži</string>
   <string name="share_friends_title">Dijeli putem Mi Talk</string>
   <string name="share_from_others">Netko je podijelio uređaj s vama, dodirnite za dodavanje</string>
-  <string name="share_level_private">Osobe povezane na istu WLAN mrežu</string>
-  <string name="share_level_private_desc">WLAN mreža: %1$s</string>
-  <string name="share_level_private_error">Nije povezano na WLAN</string>
+  <string name="share_level_private">Osobe povezane na istu Wi-Fi mrežu</string>
+  <string name="share_level_private_desc">Wi-Fi mreža: %1$s</string>
+  <string name="share_level_private_error">Nije povezano na Wi-Fi</string>
   <string name="share_level_public">Sve osobe u blizini</string>
   <string name="share_level_public_error">"Ne mogu postaviti lokaciju, provjerite postavke lokacije i pokušajte ponovno"</string>
   <string name="share_level_title">Tko može vidjeti daljinski?</string>
@@ -964,7 +964,7 @@ izravno s vašeg Zaključanog zaslona"</string>
   <string name="share_rc_title">Podijeli daljinski</string>
   <string name="share_rc_type_desc">Tko može vidjeti i koristiti daljinski upravljači koji ste podijelili</string>
   <string name="share_switch">Podijeli daljinski</string>
-  <string name="share_tips">Podijelite daljinski s osobom povezanom na istu WLAN mrežu</string>
+  <string name="share_tips">Podijelite daljinski s osobom povezanom na istu Wi-Fi mrežu</string>
   <string name="share_title_share_to">Podijeli s</string>
   <string name="share_title_to_mitalk">Podijeli s</string>
   <string name="share_title_to_mitalk_ellipsis">…</string>

@@ -19,10 +19,10 @@
   <string name="check_new_version">Provjeri</string>
   <string name="default_filedownloader_notification_content">Preuzimatelj datoteka je pokrenut.</string>
   <string name="default_filedownloader_notification_title">Preuzimatelj datoteka</string>
-  <string name="dialog_3g_desc">Preuzimanje nove MIUI verzije putem mobilnih podataka može povećati mjesečnu naknadu. Preporučuje se povezivanje s WLAN mrežom.</string>
+  <string name="dialog_3g_desc">Preuzimanje nove MIUI verzije putem mobilnih podataka može povećati mjesečnu naknadu. Preporučuje se povezivanje s Wi-Fi mrežom.</string>
   <string name="dialog_3g_title">Upozorenje!</string>
   <string name="dialog_btn_3g">Nastavi svejedno</string>
-  <string name="dialog_btn_wifi">Promjeni na WLAN</string>
+  <string name="dialog_btn_wifi">Promjeni na Wi-Fi</string>
   <string name="dialog_stop_desc">Možete pauzirati ili zaustaviti preuzimanje, na vama je da odaberete što želite.</string>
   <string name="dialog_stop_title">Zaustaviti preuzimanje?</string>
   <string name="dialog_twrp">Vaša unutarnja pohrana je šifrirana. Nakon ponovnog pokretanja u TWRP, unesite zaporku za otključavanje uređaja da biste nastavili.</string>
@@ -58,8 +58,8 @@ Podaci neće biti izbrisani."</string>
   <string name="no_update">Trenutna MIUI verzija je ažurna ili postoji problem s poslužiteljem, provjerite xiaomi.eu za novu verziju!</string>
   <string name="no_xioamieu">"Ne koristite MIUI ROM izrađen od strane Xiaomi.eu tima!
 Ažuriranja za vas nisu dostupna!"</string>
-  <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na WLAN za preuzimanje ažuriranja."</string>
-  <string name="no_wifi_title">Poveži se na WLAN</string>
+  <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na Wi-Fi za preuzimanje ažuriranja."</string>
+  <string name="no_wifi_title">Poveži se na Wi-Fi</string>
   <string name="not_open">Ne</string>
   <string name="notif_cancel">Odustani</string>
   <string name="notif_install">Instaliraj</string>
@@ -82,5 +82,5 @@ Ažuriranja za vas nisu dostupna!"</string>
   <string name="stable">Stabilna</string>
   <string name="version">Instalirana verzija</string>
   <string name="weekly">Tjedna</string>  
-  <string name="wifi_recommended">Povežite se na WLAN za preuzimanje ažuriranja!</string>
+  <string name="wifi_recommended">Povežite se na Wi-Fi za preuzimanje ažuriranja!</string>
 </resources>

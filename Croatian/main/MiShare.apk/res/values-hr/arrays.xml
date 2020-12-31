@@ -8,6 +8,6 @@
         <item>Za slanje i primanje datoteka</item>
         <item>Za prijenos datoteka koristeći Bluetooth i Wi-Fi</item>
         <item>Za pronalaženje dostupnih uređaja u blizini pomoću Bluetootha</item>
-        <item>Za pronalaženje dostupnih uređaja u blizini i prijenos datoteka putem WLAN mreže</item>
+        <item>Za pronalaženje dostupnih uređaja u blizini i prijenos datoteka putem Wi-Fi mreže</item>
      </string-array>
 </resources>

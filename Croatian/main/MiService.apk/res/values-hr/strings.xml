@@ -73,7 +73,7 @@
   <string name="miui_feedback_edit_hint">Prijavite bugove svaki put naiđete na probleme kako bi nam pomogli riješiti ih što brže</string>
   <string name="miui_feedback_edit_hint_gone">Zatvorena poruka</string>
   <string name="miui_feedback_edit_hint_optional">Odaberi</string>
-  <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Pričekaj WLAN</string>
+  <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Pričekaj Wi-Fi</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Učitaj</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">Izgleda da ste povezani s mrežom koja se plaća. Slanje zapisnika može generirati dodatne naknade.</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_title">Upozorenje uporabe podataka</string>

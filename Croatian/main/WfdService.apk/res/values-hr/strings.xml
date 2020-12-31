@@ -6,6 +6,6 @@
   <string name="notif_title">Bežični zaslon</string>
   <string name="notification_text">Emitiranje zaslona je uključeno</string>
   <string name="notification_title">Bežični zaslon</string>
-  <string name="perm_desc">Pristup Qualcomm Display Stack WLAN API-jima</string>
-  <string name="perm_label">QC WLAN Display Stack</string>
+  <string name="perm_desc">Pristup Qualcomm Display Stack Wi-Fi API-jima</string>
+  <string name="perm_label">QC Wi-Fi Display Stack</string>
 </resources>

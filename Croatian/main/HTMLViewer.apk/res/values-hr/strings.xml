@@ -18,7 +18,7 @@ idite na %s"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="open_wifi_connect_and_use_data_summary">Uporaba mobilnih podataka. Dodirnite za prebacivanje na WLAN.</string>
+  <string name="open_wifi_connect_and_use_data_summary">Uporaba mobilnih podataka. Dodirnite za prebacivanje na Wi-Fi.</string>
   <string name="open_wifi_connect_summary">Dodirnite za prikaz detalja.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogućuje pristup DRM zaštićenom sadržaju.</string>

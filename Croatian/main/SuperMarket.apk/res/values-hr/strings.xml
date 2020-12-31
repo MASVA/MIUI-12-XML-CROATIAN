@@ -22,7 +22,7 @@
   <string name="app_comments_title">Komentari: %1$s</string>
   <string name="app_label">Upravitelj za preuzimanje</string>
   <string name="app_name">Mi Market</string>
-  <string name="auto_restart_under_wifi">WLAN će automatski preuzeti datoteku</string>
+  <string name="auto_restart_under_wifi">Wi-Fi će automatski preuzeti datoteku</string>
   <string name="bad_authentication">Provjera autentičnosti nije uspjela, pogrešno korisničko ime ili zaporka</string>
   <string name="bad_comments">Negativni</string>
   <string name="basic_info">Osnovne informacije</string>
@@ -161,7 +161,7 @@
   <string name="install_missing_shared_library">Aplikaciji nedostaju potrebne komponente.</string>
   <string name="install_no_network_description">Ne mogu se povezati na mrežu, pokušajte kasnije</string>
   <string name="install_on_data_description">Preuzimanje aplikacija preko mobilne mreže može značajno povećati uporabu podataka., nastaviti i instalirati %1$s i %2$s aplikacija?</string>
-  <string name="install_only_on_wifi_description">Odabrali ste da koristite samo WLAN u postavkama, preuzimanje se ne može nastaviti. Da biste nastavili s preuzimanjem, isključite tu opciju.</string>
+  <string name="install_only_on_wifi_description">Odabrali ste da koristite samo Wi-Fi u postavkama, preuzimanje se ne može nastaviti. Da biste nastavili s preuzimanjem, isključite tu opciju.</string>
   <string name="install_parse_fail">Instaliranje nije uspjelo, ponovno preuzmite.</string>
   <string name="install_patch_fail">Delta ažuriranje nije uspjelo, ponovno preuzmite cijeli paket.</string>
   <string name="install_sdcard_not_available">Instaliranje nije potpuno, SD kartica nije dostupna.</string>
@@ -269,13 +269,13 @@ slijedite povenicu u aktivacijskoj poruci"</string>
   <string name="notification_download_failed">Preuzimanje nije uspjelo</string>
   <string name="notification_filename_extras">" i %d još"</string>
   <string name="notification_filename_separator">", "</string>
-  <string name="notification_need_wifi_for_size">Veličina preuzimanja zahtijeva WLAN</string>
+  <string name="notification_need_wifi_for_size">Veličina preuzimanja zahtijeva Wi-Fi</string>
   <string name="notification_paused_in_background">Pauzirano u pozadini</string>
   <string name="password">Zaporka</string>
   <string name="password_hint_text">6~16 znakova</string>
   <string name="paused">Pauzirano</string>
   <string name="paused_by_app">Pauzirano ručno</string>
-  <string name="paused_queued_for_wifi">Čeka se WLAN povezivanje</string>
+  <string name="paused_queued_for_wifi">Čeka se Wi-Fi povezivanje</string>
   <string name="paused_unknown">Pauzirano iz nepoznatih razloga</string>
   <string name="paused_waiting_for_network">Čeka se povezivanje s mrežom</string>
   <string name="paused_waiting_to_retry">Čeka se ponovni pokušaj</string>
@@ -305,7 +305,7 @@ slijedite povenicu u aktivacijskoj poruci"</string>
   <string name="pref_list_use_dev_staging_server">Koristite dev-stupnjevanje poslužitelja</string>
   <string name="pref_list_use_online_server">Koristite poslužitelj proizvoda</string>
   <string name="pref_list_use_staging_server">Koristite stupnjevanje poslužitelja</string>
-  <string name="pref_summary_auto_download_via_wifi">Autom. preuzmi ažuriranja aplikacija putem WLAN-a.</string>
+  <string name="pref_summary_auto_download_via_wifi">Autom. preuzmi ažuriranja aplikacija putem Wi-Fi-ja.</string>
   <string name="pref_summary_clear_search_record">Izbriši povijest pretraživanja</string>
   <string name="pref_summary_data_save">"Ne prikazuj slike preko podatkovne mreže"</string>
   <string name="pref_summary_developer_service0">Posjetite našu developer web stranicu</string>
@@ -316,13 +316,13 @@ slijedite povenicu u aktivacijskoj poruci"</string>
   <string name="pref_summary_privacy1">Izjava o privatnosti</string>
   <string name="pref_summary_silent_install">Zahtijeva ROOT dopuštenje</string>
   <string name="pref_title_about">O aplikaciji</string>
-  <string name="pref_title_auto_download_via_wifi">Autom. preuzimanje korištenjem WLAN-a</string>
+  <string name="pref_title_auto_download_via_wifi">Autom. preuzimanje korištenjem Wi-Fi-ja</string>
   <string name="pref_title_clear_cache">Izbriši cache</string>
   <string name="pref_title_clear_search_record">Izbriši povijest pretraživanja</string>
   <string name="pref_title_data_save">Pokaži slike</string>
   <string name="pref_title_developer_service">Usluge Developera</string>
   <string name="pref_title_download_from_website">Preuzmi s web stranice</string>
-  <string name="pref_title_download_onlyby_wifi">Preuzmi pomoću WLAN samo</string>
+  <string name="pref_title_download_onlyby_wifi">Preuzmi pomoću Wi-Fi samo</string>
   <string name="pref_title_exit_privacy">Izlaz</string>
   <string name="pref_title_network_diagnostics">Dijagnostika mreže</string>
   <string name="pref_title_privacy">Program iskustva korisnika</string>
@@ -393,9 +393,9 @@ slijedite povenicu u aktivacijskoj poruci"</string>
 
 Preuzimanje datoteke može dovesti do veće uporabe podataka."</string>
   <string name="wifi_recommended_title">Podsjetnik prometa</string>
-  <string name="wifi_required_body" formatted="false">"Morate koristiti WLAN za dovršenje preuzimanja: %s. 
+  <string name="wifi_required_body" formatted="false">"Morate koristiti Wi-Fi za dovršenje preuzimanja: %s. 
 
-Dodirnite %s za početak preuzimanja sljedeći put kada ste povezani na WLAN mrežu."</string>
+Dodirnite %s za početak preuzimanja sljedeći put kada ste povezani na Wi-Fi mrežu."</string>
   <string name="wifi_required_title">Preuzimanje preveliko za mrežu operatera</string>
   <string name="wrong_captcha">Uneseni kôd nije ispravan</string>
   <string name="wrong_vcode">Uneseni kôd za provjeru nije ispravan</string>

@@ -526,7 +526,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_radio_infor_voiceNetworkTech">Radio informacije o terminalu</string>
   <string name="cit_tool_rf_ant">Alati RF/Antene</string>
   <string name="cit_tool_switch_autosms">Omogući/Onemogući AutoSMSReg</string>
-  <string name="cit_tool_wifi">Alati testiranje WLAN-a</string>
+  <string name="cit_tool_wifi">Alati testiranje Wi-Fi-ja</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
@@ -546,7 +546,7 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
   <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
   <string name="cit_tool_wifi_rxn_test_channel">kanal:</string>
-  <string name="cit_tool_wifi_sniffer">Alat za WLAN Sniffer</string>
+  <string name="cit_tool_wifi_sniffer">Alat za Wi-Fi Sniffer</string>
   <string name="cit_tool_wifi_sniffer_settings">Sniffer postavke</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
@@ -595,11 +595,11 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_vibrator_play_touch_pattern">Vibracija</string>
   <string name="cit_vibrator_short">Kratka vibracija</string>
   <string name="cit_vibrator_show_advanced">Prikaži napredne opcije</string>
-  <string name="cit_wifi_address_check_summary">Testiranje će prikazati trenutno stanje WLAN-a</string>
-  <string name="cit_wifi_address_check_title">WLAN Adresa</string>
-  <string name="cit_wifi_address_error">"Ne mogu dobiti WLAN adresu. Provjerite je li WLAN omogućen."</string>
-  <string name="cit_wifi_ap_scan_check_summary">U nastavku su informacije WLAN AP od uređaja na području koje su otkrivene. Potvrdite da su informacije istaknute zelenom bojom ispravne.</string>
-  <string name="cit_wifi_ap_scan_check_title">Skeniranje WLAN AP</string>
+  <string name="cit_wifi_address_check_summary">Testiranje će prikazati trenutno stanje Wi-Fi-ja</string>
+  <string name="cit_wifi_address_check_title">Wi-Fi Adresa</string>
+  <string name="cit_wifi_address_error">"Ne mogu dobiti Wi-Fi adresu. Provjerite je li Wi-Fi omogućen."</string>
+  <string name="cit_wifi_ap_scan_check_summary">U nastavku su informacije Wi-Fi AP od uređaja na području koje su otkrivene. Potvrdite da su informacije istaknute zelenom bojom ispravne.</string>
+  <string name="cit_wifi_ap_scan_check_title">Skeniranje Wi-Fi AP</string>
   <string name="cit_wifi_ap_scan_retry">Skeniraj ponovno…</string>
   <string name="cit_wifi_ap_scanning">Skeniranje…</string>
   <string name="cit_wifi_fail_to_scan">"Ne mogu skenirati mreže"</string>

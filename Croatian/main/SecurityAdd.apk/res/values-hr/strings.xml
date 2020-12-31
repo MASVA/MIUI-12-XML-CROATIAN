@@ -379,7 +379,7 @@
   <string name="try_game">Isprobaj</string>
   <string name="uninstall_game_count">"Nije dodano %d igara"</string>
   <string name="usage_sorted_loading_text">Samo trenutak…</string>
-  <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na WLAN kada je povezano na mobilnu mrežu"</string>
+  <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na Wi-Fi kada je povezano na mobilnu mrežu"</string>
   <string name="wlan_change_protection_title">Spriječi promjenu mreža</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

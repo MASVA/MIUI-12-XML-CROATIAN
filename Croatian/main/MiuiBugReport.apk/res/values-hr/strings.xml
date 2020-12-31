@@ -104,7 +104,7 @@
   <string name="catch_full_log_item_title_sensor">Senzori</string>
   <string name="catch_full_log_item_title_signal">Mobitel, signal i mobilne mreže</string>
   <string name="catch_full_log_item_title_wifi">Wi-Fi i ShareMe</string>
-  <string name="catch_full_log_item_title_wifi_china">WLAN i ShareMe</string>
+  <string name="catch_full_log_item_title_wifi_china">Wi-Fi i ShareMe</string>
   <string name="catch_full_log_notification_content">Dodirnite za povratak na zapise</string>
   <string name="catch_full_log_notification_title">Generiranje zapisa…</string>
   <string name="catch_full_log_privacy_content_audio">Stvarate dnevnike i spremate ih na uređaj. Zapisi mogu sadržavati informacije o zvuku na uređaju, uključujući povijest reprodukcije i povijest snimanja. Budite oprezni i ne otkrivajte ove dnevnike drugim ljudima. Ako dodirnete \"Slažem se\" u nastavku, slažete se da ćemo prikupiti gore navedene podatke tijekom generiranja dnevnika, a zatim učitati zapise na poslužitelje kako bismo pronašli i riješili probleme koje prijavite.</string>
@@ -358,7 +358,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mobile_data_note_dialog_cancel">Pričekaj Wi-Fi</string>
-  <string name="mobile_data_note_dialog_cancel_china">Pričekaj WLAN</string>
+  <string name="mobile_data_note_dialog_cancel_china">Pričekaj Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Učitaj</string>
   <string name="mobile_data_note_dialog_content">Izgleda da ste povezani s mrežom koja se plaća. Slanje zapisnika može generirati dodatne naknade.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Izgleda da ste povezani s plaćenom mrežom. Prijenos zapisnika zahtijeva %sMB mobilnih podataka.</string>

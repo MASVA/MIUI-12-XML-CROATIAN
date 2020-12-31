@@ -7,7 +7,7 @@
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Isključite prijenosni hotspot, Mi Share, ili emitiranje na mobilnom uređaju prije korištenja Screen Combo.
-2. Isključite WLAN na mobilnom uređaju i računalu.
+2. Isključite Wi-Fi na mobilnom uređaju i računalu.
 3. Provjerite je li vaš mobilni uređaj blizu računala."</item>
         <item>Vaše računalo koristi Bluetooth za otkrivanje mobilnih uređaja koji su prethodno bili povezani. Provjerite je li Bluetooth uključen na vašem mobilnom uređaju.</item>
         <item>"Mobilni uređaji ne mogu sinkronizirati podatke s računalima kada je zaslon zaključan. Screen Combo prema zadanim postavkama ne dopušta zaključavanje zaslona kada je vaš mobilni uređaj povezan s računalom. To možete promijeniti u Postavkama."</item>

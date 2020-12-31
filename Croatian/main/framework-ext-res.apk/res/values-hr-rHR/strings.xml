@@ -63,7 +63,7 @@
   <string name="content_description_web_url">Pregledaj</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
-  <string name="data_usage_context">Ako WLAN nije uključen, vaš će se uređaj povezati s mobilnom mrežom, što može rezultirati dodatnim troškovima, ovisno o vašem stanju računa. Hvala!</string>
+  <string name="data_usage_context">Ako Wi-Fi nije uključen, vaš će se uređaj povezati s mobilnom mrežom, što može rezultirati dodatnim troškovima, ovisno o vašem stanju računa. Hvala!</string>
   <string name="default_device_name">Nepoznati uređaj</string>
   <string name="default_name">Zadano</string>
   <string name="description_title">Bešumno</string>
@@ -239,9 +239,9 @@
   <string name="security_permission_denied_text">Pristup odbijen</string>
   <string name="security_permission_failed_text">Interna pogreška, pokušajte kasnije</string>
   <string name="security_permission_network_failed_text">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
-  <string name="security_permission_open_wifi_settings">Otvori postavke WLAN-a</string>
+  <string name="security_permission_open_wifi_settings">Otvori postavke Wi-Fi-ja</string>
   <string name="security_permission_validate_warning">Hvala vam što nam pomažete napraviti MIUI boljim!</string>
-  <string name="security_permission_wifi_and_data_opened_text">WLAN i mobilni podaci uključeni</string>
+  <string name="security_permission_wifi_and_data_opened_text">Wi-Fi i mobilni podaci uključeni</string>
   <string name="security_permission_xiaomi_account_missed_text">Unesite vaš ID Mi Računa</string>
   <string name="security_share_text">Zaštita privatnosti</string>
   <string name="select">Odaberi</string>
@@ -260,9 +260,9 @@
   <string name="sim_lock_non_ais_msg">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodavala proizvode."</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="slatoast">Korištenje mobilnih podataka za povećanje brzine može generirati dodatne troškove mob. operatera</string>
-  <string name="slavewifi">Dvopojasni WLAN</string>
+  <string name="slavewifi">Dvopojasni Wi-Fi</string>
   <string name="slavewifi_disconnect">Prekini vezu</string>
-  <string name="slavewifi_notification_title">Korištenje dvopojasne WLAN mreže</string>
+  <string name="slavewifi_notification_title">Korištenje dvopojasne Wi-Fi mreže</string>
   <string name="slavewifi_settings">Dodirnite za promjenu postavki</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
@@ -303,7 +303,7 @@
   <string name="status_bar_toggle_syncing">Sinkr.</string>
   <string name="status_bar_toggle_torch">Svjetiljka</string>
   <string name="status_bar_toggle_vibrate">Vibracija</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="stop_operate_camera_frequently">"Izgleda da previše često mjenjate između kamera."</string>
   <string name="sunlight_notification_content">Prilagodi svjetlinu jakog ambijentalnog svjetlu automatski</string>
@@ -339,7 +339,7 @@
   <string name="voice_button_action_up">Pritisni za pričanje</string>
   <string name="voice_input_error_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="voice_input_error_other">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-  <string name="wifi_assistant_wifi_no_internet">Ova WLAN mreža nema pristup internetu</string>
+  <string name="wifi_assistant_wifi_no_internet">Ova Wi-Fi mreža nema pristup internetu</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Dodirni za prikaz detalja</string>
   <string name="wireless_charging_notification_message1">"Ne mogu pronaći bežične uređaje za punjenje. Obrnuto bežično punjenje sada je isključeno."</string>
   <string name="wireless_charging_notification_message2">Baterija je napunjena manje od 30%. Obrnuto bežično punjenje sada je isključeno.</string>

@@ -594,8 +594,8 @@ sadržaj koji tražite nije trenutno dostupan u vašoj regiji."</string>
   <string name="uploads_disabled">Učitavanje datoteka je onemogućeno</string>
   <string name="user_agreement2">" Uvjeti pružanja usluge"</string>
   <string name="user_agreement4">Pravila o privatnosti</string>
-  <string name="user_notice_identify_summary_format">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada ste povezani na WLAN. Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>
-  <string name="user_notice_identify_summary_format_cta">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada ste povezani na WLAN. Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada ste povezani na Wi-Fi. Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>
+  <string name="user_notice_identify_summary_format_cta">"Vaš telefon će koristiti MIUI bazu podataka za blokiranje neželjenih poziva kada ste povezani na Wi-Fi. Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>
   <string name="user_notice_title">Napomena</string>
   <string name="user_notice_yp_detail_summary_format">"Neke od vaših informacija Žutih Stranica su zastarjele. Želite li ih ažurirati? Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>
   <string name="user_notice_yp_detail_summary_format_cta">"Neke od vaših informacija Žutih Stranica su zastarjele. Želite li ih ažurirati? Korištenjem ove usluge pristajete na naše %1$s i %2$s."</string>

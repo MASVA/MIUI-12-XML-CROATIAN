@@ -209,14 +209,14 @@ i može primati datoteke."</string>
   <string name="wait_login">Prijava…</string>
   <string name="wait_net">Čekanje na mrežu…</string>
   <string name="wait_sdcard">Čekanje na SD karticu</string>
-  <string name="wait_wifi">Čekanje na WLAN</string>
-  <string name="wait_wifi_to_download">Čekanje na WLAN povezivanje</string>
-  <string name="wait_wifi_to_upload">Čekanje na WLAN povezivanje</string>
+  <string name="wait_wifi">Čekanje na Wi-Fi</string>
+  <string name="wait_wifi_to_download">Čekanje na Wi-Fi povezivanje</string>
+  <string name="wait_wifi_to_upload">Čekanje na Wi-Fi povezivanje</string>
   <string name="waiting_receive">Čekanje pošiljatelja…</string>
   <string name="waitting">Čekanje…</string>
   <string name="wanna_receive">Primanje</string>
   <string name="welcome_tip1">Brzo pošaljite datoteke, bez korištenja mobilne podatkovne veze
-WLAN Ap će biti otvoren tijekom primanja"</string>
+Wi-Fi Ap će biti otvoren tijekom primanja"</string>
   <string name="welcome_tip2">Dijelite slike, glazbu, kontakte i još više toga!</string>
   <string name="you_can">U redu</string>
 </resources>

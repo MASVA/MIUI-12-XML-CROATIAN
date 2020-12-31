@@ -105,12 +105,12 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="confirm_description">Potvrdi</string>
   <string name="connect_icloud_fail">Nije se moguće povezati na iCloud</string>
   <string name="connect_icloud_fail_tips">Provjerite da je Vaš iCloud aktiviran. Ukoliko nije, idite na icloud.com i slijedite upute kako biste ga aktivirali.</string>
-  <string name="connect_wifi">Poveži se na WLAN</string>
-  <string name="connect_wifi_tip">Povezivanje s mrežom nije uspjelo. Povežite se s WLAN mrežom za uvoz stavki iz iClouda.</string>
+  <string name="connect_wifi">Poveži se na Wi-Fi</string>
+  <string name="connect_wifi_tip">Povezivanje s mrežom nije uspjelo. Povežite se s Wi-Fi mrežom za uvoz stavki iz iClouda.</string>
   <string name="connecting">Povezivanje…</string>
   <string name="connection_tips_activity_label">Pronalaženje izvore problema</string>
   <string name="connection_tips_other_message">"1. Provjerite da je na vašem novom uređaju Mi Mover ažuriran. Možete preuzeti najnoviju verziju Mi Mover-a u GetApps na sljedećoj poveznici: %1$s.
-2. Ukoliko se hotspot novog uređaja ne pokazuje na Mi Mover-u, otvorite WLAN postavke i provjerite vidite li ga tamo. Ako ga vidite, nemojte ga dodirivati. 
+2. Ukoliko se hotspot novog uređaja ne pokazuje na Mi Mover-u, otvorite Wi-Fi postavke i provjerite vidite li ga tamo. Ako ga vidite, nemojte ga dodirivati. 
 3. Vratite se na Mi Mover i dodirnite ime hotspota."</string>
   <string name="connection_tips_other_title">Ako je Vaš stari uređaj Android telefon treće strane:</string>
   <string name="connection_tips_owner_message">Mi Mover unaprijed je instalirana na svim uređajima koji koriste MIUI 11. Ukoliko Vaš uređaj koristi stariju MIUI verziju, možete preuzeti najnoviju verziju Mi Mover-a na sljedećem linku: %1$s.</string>
@@ -145,7 +145,7 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="dialog_request_permission_message_provision_link">U isto vrijeme, za cjelovito razumijevanje vaših prava kao korisnika, kao i načina na koji koristimo vaše podatke, pročitajte i prihvatite naše %1$s i %2$s.</string>
   <string name="dialog_request_permission_title">Pažnja</string>
   <string name="dialog_request_network_message">"Dobrodošli u Mi Mover! Ovu aplikaciju možete koristiti za prebacivanje podataka sa vašeg starog uređaja na novi.
-Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i pravilima o privatnosti. Obratite pažnju da Mi Mover treba internet vezu i sljedeća dopuštenja u svrhu prikupljanje Vaših osobnih informacija: uključivanje i isključivanje WLAN-a, pristup i prijenos Vaših kontakata, povijest poziva, SMS, MMS, snimke poziva i zvukovne snimke."</string>
+Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i pravilima o privatnosti. Obratite pažnju da Mi Mover treba internet vezu i sljedeća dopuštenja u svrhu prikupljanje Vaših osobnih informacija: uključivanje i isključivanje Wi-Fi-a, pristup i prijenos Vaših kontakata, povijest poziva, SMS, MMS, snimke poziva i zvukovne snimke."</string>
   <string name="dialog_request_network_message_extra">Ukoliko se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete biti u mogućnosti koristiti ovu aplikaciju. U tom slučaju možete deinstalirati aplikaciju, odjaviti ili ograničiti dopuštenja u Postavkama.</string>
   <string name="dialog_tip_upgrade_summary">Izgleda da je Mi Mover prestar. Ažurirajte Mi Mover na njezinu najnoviju verziju da biste mogli prenositi datoteke.</string>
   <string name="dialog_tip_upgrade_title">Ažurirajte Mi Mover</string>
@@ -251,12 +251,12 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="icloud_how_to_backup_tip_steps_two">2. Vaš Apple ID i zaporka koristit će se samo za prijavu. Mi Mover neće ih pohraniti ili zabilježiti.</string>
   <string name="icloud_login_title">Prijavite se u iCloud</string>
   <string name="icloud_need_sync">Odaberite stavke za uvoz</string>
-  <string name="icloud_need_traffic_message">Sada niste povezani na WLAN. Koristiti mobilne podatke za uvoz stavki s iClouda?</string>
+  <string name="icloud_need_traffic_message">Sada niste povezani na Wi-Fi. Koristiti mobilne podatke za uvoz stavki s iClouda?</string>
   <string name="icloud_need_traffic_title">Koristi mobilne podatke</string>
-  <string name="icloud_need_wifi_message">Niste povezani s WLAN mrežom. Za uvoz podataka iz iClouda, povežite se s WLAN mrežom.</string>
-  <string name="icloud_need_wifi_new_message">Povežite se na WLAN kako biste mogli uvoziti stavke s iPhonea.</string>
-  <string name="icloud_need_wifi_new_title">Poveži se na WLAN</string>
-  <string name="icloud_need_wifi_title">Poveži se na WLAN</string>
+  <string name="icloud_need_wifi_message">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz iClouda, povežite se s Wi-Fi mrežom.</string>
+  <string name="icloud_need_wifi_new_message">Povežite se na Wi-Fi kako biste mogli uvoziti stavke s iPhonea.</string>
+  <string name="icloud_need_wifi_new_title">Poveži se na Wi-Fi</string>
+  <string name="icloud_need_wifi_title">Poveži se na Wi-Fi</string>
   <string name="icloud_new_connect_wifi">Poveži</string>
   <string name="icloud_signin_fail">Ne mogu se prijaviti</string>
   <string name="icloud_signin_fail_message">Vaš apple ID je zaključan iz sigurnosnih razloga. Odite na iforgot.apple.com i slijedite upute.</string>
@@ -283,7 +283,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="instruction">Važne sigurnosne informacije</string>
   <string name="international_new_trans_intro_desc_8">Prijenos tekstualnih poruka spriječen je zbog problemom s kompatibilnošću. Aplikacije trećih strana možda ograničuju prijenos podataka svojih aplikacija iz sigurnosnih razloga.</string>
   <string name="international_new_trans_intro_question_8">8. Zašto se tekstualne poruke i podaci aplikacija nekih aplikacija trećih strana ne mogu prenijeti?</string>
-  <string name="international_scanner_send_dialog_message">Poruke i podaci nekih aplikacija treće strane ne mogu biti prenešeni. Nemojte isključivati WLAN ili mijenjati mreže tokom prijenosa.</string>
+  <string name="international_scanner_send_dialog_message">Poruke i podaci nekih aplikacija treće strane ne mogu biti prenešeni. Nemojte isključivati Wi-Fi ili mijenjati mreže tokom prijenosa.</string>
   <string name="label_null"/>
   <string name="lack_perm_msg">Mi Mover treba sljedeća dopuštenja da radi normalno: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Potrebna su dopuštenja</string>
@@ -305,9 +305,9 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="main_sender_summary">Dodirnite za slanje stavki</string>
   <string name="main_sender_title">Stari</string>
   <string name="manual_connection_content1">1. Dodirnite \"Povežite se s novim uređajem ručno\" na starom uređaju.</string>
-  <string name="manual_connection_content2">2. Odaberite sljedeći WLAN hotspot.</string>
+  <string name="manual_connection_content2">2. Odaberite sljedeći Wi-Fi hotspot.</string>
   <string name="manual_connection_content3">3. Unesite ovu zaporku na stari uređaj za povezivanje.</string>
-  <string name="manual_connection_summary2">"Ako ne možete pronaći ovaj hotspot, osvježite popis dostupnih WLAN mreža i pokušajte ponovno."</string>
+  <string name="manual_connection_summary2">"Ako ne možete pronaći ovaj hotspot, osvježite popis dostupnih Wi-Fi mreža i pokušajte ponovno."</string>
   <string name="manual_connection_title">Ručno se povežite sa starim uređajem</string>
   <string name="message_request_package_stats_perm">Mi Mover treba ovo dopuštenje da bi saznao koje su aplikacije instalirane na uređaju i prebacio ih na drugi.</string>
   <string name="midnight">AM</string>
@@ -384,7 +384,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="new_trans_intro_desc_8">Wechat povijest Vašeg starog uređaja zamijenit će Wechat povijest na novom uređaju tokom prijenosa.</string>
   <string name="new_trans_intro_desc_new">1. Provjerite da je na Vašem novom uređaju Mi Mover ažurirana. Možete preuzeti najnoviju verziju Mi Mover-a u GetApps na sljedećoj poveznici: %1$s.</string>
   <string name="new_trans_intro_desc_new_click">Preuzimanje</string>
-  <string name="new_trans_intro_desc_old">2. Ako se hotspot još uvijek nije pojavio u Mi Mover-u, otvorite WLAN postavke i provjerite vidite li hotspot. Ako ga vidite, vratite se u Mi Mover i dodirnite naziv hotspota.</string>
+  <string name="new_trans_intro_desc_old">2. Ako se hotspot još uvijek nije pojavio u Mi Mover-u, otvorite Wi-Fi postavke i provjerite vidite li hotspot. Ako ga vidite, vratite se u Mi Mover i dodirnite naziv hotspota.</string>
   <string name="new_trans_intro_question_1">1. Zašto ne mogu vidjeti hotspot novog uređaja na starom uređaju?</string>
   <string name="new_trans_intro_question_2">2. Koja je zaporka hotspota?</string>
   <string name="new_trans_intro_question_3">3. Zašto mi aplikacija govori da na mom starom uređaju nema dovoljno prostora za pohranu?</string>
@@ -398,7 +398,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
 3. Odaberite sljedeći hotspot na novom uređaju."</string>
   <string name="new_wait_link_message_2">"Tipka \"Ja sam pošiljatelj\" nalazi se s desne strane početne stranice Mi Mover-a."</string>
   <string name="new_wait_link_title_2">"1. Dodirnite \"Ja sam pošiljatelj\" i pričekajte trenutak."</string>
-   <string name="new_wait_link_title_3">2. Odaberite sljedeći WLAN hotspot na starom uređaju.</string>
+   <string name="new_wait_link_title_3">2. Odaberite sljedeći Wi-Fi hotspot na starom uređaju.</string>
   <string name="next">Sljedeće</string>
   <string name="nickname">Prezime</string>
   <string name="night">PM</string>
@@ -423,7 +423,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="notif_icloud_loaded_summary">Čekanje…</string>
   <string name="notif_icloud_loading_summary">Učitavanje podataka…</string>
   <string name="notif_icloud_logining">Prijavljivanje na iCloud na starom iOS uređaju…</string>
-  <string name="notif_icloud_need_wifi_summary">Čekanje na WLAN</string>
+  <string name="notif_icloud_need_wifi_summary">Čekanje na Wi-Fi</string>
   <string name="notif_icloud_saved_summary">Uspješno uvezeno</string>
   <string name="notif_icloud_saving_summary">Obnavljanje podataka…</string>
   <string name="notification_trans_finish_receive_message">Uspješno su primljeni svi podaci. Dodirnite za prikaz rezultata.</string>
@@ -433,10 +433,10 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="notification_trans_interrupt_message">Veza je prekinuta. Pokušaj ponovo uspostaviti vezu…</string>
   <string name="notification_trans_interrupt_title">Ponovno spajanje…</string>
   <string name="notification_trans_leave_message">Ne zatvarajte Mi Mover dok prenosi stvari.</string>
-  <string name="notification_trans_receive_message">Primanje podataka. Ne isključujte WLAN ili prebacivati između mreža.</string>
+  <string name="notification_trans_receive_message">Primanje podataka. Ne isključujte Wi-Fi ili prebacivati između mreža.</string>
   <string name="notification_trans_receive_title">Primanje podataka…</string>
   <string name="notification_trans_running_title">Mi Mover sada radi…</string>
-  <string name="notification_trans_send_message">Slanje podataka. Ne isključujte WLAN ili prebacivati između mreža.</string>
+  <string name="notification_trans_send_message">Slanje podataka. Ne isključujte Wi-Fi ili prebacivati između mreža.</string>
   <string name="notification_trans_send_title">Slanje podataka…</string>
   <string name="ok">U redu</string>
   <string name="old_app_name">Stara verzija</string>
@@ -485,7 +485,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="permission_storage_summary">Za prijenos datoteka i fotografija na vaš novi uređaj</string>
   <string name="permission_storage_title">Pristup i spremanje datoteka i fotografija pohranjenih na vašem uređaju</string>
   <string name="permission_wifi_summary">Za prijenos stavki na vaš novi uređaj</string>
-  <string name="permission_wifi_title">Uključivanje i isključivanje WLAN-a</string>
+  <string name="permission_wifi_title">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="permlab_sendSmsNoConfirmation">Dopusti SMS poruke u pozadini</string>
   <string name="phone">Telefon</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
@@ -495,7 +495,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="prompt_before_transmission_message2_title">"Koristite dvojne aplikacije za sljedeće stavke"</string>
   <string name="prompt_before_transmission_message3_summary">"Stavke iz Drugog prostora ne mogu se prenijeti zbog ograničenja sustava."</string>
   <string name="prompt_before_transmission_message3_title">"Koristite Drugi prostor"</string>
-  <string name="prompt_before_transmission_message4_summary">"Ne isključujte WLAN ili prelaziti s jedne mreže na drugu sve dok prijenos ne bude dovršen."</string>
+  <string name="prompt_before_transmission_message4_summary">"Ne isključujte Wi-Fi ili prelaziti s jedne mreže na drugu sve dok prijenos ne bude dovršen."</string>
   <string name="prompt_before_transmission_message4_title">Ostanite povezani tijekom cijelog prijenosa</string>
   <string name="prompt_before_transmission_message5_summary">"Prijenos velike količine podataka bežičnim putem može uzrokovati lagano pregrijavanje koje nije neuobičajeno. Vaš će se uređaj ohladiti ubrzo nakon prijenosa."</string>
   <string name="prompt_before_transmission_message5_title">Vaš se uređaj može zagrijati tijekom prijenosa.</string>
@@ -524,7 +524,7 @@ Prijavite se na svoj Mi Račun kako biste ih vratili."</string>
   <string name="save_finish_with_failing_items">"Prijenos je prekinut.
 Podaci koji nisu uvezeni moraju se ponovo uvesti."</string>
   <string name="saving_data">Uvoz podataka iz iCloud…</string>
-  <string name="saving_data_not_close_wifi">Ne isključujte WLAN</string>
+  <string name="saving_data_not_close_wifi">Ne isključujte Wi-Fi</string>
   <string name="saving_data_space_low">"Nema dovoljno prostora za pohranu.
 Oslobodite barem %s."</string>
   <string name="scan_soft_ap_label">Povežite se s novim uređajem</string>
@@ -537,7 +537,7 @@ Oslobodite barem %s."</string>
   <string name="scanner_quit_alert_message">Ako ponovo napustite Mi Mover, dva ćete uređaja morati spojiti. Odustati svejedno?</string>
   <string name="scanner_quit_alert_title">Prekinuti sada?</string>
   <string name="scanner_send_dialog_btn">Razumijem</string>
-  <string name="scanner_send_dialog_message">Ne isključujte WLAN ili prebacivajte između mreža tijekom prijenosa.</string>
+  <string name="scanner_send_dialog_message">Ne isključujte Wi-Fi ili prebacivajte između mreža tijekom prijenosa.</string>
   <string name="scanner_size_selected">Odabrano: %s</string>
   <string name="scanner_time_remained">Procijenjeno vrijeme prijenosa: %s</string>
   <string name="scanner_title_tip">Odaberite stavke za prijenos</string>
@@ -576,7 +576,7 @@ Oslobodite barem %s."</string>
   <string name="settings_powerkeeper">Podaci brojača koraka</string>
   <string name="settings_sms">Postavke Poruka</string>
   <string name="settings_system">Postavke sustava</string>
-  <string name="settings_wifi">WLAN postavke</string>
+  <string name="settings_wifi">Wi-Fi postavke</string>
   <string name="sim_changed_reactivate_int_notice">Međunarodna odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="sim_changed_reactivate_notice">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="sim_in_airplane_mode">Isključite Zrakoplovni način.</string>
@@ -597,7 +597,7 @@ Oslobodite barem %s."</string>
   <string name="succ_description">Dovršeno</string>
   <string name="summary_open_wlan">Mi Mover treba ovo dopuštenje da osigura stabilnost postupka prijenosa.</string>
   <string name="summary_request_alert_window_prem">Mi Mover treba ovo dopuštenje da osigura stabilnost postupka prijenosa.</string>
-  <string name="summary_request_write_settings_prem">Mi Mover treba ovo dopuštenje za uključivanje WLAN-a i izradu hotspota za prijenos datoteka.</string>
+  <string name="summary_request_write_settings_prem">Mi Mover treba ovo dopuštenje za uključivanje Wi-Fi-ja i izradu hotspota za prijenos datoteka.</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">Ned</string>
@@ -625,7 +625,7 @@ Oslobodite barem %s."</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_spent">Vrijeme: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
-  <string name="title_open_wlan">Uključi WLAN</string>
+  <string name="title_open_wlan">Uključi Wi-Fi</string>
   <string name="title_request_alert_window_perm">Dopusti plutajuće prozore</string>
   <string name="title_request_package_stats_perm">Potrebno je dopuštenje</string>
   <string name="title_request_write_settings_perm">Dopusti promjenu postavki sustava</string>
@@ -649,7 +649,7 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">Vrijeme: %s</string>
-  <string name="transfer_bottom_tip">"Tijekom prijenosa nećete moći koristiti WLAN ili Bluetooth. Ne napuštajte ovu stranicu."</string>
+  <string name="transfer_bottom_tip">"Tijekom prijenosa nećete moći koristiti Wi-Fi ili Bluetooth. Ne napuštajte ovu stranicu."</string>
   <string name="transfer_connect_fail_summary">Dodirnite tipku u nastavku da biste se ručno povezali</string>
   <string name="transfer_finish_bottom_tip">Ako više nećete koristiti svoj stari uređaj, možete izbrisati sve podatke na njemu nakon što potvrdite da su sve važne stavke uspješno prenesene.</string>
   <string name="transfer_finish_summary">Preneseno %1$s (%2$s)</string>

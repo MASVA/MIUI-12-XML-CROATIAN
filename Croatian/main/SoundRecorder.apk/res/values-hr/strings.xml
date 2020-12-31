@@ -114,7 +114,7 @@
   <string name="no_file">Prazno</string>
   <string name="no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="not_set">Nije postavljeno</string>
-  <string name="notification_message_all_paused">Čekanje na WLAN vezu.</string>
+  <string name="notification_message_all_paused">Čekanje na Wi-Fi vezu.</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
   <string name="notification_recording">Snimanje…</string>
   <string name="notification_recording_ticker">Telefon utišan.</string>
@@ -265,7 +265,7 @@
   <string name="webview_service_unavailiable">Usluga nedostupna</string>
   <string name="webview_try_again">Pokušajte ponovo</string>
   <string name="wifi_recommended_body" formatted="false">"Korištenje vaše mobilne podatkovne veze za preuzimanje ove datoteke (%s) će povećati vašu uporabu podataka. Ako prekoračite vaše mjesečno ograničenje, vaš mobilni operater vam može naplatiti dodatne naknade.
-Ako želite čekati na WLAN povezivanje za preuzimanje ove datoteke, dodirnite %s."</string>
+Ako želite čekati na Wi-Fi povezivanje za preuzimanje ove datoteke, dodirnite %s."</string>
   <string name="wifi_recommended_title">Upozorenje uporabe podataka</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>

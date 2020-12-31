@@ -5,7 +5,7 @@
   <string name="DOWNLOAD_UNIT_KB">KB</string>
   <string name="DOWNLOAD_UNIT_MB">MB</string>
   <string name="DOWNLOAD_UNIT_TB">TB</string>
-  <string name="Only_the_wifi">Koristi samo WLAN</string>
+  <string name="Only_the_wifi">Koristi samo Wi-Fi</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -107,7 +107,7 @@
   <string name="dialog_insufficient_space_on_external">Preuzimanje se ne može dovršiti. Na vanjskoj pohrani nema dovoljno prostora.</string>
   <string name="dialog_media_not_found">Spojite vanjski prostor za pohranu da preuzmete.</string>
   <string name="dialog_msg_disabled_net">%1$s ograničava preuzimanja za trenutnu mrežu. Dodirnite Postavke mreže za odlazak u aplikaciju Sigurnost.</string>
-  <string name="dialog_msg_recommend">"Nećete biti u mogućnosti vidjeti preporučene izvore nakon isključivanja. Možete odabrati \"Učitaj kada je povezano na WLAN\" da uštedite mobilne podatke."</string>
+  <string name="dialog_msg_recommend">"Nećete biti u mogućnosti vidjeti preporučene izvore nakon isključivanja. Možete odabrati \"Učitaj kada je povezano na Wi-Fi\" da uštedite mobilne podatke."</string>
   <string name="dialog_queued_body">Datoteka je dodata u red i uskoro će se preuzeti.</string>
   <string name="dialog_speed_cancel">Odustani</string>
   <string name="dialog_speed_msg">Uporaba mobilnih podataka za testiranje mreže može prouzrokovati velike količine mobilnih podataka. Svejedno nastaviti?</string>
@@ -211,7 +211,7 @@
   <string name="hint">Pažnja</string>
   <string name="home_page_new_download_guide">Nova preuzimanja idu ovdje</string>
   <string name="immediately_a_renewal">Obnovi sada</string>
-  <string name="info_flow_only_load_wifi">Učitaj kada je povezano na WLAN</string>
+  <string name="info_flow_only_load_wifi">Učitaj kada je povezano na Wi-Fi</string>
   <string name="info_flow_setting">Postavke</string>
   <string name="info_flow_show">Preporučeni izvori</string>
   <string name="input_valid_address">Unesite putanju datoteke</string>
@@ -267,7 +267,7 @@
   <string name="notify_install_guide_msg">Uspješno instalirano</string>
   <string name="notify_install_guide_title">%s uspješno instaliran</string>
   <string name="notify_not_support">"Takve obavijesti nisu podržane, ažurirajte sada"</string>
-  <string name="notify_only_wifi_download">Čekanje na WLAN</string>
+  <string name="notify_only_wifi_download">Čekanje na Wi-Fi</string>
   <string name="one_month">1 mjesec</string>
   <string name="only_support_torrent">Samo su podržane torrent datoteke</string>
   <string name="open">Otvori</string>
@@ -286,7 +286,7 @@
   <string name="paused">Pauzirano</string>
   <string name="paused_by_app">Pauzirano</string>
   <string name="paused_insufficient_space">Na čekanju</string>
-  <string name="paused_queued_for_wifi">Pauzirano, čeka se WLAN</string>
+  <string name="paused_queued_for_wifi">Pauzirano, čeka se Wi-Fi</string>
   <string name="paused_unknown">Nepoznata greška</string>
   <string name="paused_waiting_for_network">Čekanje na mobilnu mrežu</string>
   <string name="paused_waiting_to_retry">Čekam ponovni pokušaj</string>
@@ -296,9 +296,9 @@
   <string name="pref_download_settings_title">Preuzimanje putem mob. podataka je ograničeno</string>
   <string name="pref_download_storage_path">Spremi na moju lokaciju</string>
   <string name="pref_sniff_shortcut">Izradi Prečac Poč. zaslona za pretraživanje weba</string>
-  <string name="pref_summary_any_bytes_popup">Uvijek čekaj WLAN vezu za preuzimanje datoteka</string>
+  <string name="pref_summary_any_bytes_popup">Uvijek čekaj Wi-Fi vezu za preuzimanje datoteka</string>
   <string name="pref_summary_enable_max_bytes_popup">"Prikaži skočnu obavijest kada se koristi mobilna podatkovna veza za preuzimanje sadržaja"</string>
-  <string name="pref_summary_max_bytes_limit_format">Pričekaj WLAN, ako veličina datoteke premaši za %s</string>
+  <string name="pref_summary_max_bytes_limit_format">Pričekaj Wi-Fi, ako veličina datoteke premaši za %s</string>
   <string name="pref_summary_no_limit_popup">Neograničeno</string>
   <string name="pref_title_enable_max_bytes_popup">Prikaži upozorenje uporabe podataka</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
@@ -421,7 +421,7 @@ i pokušajte ponovno."</string>
   <string name="sniff_text_sniff_next_page">Nastavi &gt;</string>
   <string name="sniff_vip_tip_speedup">Možete isprobati povećanje brzine jednom besplatno</string>
   <string name="sniff_vip_tip_vip">Xunlei može zadržati povećanje brzine</string>
-  <string name="speed_entrance">Testiraj brzinu WLAN-a</string>
+  <string name="speed_entrance">Testiraj brzinu Wi-Fi-ja</string>
   <string name="speed_result_broadband_text1">Trenutna brzina preuzimanja</string>
   <string name="speed_result_broadband_text2">%s propusnosti</string>
   <string name="speed_result_broadband_text3">Broadband</string>
@@ -432,8 +432,8 @@ i pokušajte ponovno."</string>
   <string name="speed_tip_netwrok_fail">Došlo je do pogreške mreže, pokušajte ponovo</string>
   <string name="speed_tip_netwrok_timeout">Veza je istekla, pokušajte ponovo</string>
   <string name="speed_tip_no_netwrok">"Ne mogu se povezati na mrežu. Povežite se i pokušajte ponovo."</string>
-  <string name="speed_title">Testiraj brzinu WLAN-a</string>
-  <string name="speed_title_result">Testiraj brzinu WLAN-a</string>
+  <string name="speed_title">Testiraj brzinu Wi-Fi-ja</string>
+  <string name="speed_title_result">Testiraj brzinu Wi-Fi-ja</string>
   <string name="start_analysis">Provjeri sada</string>
   <string name="start_download">Preuzmi</string>
   <string name="start_xunlei_speedup_info">Prijavite se da ubrzate vaša preuzimanja.</string>
@@ -466,7 +466,7 @@ i pokušajte ponovno."</string>
   <string name="title_homepage_infoflow">Nedavna ažuriranja</string>
   <string name="title_tips">Pažnja</string>
   <string name="title_unbind_xunlei">Ukloni Xunlei Račun</string>
-  <string name="toast_only_wifi_download">Povežite se na WLAN za preuzimanje ove stavke</string>
+  <string name="toast_only_wifi_download">Povežite se na Wi-Fi za preuzimanje ove stavke</string>
   <string name="toast_update_data_limit_fail">"Ne mogu postaviti"</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.
 Ova značajka se ne preporučuje izvan Kine"</string>

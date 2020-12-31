@@ -87,7 +87,7 @@
   <string name="classes_titlt">Raspored sati</string>
   <string name="classes_topTitle">Skenirajte raspored svoje klase</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
-  <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite WLAN.</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Hotspot je uključen. Uključite Wi-Fi.</string>
   <string name="common_retake_picture">Snimi ponovno</string>
   <string name="common_retry">Pokušaj ponovno</string>
   <string name="common_save">Spremi</string>
@@ -191,7 +191,7 @@
   <string name="feedback_title">Povratne inf.</string>
   <string name="filename_cannot_beempty">"Datoteke se ne mogu spremiti bez naziva"</string>
   <string name="flash_lable">Bljeskalica</string>
-  <string name="flight_mode_connecting_to_wifi">Uključite WLAN ručno kada je Zrakoplovni način uključen</string>
+  <string name="flight_mode_connecting_to_wifi">Uključite Wi-Fi ručno kada je Zrakoplovni način uključen</string>
   <string name="food_identification_fail_tips">Skenirajte voće, povrće i drugu hranu. Ova značajka također radi sa slikama.</string>
   <string name="food_identification_tip_msg">Prepoznavanje hrane…</string>
   <string name="food_make_complaints_hint">Ovdje unesite povratne informacije</string>
@@ -504,9 +504,9 @@
   <string name="website_details">Web stranica:</string>
   <string name="weixin_code_tip">Koristite WeChat za skeniranje ovog QR koda</string>
   <string name="welcome_to_thesweepversion">Dobrodošli u Skener Beta!</string>
-  <string name="wifi_details">WLAN:</string>
-  <string name="wifi_exist_fail">WLAN hotspot \"%1$s\" već postoji. Izbrišite ga i pokušajte ponovo.</string>
-  <string name="wifi_open_fail">"Ne mogu uključiti WLAN"</string>
+  <string name="wifi_details">Wi-Fi:</string>
+  <string name="wifi_exist_fail">Wi-Fi hotspot \"%1$s\" već postoji. Izbrišite ga i pokušajte ponovo.</string>
+  <string name="wifi_open_fail">"Ne mogu uključiti Wi-Fi"</string>
   <string name="wifi_psd_toolong">Zaporka je predugačka. Unesite je ručno.</string>
   <string name="wifi_pwd">Zaporka:</string>
   <string name="wifi_security">Sigurnost:</string>
