@@ -604,7 +604,7 @@ skenirane dokumente automatski"</string>
   <string name="find_qq_qrcode">Pronađi QR kôd QQ</string>
   <string name="find_web_qrcode">Pronađi QR kôd Web-a</string>
   <string name="find_wechat_qrcode">Pronađi QR kôd WeChat-a</string>
-  <string name="find_wifi_qrcode">Pronađi QR kôd WLAN-a</string>
+  <string name="find_wifi_qrcode">Pronađi QR kôd Wi-Fi-ja-a</string>
   <string name="flash">Bljeskalica</string>
   <string name="flash_off">Bez bljeskalice</string>
   <string name="flash_on">Bljeskalica uklj.</string>
@@ -1770,13 +1770,13 @@ snimanje i uređivanje videozapisa u pokretu"</string>
   <string name="wideselfie_rotate_to_left_slowly">Zakrenite telefon ulijevo</string>
   <string name="wideselfie_rotate_to_right_slowly">Zakrenite telefon udesno</string>
   <string name="width">Dužina</string>
-  <string name="wifi_connect_current_connetion">"Povezani ste na WLAN"</string>
+  <string name="wifi_connect_current_connetion">"Povezani ste na Wi-Fi"</string>
   <string name="wifi_connect_fail">Isteklo je vrijeme veze</string>
-  <string name="wifi_connect_not_found">"Ne mogu se ppvezati na WLAN"</string>
+  <string name="wifi_connect_not_found">"Ne mogu se ppvezati na Wi-Fi"</string>
   <string name="wifi_connect_success">Povezano</string>
   <string name="wifi_connecting">Povezivanje…</string>
-  <string name="wifi_details">WLAN details:</string>
-  <string name="wifi_open_fail">"Ne mogu uključiti WLAN"</string>
+  <string name="wifi_details">Wi-Fi detalji:</string>
+  <string name="wifi_open_fail">"Ne mogu uključiti Wi-Fi"</string>
   <string name="wifi_pwd">Zaporka:</string>
   <string name="wifi_security">Sigurnost:</string>
   <string name="wifi_ssid">SSID:</string>

@@ -65,7 +65,7 @@
   <string name="app_name_miuiwallpaper">Slike pozadine</string>
   <string name="app_name_screenshot">Snimke zaslona</string>
   <string name="archive_send_to">Pošalji…</string>
-  <string name="auto_play">Reproduciraj automatski kada je povezano na WLAN</string>
+  <string name="auto_play">Reproduciraj automatski kada je povezano na Wi-Fi</string>
   <string name="auto_play_later">Kasnije</string>
   <string name="auto_play_now">Uključi</string>
   <string name="auto_play_recommend">Reproduciraj automatski</string>
@@ -213,7 +213,7 @@
   <string name="data_consumption_cancel">Izlaz</string>
   <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovno"</string>
   <string name="data_consumption_confirm">U redu</string>
-  <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem WLAN-a za normalan rad.</string>
+  <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem Wi-Fi-ja za normalan rad.</string>
   <string name="data_consumption_message1">Aplikacija Datoteke treba se povezati s internetom kako bi popularni videozapisi i naljepnice bili dostupni.</string>
   <string name="data_consumption_title">Povezivanje s internetom</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
@@ -745,7 +745,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_topic">Nema tema</string>
   <string name="no_topic_found">Nema pronađenih tema</string>
   <string name="no_videos">Ovdje nema ništa. Provjerite one ispod!</string>
-  <string name="no_wifi">Nema dostupnih WLAN mreža.</string>
+  <string name="no_wifi">Nema dostupnih Wi-Fi mreža.</string>
   <string name="no_wifi_hint">Nema dostupnih mreža</string>
   <string name="not_installed_documentsui">"Nemate instaliranu DocumentsUI aplikaciju"</string>
   <string name="not_set">Nije postavljeno</string>
@@ -773,7 +773,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="oauth_success_tip">Uspješno autorizirano</string>
   <string name="one_account_bind_needed">Dodajte barem jedan račun</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku u ovom trenutku."</string>
-  <string name="only_wifi">Preuzmi kad je povezano na WLAN</string>
+  <string name="only_wifi">Preuzmi kad je povezano na Wi-Fi</string>
   <string name="open_app">Otvori</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete slijedeće:
 1. Preuzeti datoteku ponovno da je ažurirate.
@@ -834,7 +834,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_show_sys">Pokaži skrivene datoteke</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Odznači</string>
-  <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem WLAN-a</string>
+  <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem Wi-Fi-ja</string>
   <string name="otg_data_transfer_success">Uspješno poslano</string>
   <string name="otg_data_transferring">"Prijenos datoteka… Ne isključujte vanjsku pohranu."</string>
   <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
@@ -1405,7 +1405,7 @@ oslobodili prostor.</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čekanje na mrežu…</string>
   <string name="wait_sdcard">Čekanje SD kartice…</string>
-  <string name="wait_wifi">Čekanje na WLAN…</string>
+  <string name="wait_wifi">Čekanje na Wi-Fi…</string>
   <string name="waiting">Čekanje…</string>
   <string name="wangpan_root_path">Moj Drive</string>
   <string name="wb_btn_bind">Weibo</string>
@@ -1425,7 +1425,7 @@ oslobodili prostor.</string>
   <string name="welcome_to_my_page">Dobro došli na moju početnu stranicu</string>
   <string name="welcome_to_my_page_1">Pratite me!</string>
   <string name="welcome_to_my_page_2">Pratite me!</string>
-  <string name="wifi_state">WLAN mreža</string>
+  <string name="wifi_state">Wi-Fi mreža</string>
   <string name="wxcircle_platform">Trenuci</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_btn_bind">Mi Račun</string>

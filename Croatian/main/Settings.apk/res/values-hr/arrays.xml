@@ -181,6 +181,7 @@
         <item>Naziv aplikacije</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
+	    <item>Ništa</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
@@ -463,7 +464,7 @@
     </string-array>
 	<string-array name="traffic_type">
         <item>"Uporaba mob. podataka "</item>
-        <item>"WLAN uporaba "</item>
+        <item>"Wi-Fi uporaba "</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija isključena</item>
@@ -517,9 +518,9 @@
         <item>"Danas (mob.podaci) "</item>
         <item>"Ovaj mjesec (mob. podaci) "</item>
         <item>"Prošli mjesec (mob. podaci) "</item>
-        <item>"Danas (WLAN) "</item>
-        <item>"Ovaj mjesec (WLAN) "</item>
-        <item>"Prošli mjesec (WLAN) "</item>
+        <item>"Danas (Wi-Fi) "</item>
+        <item>"Ovaj mjesec (Wi-Fi) "</item>
+        <item>"Prošli mjesec (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Danas "</item>
@@ -922,9 +923,9 @@
         <item>Nikad ne prikazuj ime operatera</item>
      </string-array>
     <string-array name="wifi_calling_mode_choices">
-        <item>WLAN preferirano</item>
+        <item>Wi-Fi preferirano</item>
         <item>Mreža preferirano</item>
-		<item>WLAN samo</item>
+		<item>Wi-Fi samo</item>
     </string-array>
 	<string-array name="screen_key_position_action">
         <item>Tipka Izbornik lijevo, Tipka Natrag desno</item>
@@ -1245,7 +1246,7 @@
         <item>MIDI</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices_without_wifi_only">
-        <item>Prednost ima WLAN mreža</item>
+        <item>Prednost ima Wi-Fi mreža</item>
         <item>Prednost ima mob. mreža</item>
      </string-array>
 	 <string-array name="check_importance_entries">
@@ -1428,12 +1429,12 @@
         <item>Ništa</item>
      </string-array>
      <string-array name="wifi_calling_mode_choices_v2">
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Mobilni uređaj</item>
-        <item>Samo WLAN</item>
+        <item>Samo Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>WLAN</item>
+        <item>Wi-Fi</item>
         <item>Mobilni uređaj</item>
     </string-array>
 	<string-array name="notch_battery_indicator_style_entries">

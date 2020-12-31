@@ -221,6 +221,11 @@
   <string name="show_badge_notifications_short">Značke</string>
   <string name="show_weather">Prikaži informacije o vremenu</string>
   <string name="status_bar_setting">Traka statusa</string>
+  <string name="summary_aggregate_default">Promotivne i sadržajne push obavijesti bit će grupirane</string>
+  <string name="summary_aggregate_home">"Push obavijesti neće se grupirati"</string>
+  <string name="summary_fold_importance_default">MIUI će odlučiti koje će se obavijesti izravno pojaviti</string>
+  <string name="summary_fold_importance_important">Obavijest će se pojaviti u Panelu obavijesti</string>
+  <string name="summary_fold_importance_unimportant">Obavijest će se pojaviti u zasebnoj mapi</string>
   <string name="summary_disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>
   <string name="summary_disable_lockscreen_notification">"Obavijesti Zaklj. zaslona nisu dopuštene"</string>
   <string name="summary_disable_show_badge_notification">"Značke obavijesti nisu dopuštene"</string>

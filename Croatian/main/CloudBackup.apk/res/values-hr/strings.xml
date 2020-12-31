@@ -43,7 +43,7 @@
   <string name="backup_action_clean_disk_space">Oslobodite prostor</string>
   <string name="backup_action_retry_now">Pokušaj ponovno</string>
   <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
-  <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je WLAN."</string>
+  <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je Wi-Fi."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Mi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Oslobodite prostor za pohranu.</string>
   <string name="backup_failed_reason_network_error">Provjerite mrežne postavke i pokušajte ponovo.</string>
@@ -72,8 +72,8 @@ Pokušajte ponovo"</string>
   <string name="btn_restore_continue">Vrati svejedno</string>
   <string name="btn_restore_resume">Nastavi</string>
   <string name="btn_restore_retry">Pokušaj ponovno</string>
-  <string name="btn_restore_wait">Čekaj na WLAN</string>
-  <string name="btn_restore_wait_china">Čekaj na WLAN</string>
+  <string name="btn_restore_wait">Čekaj na Wi-Fi</string>
+  <string name="btn_restore_wait_china">Čekaj na Wi-Fi</string>
   <string name="btn_retry">Provjeri ponovno</string>
   <string name="btn_skip">Preskoči ovaj korak</string>
   <string name="button_cancel">Odustani</string>
@@ -98,13 +98,13 @@ Pokušajte ponovo"</string>
   <string name="cloud_app_restore_success">Aplikacije su vraćene</string>
   <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Mi Cloudu.</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
+  <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na Wi-Fi: 
 *  Aplikacije, izgled Poč. zaslona i slike pozadine
 *  Postavke alarma, sata i vremena 
 *  Postavke obavijesti
 *  MIUI i postavke sustava 
 Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Cloud."</string>
-  <string name="cloud_back_up_detail_discription_china">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na WLAN: 
+  <string name="cloud_back_up_detail_discription_china">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na Wi-Fi: 
 *  Aplikacije, izgled Poč. zaslona i slike pozadine
 *  Postavke alarma, sata i vremena 
 *  Postavke obavijesti
@@ -113,7 +113,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
   <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
   <string name="cloud_back_up_frequence_short">Svaki dan</string>
-  <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na WLAN"</string>
+  <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na Wi-Fi"</string>
   <string name="cloud_back_up_ok_btn">U redu</string>
   <string name="cloud_back_up_opening">Samo trenutak…</string>
   <string name="cloud_back_up_subscribe_vip_confirm">Nadogradi</string>
@@ -126,8 +126,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_backup_detail_frequence_every_day">Izradi Sig. kopiju svakodnevno</string>
   <string name="cloud_backup_detail_manage">Upravljanje Sig. kopijama</string>
   <string name="cloud_backup_detail_state">Autom. Sig. kopija</string>
-  <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu.</string>
-  <string name="cloud_backup_detail_state_summary_china">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na WLAN mrežu.</string>
+  <string name="cloud_backup_detail_state_summary">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na Wi-Fi mrežu.</string>
+  <string name="cloud_backup_detail_state_summary_china">Izradi automatski Sig. kopiju na Mi Cloud kada je povezano na Wi-Fi mrežu.</string>
   <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
   <string name="cloud_backup_detail_title">Poč. zaslon, aplikacije i postavke.</string>
   <string name="cloud_backup_derail_size_summary">Veličina: %s</string>
@@ -168,10 +168,10 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="dialog_cancel_backup_msg">Promjena će uzrokovati prekid izrade Sig. kopije.</string>
   <string name="dialog_cancel_backup_title">Otkazati izradu u tijeku?</string>
   <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Mi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
-  <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s WLAN mrežom.</string>
-  <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s WLAN mrežom.</string>
-  <string name="dialog_title_require_wlan">Poveži se na WLAN</string>
-  <string name="dialog_title_require_wlan_china">Poveži se na WLAN</string>
+  <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
+  <string name="dialog_title_require_wlan">Poveži se na Wi-Fi</string>
+  <string name="dialog_title_require_wlan_china">Poveži se na Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Izračunavanje veličine…</string>
   <string name="doing_restore_home">Vraćanje Poč. zaslona i postavki sustava…</string>
@@ -223,9 +223,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="not_set">Nije postavljeno</string>
   <string name="open_backup_switch">Promjeni Sig. kopije</string>
   <string name="network_error">Povežite se s mrežom</string>
-  <string name="open_wifi">Uključite WLAN</string>
-  <string name="open_wifi_description">Poveži se na WLAN mrežu za vraćanje aplikacije</string>
-  <string name="open_wifi_setting">WLAN postavke</string>
+  <string name="open_wifi">Uključite Wi-Fi</string>
+  <string name="open_wifi_description">Poveži se na Wi-Fi mrežu za vraćanje aplikacije</string>
+  <string name="open_wifi_setting">Wi-Fi postavke</string>
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
   <string name="process_whole_recovery">Vraćanje \"%s\"</string>

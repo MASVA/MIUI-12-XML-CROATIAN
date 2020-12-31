@@ -360,7 +360,7 @@
   <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
   <string name="open_keep_screen">Zaslon će ostati uključen</string>
   <string name="open_sleep_record">Uključi</string>
-  <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem WLAN-a</string>
+  <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem Wi-Fi-ja</string>
   <string name="other_category_title">Ostalo</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="pause">Pauza</string>

@@ -32,8 +32,8 @@
   <string name="casting_tips">Emitiranje…</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close_hotspot_hint">Isključite prijenosni hotspot prije emitiranja</string>
-  <string name="close_slave_wifi_hint">Odspojite se sa pomoćne WLAN mreže prije emitiranja</string>
-  <string name="close_slave_wifi_hint_china">Odspojite se sa pomoćne WLAN mreže prije emitiranja</string>
+  <string name="close_slave_wifi_hint">Odspojite se sa pomoćne Wi-Fi mreže prije emitiranja</string>
+  <string name="close_slave_wifi_hint_china">Odspojite se sa pomoćne Wi-Fi mreže prije emitiranja</string>
   <string name="console_guide_btn_got_it">Razumijem</string>
   <string name="console_guide_subtitle_hang_up">"Ne prekidajte emitiranje kada se zaslon telefona isključi. Ova značajka može povećati potrošnju energije."</string>
   <string name="console_guide_subtitle_private">"Ne emitiraj plutajuće obavijesti, obavijesti o dolaznim pozivima i druge stavke koje mogu sadržavati osobne podatke"</string>
@@ -51,9 +51,9 @@
   <string name="dialog_miplay_permission_message">Dopustite Castingu da snima zvuk, pristup datotekama u unutarnjoj pohrani i vašoj lokaciji kako bi mogli normalno koristiti ovu značajku. Dodirnite \"Postavke\" i odaberite \"Dopuštenja aplikacije\" za nastavak.</string>
   <string name="dialog_miplay_permission_positive">Postavke</string>
   <string name="dialog_miplay_permission_title">Potrebno je dopuštenje</string>
-  <string name="dialog_nfc_cast_wifi_off">Uključite WLAN kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
-  <string name="dialog_no_device_message">1. Povežite telefon i TV s istom WLAN mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
-  <string name="dialog_no_device_message_china">1. Povežite telefon i TV s istom WLAN mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
+  <string name="dialog_nfc_cast_wifi_off">Uključite Wi-Fi kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
+  <string name="dialog_no_device_message">1. Povežite telefon i TV s istom Wi-Fi mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
+  <string name="dialog_no_device_message_china">1. Povežite telefon i TV s istom Wi-Fi mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videozapise ili glazbu</string>
   <string name="dialog_open_wifi_bt">Uključi</string>
@@ -61,14 +61,14 @@
 Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="dialog_recent_connected">Nedavno</string>
   <string name="dialog_retry">Pokušajte ponovo</string>
-  <string name="dialog_scan_message">"1. Povežite telefon i TV s istom WLAN mrežom.
+  <string name="dialog_scan_message">"1. Povežite telefon i TV s istom Wi-Fi mrežom.
 
 2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
-  <string name="dialog_scan_message_china">"1. Povežite telefon i TV s istom WLAN mrežom.
+  <string name="dialog_scan_message_china">"1. Povežite telefon i TV s istom Wi-Fi mrežom.
 
 2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
   <string name="dialog_scanning_device">Traženje uređaja u blizini…</string>
-  <string name="dialog_scanning_precondition">Uključite WLAN i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
+  <string name="dialog_scanning_precondition">Uključite Wi-Fi i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
   <string name="dialog_select_tv">Odaberite uređaj (%d)</string>
   <string name="dialog_show_help">Pomoć</string>
   <string name="disconnect">Zaustavi emitiranje</string>
@@ -96,21 +96,21 @@ Napomena: Stariji Mi televizori možda ne podržavaju emitiranje na različitim 
 Ako dva uređaja ne mogu biti povezana na istu mrežu, uključite Miracast na vanjskom monitoru. Nazivi funkcije Miracast mogu se razlikovati."</string>
   <string name="help_page_text_07">3. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno emitiranje. Ako nema bežične mreže ili ako se televizor i mobilni telefon ne mogu povezati na istu mrežu, trebate uključiti TV (ili uređaj velikog zaslona) [Miracast] Mirror projection screen]. Taj se naziv može razlikovati za različite marke televizora. Daljnju stranicu možete pomaknuti do dna ove stranice i saznati više.</string>
   <string name="help_page_text_08">Korak 2</string>
-  <string name="help_page_text_09">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite WLAN i Bluetooth za stabilniju vezu."</string>
+  <string name="help_page_text_09">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite Wi-Fi i Bluetooth za stabilniju vezu."</string>
   <string name="help_page_text_10">Ako želite emitirati stavke iz Galerija ili Mi Video, možete koristiti ugrađene značajke za emitiranje u tim aplikacijama.</string>
   <string name="help_page_text_11">Korak 3</string>
   <string name="help_page_text_12">Odaberite vanjski uređaj s popisa dostupnih uređaja da biste započeli emitiranje.</string>
   <string name="help_page_text_13">"Nije moguće povezivanje s vanjskim uređajem?"</string>
   <string name="help_page_text_14">"1. Millet TV screencast, nadogradite aplikaciju Wireless Screening na popisu TV aplikacija na najnoviju verziju.
-2. Možete pokušati spojiti telefon i televizor na istu WLAN mrežu da biste povećali stopu uspjeha veze. Međutim, neki usmjerivači možda neće moći osigurati stabilno okruženje veze za ekran, što rezultira neuspjelu vezu ili česte prekide.
+2. Možete pokušati spojiti telefon i televizor na istu Wi-Fi mrežu da biste povećali stopu uspjeha veze. Međutim, neki usmjerivači možda neće moći osigurati stabilno okruženje veze za ekran, što rezultira neuspjelu vezu ili česte prekide.
 3. Ako koristite Mi TV, uključivanje Bluetooth-a moglo bi poboljšati vezu. 
-4. Ako nema dostupnih WLAN mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima
+4. Ako nema dostupnih Wi-Fi mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima
 ."</string>
   <string name="help_page_text_14_global">"1. Ako želite koristiti Xiaomi uređaj, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
-Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom WLAN mrežom ili povežite vanjski monitor s hotspotom telefona. Ako nema dostupnih WLAN mreža ili ne možete povezati oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vanjskom monitoru ažurirane, uključite Bluetooth i na vašem telefonu i na vanjskom monitoru, i uključite Miracast na televizoru.
+Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom Wi-Fi mrežom ili povežite vanjski monitor s hotspotom telefona. Ako nema dostupnih Wi-Fi mreža ili ne možete povezati oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vanjskom monitoru ažurirane, uključite Bluetooth i na vašem telefonu i na vanjskom monitoru, i uključite Miracast na televizoru.
 2. Ako prvi put emitirate na Xiaomi uređaj, morate završiti provjeru.
 3. Ako želite koristiti uređaj koji nije Xiaomi, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
-Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom WLAN mrežom ili povežite vanjski monitor s hotspotom telefona."</string>
+Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom Wi-Fi mrežom ili povežite vanjski monitor s hotspotom telefona."</string>
   <string name="help_page_text_15">Miracast funkcionalnost na različitim uređajima</string>
   <string name="help_page_text_16">Mi TV/Mi Projector</string>
   <string name="help_page_text_17">"Xiaomi mobilni telefon može se izravno povezati s većinom Xiaomi TV-a s Bluetooth funkcijom, umjesto da ručno otvorite Miracast funkciju.
@@ -247,14 +247,14 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="privacy_permission_nfc_desc">Za uparivanje uređaja koji koriste NFC</string>
   <string name="privacy_permission_optional">Dodatna dopuštenja</string>
   <string name="privacy_permission_optional_desc">"Koriste se za dodatne značajke dok ih upotrebljavate"</string>
-  <string name="privacy_permission_wlan">Uključivanje i isključivanje WLAN-a</string>
-  <string name="privacy_permission_wlan_china">Uključivanje i isključivanje WLAN-a</string>
+  <string name="privacy_permission_wlan">Uključivanje i isključivanje Wi-Fi-ja</string>
+  <string name="privacy_permission_wlan_china">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="privacy_permission_wlan_desc">Pronalaženje dostupnih uređaja u blizini</string>
   <string name="privacy_permission_wlan_desc_china">Pronalaženje dostupnih uređaja u blizini</string>
   <string name="privacy_positive">Slažem se</string>
   <string name="privacy_text_1">　　Dobrodošli u korištenje funkcije emitiranja zaslona. Uslugu emitiranja zaslona pruža Milian, a neke funkcije emitiranja zaslona podržavaju emitiranja zaslona drugih tvrtki. Da biste osigurali svoju privatnost, obavezno pročitajte&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
   <string name="privacy_text_2">　　Klikom na Slažem se prihvaćate gore navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
-  <string name="privacy_text_pemission">"　　• Dopuštenja WLAN mreže koriste se za otkrivanje i povezivanje uređaja.
+  <string name="privacy_text_pemission">"　　• Dopuštenja Wi-Fi mreže koriste se za otkrivanje i povezivanje uređaja.
 　　•Bluetooth se koristi za otkrivanje i povezivanje uređaja.
 　　•Nakon čitanja pohrane telefona i pročitanog sadržaja, emitirajte na uređaj velikog zaslona.
 　　•Dobivanje podataka o telefonu, pročitati IMEI, Android_id, snimanje podataka o verziji i zapisniku telefona.

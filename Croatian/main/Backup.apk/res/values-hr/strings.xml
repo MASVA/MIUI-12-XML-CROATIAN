@@ -51,7 +51,7 @@
   <string name="auto_backup_choose_empty">Nema Sig. kopija.</string>
   <string name="auto_backup_choose_title">Odaberite stavke Sig. kopije</string>
   <string name="auto_backup_date">Dana</string>
-  <string name="auto_backup_only_wifi">Samo kada je povezano na WLAN</string>
+  <string name="auto_backup_only_wifi">Samo kada je povezano na Wi-Fi</string>
   <string name="auto_backup_open">Automatski napravi Sig. kopiju</string>
   <string name="auto_backup_progress">Izrada Sig. kopije…</string>
   <string name="auto_backup_select_user_apps">Odaberite aplikacije</string>
@@ -134,8 +134,8 @@
   <string name="confirm_exit_link_msg">"Izlaz iz aplikacije će prekinuti trenutačni prijenos. Ponovno ćete morati uspostaviti vezu između dva uređaja. Izaći iz aplikacije?"</string>
   <string name="confirm_exit_link_title">Prekid prijenosa</string>
   <string name="connect_soft_ap_label">Povezivanje s novim uređajem…</string>
-  <string name="connect_wifi">Povežite se na WLAN</string>
-  <string name="connect_wifi_tip">Niste povezani s WLAN mrežom. Za uvoz podataka iz Mi Clouda, povežite se s WLAN mrežom.</string>
+  <string name="connect_wifi">Povežite se na Wi-Fi</string>
+  <string name="connect_wifi_tip">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz Mi Clouda, povežite se s Wi-Fi mrežom.</string>
   <string name="contact_title">Kontakti</string>
   <string name="copy">Kopiraj</string>
   <string name="current_account">Trenutan račun: %s</string>
@@ -242,8 +242,8 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="icloud_how_to_backup_tip_title">Savjeti:</string>
   <string name="icloud_login_title">Prijavi se u iCloud</string>
   <string name="icloud_need_sync">"Da biste uvezli podatke iz iOS-a,\r\nprvo morate izraditi iCloud Sig. kopiju."</string>
-  <string name="icloud_need_wifi_message">Niste povezani s WLAN mrežom. Za uvoz podataka iz iClouda, povežite se s WLAN mrežom.</string>
-  <string name="icloud_need_wifi_title">Poveži se na WLAN</string>
+  <string name="icloud_need_wifi_message">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz iClouda, povežite se s Wi-Fi mrežom.</string>
+  <string name="icloud_need_wifi_title">Poveži se na Wi-Fi</string>
   <string name="import_again">Uvezi ponovno</string>
   <string name="import_data_from_icloud">Uvezi podatke iz iClouda</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
@@ -384,7 +384,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="notif_icloud_loaded_summary">Čekanje…</string>
   <string name="notif_icloud_loading_summary">Učitavanje podataka…</string>
   <string name="notif_icloud_logining">Prijavljivanje na iCloud na starom iOS uređaju…</string>
-  <string name="notif_icloud_need_wifi_summary">Čekanje na WLAN</string>
+  <string name="notif_icloud_need_wifi_summary">Čekanje na Wi-Fi</string>
   <string name="notif_icloud_saved_summary">Uspješno uvezeno</string>
   <string name="notif_icloud_saving_summary">Vraćanje podataka…</string>
   <string name="notif_miasist_try_to_connect">Mi PC Suite se pokušava povezati s vašim uređajem</string>
@@ -450,7 +450,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
   <string name="save_finish_with_failing_items">"Prijenos je prekinut.\r\nPodaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="saving_data">"Uvoz podataka iz iClouda…
- Nemojte isključivati WLAN"</string>
+ Nemojte isključivati Wi-Fi"</string>
   <string name="saving_data_no_time">Vraćanje podataka…</string>
   <string name="saving_data_space_low">"Nema dovoljno prostora za pohranu.
  Oslobodite najmanje %s."</string>
@@ -461,7 +461,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="sc_precondition_failed">Morate prvo dodati adresu e-pošte na vaš Mi Račun</string>
   <string name="sc_request_timeout">Zahtjev je istekao</string>
   <string name="sc_service_unavailable">Mi Cloud nedostupan</string>
-  <string name="sc_unaccess_password_file">"Ne mogu naći zaporku WLAN mreže"</string>
+  <string name="sc_unaccess_password_file">"Ne mogu naći zaporku Wi-Fi mreže"</string>
   <string name="sc_unauthorized">Prijavite se ponovno</string>
   <string name="scan_soft_ap">Traženje novog uređaja…</string>
   <string name="scan_soft_ap_label">Spojite se na stari uređaj</string>
@@ -601,11 +601,11 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_install_guide_step1_title">Korak 1</string>
   <string name="trans_install_guide_step2_content">Nakon dovršetka instalacije, dodirnite \"Start\".</string>
   <string name="trans_install_guide_step2_title">Korak 2</string>
-  <string name="trans_intro_desc_1">"Na Mi telefonu, ovežite se na WLAN i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
+  <string name="trans_intro_desc_1">"Na Mi telefonu, ovežite se na Wi-Fi i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
   <string name="trans_intro_desc_10">Dodirnite \"Povežite se pomoću QR koda\" na novom uređaju i skenirajte QR kod kako biste uspostavili vezu.</string>
   <string name="trans_intro_desc_3">Otkažite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
-  <string name="trans_intro_desc_4">"Mi Mover koristi WLAN za prijenos datoteka. Zato se ne možete povezati s internetom koristeći WLAN na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Mi 6) i dalje će se moći povezati s internetom putem WLAN veze tijekom prijenosa."</string>
-  <string name="trans_intro_desc_4_market">"Mi Mover koristi WLAN za prijenos datoteka. Zato se ne možete povezati s internetom koristeći WLAN na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke."</string>
+  <string name="trans_intro_desc_4">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Mi 6) i dalje će se moći povezati s internetom putem Wi-Fi veze tijekom prijenosa."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke."</string>
   <string name="trans_intro_desc_5">Prostor za pohranu na starim uređajima koristi se za stvaranje paketa prijenosa. Prije no što započnete prijenos, provjerite imate li najmanje 500 MB - 1 GB dostupnog prostora za pohranu na svom starom telefonu.</string>
   <string name="trans_intro_desc_6">Postoji nekoliko razloga zašto se to može dogoditi: problemi s kompatibilnošću sustava i aplikacijom, problemi s mrežom, problemi s kompatibilnošću specifični za određeni uređaj itd.</string>
   <string name="trans_intro_desc_7">Zbog sigurnosnih razloga neki profili aplikacija (e-bankarstvo, financije itd.) povezani su s određenim uređajem. Pokušajte izbrisati podatke aplikacije ili ponovno instalirati aplikaciju na novi uređaj.</string>
@@ -628,7 +628,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_intro_question_10">"%d. Ne možete pronaći hotspot na starom uređaju?"</string>
   <string name="trans_intro_question_2">%d. Kako koristiti Mi Mover za premještanje podataka s Android uređaja?</string>
   <string name="trans_intro_question_3">%d. Što da radim ako je Mi Mover zaglavio na određenom koraku?</string>
-  <string name="trans_intro_question_4">"%d. Zašto ne mogu koristiti WLAN tijekom prijenosa?"</string>
+  <string name="trans_intro_question_4">"%d. Zašto ne mogu koristiti Wi-Fi tijekom prijenosa?"</string>
   <string name="trans_intro_question_5">"%d. Zašto Mi Mover kaže da nema dovoljno prostora za pohranu na mom starom telefonu?"</string>
   <string name="trans_intro_question_6">"%d. Zašto neke aplikacije nisu uspješno prenesene?"</string>
   <string name="trans_intro_question_7">"%d. Zašto se neke aplikacije neće pokrenuti na novom uređaju?"</string>
@@ -653,7 +653,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_open_camera_failed_message">Ponovno pokrenite uređaj ili provjerite je li Mi Mover dopušteno koristiti &lt;b&gt;Kameru&lt;/b&gt;.</string>
   <string name="trans_open_camera_failed_title">"Ne mogu se povezati na Kameru"</string>
   <string name="trans_open_location_button">Uključi</string>
-  <string name="trans_open_location_message">Uključite usluge lokacije da biste dobili popis dostupnih WLAN mreža.</string>
+  <string name="trans_open_location_message">Uključite usluge lokacije da biste dobili popis dostupnih Wi-Fi mreža.</string>
   <string name="trans_open_location_title">Uključi usluge lokacije</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
@@ -683,7 +683,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_progress_subdescript_waiting">Čekanje na primanje %s</string>
   <string name="trans_receiver">"Ja sam primatelj"</string>
   <string name="trans_receiver_time_remained">"%s preostalo.
- Ne isključujte WLAN Hotspot. 
+ Ne isključujte Wi-Fi Hotspot. 
  Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_receiving_completed">Uspješno primljeno</string>
   <string name="trans_restoring">Vraćanje…</string>
@@ -711,7 +711,7 @@ Odaberite samo važne stavke da brže obavite prijenos."</string>
   <string name="trans_sender_searching_ensurance">"Pobrinite se da je drugi uređaj uključen.
 Čekanje povezivanja drugog uređaja…"</string>
   <string name="trans_sender_time_remained">"%s preostalo.
- Ne isključujte WLAN. 
+ Ne isključujte Wi-Fi. 
  Držite oba uređaja blizu jedan drugoga."</string>
   <string name="trans_sending_completed">Uspješno poslano</string>
   <string name="trans_show_qr_code_label">Povežite drugi uređaj</string>
@@ -726,7 +726,7 @@ Odaberite samo važne stavke da brže obavite prijenos."</string>
 Sviđa vam se Mi Mover?"</string>
   <string name="trans_success_dialog_survey_title">Cijenimo vaše povratne informacije</string>
   <string name="trans_success_survey_hint">Najprije popunite sva polja.</string>
-  <string name="trans_switching_5g">Promjena na 5GHz WLAN…</string>
+  <string name="trans_switching_5g">Promjena na 5GHz Wi-Fi…</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>
   <string name="trans_time_spent">"Potrošeno vrijeme: %s"</string>
   <string name="trans_wait_trans_data">"Povezano sa drugim uređajem.
@@ -734,8 +734,8 @@ Sviđa vam se Mi Mover?"</string>
   <string name="trans_waiting_ensurance">"Pobrinite se da je drugi uređaj uključen
 i Mi Mover uključen"</string>
   <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>
-  <string name="trans_wlan_tips_message">"Nemojte isključivati WLAN ili se prebacivati na druge WLAN mreže tijekom prijenosa. Inače, Mi Mover neće biti u mogućnosti slati podatke."</string>
-  <string name="trans_wlan_tips_title">"Nemojte isključivati niti mijenjati WLAN tijekom prijenosa podataka"</string>
+  <string name="trans_wlan_tips_message">"Nemojte isključivati Wi-Fi ili se prebacivati na druge Wi-Fi mreže tijekom prijenosa. Inače, Mi Mover neće biti u mogućnosti slati podatke."</string>
+  <string name="trans_wlan_tips_title">"Nemojte isključivati niti mijenjati Wi-Fi tijekom prijenosa podataka"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>
   <string name="unknown_hint">Nepoznato</string>
@@ -763,7 +763,7 @@ Nemojte napustiti ovu stranicu dok se veza ne uspostavi. "
 Dodirnite \"Ja sam pošiljatelj\" i odaberite Hotspot za povezivanje.
 Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="waiting">Samo trenutak…</string>
-  <string name="wifi_title">Postavke WLAN-a</string>
+  <string name="wifi_title">Postavke Wi-Fi-ja</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
   <string name="xiaomi_router">Mi Router</string>

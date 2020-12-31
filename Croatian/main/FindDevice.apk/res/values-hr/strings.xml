@@ -58,7 +58,7 @@
   <string name="sys_notification_async_verify_title">Ponovno aktiviraj Pronađi uređaj</string>
   <string name="time_correction_failure">"Ne mogu ispraviti vrijeme. %s"</string>
   <string name="time_correction_success">Vrijeme je ispravljeno</string>
-  <string name="open_wifi_settings">Otvori postavke WLAN-a</string>
+  <string name="open_wifi_settings">Otvori postavke Wi-Fi-ja</string>
   <string name="unlock">Aktiviraj</string>
   <string name="unlock_access_denied">Pristup odbijen</string>
   <string name="unlock_bad_authentication">Pogrešno korisničko ime ili zaporka</string>
@@ -74,7 +74,7 @@
   <string name="unlock_error_user_name">Pogrešno korisničko ime</string>
   <string name="unlock_error_wrong_vcode">Uneseni kôd nije ispravan</string>
   <string name="unlock_help">"Povezite se na mrežu.
-Umetnite ispravnu SIM karticu i ne povezujte se s nevažećim WLAN mrežama.
+Umetnite ispravnu SIM karticu i ne povezujte se s nevažećim Wi-Fi mrežama.
  
 Zaboravili ste zaporku?
 Idite na id.mi.com, odaberite \"Zaboravili ste zaporku?\", i slijedite upute.

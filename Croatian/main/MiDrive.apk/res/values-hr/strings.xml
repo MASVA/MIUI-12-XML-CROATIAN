@@ -192,7 +192,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="download_list">Preuzimanja</string>
   <string name="download_list_empty">Ovdje još nema stavki</string>
   <string name="download_metered_network_dialog_cancel">Odustani</string>
-  <string name="download_metered_network_dialog_desc">"Vaš uređaj nije spojen na WLAN mrežu. Preuzeti stavke putem mob. podataka?"</string>
+  <string name="download_metered_network_dialog_desc">"Vaš uređaj nije spojen na Wi-Fi mrežu. Preuzeti stavke putem mob. podataka?"</string>
   <string name="download_metered_network_dialog_ok">Preuzmi</string>
   <string name="download_metered_network_dialog_title">Korištenje mob. podataka</string>
   <string name="download_to">"Spremi u "</string>
@@ -300,7 +300,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="load_label_up_refresh">Učitavanje stavki…</string>
   <string name="load_label_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="load_metered_network_dialog_cancel">Odustani</string>
-  <string name="load_metered_network_dialog_desc">"Vaš uređaj nije povezan na WLAN mrežu. Učitati pomoću mob. podataka?"</string>
+  <string name="load_metered_network_dialog_desc">"Vaš uređaj nije povezan na Wi-Fi mrežu. Učitati pomoću mob. podataka?"</string>
   <string name="load_metered_network_dialog_ok">Učitaj</string>
   <string name="load_metered_network_dialog_title">Korištenje mob. podataka</string>
   <string name="loading">Samo trenutak…</string>
@@ -521,7 +521,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="picker_bottom_text_desc">"Učitaj u "</string>
   <string name="picker_permission_failed">"Ne mogu dati dopuštenje. Ova značajka neće raditi bez njega."</string>
   <string name="play_metered_network_dialog_cancel">Odustani</string>
-  <string name="play_metered_network_dialog_desc">"Vaš uređaj nije povezan na WLAN mrežu. Reproducirati pomoću mob. podataka?"</string>
+  <string name="play_metered_network_dialog_desc">"Vaš uređaj nije povezan na Wi-Fi mrežu. Reproducirati pomoću mob. podataka?"</string>
   <string name="play_metered_network_dialog_ok">Reproduciraj</string>
   <string name="play_metered_network_dialog_title">Korištenje mob. podataka</string>
   <string name="ppt_to_pdf">Pretvoreno u PDF</string>
@@ -668,7 +668,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="upload_list">Prijenosi</string>
   <string name="upload_list_empty">Nema stavki ovdje</string>
   <string name="upload_metered_network_dialog_cancel">Odustani</string>
-  <string name="upload_metered_network_dialog_desc">"Vaš uređaj nije povezan na WLAN mrežu. Učitati stavke pomoću mob. podataka?"</string>
+  <string name="upload_metered_network_dialog_desc">"Vaš uređaj nije povezan na Wi-Fi mrežu. Učitati stavke pomoću mob. podataka?"</string>
   <string name="upload_metered_network_dialog_ok">Učitaj</string>
   <string name="upload_metered_network_dialog_title">Korištenje mob. podataka</string>
   <string name="uploading">Učitavanje…</string>
@@ -685,7 +685,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čekanje na mrežu…</string>
   <string name="wait_sdcard">Čekanje SD kartice…</string>
-  <string name="wait_wifi">Čekanje na WLAN…</string>
+  <string name="wait_wifi">Čekanje na Wi-Fi…</string>
   <string name="waiting">Čekanje…</string>
   <string name="waiting_download">Na čekanju</string>
   <string name="waiting_network">Čekanje na vezu</string>

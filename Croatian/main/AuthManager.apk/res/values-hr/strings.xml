@@ -196,7 +196,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_Network_Recv">Primanje podataka</string>
   <string name="HIPS_Perm_Network_Send">Slanje podataka</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Nepoznata adresa</string>
-  <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
+  <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
   <string name="HIPS_Perm_Notification">Prikaz obavijesti</string>
   <string name="HIPS_Perm_Notification_Desc">prikazati obavijesti u Panelu obavijesti</string>
   <string name="HIPS_Perm_Notification_Hint">Ovoliko (%1$s) aplikacija može prikazati obavijesti</string>
@@ -262,12 +262,12 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_VideoRecorder">Pristup kameri</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">pristupiti kameri ili snimati videozapise</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">Ovoliko (%1$s) aplikacija može pristupiti kameri za fotografiranje ili snimati videozapise</string>
-  <string name="HIPS_Perm_WIFINetwork">Korištenje WLAN-a</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">povezati na internet putem WLAN-a</string>
-  <string name="HIPS_Perm_WIFINetwork_Hint">Ovoliko (%1$s) se aplikacija može spojiti na internet putem WLAN-a</string>
-  <string name="HIPS_Perm_WIFI_Connectivity">Promjena WLAN povezivosti</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">uključiti/isključiti WLAN</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Hint">Ovoliko (%1$s) aplikacija može uključiti/isključiti WLAN</string>
+  <string name="HIPS_Perm_WIFINetwork">Korištenje Wi-Fi-ja</string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">povezati na internet putem Wi-Fi-ja</string>
+  <string name="HIPS_Perm_WIFINetwork_Hint">Ovoliko (%1$s) se aplikacija može spojiti na internet putem Wi-Fi-ja</string>
+  <string name="HIPS_Perm_WIFI_Connectivity">Promjena Wi-Fi povezivosti</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">uključiti/isključiti Wi-Fi</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Hint">Ovoliko (%1$s) aplikacija može uključiti/isključiti Wi-Fi</string>
   <string name="HIPS_Perm_Wakelock">Spriječiti uređaj od stanja mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Desc">spriječiti uređaj od odlaska u stanje mirovanja</string>
   <string name="HIPS_Perm_Wakelock_Hint">Ovoliko (%1$s) aplikacija može spriječiti uređaj od odlaska u stanje mirovanja</string>

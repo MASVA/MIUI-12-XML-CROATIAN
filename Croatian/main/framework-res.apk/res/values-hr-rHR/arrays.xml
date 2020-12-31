@@ -88,7 +88,7 @@
         <item>Zadrži u aktivnom stanju</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
-        <item>Uklj./isklj WLAN</item>
+        <item>Uklj./isklj Wi-Fi</item>
         <item>Uklj./isklj Bluetooth</item>
         <item>Uklj./isklj. podataka</item>
         <item>Lokacija</item>
@@ -125,7 +125,7 @@
         <item>Ovaj otisak prsta je dodan, koristite drugi prst</item>
     </string-array>	
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Da biste telefonirali i slali pozive putem WLAN-a, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite WLAN pozive u Postavkama.</item>
+        <item>Da biste telefonirali i slali pozive putem Wi-Fi-ja, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite Wi-Fi pozive u Postavkama.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Registrirajte se kod mobilnog operatera</item>

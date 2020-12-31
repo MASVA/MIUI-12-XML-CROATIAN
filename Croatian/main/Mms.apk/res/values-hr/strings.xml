@@ -358,7 +358,7 @@
   <string name="from_pkg_name">Iz aplik: </string>
   <string name="ft_cfs_dialog_content">"Datoteke se ne mogu isporučiti pomoću RCS-a. Poslati poveznicu u SMS poruci?"</string>
   <string name="ft_cfs_dialog_title">Alternativni prijenos datoteka</string>
-  <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na WLAN mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Prikaz detalja&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Prikaz detalja&lt;/a&gt;&lt;/font&gt;.</string>
   <string name="google_message_promo_title">Nadogradite svoju aplikaciju za razmjenu poruka</string>
   <string name="group_already_kicked_hint">"Ne mogu slati poruke. Nisi član ovog grupnog razgovora."</string>
   <string name="group_member_is_composing">Tipka…</string>
@@ -382,7 +382,7 @@
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
   <string name="hint_search_sms">SMS-a: %d</string>
   <string name="hms_add_image_progress_message">Obrada…</string>
-  <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na WLAN mrežu</string>
+  <string name="hms_first_use_tips">Za primanje poruka usluga mora biti povezana na Wi-Fi mrežu</string>
   <string name="hms_uri_param_err">"URL ne može biti prazan"</string>
   <string name="hold_to_talk">Zadrži za razgovor</string>
   <string name="home_tab_ad">Promotivne</string>
@@ -402,7 +402,7 @@
   <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvoz…</string>
   <string name="in_sms">Poruka</string>
-  <string name="installed_google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na WLAN mreži, dijeljenje visokokvalitetnih medija i još mnogo toga.</string>
+  <string name="installed_google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga.</string>
   <string name="installed_google_message_promo_title">Počnite koristiti Poruke</string>
   <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
   <string name="invalid_conversation">Nevažeći razgovor</string>
@@ -596,9 +596,9 @@ Ova poruka biti neželjena."</string>
   <string name="mx_and_voip_enable_popup_msg">"Šaljite poruke i upućivajte pozive drugim MIUI uređajima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
   <string name="mx_and_voip_enable_popup_msg2">Pravila o Privatnosti</string>
   <string name="mx_auto_resend_mms">Automatski ponovno pošalji MMS</string>
-  <string name="mx_auto_resend_mms_summary">Pošalji multimedijalne poruke kao MMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Vaš mobilni operater će vam naplatiti tu poruku.</string>
+  <string name="mx_auto_resend_mms_summary">Pošalji multimedijalne poruke kao MMS poruke preko mobilne podatkovne veze kada niste povezani na Wi-Fi. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="mx_auto_resend_sms">Pošalji kao SMS poruku</string>
-  <string name="mx_auto_resend_sms_summary">Pošalji poruke kao SMS poruke preko mobilne podatkovne veze kada niste povezani na WLAN. Vaš mobilni operater će vam naplatiti tu poruku.</string>
+  <string name="mx_auto_resend_sms_summary">Pošalji poruke kao SMS poruke preko mobilne podatkovne veze kada niste povezani na Wi-Fi. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="mx_b2c_message_desc">Obavijesti mreže</string>
   <string name="mx_b2c_message_resend_not_online">"Ne mogu ponovno poslati poruku. Mi Poruka je izvanmrežno."</string>
   <string name="mx_b2c_message_server">Poslužitelj</string>
@@ -606,7 +606,7 @@ Ova poruka biti neželjena."</string>
   <string name="mx_btn_enable_now">Aktiviraj</string>
   <string name="mx_count_dspt">Poslano %1$d SMS-a i %2$d MMS-a besplatno</string>
   <string name="mx_current_status">Postavke</string>
-  <string name="mx_dspt">"Šaljite SMS i MMS poruke drugim MIUI uređajima bez nastanka troškova kada ste povezani na WLAN."</string>
+  <string name="mx_dspt">"Šaljite SMS i MMS poruke drugim MIUI uređajima bez nastanka troškova kada ste povezani na Wi-Fi."</string>
   <string name="mx_dspt_listview">Šaljite poruke drugim MIUI korisnicima bez nastanka troškova</string>
   <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima preko interneta bez nastanka troškova. Odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku. Osim toga, kada je ova značajka uključena, potrebna je mala količina mobilnih podataka za provjeru je li drugi korisnik na mreži. Slažete li se?</string>
   <string name="mx_dspt_provision_ex">"Šaljite poruke i upućivajte pozive drugim MIUI korisnicima preko interneta bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti."</string>
@@ -835,11 +835,11 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="rcs_auto_resend_mms">Pretvori u MMS</string>
   <string name="rcs_auto_resend_sms">Pretvori u SMS</string>
   <string name="rcs_auto_resume">Nastavi s prekinutim prijenosima automatski</string>
-  <string name="rcs_auto_resume_only_by_wifi">Nastavi s prijenosima samo kada je povezano na WLAN</string>
+  <string name="rcs_auto_resume_only_by_wifi">Nastavi s prijenosima samo kada je povezano na Wi-Fi</string>
   <string name="rcs_cfs_dialog_content">"Poruke se ne mogu isporučiti putem RCS-a. Poslati SMS poruku umjesto toga?"</string>
   <string name="rcs_cfs_dialog_title">Alternativni prijenos poruke</string>
   <string name="rcs_create_new_group">Izradi grupni chat</string>
-  <string name="rcs_dspt">Nakon što su korisnici China Mobile uključeni, poruke se po zadanom šalju putem WLAN-a ili mobilne mreže.</string>
+  <string name="rcs_dspt">Nakon što su korisnici China Mobile uključeni, poruke se po zadanom šalju putem Wi-Fi-ja ili mobilne mreže.</string>
   <string name="rcs_dspt_unavailable">"Ne možete koristiti ovu značajku. Kineska SIM Mobile kartica nije vaša zadana podatkovna kartica."</string>
   <string name="rcs_file_link_as_sms">Posjetite %s da biste vidjeli RCS datoteku koja vam je poslana.</string>
   <string name="rcs_forward_faild">"Ne mogu proslijediti"</string>

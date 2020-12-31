@@ -328,7 +328,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="data_monitor_dialog_message">Izgleda da nešto jako troši vaše mobilne podatke. Otvorite početnu stranicu da biste to zaustavili.</string>
   <string name="data_traffic_continue">Nastavi</string>
   <string name="data_traffic_download_cancel">Odustani</string>
-  <string name="data_traffic_download_prompt">Trenutni videozapis može se preuzeti samo putem WLAN-a</string>
+  <string name="data_traffic_download_prompt">Trenutni videozapis može se preuzeti samo putem Wi-Fi-a</string>
   <string name="data_traffic_download_setting">Postavke</string>
   <string name="data_traffic_goto">Besplatni promet podataka</string>
   <string name="data_traffic_prompt_change">Korištenje vaše mobilne podatkovne veze za gledanje videozapisa će povećati uporabu podataka. Ako prekoračite svoje ograničenje uporabe podataka, vaš operater vam može naplatiti dodatne naknade.</string>
@@ -635,7 +635,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="miuichromium_error_page_homepage">Početna</string>
   <string name="miuichromium_error_page_mobile">Mobilna mreža</string>
   <string name="miuichromium_error_page_network_hijack">"Trenutna mreža nije sigurna"</string>
-  <string name="miuichromium_error_page_network_off">Uključite WLAN ili mobilne podatke</string>
+  <string name="miuichromium_error_page_network_off">Uključite Wi-Fi ili mobilne podatke</string>
   <string name="miuichromium_error_page_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="miuichromium_error_page_problem_access_denied">Pristup na %s0 je odbijen</string>
   <string name="miuichromium_error_page_problem_cache_miss">Ova se stranica ne može učitati iz predmemorije</string>
@@ -704,7 +704,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="miuichromium_error_page_suggestion_check_connetion">Provjerite internetsku vezu.</string>
   <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podaci) Provjerite %s1 APN postavke %s2.</string>
   <string name="miuichromium_error_page_suggestion_check_url">"Provjerite URL koji ste unijeli."</string>
-  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Provjerite %s1 postavke proxyja %s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Provjerite %s1 postavke proxyja %s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Obriši predmemoriju (%s1Postavke%s2 - Obriši podatke).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Obriši predmemoriju i kolačiće (%s1Postavke%s2 - Obriši podatke, podaci o vašem računu mogu biti izgubljeni).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predmemoriju i kolačiće (podaci o vašem računu mogu biti izgubljeni).</string>
@@ -716,7 +716,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="miuichromium_error_page_suggestion_title">. Pokušajte ovo:</string>
   <string name="miuichromium_error_page_title">Dogodila se pogreška</string>
   <string name="miuichromium_error_page_unknown_error">Ups! Nešto je pošlo po zlu</string>
-  <string name="miuichromium_error_page_wlan">Uključite WLAN</string>
+  <string name="miuichromium_error_page_wlan">Uključite Wi-Fi</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Odustani</string>
@@ -985,7 +985,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="mw_miuichromium_error_page_homepage">Početna</string>
   <string name="mw_miuichromium_error_page_mobile">Mobilni podaci</string>
   <string name="mw_miuichromium_error_page_network_hijack">"Trenutna mreža nije sigurna"</string>
-  <string name="mw_miuichromium_error_page_network_off">Uključite WLAN ili mobilne podatke</string>
+  <string name="mw_miuichromium_error_page_network_off">Uključite Wi-Fi ili mobilne podatke</string>
   <string name="mw_miuichromium_error_page_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="mw_miuichromium_error_page_problem_access_denied">Pristup na %s0 je odbijen</string>
   <string name="mw_miuichromium_error_page_problem_cache_miss">Ova se stranica ne može učitati iz predmemorije</string>
@@ -1029,7 +1029,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="mw_miuichromium_error_page_suggestion_check_connetion">Provjerite internetsku vezu.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podaci) Provjerite %s1 APN postavke %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Provjerite URL koji ste unijeli."</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Provjerite %s1 postavke proxyja %s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Provjerite %s1 postavke proxyja %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Obriši predmemoriju (%s1Postavke%s2 - Obriši podatke).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Obriši predmemoriju i kolačiće (%s1Postavke%s2 - Obriši podatke, podaci o vašem računu mogu biti izgubljeni).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predmemoriju i kolačiće (podaci o vašem računu mogu biti izgubljeni).</string>
@@ -1041,7 +1041,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="mw_miuichromium_error_page_suggestion_title">. Pokušajte ovo:</string>
   <string name="mw_miuichromium_error_page_title">Dogodila se pogreška</string>
   <string name="mw_miuichromium_error_page_unknown_error">Ups! Nešto je pošlo po zlu</string>
-  <string name="mw_miuichromium_error_page_wlan">Uključite WLAN</string>
+  <string name="mw_miuichromium_error_page_wlan">Uključite Wi-Fi</string>
   <string name="mw_month_picker_dialog_title">Postavi mjesec</string>
   <string name="mw_mr_button_content_description">Gumb za emitiranje</string>
   <string name="mw_mr_cast_button_connected">Gumb za emitiranje. Povezan</string>
@@ -1246,8 +1246,8 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="navigationbar_rightbutton_actiontext_search">Traži</string>
   <string name="network_error_tips">Pogreška mreže, pokušajte ponovo</string>
   <string name="network_not_available_comment">Nema internetske veze, ne može se komentirati</string>
-  <string name="network_show_wifi_setting_tip_dialog_description">Pronađen je WLAN hotspot u blizini. Pokušati se povezati?</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Dostupna je WLAN mreža</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Pronađen je Wi-Fi hotspot u blizini. Pokušati se povezati?</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Dostupna je Wi-Fi mreža</string>
   <string name="new_copy_address">Zadnji kopiran URL</string>
   <string name="new_copy_content">Zadnji kopiran sadržaj</string>
   <string name="new_folder_name_lable">Naziv grupe</string>
@@ -1312,7 +1312,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokiranje reklama</string>
   <string name="pref_advert_null">Neoznačeno oglašavanje, možete pritisnuti naljepnicu na stranici</string>
-  <string name="pref_auto_update_under_wifi">Ažuriraj koristeći WLAN</string>
+  <string name="pref_auto_update_under_wifi">Ažuriraj koristeći Wi-Fi</string>
   <string name="pref_automatic_matching_searchengines_title">Promjenili se na čestu tražilicu</string>
   <string name="pref_cancel_screen">Odblokiraj</string>
   <string name="pref_category_hint">Kategorija</string>
@@ -1727,7 +1727,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="url_suggest_indicator_bookmark">Oznake/Povijest</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>
   <string name="url_suggest_indicator_mostvisited">Najposjećenije</string>
-  <string name="use_cellular_network_alert_message">"WLAN nije dostupan. Umjesto toga, koristiti vašu mobilnu podatkovnu vezu?"</string>
+  <string name="use_cellular_network_alert_message">"Wi-Fi nije dostupan. Umjesto toga, koristiti vašu mobilnu podatkovnu vezu?"</string>
   <string name="use_cellular_network_alert_title">Uporaba podataka</string>
   <string name="user_defined_webpage">Dodaj na početnu stranicu</string>
   <string name="user_defined_webpage_title">Dodaj na početnu stranicu</string>
@@ -1771,7 +1771,7 @@ Provjerite %s1 postavke mreže %s2 i pokušajte ponovo."</string>
   <string name="video_download_unknown_name">Nepoznat naziv</string>
   <string name="video_download_unknown_size">Veličina nepoznata</string>
   <string name="video_download_unsupport">Nije podržano</string>
-  <string name="video_download_wait_for_wifi">Čekanje na WLAN</string>
+  <string name="video_download_wait_for_wifi">Čekanje na Wi-Fi</string>
   <string name="video_downloaded_group">Preuzeto</string>
   <string name="video_downloading_group">Preuzimanje…</string>
   <string name="video_edit">Uredi</string>

@@ -77,9 +77,9 @@
         <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sinkr. WLAN postavke s Mi Cloudom</item>
+        <item>Sinkr. Wi-Fi postavke s Mi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>WLAN;wifi;WLAN;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
         <item>Sinkr. Kalendar s Mi Cloudom</item>
@@ -144,25 +144,25 @@
      <string-array name="micloud_entrance_subtitleArray">
          <item>Sinkronizirajte svoje kontakte, poruke, bilješke, kalendar i još mnogo toga</item>
          <item>Izradite Sig. kopije aplikacija, izgled Poč. zaslona i pozadine</item>
-         <item>Izradite Sig. kopije važnih postavki, uključujući WLAN i zaslon</item>
+         <item>Izradite Sig. kopije važnih postavki, uključujući Wi-Fi i zaslon</item>
          <item>"Zaključajte uređaj daljinskim putem ako je izgubljen"</item>
      </string-array>
 	 <string-array name="micloud_entrance_subtitleArray_china">
          <item>Sinkronizirajte svoje kontakte, poruke, bilješke, kalendar i još mnogo toga</item>
          <item>Izradite Sig. kopije aplikacija, izgled Poč. zaslona i pozadine</item>
-         <item>Izradite Sig. kopije važnih postavki, uključujući WLAN i zaslon</item>
+         <item>Izradite Sig. kopije važnih postavki, uključujući Wi-Fi i zaslon</item>
          <item>"Zaključajte uređaj daljinskim putem ako je izgubljen"</item>
      </string-array>
      <string-array name="micloud_entrance_subtitleArray_china_v2">
          <item>Sinkronizirajte svoje kontakte, poruke, bilješke, kalendar i još mnogo toga</item>
          <item>Izradite Sig. kopije aplikacija, izgled Poč. zaslona i pozadine</item>
-         <item>Izradite Sig. kopije važnih postavki, uključujući WLAN i zaslon</item>
+         <item>Izradite Sig. kopije važnih postavki, uključujući Wi-Fi i zaslon</item>
          <item>"Zaključajte uređaj daljinskim putem ako je izgubljen"</item>
      </string-array>
      <string-array name="micloud_entrance_subtitleArray_v2">
          <item>Sinkronizirajte svoje kontakte, poruke, bilješke, kalendar i još mnogo toga</item>
          <item>Izradite Sig. kopije aplikacija, izgled Poč. zaslona i pozadine</item>
-         <item>Izradite Sig. kopije važnih postavki, uključujući WLAN i zaslon</item>
+         <item>Izradite Sig. kopije važnih postavki, uključujući Wi-Fi i zaslon</item>
          <item>"Zaključajte uređaj daljinskim putem ako je izgubljen"</item>
      </string-array>
 	      <string-array name="settings_search_notes_v2">
@@ -171,8 +171,8 @@
         <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
      </string-array>
      <string-array name="settings_search_wlan_china">
-        <item>Sinkr. WLAN postavke s Mi Cloudom</item>
+        <item>Sinkr. Wi-Fi postavke s Mi Cloudom</item>
         <item>Uključi sinkr.</item>
-        <item>WLAN;wifi;WLAN;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+        <item>Wi-Fi;wifi;Wi-Fi;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
      </string-array>
 </resources>

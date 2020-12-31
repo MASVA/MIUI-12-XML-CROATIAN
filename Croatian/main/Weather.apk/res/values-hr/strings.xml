@@ -247,7 +247,7 @@ Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="information_manager_default_weather_bg">Zadana pozadina</string>
   <string name="information_manager_extension">Ekstenzija vremena</string>
   <string name="information_manager_information">Informacije o vremenu</string>
-  <string name="information_manager_wlan">Učitaj kad je povezano na WLAN</string>
+  <string name="information_manager_wlan">Učitaj kad je povezano na Wi-Fi</string>
   <string name="information_set">Ostale postavke</string>
   <string name="information_settings_title">Informacije o vremenu</string>
   <string name="install">Instaliraj</string>
@@ -306,7 +306,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="no_data">Nema podataka</string>
   <string name="no_internet_message">Vaš se uređaj mora povezati s mrežom da biste mogli povući pristanak. Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="no_vote_ratio">Protiv %1$s%%</string>
-  <string name="non_wifi_environment">Povežite se s WLAN mrežom da preuzmete zvučne efekte</string>
+  <string name="non_wifi_environment">Povežite se s Wi-Fi mrežom da preuzmete zvučne efekte</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notif_aqi_title">AQI je %1$d u %2$s danas</string>
   <string name="notif_weather_title">%1$s u %2$s danas</string>

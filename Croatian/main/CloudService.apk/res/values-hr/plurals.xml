@@ -41,8 +41,8 @@
          <item quantity="one">%d zapis povijesti poziva</item>
      </plurals>
      <plurals name="dirty_wlan_count">
-         <item quantity="other">%d WLAN mreža</item>
-         <item quantity="one">%d WLAN mreža</item>
+         <item quantity="other">%d Wi-Fi mreža</item>
+         <item quantity="one">%d Wi-Fi mreža</item>
      </plurals>
      <plurals name="dirty_recorder_count">
          <item quantity="other">%d zapisa</item>
@@ -97,8 +97,8 @@
         <item quantity="one">"Ne možete odabrati više od %d stavke"</item>
     </plurals>
 	     <plurals name="dirty_wlan_count_china">
-        <item quantity="other">%d WLAN mreža</item>
-        <item quantity="one">%d WLAN mreža</item>
+        <item quantity="other">%d Wi-Fi mreža</item>
+        <item quantity="one">%d Wi-Fi mreža</item>
      </plurals>
 	      <plurals name="cloud_space_full_gallery_notification_content_title">
         <item quantity="other">"Ne mogu sinkronizirati stavke: %s"</item>

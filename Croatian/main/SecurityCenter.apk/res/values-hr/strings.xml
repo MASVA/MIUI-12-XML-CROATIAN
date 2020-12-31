@@ -21,7 +21,7 @@
   <string name="HIPS_Perm_Read_SMS_Desc">Pročitati vaše SMS poruke</string>
   <string name="HIPS_Perm_SendMMS_Desc">Izravno slati MMS poruke</string>
   <string name="HIPS_Perm_SendSMS_Desc">Izravno slati SMS poruke</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Uključivanje i isključivanje WLAN-a</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Dodati glasovne poruke sustava</string>
   <string name="HIPS_Perm_get_accounts_Desc">Pristup svim računima pohranjenim na uređaju</string>
   <string name="HIPS_Perm_process_nfc_Desc">Korištenje NFC-a</string>
@@ -216,7 +216,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="antivirus_more_engine_dialog_title">Pažnja</string>
   <string name="antivirus_none_engine_dialog_ok">U redu</string>
   <string name="antivirus_none_engine_dialog_title">Odaberite definicije</string>
-  <string name="antivirus_not_wlan">Niste povezani na WLAN. Korištenje mobilnih podataka može generirati dodatne troškove. Svejedno nastaviti?</string>
+  <string name="antivirus_not_wlan">Niste povezani na Wi-Fi. Korištenje mobilnih podataka može generirati dodatne troškove. Svejedno nastaviti?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošalji nazive i detalje aplikacija</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">"Da bismo učinkovitije otkrili i neutralizirali viruse, prenijet ćemo imena i svojstva paketa aplikacija kako bismo ih skenirali pomoću cloud mehanizma."</string>
   <string name="antivirus_privacy_dialog_ok">U redu</string>
@@ -389,7 +389,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_check_reason_background_gps">GPS radi u pozadini</string>
   <string name="app_check_reason_wakelock">Vrijeme spavanja sustava nije postavljeno</string>
   <string name="app_check_reason_wakeup_alarm">Zaklj. zaslon se često budi</string>
-  <string name="app_check_reason_wifi_scan">Učestala WLAN skeniranja</string>
+  <string name="app_check_reason_wifi_scan">Učestala Wi-Fi skeniranja</string>
   <string name="app_check_sub_title_text">Optimizirajte aplikacija da biste riješili probleme baterije</string>
   <string name="app_detail">Detalji</string>
   <string name="app_error_tip_for_launcher">"Hardverske komponente vašeg uređaja ili verzija sustava Android mogu uzrokovati probleme s kompatibilnošću što može rezultirati da se neke aplikacije ponašaju neispravno, zamrzavaju se ili se prisilno zaustave. Ako naiđete na takve probleme, podijelite svoje povratne informacije s programerima aplikacije."</string>
@@ -479,7 +479,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_net_control_title">Ograniči uporabu podataka</string>
   <string name="app_manager_net_mobile">Mobilni podaci</string>
-  <string name="app_manager_net_wifi">WLAN</string>
+  <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Ne</string>
   <string name="app_manager_not_support_uninstall">"Ne mogu deinstalirati ove aplikacije"</string>
   <string name="app_manager_notify_bar">Značke</string>
@@ -601,7 +601,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_usage_never">Nije korišteno</string>
   <string name="app_usage_recently">Nedavno korišteno</string>
   <string name="app_version">"Verzija: "</string>
-  <string name="app_wifi">WLAN</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Očisti %s WeChat predmemorije za osloboditi prostor za pohranu</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Ne zaboravite očistiti predmemoriju"</string>
   <string name="application_item_already_permission">Dopušteno</string>
@@ -755,7 +755,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="auto_task_operation_string_split">;</string>
   <string name="auto_task_operation_sync">Sinkr.</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
-  <string name="auto_task_operation_wifi">WLAN</string>
+  <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="auto_task_result_summary_text">Postavi autom. zadatke za Štednju baterije</string>
   <string name="back">Natrag</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacije</string>
@@ -785,7 +785,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="battery_desc_radio">Baterija iskorištena upotrebom GSM-a</string>
   <string name="battery_desc_standby">Baterija iskorištena u stanju pripravnosti</string>
   <string name="battery_desc_voice">Baterija iskorištena uslugom glasovnog poziva</string>
-  <string name="battery_desc_wifi">Baterija iskorištena za WLAN</string>
+  <string name="battery_desc_wifi">Baterija iskorištena za Wi-Fi</string>
   <string name="battery_estimate_charge_time_title">Vrijeme punjenja</string>
   <string name="battery_estimate_usage_time_title">Vrijeme korištenja</string>
   <string name="battery_health_left_battery_text">Preostalo baterije</string>
@@ -818,7 +818,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="battery_stats_phone_signal_label">Signal mob. mreže</string>
   <string name="battery_stats_screen_on_label">Zaslon</string>
   <string name="battery_stats_wake_lock_label">Budan</string>
-  <string name="battery_stats_wifi_running_label">WLAN</string>
+  <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_good">Radi normalno</string>
   <string name="battery_status_level_excellent">Izvrsno</string>
   <string name="battery_status_level_good">Dobro</string>
@@ -1046,7 +1046,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="confirm_upgrade">Opcije</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna veza</string>
   <string name="connect_internet_by_usbshare">Internet putem USB-a</string>
-  <string name="connect_internet_by_wifi">Internet putem WLAN-a</string>
+  <string name="connect_internet_by_wifi">Internet putem Wi-Fi-ja</string>
   <string name="connecting">Povezivanje…</string>
   <string name="continue_install">Instaliraj</string>
   <string name="continue_set">Nastavi</string>
@@ -1215,8 +1215,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_no_longer_alert">"Ne prikazuj ponovno”</string>
   <string name="dialog_restrict_all_mobile_summary">%s Mobilna podatkovna veza će nakon toga biti ograničena za sve aplikacije.</string>
   <string name="dialog_restrict_all_mobile_title">Ograniči %s mobilnu podatkovnu vezu</string>
-  <string name="dialog_restrict_all_wlan_summary">WLAN veza će nakon toga biti ograničena za sve aplikacije.</string>
-  <string name="dialog_restrict_all_wlan_title">Ograniči korištenje WLAN veze</string>
+  <string name="dialog_restrict_all_wlan_summary">Wi-Fi veza će nakon toga biti ograničena za sve aplikacije.</string>
+  <string name="dialog_restrict_all_wlan_title">Ograniči korištenje Wi-Fi veze</string>
   <string name="dialog_restrict_negative">Ograniči</string>
   <string name="dialog_restrict_positive">Odustani</string>
   <string name="dialog_roaming_apps_sorted_title">Poredaj po</string>
@@ -1284,13 +1284,13 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dlg_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji Sigurnost da se poveže s internetom?"</string>
   <string name="dlg_summary_close_app">"Aplikacije se neće pokretati u pozadini. Obavijesti će biti ograničene."</string>
   <string name="dlg_summary_close_theme">"Dinamične teme neće raditi."</string>
-  <string name="dlg_summary_close_wifi">WLAN, Bluetooth, i prijenosni hotspot će biti isključeni.</string>
+  <string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth, i prijenosni hotspot će biti isključeni.</string>
   <string name="dlg_summary_nfc">NFC će biti isključen.</string>
   <string name="dlg_summary_title">Pozadinska aktivnost bit će ograničena kada napustite aplikaciju ili se vratite na početni zaslon. Dodajte aplikacije u iznimke Štednje baterije kako biste omogućili pokretanje u pozadini.</string>
   <string name="dlg_title_not_open_stranger_identify">ID pozivatelja</string>
   <string name="dlg_update_btn_contiue">Nastavi</string>
   <string name="dlg_update_btn_open">Dopusti</string>
-  <string name="dlg_update_data_content">"Niste povezani na WLAN. Korištenje mobilnih podataka može generirati dodatne naknade. Nastaviti svejedno?"</string>
+  <string name="dlg_update_data_content">"Niste povezani na Wi-Fi. Korištenje mobilnih podataka može generirati dodatne naknade. Nastaviti svejedno?"</string>
   <string name="dlg_update_date_title">Upozorenje</string>
   <string name="dlg_update_updating">Ažuriranje…</string>
   <string name="dlg_white_address_antispam_message">Dodati ovu lokaciju u iznimke?</string>
@@ -1423,7 +1423,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="firewall_allow_all">Dopustite svim aplikacijama povezivanje pomoću sljedeće metode</string>
   <string name="firewall_allow_data">Dopusti uporabu mobilnih podataka</string>
   <string name="firewall_allow_network">Dopusti</string>
-  <string name="firewall_allow_wlan">Dopusti korištenje WLAN veze</string>
+  <string name="firewall_allow_wlan">Dopusti korištenje Wi-Fi veze</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
   <string name="firewall_fragment_sys_listempty">Prazno</string>
@@ -1441,15 +1441,15 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="firewall_restrict_android_dialog_title">Pažnja</string>
   <string name="firewall_restrict_data">Ograniči uporabu mobilnih podataka</string>
   <string name="firewall_restrict_notify_title">"%s ne može koristiti mrežu"</string>
-  <string name="firewall_restrict_wlan">Ograniči korištenje WLAN veze</string>
+  <string name="firewall_restrict_wlan">Ograniči korištenje Wi-Fi veze</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
-  <string name="firewall_rule_group_title_wifi">WLAN</string>
+  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s je ograničen od korištenja %2$s mreža</string>
   <string name="firewall_system_title">Uporaba podataka za aplikacije sustava</string>
   <string name="firewall_temp_rule_reason">%2$s je ograničio internetsku vezu za %1$s​</string>
-  <string name="firewall_wifi">WLAN</string>
-  <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću WLAN-a kada je ova stavka isključena.​"</string>
+  <string name="firewall_wifi">Wi-Fi</string>
+  <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću Wi-Fi-ja kada je ova stavka isključena.​"</string>
   <string name="first_aid_activity_title">Ispravi probleme</string>
   <string name="first_aid_card_airplane_button">Isključi</string>
   <string name="first_aid_card_airplane_summary">Isključite Zrakoplovni način kako biste mogli upućivati pozive i povezati se s mrežom</string>
@@ -1478,7 +1478,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_card_unable_install_summary">Dostupno je samo %s prostora. Oslobodite prostor kako biste mogli instalirati aplikacije.</string>
   <string name="first_aid_card_unable_install_title">"Ne mogu instalirati aplikacije"</string>
   <string name="first_aid_card_wifi_or_flow_button">Poveži</string>
-  <string name="first_aid_card_wifi_or_flow_summary">Uključite WLAN ili mobilne podatke za povezivanje</string>
+  <string name="first_aid_card_wifi_or_flow_summary">Uključite Wi-Fi ili mobilne podatke za povezivanje</string>
   <string name="first_aid_card_wifi_or_flow_title">"Ne mogu se povezati s internetom"</string>
   <string name="first_aid_dialog_msg_stop_scan">Zaustaviti skeniranje?</string>
   <string name="first_aid_dialog_title_stop_scan">Zaustavi</string>
@@ -1518,7 +1518,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="fod_tips_split_screen_more_than_half">Unesite zaporku</string>
   <string name="forbid_autobright_summary">"Automatska svjetlina će biti isključena dok igrate i uključena nakon što završite"</string>
   <string name="forbid_autobright_title">Popravi svjetlinu zaslona</string>
-  <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na WLAN mrežu."</string>
+  <string name="force_stop_dlg_text">"Ako ograničite podatke u pozadini, neke aplikacije i usluge neće raditi ako niste povezani na Wi-Fi mrežu."</string>
   <string name="force_stop_dlg_title">Ograniči podatke u pozadini</string>
   <string name="foreground_traffic">Prednja strana %s</string>
   <string name="forget_password_button_text">Zaboravljena zaporka</string>
@@ -1601,8 +1601,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebox_func_immersion_open">Interaktivan način je sada uključen</string>
   <string name="gamebox_func_switch_simcard">Prebačeno na SIM karticu %1$d za mob. podatke</string>
   <string name="gamebox_func_switch_simcard_immersion">"SIM kartice se ne mogu zamijeniti u Interaktivnom načinu"</string>
-  <string name="gamebox_func_wlan_close">WLAN je sada isključen</string>
-  <string name="gamebox_func_wlan_open">WLAN je sada uključen</string>
+  <string name="gamebox_func_wlan_close">Wi-Fi je sada isključen</string>
+  <string name="gamebox_func_wlan_open">Wi-Fi je sada uključen</string>
   <string name="gamebox_hangup">Isključi zaslon</string>
   <string name="gamebox_hangup_tips_content">Ova značajka omogućuje vam da isključite zaslon, ali igru zadržite u pozadini. On se automatski isključuje nakon otključavanja uređaja.</string>
   <string name="gamebox_hangup_tips_title">Uključi zaslon</string>
@@ -1621,7 +1621,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebox_type_gesture">Povuci za prikaz</string>
   <string name="gamebox_voicechanger">Mijenjač glasa</string>
   <string name="gamebox_wechat_not_find">Instalirajte WeChat i pokušajte ponovo.</string>
-  <string name="gamebox_wifi">WLAN</string>
+  <string name="gamebox_wifi">Wi-Fi</string>
   <string name="gamecenter_install_fail">"Ne mogu instalirati"</string>
   <string name="gamecenter_install_sucessfull">Uspješno instalirano</string>
   <string name="garbage_clean_detail">Detalji</string>
@@ -1807,8 +1807,8 @@ vašeg igranja"</string>
   <string name="gtb_setting_item_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
   <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
-  <string name="gtb_setting_item_title_smart_wlan_speed">Mi WLAN povećanje brzine</string>
-  <string name="gtb_wlan_speed_tips">Korištenje Mi WLAN-a…</string>
+  <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi povećanje brzine</string>
+  <string name="gtb_wlan_speed_tips">Korištenje Mi Wi-Fi-ja…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Koristite aplikaciju Sigurnost\nda biste upravljali vašim mobilnim podacima"</string>
@@ -1819,14 +1819,14 @@ vašeg igranja"</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
   <string name="handle_bar_title_paysms">Poruke</string>
   <string name="handle_bar_title_system">Sustav</string>
-  <string name="handle_bar_title_wifi">WLAN</string>
+  <string name="handle_bar_title_wifi">Wi-Fi</string>
   <string name="handle_text_cache">Predmemorija</string>
   <string name="handle_text_memory">Memorija</string>
   <string name="handle_text_system">Sustav</string>
   <string name="handle_title_abnormal">Potrošnja baterije</string>
   <string name="handle_title_app">Aplikacije</string>
   <string name="handle_title_details">Detalji o potrošnji baterije</string>
-  <string name="handle_title_network">WLAN sigurnost</string>
+  <string name="handle_title_network">Wi-Fi sigurnost</string>
   <string name="handle_title_pay_env">Okolina plaćanja</string>
   <string name="handle_title_privacy">Privatnost &amp; sigurnost</string>
   <string name="handle_title_system">Potrošnja baterije sustavom</string>
@@ -1993,7 +1993,7 @@ vašeg igranja"</string>
   <string name="limit_speed_by_quota">Ograničenja brzine mogu se primijeniti nakon što dosegnete ograničenje</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne mogu učitati"</string>
-  <string name="load_only_under_wlan">Učitaj samo kada je povezano na WLAN</string>
+  <string name="load_only_under_wlan">Učitaj samo kada je povezano na Wi-Fi</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija (%d/%d)…</string>
   <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
@@ -2094,7 +2094,7 @@ podatkovnu vezu"</string>
   <string name="main_toolbar_firewall">Ograniči uporabu podataka</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilni podaci</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet putem USB-a</string>
-  <string name="main_toolbar_internet_by_wifi">Internet putem WLAN-a</string>
+  <string name="main_toolbar_internet_by_wifi">Internet putem Wi-Fi-ja</string>
   <string name="main_toolbar_misim">Mi SIM</string>
   <string name="main_toolbar_purchase">Nadoplata</string>
   <string name="main_toolbar_saving">Ušteda</string>
@@ -2296,7 +2296,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="net_booster_expire_notification_tip">Preostalo je %d d prije završetka sesije. Obnovite sesiju kako biste izbjegli probleme brzine mreže.</string>
   <string name="net_booster_overdue_notification">Sesija povećanja brzine mreže uskoro će završiti</string>
   <string name="net_booster_overdue_notification_tip">Sesija povećanja brzine mreže uskoro će završiti. Obnoviti sesiju?</string>
-  <string name="net_booster_tip">Uključite povećanje brzine mreže kako bi napravili WLAN vezu stabilnijom i smanjili kašnjenje mreže.</string>
+  <string name="net_booster_tip">Uključite povećanje brzine mreže kako bi napravili Wi-Fi vezu stabilnijom i smanjili kašnjenje mreže.</string>
   <string name="net_booster_title">Povećaj brzinu mreže</string>
   <string name="net_boostering">Povećanje brzine mreže…</string>
   <string name="net_boosting">Povećanje brzine…</string>
@@ -2308,7 +2308,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="network_blocked_notification_summary">Testiranje mreže</string>
   <string name="network_blocked_switch_wifi">Promijeni mrežu</string>
   <string name="network_changed_noti_summary">Upotreba mobilnih podataka</string>
-  <string name="network_changed_noti_title">Prekinuta je veza s WLAN-om</string>
+  <string name="network_changed_noti_title">Prekinuta je veza s Wi-Fi-jem</string>
   <string name="network_connected_exception_title">Testiranje mreže</string>
   <string name="network_control">Prikaz postavki aplikacije</string>
   <string name="network_diagnostics">Testiranje mreže</string>
@@ -2328,9 +2328,9 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežu."</string>
   <string name="network_route_exception_detail">"Možda postoji problem s routerom na koji ste povezani:
 
-"&lt;b&gt;1. Problemi javne WLAN mreže&lt;/b&gt;"
+"&lt;b&gt;1. Problemi javne Wi-Fi mreže&lt;/b&gt;"
 
-Ako ste povezani s javnom WLAN mrežom, broj korisnika povezanih s tom mrežom možda usporava ili stvara probleme s povezivanjem. Prebacite se na drugu mrežu i pokušajte ponovno.
+Ako ste povezani s javnom Wi-Fi mrežom, broj korisnika povezanih s tom mrežom možda usporava ili stvara probleme s povezivanjem. Prebacite se na drugu mrežu i pokušajte ponovno.
 
  "&lt;b&gt;2. Problemi davatelja internetskih usluga&lt;/b&gt;"
  
@@ -2360,7 +2360,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="network_speed_for_apps_others">Ostalo</string>
   <string name="network_speed_for_apps_title">Veza</string>
   <string name="network_speed_for_apps_total">Brzina veze</string>
-  <string name="network_test_speed">Testiraj brzinu WLAN-a</string>
+  <string name="network_test_speed">Testiraj brzinu Wi-Fi-ja</string>
   <string name="network_traffic_warning_text">"MIUI ovdje ne može izračunati statističke podatke uporabe podataka za pojedinačne aplikacije sustava. Moći ćete vidjeti informacije povezane s uporabom podataka u pojedinostima aplikacije u slučaju da ta aplikacija aktivno upotrebljava mobilne podatke."</string>
   <string name="network_traffic_warning_title">Uporaba podataka za aplikacije sustava</string>
   <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovno.</string>
@@ -2502,8 +2502,8 @@ vaš uređaj"</string>
   <string name="om_ill_proc_type_radio_title">Aplikacija se često povezuje s mrežom i troši bateriju</string>
   <string name="om_ill_proc_type_wakelock_detail">Popravite probleme s stanjem mirovanja</string>
   <string name="om_ill_proc_type_wakelock_title">Aplikacija blokira stanje mirovanja i troši bateriju</string>
-  <string name="om_ill_proc_type_wifiscan_detail">Popravite probleme s WLAN skeniranjem</string>
-  <string name="om_ill_proc_type_wifiscan_title">Aplikacija često traži WLAN i troši bateriju</string>
+  <string name="om_ill_proc_type_wifiscan_detail">Popravite probleme s Wi-Fi skeniranjem</string>
+  <string name="om_ill_proc_type_wifiscan_title">Aplikacija često traži Wi-Fi i troši bateriju</string>
   <string name="om_lock_app_locked_app">Zaključano</string>
   <string name="om_lock_app_locked_app_occupy_memory">"Zaključavanje previše aplikacija smanjuje performanse rada telefona"</string>
   <string name="om_lock_app_tip_msg">Dodirni za zaključavanje</string>
@@ -2648,7 +2648,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Sprječava ulazak sustava u stanje pripravnosti</string>
   <string name="pc_abnormal_scan_reason_reconnect">Prečesto se pokušava povezivati s mrežom</string>
   <string name="pc_abnormal_scan_reason_runtime_exception">Pokreće se nenormalno</string>
-  <string name="pc_abnormal_scan_reason_scan_wifi">Prečesto pretražuje WLAN mreže</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Prečesto pretražuje Wi-Fi mreže</string>
   <string name="pc_abnormal_scan_reason_use_GPS">Prečesto koristi usluge lokacije</string>
   <string name="pc_abnormal_scan_reason_wake_system">Previše često budi sustav</string>
   <string name="pc_activity_title">Optimiziraj bateriju</string>
@@ -2745,7 +2745,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_body_sensors">Ovo dopuštenje omogućuje aplikacijama pristup podacima o vašem tijelu koje prikupljaju senzori (npr. otkucaji srca). Zapamtite da su podaci o vašem tijelu osobni.</string>
   <string name="permission_instruction_call_phone">"Ovo dopuštenje omogućuje aplikacijama upućivanje neželjenih poziva, što može generirati dodatne naknade. Imajte na umu da ovo dopuštenje aplikacijama ne dopušta pozivanje hitnih telefonskih brojeva. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za upućivanje plaćenih poziva bez vašeg pristanka."</string>
   <string name="permission_instruction_camera">Ovo dopuštenje aplikacijama omogućuje korištenje kamere za fotografiranje ili snimanje videozapisa.</string>
-  <string name="permission_instruction_change_wifi_state">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje WLAN-a bez vaše potvrde.</string>
+  <string name="permission_instruction_change_wifi_state">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje Wi-Fi-ja bez vaše potvrde.</string>
   <string name="permission_instruction_device_admin">Ovo dopuštenje omogućuje aplikacijama da kontroliraju vaš uređaj, što može uključivati brisanje podataka, otključavanje uređaja i promjenu zaporki. Ovo je dopuštenje visokog rizika.</string>
   <string name="permission_instruction_dont_disturb">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje DND načina rada.</string>
   <string name="permission_instruction_draw_overlay">Ovo dopuštenje omogućuje aplikacijama prikaz plutajućih prozora preko bilo kojeg drugog sučelja na vašem uređaju, što može utjecati na uobičajeno korištenje drugih aplikacija. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za čitanje ili prikupljanje privatnih podataka (npr. zaporke) kroz prozirne plutajuće prozore.</string>
@@ -2928,11 +2928,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_title">Baterija</string>
   <string name="power_center_used_time_Introduction">Vrijeme na bateriji od posljednjeg punjenja %s</string>
   <string name="power_chooser_check_box_title">Odaberite profil</string>
-  <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, WLAN i podatkovne usluge), osim alarma</string>
+  <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, Wi-Fi i podatkovne usluge), osim alarma</string>
   <string name="power_chooser_sleep_title">Mirovanje</string>
   <string name="power_chooser_smart_summary">Izbriši procese u pozadini kada je uređaj zaključan</string>
   <string name="power_chooser_smart_title">Zadano</string>
-  <string name="power_chooser_standby_summary">Isključi WLAN i podatkovne usluge</string>
+  <string name="power_chooser_standby_summary">Isključi Wi-Fi i podatkovne usluge</string>
   <string name="power_chooser_standby_title">Maraton</string>
   <string name="power_chooser_title">Profili baterije</string>
   <string name="power_chooser_user_define_summary">Dodaj profil</string>
@@ -2979,7 +2979,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_dialog_super_save_msg_5g">"Ultra Štednja baterije ograničava većinu funkcija koje troše energiju (npr. 5G povezivanje) smanjujući performanse vašeg uređaja. Neće utjecati samo na pozive, poruke i mrežnu povezanost. Uključiti Ultra Štednju bateriju?"</string>
   <string name="power_dialog_super_save_title">Ultra Štednja baterije</string>
   <string name="power_dialog_vibration_title">Vibracija</string>
-  <string name="power_dialog_wifi_title">WLAN</string>
+  <string name="power_dialog_wifi_title">Wi-Fi</string>
   <string name="power_exitlowbattery_whencharge">Onemogući kada je priključeno</string>
   <string name="power_idle">Uređaj u mirovanju</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh preostalo</string>
@@ -3016,7 +3016,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_mode_vibration_no">Nikad</string>
   <string name="power_mode_vibration_silence">Kada je bešumno</string>
   <string name="power_mode_vibration_yes">Uvijek</string>
-  <string name="power_mode_wifi">WLAN</string>
+  <string name="power_mode_wifi">Wi-Fi</string>
   <string name="power_new_choose_mode">Odaberite profil</string>
   <string name="power_notify_lowbattery">%1$d%% preostalo baterije</string>
   <string name="power_off_warning_button_ok">Razumijem</string>
@@ -3159,7 +3159,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_subtitle_ontime">Profil baterije promjenjen prema rasporedu</string>
   <string name="power_superpower_title_systemui_highpower">Preostalo vrijeme</string>
   <string name="power_superpower_title_systemui_lowpower">Priključite punjač</string>
-  <string name="power_wifi">WLAN</string>
+  <string name="power_wifi">Wi-Fi</string>
   <string name="pp_app_behavior_record_detail">Snimi sva ponašanja aplikacije</string>
   <string name="pp_app_del_img_intercept_detail">Primite obavijesti kada aplikacije izbrišu stavke iz Galerije bez vašeg dopuštenja</string>
   <string name="pp_app_gets_dangerous_permission_reminder">Primite obavijesti kada aplikacije koriste dopuštenja visokog rizika</string>
@@ -3675,7 +3675,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="result_sms_title_antispam">Prijetnja od zlonamjernih SMS i poveznica</string>
   <string name="result_sms_title_auth">Postoji rizik otkrivanja financijskih SMS-a</string>
   <string name="result_virus_header">Pronađeno %d virusa i nesigurnih aplikacija</string>
-  <string name="result_wifi_header">Otkriven WLAN rizk</string>
+  <string name="result_wifi_header">Otkriven Wi-Fi rizk</string>
   <string name="right_precent">100%</string>
   <string name="risk_app_install_agree_button">Vjeruj ovoj aplikaciji</string>
   <string name="risk_app_install_agree_checkbox">"Spreman sam preuzeti sve moguće rizike."</string>
@@ -3707,7 +3707,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="safe_result_header_title_app">Sigurnost aplikacija</string>
   <string name="safe_result_header_title_sms">Sigurnost poruka</string>
   <string name="safe_result_header_title_system">Sigurnost sustava</string>
-  <string name="safe_result_header_title_wifi">WLAN Sigurnost</string>
+  <string name="safe_result_header_title_wifi">Wi-Fi Sigurnost</string>
   <string name="safe_result_item_button_monitor">Nadziranje postavki</string>
   <string name="safe_result_item_empty_monitor">Nema aplikacija zaštićenih za plaćanje</string>
   <string name="safe_result_item_info_app_sign">Nema neslužbenih aplikacija</string>
@@ -3720,9 +3720,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="safe_result_item_info_system_scan">Nadziranje plaćanja je uključeno</string>
   <string name="safe_result_item_info_system_version">MIUI Sustav je ažuran</string>
   <string name="safe_result_item_info_wifi_arp">Nema ARP napada</string>
-  <string name="safe_result_item_info_wifi_connection">WLAN povezan</string>
+  <string name="safe_result_item_info_wifi_connection">Wi-Fi povezan</string>
   <string name="safe_result_item_info_wifi_dns">DNS poslužitelj siguran</string>
-  <string name="safe_result_item_info_wifi_encryption">WLAN šifriran</string>
+  <string name="safe_result_item_info_wifi_encryption">Wi-Fi šifriran</string>
   <string name="safe_result_item_info_wifi_fake">Nije lažno</string>
   <string name="safepay_alert_dialog_button_continue">Nastavi</string>
   <string name="safepay_alert_dialog_button_fix">Popravi</string>
@@ -3880,14 +3880,14 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sp_back_title_text_zero">Osiguraj</string>
   <string name="sp_background_risk_dialog_summary">, provjeri i popravi probleme s plaćanjem.</string>
   <string name="sp_background_risk_dialog_summary_new">Trenutno okruženje plaćanja može predstavljati sigurnosne rizike. Odvojite trenutak za rješenje postojećih problema.</string>
-  <string name="sp_background_risk_dialog_summary_wifi_approve">Povezani ste s javnom WLAN mrežom koja može biti nesigurna. Provjerite je li plaćanje zaštićeno prije nego što ga dovršite.</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Povezani ste s javnom Wi-Fi mrežom koja može biti nesigurna. Provjerite je li plaćanje zaštićeno prije nego što ga dovršite.</string>
   <string name="sp_background_risk_dialog_title">Pažnja</string>
-  <string name="sp_background_risk_dialog_title_wifi_approve">Upozorenje javnog WLAN-a</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Upozorenje javnog Wi-Fi-ja</string>
   <string name="sp_background_risk_type_messaging">Aplikacija sustava za razmjenu poruka je zamijenjena</string>
   <string name="sp_background_risk_type_root">Sustav je ROOT-an</string>
   <string name="sp_background_risk_type_sign">Pokrenuta je neslužbena aplikacija</string>
   <string name="sp_background_risk_type_virus">Virus pokrenut u pozadini</string>
-  <string name="sp_background_risk_type_wifi">Ova WLAN mreža je opasna</string>
+  <string name="sp_background_risk_type_wifi">Ova Wi-Fi mreža je opasna</string>
   <string name="sp_button_text_ignore_alert_title">Ignorirati ovu stavku?</string>
   <string name="sp_empty_title_sign_exception">Držite aplikaciju da je dodate u iznimke</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
@@ -3903,7 +3903,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="sp_settings_check_item_title_sign_exception">Iznimke prijava</string>
   <string name="sp_settings_check_item_title_update">Ažuriranje sustava</string>
   <string name="sp_settings_check_item_title_virus_exception">Iznimke</string>
-  <string name="sp_settings_check_item_title_wifi">WLAN</string>
+  <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Nema stavki</string>
   <string name="sp_settings_group_title_check_item">Višestruke stavke</string>
   <string name="sp_settings_group_title_ime">Osiguraj IME postavke</string>
@@ -4681,7 +4681,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_whitelist_btn_removed">Aplikacija uklonjena s popisa</string>
   <string name="traffic_saving_whitelist_count">"Aplikacija bez ograničenja uporabe podataka: %d"</string>
   <string name="traffic_saving_whitelist_no_app">Nema aplikacija</string>
-  <string name="traffic_saving_wifi_usage">WLAN uporaba</string>
+  <string name="traffic_saving_wifi_usage">Wi-Fi uporaba</string>
   <string name="traffic_setting_app_count">Aplik.: %d</string>
   <string name="traffic_setting_completed">U redu</string>
   <string name="traffic_setting_extra_pkg_oversea_summary">Prilagodite uporabu i ograničenje podataka</string>
@@ -4757,15 +4757,15 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usage_type_cpu_foreground">Glavni zadatak CPU-a</string>
   <string name="usage_type_data_recv">Primljeni mobilni podaci</string>
   <string name="usage_type_data_send">Poslani mobilni podaci</string>
-  <string name="usage_type_data_wifi_recv">Primljeni WLAN podaci</string>
-  <string name="usage_type_data_wifi_send">Poslani WLAN podaci</string>
+  <string name="usage_type_data_wifi_recv">Primljeni Wi-Fi podaci</string>
+  <string name="usage_type_data_wifi_send">Poslani Wi-Fi podaci</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Vrijeme bez signala</string>
   <string name="usage_type_on_time">Vrijeme rada</string>
   <string name="usage_type_phone">Telefon</string>
   <string name="usage_type_video">Videozapis</string>
   <string name="usage_type_wake_lock">Zadrži u aktivnom stanju</string>
-  <string name="usage_type_wifi_running">WLAN uključen</string>
+  <string name="usage_type_wifi_running">Wi-Fi uključen</string>
   <string name="usb_adb_input_apply_step_1">"To može dovesti do otkrivanja privatnih informacija i gubitka osobnih podataka. Ne preporučujemo da to napravite osim ako ste razvojni programer."</string>
   <string name="usb_adb_input_apply_step_2">"Razvojni programeri mogu koristiti poseban softver za oponašanje gesta, mijenjati postavke i odobravati dopuštenja putem USB-a."</string>
   <string name="usb_adb_input_apply_step_3">"Dopustiti sada?"</string>
@@ -4846,7 +4846,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="virus_update_fail">"Ne mogu ažurirati"</string>
   <string name="virus_update_success">Uspješno ažurirano</string>
   <string name="virus_update_tips_title">Upozorenje</string>
-  <string name="virus_wait_network_dialog_message">Vaš uređaj nije povezan s WLAN mrežom. Koristiti mobilnu podatkovnu vezu?</string>
+  <string name="virus_wait_network_dialog_message">Vaš uređaj nije povezan s Wi-Fi mrežom. Koristiti mobilnu podatkovnu vezu?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Određena podatkovna veza je isključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne mogu dobiti brojeve telefona pomoću određenih planova podataka"</string>
@@ -4901,28 +4901,28 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="white_list_risk_app_header">Opasne aplik.: %d</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj sve brojeve s predbrojem u iznimke</string>
-  <string name="wifi_danger_dialog_messgae">Trenutna WLAN mreža može predstavljati sigurnosni rizik. Koristite je s oprezom.</string>
-  <string name="wifi_danger_dialog_tips">Sigurnošću WLAN-a možete upravljati u Sigurnost &gt; Sigurnosno skeniranje &gt; Postavke &gt; WLAN.</string>
-  <string name="wifi_danger_dialog_title">"WLAN mreža nije sigurna"</string>
-  <string name="wifi_exception_summary">Testiraj dostupne WLAN mreže</string>
-  <string name="wifi_exception_title">Testiraj WLAN mrežu</string>
+  <string name="wifi_danger_dialog_messgae">Trenutna Wi-Fi mreža može predstavljati sigurnosni rizik. Koristite je s oprezom.</string>
+  <string name="wifi_danger_dialog_tips">Sigurnošću Wi-Fi-ja možete upravljati u Sigurnost &gt; Sigurnosno skeniranje &gt; Postavke &gt; Wi-Fi.</string>
+  <string name="wifi_danger_dialog_title">"Wi-Fi mreža nije sigurna"</string>
+  <string name="wifi_exception_summary">Testiraj dostupne Wi-Fi mreže</string>
+  <string name="wifi_exception_title">Testiraj Wi-Fi mrežu</string>
   <string name="wifi_item_status_connection_no">Nije povezano</string>
   <string name="wifi_item_status_connection_yes">Povezano</string>
   <string name="wifi_item_title_arp_attack">ARP napadi</string>
-  <string name="wifi_item_title_connection">WLAN veza</string>
+  <string name="wifi_item_title_connection">Wi-Fi veza</string>
   <string name="wifi_item_title_dns">Sigurnost DNS poslužitelja</string>
-  <string name="wifi_item_title_encryption">"WLAN nije šifriran"</string>
-  <string name="wifi_item_title_fake">Otkrij lažni WLAN</string>
+  <string name="wifi_item_title_encryption">"Wi-Fi nije šifriran"</string>
+  <string name="wifi_item_title_fake">Otkrij lažni Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Nema povezivanja s internetom</string>
   <string name="wifi_optizition_loading">Uključivanje Xunyou povećanje brzine…</string>
-  <string name="wifi_optizition_tip">Uključite povećanje brzine mreže kako bi napravili WLAN vezu stabilnijom. Biti će upotrijebljena mala količina mobilnih podataka.</string>
-  <string name="wifi_optizition_title">Povećaj WLAN brzinu</string>
+  <string name="wifi_optizition_tip">Uključite povećanje brzine mreže kako bi napravili Wi-Fi vezu stabilnijom. Biti će upotrijebljena mala količina mobilnih podataka.</string>
+  <string name="wifi_optizition_title">Povećaj Wi-Fi brzinu</string>
   <string name="wl_no_whitelist">Nema iznimaka.</string>
-  <string name="wlan_booster">WLAN optimizacija</string>
-  <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na WLAN kada je povezano na mobilnu mrežu"</string>
+  <string name="wlan_booster">Wi-Fi optimizacija</string>
+  <string name="wlan_change_protection_detail">"Ne mijenjaj automatski na Wi-Fi kada je povezano na mobilnu mrežu"</string>
   <string name="wlan_change_protection_title">Spriječi promjenu mreža</string>
-  <string name="wlan_optimization_summary">Smanji odgodu WLAN mreže</string>
-  <string name="wlan_optimization_title">WLAN optimizacija</string>
+  <string name="wlan_optimization_summary">Smanji odgodu Wi-Fi mreže</string>
+  <string name="wlan_optimization_title">Wi-Fi optimizacija</string>
   <string name="write_clipboard_tip_content">Ovo dopuštenje omogućuje aplikacijama spremanje stavki u međuspremnik. Neželjene poruke mogu utjecati na vaše uobičajeno korištenje međuspremnika</string>
   <string name="write_clipboard_tip_title">Spremanje stavki u međuspremnik</string>
   <string name="wrong_password">Netočna zaporka</string>

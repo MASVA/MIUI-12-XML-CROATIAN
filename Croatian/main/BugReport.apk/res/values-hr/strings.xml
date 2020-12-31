@@ -40,7 +40,7 @@
   <string name="catch_full_log_item_title_gps">Usluge lociranja</string>
   <string name="catch_full_log_item_title_sensor">Senzori</string>
   <string name="catch_full_log_item_title_signal">Telefon, signal i mobilne mreže</string>
-  <string name="catch_full_log_item_title_wifi">WLAN i Mi Drop</string>
+  <string name="catch_full_log_item_title_wifi">Wi-Fi i Mi Drop</string>
   <string name="catch_full_log_notification_content">Dodirnite za povratak na zapisnike</string>
   <string name="catch_full_log_notification_title">Izrada zapisa…</string>
   <string name="catch_full_log_start_dump_hprof">Izrada lagging zapisa</string>
@@ -75,7 +75,7 @@
   <string name="err_type_system_summary">Memorija, Performanse, itd.</string>
   <string name="err_type_systemapp">MIUI Aplik.</string>
   <string name="err_type_translate">Jezik</string>
-  <string name="err_type_wifi">WLAN</string>
+  <string name="err_type_wifi">Wi-Fi</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Služba za korisnike</string>
   <string name="error_no_connection">"Ne mogu se povezati na mrežu"</string>
@@ -259,7 +259,7 @@
   <string name="michat_wait_for_a_moment">Samo trenutak, pomoć je na putu!</string>
   <string name="michat_webview_title">Prikaži detalje</string>
   <string name="min_error">Vaš %1$s bi trebao biti duži.</string>
-  <string name="mobile_data_note_dialog_cancel">Pričekaj WLAN</string>
+  <string name="mobile_data_note_dialog_cancel">Pričekaj Wi-Fi</string>
   <string name="mobile_data_note_dialog_confirm">Pošalji</string>
   <string name="mobile_data_note_dialog_content">Korištenje mobilnih podataka za prijenos zapisa može generirati dodatne naknade.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">Prijenos zapisa putem mobilne podatkovne veze zahtijeva %sMB podataka.</string>
@@ -365,7 +365,7 @@
   <string name="toast_description_required">Potreban je opis</string>
   <string name="toast_feedback_collect_store">Prikupljanje zapisa…</string>
   <string name="toast_feedback_network_unavailable">"Ne mogu se povezati na mrežu"</string>
-  <string name="toast_feedback_pending_wlan">"Zapis će biti poslan kada budete povezani na WLAN mrežu. Pov. informacija će biti poslana kada WLAN mreža bude dostupna."</string>
+  <string name="toast_feedback_pending_wlan">"Zapis će biti poslan kada budete povezani na Wi-Fi mrežu. Pov. informacija će biti poslana kada Wi-Fi mreža bude dostupna."</string>
   <string name="toast_feedback_submitted">Zapis je poslan</string>
   <string name="toast_feedback_submitting">Slanje…</string>
   <string name="toast_fill_brackets">Vašem zapisu nedostaju neke informacije</string>
