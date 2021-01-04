@@ -38,6 +38,7 @@
   <string name="animal_branch">Obitelj</string>
   <string name="animal_class">Vrsta</string>
   <string name="animal_item">Narudžba</string>
+  <string name="animal_select_alert_info">Možete odabrati do 5 stavki</string>
   <string name="anti_flicker_mode">Način protiv treperenja</string>
   <string name="anti_flicker_mode_categroy">Načini</string>
   <string name="anti_flicker_mode_summary">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
@@ -383,6 +384,7 @@
   <string name="primary_color_region_summary">Prepoznaj raspon boja automatski putem kalibracije boja</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="puffin">Atlantski puffin</string>
+  <string name="random_play_sound_alert">"Čut ćete zvukove životinja iz ove regije kad primite obavijesti"</string>
   <string name="red_billed_hornbill">Crvenokljuni rogač</string>
   <string name="reset_edit">Odbaci promjene</string>
   <string name="restore_default">Vrati na zadane postavke</string>

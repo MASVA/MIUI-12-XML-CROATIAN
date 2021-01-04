@@ -531,6 +531,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="stop_blur_location">Isključi</string>
   <string name="storage_policy_notify_both_title">"%1$s nije dopušten pristup Galeriji i porukama u aplikacijama društvenih medija"</string>
   <string name="storage_policy_notify_content">Dodirnite za podešavanje dopuštenja</string>
   <string name="storage_policy_notify_gallery_title">"%1$s nije dopušten pristup Galeriji"</string>
