@@ -651,6 +651,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="no_block_button_msg">"Ne blokiraj poruke s ovog broja"</string>
   <string name="no_conversations">Nema razgovora</string>
   <string name="no_delivery_report">Nema Izvješća o isporuci</string>
+  <string name="no_dialogue_yet">Odaberite razgovor</string>
   <string name="no_longer_recommend">"Ne prikazuj ponovno "</string>
   <string name="no_network_description">"Povezivanje s mrežom nije uspjelo. Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="no_subject">(Nema predmeta)</string>

@@ -151,10 +151,22 @@
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
      </plurals>
+	 <plurals name="rs_clean_size_hint_image">
+        <item quantity="other">Dovoljno za %d fotografija</item>
+        <item quantity="one">Dovoljno za %d fotografiju</item>
+    </plurals>
+    <plurals name="rs_clean_size_hint_song">
+        <item quantity="other">Dovoljno za %d pjesama</item>
+        <item quantity="one">Dovoljno za %d pjesmu</item>
+    </plurals>
      <plurals name="second">
         <item quantity="other">%1$d sek</item>
         <item quantity="one">%1$d sek</item>
-     </plurals>	  
+     </plurals>	
+     <plurals name="video_clean_scan_app_result">
+        <item quantity="other">%d aplikacija s predmemoriranim videozapisima</item>
+        <item quantity="one">%d aplikacija s predmemoriranim videozapisima</item>
+    </plurals>	 
 	  <plurals name="clean_long_msg_p1">
         <item quantity="other">"Čišćenje %1$d datoteka (%2$d%%)\n"</item>
         <item quantity="one">"Čišćenje %1$d datoteke (%2$d%%)\n"</item>
