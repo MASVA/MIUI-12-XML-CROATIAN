@@ -466,6 +466,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_login_notice">Prijava…</string>
   <string name="passport_login_other_account">Drugi račun</string>
   <string name="passport_login_other_phone">Koristi drugi račun</string>
+  <string name="passport_login_other_way">Drugi načini za prijavu</string>
   <string name="passport_login_prompt">Sve Mi usluge. Jedan Mi Račun.</string>
   <string name="passport_login_recycle_account_no">Ne</string>
   <string name="passport_login_recycle_account_yes">Da</string>
