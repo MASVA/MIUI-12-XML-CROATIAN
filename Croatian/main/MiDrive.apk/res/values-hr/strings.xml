@@ -104,6 +104,15 @@
   <string name="category_transport">Prikaži prijenose</string>
   <string name="category_video">Videozapisi</string>
   <string name="category_video_title">Videozapisi</string>
+  <string name="channel_pc_edit">Uređeno na računalu</string>
+  <string name="channel_pc_upload">Preneseno s računala</string>
+  <string name="channel_pc_view">Gledano na računalu</string>
+  <string name="channel_phone_edit">Uređeno na telefonu</string>
+  <string name="channel_phone_upload">Preneseno s telefona</string>
+  <string name="channel_phone_view">Gledano na telefonu</string>
+  <string name="channel_web_edit">Uređeno u pregledniku</string>
+  <string name="channel_web_upload">Preneseno s preglednika</string>
+  <string name="channel_web_view">Gledano na pregledniku</string>
   <string name="change_activate_email">Promjeni adresu e-pošte</string>
   <string name="change_mobile_network_message">Prebačeno na mobilne podatke. Nastavak prijenosa datoteka će potrošiti puno podataka, jeste li sigurni da želite nastaviti?</string>
   <string name="change_password">Promjeni zaporku</string>
@@ -148,6 +157,8 @@
   <string name="delete_failed_retry">"Ne mogu izbrisati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_success">Uspješno izbrisano</string>
+  <string name="delete_operation_record">Izbrisati ovaj zapis?</string>
+  <string name="delete_operation_record_timeout">"Ne mogu izbrisati zapis. Pričekajte minutu-dvije i pokušajte ponovo."</string>
   <string name="delete_files">Izbrisati datoteke: %1$d?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati mape: %1$d?</string>
@@ -289,6 +300,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="image_preview_open_large_image">Otvori izvornu sliku (%s)</string>
   <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
   <string name="inner_storage_path">Unutarnja pohrana</string>
+  <string name="jump_to_directory">Otvori mapu</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
   <string name="input_new_pwd">Unesite novu zaporku</string>
   <string name="isornot_your_mi_account">Je li ovo vaš Mi Račun?</string>
@@ -353,6 +365,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="navigation_file">Datoteke</string>
   <string name="navigation_my">Profil</string>
   <string name="navigation_transport">Prijenosi</string>
+  <string name="no_recent_activity">Ovdje nema nedavnih stavki</string>
   <string name="need_get_accounts_and_storage_permission">Aplikacija Mi Drive treba pristup vašem računu i vanjskoj pohrani da radi normalno.</string>
   <string name="need_get_accounts_permission">Aplikacija Mi Drive treba pristup vašem računu da radi normalno.</string>
   <string name="never_notify">"Ne prikazuj ponovo"</string>
@@ -395,6 +408,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="operation_dialog_copy_message">Kopiranje…</string>
   <string name="operation_dialog_create_folder_message">Izrada mape…</string>
   <string name="operation_dialog_delete_message">Brisanje…</string>
+  <string name="operation_dialog_jump_message">Otvaranje mape…</string>
   <string name="operation_dialog_move_message">Premještanje…</string>
   <string name="operation_dialog_rename_message">Preimenovanje…</string>
   <string name="operation_download">Preuzmi</string>
@@ -417,6 +431,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="operation_sure_to_delete">Izbrisati sada?</string>
   <string name="operation_task_manage">Prikaži prijenose</string>
   <string name="operation_transport_success">Uspješno dodano u prijenose</string>
+  <string name="operation_will_not_show_after_delete">Zapis se više neće pojavljivati ovdje ako ga izbrišete.</string>
   <string name="operation_upload">Učitaj</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_label">Mi Račun</string>
@@ -538,6 +553,8 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="psw_hint">Zaporka</string>
   <string name="psw_sign_in">Prijavite se pomoću zaporke</string>
   <string name="ptp_ai_recommend_empty_page">Ovdje nema automatski generiranih PDF-ova</string>
+  <string name="recent_file">Nedavno</string>
+  <string name="recent_jump_to_privacy_fail_notice">Ova je datoteka privatna. Vratite se na početnu stranicu i povucite prema dolje za prikaz.</string>
   <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
   <string name="refresh_label_pull_to_refresh">Povuci dolje za osvježiti</string>
   <string name="refresh_label_refreshed">Uspješno osvježeno</string>

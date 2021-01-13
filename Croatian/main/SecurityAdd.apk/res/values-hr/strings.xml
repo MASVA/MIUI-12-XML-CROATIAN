@@ -112,7 +112,7 @@
   <string name="gb_advance_settings_edge_gear4">Veliki</string>
   <string name="gb_advance_settings_edge_suppression">Područje otporno na dodir</string>
   <string name="gb_advance_settings_edge_suppression_summary">Smanjite osjetljivost na dodir u blizini rubova kako biste izbjegli pokretanje kontrola na dodir. Držite uređaj za istaknuta područja kako zvučnici ne bi bili pokriveni.</string>
-  <string name="gb_advance_settings_finger_up">Osjetljivost na ponovljene dodire</string>
+  <string name="gb_advance_settings_finger_up">Osjetljivost na kontinuirane dodire</string>
   <string name="gb_advance_settings_follow_up">Brzina odaziva</string>
   <string name="gb_advance_settings_reset">Vrati na zadane postavke</string>
   <string name="gb_advance_settings_reset_button">Vrati</string>

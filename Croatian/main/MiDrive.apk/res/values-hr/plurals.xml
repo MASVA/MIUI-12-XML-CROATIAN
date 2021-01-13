@@ -184,4 +184,8 @@
         <item quantity="other">Učitavanje… %1$d preostalo (%2$s%%)</item>
         <item quantity="one">Učitavanje… %1$d preostalo (%2$s%%)</item>
      </plurals>
+	 <plurals name="view_all">
+        <item quantity="other">1$d stavki</item>
+        <item quantity="one">%1$d stavka</item>
+    </plurals>
 </resources>

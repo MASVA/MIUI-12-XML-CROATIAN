@@ -510,6 +510,8 @@ Pokušajte ponovo za %d s."</string>
   <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>
   <string name="bluetooth_enable_gabeldorsche">Omogući Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
+  <string name="bluetooth_enable_page_scan">Omogući skeniranje Bluetooth stranice</string>
+  <string name="bluetooth_enable_page_scan_summary">Onemogući/omogući skeniranje stranice za Bluetooth test</string>
   <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>

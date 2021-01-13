@@ -1415,6 +1415,8 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN sadrži slova ili simbole</string>
   <string name="bluetooth_enable_gabeldorsche">Onemogući Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
+  <string name="bluetooth_enable_page_scan">Omogući skeniranje Bluetooth stranice</string>
+  <string name="bluetooth_enable_page_scan_summary">Onemogući/omogući skeniranje stranice za Bluetooth test</string>
   <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_enter_passkey_msg">Unesite kôd za uparivanje pa pritisnite Return ili Enter</string>
@@ -10698,7 +10700,7 @@ Ovu značajku možete isključiti u Postavke &gt; Wi-Fi &gt; Dodatne postavke.</
   <string name="wifi_enable_hs2_title">Passpoint uključen</string>
   <string name="wifi_enable_watchdog_service_summary">Izbjegavaj slabe veze</string>
   <string name="wifi_enhanced_handover">Poboljšano prebacivanje</string>
-  <string name="wifi_enhanced_handover_summary">Brzo se prebacujte između AP-a istim načinom šifriranja</string>
+  <string name="wifi_enhanced_handover_summary">Brzo se prebacujte između različitih pristupnih točaka</string>
   <string name="wifi_enhanced_mac_randomization">Nasum. odabir MAC-a poboljšan Wi-Fi-jem</string>
   <string name="wifi_enhanced_mac_randomization_summary">Kad je ovaj način omogućen, MAC adresa ovog uređaja može se promijeniti svaki put kada se poveže s mrežom koja ima omogućenu MAC slučajnost.</string>
   <string name="wifi_error">Pogreška</string>

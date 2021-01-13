@@ -55,6 +55,7 @@ dd.MM"</string>
   <string name="aod_show_style_title">Prikaži stavke</string>
   <string name="aod_signature_12">hh:mm aa</string>
   <string name="aod_style">Teme</string>
+  <string name="aod_theme_store">Always-on teme</string>
   <string name="aod_to_close">Isključi</string>
   <string name="app_name">Prednosti</string>
   <string name="apply">Primjeni</string>
