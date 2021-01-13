@@ -696,12 +696,12 @@ Promijeniti postavke sada?"</string>
   <string name="app_notification_block_title">Blokiraj</string>
   <string name="app_notification_importance_title">Važnost</string>
   <string name="app_notification_listing_summary_zero">Uključeno za sve aplikacije</string>
-  <string name="app_notification_override_dnd_summary">Dopusti obavijesti u načinu Ne ometaj kad je postavljen na \"Samo prioritetno\"</string>
-  <string name="app_notification_override_dnd_title">Nadjačaj Ne ometaj</string>
+  <string name="app_notification_override_dnd_summary">Dopusti obavijesti u načinu DND kad je postavljen na \"Samo prioritetno\"</string>
+  <string name="app_notification_override_dnd_title">Nadjačaj DND</string>
   <string name="app_notification_peekable_summary">Dopusti aplikaciji naglašavanje određenih obavijesti tako da ih nakratko prikaže na trenutačnom zaslonu</string>
   <string name="app_notification_peekable_title">Dopusti zavirivanje</string>
   <string name="app_notification_preferences">Postavke aplikacije</string>
-  <string name="app_notification_priority_summary">Dopusti zvučne signale obavijesti ove aplikacije kada je \"Ne ometaj\" postavljeno na \"Samo prioritetno\"</string>
+  <string name="app_notification_priority_summary">Dopusti zvučne signale obavijesti ove aplikacije kada je \"DND\" postavljeno na \"Samo prioritetno\"</string>
   <string name="app_notification_priority_title">Prioritet</string>
   <string name="app_notification_row_banned">Blokirano</string>
   <string name="app_notification_row_priority">Prioritet</string>
@@ -1784,9 +1784,11 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="button_disconnect_network">Isključi iz mreže</string>
   <string name="button_finish">Završeno</string>
   <string name="button_got_it">U redu</string>
+  <string name="button_height_text">Generička tipka za potvrdu (npr. \"U redu\", \"Gotovo\")</string>
   <string name="button_import">Uvezi</string>
   <string name="button_light_timeout">Trajanje osvjetljenja tipaka</string>
   <string name="button_next">Dalje</string>
+  <string name="button_normal_text">Regularna tipka</string>
   <string name="button_ok">U redu</string>
   <string name="button_quit">Izlaz</string>
   <string name="button_return">Natrag</string>
@@ -1969,6 +1971,7 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="check_importance_dialog_cancel">Odustani</string>
   <string name="check_update">Provjeri ažuriranja</string>
   <string name="checkbox_notification_same_as_incoming_call">Koristi glasnoću dolaznog poziva za obavijesti</string>
+  <string name="checkbox_text">Promjeni</string>
   <string name="checking_decryption">Provjeravanje…</string>
   <string name="checking_find_device_status">Provjera statusa Pronađi uređaj…</string>
   <string name="checking_for_updates">Provjera ažuriranja…</string>
@@ -2087,7 +2090,7 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="color_led_end_time">Vrijeme završetka</string>
   <string name="color_led_game_mode_summary">Prikaži efekte za igre kada je Game Turbo uključen</string>
   <string name="color_led_game_mode_title">Koristi za Game Turbo</string>
-  <string name="color_led_hint">Odaberite scenarije kada treba koristiti LED svjetlo. LED svjetlo će zasvijetliti kada je zaslon okrenut prema dolje i Ne ometaj je isključen.</string>
+  <string name="color_led_hint">Odaberite scenarije kada treba koristiti LED svjetlo. LED svjetlo će zasvijetliti kada je zaslon okrenut prema dolje i DND je isključen.</string>
   <string name="color_led_incall_pulse_title">Koristi za dolazne pozive</string>
   <string name="color_led_lucky_dialog_message">Ova značajka zahtijeva upotrebu pomoćnika Red envelope. Uključiti sada?</string>
   <string name="color_led_lucky_dialog_title">Uključi Red envelope pomoćnika</string>
@@ -2099,7 +2102,7 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="color_led_red_packets_summary">Prikaži efekte za Crvene omotnice od WeChat-a i QQ-a kada je uključen pomoćnik Crvene omotnice</string>
   <string name="color_led_special_scene_title">Specijalni efekti</string>
   <string name="color_led_start_time">Vrijeme početka</string>
-  <string name="color_led_summary">"Ne radi u načinu Ne ometaj"</string>
+  <string name="color_led_summary">"Ne radi u načinu DND"</string>
   <string name="color_led_title">LED svjtlo</string>
   <string name="color_magenta">Grimizna</string>
   <string name="color_mode_option_automatic">Prilagodljivo</string>
@@ -2151,7 +2154,7 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="condition_hotspot_title">Hotspot je aktivan</string>
   <string name="condition_night_display_summary">Zaslon je obojen žuto. To bi vam moglo pomoći da zaspite.</string>
   <string name="condition_night_display_title">Noćno je svjetlo uključeno</string>
-  <string name="condition_provider_security_warning_summary">Davatelj uvjeta %1$s moći će dodati uvjete za izlaz načinu Ne ometaj.</string>
+  <string name="condition_provider_security_warning_summary">Davatelj uvjeta %1$s moći će dodati uvjete za izlaz načinu DND.</string>
   <string name="condition_provider_security_warning_title">Želite li omogućiti uslugu %1$s?</string>
   <string name="condition_turn_off">Isključi</string>
   <string name="condition_turn_on">Uključi</string>
@@ -2397,6 +2400,7 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="custom_gesture_title">Vlastite geste</string>
   <string name="custom_wifi_name_title">Uredi naziv Wi-Fi-ja</string>
   <string name="customize_function">Dostupni uzorci</string>
+  <string name="customize_knock_gesture">Prilagođene geste zglobovima prstiju</string>
   <string name="cutout_mode_always">Uvijek prikaži urez</string>
   <string name="cutout_mode_default">Autom.</string>
   <string name="cutout_mode_settings_title">Neke aplikacije mogu se prikazati pogrešno ako prilagodite način prikaza ureza.</string>
@@ -2969,25 +2973,25 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dndm_alarm_content_event_and_sms">Upozorenja i poruke</string>
   <string name="dndm_alarm_content_not_all">Sve dopušteno</string>
   <string name="dndm_alarm_content_sms">Poruke</string>
-  <string name="dndm_auto_button_title">Ponovi \"Ne ometaj“\ vrijeme</string>
+  <string name="dndm_auto_button_title">Ponovi \"DND“\ vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
   <string name="dndm_auto_time_turn_off">Do</string>
-  <string name="dndm_auto_time_turn_off_title">Automatski isključi \"Ne ometaj“\</string>
+  <string name="dndm_auto_time_turn_off_title">Automatski isključi \"DND“\</string>
   <string name="dndm_auto_time_turn_on">Od</string>
-  <string name="dndm_auto_time_turn_on_title">Automatski uključi \"Ne ometaj“\</string>
+  <string name="dndm_auto_time_turn_on_title">Automatski uključi \"DND“\</string>
   <string name="dndm_dlg_remove_ok">Ukloni</string>
   <string name="dndm_dlg_remove_vip">Ukloni sa popisa iznimaka?</string>
   <string name="dndm_menu_add_vip_custom">Dodaj</string>
   <string name="dndm_mute_all">Utišaj pozive i poruke</string>
-  <string name="dndm_notification">\"Ne ometaj“\ omogućeno</string>
-  <string name="dndm_open">Ne ometaj</string>
+  <string name="dndm_notification">\"DND“\ omogućeno</string>
+  <string name="dndm_open">DND</string>
   <string name="dndm_repeated_call_setting_title">Ponovljeni pozivi</string>
   <string name="dndm_repeated_call_summary_3min">Ako vas isti pozivatelj nazove ponovno unutar 3 minute, telefon će zazvoniti</string>
   <string name="dndm_repeated_call_summary_none">Utišaj ponovljene pozive od istog broja</string>
   <string name="dndm_special_call_setting_group">Iznimke</string>
-  <string name="dndm_summary">Kada je omogućeno \"Ne ometaj“\, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
-  <string name="dndm_summary_for_pad">Obavijesti koje dođu dok je Ne ometaj način uključen će biti utišane.</string>
+  <string name="dndm_summary">Kada je omogućeno \"DND“\, pozivi i obavijesti pristigli dok je telefon zaključan biti će utišani.</string>
+  <string name="dndm_summary_for_pad">Obavijesti koje dođu dok je DND način uključen će biti utišane.</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Dopusti pozive od iznimaka</string>
@@ -3004,13 +3008,13 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dndm_vip_list_starred_contact">Svi označeni kontakti</string>
   <string name="dndm_vip_user_setting_title">Popis iznimaka</string>
   <string name="dndm_wristband">Aktiviraj sa Mi Bandom</string>
-  <string name="dndm_wristband_detailed">"Uključite Ne ometaj ako Mi Band otkrije da spavate u roku od sat vremena prije zakazanog vremena početka"</string>
-  <string name="dndm_wristband_detailed2">"Isključite Ne ometaj ako Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
+  <string name="dndm_wristband_detailed">"Uključite DND ako Mi Band otkrije da spavate u roku od sat vremena prije zakazanog vremena početka"</string>
+  <string name="dndm_wristband_detailed2">"Isključite DND ako Mi Band otkrije da ste budni se u roku od sat vremena prije zakazanog vremena završetka"</string>
   <string name="do_disclosure_generic">Ovim uređajem upravlja vaša organizacija.</string>
   <string name="do_disclosure_learn_more">Saznajte više</string>
   <string name="do_disclosure_learn_more_separator">" "</string>
   <string name="do_disclosure_with_name">Ovim uređajem upravlja %s.</string>
-  <string name="do_not_disturb_mode">Ne ometaj</string>
+  <string name="do_not_disturb_mode">DND</string>
   <string name="dock_audio_media_disabled">Sve zvukove</string>
   <string name="dock_audio_media_enabled">Samo medijske zvukove</string>
   <string name="dock_audio_media_title">Priključna stanica reproducira</string>
@@ -3542,7 +3546,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="filter_notif_all_apps">Aplikacije: sve</string>
   <string name="filter_notif_blocked_apps">Isključeno</string>
   <string name="filter_notif_blocked_channels">Kategorije: isključene</string>
-  <string name="filter_notif_dnd_channels">Kat.: nadjačav. način Ne ometaj.</string>
+  <string name="filter_notif_dnd_channels">Kat.: nadjačav. način DND.</string>
   <string name="filter_notif_hide_notifications_apps">Nikad na zaključanom zaslonu</string>
   <string name="filter_notif_low_channels">Kategorije: mala važnost</string>
   <string name="filter_notif_no_peeking">Onemogućeno zavirivanje</string>
@@ -3839,6 +3843,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="game_mode_settings">Način za igre</string>
   <string name="game_mode_summary">Poboljšajte performanse za igre dok ograničavate sinkronizaciju i pozadinsku mrežnu vezu za druge aplikacije.</string>
   <string name="game_storage_settings">Igre</string>
+  <string name="general_text">Polje za tekst</string>
+  <string name="general_time">"Vrijeme: %1$d:%2$d. Duge vibracije predstavljaju sate, kratke vibracije predstavljaju minute. Uslijedit će kratka stanka između sati i minuta. Dvaput dodirnite za pokušaj."</string>
   <string name="gentle_notifications_also_display">Prikaži i na</string>
   <string name="gentle_notifications_display_lock">Na zaključanom zaslonu</string>
   <string name="gentle_notifications_display_status">Traka statusa</string>
@@ -3962,6 +3968,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="handy_mode_tips_full_screen">"Kada koristite geste na cijelom zaslonu, možete uključiti Rad jednom rukom pomoću Izbornika Prečaca. Možete se prebaciti i na tipke umjesto gestama cijelog zaslona.."</string>
   <string name="haptic_agent_completion_01_content_description">Izvršen zadatak</string>
   <string name="haptic_cursor_movement_07_content_description">Podešavanje svjetline</string>
+  <string name="haptic_experience">Demo</string>
+  <string name="haptic_experience_details">Haptična povratna inf. &amp; pristupačnost</string>
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
   <string name="haptic_feedback_level">Razina vibracije</string>
   <string name="haptic_feedback_progress">Razina hap. pov. informacije</string>
@@ -3979,6 +3987,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="haptic_return_gesture_05_content_description">Natrag</string>
   <string name="haptic_shutdown_menu_06_content_description">Izbornik isključivanja</string>
   <string name="haptic_single_selection_02_content_description">Odabrana stavka</string>
+  <string name="haptic_switch_summary">Primajte haptične povratne informacije o odabranim stavkama kad je Snimač zaslona uključen</string>
+  <string name="haptic_switch_title">Haptična povratna inf.</string>
   <string name="haptic_text_edit_popup_13_content_description">Pop-up Izbornik</string>
   <string name="haptic_upper_right_menu_15_content_description">Padajući izbornik</string>
   <string name="haptic_volume_adjustment_14_content_description">Podešavanje glasnoće</string>
@@ -4020,6 +4030,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="headset_unsaved_devices">Ne spremaj, povežite se na svoj račun na drugom telefonu</string>
   <string name="hearing_aids_category">Slušni pomoćni alati</string>
   <string name="heavy_weight_stop_description">Ova se aplikacija ne može sigurno zaustaviti. Ako je zaustavite, mogli biste izgubiti trenutačan rad.</string>
+  <string name="height_light_list_text">Popis važnih stavki</string>
   <string name="help_and_feedback_title">Pomoć i povratne inf.</string>
   <string name="help_feedback_label">Pomoć i povratne informacije</string>
   <string name="help_label">Pomoć/povratne inf.</string>
@@ -4234,6 +4245,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pattern_hint_text">Iscrtajte obrazac otključavanja</string>
   <string name="input_settings">Postavke unosa</string>
+  <string name="input_text">Traka za unos teksta</string>
   <string name="install_all_warning">Vaš uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
   <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
@@ -4495,6 +4507,17 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="kid_space_settings">Dječji prostor</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
+  <string name="knock_edge_area_invalid">"Ova gesta ne funkcionira blizu rubova zaslona"</string>
+  <string name="knock_guide_dialog_title">Odaberite radnju za ovu gestu. Kasnije ga možete promijeniti u Postavke &gt; Dodatne postavke &gt; Prečaci tipki.</string>
+  <string name="knock_guide_drive_desc">Snimajte snimke zaslona tijekom vožnje</string>
+  <string name="knock_guide_launch_desc">Pokrenite Mi AI kada vaš telefon leži na stolu</string>
+  <string name="knock_guide_set_screenshot">Snimka zaslona</string>
+  <string name="knock_guide_set_voiceassist">Mi AI</string>
+  <string name="knock_guide_sub_title">Možete pokrenuti Mi AI ili napraviti snimke zaslona tapkajući zaslon zglobom prsta</string>
+  <string name="knock_guide_title">Dvostruki dodir zglobom prsta</string>
+  <string name="knock_long_press_horizontal_slid">Pritisnite i povucite zglobom prsta vodoravno</string>
+  <string name="knock_slide_shape">Nacrtajte krug zglobom prsta</string>
+  <string name="knock_slide_v">Nacrtajte V zglobom prsta</string>
   <string name="lab_functions_title">Beta značajke</string>
   <string name="label_available">Dostupne mreže</string>
   <string name="label_global_roaming_settings">Roaming postavke</string>
@@ -5005,7 +5028,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="manage_trust_agents">Pouzdani predstavnici</string>
   <string name="manage_trust_agents_summary">Prikaz ili deaktivacija pouzdanih predstavnika</string>
   <string name="manage_xiaomi_router">Mi Router postavke</string>
-  <string name="manage_zen_access_title">Pristup opciji Ne ometaj</string>
+  <string name="manage_zen_access_title">Pristup opciji DND</string>
   <string name="manageapplications_settings_summary">Upravljanje instaliranim aplikacijama i njihovo uklanjanje</string>
   <string name="manageapplications_settings_title">Upravljanje aplikacijama</string>
   <string name="managed_device_admin_title">Posao</string>
@@ -5295,7 +5318,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miui_allow_music">Glazba</string>
   <string name="miui_allow_vibrate">Vibracija</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
-  <string name="miui_disturb_title">Ne ometaj</string>
+  <string name="miui_disturb_title">DND</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
   <string name="miui_face_enroll_success">"Ovaj uređaj sada možete otključati koristeći svoje lice.
@@ -6045,10 +6068,10 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne uznemirava
   <string name="notification_importance_unspecified">Dopusti zvuk</string>
   <string name="notification_listener_disable_warning_cancel">Odustani</string>
   <string name="notification_listener_disable_warning_confirm">Isključi</string>
-  <string name="notification_listener_disable_warning_summary">Ako isključite pristup obavijesti za %1$s, pristup Ne ometaj također može biti isključen.</string>
+  <string name="notification_listener_disable_warning_summary">Ako isključite pristup obavijesti za %1$s, pristup DND također može biti isključen.</string>
   <string name="notification_listener_security_warning_summary">"Aplikacija %1$s moći će čitati sve obavijesti, uključujući osobne podatke kao što su imena kontakata i tekst poruka koje primate. Moći će i odbacivati obavijesti ili pokretati gumbe za radnje koje obavijesti sadrže. 
 
-Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i promijeniti povezane postavke."</string>
+Aplikacija će također moći uključiti ili isključiti značajku DND i promijeniti povezane postavke."</string>
   <string name="notification_listener_security_warning_title">Želite li dopustiti usluzi %1$s pristup obavijestima?</string>
   <string name="notification_log_channel">channel</string>
   <string name="notification_log_details_actions">radnje</string>
@@ -6128,7 +6151,7 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne ometaj i p
   <string name="notifications_label">Obavijesti</string>
   <string name="notifications_no_peeking">Onemogućeno zavirivanje</string>
   <string name="notifications_partly_blocked">Isklj. sljedeći br. kat: %1$d od %2$d</string>
-  <string name="notifications_priority">Nadjačana je opcija Ne ometaj</string>
+  <string name="notifications_priority">Nadjačana je opcija DND</string>
   <string name="notifications_redacted">Osjetljiv sadržaj nije na Zaklj. zaslonu</string>
   <string name="notifications_sensitive">Skriven osjetljivi sadržaj</string>
   <string name="notifications_sent_daily">~%1$s dnevno</string>
@@ -6401,14 +6424,14 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="path_device_name">Postavke/O uređaju/Naziv uređaja</string>
   <string name="path_device_status">Postavke/O uređaju/Status</string>
   <string name="path_display_settings">Postavke/Zaslon</string>
-  <string name="path_dndm_alarm_content">Postavke/Ne ometaj/Iznimke</string>
-  <string name="path_dndm_auto_button_title">Postavke/Ne ometaj/Postavi vrijeme</string>
-  <string name="path_dndm_auto_time_setting">Postavke/Ne ometaj/Postavi vrijeme</string>
-  <string name="path_dndm_open">Postavke/Ne ometaj/Ne ometaj</string>
-  <string name="path_dndm_repeated_call_setting_title">Postavke/Ne ometaj/Ponovi pozivatelje</string>
-  <string name="path_dndm_vip_call_setting_title">Postavke/Ne ometaj/Iznimke</string>
-  <string name="path_dndm_wristband">Postavke/Ne ometaj/Aktiviraj sa Mi Bandom</string>
-  <string name="path_do_not_disturb_settings">Postavke/Ne ometaj</string>
+  <string name="path_dndm_alarm_content">Postavke/DND/Iznimke</string>
+  <string name="path_dndm_auto_button_title">Postavke/DND/Postavi vrijeme</string>
+  <string name="path_dndm_auto_time_setting">Postavke/DND/Postavi vrijeme</string>
+  <string name="path_dndm_open">Postavke/DND/DND</string>
+  <string name="path_dndm_repeated_call_setting_title">Postavke/DND/Ponovi pozivatelje</string>
+  <string name="path_dndm_vip_call_setting_title">Postavke/DND/Iznimke</string>
+  <string name="path_dndm_wristband">Postavke/DND/Aktiviraj sa Mi Bandom</string>
+  <string name="path_do_not_disturb_settings">Postavke/DND</string>
   <string name="path_dtmf_tone_enable_title">Postavke/Zvuk &amp; vibracija/Tonovi biranja</string>
   <string name="path_edge_handgrip">Postavke/Kontrole ruba</string>
   <string name="path_enable_adb">Postavke/Dodatne postavk/Developer opcije/USB ispravljanje grešaka</string>
@@ -6594,6 +6617,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="photo_data">Fotografije i videozapisi</string>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
   <string name="pick_up_gesture_wakeup_title">Podignite uređaj da ga uključite</string>
+  <string name="picker_text">Birač vremena</string>
   <string name="pico_installed">Instalirano</string>
   <string name="pico_languages_and_voices">Jezici i glasovi</string>
   <string name="pico_not_installed">Nije instalirano</string>
@@ -7060,8 +7084,8 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="quick_settings_label">Prečaci</string>
   <string name="quick_settings_under_keyguard_summary">Omogući pristup brzim postavkama dok je uređaj zaključan</string>
   <string name="quick_settings_under_keyguard_title">Pristup brzim postavkama</string>
-  <string name="quiet">Ne ometaj</string>
-  <string name="quiet_group">Ne ometaj</string>
+  <string name="quiet">DND</string>
+  <string name="quiet_group">DND</string>
   <string name="quiet_important_interruptions_mode">Dopusti samo iznimkama</string>
   <string name="quiet_mode">Utišaj sve smetnje</string>
   <string name="quiet_no_interruptions_mode">Utišaj sve smetnje</string>
@@ -7727,13 +7751,13 @@ Da biste upotrijebili prikvačivanje aplikacije: \u0009
   <string name="search_display_settings">Zaslon;Zaslon;Ambijentalno svjetlo;Džep;Džepno biranje;Temperatura boje;Boja;Boje;Zasićenje;Auto-rotiraj;Autom. rotiraj;Autom. rotiraj;Rotiraj zaslon;Svjetlina;Font;Fontovi;Veličina fonta</string>
   <string name="search_dndm_alarm_content">Iznimke</string>
   <string name="search_dndm_auto_button_title">Postavi vrijeme</string>
-  <string name="search_dndm_auto_time_setting">Postavi vrijeme;Ne ometaj</string>
-  <string name="search_dndm_open">Ne ometaj;Ne ometaj;Uključi Ne ometaj</string>
+  <string name="search_dndm_auto_time_setting">Postavi vrijeme;DND</string>
+  <string name="search_dndm_open">DND;DND;Uključi DND</string>
   <string name="search_dndm_repeated_call_setting_title">Ponovi pozivatelje;Ponovljeni pozivi</string>
   <string name="search_dndm_vip_call_setting_title">VIP;Iznimke;Lista dopuštenih;Lista dopuštenih</string>
   <string name="search_dndm_wristband">Aktiviraj s Mi Band;Mi Band</string>
-  <string name="search_do_not_disturb">Ne ometaj;Ne ometaj;VIP;Postavi vrijeme;Iznimke;Ponovljeni pozivi</string>
-  <string name="search_do_not_disturb_mode">Ne ometaj</string>
+  <string name="search_do_not_disturb">DND;DND;VIP;Postavi vrijeme;Iznimke;Ponovljeni pozivi</string>
+  <string name="search_do_not_disturb_mode">DND</string>
   <string name="search_doze_always_on_title">Always-on</string>
   <string name="search_dtmf_tone_enable_title">Uključi Tonove biranja;Tonovi biranja;tonovi dodira;tonovi dodira;Tonovi biranja;Tonovi biranja</string>
   <string name="search_edge_handgrip">Kontrole ruba</string>
@@ -8115,6 +8139,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="see_less">Prikaži manje</string>
   <string name="see_more">Prikaži više</string>
   <string name="seek_bar_info">Prilagodite veličinu</string>
+  <string name="seekbar_text">Klizač</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_automatically">Automatski odaberi mrežu</string>
@@ -8541,7 +8566,7 @@ Prije upotrebe naših usluga, pročitajte i prihvatite naše %s."</string>
   <string name="sound_category_notification_title">Obavijesti</string>
   <string name="sound_category_sound_title">Općenito</string>
   <string name="sound_category_system_title">Sustav</string>
-  <string name="sound_dashboard_summary">Glasnoća, vibracija, Ne ometaj</string>
+  <string name="sound_dashboard_summary">Glasnoća, vibracija, DND</string>
   <string name="sound_effects_enable_title">Zvukovi dodira</string>
   <string name="sound_haptic_settings">Zvuk &amp; dodir</string>
   <string name="sound_mode">Silent mode &amp; DND</string>
@@ -9070,6 +9095,9 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="switchNetworkToast">Povezivanje s mobilnim mrežama može generirati dodatne naknade</string>
   <string name="switch_access_service_on">Promjena pristupa</string>
   <string name="switch_bootup_sound">Boot audio</string>
+  <string name="switch_headset_anti_lost">Upozorenje: nedostaje slušalica</string>
+  <string name="switch_headset_anti_lost_summary">Primite upozorenje kad god je jedna od vaših slušalica udaljena od uha ili kućišta za punjenje dulje od minute</string>
+  <string name="switch_headset_anti_lost_title">Upozorenje: nedostaje slušalica</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
   <string name="switch_screen_button_order">Zamijeni tipke</string>
@@ -9130,6 +9158,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="systemui_theme_dark">Tamno</string>
   <string name="systemui_theme_light">Svijetlo</string>
   <string name="systemui_theme_wallpaper">Automatski (na temelju pozadine)</string>
+  <string name="tab_text">Kartica</string>
   <string name="take_call_on_title">Preuzmi poziv na uređaju</string>
   <string name="talkback_summary">Čitač zaslona namijenjen prvenstveno slijepim i slabovidnim osobama</string>
   <string name="talkback_title">TalkBack</string>
@@ -10668,6 +10697,8 @@ Ovu značajku možete isključiti u Postavke &gt; Wi-Fi &gt; Dodatne postavke.</
   <string name="wifi_enable_data_and_wifi_roam_summary">Drži podatke i Wi-Fi uključenim za prebacivanje na podatke kada je Wi-Fi veza loša.</string>
   <string name="wifi_enable_hs2_title">Passpoint uključen</string>
   <string name="wifi_enable_watchdog_service_summary">Izbjegavaj slabe veze</string>
+  <string name="wifi_enhanced_handover">Poboljšano prebacivanje</string>
+  <string name="wifi_enhanced_handover_summary">Brzo se prebacujte između AP-a istim načinom šifriranja</string>
   <string name="wifi_enhanced_mac_randomization">Nasum. odabir MAC-a poboljšan Wi-Fi-jem</string>
   <string name="wifi_enhanced_mac_randomization_summary">Kad je ovaj način omogućen, MAC adresa ovog uređaja može se promijeniti svaki put kada se poveže s mrežom koja ima omogućenu MAC slučajnost.</string>
   <string name="wifi_error">Pogreška</string>
@@ -11166,13 +11197,13 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="xspace">Dvojne aplikacije</string>
   <string name="yes">Da</string>
   <string name="you_wont_see_this">:)</string>
-  <string name="zen_access_detail_switch">Dopusti Ne ometaj</string>
+  <string name="zen_access_detail_switch">Dopusti DND</string>
   <string name="zen_access_disabled_package_warning">Mora ostati uključen jer je pristup obavijest uključen</string>
-  <string name="zen_access_empty_text">Nijedna instalirana aplikacija nije zatražila pristup opciji Ne ometaj</string>
-  <string name="zen_access_revoke_warning_dialog_summary">Uklonit će se sva pravila Ne ometaj koja je postavila ova aplikacija.</string>
-  <string name="zen_access_revoke_warning_dialog_title">Želite li opozvati pristup opciji Ne ometaj za aplikaciju %1$s?</string>
-  <string name="zen_access_warning_dialog_summary">Aplikacija će moći uključiti ili isključiti opciju Ne ometaj i mijenjati povezane postavke.</string>
-  <string name="zen_access_warning_dialog_title">Želite li dopustiti aplikaciji %1$s pristup opciji Ne ometaj?</string>
+  <string name="zen_access_empty_text">Nijedna instalirana aplikacija nije zatražila pristup opciji DND</string>
+  <string name="zen_access_revoke_warning_dialog_summary">Uklonit će se sva pravila DND koja je postavila ova aplikacija.</string>
+  <string name="zen_access_revoke_warning_dialog_title">Želite li opozvati pristup opciji DND za aplikaciju %1$s?</string>
+  <string name="zen_access_warning_dialog_summary">Aplikacija će moći uključiti ili isključiti opciju DND i mijenjati povezane postavke.</string>
+  <string name="zen_access_warning_dialog_title">Želite li dopustiti aplikaciji %1$s pristup opciji DND?</string>
   <string name="zen_alarm_warning">Nećete čuti sljedeći alarm %1$s</string>
   <string name="zen_alarm_warning_indef">Nećete čuti sljedeći alarm %1$s ako to ne isključite prije njega</string>
   <string name="zen_calls_summary_contacts_repeat">Kontakti i ponovni pozivatelji</string>
@@ -11189,7 +11220,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_custom_settings_dialog_title">Prilagođene postavke</string>
   <string name="zen_custom_settings_duration_header">Trajanje</string>
   <string name="zen_custom_settings_notifications_header">Obavijesti</string>
-  <string name="zen_event_rule_enabled_toast">Automatsko pravilo postavljeno je na uključivanje opcije \"Ne ometaj\" tijekom navedenih događaja</string>
+  <string name="zen_event_rule_enabled_toast">Automatsko pravilo postavljeno je na uključivanje opcije \"DND\" tijekom navedenih događaja</string>
   <string name="zen_event_rule_type_name">Događaj</string>
   <string name="zen_interruption_level_priority">Samo prioritetno</string>
   <string name="zen_mode_add">Dodaj</string>
@@ -11209,14 +11240,14 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_all_visual_interruptions">Isključeno</string>
   <string name="zen_mode_always">Uvijek</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
-  <string name="zen_mode_app_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Aplikacija %1$s automatski je uključila način Ne ometaj s prilagođenim ponašanjem.</string>
+  <string name="zen_mode_app_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Aplikacija %1$s automatski je uključila način DND s prilagođenim ponašanjem.</string>
   <string name="zen_mode_apps_bypassing_list_count">još %d</string>
   <string name="zen_mode_auto_rule">Raspored DND sesije</string>
   <string name="zen_mode_automatic_rule_settings_page_title">Raspored</string>
   <string name="zen_mode_automation_category">Automatizacija</string>
   <string name="zen_mode_automation_settings_page_title">Rasporedi</string>
   <string name="zen_mode_automation_settings_title">Rasporedi</string>
-  <string name="zen_mode_automation_suggestion_summary">Postavite pravila za način Ne ometaj</string>
+  <string name="zen_mode_automation_suggestion_summary">Postavite pravila za način DND</string>
   <string name="zen_mode_automation_suggestion_title">Utišaj telefon u određeno vrijeme</string>
   <string name="zen_mode_behavior_alarms_only">Zvukovi alarma i medija mogu prekidati</string>
   <string name="zen_mode_behavior_allow_title">Dopusti zvukove i vibracije od</string>
@@ -11275,7 +11306,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_custom_behavior_category_title">Za \"%1$s\"</string>
   <string name="zen_mode_custom_behavior_summary">Izradite prilagođene postavke za ovaj raspored</string>
   <string name="zen_mode_custom_behavior_summary_default">Upotrijebi zadane postavke</string>
-  <string name="zen_mode_custom_behavior_title">Način Ne ometaj</string>
+  <string name="zen_mode_custom_behavior_title">Način DND</string>
   <string name="zen_mode_custom_calls_footer">Za raspored \"%1$s\" dolazni su pozivi blokirani. Možete prilagoditi postavke da bi vaša obitelj, prijatelji ili drugi kontakti mogli stupiti u kontakt s vama.</string>
   <string name="zen_mode_custom_messages_footer">Dolazne su poruke blokirane za raspored \"%1$s\". Možete prilagoditi postavke da bi vaša obitelj, prijatelji ili drugi kontakti mogli stupiti u kontakt s vama.</string>
   <string name="zen_mode_default_option">Dok to ne isključite</string>
@@ -11336,7 +11367,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_messages_header">Poruke koje mogu prekidati</string>
   <string name="zen_mode_messages_list">poruke</string>
   <string name="zen_mode_messages_title">Poruke</string>
-  <string name="zen_mode_miui_disturb_category">Ne ometaj</string>
+  <string name="zen_mode_miui_disturb_category">DND</string>
   <string name="zen_mode_miui_silent_category">Dopusti</string>
   <string name="zen_mode_more_actions">Više DND opcija</string>
   <string name="zen_mode_no_exceptions">Ništa</string>
@@ -11346,7 +11377,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_option_alarms">Samo alarmi</string>
   <string name="zen_mode_option_important_interruptions">Samo prioritetno</string>
   <string name="zen_mode_option_miui_silent">Bešumni način</string>
-  <string name="zen_mode_option_miui_vibrate">Ne ometaj</string>
+  <string name="zen_mode_option_miui_vibrate">DND</string>
   <string name="zen_mode_option_no_interruptions">Potpuna tišina</string>
   <string name="zen_mode_option_off">Uvijek prekidaj</string>
   <string name="zen_mode_option_title">Kada stignu pozivi i obavijesti</string>
@@ -11360,7 +11391,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_people_some">Neke osobe mogu prekidati</string>
   <string name="zen_mode_phone_calls">Pozivi</string>
   <string name="zen_mode_priority_settings_title">Prioritetni način dopušta samo sljedeće</string>
-  <string name="zen_mode_qs_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Način Ne ometaj ručno je uključen s prilagođenim ponašanjem.</string>
+  <string name="zen_mode_qs_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Način DND ručno je uključen s prilagođenim ponašanjem.</string>
   <string name="zen_mode_reminders">Podsjetnici</string>
   <string name="zen_mode_reminders_list">podsjetnici</string>
   <string name="zen_mode_reminders_list_first">Podsjetnici</string>
@@ -11370,14 +11401,14 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_mode_repeat_callers_list">ponovni pozivatelji</string>
   <string name="zen_mode_repeat_callers_summary">Ako ista osoba nazove drugi put unutar %d min</string>
   <string name="zen_mode_repeat_callers_title">Dopusti ponovne pozivatelje</string>
-  <string name="zen_mode_restrict_notifications_category">Kad je uključena značajka Ne ometaj</string>
+  <string name="zen_mode_restrict_notifications_category">Kad je uključena značajka DND</string>
   <string name="zen_mode_restrict_notifications_custom">Prilagođeno</string>
   <string name="zen_mode_restrict_notifications_disable_custom">Ukloni prilagođenu postavku</string>
   <string name="zen_mode_restrict_notifications_enable_custom">Omogući prilagođenu postavku</string>
   <string name="zen_mode_restrict_notifications_hide">Bez vizualnih i zvučnih signala obavijesti</string>
   <string name="zen_mode_restrict_notifications_hide_footer">"Telefon neće prikazati nove ili postojeće obavijesti niti će za njih vibrirati ili zvoniti. No ključne obavijesti koje se odnose na aktivnost i status telefona i dalje će se prikazivati.
 
-Kada isključite način \"Ne ometaj\", propuštene obavijesti pronaći ćete tako da prijeđete od vrha zaslona prema dolje."</string>
+Kada isključite način \"DND\", propuštene obavijesti pronaći ćete tako da prijeđete od vrha zaslona prema dolje."</string>
   <string name="zen_mode_restrict_notifications_hide_summary">Obavijesti se neće prikazivati niti davati zvučne signale</string>
   <string name="zen_mode_restrict_notifications_mute">Bez zvuka obavijesti</string>
   <string name="zen_mode_restrict_notifications_mute_footer">Kada obavijesti stignu, telefon neće davati zvučne signale niti vibrirati.</string>
@@ -11408,25 +11439,25 @@ Kada isključite način \"Ne ometaj\", propuštene obavijesti pronaći ćete tak
   <string name="zen_mode_schedule_title">Raspored</string>
   <string name="zen_mode_screen_locked_only">Kada je uređaj isključen</string>
   <string name="zen_mode_screen_off">Kada je zaslon isključen</string>
-  <string name="zen_mode_screen_off_summary">Obavijesti utišane opcijom Ne ometaj uključit će zaslon i aktivirati svjetlosni signal</string>
-  <string name="zen_mode_screen_off_summary_no_led">Obavijesti utišane opcijom Ne ometaj uključit će zaslon</string>
+  <string name="zen_mode_screen_off_summary">Obavijesti utišane opcijom DND uključit će zaslon i aktivirati svjetlosni signal</string>
+  <string name="zen_mode_screen_off_summary_no_led">Obavijesti utišane opcijom DND uključit će zaslon</string>
   <string name="zen_mode_screen_off_visual_interruptions">Kada je zaslon isključen</string>
   <string name="zen_mode_screen_on">Kada je zaslon uključen</string>
-  <string name="zen_mode_screen_on_summary">Obavijesti utišane opcijom Ne ometaj pojavit će se na zaslonu i prikazati ikonu trake statusa</string>
+  <string name="zen_mode_screen_on_summary">Obavijesti utišane opcijom DND pojavit će se na zaslonu i prikazati ikonu trake statusa</string>
   <string name="zen_mode_screen_on_visual_interruptions">Kada je zaslon uključen</string>
   <string name="zen_mode_selected_callers">Odabrani pozivatelji</string>
   <string name="zen_mode_selected_messages">Neke poruke</string>
   <string name="zen_mode_settings_category">Dopusti ometanja koja proizvode zvuk</string>
-  <string name="zen_mode_settings_dnd_automatic_rule">Raspored %s automatski je uključio Ne ometaj</string>
-  <string name="zen_mode_settings_dnd_automatic_rule_app">Način Ne ometaj automatski je uključila aplikacija (%s)</string>
-  <string name="zen_mode_settings_dnd_custom_settings_footer">Način Ne ometaj uključen je za %s uz prilagođene postavke.</string>
+  <string name="zen_mode_settings_dnd_automatic_rule">Raspored %s automatski je uključio DND</string>
+  <string name="zen_mode_settings_dnd_automatic_rule_app">Način DND automatski je uključila aplikacija (%s)</string>
+  <string name="zen_mode_settings_dnd_custom_settings_footer">Način DND uključen je za %s uz prilagođene postavke.</string>
   <string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt;Pregledajte prilagođene postavke&lt;/annotation&gt;</string>
-  <string name="zen_mode_settings_dnd_manual_end_time">Način Ne ometaj uključen je do %s</string>
-  <string name="zen_mode_settings_dnd_manual_indefinite">Način Ne ometaj ostat će uključen dok ga ne isključite</string>
+  <string name="zen_mode_settings_dnd_manual_end_time">Način DND uključen je do %s</string>
+  <string name="zen_mode_settings_dnd_manual_indefinite">Način DND ostat će uključen dok ga ne isključite</string>
   <string name="zen_mode_settings_summary">Primajte obavijesti samo od važnih osoba i aplikacija</string>
   <string name="zen_mode_settings_summary_off">Ništa</string>
-  <string name="zen_mode_settings_title">Ne ometaj</string>
-  <string name="zen_mode_settings_turn_on_dialog_title">Uključite opciju Ne ometaj.</string>
+  <string name="zen_mode_settings_title">DND</string>
+  <string name="zen_mode_settings_turn_on_dialog_title">Uključite opciju DND.</string>
   <string name="zen_mode_slice_subtitle">Ograničavanje prekida</string>
   <string name="zen_mode_sound_summary_off">Isključeno</string>
   <string name="zen_mode_sound_summary_off_with_info">Isključeno/%1$s</string>
@@ -11449,7 +11480,7 @@ Kada isključite način \"Ne ometaj\", propuštene obavijesti pronaći ćete tak
   <string name="zen_mode_title">Do not disturb</string>
   <string name="zen_mode_turned_off">Off</string>
   <string name="zen_mode_turned_on">On</string>
-  <string name="zen_mode_unknown_app_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Neka je aplikacija automatski uključila način Ne ometaj s prilagođenim ponašanjem.</string>
+  <string name="zen_mode_unknown_app_set_behavior">Te se postavke trenutačno ne mogu promijeniti. Neka je aplikacija automatski uključila način DND s prilagođenim ponašanjem.</string>
   <string name="zen_mode_use_automatic_rule">Koristi raspored</string>
   <string name="zen_mode_visual_interruptions_settings_title">Blokiranje vizualnih ometanja</string>
   <string name="zen_mode_visual_signals_settings_subtitle">Dopusti vizualne signale</string>
@@ -11458,7 +11489,7 @@ Kada isključite način \"Ne ometaj\", propuštene obavijesti pronaći ćete tak
   <string name="zen_mode_when_every_night">Svake noći</string>
   <string name="zen_mode_when_never">Nikada</string>
   <string name="zen_mode_when_weeknights">Noći radnih dana</string>
-  <string name="zen_msg_event_reminder_footer">Kada je način Ne ometaj uključen, zanemarit će se poruke, podsjetnici i događaji, osim prethodno navedenih stavki koje dopustite. Možete prilagoditi postavke poruka da bi vaša obitelj, prijatelji ili drugi kontakti mogli stupiti u kontakt s vama.</string>
+  <string name="zen_msg_event_reminder_footer">Kada je način DND uključen, zanemarit će se poruke, podsjetnici i događaji, osim prethodno navedenih stavki koje dopustite. Možete prilagoditi postavke poruka da bi vaša obitelj, prijatelji ili drugi kontakti mogli stupiti u kontakt s vama.</string>
   <string name="zen_msg_event_reminder_title">Poruke, događaji i podsjetnici</string>
   <string name="zen_onboarding_current_setting_summary">(Trenutačna postavka)</string>
   <string name="zen_onboarding_current_setting_title">Bez zvuka obavijesti</string>
@@ -11469,7 +11500,7 @@ Ažurirajte postavke da:
 - Sakrijete obavijesti u potpunosti
 
 - Dopustite pozive označenih kontakata i ponovljenih pozivatelja"</string>
-  <string name="zen_onboarding_dnd_visual_disturbances_header">Želite li promijeniti postavke obavijesti za način Ne ometaj?</string>
+  <string name="zen_onboarding_dnd_visual_disturbances_header">Želite li promijeniti postavke obavijesti za način DND?</string>
   <string name="zen_onboarding_more_options">Možete to dodatno prilagoditi u Postavkama.</string>
   <string name="zen_onboarding_new_setting_summary">Obavijesti se neće prikazivati niti davati zvučne signale. Dopušteni su pozivi kontakata označenih zvjezdicom i ponovnih pozivatelja.</string>
   <string name="zen_onboarding_new_setting_title">Bez vizualnih i zvučnih signala obavijesti</string>
@@ -11480,18 +11511,18 @@ Ažurirajte postavke da:
   <string name="zen_onboarding_screen_on_title">Blokiraj kada je zaslon uključen</string>
   <string name="zen_onboarding_settings">Postavke</string>
   <string name="zen_rule_name_hint">Enter name for this rule</string>
-  <string name="zen_schedule_rule_enabled_toast">Automatsko pravilo postavljeno je na uključivanje opcije \"Ne ometaj\" tijekom navedenih vremena</string>
+  <string name="zen_schedule_rule_enabled_toast">Automatsko pravilo postavljeno je na uključivanje opcije \"DND\" tijekom navedenih vremena</string>
   <string name="zen_schedule_rule_type_name">Vrijeme</string>
   <string name="zen_sound_all_muted">Zanemareno</string>
   <string name="zen_sound_category_title">Zanemari sve osim</string>
-  <string name="zen_sound_footer">Kada je način Ne ometaj uključen, zvučni signali i vibriranje bit će isključeni, osim za prethodno navedene stavke koje dopustite.</string>
+  <string name="zen_sound_footer">Kada je način DND uključen, zvučni signali i vibriranje bit će isključeni, osim za prethodno navedene stavke koje dopustite.</string>
   <string name="zen_sound_none_muted">Nije zanemareno</string>
   <string name="zen_sound_one_allowed">Zanemareno, ali dopusti %1$s</string>
   <string name="zen_sound_three_allowed">Zanemareno, ali dopusti %1$s, %2$s i %3$s</string>
   <string name="zen_sound_title">Pogledajte sve iznimke</string>
   <string name="zen_sound_two_allowed">Zanemareno, osim ako su u pitanju %1$s i %2$s</string>
   <string name="zen_suggestion_summary">Pauzirajte obavijesti da biste ostali usredotočeni</string>
-  <string name="zen_suggestion_title">Ažuriranje načina Ne ometaj</string>
+  <string name="zen_suggestion_title">Ažuriranje načina DND</string>
   <string name="zone_auto">Automatska vremenska zona</string>
   <string name="zone_auto_summaryOff">Upotrijebi vrijeme koje osigurava mreža operatera</string>
   <string name="zone_auto_summaryOn">Upotrijebi vrijeme koje osigurava mreža operatera</string>

@@ -4,6 +4,14 @@
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
     </plurals>
+	<plurals name="pref_live_duration_prompt">
+        <item quantity="other">Snimi %d sek.</item>
+        <item quantity="one">Snimi %d skundu</item>
+    </plurals>
+	<plurals name="timefreeze_guide_tip1">
+	    <item quantity="other">Možete snimati videozapise s vremenskim zamrzavanjem s do %d subjekata.</item>
+        <item quantity="one">Možete snimiti videozapis s vremenskim zamrzavanjem s %d subjektom.</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s fotografija</item>
         <item quantity="one">%1$s fotografija</item>

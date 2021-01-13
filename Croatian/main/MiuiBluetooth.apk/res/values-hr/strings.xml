@@ -321,9 +321,18 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="fast_connect_device_title_connecting">Povezivanje…</string>
   <string name="fast_connect_device_title_find_headset">Pronađi %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">"Čini se da ovaj uređaj nije vaš: %1$s"</string>
+  <string name="fast_connect_new_feture_anti_lost">Anti Lost</string>
+  <string name="fast_connect_new_feture_same_account">Isti račun bez uparivanja</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Sound Normalizer</string>
+  <string name="fast_connect_new_feture_title">Nove značajke</string>
   <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
   <string name="fast_connect_nzbt_reset">Držite pritisnutu gornju tipku na %1$s sek. prilikom isključivanja</string>
-  <string name="fast_connect_reset_common">Resetirajte ovaj uređaj da biste mogli uparivati</string>
+  <string name="fast_connect_reset_common">Poništite ovaj uređaj da biste mogli uparivati</string>
+  <string name="fast_connect_same_account_content">Prijavite se na svoj Mi Račun, slušalice će se automatski spremiti na Mi Cloud, a ostali uređaji prijavljeni na ovaj račun mogu preskočiti postupak uparivanja i izravno se povezati sa slušalicama.</string>
+  <string name="fast_connect_same_accout_devices_connecting">Povezivanje putem usluge Mi Cloud…</string>
+  <string name="fast_connect_same_accout_devices_title">Ovo je vaš drugi povezani uređaj: %1$s</string>
+  <string name="fast_connect_sound_normalizer_content">"HD glasovni poziv.
+Protokol za prijenos velike propusnosti."</string>
   <string name="fast_connect_wbs_name">Mi Wireless punjač za zvučnik</string>
   <string name="fast_connect_wbs_reset">Držite pritisnutu gornju tipku na %1$s sek. prilikom isključivanja</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
@@ -354,10 +363,12 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="headset_downloading_indicate">Preuzimanje u tijeku</string>
   <string name="headset_find_new_version">Nova verzija</string>
   <string name="headset_finish_fw">U redu</string>
-  <string name="headset_finish_fw_failed">Nije uspjelo</string>
-  <string name="headset_fw_error_failed">Nije uspjelo</string>
-  <string name="headset_fw_file_position_failed">Nije uspjelo</string>
+  <string name="headset_finish_fw_failed">Dogodila se pogreška</string>
+  <string name="headset_fw_error_failed">"Ažuriranje nije moguće. Podaci o firmware-u nisu točni."</string>
+  <string name="headset_fw_file_position_failed">"Ne mogu pristupiti datoteci"</string>
   <string name="headset_fw_file_readfailed">Nije uspjelo</string>
+  <string name="headset_loss_notify_summary">Čini se da barem jedna od vaših slušalica nije u kućištu za punjenje. Potražite okolo!</string>
+  <string name="headset_loss_notify_title">Upozorenje: nedostaje slušalica</string>
   <string name="headset_read_fw_state">Nije uspjelo</string>
   <string name="headset_update_failed">Nije uspjelo</string>
   <string name="headset_update_ok">U redu</string>

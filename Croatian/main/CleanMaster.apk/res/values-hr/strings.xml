@@ -350,6 +350,8 @@
   <string name="garbage_cleanup_detail">%1$d puta, očišćeno %2$s</string>
   <string name="garbage_month">Očišćeno %s ovaj mjesec</string>
   <string name="gigabyteShort">GB</string>
+  <string name="gb_global_icon_ad_card_btn">DOBIJ</string>
+  <string name="gb_global_icon_ad_card_title">Predloženo za vas</string>
   <string name="global_wa_audio">Audio</string>
   <string name="global_wa_audio_item_title">Glasovne poruke</string>
   <string name="global_wa_backend_alert_dialog_content">Oslobodite prostor brisanjem WhatsApp stavki</string>
@@ -874,6 +876,8 @@
   <string name="video_clean_create_desktop_icon_summary">Dodajte prečac Poč. zaslona za brisanje predmemoriranih videozapisa jednim dodirom</string>
   <string name="video_clean_desktop_icon_created">Prečac Poč. zaslona uspješno dodan</string>
   <string name="video_clean_garbage">Predmemorirani videozapisi</string>
+  <string name="video_clean_image_clean_summary">Izbrišite duplikate fotografija kako biste oslobodili prostor za pohranu</string>
+  <string name="video_clean_image_clean_title">Izbriši duplikate fotografija</string>
   <string name="video_clean_garbage_cleared">Uspješno su izbrisani predmemorirani videozapisi</string>
   <string name="video_clean_notification_summary">Izbrišite videozapise koje su aplikacije predmemorirale</string>
   <string name="video_clean_notification_title">Oslobodi %s</string>

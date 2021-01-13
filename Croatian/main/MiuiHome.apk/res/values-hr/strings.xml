@@ -191,11 +191,12 @@
   <string name="children_mode_tips_title">Odaberite aplikacije</string>
   <string name="choose_wallpaper">Odaberi sliku pozadine</string>
   <string name="chooser_wallpaper">Odaberi novu sliku pozadine</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="cloud_app_restore_title">Na čekanju</string>
   <string name="common_home_search_delete">Brisanje trake pretraživanja na Poč. zaslonu</string>
   <string name="common_home_search_delete_cancle">Odustani</string>
   <string name="common_home_search_delete_confirm">Izbriši</string>
-  <string name="common_home_search_delete_content">"You won't be able to search for items using the Home screen search bar after you delete it. Delete anyway?"</string>
+  <string name="common_home_search_delete_content">"Nakon brisanja nećete moći pretraživati stavke pomoću trake za pretraživanje Poč. zaslona. Svejedno izbrisati?"</string>
   <string name="configure_wallpaper">Postavke</string>
   <string name="confirm_btn_label">U redu</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije će biti deinstalirati zajedno s ovima.</string>

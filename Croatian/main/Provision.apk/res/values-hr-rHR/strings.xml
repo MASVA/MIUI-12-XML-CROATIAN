@@ -47,6 +47,7 @@
   <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="back">Natrag</string>
   <string name="backup_introduction">Ovu aplikaciju možete koristiti za izradu sigurnosnih kopija i vraćanje stavki na vaš uređaj.</string>
+  <string name="boot_video_desc">Pogledajte svijet u 2K</string>
   <string name="boot_video_replay">Reproduciraj ponovno</string>
   <string name="boot_video_skip">Preskoči</string>
   <string name="calculator_introduction">Ovu aplikaciju možete koristiti za izračunavanje, pretvaranje jedinica i valuta i procjenu otplate hipoteke.</string>
@@ -62,7 +63,7 @@
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
   <string name="content_description_language_picker">Odaberi jezik</string>
-  <string name="content_description_miui_version">MIUI 12</string>
+  <string name="content_description_miui_version">MIUI 12.5</string>
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Centar za sadržaj objedinjuje sadržaj i usluge s više kanala. Ovdje možete čitati članke, gledati videozapise, pregledavati svakodnevno predstavljene stavke i primati preporuke za sadržaj.</string>
   <string name="continue_to_enable_accessibility">Držite pritisnuta dva prsta da omogućite pristupačnost.</string>
@@ -216,8 +217,7 @@
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provision_back">Natrag</string>
-  <string name="provision_inputmethod_policy_description">"
-Prikaži Pravila o Privatnosti odabranih tipkovnica."</string>
+  <string name="provision_inputmethod_policy_description"><Data>Pogledajte &lt;a href=%1$s>Pravila o privatnosti&lt;/a > odabrane tipkovnice.</Data></string>
   <string name="provision_inputmethod_policy_description1">Pravila o Privatnosti</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>

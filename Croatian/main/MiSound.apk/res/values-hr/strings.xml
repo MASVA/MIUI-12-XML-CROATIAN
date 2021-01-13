@@ -219,6 +219,7 @@
   <string name="sound_transmission_dialog_message">Zvučni asistent</string>
   <string name="sound_transmission_dialog_title">Uključi Bluetooth</string>
   <string name="sound_transmission_end">Stop</string>
+  <string name="sound_transmission_function_generalize">"Šaljite zvuk s mikrofona telefona na vanjski Bluetooth uređaj"</string>
   <string name="sound_transmission_processing">Mikrofon</string>
   <string name="sound_transmission_prompt">Dopustite ovoj značajki da uključi Bluetooth da bi mogao koristiti bežični mikrofon.</string>
   <string name="sound_transmission_scenes">Scena</string>

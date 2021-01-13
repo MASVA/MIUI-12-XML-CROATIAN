@@ -148,11 +148,13 @@
   <string name="delete_failed_retry">"Ne mogu izbrisati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_success">Uspješno izbrisano</string>
-  <string name="delete_files">Izbrisati ovoliko (%1$d) datoteka?</string>
+  <string name="delete_files">Izbrisati datoteke: %1$d?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
-  <string name="delete_folders">Izbrisati ovoliko (%1$d) mapa?</string>
+  <string name="delete_folders">Izbrisati mape: %1$d?</string>
   <string name="delete_record_only">"Stavke na koje se odnose odabrani zapisi neće biti izbrisane."</string>
   <string name="delete_success">Uspješno izbrisano</string>
+  <string name="detail_download_path">"Lokacija: "</string>
+  <string name="detail_download_time">"Preuzeto: "</string>
   <string name="diagnosis_log_send_failed">Ne mogu poslati zapise dijagnoze.</string>
   <string name="diagnosis_log_sent_format">"Zapisi dijagnoze su poslani.
 ID:%s
@@ -676,7 +678,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_id_hint">E-pošta/Br. telefona/ID Mi Računa</string>
-  <string name="user_protocol_and_privacy_protocol">"Pročitao sam i pristajem na Korisnički sporazum i Pravila o privatnosti."</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"Pročitao sam i pristajem na &lt;a href=\"%1$s\">Korisnički sporazum&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="v_code_title">Unesite kontrolni kôd</string>

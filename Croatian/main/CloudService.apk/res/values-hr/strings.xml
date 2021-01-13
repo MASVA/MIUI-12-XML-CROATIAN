@@ -103,7 +103,9 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="confirm_delete">Izbriši</string>
   <string name="confirm_save">Zadrži</string>
   <string name="connect_network">Povežite se na Wi-Fi ili umetnite SIM karticu</string>
+  <string name="connect_network_china">Povežite se na Wi-Fi ili umetnite SIM karticu</string>
   <string name="connect_wlan">Povežite se na Wi-Fi</string>
+  <string name="connect_wlan_china">Povežite se na Wi-Fi</string>
   <string name="contact">Kontakti</string>
   <string name="copy">Kopiraj</string>
   <string name="cta_notification_content_text">Dopustite %s povezivanje s internetom kako biste mogli vratiti stavke</string>
@@ -138,22 +140,22 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="error_credential_fail">Pogrešna zaporka</string>
   <string name="error_data_in_transfer">Sinkronizacija će završiti za %s sati.</string>
   <string name="error_data_in_transfer_title">Mi Cloud nije dostupan.</string>
+  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom</string>
   <string name="error_keybag_unknown">Dogodila se nepoznata pogreška. Pričekajte minutu-dvije i pokušajte ponovo.</string>
   <string name="error_masterkey_changed">Zaporka je promijenjena</string>
   <string name="error_masterkey_exists">Zaporka već postoji</string>
-  <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom</string>
   <string name="error_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
   <string name="error_request_error">Pogreška zahtjeva</string>
   <string name="error_reset_retry_exceed_limit">Previše pokušaja poništavanja zaporke</string>
   <string name="error_retry_exceed_limit">Previše neuspjelih pokušaja</string>
   <string name="error_screen_pwd_retry_exceed_limit">Previše neuspjelih pokušaja</string>
-  <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
   <string name="error_server">Pogreška poslužitelja</string>
   <string name="error_server_busy">Naši su poslužitelji zauzeti. Pričekajte minutu-dvije i pokušajte ponovo.</string>
   <string name="error_server_error">Pogreška poslužitelja</string>
   <string name="error_timeout">Zahtjev je istekao</string>
-  <string name="error_token_expired">Ponovno se prijavite na svoj Mi Račun</string>
   <string name="error_title">"Ne mogu sinkronizirati"</string>
+  <string name="error_token_expired">Ponovno se prijavite na svoj Mi Račun</string>
   <string name="error_unauthorized">Previše pokušaja prijavljivanja: Sinkronizacija je onemogućena.</string>
   <string name="error_unknown">"Ne mogu se prijaviti"</string>
   <string name="error_unsupported">"This feature isn't supported on this device"</string>
@@ -228,7 +230,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="keybag_password_confirm_prompt">Potvrdite zaporku</string>
   <string name="keybag_password_create_prompt">Postavi zaporku</string>
   <string name="keybag_password_error_inconsistent">"Zaporke se ne podudaraju"</string>
-  <string name="keybag_password_forget"><u>Zaboravili ste zaporku?</u></string>
+  <string name="keybag_password_forget">&lt;u&gt;Zaboravili ste zaporku?&lt;/u&gt;</string>
   <string name="keybag_password_input_cancel">Odustani</string>
   <string name="keybag_password_input_hint">Unesite zaporku</string>
   <string name="keybag_password_input_next">Dalje</string>
@@ -253,6 +255,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="ks_fingerprint_status">Status plaćanja</string>
   <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_keybox">Keybox</string>
   <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
   <string name="ks_name_soter">WeChat</string>
   <string name="ks_name_widevine">Widevine (L1)</string>
@@ -270,8 +273,8 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. Da biste vidjeli ove podatke sada, idite na %s."</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_enable_keybag">Uključivanje Upravitelja zaporkama…</string>
-  <string name="loading_server_key_info">Učitavanje stavki…</string>
   <string name="loading_hint">Samo trenutak</string>
+  <string name="loading_server_key_info">Učitavanje stavki…</string>
   <string name="low_battery_locate_summary">Automatski prijavi podatke o lokaciji kada je baterija slaba</string>
   <string name="low_battery_locate_title">Prijavi lokaciju kada je baterija slaba</string>
   <string name="master_alert_notif_content">"Redovito stvarajte sigurnosne kopije da ne izgubite ništa važno"</string>
@@ -363,6 +366,8 @@ na vaš Mi Račun za aktiviranje Mi Clouda."</string>
 Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_dspt_provision">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_dspt_provision_china">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
+  <string name="micloud_dspt_provision_china_v2">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
+  <string name="micloud_dspt_provision_v2">Koristite Mi Cloud za sinkronizaciju podataka, pronađete svoj ​​uređaj, i podijelite stvari s prijateljima.</string>
   <string name="micloud_dspt_provision_xms">Koristite Mi Cloud za sinkronizaciju podataka.</string>
   <string name="micloud_dspt_provision_xms_china">Koristite Mi Cloud za sinkronizaciju podataka.</string>
   <string name="micloud_find_device_close_alert_content">"Ako isključite Pronađi uređaj, nećete moći pronaći telefon koristeći ovu značajku. Ako vaš telefon podržava NFC funkcionalnost, sve vaše bankovne kartice i kartice bit će izbrisane iz usluge Mi Pay."</string>
@@ -386,6 +391,7 @@ Pronađite i zaključajte uređaj u slučaju da se izgubi.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Veza je istekla. Pokušajte ponovno kasnije.</string>
   <string name="micloud_find_device_guide_micloud">Uključi sinkr. sa Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sink.  kontakte, fotografije, bilješke, i više sa Mi Cloudom</string>
+  <string name="micloud_find_device_guide_micloud_sub_content_v2">Sink.  kontakte, fotografije, bilješke, i više sa Mi Cloudom</string>
   <string name="micloud_find_device_guide_noti_content">Zaštitite svoje podatke, čak i ako je uređaj izgubljen</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Vaši QQ podaci će biti sigurni, čak i ako izgubite svoj uređaj</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Vaši WeChat podaci će biti sigurni, čak i ako izgubite svoj uređaj</string>
@@ -506,6 +512,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_notif_content_depend_wifi_china">Povežite se na Wi-Fi da sinkr.</string>
   <string name="micloud_notif_content_dirty_data">Pojedinosti</string>
   <string name="micloud_notif_content_master_depend_wifi">Povežite se na Wi-Fi ili promijenite postavke sinkronizacije. Dodirnite za promjenu.</string>
+  <string name="micloud_notif_content_master_depend_wifi_china">Povežite se na Wi-Fi ili promijenite postavke sinkronizacije. Dodirnite za promjenu.</string>
   <string name="micloud_notif_content_memory_low">Nema dovoljno prostora za pohranu.</string>
   <string name="micloud_notif_content_multi_user_error">Prijavili ste se s istim računom kao u Prvom prostoru.</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Prikaži detalje</string>
@@ -550,6 +557,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_setting_gallery_summary">Fotografije i videozapisi</string>
   <string name="micloud_setting_music_summary">Popisi za reprodukciju i favoriti</string>
   <string name="micloud_setting_notes_summary">Bilješke</string>
+  <string name="micloud_setting_notes_summary_v2">Bilješke</string>
   <string name="micloud_setting_personal_assistant_summary">Kartice i značajke Zaklj. aplikacija</string>
   <string name="micloud_setting_phrase_summary">Česti izrazi</string>
   <string name="micloud_setting_recorder_summary">Zvuk i snimljemi pozivi</string>
@@ -575,6 +583,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_storage_unit_mb">%s MB</string>
   <string name="micloud_storage_usage" formatted="false">Iskorišteno %s/Ukupan prostor %s</string>
   <string name="micloud_sync_alert_dialog_message">Sinkronizirajte vaše fotografije, kontakte, bilješke i više na svim vašim uređajima.</string>
+  <string name="micloud_sync_alert_dialog_message_v2">Sinkronizirajte vaše fotografije, kontakte, bilješke i više na svim vašim uređajima.</string>
   <string name="micloud_sync_alert_dialog_negative">Odustani</string>
   <string name="micloud_sync_alert_dialog_positive">U redu</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Mi Cloud</string>
@@ -694,7 +703,12 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite."</string>
   <string name="privacy_dialog_sync_all_purpose">Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
-  <string name="privacy_doc_cloudservice">"Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Odlazna SMS poruka može biti potrebna za aktiviranje ovih usluga. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, poruka može biti poslana automatski za ponovno aktiviranje tih usluga.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Kalendar:&lt;br /&gt;Za sinkronizaciju događaja&lt;br /&gt;• Pristup SMS-u:&lt;br /&gt;Za sinkronizaciju SMS poruka&lt;br /&gt;• Pristup MMS-u:&lt;br /&gt;Za sinkronizaciju MMS poruka&lt;br /&gt;• Pristup kontaktima:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Uređivanje kontakata:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Pohrana:&lt;br /&gt;Za spremanje stavki na uređaj (npr. slike, videozapisi, pjesme)&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Xiaomi Cloud.&lt;br /&gt;"</string>
+  <string name="privacy_dialog_sync_all_purpose_china">Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
+  <string name="privacy_dialog_sync_all_purpose_china_v2">Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
+  <string name="privacy_dialog_sync_all_purpose_v2">Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
+  <string name="privacy_doc_cloudservice">"Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Odlazna SMS poruka može biti potrebna za aktiviranje ovih usluga. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, poruka može biti poslana automatski za ponovno aktiviranje tih usluga.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Kalendar:&lt;br /&gt;Za sinkronizaciju događaja&lt;br /&gt;• Pristup SMS-u:&lt;br /&gt;Za sinkronizaciju SMS poruka&lt;br /&gt;• Pristup MMS-u:&lt;br /&gt;Za sinkronizaciju MMS poruka&lt;br /&gt;• Pristup kontaktima:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Uređivanje kontakata:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Pohrana:&lt;br /&gt;Za spremanje stavki na uređaj (npr. slike, videozapisi, pjesme)&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Mi Clouda.&lt;br /&gt;"</string>
+  <string name="privacy_doc_cloudservice_china">"Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Odlazna SMS poruka može biti potrebna za aktiviranje ovih usluga. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, poruka može biti poslana automatski za ponovno aktiviranje tih usluga.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Kalendar:&lt;br /&gt;Za sinkronizaciju događaja&lt;br /&gt;• Pristup SMS-u:&lt;br /&gt;Za sinkronizaciju SMS poruka&lt;br /&gt;• Pristup MMS-u:&lt;br /&gt;Za sinkronizaciju MMS poruka&lt;br /&gt;• Pristup kontaktima:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Uređivanje kontakata:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Pohrana:&lt;br /&gt;Za spremanje stavki na uređaj (npr. slike, videozapisi, pjesme)&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Mi Clouda.&lt;br /&gt;"</string>
+  <string name="privacy_doc_cloudservice_china_v2">"Dobrodošli u usluge Mi Cloud! Možete koristiti Mi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;Odlazna SMS poruka može biti potrebna za aktiviranje ovih usluga. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, poruka može biti poslana automatski za ponovno aktiviranje tih usluga.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Kalendar:&lt;br /&gt;Za sinkronizaciju događaja&lt;br /&gt;• Pristup SMS-u:&lt;br /&gt;Za sinkronizaciju SMS poruka&lt;br /&gt;• Pristup MMS-u:&lt;br /&gt;Za sinkronizaciju MMS poruka&lt;br /&gt;• Pristup kontaktima:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Uređivanje kontakata:&lt;br /&gt;Za sinkronizaciju kontakata&lt;br /&gt;• Pohrana:&lt;br /&gt;Za spremanje stavki na uređaj (npr. slike, videozapisi, pjesme)&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Mi Clouda.&lt;br /&gt;"</string>
   <string name="privacy_doc_cloudservice_global">Mi Cloud treba se povezati s internetom da bi normalno radio. Sinkronizacija podataka može zahtijevati upotrebu mobilnih podataka i uključivanje Wi-Fi mreže. Pročitajte i prihvatite naše &lt;a href=%1$s&gt;&lt;u&gt;Korisnički sporazum&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Mi Cloud usluga.</string>
   <string name="privacy_doc_finddevice_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da ga locirate, zaključate ili resetirate.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Pristup podacima o uređaju:&lt;br /&gt;Za identificiranje vašeg uređaja&lt;br /&gt;• Lokacija:&lt;br /&gt;Za lociranje uređaja i prebacivanje na izgubljeni način rada&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Pronađi uređaj.&lt;br /&gt;"</string>
   <string name="privacy_doc_finddevice_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da ga locirate, zaključate ili resetirate.&lt;br /&gt;&lt;br /&gt;Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br /&gt;Da bi mogle normalno raditi, ove se usluge moraju povezati na internet i zahtijevati sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br /&gt;• Pristup podacima o uređaju:&lt;br /&gt;Za identificiranje vašeg uređaja&lt;br /&gt;• Lokacija:&lt;br /&gt;Za lociranje uređaja i prebacivanje na izgubljeni način rada&lt;br /&gt;Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.&lt;br /&gt;Pročitajte i pristanite na naše &lt;a href=%1$s&gt;&lt;u&gt;Ugovor o korisniku&lt;/u&gt;&lt;/a&gt; i &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije korištenja Pronađi uređaj.&lt;br /&gt;"</string>
@@ -707,14 +721,16 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="provision_sync_items_loading">Priprema za sinkronizaciju stavki</string>
   <string name="reading_status">Učitavanje statusa…</string>
   <string name="reading_status_failure">"Ne mogu učitati status."</string>
+  <string name="retain_data_high_quality_photo_waring_message">Slike visoke kvalitete izbrisat će se iz vaše galerije nakon što se odjavite. Odgovarajuće izvorne datoteke i dalje će biti pohranjene u cloudu. Izvorne datoteke možete preuzeti i prije odjave.</string>
+  <string name="retain_data_high_quality_photo_waring_title">"Slike visoke kvalitete neće biti dostupne"</string>
   <string name="remind_later">Ne sada</string>
   <string name="restoreSync">Sinkroniziraj sada</string>
   <string name="search_cloudbackup_pref">Cloud Sig. kopija</string>
-  <string name="search_cloudbackup_pref_desc">Uklj/Isklj. Cloud Sig. kopija</string>
+  <string name="search_cloudbackup_pref_desc">Uklj./Isklj. Cloud Sig. kopije</string>
   <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud sig. kopija</string>
   <string name="search_cloudbackup_pref_path">Mi Račun/Mi Cloud/IZRADI SIG. KOPIJU I VRATI</string>
   <string name="search_finddevice_pref">Pronađi uređaj</string>
-  <string name="search_finddevice_pref_desc">Uklj/Isklj. Pronađi uređaj</string>
+  <string name="search_finddevice_pref_desc">Uklj./Isklj. Pronađi uređaj</string>
   <string name="search_finddevice_pref_key_words">pronađiuređaj, pronađi uređaj</string>
   <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/PRONAĐI UREĐAJ</string>
   <string name="search_menu_title">Traži</string>
@@ -735,6 +751,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_location_guide3_title">Ostanite sigurni</string>
   <string name="share_location_guide_action_btn_text">Uključi</string>
   <string name="share_location_guide_extra_btn_text">Preskoči</string>
+  <string name="share_location_menu_create_shortcut">Prečac Poč. zaslona</string>
   <string name="share_location_menu_finddevice_settings">Postavke Pronađi uređaje</string>
   <string name="share_location_menu_help">Pomoć i povratne informacije</string>
   <string name="share_location_menu_messages">Povijest poruka</string>
@@ -751,7 +768,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_sdk_business_btn_grant_permission_text">Slažem se i nastavi</string>
   <string name="share_sdk_business_family_invite_preference_summary">"Podijelite lokaciju i međusobno kontrolirajte uređaje"</string>
   <string name="share_sdk_business_family_member_actionbar_subtitle">Podijelite informacije o lokaciji s prijateljima</string>
-  <string name="share_sdk_business_high_risk_invite_success_summary">Your invitation was sent in a text message and system notification.</string>
+  <string name="share_sdk_business_high_risk_invite_success_summary">Vaša je pozivnica poslana u tekstualnoj poruci i obavijesti sustava.</string>
   <string name="share_sdk_business_introduction">"Informacije o lokaciji možete podijeliti s prijateljima i obitelji kako biste bili sigurni da su sigurni, kao i da biste im pomogli da pronađu svoje uređaje koji im nedostaju."</string>
   <string name="share_sdk_business_low_risk_invite_success_summary">"Informacije o lokaciji možete dijeliti s prijateljima i obitelji, kao i međusobno kontrolirati uređaje."</string>
   <string name="share_sdk_business_main_title">Podijelite lokaciju</string>
@@ -804,7 +821,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_sdk_search_hint">Broj telefona/ID Mi Računa</string>
   <string name="share_sdk_search_online">Traži online %1$s</string>
   <string name="share_sdk_share_entrance_title">Dodajte članove</string>
-  <string name="share_sdk_suggest_member_pref_summary">Algoritam preporuke pruža Xiaomi Cloud</string>
+  <string name="share_sdk_suggest_member_pref_summary">Algoritam preporuke pruža Mi Cloud</string>
   <string name="share_sdk_suggest_member_title">Preporučene osobe</string>
   <string name="share_sdk_user_info_account_id">Račun: %1$s</string>
   <string name="share_sdk_user_info_already_invited">Pozvano</string>
@@ -864,21 +881,23 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="sync_dspt_entrance_provision">"Sinkronizirajte svoje fotografije, kontakte, povijest poziva i poruke na svim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Saznajte više</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"Aplikacijama MIUI sustava potreban je Mi Cloud za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje dok kažete MIUI ADRIA."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"Aplikacijama MIUI sustava potreban je Mi Cloud za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje odmah."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content_v2">"Aplikacijama MIUI sustava potreban je Mi Cloud za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Mi Cloud je besplatan i spreman za korištenje odmah."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Koristi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Mi Cloud?"</string>
   <string name="sync_dspt_entrance_provision_network">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
   <string name="sync_dspt_entrance_provision_network_china">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ovaj korak</string>
-  <string name="sync_dspt_provision">"Sinkronizirajte vaše fotografije, kontakte, bilješke, i više između svih vaših uređaja ili im pristupite na "</string>
+  <string name="sync_dspt_entrance_provision_v2">Sinkronizirajte svoje fotografije, bilješke i druge stavke na svim svojim uređajima. Pristupite stvarima koje sinkronizirate iz bilo kojeg preglednika na %s.</string>
+  <string name="sync_dspt_provision">"Sinkronizirajte svoje fotografije, bilješke i druge stavke na svim svojim uređajima. Pristupite stvarima koje sinkronizirate iz bilo kojeg preglednika "</string>
   <string name="sync_dspt_provision3">". Možete uključiti/isključiti tu značajku bilo kada u Postavkama.
   
   
 "</string>
-  <string name="sync_item_autofill_summary">Šifrirajte svoje zaporke i automatski ih sinkronizirajte s cloudom</string>
-    <string name="sync_item_autofill_title">Sinkroniziraj automatski</string>
   <string name="sync_dspt_provision_header">Sinkronizacija</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
+  <string name="sync_item_autofill_summary">Šifrirajte svoje zaporke i automatski ih sinkronizirajte s cloudom</string>
+  <string name="sync_item_autofill_title">Sinkroniziraj automatski</string>
   <string name="sync_item_calllog_summary">Sinkroniziraj zapise obavljenih/primljenih poziva na oavj telefon</string>
   <string name="sync_item_calllog_title">Sinkroniziraj povijest poziva</string>
   <string name="sync_item_sms_summary">Sinkroniziraj poslane/primljene SMS poruke na ovaj telefon</string>

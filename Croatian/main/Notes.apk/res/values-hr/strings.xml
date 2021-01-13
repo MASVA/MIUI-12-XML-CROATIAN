@@ -67,6 +67,7 @@
   <string name="audio_toast_file_invalid">Audio datoteka nije valjana</string>
   <string name="audio_toast_file_undownload">Audio datoteka nije potpuno preuzeta ili nedostaje</string>
   <string name="audio_toast_network_is_not_available">"Ne mogu se povezati na mrežu"</string>
+  <string name="blackboard_note">Pametna ploča</string>
   <string name="brush_AirBrush">AirBrush</string>
   <string name="brush_BallpointPen">BallpointPen</string>
   <string name="brush_Bamboo1">Bamboo1</string>
@@ -148,6 +149,7 @@
   <string name="db_downgrade_clear_button">Izbriši podatke aplikacije</string>
   <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu MIUI verziju zahtijeva brisanje podataka aplikacije za Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju bilježaka na Mi Cloud."</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
+  <string name="default_update_documents">Dostupno je ažuriranje. Ažurirati sada?</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>
   <string name="dialog_button_cancel">Odustani</string>
   <string name="dialog_button_close">Zatvori</string>
@@ -411,7 +413,9 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_link_tel">"Nazovi"</string>
   <string name="note_link_web">Pregledaj u Pregledniku</string>
   <string name="note_mindnote_entrance_hint">"Počnite tipkati "</string>
+  <string name="note_mindnote_entrance_hint_newversion">"Počnite tipkati "</string>
   <string name="note_mindnote_entrance_icon_text">Stvorite umnu mapu</string>
+  <string name="note_mindnote_entrance_icon_text_newversion">Stvorite umnu mapu</string>
   <string name="note_sort_way">Odaberite kako želite poredati vaše bilješke</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>

@@ -31,9 +31,9 @@
   <string name="account_bind_prompt">Premještam korisničke podatke… 
  To može potrajati nekoliko minuta</string>
   <string name="account_login_title">Račun</string>
-  <string name="actionbar_button_up_description">Natrag</string>
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="activity_parse_video_title">Zalijepi URL</string>
   <string name="activity_rule">Pravila</string>
   <string name="ad_download">Preuzmi</string>
@@ -135,6 +135,7 @@
   <string name="change_sticker">Odaberite drugu naljepnicu</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+  <string name="chip_text">Chip tekst</string>
   <string name="choose_report_comment_reason">Zašto prijavljujete ovaj komentar?</string>
   <string name="choose_report_reason">Zašto prijavljujete ovaj video isječak?</string>
   <string name="choose_send_type">Pošalji sa…</string>
@@ -158,6 +159,8 @@
   <string name="clean_title">Izbriši datoteke starije više od 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
   <string name="clear_record">Izbriši povijest</string>
+  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_login_str">Prijava</string>
   <string name="click_to_refresh">Dodirni ovdje za osvježiti</string>
   <string name="click_to_switch_volume">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
@@ -167,9 +170,6 @@
   <string name="clockin_success">Uspješno prijavljen</string>
   <string name="clockin_use">Osvojite nagradu</string>
   <string name="close">Zatvori</string>
-  <string name="chip_text">Chip tekst</string>
-  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
-  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="comment_added">Uspješno dodano</string>
   <string name="comment_added_tip">"Dodajete puno komentara. Pratiti ovu osobu?"</string>
   <string name="comment_delete_message">Komentar će biti trajno izbrisan.</string>
@@ -242,8 +242,6 @@
   <string name="delete_files">Izbrisati datoteke: %1$d?</string>
   <string name="delete_folder">Izbrisati ovu mapu?</string>
   <string name="delete_folders">Izbrisati mape: %1$d?</string>
-  <string name="des_hide_pwd">Sakrij zaporku</string>
-  <string name="des_show_pwd">Prikaži zaporku</string>
   <string name="delete_selected_tasks">Izbrisati odabrane zadatke?</string>
   <string name="delete_success">Datoteka izbrisana</string>
   <string name="delete_video">Izbriši</string>
@@ -251,7 +249,9 @@
   <string name="delete_video_dialog_title">Izbriši videozapis</string>
   <string name="delete_video_success">Uspješno izbrisano</string>
   <string name="deleted_video_msg">"Malo si zakasnio. Ovaj videozapis je izbrisan."</string>
+  <string name="des_hide_pwd">Sakrij zaporku</string>
   <string name="des_running_trans">Ovoliko datoteka (%1$d) nije premješteno</string>
+  <string name="des_show_pwd">Prikaži zaporku</string>
   <string name="dialog_logout_message">Odjaviti se?</string>
   <string name="dialog_logout_title">Odjava</string>
   <string name="dialog_select_type">Odaberite tip</string>
@@ -280,8 +280,8 @@
   <string name="download_link_completed">Podijelio sam %1$s koristeći KuaiPan. Dodirni na vezu ispod za pregled: </string>
   <string name="downloaded_sticker_str">Preuzeto</string>
   <string name="downloading">Preuzimanje…</string>
-  <string name="drag_not_support_with_dir">"Ne mogu se preurediti ili poslati mape"</string>
   <string name="downloading_in_3g">Preuzimanje preko 3G…</string>
+  <string name="drag_not_support_with_dir">"Ne mogu se preurediti ili poslati mape"</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
   <string name="editor_commend">Uredi</string>
@@ -318,9 +318,9 @@
   <string name="exo_controls_previous_description">Prethodna pjesma</string>
   <string name="exo_controls_rewind_description">Premotaj</string>
   <string name="exo_controls_stop_description">Stop</string>
-  <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="expand_all">Sve</string>
   <string name="expand_button_title">Napredno</string>
+  <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="extended_storage_file_can_not_open">"Ne mogu otvoriti datoteku. Kopirajte datoteku na unutarnju pohranu."</string>
   <string name="extract">Raspakiraj</string>
   <string name="fab_menu_sort">Poredaj</string>
@@ -453,12 +453,12 @@
 "</string>
   <string name="kuaipan_root_fooder">Početna</string>
   <string name="kuaipan_tech_support">Prijavite se na KuaiPan.cn</string>
-  <string name="like_toast_1">Takvi videozapisi će vam biti preporučeno često.</string>
-  <string name="like_toast_2">Pogledajte videozapise koje želite na svom profilu.</string>
-  <string name="like_toast_3">Prijavite se da pogledate videozapise koje želite na svom profilu.</string>
   <string name="launcher_icon_add_description">Dodajte prečac Poč. zaslona</string>
   <string name="launcher_icon_remove_description_content">"Datoteke su sistemska aplikacija. Nakon uklanjanja prečaca Poč. zaslona nećete moći upravljati datotekama na uređaju."</string>
   <string name="launcher_icon_remove_description_title">Ukloniti \"Datoteke\" sa Poč. zaslona?</string>
+  <string name="like_toast_1">Takvi videozapisi će vam biti preporučeno često.</string>
+  <string name="like_toast_2">Pogledajte videozapise koje želite na svom profilu.</string>
+  <string name="like_toast_3">Prijavite se da pogledate videozapise koje želite na svom profilu.</string>
   <string name="list_mode">Popis</string>
   <string name="load_err">"Ne mogu učitati"</string>
   <string name="load_more">Prikaži više</string>
@@ -505,9 +505,9 @@
   <string name="menu_item_sort_size">Po veličini</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_list_name">Izbornik</string>
   <string name="menu_new_display_open">Otvori u novom prozoru</string>
   <string name="menu_pc_open">Otvorite s računalnim programom</string>
-  <string name="menu_list_name">Izbornik</string>
   <string name="menu_set_wallpaper">Postavi za sliku pozadine</string>
   <string name="message_comment_prefix">"Komentar: "</string>
   <string name="message_my_received_notification">Nova poruka</string>
@@ -525,6 +525,24 @@
   <string name="midrop_msg_1">Uključite Mi Drop na drugom uređaju</string>
   <string name="midrop_msg_2">Kada je Mi Drop uključen, možete tražiti uređaje u blizini i slati datoteke</string>
   <string name="midrop_send_files">Odaberite datoteke za slanje</string>
+  <string name="migrate_announcement_msg">KuaiPan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena. Mi Drive i Mi Cloud će dijeliti zajednički prostor za pohranu.</string>
+  <string name="migrate_announcement_title">KuaiPan se zamjenjuje s Mi Drive</string>
+  <string name="migrate_cancel">Odustani</string>
+  <string name="migrate_confirm">Transfer</string>
+  <string name="migrate_failed_confirm">Razumijem</string>
+  <string name="migrate_failed_msg">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
+  <string name="migrate_failed_title">"Ne mogu premjestiti datoteke"</string>
+  <string name="migrate_failed_toast">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
+  <string name="migrate_hint">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
+  <string name="migrate_note">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
+  <string name="migrate_runing">Premještanje podataka…Vratite se kasnije.</string>
+  <string name="migrate_success_cancel">Razumijem</string>
+  <string name="migrate_success_confirm">Provjerite sada</string>
+  <string name="migrate_success_msg">Sve su vaše datoteke uspješno premještene iz KuaiPana u Mi Drive.</string>
+  <string name="migrate_success_title">Uspješno premješteno</string>
+  <string name="migrate_update_confirm">Isprobajte sada</string>
+  <string name="migrate_update_msg">KuaiPan se zamjenjuje s Mi Drive kako bi vam pružio bolje korisničko iskustvo.</string>
+  <string name="migrate_update_title">KuaiPan je zamijenjen s Mi Drive</string>
   <string name="mirror_can_not_drag_mask">Povucite za korištenje Mi Share</string>
   <string name="mirror_new_name">Izradi mapu (%s)</string>
   <string name="mirror_new_name_first">Izradi mapu</string>
@@ -544,24 +562,6 @@
   <string name="mirror_tip_list">Popis</string>
   <string name="mirror_tip_refresh">Osvježi</string>
   <string name="mirror_tip_show_type">Sortiraj po</string>
-  <string name="migrate_announcement_msg">KuaiPan Usluga će se ugasiti nakon 30.06.2016. Predlažemo vam da sada premjestite svoje podatke. Podatkovna veza neće biti potrebna za to, jer će se prijenos odvijati na našim poslužiteljima. Tijekom premještanja, trenutna učitavanja i preuzimanja će biti zaustavljena. Mi Drive i Mi Cloud će dijeliti zajednički prostor za pohranu.</string>
-  <string name="migrate_announcement_title">KuaiPan se zamjenjuje s Mi Drive</string>
-  <string name="migrate_cancel">Odustani</string>
-  <string name="migrate_confirm">Transfer</string>
-  <string name="migrate_failed_confirm">Razumijem</string>
-  <string name="migrate_failed_msg">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
-  <string name="migrate_failed_title">"Ne mogu premjestiti datoteke"</string>
-  <string name="migrate_failed_toast">Nešto je pošlo po krivu. Premjestite datoteke ručno. &lt;a href=http://www.kuaipan.cn&gt;Dodirni ovdje za pregled&lt;/a&gt;</string>
-  <string name="migrate_hint">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
-  <string name="migrate_note">Važno: KuaiPan se zamjenjuje s Mi Drive. Dodirni da sada premjestite datoteke.</string>
-  <string name="migrate_runing">Premještanje podataka…Vratite se kasnije.</string>
-  <string name="migrate_success_cancel">Razumijem</string>
-  <string name="migrate_success_confirm">Provjerite sada</string>
-  <string name="migrate_success_msg">Sve su vaše datoteke uspješno premještene iz KuaiPana u Mi Drive.</string>
-  <string name="migrate_success_title">Uspješno premješteno</string>
-  <string name="migrate_update_confirm">Isprobajte sada</string>
-  <string name="migrate_update_msg">KuaiPan se zamjenjuje s Mi Drive kako bi vam pružio bolje korisničko iskustvo.</string>
-  <string name="migrate_update_title">KuaiPan je zamijenjen s Mi Drive</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -569,10 +569,13 @@
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi sve</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -598,6 +601,7 @@
   <string name="month_august">Kolovoz</string>
   <string name="month_august_short">Kol</string>
   <string name="month_august_shortest">K</string>
+  <string name="month_day_format">dd MMM</string>
   <string name="month_december">Prosinac</string>
   <string name="month_december_short">Pro</string>
   <string name="month_december_shortest">P</string>
@@ -629,7 +633,6 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
-  <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"Ne mogu premjestiti stavke"</string>
   <string name="move_failed_retry">"Ne mogu izrezati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="move_icon_to_desktop_hint">Napravi prečac aplik. Datoteke na Poč. zaslonu za učinkovitije upravljanje datotekama.</string>
@@ -641,6 +644,7 @@
   <string name="mtp_label">MTP</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
@@ -801,19 +805,19 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_delete_confirm_message">Izbrisati stavku?</string>
   <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan."</string>
   <string name="operation_deleting">Brisanje…</string>
-  <string name="operation_encrypt_summary">Šifriranje datoteka u privatnoj mapi. Dešifriranje velikih datoteka može potrajati duže od očekivanog.</string>
-  <string name="operation_encrypt_title">Šifriranje privatnih datoteka</string>
   <string name="operation_deleting_detail">Brisanje (%1$d/%2$d)</string>
   <string name="operation_download_link">Kreiraj vezu za preuzimanje</string>
+  <string name="operation_encrypt_summary">Šifriranje datoteka u privatnoj mapi. Dešifriranje velikih datoteka može potrajati duže od očekivanog.</string>
+  <string name="operation_encrypt_title">Šifriranje privatnih datoteka</string>
   <string name="operation_favorite">Favoriti</string>
   <string name="operation_hide_sys">"Ne prikazuj skrivene datoteke"</string>
   <string name="operation_info">Detalji</string>
   <string name="operation_like">Sviđa mi se</string>
   <string name="operation_move">Premjesti</string>
   <string name="operation_moving">Premještanje…</string>
+  <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
   <string name="operation_new_folder">Izradi mapu</string>
   <string name="operation_open">Otvori</string>
-  <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
   <string name="operation_other_apps">Otvori u drugoj aplikaciji</string>
   <string name="operation_paste">Zalijepi</string>
   <string name="operation_paste_to_folder">Zalijepi u mapu</string>
@@ -835,14 +839,14 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_unfavorite">Odznači</string>
   <string name="operation_unlike">Odznači</string>
   <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem Wi-Fi-ja</string>
-  <string name="otg_data_transfer_success">Uspješno poslano</string>
-  <string name="otg_data_transferring">"Prijenos datoteka… Ne isključujte vanjsku pohranu."</string>
   <string name="original_user_desc">Učitajte redovito originalne videozapise da dobijete status autora sadržaja</string>
   <string name="original_user_qq_group">Pridružite se QQ grupi Talent tim</string>
   <string name="original_user_register">• &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; se pridružio zajednici</string>
   <string name="original_user_signal">Talent tim</string>
   <string name="original_user_title">Čestitamo što ste postali član Talent tima!</string>
   <string name="original_user_verify">• Hvala vam što ste ostali u blizini!</string>
+  <string name="otg_data_transfer_success">Uspješno poslano</string>
+  <string name="otg_data_transferring">"Prijenos datoteka… Ne isključujte vanjsku pohranu."</string>
   <string name="otg_file_security_confirm">Kopiraj na telefon</string>
   <string name="otg_file_security_details">Kopiraj na telefon</string>
   <string name="otg_file_security_note">OTGSigurnost</string>
@@ -857,11 +861,11 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="overwrite_msg">\"%s\" već postoji. Dodirnite da biste je zamijenili novom datotekom.</string>
   <string name="pad">Unutarnja pohrana</string>
   <string name="pan_settting">KuaiPan postavke</string>
-  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u %s."</string>
   <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke, pokušajte ponovno"</string>
   <string name="partial_encrypt_success">"Ne mogu sakriti neke datoteke, pokušajte ponovno"</string>
   <string name="partial_repair_done">Neke su datoteke uspješno obnovljene</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="path_download">Upravljanje preuzimanjima</string>
   <string name="path_hot_sticker">Popularne naljepnice</string>
   <string name="path_hot_video">Pregledajte popularne kratke videozapise besplatno</string>
@@ -956,8 +960,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="repair_error_no_media">"Ne mogu obnoviti, odaberite barem jednu medijsku datoteku."</string>
   <string name="repair_error_no_order">"Ne mogu obnoviti, izbrišite ili dešifrirajte %s i pokušajte ponovno"</string>
   <string name="repair_file">Obnovi šifrirane datoteke</string>
-  <string name="replace">Zamijeni</string>
   <string name="repeat_upload_video">Ovaj je videozapis već podijeljen, odaberite neki drugi.</string>
+  <string name="replace">Zamijeni</string>
   <string name="reply_success">Komentar dodan</string>
   <string name="report_abuse">Zlostavljanje</string>
   <string name="report_advertisement">Oglasi</string>
@@ -982,11 +986,11 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
-  <string name="save_file_to_mishare">"Spremljeno u mapu Mi Share"</string>
   <string name="save">Spremi</string>
   <string name="save_desc_success">Uspješno promjenjeno​</string>
   <string name="save_failed">"Ne mogu spremiti, pokušajte ponovno"</string>
   <string name="save_failed_for_length">Potpis je predugačak, pokušajte s kraćim</string>
+  <string name="save_file_to_mishare">"Spremljeno u mapu Mi Share"</string>
   <string name="save_name_success">Uspješno promjenjeno</string>
   <string name="save_to_local">Preuzeto</string>
   <string name="sd_card_available">Dostupno: %1$s</string>
@@ -1133,8 +1137,8 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="storage_info">%1$s dostupno</string>
   <string name="storage_info_detail">Dostupno: %1$s Ukupno: %2$s</string>
   <string name="storage_internal">Unutarnja pohrana</string>
-  <string name="storage_maintenance_mode">Pohrana za način održavanja</string>
   <string name="storage_internal_description">Unutarnja pohrana</string>
+  <string name="storage_maintenance_mode">Pohrana za način održavanja</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_sd_card_description">SD kartica</string>
   <string name="storage_usb">USB pohrana</string>
@@ -1197,9 +1201,6 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
-  <string name="tuesday">Utorak</string>
-  <string name="tuesday_short">Uto</string>
-  <string name="tuesday_shortest">U</string>
   <string name="tools">ALATI</string>
   <string name="top_mark">TOP</string>
   <string name="top_videos">Podijeli poredak</string>
@@ -1218,6 +1219,9 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
 oslobodite prostor.</string>
   <string name="trash_box_message2">Ispraznite smeće kako bi
 oslobodili prostor.</string>
+  <string name="tuesday">Utorak</string>
+  <string name="tuesday_short">Uto</string>
+  <string name="tuesday_shortest">U</string>
   <string name="type_not_support">"Ovaj format datoteke nije podržan. Raspakirajte ovu datoteku i pokušajte ponovno."</string>
   <string name="ui_filechange_btn_download">Preuzeti datoteku?</string>
   <string name="ui_filechange_btn_upload">Učitati datoteke</string>

@@ -1763,6 +1763,7 @@ za fotografije"</string>
   <string name="photo_editor_talkback_doodle_rectangle">Pravokutnik</string>
   <string name="photo_editor_talkback_effect">%d efekat</string>
   <string name="photo_editor_talkback_eraser">Izbriši</string>
+  <string name="photo_editor_talkback_random_icon">Filtar slučajnog neba</string>
   <string name="photo_editor_talkback_recently">Nedavo korišteno</string>
   <string name="photo_editor_talkback_redo">Vrati</string>
   <string name="photo_editor_talkback_undo">Poništi</string>
@@ -2136,7 +2137,7 @@ za fotografije"</string>
   <string name="show_cloud_albumlist_summary">Upravljajte albumima koje sinkronizirate s Mi Cloudom</string>
   <string name="show_hidden_album_summary">Pregled i upravljanje skrivenima albumima</string>
   <string name="show_hidden_album_title">Pokaži skrivene albume</string>
-  <string name="show_in_other_albums_disable_toast_long_press_menu">Uspješno premješteno, idite na albume Ostalo za pregled</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Uspješno premješteno, idite na album Ostalo za pregled</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Uspješno premješteno, idite na Albumi za pregled</string>
   <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Premješteno u smeće</string>
   <string name="signature_dialog_clear">Očisti</string>
@@ -2147,6 +2148,10 @@ za fotografije"</string>
   <string name="similar_keep_clear">Zadrži najbolje fotografije</string>
   <string name="sky_dynamic">Dinamičko</string>
   <string name="sky_static">Statično</string>
+  <string name="sky_night">Večer</string>
+  <string name="sky_nocturne">Noć</string>
+  <string name="sky_sunny">Sunčano</string>
+  <string name="sticker_graduation">Matura</string>
   <string name="slideshow_interval_dialog_title">Unesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti između 3 i 3600 sekundi</string>
   <string name="slideshow_interval_title">Prikaži svaki slajd na</string>
