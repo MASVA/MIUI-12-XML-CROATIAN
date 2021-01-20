@@ -72,12 +72,4 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
      </plurals>
-    <plurals name="home_title_selected">
-        <item quantity="other">Odabrano: %1$d</item>
-        <item quantity="one">Odabrano: %1$d</item>
-    </plurals>
-	<plurals name="delete_confirm_text">
-         <item quantity="other">Izbrisati snimke zaslone: %1$d?</item>
-         <item quantity="one">Izbrisati %1$d snimku zaslona?</item>
-     </plurals>
 </resources>

@@ -108,6 +108,14 @@
         <item quantity="other">Kontakti %1$d</item>
         <item quantity="one">%1$d kontakt</item>
     </plurals>
+	<plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">Trajno izbrisani kontakti: %d</item>
+        <item quantity="one">Trajno izbrisan %d kontakt</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">Uspješno vraćeni kontakti: %d</item>
+        <item quantity="one">Uspješno vraćen %d kontakt</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">Uvezeno kontakata: %1$d</item>
         <item quantity="one">Uvezen je %1$d kontakt</item>

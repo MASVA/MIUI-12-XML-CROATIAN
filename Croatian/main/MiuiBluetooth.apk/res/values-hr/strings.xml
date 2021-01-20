@@ -306,6 +306,8 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="external_source_trusted">Dopušteno</string>
   <string name="external_source_untrusted">Nije dopušteno</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
+  <string name="fast_connect_anti_lost_content">"Postavite upozorenje koje će se pojaviti kad vam nedostaje jedna od slušalica.
+Pojedinosti potražite u Postavkama."</string>
   <string name="fast_connect_b508_name">ZMI B508</string>
   <string name="fast_connect_bt_speaker2_name">MI Portable Speaker</string>
   <string name="fast_connect_device_battery">Baterija</string>
@@ -323,18 +325,18 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="fast_connect_device_title_connecting">Povezivanje…</string>
   <string name="fast_connect_device_title_find_headset">Pronađi %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">"Čini se da ovaj uređaj nije vaš: %1$s"</string>
-  <string name="fast_connect_new_feture_anti_lost">Anti Lost</string>
-  <string name="fast_connect_new_feture_same_account">Isti račun bez uparivanja</string>
-  <string name="fast_connect_new_feture_sound_normalizer">Sound Normalizer</string>
-  <string name="fast_connect_new_feture_title">Nove značajke</string>
+  <string name="fast_connect_new_feture_anti_lost">Upozorenje: nedostaje slušalica</string>
+  <string name="fast_connect_new_feture_same_account">Povežite sinkronizirane uređaje</string>
+  <string name="fast_connect_new_feture_sound_normalizer">Bolji zvuk</string>
+  <string name="fast_connect_new_feture_title">"Što je novo"</string>
   <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
   <string name="fast_connect_nzbt_reset">Držite pritisnutu gornju tipku na %1$s sek. prilikom isključivanja</string>
   <string name="fast_connect_reset_common">Poništite ovaj uređaj da biste mogli uparivati</string>
-  <string name="fast_connect_same_account_content">Prijavite se na svoj Mi Račun, slušalice će se automatski spremiti na Mi Cloud, a ostali uređaji prijavljeni na ovaj račun mogu preskočiti postupak uparivanja i izravno se povezati sa slušalicama.</string>
-  <string name="fast_connect_same_accout_devices_connecting">Povezivanje putem usluge Mi Cloud…</string>
-  <string name="fast_connect_same_accout_devices_title">Ovo je vaš drugi povezani uređaj: %1$s</string>
-  <string name="fast_connect_sound_normalizer_content">"HD glasovni poziv.
-Protokol za prijenos velike propusnosti."</string>
+  <string name="fast_connect_same_account_content">Bluetooth uređaji mogu se sinkronizirati s vašim Mi Računom i povezati bez uparivanja na drugim uređajima.</string>
+  <string name="fast_connect_same_accout_devices_connecting">Povezivanje putem Mi Clouda…</string>
+  <string name="fast_connect_same_accout_devices_title">"Povezali ste %1$s na druge uređaje"</string>
+  <string name="fast_connect_sound_normalizer_content">"Bolji zvuk u glasovnim pozivima.
+Brži protokol veze."</string>
   <string name="fast_connect_wbs_name">Mi Wireless punjač za zvučnik</string>
   <string name="fast_connect_wbs_reset">Držite pritisnutu gornju tipku na %1$s sek. prilikom isključivanja</string>
   <string name="feiyu_vlog_name">Feiyu VLOG pocket</string>
@@ -762,6 +764,7 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>
   <string name="wifi_whitelist_roaming_summary">Omogući roaming između različitih SSID WPA/WPA2‑PSK AP-ija s istom MAC adresom pristupnika</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
+  <string name="xiaomi_account_bt_sync_name">Bluetooth</string>
   <string name="zen_alarm_warning">Nećete čuti sljedeći alarm %1$s</string>
   <string name="zen_alarm_warning_indef">Nećete čuti sljedeći alarm %1$s ako to ne isključite prije njega</string>
   <string name="zen_alarms_introduction">Neće vas ometati zvukovi i vibracije, osim alarma. I dalje ćete čuti sve što želite reproducirati, uključujući glazbu, videozapise i igre.</string>

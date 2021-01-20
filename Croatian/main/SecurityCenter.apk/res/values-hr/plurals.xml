@@ -164,6 +164,10 @@
         <item quantity="other">%s min. do potpunog punjenja</item>
         <item quantity="one">%s min. do potpunog punjenja</item>
     </plurals>
+	<plurals name="notification_antivirus_title">
+        <item quantity="other">%d dana bez sigurnosnih skeniranja</item>
+        <item quantity="one">%d dan bez sigurnosnih skeniranja</item>
+    </plurals>
 	 <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Potrošeno %2$d%% baterije tijekom posljednjih %1$d min.</item>
         <item quantity="one">Potrošeno %2$d%% baterije tijekom posljednjih %1$d min.</item>
@@ -192,6 +196,12 @@
          <item quantity="other">%1$d osoba igra</item>
          <item quantity="one">%1$d osoba igra</item>
      </plurals>
+	 <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"Videozapise gledate već %d sati.
+Odmorite se!"</item>
+        <item quantity="one">"Videozapis gledate već %d sat.
+Odmorite se!"</item>
+    </plurals>
     <plurals name="view_num">
          <item quantity="other">%1$d pregleda</item>
          <item quantity="one">%1$d pregled</item>
@@ -780,6 +790,10 @@
         <item quantity="other">Prijavljeno %d dana za redom</item>
         <item quantity="one">Prijavljeno %d puta</item>
 	</plurals>
+	<plurals name="notification_link_cleaner_2006">
+        <item quantity="other">Izbriši %d preostale aplikacije</item>
+        <item quantity="one">Izbriši %d preostalu aplikaciju</item>
+    </plurals>
 	     <plurals name="notification_power_consume_issue">
         <item quantity="other">%d problema s korištenjem baterije</item>
         <item quantity="one">%d problem s korištenjem baterije</item>

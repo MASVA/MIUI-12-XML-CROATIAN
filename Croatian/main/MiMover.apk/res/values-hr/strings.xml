@@ -231,6 +231,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="host_memory_insuff_confirm">Odaberite ponovo</string>
   <string name="host_memory_insuff_summary">Na novom uređaju nema dovoljno prostora za pohranu da biste započeli prijenos.</string>
   <string name="host_memory_insuff_title">Nema dovoljno prostora za pohranu</string>
+  <string name="host_new_device_hint">Ovaj uređaj</string>
   <string name="hsa_code_null">Polje za potvrdu ne može biti prazno</string>
   <string name="hsa_input_tip">Vaš Apple ID upotrebljava autorizaciju s dva faktora. Unesite kontrolni kod.</string>
   <string name="hsa_send_again">Pošalji ponovno</string>

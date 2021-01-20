@@ -84,10 +84,11 @@
   <string name="ac_firstUseApplock_subTitle">Koristite bolje sigurnosne alate na razini sustava</string>
   <string name="ac_firstUseApplock_title">Postavite zaporku da zaštitite vaše aplikacije</string>
   <string name="ac_mask_all_apps">Sakrij za sve</string>
-  <string name="ac_notification_contentText">Dodirnite za uključiti</string>
-  <string name="ac_notification_contentTitle">Zaštitite aplikacije s Zaklj. aplikacija</string>
-  <string name="ac_post_notification_contentText">Nabavite zaštitu na razini sustava</string>
-  <string name="ac_post_notification_contentTitle">Uključite Zaklj. aplikacija</string>
+  <string name="ac_notification_action_text">Uključi</string>
+  <string name="ac_notification_contentText">Sakrijte osjetljive podatke pomoću zaporke</string>
+  <string name="ac_notification_contentTitle">Isprobajte Zaklj. aplikacija!</string>
+  <string name="ac_post_notification_contentText">Može zaštititi sve vrste osjetljivih aplikacija</string>
+  <string name="ac_post_notification_contentTitle">Zaštitite aplikacije pomoću Zaklj. aplikacija</string>
   <string name="ac_pre_notification_contentText">Zaštitite svoje osobne podatke</string>
   <string name="ac_pre_notification_contentTitle">Isprobajte Zaklj. aplikacija</string>
   <string name="ac_recommend_guide_dialog_app_content">Koristite Zaklj. aplikacija s ovom aplikacijom kako bi zaštitili svoje osobne podatke i izbjegli curenje podataka.</string>
@@ -243,8 +244,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_about_positive">Razumijem</string>
   <string name="app_behavior_access_gallery">%1s je pristupio Galeriji</string>
   <string name="app_behavior_access_gallery_single">Ova je aplikacija pristupila Galeriji</string>
-  <string name="app_behavior_access_sociality">%1s je pristupio porukama u aplikacijama društvenih mreža</string>
-  <string name="app_behavior_access_sociality_single">Ova je aplikacija pristupila porukama u aplikacijama društvenih medija</string>
+  <string name="app_behavior_access_sociality">%1s je pristupio aplikacijama društvenih mreža</string>
+  <string name="app_behavior_access_sociality_single">Ova je aplikacija pristupila aplikacijama društvenih mreža</string>
   <string name="app_behavior_allowed">Dopusti</string>
   <string name="app_behavior_audio">%1s je snimio zvuk</string>
   <string name="app_behavior_audio_bg">%1s je snimio zvuk u pozadini</string>
@@ -1631,6 +1632,19 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_add_game_hint">Dodajte stavke s popisa aplikacija</string>
   <string name="gb_add_game_loading_tips">Samo trenutak…</string>
+  <string name="gb_adv_touch_adv_title">Klasični način rada (zadani)</string>
+  <string name="gb_adv_touch_custom1">Odaziv povlačenja</string>
+  <string name="gb_adv_touch_custom2">Osjetljivost na kontinuirane dodire</string>
+  <string name="gb_adv_touch_custom3">Preciznost ciljanja</string>
+  <string name="gb_adv_touch_custom4">Stabilnost dodira</string>
+  <string name="gb_adv_touch_custom_tip1">Viši odaziv povlačenja povećava brzinu reakcije na ovu gestu, dok niži odaziv čini gestu stabilnijom.</string>
+  <string name="gb_adv_touch_custom_tip2">Veća osjetljivost na kontinuirane dodire povećava brzinu reakcije na ovu gestu, dok manja osjetljivost čini gestu stabilnijom.</string>
+  <string name="gb_adv_touch_custom_tip3">Veća preciznost ciljanja čini manja povlačenja preciznijim, dok manja preciznost ciljanja čini ovu gestu stabilnijom.</string>
+  <string name="gb_adv_touch_custom_tip4">Veća stabilnost dodira čini dodire stabilnijima, dok manja stabilnost povećava točnost manjih poteza.</string>
+  <string name="gb_adv_touch_custom_title">Prilagođeno</string>
+  <string name="gb_adv_touch_mode_pro_tips">*Ovaj je način namijenjen profesionalnim igračima. Redovnim igračima ovaj način rada može se učiniti nezgodnim.</string>
+  <string name="gb_adv_touch_mode_select_title">Geste</string>
+  <string name="gb_adv_touch_pro_title">Pro način</string>
   <string name="gb_advance_settings_edge_gear1">Ništa</string>
   <string name="gb_advance_settings_edge_gear2">Mali</string>
   <string name="gb_advance_settings_edge_gear3">Srednji</string>
@@ -1808,6 +1822,8 @@ vašeg igranja"</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
   <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi povećanje brzine</string>
+  <string name="gtb_spring_festival_back_game">Natrag u igru</string>
+  <string name="gtb_spring_festival_goto_gameturbo">Pregled</string>
   <string name="gtb_wlan_speed_tips">Korištenje Mi Wi-Fi-ja…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
@@ -2228,7 +2244,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_summary_power_manager_4">%s do dovršetka punjenja</string>
   <string name="menu_text_antispam">AntiSpam</string>
   <string name="menu_text_antivirus">Sigurnost</string>
-  <string name="menu_text_deepclean_summary" formatted="false">%1s/%2s zauzeto</string>
+  <string name="menu_text_deepclean_summary">%1$s/%2$s zauzeto</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
   <string name="menu_text_garbage_cleanup_danger">%s smeća</string>
   <string name="menu_text_license_manager">Dopuštenja</string>
@@ -2388,14 +2404,16 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_abnormal_consume_app_title">%s prazzni bateriju</string>
   <string name="notification_abnormal_consume_cpu">Resursi procesora zloupotrebljavaju se u pozadini</string>
   <string name="notification_abnormal_consume_wakelock">Sustav se drži budnim u pozadini</string>
+  <string name="notification_antivirus_button_text">Skeniraj</string>
+  <string name="notification_antivirus_message">Skenirajte odmah da neutralizirate rizike</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prebrzo</string>
   <string name="notification_battery_over_heat_summary">Pronađite ono što uzrokuje zagrijavanje i ohladite uređaj.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
-  <string name="notification_battery_scan_consume_abnormal_summary">Dodirnite da biste riješili problem</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Dodirnite da riješite problem</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s crpi bateriju</string>
   <string name="notification_channel_battery">Baterija</string>
   <string name="notification_charging_title">"Punjenje "</string>
-  <string name="notification_checker_installed_apk_hint">Nije potrebno zadržati APK nakon instalacije</string>
+  <string name="notification_checker_installed_apk_hint">Nije potrebno zadržati .apk nakon instalacije</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremna Štednja baterije je isključena</string>
   <string name="notification_exit_power_save_mode">Štednja baterije isključena</string>
@@ -2413,6 +2431,15 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_garbage_clean_size_new">Oslobodite %s prostora za pohranu</string>
   <string name="notification_garbage_cleanup_summary">Očistite smeće (%s) da ubrzate svoj uređaj</string>
   <string name="notification_garbage_cleanup_title">Očistite datoteke smeća</string>
+  <string name="notification_link_cleaner_2001">Očistite %s smeća</string>
+  <string name="notification_link_cleaner_2002">Očistite smeće da ubrzate svoj uređaj</string>
+  <string name="notification_link_cleaner_2003">Preostalo je manje od %s prostora za pohranu. Oslobodite prostor za pohranu.</string>
+  <string name="notification_link_cleaner_2004">Preostalo samo %s prostora za pohranu. Oslobodite prostor za pohranu.</string>
+  <string name="notification_link_cleaner_2005">Očistite memoriju da ubrzate svoj uređaj</string>
+  <string name="notification_link_cleaner_3001">Očistite WeChat smeće da ubrzate svoj uređaj</string>
+  <string name="notification_link_cleaner_3002">Očistite WeChat smeće</string>
+  <string name="notification_link_cleaner_4000">Očistite QQ smeće</string>
+  <string name="notification_link_optimizemanage_1011">%d%% memorije zauzeto. Očistite sada.</string>
   <string name="notification_item">Zaštitite odabrane aplikacije sa Zaklj. aplikacija</string>
   <string name="notification_low_battery_action_btn">Uključi</string>
   <string name="notification_low_battery_need_charge">Napunite svoj uređaj</string>
@@ -2426,8 +2453,11 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="notification_low_storage_size_1p5_gb_hint">Izbrišite smeće da biste ubrzali svoj uređaj</string>
   <string name="notification_mask_summary">"Ne prikazuje sadržaj obavijesti za zaštićene aplikacije"</string>
   <string name="notification_mask_title">Sakrij sadržaj obavijesti</string>
-  <string name="notification_masked_item">Kako sakriti sadržaj obavijesti?</string>
-  <string name="notification_masked_subtitle">Koristite Zaklj. aplikacije da sakrijete sadržaj obavijesti za odabrane aplikacije</string>
+  <string name="notification_masked_item">Želite li sakriti sadržaj obavijesti?</string>
+  <string name="notification_masked_subtitle">Možeto to obaviti sa Zaklj. aplikacija</string>
+  <string name="notification_optimize_button_text">Očisti</string>
+  <string name="notification_optimize_message">Očistite memoriju za povećanje brzine</string>
+  <string name="notification_optimize_title">%d%% memorije zauzeto</string>
   <string name="notification_open_extreme_mode_text">Ekstremna Štednja baterije je uključena</string>
   <string name="notification_power_consume_issue_summary">Velika potrošnja energije</string>
   <string name="notification_power_consume_suggest_summary">Popravite probleme radi uštede baterije</string>
@@ -3184,10 +3214,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_grant_permission_only_during_app_use">"Dopustite aplikacijama upotrebu dopuštenja samo dok ih upotrebljavate"</string>
   <string name="pp_grant_permission_only_during_app_use_detail">"Da biste spriječili da aplikacija koristi dopuštenja u pozadini, možete dopustiti upotrebu dopuštenja povezanih s lokacijom, snimanjem zvuka i kontaktima samo dok koristite aplikaciju"</string>
   <string name="pp_hide_app">Sakrij aplikacije</string>
-  <string name="pp_hide_app_form_desktop">Uklonite ikone aplikacija s Početnog zaslona</string>
+  <string name="pp_hide_app_form_desktop">Uklonite ikone aplikacija s Poč. zaslona</string>
   <string name="pp_icon_layout_status_bg_content_enable">Zaštićeno</string>
   <string name="pp_icon_layout_status_bg_content_unable">Isključeno</string>
-  <string name="pp_interception_net_visit_content_manager">Zaštiti Galeriju i aplikacije na društvenim mrežama</string>
+  <string name="pp_interception_net_visit_content_manager">Zaštitite Galeriju i datoteke aplikacija društvenih mreža</string>
   <string name="pp_interception_net_visit_content_manager_detail">Odaberite kojim aplikacijama je dopušten pristup vašim fotografijama, videozapisima i povijesti chata</string>
   <string name="pp_local_msg">Informacije o lokaciji</string>
   <string name="pp_manage_apps_location_information">Dopustite aplikacijama pristup vašoj lokaciji</string>
@@ -3211,7 +3241,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_prohibit_use_camera_in_background_detail">"Aplikacije prema zadanim postavkama neće moći koristiti kameru u pozadini"</string>
   <string name="pp_record_msg">Snimanje zvuka</string>
   <string name="pp_safe_box">Privatni prostor</string>
-  <string name="pp_safe_box_detail">Kako bi zaštitio vašu privatnost, MIUI vam omogućuje da kontrolirate kako aplikacije pristupaju vašim fotografijama i povijesti chata na društvenim mrežama.</string>
+  <string name="pp_safe_box_detail">"Privatne su stavke šifrirane i pohranjene samo na ovom uređaju. Drugi ljudi neće im moći pristupiti dok koriste ovaj uređaj, a samom uređaju neće biti omogućen pristup šifriranim stavkama i njihova upotreba na bilo koji način.</string>
   <string name="pp_safe_box_summary">Zaštita privatnosti</string>
   <string name="pp_safe_input_pwd">Zaštitite svoje zaporke</string>
   <string name="pp_safe_keyboard">Sigurna tipkovnica</string>
@@ -4255,6 +4285,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="summary_mms">Blokiraj automatski spam SMS poruke</string>
   <string name="summary_network_switch">Dopusti aplikaciji Sigurnost povezivanje na internet</string>
   <string name="summary_never_flow_verify">"Ovaj broj nije potvrđen s vašim operaterom"</string>
+  <string name="summary_password_manager">Upravitelj zaporkama omogućuje vam šifriranje zaporki i njihovo spremanje u cloud</string>
   <string name="summary_payment_risk">"Izgleda da okruženje plaćanja nije sigurno"</string>
   <string name="summary_permission">Izbjegnite neželjena plaćanja i zaštitite osobne podatke</string>
   <string name="summary_permission_root">Izgleda da ovaj uređaj ima ROOT pristup. To može oštetiti sigurnost vašeg uređaja.</string>
@@ -4525,6 +4556,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_network_switch">Povezivanje s mrežom</string>
   <string name="title_of_app_manage">Aplikacije</string>
   <string name="title_of_auto_launch_manage">Autom. pokretanja</string>
+  <string name="title_password_manager">Uključi Upravitelja zaporkama</string>
   <string name="title_of_operators_set">Postavke davatelja usluge</string>
   <string name="title_of_package_set">Postavke plana podataka</string>
   <string name="title_payment_protection">Plaćanje je sigurno</string>
@@ -4824,6 +4856,15 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_video_effects_settings_liquid">Jasnoća</string>
   <string name="vb_video_effects_settings_stereo">Glasnoća</string>
   <string name="vb_video_effects_srs_premium_sound">Zvuk</string>
+  <string name="vb_video_super_division">Povećaj</string>
+  <string name="vb_video_super_division_desc">"Automatski povećaj rezoluciju kad je ≤720p.
+
+Korištenje ove značajke povećava potrošnju energije.
+
+Ova značajka ne radi s zaglađivanjem pokreta.
+Uključivanjem jedne značajke isključit će se i druga."</string>
+  <string name="vb_video_super_division_tips">"Nije dovoljno jasno?
+Pokušajte povećati rezoluciju!"</string>
   <string name="video_repeat">Reproduciraj ponovno</string>
   <string name="videobox_hangup_tips_content">Ova značajka omogućuje aplikaciji pokretanje u pozadini kada je zaslon isključen. Uključiti sada?</string>
   <string name="videobox_hangup_tips_title">Pažnja</string>
@@ -4834,6 +4875,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="videobox_settings_line_location_title">Prečac alata za videozapise</string>
   <string name="videobox_settings_manager_apps">Upravljajte aplikacijama videozapisa</string>
   <string name="videobox_settings_switch_desc">Posebni efekti i značajke za reprodukciju videozapisa</string>
+  <string name="videobox_settings_timing">Upozorenje o prejedanju</string>
+  <string name="videobox_settings_timing_desc">Primajte upozorenje o prejedanju po satu podsjećajući vas na pauzu</string>
   <string name="videobox_settings_switch_title">Alati za videozapise</string>
   <string name="videobox_settings_title">Alati za videozapise</string>
   <string name="virus_ad_icon_text">Oglas</string>

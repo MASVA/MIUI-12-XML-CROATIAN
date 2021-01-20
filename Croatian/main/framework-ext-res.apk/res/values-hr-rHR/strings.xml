@@ -169,6 +169,7 @@
   <string name="miui_warning_button_cancel">Odustani</string>
   <string name="miui_warning_button_ok">U redu</string>
   <string name="miui_warning_tip_info">Došlo je do pogreške u %1$s. Zatvoriti aplikaciju?</string>
+  <string name="nearby_share">Bluetooth</string>
   <string name="notification_channel_hotspot">Hotspot obavijest</string>
   <string name="onehour">30 minuta</string>
   <string name="open_close_tip_action">Razumijem</string>
@@ -326,6 +327,7 @@
   <string name="translation_query_error">"Ne mogu pronaći rezultate"</string>
   <string name="translation_query_error_network">"Ne mogu se povezati na mrežu. Provjerite postavke i pokušajte ponovno"</string>
   <string name="turn_off">Isključi</string>
+  <string name="turn_on_work_profile">Uključi</string>
   <string name="twohours">1 sat</string>
   <string name="unknown_caller">Nepoznati broj</string>
   <string name="unrecognized_manufacture">Nepoznato</string>

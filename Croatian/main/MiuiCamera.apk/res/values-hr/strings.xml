@@ -1272,7 +1272,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Isključeno</string>
   <string name="pref_camera_hfr_title">Visoka brzina okvira (usporeno kretanje)</string>
-  <string name="pref_camera_high_quality_preferred_description">Poboljšajte kvalitetu slike pomoću pametnog algoritma. Brzina snimanja slike može se smanjiti kad je ova značajka uključena.</string>
+  <string name="pref_camera_high_quality_preferred_description">Poboljšajte kvalitetu slike pomoću pametnog algoritma. Brzina snimanja slike može se smanjiti kad je ova značajka uključena. Noćni način rada automatski će se uključiti kad se otkriju uvjeti slabog osvjetljenja.</string>
   <string name="pref_camera_high_quality_preferred_title">Poboljšajte kvalitetu slike</string>
   <string name="pref_camera_histogram_entry_disable">Isključi</string>
   <string name="pref_camera_histogram_entry_enable">Uključi</string>
@@ -1560,6 +1560,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Koža</string>
   <string name="pref_smart_guide_title">Pametni prijedlozi</string>
+  <string name="pref_super_night_se_summary">Otkrij uvjete slabog osvjetljenja i automatski poboljšaj kvalitetu slike</string>
+  <string name="pref_super_night_se_title">Autom. noćni način rada</string>
   <string name="pref_userdefine_watermark_title">Vlastita oznaka</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
   <string name="pref_video_denoise_off">Isklj.</string>

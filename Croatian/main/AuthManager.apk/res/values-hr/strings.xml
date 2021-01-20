@@ -372,6 +372,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="go_behavior_record">Povijest ponašanja aplikacije</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_permission_description">izvesti nepoznate radnje</string>
   <string name="go_perm_manager">Upravljanje dopuštenjima</string>
   <string name="go_setting">Postavke</string>

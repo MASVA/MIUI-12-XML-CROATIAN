@@ -216,7 +216,7 @@
   <string name="data_consumption_message">Ova aplikacija treba povezivanje s internetom putem Wi-Fi-ja za normalan rad.</string>
   <string name="data_consumption_message1">Aplikacija Datoteke treba se povezati s internetom kako bi popularni videozapisi i naljepnice bili dostupni.</string>
   <string name="data_consumption_title">Povezivanje s internetom</string>
-  <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="decompress_cancel">Odustani</string>
   <string name="decompress_confirm">Raspakiraj</string>
   <string name="decompress_corrupt">"Ne mogu raspakirati datoteke. Paket je oštećen."</string>

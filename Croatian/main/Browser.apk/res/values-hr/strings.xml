@@ -341,7 +341,7 @@ Stranice koje gledate neće se pojaviti u povijesti.​"</string>
   <string name="date_picker_dialog_other_button_label">Ostalo</string>
   <string name="date_picker_dialog_set">Postavi</string>
   <string name="date_picker_dialog_title">Postavi datum</string>
-  <string name="date_time_picker_dialog_title">Postavljanje datuma i vremena</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Izbriši</string>
   <string name="delete_bookmark_action_warning">Izbrisati oznake?</string>

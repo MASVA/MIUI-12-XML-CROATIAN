@@ -88,6 +88,8 @@
   <string name="controls_structure_tooltip">Povucite da biste vidjeli više</string>
   <string name="copy">Kopiraj</string>
   <string name="disabled">Onemogućeno</string>
+  <string name="dnd_popup_close_message">Razumijem</string>
+  <string name="dnd_popup_message">Možete uključiti DND način da biste utišali pozive i obavijesti bez isključivanja zvukova medija.</string>
   <string name="early_morning">Jutro</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
@@ -114,14 +116,15 @@
   <string name="miui_ringer_status_close">Isljučeno</string>
   <string name="miui_ringer_status_open">Uključeno</string>
   <string name="miui_ringer_total">DND</string>
-  <string name="miui_toast_zen_dnd_to_off">DND je isključeno. Zvukovi i vibracije ponovno su uključeni.</string>
+  <string name="miui_toast_zen_dnd_to_off">"Pozivi i obavijesti više se neće utišavati"</string>
   <string name="miui_toast_zen_dnd_to_off_version_R">DND je isključeno. Zvukovi obavijesti i vibracije ponovno su uključeni.</string>
   <string name="miui_toast_zen_standard_to_off">DND je isključeno. Melodije zvona ponovno su uključene.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Bešumno je isključeno. Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Bešumno je isključeno. Obavijesti, zvukovi medija i vibracije ponovno su uključeni.</string>
-  <string name="miui_toast_zen_to_dnd">DND je uključeno. Zvukovi su utišani i vibracija je isključena.</string>
+  <string name="miui_toast_zen_to_dnd">Pozivi i obavijesti biti će utišani</string>
+  <string name="miui_toast_zen_to_dnd_when_lock">Pozivi i obavijesti biti će utišani kada je uređaj zaključan</string>
+  <string name="miui_toast_zen_to_standard">Bešumno je uključeno</string>
   <string name="miui_toast_zen_to_dnd_version_R">DND je uključeno. Obavijesti su utišane i vibracija je isključena.</string>
-  <string name="miui_toast_zen_to_standard">DND je uključeno. Melodije zvona za pozive i obavijesti utišane</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Bešumno je uključeno. Obavijesti i mediji su utišani i vibracija je isključena.</string>
   <string name="midnight">Noć</string>
@@ -286,7 +289,8 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="wireless_charging_saver_message">Štednja baterije sada je uključena. Želite li zadržati obrnuto bežično punjenje?</string>
   <string name="wireless_charging_saver_ok">Zadrži</string>
   <string name="wireless_charging_tips_disable">"Ne prikazuj ponovo"</string>
-  <string name="wireless_charging_tips_message">Postavite uređaje koji podržavaju Qi bežično punjenje (telefone, dodatke itd.) Na stražnju stranu ovog uređaja.</string>
+  <string name="wireless_charging_tips_message">Postavite uređaj koji želite bežično napuniti (npr. telefon, pametni sat, slušalice) na stražnju stranu ovog telefona. Prije upotrebe obrnutog bežičnog punjenja provjerite je li ovaj telefon napunjen najmanje %d%%.</string>
+  <string name="wireless_charging_tips_sub_message">Drugi uređaj mora podržavati Qi standard bežičnog punjenja.</string>
   <string name="wireless_charging_tips_title">Obrnuto bežično punjenje</string>
   <string name="yesterday">Jučer</string>
 </resources>

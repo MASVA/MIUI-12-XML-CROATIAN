@@ -215,6 +215,10 @@
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_provision_more">Saznajte više o zaštiti privatnosti</string>
+  <string name="privacy_provision_summary">Zaštita privatnosti obveza je koja stoji iza dizajna naših proizvoda</string>
+  <string name="privacy_provision_text">Predani smo poštivanju i zaštiti vaše privatnosti. Dajući prioritet istraživanju i razvoju na području informacijske sigurnosti, Xiaomi neprestano radi na poboljšanju metoda, praksi i tehničkih rješenja koja štite vaše podatke. Također dijelimo naša najnovija dostignuća s našim partnerima kako bismo osigurali vašu privatnost na svim poljima.</string>
+  <string name="privacy_provision_title">Privatnost</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_inputmethod_policy_description"><Data>Pogledajte &lt;a href=%1$s>Pravila o privatnosti&lt;/a > odabrane tipkovnice.</Data></string>
