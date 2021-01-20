@@ -5267,13 +5267,6 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_fitness_check_summary2">Stavite slušalice u oba uha i kliknite započni otkrivanje</string>
   <string name="miheadset_fitness_check_summary3">Ne skidajte slušalice</string>
   <string name="miheadset_formal">Standard</string>
-  <string name="miheadset_equalizer">Equalizer</string>
-  <string name="miheadset_fitness_check">Provjera kondicije</string>
-  <string name="miheadset_fitness_check_result_not_ok">Loša</string>
-  <string name="miheadset_fitness_check_result_ok">Dobra</string>
-  <string name="miheadset_fitness_check_result_unkown">Nepoznato</string>
-  <string name="miheadset_fitness_check_start">Započela provjere kondicije, pričekajte</string>
-  <string name="miheadset_formal">Stajanje</string>
   <string name="miheadset_game_mode">Način igranja</string>
   <string name="miheadset_game_mode_summary">Smanji kašnjenje zvuka tijekom igranja igara</string>
   <string name="miheadset_ignore">Izbriši ovaj uređaj</string>
