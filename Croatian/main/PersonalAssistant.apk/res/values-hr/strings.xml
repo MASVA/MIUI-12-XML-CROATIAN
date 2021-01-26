@@ -39,7 +39,16 @@
   <string name="alipay_init">Pokretanje Alipay usluge…</string>
   <string name="alipay_init_success">Alipay usluga pokrenuta​</string>
   <string name="announce_for_drag">Povlačenje jedne stavke</string>
-  <string name="app_label">Asistent</string>
+  <string name="app_health_setting_music_name_fire">Stove</string>
+  <string name="app_health_setting_music_name_forest">Šuma</string>
+  <string name="app_health_setting_music_name_night">Ljetna noć</string>
+  <string name="app_health_setting_music_name_ocean">Plaža</string>
+  <string name="app_health_setting_music_name_rain">Drizzle</string>
+  <string name="app_health_setting_text_default_duration">Trajanje</string>
+  <string name="app_health_setting_text_download_alert_message">"Looks like you aren't connected to Wi-Fi. Use %1$s of mobile data to download items?"</string>
+  <string name="app_health_setting_text_sleep_aid_settings">Sleep</string>
+  <string name="app_health_setting_text_title">Health</string>
+  <string name="app_label">Zaklj. aplikacija</string>
   <string name="app_setting">Postavke</string>
   <string name="app_setting_account">Računi</string>
   <string name="app_setting_account_binding">Dodaj</string>

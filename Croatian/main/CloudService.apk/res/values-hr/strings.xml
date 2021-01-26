@@ -122,8 +122,16 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="data_merge_dialog_loading">Provjera podataka…</string>
   <string name="data_merge_dialog_title">Spoji stavke</string>
   <string name="data_protection_title">Zaštita podataka</string>
-  <string name="deskclock_backup">Napravi Sig. kopiju Satova</string>
+  <string name="deskclock_backup">Napravi Sig. kopiju Sata</string>
   <string name="detect_sim_card">Traži SIM karticu</string>
+  <string name="device_activation_card_cannot_get_yet">"Ne mogu dobiti informacije. Pokušajte ponovo za 3-5 dana."</string>
+  <string name="device_activation_card_description">"Prva aktivacija registrira se kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati 3-5 dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br>&lt;br>Aktivacija uređaja glavni je čimbenik u određivanju razdoblja valjanosti našeg produženog jamstva. Provjerite naša &lt;a href=%1$s>Pravila povrata, zamjene i popravka&lt;/a> za više detalja.&lt;br>&lt;br>Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
+  <string name="device_activation_card_description_china">"Prva aktivacija registrira se kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati 3-5 dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br>&lt;br> Provjerite naša &lt;a href=%1$s>Pravila povrata, zamjene i popravka&lt;/a> za više detalja.&lt;br>&lt;br>Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
+  <string name="device_activation_card_device_not_support">Nije podržano na ovom uređaju</string>
+  <string name="device_activation_card_local_service_error">"Ne mogu dobiti informacije. Pričekajte minutu-dvije i pokušajte ponovo."</string>
+  <string name="device_activation_card_no_network_error">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="device_activation_card_title">Prva aktivacija</string>
+  <string name="device_activation_page_title">Aktivacija uređaja</string>
   <string name="disable_find_device_error">"Ne mogu isključiti "Pronađi uređaj". %1$s"</string>
   <string name="disable_find_device_success">"Pronađi uređaj" je isključen.</string>
   <string name="do_not_merge">Odustani</string>
@@ -719,8 +727,16 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
   <string name="provision_sync_items_loading">Priprema za sinkronizaciju stavki</string>
+  <string name="quick_service_after_sale_policy_title">Politika</string>
+  <string name="quick_service_after_sale_service_title">Usluge</string>
+  <string name="quick_service_authenticity_check_title">Autentifikacija</string>
+  <string name="quick_service_maintenance_price_title">Popravci</string>
+  <string name="quick_service_title">Brze usluge</string>
   <string name="reading_status">Učitavanje statusa…</string>
   <string name="reading_status_failure">"Ne mogu učitati status."</string>
+  <string name="recommend_service_cloudservice_description">Sinkronizirajte podatke aplikacije sustava, postavke Sig. kopije, izgled Poč. zaslona i još mnogo toga</string>
+  <string name="recommend_service_sharelocation_description">Pronađite, zaključajte i izbrišite podatke na uređajima koji nedostaju i podijelite lokaciju s prijateljima i obitelji</string>
+  <string name="recommend_service_title">Preporučene usluge</string>
   <string name="retain_data_high_quality_photo_waring_message">Slike visoke kvalitete izbrisat će se iz vaše galerije nakon što se odjavite. Odgovarajuće izvorne datoteke i dalje će biti pohranjene u cloudu. Izvorne datoteke možete preuzeti i prije odjave.</string>
   <string name="retain_data_high_quality_photo_waring_title">"Slike visoke kvalitete neće biti dostupne"</string>
   <string name="remind_later">Ne sada</string>
@@ -909,7 +925,12 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="sync_off_confirm_content">"Nećete moći sinkronizirati nove zaporke nakon isključivanja Upravitelja zaporki."</string>
   <string name="sync_off_confirm_title">Pažnja</string>
   <string name="sync_on">Uključeno</string>
-  <string name="sync_page_autofill_title">Upravitelj zaporki</string>
+  <string name="sync_page_autofill_login">Prijavite se na Mi Račun da biste koristili Upravitelja zaporkama</string>
+  <string name="sync_page_autofill_title">Upravitelj zaporkama</string>
+  <string name="sync_page_route_message">Upravitelj zaporkama omogućuje vam šifriranje zaporki i njihovo spremanje u cloud. Želite li ga sada uključiti?</string>
+  <string name="sync_page_route_not_now">Ne hvala</string>
+  <string name="sync_page_route_ok">Uključi</string>
+  <string name="sync_page_route_remember">"Ne prikazuj ponovo"</string>
   <string name="sync_resend_sms_dspt_provision">" Ako promijenite SIM kartice, vaš mobilni operater će vam naplatiti SMS poruku korištenu za ponovno aktiviranje ove usluge."</string>
   <string name="sync_setting_title">Postavke sinkronizacije</string>
   <string name="sync_sub_1_intl_sms">Međunarodni i domaći SMS će biti poslan za povezivanje vaših SIM kartica s ovim računom. Vaš mobilni operater će vam naplatiti te poruke.</string>

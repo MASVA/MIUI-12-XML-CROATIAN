@@ -546,6 +546,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj kod poziva</string>
+  <string name="voice_add_alarm">Dodajte alarm pomoću glasovne naredbe</string>
   <string name="view_type">Prikaz</string>
   <string name="volume_button_setting_desc">Dodijelite funkcije za tipke Power i Glasnoću +/-</string>
   <string name="volume_button_setting_summary">Postavi funkciju tipaka glasnoće tijekom alarma</string>

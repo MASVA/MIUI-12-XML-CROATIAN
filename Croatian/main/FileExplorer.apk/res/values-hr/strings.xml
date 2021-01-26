@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="access_limit">Ograničenja pristupa</string>
+  <string name="access_tips">"Ne mogu pristupiti stavkama. Pokušajte umjesto toga koristiti Android Storage Access Framework."</string>
   <string name="account_bind_prompt">Premještam korisničke podatke… 
  To može potrajati nekoliko minuta</string>
   <string name="account_login_title">Račun</string>
@@ -388,6 +390,7 @@
   <string name="get_user_info_err">"Ne mogu dobiti iformacije o korisniku"</string>
   <string name="get_verification_code_fail">"Ne mogu dobiti kôd za provjeru"</string>
   <string name="gigabyteShort">GB</string>
+  <string name="go_ahead">Otvori</string>
   <string name="good_tip">Bravo!</string>
   <string name="grid_mode">Rešetka</string>
   <string name="group_title">%2$s od %1$s</string>
@@ -546,6 +549,9 @@
   <string name="mirror_can_not_drag_mask">Povucite za korištenje Mi Share</string>
   <string name="mirror_new_name">Izradi mapu (%s)</string>
   <string name="mirror_new_name_first">Izradi mapu</string>
+  <string name="mirror_no_recommended_app">Nema preporučenih aplikacija</string>
+  <string name="mirror_open_mode_error">"Nije moguće učitati stavke"</string>
+  <string name="mirror_open_mode_loading">Samo trenutak…</string>
   <string name="mirror_paste_no_file">"Ova datoteka ne postoji"</string>
   <string name="mirror_progress_copy">Kopiranje…</string>
   <string name="mirror_side_bar_tab_app_name">Aplikacije</string>
@@ -818,6 +824,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="operation_moving_detail">Premještanje (%1$d/%2$d)</string>
   <string name="operation_new_folder">Izradi mapu</string>
   <string name="operation_open">Otvori</string>
+  <string name="operation_open_mode">Otvori s</string>
   <string name="operation_other_apps">Otvori u drugoj aplikaciji</string>
   <string name="operation_paste">Zalijepi</string>
   <string name="operation_paste_to_folder">Zalijepi u mapu</string>
@@ -931,6 +938,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="prize_result_tip2">Dragulji idu u vašu riznicu</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="pull_to_enter_private">Povuci dolje za otvaranje privatne mape</string>
+  <string name="qq_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati QQ dokumente."</string>
+  <string name="qq_title">"Ne mogu pristupiti QQ dokumentima"</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
@@ -1050,6 +1059,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="select_music">Glazba</string>
   <string name="select_video">Videozapisi</string>
   <string name="select_volume">Odaberite medij</string>
+  <string name="send">Pošalji</string>
   <string name="send_comment">Pošalji</string>
   <string name="send_error">"Ne mogu dodati komentar"</string>
   <string name="send_sticker">Pošalji naljepnicu</string>
@@ -1067,12 +1077,11 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="setting">Postavke</string>
   <string name="setting_account_bind">Dodaj račun</string>
   <string name="setting_message_notify">Obavijesti</string>
-  <string name="setting_shortcut">Dodaj prečac na početni zaslon</string>
+  <string name="setting_shortcut">Dodaj prečac na Poč. zaslon</string>
   <string name="share_box">Podijeljeno</string>
   <string name="share_box_receive">Primljeno</string>
   <string name="share_box_send">Poslano</string>
   <string name="share_dialog_msg">"Podijelite ovaj videozapis s prijateljima."</string>
-  <string name="share_from_youliao">（From#有料# @有料Video）丨</string>
   <string name="share_later">Odustani</string>
   <string name="share_link_failed">"Ne mogu izraditi poveznicu."</string>
   <string name="share_now">Podijeli</string>
@@ -1107,7 +1116,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="shared_str">Podijelio %s</string>
   <string name="shortcut_exists">Prečac već postoji</string>
   <string name="shortcut_hotvideos">Popularni videozapisi</string>
-  <string name="shortcut_msg">Dodaj prečac na početni zaslon za popularne videozapise</string>
+  <string name="shortcut_msg">Dodaj prečac na Poč. zaslon za popularne videozapise</string>
   <string name="show_message">Morate preuzeti ovu datoteku prije nego što je možete otvoriti.</string>
   <string name="sign_description">Prijava…</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežnu vezu."</string>
@@ -1406,6 +1415,8 @@ oslobodili prostor.</string>
   <string name="view_more_sticker">Prikaži još naljepnica</string>
   <string name="view_top_rank">Prikaži poredak</string>
   <string name="view_type">Pregled</string>
+  <string name="wechat_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati dokumente pregledane u WeChatu. Otvorite i spremite dokumente u WeChat kako bi se pojavili ovdje."</string>
+  <string name="wechat_title">"Ne mogu pristupiti WeChat dokumentima"</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čekanje na mrežu…</string>
   <string name="wait_sdcard">Čekanje SD kartice…</string>

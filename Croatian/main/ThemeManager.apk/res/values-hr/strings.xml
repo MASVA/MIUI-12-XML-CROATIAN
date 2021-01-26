@@ -111,6 +111,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="both_all_apply_success">Slika pozadine postavljena</string>
   <string name="browser_local_resource">Lokalni izvori</string>
   <string name="can_not_apply">Ne mogu postaviti</string>
+  <string name="can_not_apply_error">"Ovaj format videozapisa nije podržan"</string>
+  <string name="can_not_apply_size_invalid">Ovaj je videozapis prevelik</string>
   <string name="card_data_request_error">Dogodila se pogreška. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
   <string name="card_loading">Samo trenutak…</string>
   <string name="card_no_network">"Ne mogu se povezati s mrežom. Provjerite mrežne postavke i pokušajte ponovno."</string>
@@ -310,6 +312,14 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="find_more_wallpapers">Pronađi više</string>
   <string name="first_page_recommend">Preporučeno</string>
   <string name="float_wallpaper_is_here">Transparentna slika pozadine</string>
+  <string name="font_compat_dialog_buy_confirm">Kupi</string>
+  <string name="font_compat_dialog_buy_content">Neke aplikacije možda ne podržavaju fontove treće strane. Ovaj problem s kompatibilnošću riješit će nadolazeće ažuriranje sustava. Kupiti svejedno ovaj font?</string>
+  <string name="font_compat_dialog_cancel">Odustani</string>
+  <string name="font_compat_dialog_download_confirm">Preuzmi</string>
+  <string name="font_compat_dialog_download_content">Neke aplikacije možda ne podržavaju fontove treće strane. Ovaj problem s kompatibilnošću riješit će nadolazeće ažuriranje sustava. Preuzeti svejedno ovaj font?</string>
+  <string name="font_compat_dialog_title">Problem s kompatibilnošću</string>
+  <string name="font_compat_dialog_trial_confirm">Isprobaj</string>
+  <string name="font_compat_dialog_trial_content">Neke aplikacije možda ne podržavaju fontove treće strane. Ovaj problem s kompatibilnošću riješit će nadolazeće ažuriranje sustava. Isprobati svejedno ovaj font?</string>
   <string name="forcetouch_featured">Istaknuti</string>
   <string name="forcetouch_free_themes">Besplatne teme</string>
   <string name="forcetouch_offline">Izvanmrežno</string>
@@ -380,6 +390,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="hide_pull_down_message">Sakriti?</string>
   <string name="hide_pull_down_negative">"Ne skrivaj"</string>
   <string name="hide_pull_down_positive">Sakrij</string>
+  <string name="hide_retract_button">Sakrij</string>
   <string name="home_apply_failured">"Ne mogu postaviti pozadinu Poč. zaslona"</string>
   <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
   <string name="home_daily">Dnevni naglasci</string>
@@ -913,6 +924,8 @@ dd.MM"</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="scrollable_wallpaper_close">Pomicanje isključeno</string>
+  <string name="scrollable_wallpaper_open">Pomicanje uključeno</string>
   <string name="sdcard_not_mounted_dialog_message">"SD kartica nedostupna, 
   umetnite je odmah."</string>
   <string name="sdcard_not_mounted_dialog_title">SD kartica nije prisutna</string>
@@ -930,6 +943,7 @@ dd.MM"</string>
   <string name="search_sort_top">Popularno prvo</string>
   <string name="selected_resource_file_invalid">"Ne mogu koristiti odabrane resurse datoteke"</string>
   <string name="server_internal_error">Došlo je do pogreške poslužitelja. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
+  <string name="set_as_colorring">Postavite vlastitu melodiju zvona</string>
   <string name="set_color_ring_back_tone">Postavite vlastitu melodiju zvona</string>
   <string name="set_home_wallpaper_failed">"%s. Ne mogu postaviti sliku pozadine Poč. zaslona."</string>
   <string name="setting_font_online">Online fontovi</string>

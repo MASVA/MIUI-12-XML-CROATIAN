@@ -500,6 +500,7 @@
   <string name="item_title_process_mode">Odaberite radnju</string>
   <string name="junk_tag_RF_EmptyFolders">Prazne mape</string>
   <string name="junk_tag_RF_ImageThumbnails">Minijature Galerije</string>
+  <string name="junk_temporary_file">Privremene datoteke</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Ništa</string>
