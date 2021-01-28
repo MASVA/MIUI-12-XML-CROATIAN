@@ -65,6 +65,7 @@
   <string name="error_has_occurred">Dogodila se pogreška</string>
   <string name="error_mirror_working">"Stavke se ne mogu dijeliti tijekom dijeljenja zaslona"</string>
   <string name="error_msg_network_error">Došlo je do mrežne pogreške. Pokušajte ponovo.</string>
+  <string name="error_permission_denied">Da biste mogli koristiti ovu značajku, odobrite Mi Share sva potrebna dopuštenja u Postavkama.</string>
   <string name="error_receive_file_cannot_read">Nije moguće primiti datoteku</string>
   <string name="error_receive_file_changed">Ne mogu primiti. Stavka se promijenila.</string>
   <string name="error_receive_file_file_opened">"Nije moguće primiti ovu stavku. Izgleda da se sada koristi."</string>
@@ -112,9 +113,8 @@
   <string name="mi_drop">Mi Share</string>
   <string name="mishare_folder_in_file_explorer">Datoteke &gt; MiShare</string>
   <string name="mishare_service_channel_desc">Obavijesti o procesima Mi Share</string>
-  <string name="mishare_settings_summary_international">"Mi Share možete koristiti za slanje stavki uređajima u blizini.
-Mi Share kompatibilan je s Mi i Redmi telefonima.
-OPPO, vivo, realme i druge marke uskoro će biti kompatibilne i sa Mi Share-om. Možete provjeriti popis kompatibilnih uređaja na našoj web stranici."</string>
+  <string name="mishare_settings_summary_international">"Mi Share omogućuje vam bežično slanje stavki na druge uređaje u blizini.
+Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih telefona. Popis podržanih uređaja možete provjeriti na službenom web mjestu bilo koje odabrane marke."</string>
   <string name="mishare_state_protection">Uključite Mi Share automatski</string>
   <string name="mishare_state_protection_summary">Kad uključite Bluetooth ili Wi-Fi, automatski uključi i Mi Share</string>
   <string name="mishare_state_protection_summary_china">Automatski ponovno uključi Mi Share kad se Bluetooth ili Wi-Fi ponovno uključe</string>
@@ -129,6 +129,7 @@ OPPO, vivo, realme i druge marke uskoro će biti kompatibilne i sa Mi Share-om. 
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="multi_file_name">%1$s, %2$s</string>
   <string name="name_with_ellipsize">%1$s…%2$s</string>
+  <string name="nearby_share">Dijeljenje u blizini</string>
   <string name="no_longer_prompt">Blokiraj</string>
   <string name="no_longer_receive">Blokirati ovaj uređaj? Nećete moći primati datoteke s njega.</string>
   <string name="not_set">Nije postavljeno</string>

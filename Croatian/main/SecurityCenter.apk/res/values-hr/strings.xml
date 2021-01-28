@@ -1160,6 +1160,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="datausage_purchase_title_order">Nadoplata</string>
   <string name="datausage_purchase_title_pkglist">Nadoplata</string>
   <string name="datausage_purchase_view_detail">Prikaži detalje</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="day_overflow_tips">Upozorenje o dnevnoj uporabi podataka</string>
   <string name="debug_open_final_tip">Želite li uključiti otklanjanje pogrešaka putem USB-a?</string>
   <string name="debug_open_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Uključivanjem otklanjanja pogrešaka putem USB-a mogu se dogoditi sljedeće promjene:</string>
@@ -3812,6 +3813,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="see_more_content">Ažurirajte igre da biste vidjeli više istaknutih stavki</string>
   <string name="select_pattern">Odaberite uzorak</string>
   <string name="select_province_and_city">Odaberite lokaciju</string>
+  <string name="send">Pošalji</string>
   <string name="send_msg_to_query">Pošaljite SMS poruku za provjeru</string>
   <string name="set_applock_password">Postavite zaporku</string>
   <string name="set_complete">Uspješno postavljeno</string>

@@ -499,9 +499,11 @@
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="vender_info_translation_kingsoft">Powered by Kingsoft</string>
+  <string name="visit">Posjeti</string>
   <string name="view_study_report">Prikaži izvjećše</string>
   <string name="web">Web stranica:</string>
   <string name="website_details">Web stranica:</string>
+  <string name="web_url">URL</string>
   <string name="weixin_code_tip">Koristite WeChat za skeniranje ovog QR koda</string>
   <string name="welcome_to_thesweepversion">Dobrodošli u Skener Beta!</string>
   <string name="wifi_details">Wi-Fi:</string>

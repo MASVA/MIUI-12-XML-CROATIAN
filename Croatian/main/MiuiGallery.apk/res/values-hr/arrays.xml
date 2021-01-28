@@ -189,8 +189,11 @@
         <item>Sjena u boji</item>
         <item>Električni val</item>
         <item>Trenutno</item>
+		<item>Valovi</item>
+        <item>Čestice</item>
         <item>Tekst</item>
         <item>Krila</item>
+		<item>Anđeo</item>
     </string-array>
     <string-array name="magic_idp_size_category">
         <item>Općenito</item>

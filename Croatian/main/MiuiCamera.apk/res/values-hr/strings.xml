@@ -386,6 +386,8 @@ i na trenutak izađite iz pregleda"</string>
   <string name="clone_video_mode">Videozapis</string>
   <string name="close_back_flash_toast">"Vaš je uređaj pregrijan. Ne mogu koristiti bljeskalicu."</string>
   <string name="close_front_flash_toast">"Vaš je uređaj pregrijan. Ne mogu koristiti bljeskalicu."</string>
+  <string name="close_night_algo_toast_low_power">Napunite svoj uređaj da biste mogli podesiti ekspoziciju</string>
+  <string name="close_night_algo_toast_thermal">Ohladite svoj uređaj da biste mogli podesiti ekspoziciju</string>
   <string name="color_effect_entry_blackgold">Gold vibes</string>
   <string name="color_effect_entry_blackgold_describe">Ovaj visokokontrastni filtar zadržava samo žutu i tamnoplavu boju. Koristite ga na dobro osvijetljenim ulicama noćnog grada.</string>
   <string name="cloud_album_details">Detalji Cloud albuma:</string>
@@ -1192,7 +1194,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_device_watermark_title">Oznaka uređaja</string>
   <string name="pref_camera_dual_enable_title">Uključi dvojnu kameru</string>
   <string name="pref_camera_dual_sat_enable_title">Uključi dvojnu SAT kameru</string>
-  <string name="pref_camera_dynamic_frame_rate_summary">Smanji brzinu kadrova u uvjetima slabog osvjetljenja od %1$d do %2$d FPS za poboljšanje kvalitete videozapisa</string>
+  <string name="pref_camera_dynamic_frame_rate_summary">Broj slika u sekundi automatski će se smanjiti u uvjetima slabog osvjetljenja kako bi se poboljšala kvaliteta videozapisa.</string>
   <string name="pref_camera_dynamic_frame_rate_title">Podesi brzinu kadra pri slabom svjetlu</string>
   <string name="pref_camera_eis_entry_normal">EIS je uključen</string>
   <string name="pref_camera_eis_entry_off">Isključeno</string>
@@ -1364,6 +1366,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretni način rada uključen</string>
   <string name="pref_camera_portrait_mode_title">Portretni način</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Uljepšanje u portretnom načinu rada</string>
+  <string name="pref_camera_predictive_shutter_description">Pratite pokrete kako biste smanjili zamućivanje na fotografijama djece, kućnih ljubimaca i drugih aktivnih subjekata</string>
+  <string name="pref_camera_predictive_shutter_title">Prati pokret</string>
   <string name="pref_camera_proximity_lock_summary">Zaključaj geste dodira kada se stavi u džep</string>
   <string name="pref_camera_proximity_lock_title">Džepni način rada</string>
   <string name="pref_camera_quick_settings">Brze postavke</string>
