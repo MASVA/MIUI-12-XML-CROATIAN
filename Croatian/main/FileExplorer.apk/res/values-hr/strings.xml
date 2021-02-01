@@ -133,6 +133,8 @@
   <string name="category_type_other">Ostalo</string>
   <string name="category_video">Videozapisi</string>
   <string name="category_zip">Arhive</string>
+  <string name="cdd_message">"Zbog ograničenja Androida 11 nećete moći pregledavati neke datoteke generirane u aplikacijama treće strane u aplikaciji Ddatoteke."</string>
+  <string name="cdd_title">Pažnja</string>
   <string name="change_mobile_network_message">Prebačeno na mobilne podatke. Nastavak prijenosa datoteka će potrošiti puno podataka, jeste li sigurni da želite nastaviti?</string>
   <string name="change_sticker">Odaberite drugu naljepnicu</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
@@ -547,6 +549,7 @@
   <string name="migrate_update_msg">KuaiPan se zamjenjuje s Mi Drive kako bi vam pružio bolje korisničko iskustvo.</string>
   <string name="migrate_update_title">KuaiPan je zamijenjen s Mi Drive</string>
   <string name="mirror_can_not_drag_mask">Povucite za korištenje Mi Share</string>
+  <string name="mirror_can_not_drag_mask_new">Povucite stavke u %s</string>
   <string name="mirror_new_name">Izradi mapu (%s)</string>
   <string name="mirror_new_name_first">Izradi mapu</string>
   <string name="mirror_no_recommended_app">Nema preporučenih aplikacija</string>
@@ -558,6 +561,7 @@
   <string name="mirror_side_bar_tab_mine_name">Mi Share</string>
   <string name="mirror_side_bar_tab_phone_name">Unutarnja pohrana</string>
   <string name="mirror_side_bar_tab_recent_name">Nedavno</string>
+  <string name="mirror_side_bar_tab_tranfer_name">Prijenosi &amp; preuzimanja</string>
   <string name="mirror_side_bar_tab_type_name">Datoteke</string>
   <string name="mirror_storage_internal_desc">Unutarnja pohrana</string>
   <string name="mirror_tip_add_file">Izradi mapu</string>
@@ -1211,6 +1215,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tools">ALATI</string>
+  <string name="transfer">Prijenosi &amp; preuzimanja</string>
   <string name="top_mark">TOP</string>
   <string name="top_videos">Podijeli poredak</string>
   <string name="topic_follow">Prati</string>
@@ -1221,6 +1226,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="trans_task">Mrežni prijenos</string>
   <string name="transfer_done">Datoteke uspješno premještene.</string>
   <string name="transfer_private_data">Premještanje skrivenih datoteka sa SD kartice…</string>
+  <string name="transfer_summary">Preuzimanja i stavke prenesene putem Mi Share</string>
   <string name="transing">Slanje…</string>
   <string name="trash_box_capacity">Smeće %1$s</string>
   <string name="trash_box_link">Da ispraznite smeće, posjetite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>

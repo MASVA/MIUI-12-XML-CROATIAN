@@ -692,6 +692,7 @@ Audio"</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_via_wfa">Povezano putem Wi-Fi pomoćnika</string>
   <string name="content_description_menu_button">Izbornik</string>
+  <string name="control_center_notification_switch_guide">Povucite za prebacivanje između Centra za kontrolu i Panela obavijesti</string>
   <string name="controls_added_tooltip">Zadržite tipku za uključivanje/isključivanje za prikaz novih kontrola</string>
   <string name="controls_confirmation_confirming">Potvrđivanje…</string>
   <string name="controls_confirmation_message">Potvrdite promjenu za uređaj %s</string>

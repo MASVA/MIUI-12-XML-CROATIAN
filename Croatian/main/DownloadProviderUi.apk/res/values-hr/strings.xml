@@ -172,6 +172,7 @@
   <string name="downloads_operating">Radim…</string>
   <string name="dredge_xunlei_account">Izradite Xunlei Račun</string>
   <string name="edit_hint"> Unesite http, torrent ili eMule adresu</string>
+  <string name="edit_hint2">Unesite HTTP, FTP, magnet, ili ed2k poveznicu</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Dijeli</string>
   <string name="engine_open">Otvori</string>
@@ -251,6 +252,7 @@
   <string name="network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="new_add">Novo</string>
   <string name="new_add_bt">Dodaj torrent</string>
+  <string name="new_add_bt2">Dodaj torrent zadatak</string>
   <string name="no_downloads">Nema datoteka</string>
   <string name="no_file_hint">Ova datoteka je već na čekanju da bude preuzeta</string>
   <string name="no_net">"Ne mogu se povezati na mrežu"</string>
@@ -446,6 +448,7 @@ i pokušajte ponovno."</string>
   <string name="subbt_pause">Pauzirano</string>
   <string name="subbt_wait">Na čekanju…</string>
   <string name="subfile_list">Datoteke</string>
+  <string name="task_add">Dodavanje zadatka…</string>
   <string name="task_detail">Zadaci</string>
   <string name="task_detail_notfound_confirm">U redu</string>
   <string name="task_fail">"Ne mogu dovršiti radnju"</string>

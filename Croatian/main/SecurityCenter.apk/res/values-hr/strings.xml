@@ -43,6 +43,7 @@
   <string name="Setting_lock">Postavke</string>
   <string name="Settings_title_anti_spam">Postavke liste blokiranih</string>
   <string name="Settings_title_anti_virus">Postavke Sigurnosnog skeniranja</string>
+  <string name="Settings_title_anti_virus_kddi">Postavke Sigurnosnog skeniranja</string>
   <string name="Settings_title_garbage_cleanup">Postavke Čištača</string>
   <string name="Settings_title_network_assistants">Postavke uporabe podataka</string>
   <string name="Settings_title_power_center">Postavke optimizacije baterije</string>
@@ -117,8 +118,9 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="action_source_sms_title">Blokirane poruke</string>
   <string name="activate_fingerprint_dialog_message">"Ovaj otisak prsta nije aktivan. Unesite zaporku da biste aktivirali ovaj otisak prsta."</string>
   <string name="activate_fingerprint_dialog_title">Unesite zaporku</string>
-  <string name="activity_title_antispam">AntiSpam</string>
+  <string name="activity_title_antispam">Lista blokiranih</string>
   <string name="activity_title_antivirus">Sigurnost</string>
+  <string name="activity_title_antivirus_kddi">Sigurnosno skeniranje</string>
   <string name="activity_title_apps_manager">Aplik.</string>
   <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
   <string name="activity_title_create_shortcut">Prečac</string>
@@ -222,9 +224,12 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="antivirus_privacy_dialog_cloudscan_description">"Da bismo učinkovitije otkrili i neutralizirali viruse, prenijet ćemo imena i svojstva paketa aplikacija kako bismo ih skenirali pomoću cloud mehanizma."</string>
   <string name="antivirus_privacy_dialog_ok">U redu</string>
   <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Ovu značajku pokreće antivirusni sustav treće strane. Da biste saznali više, pročitajte &amp;lt;a href=\"%1$s\"&amp;gt;Licencni ugovor&amp;lt;/a&amp;gt; kojeg pruža treća strana.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Kada izvršavate sigurnosno skeniranje, model vašeg uređaja i rezultati skeniranja prenijet će se na %1$s poslužitelje i koriste se u skladu s odgovarajućim &lt;a href=\"%2$s\">Uvjeti i odredbe&lt;/a>.&lt;br/>&lt;br/>Pročitajte i pristanite na %3$s uvjete i odredbe prije izvođenja sigurnosnih skeniranja.&lt;br/>&lt;br/>If you don't agree to upload data to %4$s servers, you can still use the virus definitions stored locally on your device."</Data></string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o Privatnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o Privatnosti</string>
+  <string name="antivirus_privacy_dialog_title_kddi">Uvjeti i odredbe</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Sigurnost ne može se ažurirati jer ste ograničili internetsku vezu. Dopustiti aplikaciji povezivanje na internet?"</string>
+  <string name="antivirus_third_privacy_title">Pravila o privatnosti trećih strana</string>
   <string name="antivirus_sec_support">Powered by %s</string>
   <string name="antivirus_toast_already_update">Sve je ažurno</string>
   <string name="antivirus_toast_network_unavailable">Ne mogu se povezati na mrežu</string>
@@ -1925,7 +1930,7 @@ vašeg igranja"</string>
   <string name="image_protect_tips_title">Brisanje fotografija</string>
   <string name="image_protect_total_activity_label">Primite obavijesti o izbrisanim fotografijama</string>
   <string name="info_and_call">Pozivi i poruke</string>
-  <string name="info_antispam_close">AntiSpam je isključen</string>
+  <string name="info_antispam_close">Lista blokiranih je isključena</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Blokiraj pozive</string>
   <string name="info_antispam_phone_sms">Blokiraj pozive i SMS</string>
@@ -2243,8 +2248,9 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_summary_power_manager_2">Preostalo %s</string>
   <string name="menu_summary_power_manager_3">Priključite punjač</string>
   <string name="menu_summary_power_manager_4">%s do dovršetka punjenja</string>
-  <string name="menu_text_antispam">AntiSpam</string>
+  <string name="menu_text_antispam">Lista blokiranih</string>
   <string name="menu_text_antivirus">Sigurnost</string>
+  <string name="menu_text_antivirus_kddi">Sigurnosno skeniranje</string>
   <string name="menu_text_deepclean_summary">%1$s/%2$s zauzeto</string>
   <string name="menu_text_garbage_cleanup">Čistač</string>
   <string name="menu_text_garbage_cleanup_danger">%s smeća</string>
@@ -2893,6 +2899,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_battery_duration">Preostalo vrijeme</string>
   <string name="power_center_battery_full">"Baterija je napunjena "</string>
   <string name="power_center_battery_hardware">Hardware %s</string>
+  <string name="power_center_battery_health_poor_tip">Čini se da je stanje baterije slabo. Provjerite bateriju u ovlaštenom servisnom centru.</string>
   <string name="power_center_battery_last">%s preostalo</string>
   <string name="power_center_battery_level">%s napunjeno</string>
   <string name="power_center_battery_level_general">Normalno</string>

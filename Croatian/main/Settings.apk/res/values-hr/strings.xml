@@ -3991,8 +3991,9 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="haptic_single_selection_02_content_description">Odabrana stavka</string>
   <string name="haptic_switch_summary">Primajte haptične povratne informacije o odabranim stavkama kad je Snimač zaslona uključen</string>
   <string name="haptic_switch_title">Haptična povratna inf.</string>
-  <string name="haptic_text_edit_popup_13_content_description">Pop-up Izbornik</string>
+  <string name="haptic_text_edit_popup_13_content_description">Skočni Izbornik</string>
   <string name="haptic_upper_right_menu_15_content_description">Padajući izbornik</string>
+  <string name="haptic_video_content_description">Demo video o haptičnim povratnim informacijama</string>
   <string name="haptic_volume_adjustment_14_content_description">Podešavanje glasnoće</string>
   <string name="hardkeyboard_category">Postavke fizičke tipkovnice</string>
   <string name="hardware_info">Model i hardver</string>
@@ -10155,6 +10156,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="users_summary">Prijavljeni ste kao %1$s</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="var_font_switch_title">Sistemski promjenjivi font</string>
   <string name="verify_applications">Potvrdi aplikacije</string>
   <string name="verify_applications_summary">Onemogući instalaciju zlonamjernih aplikacija ili skreni pozornost na njih</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
@@ -11139,6 +11141,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="wizard_back">Natrag</string>
   <string name="wizard_finish">Završi</string>
   <string name="wizard_next">Dalje</string>
+  <string name="wlan_scanner_unresizeble">"Ne mogu se prikazati Wi-Fi postavke u Podijeljenom zaslonu"</string>
   <string name="wlan_to_cellular_hint_title">Wi-Fi-&gt;Mobilni savjet</string>
   <string name="words_title">Tekst</string>
   <string name="work_alarm_ringtone_title">Zadani zvuk radnog alarma</string>
