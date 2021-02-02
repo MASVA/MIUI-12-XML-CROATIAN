@@ -29,6 +29,7 @@
   <string name="action_search">Traži</string>
   <string name="add">Dodaj</string>
   <string name="address">Adresa:</string>
+  <string name="adjustment_area">Prilagodi</string>
   <string name="agree_app_use">Skeniranje QR kodova i drugih slika (neke će značajke možda zahtijevati pristup vašoj lokaciji)</string>
   <string name="agree_btn">Slažem se</string>
   <string name="agree_camera_permission">Za snimanje fotografija i videozapisa</string>

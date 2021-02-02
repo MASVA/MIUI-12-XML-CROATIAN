@@ -1543,4 +1543,9 @@
         <item>Zahtijevaj status certifikata</item>
         <item>Zahtijevaj sve nepovjerljive statuse certifikata</item>
      </string-array>
+	 <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Zadano)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+     </string-array>
 </resources>

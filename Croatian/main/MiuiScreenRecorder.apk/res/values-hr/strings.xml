@@ -46,6 +46,8 @@
   <string name="cannot_change_parames">"Ne mogu mijenjati parametre tijekom snimanja"</string>
   <string name="cannot_record">"Ne mogu snimiti, pokušajte ponovo kasnije."</string>
   <string name="close_screen_record">Snimanje je zaustavljeno</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="description_content">"Snimač zaslona pruža mogućnosti snimanja na razini sustava. Ako nastavite, nećete moći koristiti Snimač zaslona. Potvrdite da biste nastavili."</string>
@@ -212,6 +214,7 @@
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="timer_format">%s</string>
   <string name="unchecked">Nije odabrano</string>
   <string name="uninstall_warning_content">"Snimač zaslona je sistemska aplikacija. Nećete moći snimati videozapise zaslona nakon što ga deinstalirate."</string>

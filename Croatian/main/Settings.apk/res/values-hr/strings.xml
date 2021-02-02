@@ -90,12 +90,14 @@
   <string name="accessibility_autoclick_short_summary">0,2 sekunde</string>
   <string name="accessibility_autoclick_short_title">Kratko</string>
   <string name="accessibility_autoclick_shorter_desc">Kraće</string>
+  <string name="accessibility_back">Natrag</string>
   <string name="accessibility_caption_master_switch_summary">Samo za podržanu aplikaciju</string>
   <string name="accessibility_caption_master_switch_title">Prikaži titlove</string>
   <string name="accessibility_caption_preference_summary">Neke aplikacije ne podržavaju postavke titlova</string>
   <string name="accessibility_captioning_title">Postavke titlova</string>
   <string name="accessibility_category_personal">Računi osobnih profila</string>
   <string name="accessibility_category_work">Računi radnih profila – %s</string>
+  <string name="accessibility_clear">Izbriši</string>
   <string name="accessibility_close_tab">Zatvori trenutnu karticu</string>
   <string name="accessibility_control_timeout_preference_summary">"Odaberite koliko će se dugo prikazivati poruke koje traže da izvršite radnju, no vidljive su samo privremeno.
 
@@ -1415,10 +1417,10 @@ Emitiranje se koristi Bluetooth signalima male snage."</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN sadrži slova ili simbole</string>
   <string name="bluetooth_enable_gabeldorsche">Onemogući Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
-  <string name="bluetooth_enable_page_scan">Omogući skeniranje Bluetooth stranice</string>
-  <string name="bluetooth_enable_page_scan_summary">Onemogući/omogući skeniranje stranice za Bluetooth test</string>
   <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
+  <string name="bluetooth_enable_page_scan">Omogući skeniranje Bluetooth stranice</string>
+  <string name="bluetooth_enable_page_scan_summary">Onemogući/omogući skeniranje stranice za Bluetooth test</string>
   <string name="bluetooth_enter_passkey_msg">Unesite kôd za uparivanje pa pritisnite Return ili Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Možda ćete ovaj pristupni kôd trebati unijeti i na drugi uređaj.</string>
   <string name="bluetooth_enter_pin_msg">Uređaj</string>
@@ -4566,6 +4568,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="launch_wifi_text">Prikaz pojedinosti</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_icon">Ikone</string>
+  <string name="launcher_icon_management">Upravljanje prečacima Poč. zaslona</string>
   <string name="launcher_settings_title">MIUI Pokretač</string>
   <string name="launcher_title">Poč. zaslon &amp; Nedavno</string>
   <string name="launching_cit">Pokrećem CIT…</string>
@@ -5228,6 +5231,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_LeftEar">Lijeva</string>
   <string name="miheadset_RightEar">Desna</string>
   <string name="miheadset_active">Energetic</string>
+  <string name="miheadset_anc_indicate">Spojite i uparite slušalice</string>
   <string name="miheadset_audio_mode">Audio način</string>
   <string name="miheadset_audio_mode_high">Visoka kvaliteta</string>
   <string name="miheadset_audio_mode_listen">Slušanje</string>
@@ -5277,6 +5281,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_in_ear_check_summary">Automatski zaustavi i nastavi reprodukciju dok nosite ili uklanjate slušalice</string>
   <string name="miheadset_last_version">Firmware je ažuran</string>
   <string name="miheadset_local_ota">Ažuriraj</string>
+  <string name="miheadset_minus">Glasnoća -</string>
   <string name="miheadset_moreSettingsInAi">Dodatne postavke</string>
   <string name="miheadset_multi_connect_mode">Način višestrukog povezivanja</string>
   <string name="miheadset_multi_connect_mode_summary">Povežite više uređaja istovremeno</string>
@@ -5284,6 +5289,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_ok_device">U redu</string>
   <string name="miheadset_openAnc">Uklanjanje buke</string>
   <string name="miheadset_play_pause">Reprodukcija/Pauza</string>
+  <string name="miheadset_plus">Glasnoća +</string>
   <string name="miheadset_rename">Preimenuj</string>
   <string name="miheadset_rename_device">Preimenuj</string>
   <string name="miheadset_soft">Nježno</string>
@@ -5956,6 +5962,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="normal_bottom_height_of_keyboard">Normalno</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_info">Svi zvukovi će raditi normalno</string>
+  <string name="normal_list_text">Popis</string>
   <string name="normal_smartcover_title">Neprozirni prednji pokrov</string>
   <string name="not_allowed">Vaša SIM kartica ne dopušta povezivanje s ovom mrežom.</string>
   <string name="not_battery_optimizing">Ne upotrebljava optimizaciju baterije</string>

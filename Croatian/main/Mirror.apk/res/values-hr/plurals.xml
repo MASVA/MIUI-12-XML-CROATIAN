@@ -56,4 +56,16 @@
         <item quantity="other">%2$d datoteka, uključujući %1$s</item>
         <item quantity="one">%2$d datoteka, uključujući %1$s</item>
     </plurals>
+	     <plurals name="download_canceled_title_multi">
+        <item quantity="other">Odbijeno %2$d datoteka, uključujući %1$s</item>
+        <item quantity="one">Odbijena %2$d datoteka, uključujući %1$s</item>
+     </plurals>
+     <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Primljeno %2$d datoteka, uključujući %1$s</item>
+        <item quantity="one">Primljena %2$d datoteka, uključujući %1$s</item>
+     </plurals>
+     <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+	 </plurals>
 </resources>

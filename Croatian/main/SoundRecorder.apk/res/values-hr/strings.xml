@@ -48,6 +48,7 @@
   <string name="clear_data_dialog_title">Želite li odmah izbrisati podatke?</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clear_records">Izbriši sinkronizirane zapise</string>
+  <string name="close">Zatvori</string>
   <string name="cloud_record">Sinkronizirano %d</string>
   <string name="cloud_record_open">Sinkr. snimaka</string>
   <string name="cloud_record_tip">Sinkr. snimaka s Mi Cloudom.</string>
@@ -129,7 +130,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-    <string name="monday">Ponedjeljak</string>
+  <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
   <string name="month">Mjesec</string>
@@ -291,6 +292,7 @@
   <string name="shortcut_records">Snimke</string>
   <string name="shortcut_start_record">Započni snimanje</string>
   <string name="shortcut_stop_record">Zaustavi snimanje</string>
+  <string name="send">Pošalji</string>
   <string name="sound_recorder_settings">Postavke</string>
   <string name="speech_recognition_complete">Dovršeno</string>
   <string name="speech_recognition_running_tip">Pokrenuto</string>

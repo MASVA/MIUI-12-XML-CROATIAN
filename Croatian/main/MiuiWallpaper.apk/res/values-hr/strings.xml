@@ -220,6 +220,7 @@ dd.MM"</string>
   <string name="wallpaper_setting_super_wallpaper_banner_title">Super slike pozadine</string>
   <string name="wallpaper_setting_super_wallpaper_more_button_text">Više</string>
   <string name="wallpaper_setting_title">Slika pozadine</string>
+  <string name="weather_summary">Lokalne informacije o vremenu</string>
   <string name="weather_super_wallpaper_label">Vrijeme</string>
   <string name="weather_title">Vrijeme</string>
   <string name="wednesday">Srijeda</string>

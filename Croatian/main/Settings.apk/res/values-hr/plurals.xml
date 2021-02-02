@@ -665,7 +665,6 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
      </plurals>
      <plurals name="zen_mode_bypassing_apps_subtext">
         <item quantity="other">Obavijesti %1$d aplikacija mogu nadjačati Ne ometaj</item>
-        <item quantity="zero">Nijedna aplikacija ne može nadjačati Ne ometaj</item>
 		<item quantity="one">Obavijesti %1$d aplikacije mogu nadjačati Ne ometaj</item>
      </plurals>
 	 <plurals name="bt_usable_device_title">

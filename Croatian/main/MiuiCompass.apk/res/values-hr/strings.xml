@@ -39,8 +39,9 @@
   <string name="altitude_unit">m</string>
   <string name="app_description_content">"Kompas je sistemska aplikacija. Nećete ga moći koristiti za provjeru uputa, koordinata, atmosferskog tlaka i trenutne nadmorske visine nakon što ga deinstalirate."</string> 
   <string name="app_description_title">Deinstalirati Kompas?</string>
+  <string name="app_label">Kompas</string>
   <string name="app_name">Prednosti</string>
-  <string name="calibrate_failed">Ne mogu kalibrirati Nadm. visinu</string>
+  <string name="calibrate_failed">Ne mogu kalibrirati nadm. visinu</string>
   <string name="calibrate_failed_no_location">"Ne mogu kalibrirati"</string>
   <string name="calibrate_failed_timeout">"Ne mogu se povezati na poslužitelj"</string>
   <string name="calibrate_rotate_again">Pokušaj ponovo</string>
@@ -49,6 +50,8 @@
   <string name="calibrate_title">Kalibriranje kompasa</string>
   <string name="cancel">Odustani</string>
   <string name="cannot_get_location">--</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="compass_settings">Postavke</string>
   <string name="copy">Kopiraj</string>
   <string name="cta_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite neobavezna dopuštenja kako biste mogli koristiti sve njegove značajke.</string>
@@ -89,6 +92,7 @@
   <string name="location_south">J</string>
   <string name="location_west">Z</string>
   <string name="longitude">DUŽ</string>
+  <string name="keywords_search_compass">Kompas;Kalibriraj Kompas;Tlak;Visina;Širina;Dužina;Provjeri dužinu; Provjeri širinu;MIUI Kompas;Kompas aplikacija;MIUI Kompas aplikacija;Gdje je Kompas;Preuzmi Kompas;Atmosferski tlak; Provjerite nadm. visinu;Kolika je nadm. visina</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
