@@ -103,6 +103,7 @@
   <string name="bh_buy_now">Kupi</string>
   <string name="bh_call_used">Iskorištene minute</string>
   <string name="bh_cancel">Odustani</string>
+  <string name="bh_cannot_action">"Ne mogu koristiti %1$s. Prvo instalirajte odgovarajuću aplikaciju."</string>
   <string name="bh_cannot_fetch_num">Nepoznati broj telefona</string>
   <string name="bh_cannot_login_miacount">"Ne mogu se prijaviti na Mi Račun"</string>
   <string name="bh_charge_confirm">Dodati %2$s CNY na %1$s?</string>
@@ -150,11 +151,12 @@
   <string name="bh_no_sim_inserted">"SIM kartica nije umetnuta"</string>
   <string name="bh_not_contact">"Nije moguće pronaći rezultate"</string>
   <string name="bh_notice">Pažnja</string>
-  <string name="bh_online_service">Online porška</string>
-  <string name="bh_option_agree_dec">Allow Mi Carrier Services to connect to the internet and grant the required permissions before using the app.</string>
+  <string name="bh_online_service">Online podrška</string>
+  <string name="bh_option_agree_dec">Dopustite Mi Carrier Services da se povežu s internetom i dodijelite potrebna dopuštenja prije upotrebe aplikacije.</string>
   <string name="bh_order_id">Order ID</string>
   <string name="bh_order_loading">Samo trenutak…</string>
-  <string name="bh_order_time">Transaction time</string>
+  <string name="bh_order_pay">Plaćanje</string>
+  <string name="bh_order_time">Vrijeme transakcije</string>
   <string name="bh_other_charge">Other phone number</string>
   <string name="bh_other_operator">Other carriers</string>
   <string name="bh_pay_fail_desc">"Couldn't connect to the network. Go back and complete payment again."</string>

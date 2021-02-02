@@ -172,6 +172,7 @@
   <string name="reset_function_msg">Resetiranje ove značajke može spriječiti %1$s da radi normalno.</string>
   <string name="sharedUserId"/>
   <string name="some_app_taking">(%1$s već koristi tu funkciju…)</string>
+  <string name="snapdragon_sound_notification_content">Ovaj uređaj podržava Qualcomm® Snapdragon Sound™ tehnologiju</string>
   <string name="start_server">Pokreni TCP poslužitelj</string>
   <string name="status_canceled">Korisnik je otkazao prijenos.</string>
   <string name="status_connection_error">Neuspješno povezivanje.</string>

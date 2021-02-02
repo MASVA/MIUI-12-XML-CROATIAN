@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Plutajući prozor</string>
+  <string name="app_name">Plutajući prozori</string>
   <string name="contentDescription">Pomicanje prozora</string>
   <string name="freeform_demo_back">Natrag</string>
   <string name="freeform_demo_final_over">Gotovo</string>
