@@ -662,10 +662,10 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="todo_edit_btn_today">Danas</string>
   <string name="todo_edit_btn_tomorrow">Sutra</string>
   <string name="todo_edit_text_hint">Unesite opis zadatka</string>
-  <string name="todo_event_description_a_week_ago">Prije 1 tjedan</string>
-  <string name="todo_event_description_a_week_later">Za 1 tjedan</string>
-  <string name="todo_event_description_day_after_tomorrow">Za 2 dana</string>
-  <string name="todo_event_description_day_before_yesterday">Prije 2 dana</string>
+  <string name="todo_event_description_a_week_ago">Prije %1$d tjedan</string>
+  <string name="todo_event_description_a_week_later">Za %1$d tjedan</string>
+  <string name="todo_event_description_day_after_tomorrow">Za %1$d dana</string>
+  <string name="todo_event_description_day_before_yesterday">Prije %1$d dana</string>
   <string name="todo_event_description_today">Danas</string>
   <string name="todo_event_description_tomorrow">Sutra</string>
   <string name="todo_event_description_yesterday">Jučer</string>
@@ -726,7 +726,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="toolbar_undo_description">Poništi</string>
   <string name="toolbar_voice_description">Glas</string>
   <string name="trash_folder_name">Smeće</string>
-  <string name="trash_folder_reminder">Bilješke koje izbrišete trajno će biti izbrisane nakon 30 dana.</string>
+  <string name="trash_folder_reminder">Bilješke koje izbrišete trajno će biti izbrisane nakon %1$d dana.</string>
   <string name="trash_folder_reminder_new">Bilješke se čuvaju u smeću %d dana prije nego što se trajno izbrišu</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
