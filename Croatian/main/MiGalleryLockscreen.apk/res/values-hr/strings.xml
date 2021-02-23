@@ -107,8 +107,8 @@
   <string name="cancel_lockscreen">Odustani</string>
   <string name="cancel_network">Izlaz</string>
   <string name="carousel_declaration_btn_text">Uključi Wallpaper Carousel</string>
-  <string name="carousel_declaration_cta">"Wallpaper Carousel zahtijeva internet vezu da radi normalno. Da biste dobili pristup mrežnom sadržaju, morate se složiti s našim &lt;a href='%s'&gt;Pravila o Privatnosti&lt;/a&gt;. Slažete li se?"</string>
-  <string name="carousel_declaration_cta_btn_text">Slažem se i uključi</string>
+  <string name="carousel_declaration_cta">"Wallpaper Carousel zahtijeva internetsku vezu da radi normalno. Da biste dobili pristup mrežnom sadržaju, morate prihvatiti naše &lt;a href='%s'&gt;Pravila o Privatnosti&lt;/a&gt;. Prihvaćate?"</string>
+  <string name="carousel_declaration_cta_btn_text">Prihvaćam i uključi</string>
   <string name="carousel_declaration_des">Pogledajte prekrasna mjesta i doživite uzbudljiva iznenađenja s Wallpaper Carousel</string>
   <string name="carousel_declaration_des2">Dodajte svoje slike pozadina u Wallpaper Carousel</string>
   <string name="carousel_declaration_des_new">Primajte prilagođene preporuke i birajte nove slike pozadina i priče svaki dan na Zaklj. zaslon.</string>

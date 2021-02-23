@@ -99,8 +99,8 @@ Isključiti svejedno?"</string>
   <string name="create_space_loading">Izrada Drugog prostora…</string>
   <string name="create_work_space">Izradi Radni prostor</string>
   <string name="creating_app_icon">Izrada ikone…</string>
-  <string name="cta_declaration_agree_and_continue">Slažem se</string>
-  <string name="cta_declaration_message_format" formatted="false">Morate pročitati i složiti se s našim &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; prije korištenja Enterprise načina. Vaš uređaj treba biti povezan na internet za aktiviranje Enterprise načina. Slažete li se?</string>
+  <string name="cta_declaration_agree_and_continue">Prihvaćam</string>
+  <string name="cta_declaration_message_format" formatted="false">Morate pročitati i prihvatiti naše &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; prije korištenja Enterprise načina. Vaš uređaj treba biti povezan na internet za aktiviranje Enterprise načina. Prihvaćate?</string>
   <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_space">Trenutni prostor</string>
   <string name="dataSafe">Korištenje Drugog prostora je kao da imate dva uređaja.</string>

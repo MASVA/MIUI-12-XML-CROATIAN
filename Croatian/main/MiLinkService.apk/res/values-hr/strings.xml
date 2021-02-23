@@ -85,8 +85,8 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="global_privacy_explain">Dobrodošli u Emitiranje! Ova aplikacija pruža sljedeće usluge:</string>
   <string name="global_privacy_feature">Korištenje minimiziranih prozora, emitiranje s isključenim zaslonom i skrivanje privatnih stavki.</string>
   <string name="global_privacy_main">"Emitiranje stavki sa zaslona telefona na veći vanjski monitor."</string>
-  <string name="global_privacy_negative">"Ne slažem se"</string>
-  <string name="global_privacy_positive">Slažem se</string>
+  <string name="global_privacy_negative">"Ne prihvaćam"</string>
+  <string name="global_privacy_positive">Prihvaćam</string>
   <string name="global_privacy_tip"><Data>Moramo prikupiti potrebne osobne podatke kako bismo vam pružili osnovne usluge i optimizirali postupak emitiranja. Možete naučiti kako postupamo s podacima koje prikupljamo u našim &lt;a href=%1$s>Pravila o privatnosti&lt;/a>. U bilo kojem trenutku možete povući svoj pristanak na Pravila o privatnosti u Postavkama.</Data></string>
   <string name="hang_up">Emitiraj kad je ekran isključen</string>
   <string name="hang_up_alert_dialog_content">"Emitiranje se neće prekinuti kada se zaslon vašeg telefona isključi. Pritisnite tipku za Power na telefonu da biste ponovo uključili zaslon."</string>

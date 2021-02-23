@@ -3841,6 +3841,9 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="safepay_alert_dialog_button_unknown">Provjeri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Pronađen rizik! Prekini trenutno plaćanje!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne mogu provjeriti sigurnost plaćanja. Povežite se na internet i pokušajte ponovno.&lt;/font&gt;"</string>
+  <string name="saturday">Subota</string>
+  <string name="saturday_short">Sub</string>
+  <string name="saturday_shortest">S</string>
   <string name="save_mode_btn_ok">Razumijem</string>
   <string name="saving_conflict_dialog_cancel">Odustani</string>
   <string name="saving_conflict_dialog_ok">U redu</string>

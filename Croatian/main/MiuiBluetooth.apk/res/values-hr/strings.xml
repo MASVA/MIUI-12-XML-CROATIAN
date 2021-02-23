@@ -143,6 +143,8 @@
   <string name="bluetooth_hearingaid_right_pairing_message">Uparivanje desnog slušnog aparata…</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Upotrijebi za ulaz</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Povezano sa LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Upotrijebi za LE_AUDIO</string>
   <string name="bluetooth_map_profile_summary_connected">Povezano s kartom</string>
   <string name="bluetooth_map_profile_summary_use_for">Upotreba za kartu</string>
   <string name="bluetooth_opp_profile_summary_connected">Povezano s poslužiteljem za prijenos datoteka</string>
@@ -171,6 +173,7 @@
   <string name="bluetooth_profile_headset">Telefonski pozivi</string>
   <string name="bluetooth_profile_hearing_aid">Slušni aparati</string>
   <string name="bluetooth_profile_hid">Ulazni uređaj</string>
+  <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
   <string name="bluetooth_profile_map">SMS-ovi</string>
   <string name="bluetooth_profile_opp">Prijenos datoteke</string>
   <string name="bluetooth_profile_pan">Pristup internetu</string>

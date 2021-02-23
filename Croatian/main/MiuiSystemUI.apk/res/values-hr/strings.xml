@@ -533,6 +533,8 @@ Pokušajte ponovo za %d s."</string>
   <string name="bluetooth_hearingaid_right_pairing_message">Uparivanje desnog slušnog aparata…</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Upotrijebi za ulaz</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Povezano sa LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Upotrijebi za LE_AUDIO</string>
   <string name="bluetooth_map_profile_summary_connected">Povezano s kartom</string>
   <string name="bluetooth_map_profile_summary_use_for">Upotreba za kartu</string>
   <string name="bluetooth_opp_profile_summary_connected">Povezano s poslužiteljem za prijenos datoteka</string>
@@ -558,6 +560,7 @@ Pokušajte ponovo za %d s."</string>
   <string name="bluetooth_profile_headset">Telefonski pozivi</string>
   <string name="bluetooth_profile_hearing_aid">Slušni aparati</string>
   <string name="bluetooth_profile_hid">Ulazni uređaj</string>
+  <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
   <string name="bluetooth_profile_map">SMS-ovi</string>
   <string name="bluetooth_profile_opp">Prijenos datoteke</string>
   <string name="bluetooth_profile_pan">Pristup internetu</string>
@@ -2062,7 +2065,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_rotation_locked_landscape_label">Vodoravno</string>
   <string name="quick_settings_rotation_locked_portrait_label">Okomito</string>
   <string name="quick_settings_rotation_unlocked_label">Automatsko zakretanje</string>
-  <string name="quick_settings_rotationlock_label">Rotate off</string>
+  <string name="quick_settings_rotationlock_label">Rotacija isklj.</string>
   <string name="quick_settings_rssi_emergency_only">Samo hitni pozivi</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_screen_record_label">Snimač zaslona</string>
@@ -2073,7 +2076,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="quick_settings_screenshot_label">Snimka zaslona</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
   <string name="quick_settings_settings_label">Postavke</string>
-  <string name="quick_settings_sim_disabled">" (Onemogućeno)"</string>
+  <string name="quick_settings_sim_disabled"> (Onemogućeno)</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
   <string name="quick_settings_tethering_label">Dijeljenje veze</string>
   <string name="quick_settings_time_label">Vrijeme</string>

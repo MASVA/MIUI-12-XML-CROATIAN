@@ -311,6 +311,7 @@ i prilagodite postavke automatski"</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
   <string name="beauty_fragment_tab_name_beauty">Uljepšanje</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
+  <string name="beauty_fragment_tab_name_makeups">Makeup</string>
   <string name="beauty_mode_reset_toast">Efekti remodeliranja izbrisani</string>
   <string name="beauty_reset">Resetiraj</string>
   <string name="beauty_reset_toast">Efekti figure resetirani</string>
@@ -569,6 +570,7 @@ skenirane dokumente automatski"</string>
   <string name="edit">Uredi</string>
   <string name="edit_blusher">Ruž</string>
   <string name="edit_chin">Brada</string>
+  <string name="edit_color_skin">Ton kože</string>
   <string name="edit_eye_large">Velike oči</string>
   <string name="edit_eyebrow_dye">Obrve</string>
   <string name="edit_face_ruddy">Rumen</string>
@@ -585,6 +587,7 @@ skenirane dokumente automatski"</string>
   <string name="edit_skin_white">Ton</string>
   <string name="edit_slim_nose">Nos</string>
   <string name="edit_smile">Osmijeh</string>
+  <string name="edit_solid">Contour</string>
   <string name="effect_backdropper_disco">Disco</string>
   <string name="effect_backdropper_gallery">Odaberi vlastito</string>
   <string name="effect_backdropper_space">U svemiru</string>
@@ -766,15 +769,18 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="live_error_message">Neke značajke možda neće ispravno raditi kada je vrijeme sustava pogrešno</string>
   <string name="live_error_title">"Vrijeme sustava nije ispravno"</string>
   <string name="live_music_author">Xiaomi Short Video</string>
+  <string name="live_music_author_unknown">Nepoznati izvođač</string>
   <string name="live_music_change_bgm">Promijeni pozadinsku glazbu</string>
   <string name="live_music_close_cancel_message">Odustani</string>
   <string name="live_music_close_message">Želite li isključiti glazbu?</string>
   <string name="live_music_close_sure_message">Isključi</string>
+  <string name="live_music_cut_prompt">Odaberi pjesmu</string>
   <string name="live_music_downloading_tips">Preuzimanje…</string>
   <string name="live_music_hot_title">Popularne pjesme</string>
   <string name="live_music_local_title">Lokalno</string>
   <string name="live_music_network_exception">Pogreška mreže</string>
   <string name="live_music_network_exception_tips">Došlo je do pogreške mreže. Dodirni za ponovni pokušaj.</string>
+  <string name="live_music_title_unknown">Nepoznata pjesma</string>
   <string name="live_reverse_confirm">Izbriši</string>
   <string name="live_reverse_message">Izbrisati prethodno snimljene stavke?</string>
   <string name="live_share_moments">Trenutci</string>
@@ -1811,11 +1817,11 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom ne podržava vanjske mikrofone"</string>
   <string name="update_loading">Preuzeto %1$d%%</string>
   <string name="update_start">Ažuriraj %1$s</string>
-  <string name="user_agree">Slažem se</string>
+  <string name="user_agree">Prihvaćam</string>
   <string name="user_define_watermark_cancel">Odustani</string>
   <string name="user_define_watermark_save">Spremi</string>
-  <string name="user_disagree">"Ne slažem se"</string>
-  <string name="user_notice_identify_summary_format">Prije korištenja Kamere morate se složiti s našim &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Korisnički sporazum&lt;/a&gt; i &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Pravila o Privatnosti&lt;/a&gt;. Kamera se također mora povezati s internetom kako bi radila normalno. Slažete li se?</string>
+  <string name="user_disagree">"Ne prihvaćam"</string>
+  <string name="user_notice_identify_summary_format">Prije korištenja Kamere morate prihvatiti naše &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Korisnički sporazum&lt;/a&gt; i &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Pravila o Privatnosti&lt;/a&gt;. Kamera se također mora povezati s internetom kako bi radila normalno. Prihvaćate?</string>
   <string name="user_notice_title">Uvjeti i odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>

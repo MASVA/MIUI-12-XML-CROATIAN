@@ -28,11 +28,11 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="accessibility_enabled">Pristupačnost je omogućena.</string>
-  <string name="agree">Slažem se</string>
-  <string name="agree_and_next">Slažem se</string>
-  <string name="agree_terms">"Pročitao sam i slažem se s Uvjeti Pružanja Usluge i Pravila o Privatnosti"</string>
-  <string name="agree_terms_input_method_facemoji">"Pročitao sam i slažem se s Facemoji Pravila o Privatnosti."</string>
-  <string name="agree_terms_input_method_kika">"Pročitao sam i slažem se s Kika Pravila o Privatnosti."</string>
+  <string name="agree">Prihvaćam</string>
+  <string name="agree_and_next">Prihvaćam</string>
+  <string name="agree_terms">"Pročitao sam i prihvaćam Uvjete Pružanja Usluge i Pravila o Privatnosti"</string>
+  <string name="agree_terms_input_method_facemoji">"Pročitao sam i prihvaćam Facemoji Pravila o Privatnosti."</string>
+  <string name="agree_terms_input_method_kika">"Pročitao sam i prihvaćam Kika Pravila o Privatnosti."</string>
   <string name="ai_button_desc">AI tipka vam omogućuje pokretanje Mi AI i korištenje Mi AI prečaca.</string>
   <string name="ai_button_double_press">Dvaput pritisnite</string>
   <string name="ai_button_double_press_desc">Postavite značajke Mi AI</string>
@@ -73,17 +73,17 @@
   <string name="desc_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja, potvrdu Mi Pay transakcija ili za prijavu u aplikacije i usluge.</string>
   <string name="desc_international_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja ili za prijavu u aplikacije i usluge.</string>
   <string name="diagnose_report">Šaljite dijagnostičke podatke da biste locirali i analizirali probleme sustava i poboljšali korisničko iskustvo. Takvi podaci mogu uključivati osobne podatke (npr. IP, lokaciju itd.)</string>
-  <string name="disageement_abnormal_download">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
+  <string name="disageement_abnormal_download">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
   <string name="disagree">Odustani</string>
-  <string name="disagreement_abnormal_running">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
-  <string name="disagreement_abnormal_running_fast_pairing">"Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti ovu aplikaciju. U takvim ćete slučajevima moći ograničiti dopuštenja u postavkama."</string>
-  <string name="disagreement_donnot_use_application">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju u takvim slučajevima."</string>
-  <string name="disagreement_donnot_use_product">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovaj proizvod. Možete odlučiti da nećete koristiti ovaj proizvod u takvim slučajevima."</string>
-  <string name="disagreement_donnot_use_service">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. Možete odlučiti da nećete koristiti ovu uslugu u takvim slučajevima."</string>
-  <string name="disagreement_exit_app">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete se odjaviti ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
-  <string name="disagreement_function">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu značajku. Možete odlučiti da nećete koristiti ovu značajku u takvim slučajevima."</string>
-  <string name="disagreement_location_service">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
-  <string name="disagreement_terminate_service">"Ako se ne slažete s davanjem takvih dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. You can choose to uninstall, sign out, or restrict permissions in the Settings in such cases."</string>
+  <string name="disagreement_abnormal_running">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
+  <string name="disagreement_abnormal_running_fast_pairing">"Ako ne prihvaćate davati takva dopuštenja, nećete moći koristiti ovu aplikaciju. U takvim ćete slučajevima moći ograničiti dopuštenja u postavkama."</string>
+  <string name="disagreement_donnot_use_application">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju u takvim slučajevima."</string>
+  <string name="disagreement_donnot_use_product">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovaj proizvod. Možete odlučiti da nećete koristiti ovaj proizvod u takvim slučajevima."</string>
+  <string name="disagreement_donnot_use_service">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. Možete odlučiti da nećete koristiti ovu uslugu u takvim slučajevima."</string>
+  <string name="disagreement_exit_app">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete se odjaviti ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
+  <string name="disagreement_function">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu značajku. Možete odlučiti da nećete koristiti ovu značajku u takvim slučajevima."</string>
+  <string name="disagreement_location_service">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
+  <string name="disagreement_terminate_service">"Ako ne prihvaćate davati takva dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. You can choose to uninstall, sign out, or restrict permissions in the Settings in such cases."</string>
   <string name="download_introduction">\"Preuzimanja\" koristi Xunlei za preuzimanje stavki na vaš uređaj. Ovaj alat funkcionira za GetApps, ažuriranja sustava, teme, video zapise i preuzimanja preglednika.</string>
   <string name="enable_accessibility_canceled">Pristupačnost je otkazana.</string>
   <string name="enable_accessibility_dialog_message">Uključili ste TalkBack pritiskom na zaslon s 2 prsta dulje od 10 sekundi. TalkBack pruža govorne povratne informacije osobama s oštećenjem vida. Ako ga uključili slučajno, dodirnite tipku Odustani, a zatim dvaput dodirnite zaslon.</string>
@@ -281,7 +281,7 @@
   <string name="system_navigation_mode">Način navigacije sustavom</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>
   <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
-  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate se složiti s Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. %s i komponente Mi Računa povezati će na internet i pribaviti vašu lokaciju."</string>
+  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate prihvatiti Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. %s i komponente Mi Računa povezati će na internet i pribaviti vašu lokaciju."</string>
   <string name="terms_of_use_label_Mistore">, Mi Store sistemski dodatak</string>
   <string name="terms_of_use_label_mab">, MAB</string>
   <string name="terms_of_use_label_package">, Alat za instalaciju paketa</string>
@@ -291,10 +291,10 @@
   <string name="terms_of_use_lable_apps">Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, Početni zaslon, Centar za igre, MAB, MIUI Daemon i MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-Morate se složiti s Facemoji Pravila o Privatnosti prije korištenja ove značajke."</string>
+Morate prihvatiti Facemoji Pravila o Privatnosti prije korištenja ove značajke."</string>
   <string name="terms_of_use_lable_default_input_method_kika">"
 
-Morate se složiti s Kika Pravila o Privatnosti prije korištenja ove značajke."</string>
+Morate prihvatiti Kika Pravila o Privatnosti prije korištenja ove značajke."</string>
   <string name="terms_of_use_lable_default_input_method_mint">"
 
 Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Keyboard."</string>

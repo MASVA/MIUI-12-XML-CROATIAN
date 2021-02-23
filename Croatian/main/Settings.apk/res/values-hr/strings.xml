@@ -812,7 +812,7 @@ Promijeniti postavke sada?"</string>
   <string name="assist_gesture_training_suggestion_summary_including_alarms">Razgovarajte s Asistentom, utišajte alarme i pozive</string>
   <string name="assist_gesture_training_suggestion_title">Stisnite i pustite za Asistent</string>
   <string name="assistant_security_warning">Pomoćnik će moći čitati podatke o aplikacijama koje se upotrebljavaju u vašem sustavu, uključujući podatke vidljive na zaslonu ili podatke kojima se može pristupiti u aplikacijama.</string>
-  <string name="assistant_security_warning_agree">Slažem se</string>
+  <string name="assistant_security_warning_agree">Prihvaćam</string>
   <string name="assistant_security_warning_disagree">Ne slažem se</string>
   <string name="assistant_security_warning_title">Želite li da %s bude vaš pomoćnik?</string>
   <string name="assisted_gps">Koristite potpomognuti GPS</string>
@@ -1451,6 +1451,8 @@ Evo što može biti pogrešno:
   <string name="bluetooth_is_discoverable">Vidljivo svim Bluetooth uređajima u blizini (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Vidljivo svim Bluetooth uređajima u blizini</string>
   <string name="bluetooth_is_visible_message">Uređaj %1$s vidljiv je uređajima u blizini dok su postavke Bluetootha otvorene.</string>
+  <string name="bluetooth_le_audio_profile_summary_connected">Povezano sa LE_AUDIO</string>
+  <string name="bluetooth_le_audio_profile_summary_use_for">Upotrijebi za LE_AUDIO</string>
   <string name="bluetooth_left_name">Lijevo</string>
   <string name="bluetooth_lock_voice_dialing">Zaključaj biranje glasom</string>
   <string name="bluetooth_lock_voice_dialing_summary">Spriječite upotrebu Bluetooth birača ako je zaslon zaključan</string>
@@ -1532,6 +1534,7 @@ Evo što može biti pogrešno:
   <string name="bluetooth_profile_headset">Telefonski pozivi</string>
   <string name="bluetooth_profile_hearing_aid">Slušni aparati</string>
   <string name="bluetooth_profile_hid">Ulazni uređaj</string>
+  <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
   <string name="bluetooth_profile_map">SMS-ovi</string>
   <string name="bluetooth_profile_opp">Prijenos datoteke</string>
   <string name="bluetooth_profile_pan">Pristup internetu</string>
@@ -1680,11 +1683,11 @@ Audio"</string>
   <string name="bootloader_status_locked">Zaključan</string>
   <string name="bootloader_status_locked_info">Ovaj uređaj je zaključan</string>
   <string name="bootloader_status_locked_summary">Telefon je siguran</string>
-  <string name="bootloader_status_privacy_dialog_message">Mi Unlock treba pristup vašem Mi Računu, CPU ID-u, IMEI, IMSI-u kako bi normalno funkcionirao. Prikupljamo, upotrebljavamo i obrađujemo vaše podatke u skladu s našim %s. Slažete li se?</string>
+  <string name="bootloader_status_privacy_dialog_message"><Data>Mi Unlock treba pristup vašem Mi računu, CPU ID-u, IMSI-u da bi normalno radio. Pročitajte i prihvatite naše &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="bootloader_status_privacy_dialog_no">Odustani</string>
   <string name="bootloader_status_privacy_dialog_title">Potrebno je dopuštenje</string>
   <string name="bootloader_status_privacy_dialog_url_text">Pravila o Privatnosti</string>
-  <string name="bootloader_status_privacy_dialog_yes">Slažem se</string>
+  <string name="bootloader_status_privacy_dialog_yes">Prihvaćam</string>
   <string name="bootloader_status_summary">Provjerite da li je uređaj zaključan</string>
   <string name="bootloader_status_unlocked">Otključan</string>
   <string name="bootloader_status_unlocked_info">Ovaj uređaj je otključan</string>
@@ -2079,19 +2082,19 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="color_calibration_srgb">sRGB</string>
   <string name="color_cyan">Cijan</string>
   <string name="color_game_led_applications_title">Odaberite aplikacije</string>
-  <string name="color_game_led_applications_title_summary">Možete ograničiti upotrebu LED svjetla za pojedine aplikacije</string>
+  <string name="color_game_led_applications_title_summary">Odaberite pojedinačne aplikacije koje će raditi s LED svjetlom</string>
   <string name="color_game_led_battery_title">Držite uključeno tijekom punjenja</string>
-  <string name="color_game_led_charging_summary">Isključit će se kad se baterija napuni</string>
-  <string name="color_game_led_end_time">Vrijeme završetka</string>
+  <string name="color_game_led_charging_summary">LED svjetlo će se isključiti kad se baterija napuni</string>
+  <string name="color_game_led_end_time">Kraj</string>
   <string name="color_game_led_game_mode_summary">Prikaži efekte za igre kada je Game Turbo uključen</string>
   <string name="color_game_led_game_mode_title">Koristi za Game Turbo</string>
   <string name="color_game_led_incall_pulse_title">Koristi za dolazne pozive</string>
-  <string name="color_game_led_notification_pulse_title">Pulsiraj za obavijesti kad je zaslon isključen</string>
-  <string name="color_game_led_remind_title">Efekti podsjetnika</string>
+  <string name="color_game_led_notification_pulse_title">Pulsiraj za obavijesti na Always-on zaslonu</string>
+  <string name="color_game_led_remind_title">Efekti</string>
   <string name="color_game_led_special_scene_title">Specijalni efekti</string>
-  <string name="color_game_led_start_time">Vrijeme početka</string>
+  <string name="color_game_led_start_time">Početak</string>
   <string name="color_game_led_summary">"Ne radi u DND načinu"</string>
-  <string name="color_game_led_time_title">Vrijeme uključenja LED svjetla</string>
+  <string name="color_game_led_time_title">Raspored uključenja</string>
   <string name="color_game_led_title">LED svjetlo</string>
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
@@ -2832,8 +2835,8 @@ Da biste pokušali riješiti taj problem, možete zaustaviti aplikaciju %1$s i s
   <string name="dialog_check_button_negative">Pokušaj ponovo</string>
   <string name="dialog_check_button_positive">Poveži se na Wi-Fi</string>
   <string name="dialog_check_context">"Vaš se uređaj sada ne može povezati s internetom.
-1. Dodirnite \"Poveži se na Wi-Fi\" za odabir jedne od dostupnih mreža.
-2. Ako želite koristiti mobilne podatke, dodirnite \"Pokušaj ponovo\" ili izvadite i ponovo umetnite SIM karticu."</string>
+. Dodirnite \"Poveži se na Wi-Fi\" za odabir jedne od dostupnih mreža.
+. Ako želite koristiti mobilne podatke, dodirnite \"Pokušaj ponovo\" ili izvadite i ponovo umetnite SIM karticu."</string>
   <string name="dialog_check_title">"Ne mogu se povezati s internetom"</string>
   <string name="dialog_chose_item">Odaberite stavku za prikaz</string>
   <string name="dialog_content_login">Prijaviti se na vaš Mi Račun za primanje ažuriranje?</string>
@@ -3097,7 +3100,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dpp_cannot_connect_target">"Ne mogu se povezati s ciljnom mrežom"</string>
   <string name="dpp_connect_success">Povezano</string>
   <string name="dpp_not_support">"Ne mogu podijeliti ovu mrežu"</string>
-  <string name="dpp_qr_code_summary">Povežite se na Wi-Fi mrežu skeniranjem ovog QR koda.</string>
+  <string name="dpp_qr_code_summary">Zamolite drugu osobu da skenira ovaj QR kôd pomoću skenera u Wi-Fi postavkama.</string>
   <string name="dpp_qrcode_generator_summary">Skenirajte ovaj QR kod uređajem koji podržava Easy Connect</string>
   <string name="dpp_scanner_summary">Postavite QR kôd unutar okvira</string>
   <string name="dpp_shared_fail">"Ne mogu podijeliti Wi-Fi mrežu"</string>
@@ -3446,6 +3449,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Eksperimentalno</string>
   <string name="experimental_preference">(Eksperimentalno)</string>
+  <string name="expert_detail_content_description">Prikaži detalje</string>
   <string name="extended_power_menu">Prošireni izbornik Power</string>
   <string name="exterior">Shema boja</string>
   <string name="external_code_size_label">USB aplikacija za pohranu</string>
@@ -3855,7 +3859,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="game_driver_dashboard_summary">Promijenite postavke upravljačkog programa za igru</string>
   <string name="game_driver_dashboard_title">Postavke upravljačkog programa za igru</string>
   <string name="game_driver_footer_text">Kada je upravljački program za igru uključen, možete odabrati korištenje ažuriranog upravljačkog programa za grafiku za aplikacije instalirane na uređaju.</string>
-  <string name="game_mode_cta_dialog_agree">Slažem se</string>
+  <string name="game_mode_cta_dialog_agree">Prihvaćam</string>
   <string name="game_mode_cta_dialog_cancel">Odustani</string>
   <string name="game_mode_cta_dialog_message">Način igranja mora se povezati s internetom da radi normalno. Slažete li se?</string>
   <string name="game_mode_cta_dialog_title">Potrebno je dopuštenje</string>
@@ -5294,6 +5298,21 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_ignore">Izbriši ovaj uređaj</string>
   <string name="miheadset_in_ear_check">Otkrivanje prisutnosti uha</string>
   <string name="miheadset_in_ear_check_summary">Automatski zaustavi i nastavi reprodukciju dok nosite ili uklanjate slušalice</string>
+  <string name="miheadset_key_config_call_ai">Glasovni asistent</string>
+  <string name="miheadset_key_config_close">Isključeno</string>
+  <string name="miheadset_key_config_close_summary">Isključi uklanjanje buke i prozirnost</string>
+  <string name="miheadset_key_config_gesture_control">Geste</string>
+  <string name="miheadset_key_config_next_music">Sljedeće pjesma</string>
+  <string name="miheadset_key_config_noise_control">Aktivna kontrola buke</string>
+  <string name="miheadset_key_config_noise_control_summary">Pritisnite i držite za prebacivanje između dva odabrana aktivna načina kontrole buke</string>
+  <string name="miheadset_key_config_noise_summary">Blokiraj vanjske zvukove</string>
+  <string name="miheadset_key_config_press_left">Pritisnite i držite lijevu slušalicu</string>
+  <string name="miheadset_key_config_press_right">Pritisnite i držite desnu slušalicu</string>
+  <string name="miheadset_key_config_trans_summary">Dopusti vanjske zvukove</string>
+  <string name="miheadset_key_config_triple_left">Triput dodirnite lijevu slušalicu</string>
+  <string name="miheadset_key_config_triple_right">Triput dodirnite desnu slušalicu</string>
+  <string name="miheadset_key_config_volume_down">Glasnoća -</string>
+  <string name="miheadset_key_config_volume_up">Glasnoća +</string>
   <string name="miheadset_last_version">Firmware je ažuran</string>
   <string name="miheadset_local_ota">Ažuriraj</string>
   <string name="miheadset_minus">Glasnoća -</string>
@@ -6943,9 +6962,9 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="priority_title">Prioritet</string>
   <string name="privacy_applock">Zaklj. aplik.</string>
   <string name="privacy_authorize_cloud_msg">"Da biste osigurali sigurnost računa, prijavite se na i.mi.com ako želite opozvati authotizaciju za usluge Mi Cloud (uključujući sinkronizaciju i sigurnosne kopije)."</string>
-  <string name="privacy_authorize_dialog_agree">Slažem se</string>
+  <string name="privacy_authorize_dialog_agree">Prihvaćam</string>
   <string name="privacy_authorize_dialog_exit">Izlaz</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke ove usluge, morate se složiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša Pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Slažem se\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke ove usluge, morate prihvatiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša Pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Prihvaćam\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Povežite se s mrežom i pokušajte ponovo.</string>
   <string name="privacy_authorize_privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_authorize_revoke">Opozovi</string>
@@ -8042,7 +8061,7 @@ Podaci o licu koje upotrebljava otključavanje licem trajno će se i sigurno izb
   <string name="security_settings_face_enroll_introduction_accessibility_diversity">Koristite otključavanje licem za pristupačnost</string>
   <string name="security_settings_face_enroll_introduction_accessibility_expanded">Ako imate poteškoća s vidom ili kretanjem glave, ova je opcija lakši način za postavljanje otključavanja licem. Kad telefon otključavate licem, vaša bi glava trebala biti točno ispred telefona.</string>
   <string name="security_settings_face_enroll_introduction_accessibility_vision">Oči trebaju biti otvorene</string>
-  <string name="security_settings_face_enroll_introduction_agree">Slažem se</string>
+  <string name="security_settings_face_enroll_introduction_agree">Prihvaćam</string>
   <string name="security_settings_face_enroll_introduction_cancel">Odustani</string>
   <string name="security_settings_face_enroll_introduction_footer_part_0">Možete imati dioptrijske ili lagano zatamnjene sunčane naočale.</string>
   <string name="security_settings_face_enroll_introduction_footer_part_1">"Podaci koje snimi otključavanje licem pohranjuju se sigurno i nikamo se ne šalju s telefona. Svoje podatke možete izbrisati kad god želite u postavkama.
@@ -8582,7 +8601,7 @@ Ako se ne slažete davati takva dopuštenja, nećete moći koristiti neke znača
 Ako se ne slažete davati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
   <string name="sos_privacy_and_content_policy">Korisnički sporazum i Pravila o Privatnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Odustani</string>
-  <string name="sos_privacy_dialog_button_ok">Slažem se</string>
+  <string name="sos_privacy_dialog_button_ok">Prihvaćam</string>
   <string name="sos_privacy_dialog_message">"Pročitajte i složite se s našim %s prije korištenja ove značajke. 
 Ova značajka treba dopuštenja za pristup vašoj lokaciji, upotrebu mobilnih mreža i čitanje kontakata. Slažete li se?"</string>
   <string name="sos_privacy_dialog_message_new_version">"Hitni SOS omogućuje vam dijeljenje svoje lokacije u stvarnom vremenu i slanje tekstualnih poruka hitnim kontaktima.
@@ -10523,12 +10542,12 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_ask_disable">%s želi isključiti Wi-Fi</string>
   <string name="wifi_ask_enable">%s želi uključiti Wi-Fi</string>
   <string name="wifi_assist">Wi-Fi pomoćnik</string>
-  <string name="wifi_assistant">Odaberi najbolje mreže automatski</string>
+  <string name="wifi_assistant">Ostanite povezani</string>
   <string name="wifi_assistant_auto_confirm_data_help">Ovu značajku možete isključiti u Postavke &gt; Wi-Fi &gt; Wi-Fi pomoćnik.</string>
   <string name="wifi_assistant_auto_confirm_data_message">"Koristite mobilne podatkovne mreže kada se vaš uređaj ne može povezati s internetom putem Wi-Fi-ja."</string>
   <string name="wifi_assistant_card_message">Automatski se povežite s dostupnim mrežama pomoću Wi-Fi pomoćnika.</string>
-  <string name="wifi_assistant_confirm_always">"Ne prikazuj ponovno"</string>
-  <string name="wifi_assistant_confirm_connection_title">Odaberi automatski najbolje mreže</string>
+  <string name="wifi_assistant_confirm_always">"Ne pitaj ponovno"</string>
+  <string name="wifi_assistant_confirm_connection_title">"Ne mogu se povezati s internetom"</string>
   <string name="wifi_assistant_data_prompt">Upozori</string>
   <string name="wifi_assistant_data_prompt_summary">Prikaži upozorenje o upotrebi podataka prilikom prelaska na mobilne podatke</string>
   <string name="wifi_assistant_description">"Evo kako funkcionira Wi-Fi pomoćnik:
@@ -10538,21 +10557,25 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_assistant_disconnect">Prekini vezu</string>
   <string name="wifi_assistant_explanation_message">Google Wi-Fi Pomoćnik otkriva mreže koje su Vam dostupne i povezuje uređaj s onom s najboljom brzinom i pouzdanošću.</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">Ova Wi-Fi mreža nema pristup internetu. Koristiti mobilne podatke?</string>
-  <string name="wifi_assistant_explicitly_confirm_disconnect">Ova Wi-Fi mreža nema pristup internetu. Prekinuti vezu?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">Ova Wi-Fi mreža nema pristup internetu. Dostupne su i druge Wi-Fi mreže. Promjeniti mreže?</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">Prekinuti vezu s Wi-Fi mrežom?</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">Čini se da postoje druge dostupne mreže. Promijeniti mrežu?</string>
   <string name="wifi_assistant_intro_setup">"Novo! Wi-Fi pomoćnik"</string>
   <string name="wifi_assistant_keep_connection">Ostani povezan</string>
-  <string name="wifi_assistant_no_thanks">NE, HVALA</string>
+  <string name="wifi_assistant_no_thanks">Ne, hvala</string>
   <string name="wifi_assistant_off">Isključeno</string>
   <string name="wifi_assistant_ok">U redu</string>
   <string name="wifi_assistant_on">Uključeno</string>
+  <string name="wifi_assistant_prompt">Ostani povezan</string>
+  <string name="wifi_assistant_prompt_button">Razumijem</string>
+  <string name="wifi_assistant_prompt_checkbox">Zatraži dopuštenje za korištenje mobilnih podataka</string>
+  <string name="wifi_assistant_prompt_summary">"Uređaj će se povezati s drugim dostupnim Wi-Fi mrežama ili koristiti mobilne podatke kada se vaša trenutna Wi-Fi mreža ne može povezati s internetom."</string>
   <string name="wifi_assistant_open_app">OTVORI APLIKACIJU</string>
   <string name="wifi_assistant_permission_accepted">Dali ste “Google Wi-Fi Pomoćniku” dopuštenje da uspostavi VPN vezu. To znači da aplikacija može nadzirati mrežni promet.</string>
   <string name="wifi_assistant_setting_summary">Google Wi-Fi Pomoćnik</string>
   <string name="wifi_assistant_setting_title">Wi-Fi pomoćnik</string>
   <string name="wifi_assistant_setup">POSTAVI</string>
   <string name="wifi_assistant_setup_wifi_assistant">Postavi</string>
-  <string name="wifi_assistant_summary">Odaberi Wi-Fi ili mobilne podatkovne mreže automatski kada je Wi-Fi veza loša</string>
+  <string name="wifi_assistant_summary">"Povežite se s drugim dostupnim Wi-Fi mrežama ili koristite mobilne podatke kada se vaša trenutna Wi-Fi mreža ne može povezati s internetom"</string>
   <string name="wifi_assistant_switch_data">Koristi mobilne podatke</string>
   <string name="wifi_assistant_switch_wifi">Promjeni mreže</string>
   <string name="wifi_assistant_title">Wi-Fi pomoćnik</string>
@@ -11063,13 +11086,13 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_time_remaining">%1$s preostalo</string>
   <string name="wifi_title">Postavke Wi-Fi-ja</string>
   <string name="wifi_traffic_priority">Način Wi-Fi mirovanja</string>
-  <string name="wifi_traffic_priority_extreme">Ekstremni način</string>
-  <string name="wifi_traffic_priority_extreme_summary">Postavite prednost trenutnim aplikacijama nad aplikacijama u pozadini.</string>
+  <string name="wifi_traffic_priority_extreme">Brza veza</string>
+  <string name="wifi_traffic_priority_extreme_summary">"Dajte prioritet aplikacijama koje koristite dok smanjujete brzinu pozadinskog preuzimanja"</string>
   <string name="wifi_traffic_priority_off">Isključeno</string>
   <string name="wifi_traffic_priority_on">Uključeno</string>
-  <string name="wifi_traffic_priority_regular">Regularni način</string>
-  <string name="wifi_traffic_priority_regular_summary">Podijeli propusnost između trenutne aplikacije i aplikacija u pozadini</string>
-  <string name="wifi_traffic_priority_summary">Automatski odredite mrežni promet</string>
+  <string name="wifi_traffic_priority_regular">Uravnoteženo</string>
+  <string name="wifi_traffic_priority_regular_summary">Dodijelite jednaku propusnost aplikacijama i preuzimanjima u pozadini</string>
+  <string name="wifi_traffic_priority_summary">Dodijelite propusnost aplikacijama i preuzimanjima u pozadini</string>
   <string name="wifi_turned_on_message">Wi-Fi uključen</string>
   <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_dialog_title">Propisi</string>

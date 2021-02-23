@@ -544,7 +544,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_privacy_cloud_off">Sinkr. je isključena</string>
   <string name="micloud_privacy_cloud_sync">Uključite usluge usluge Mi Cloud</string>
   <string name="micloud_privacy_explanation">Odobrite autorizaciju za uključivanje usluge Mi Cloud</string>
-  <string name="micloud_privacy_licence_agreed">Slažem se s Mi Cloud Pravila o privatnosti.</string>
+  <string name="micloud_privacy_licence_agreed">Prihvaćam Mi Cloud Pravila o privatnosti.</string>
   <string name="micloud_privacy_licence_privacy_policy">Pravila o privatnosti</string>
   <string name="micloud_privacy_more">Više</string>
   <string name="micloud_privacy_progress_content">Odobravanje autorizacije…</string>
@@ -557,6 +557,7 @@ Da biste to riješili, možete ili izbrisati neke stare datoteke kako bi napravi
   <string name="micloud_request_permission_title">Mi Cloud treba dopuštenja</string>
   <string name="micloud_request_sync_too_frequent">Previše zahtjeva. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="micloud_setting_antispam_summary">Iznimke i blokirani brojevi telefona.</string>
+  <string name="micloud_setting_bluetooth_summary">Sinkronizirajte podatke o uparenim uređajima s cloudom</string>
   <string name="micloud_setting_browser_summary">Oznake, povijest i kartice</string>
   <string name="micloud_setting_calendar_summary">Događaji</string>
   <string name="micloud_setting_calllog_summary">Povijest poziva</string>

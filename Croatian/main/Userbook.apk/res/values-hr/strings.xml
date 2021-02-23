@@ -2,8 +2,8 @@
 <resources>
   <string name="app_name">Pročitaj me</string>
   <string name="bakc_key_toast_txt">Za izlazak, ponovno dodirnite tipku Natrag</string>
-  <string name="cta_dialog_button_text">Slažem se i nikad ne savjetuj</string>
-  <string name="cta_dialog_msg">"Spremate se koristiti korisnički priručnik koji vam pruža tvrtka Xiaomi koja vam pruža više uzbudljivih operacija. Za pružanje netaknutih i učinkovitih informacija korisnički priručnik treba automatski ažurirati preko Wi-Fi-ja. Slažete li se?
+  <string name="cta_dialog_button_text">Prihvaćam i nikad ne savjetuj</string>
+  <string name="cta_dialog_msg">"Spremate se koristiti korisnički priručnik koji vam pruža tvrtka Xiaomi koja vam pruža više uzbudljivih operacija. Za pružanje netaknutih i učinkovitih informacija korisnički priručnik treba automatski ažurirati preko Wi-Fi-ja. Prihvaćate?
  *Napomena: za izlaz pritisnite tipku Natrag"</string>
   <string name="cta_dialog_title">Savjet</string>
   <string name="downloading_data">Preuzimanje…</string>

@@ -608,6 +608,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_wx_bind_account_limit">"Ne mogu izraditi račun. Isprobajte druge načine prijave."</string>
   <string name="passport_yes">Da</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
+  <string name="password_view_hide_password">Sakrij zaporku</string>
+  <string name="password_view_show_password">Prikaži zaporku</string>
   <string name="permission_group_contacts">Kontakti</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>

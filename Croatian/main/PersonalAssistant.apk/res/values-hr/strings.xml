@@ -159,10 +159,10 @@
   <string name="cta_desc">"Idealno je za prečace, informacije i vaše omiljene značajke"</string>
   <string name="cta_dialog_miot_text_all">Da se osigura da funkcionira normalno, Mi Home možda treba nabaviti vašu mrežu, lokaciju, autorizaciju za uključivanje Bluetooth veze, korištenje mobilne mreže, mikrofona i čitanje kontakata. Dopustiti?</string>
   <string name="cta_dialog_negative">Izlaz</string>
-  <string name="cta_dialog_positive">Slažem se</string>
-  <string name="cta_dialog_text_all">Prije korištenja Zaklj. aplikacija, trebali biste pročitati i složiti se s %1$s\"Korisnički Sporazum\" %2$s i %3$s \"Pravila o Privatnosti\" %4$s. Usluga također zahtijeva internetsku vezu i pristup uslugama lokacije. Dobivanje sadržaja koje koriste neke usluge također zahtijeva internetsku vezu. Slažete se?</string>
-  <string name="cta_dialog_text_new_user">Pročitajte i složite se s %1$sKorisnički Sporazum%2$s and %3$sPravila o Privatnosti%4$s.</string>
-  <string name="cta_dialog_text_old_user">Prije korištenja Zaklj. aplikacija, morate se složiti s %1$s\"Pravila o Privatnosti Zaklj. aplikacija\"%2$s. Dodirnite \"Start\" da se slažete.</string>
+  <string name="cta_dialog_positive">Prihvaćam</string>
+  <string name="cta_dialog_text_all">Prije korištenja Zaklj. aplikacija, trebali biste pročitati i prihvatiti %1$s\"Korisnički Sporazum\" %2$s i %3$s \"Pravila o Privatnosti\" %4$s. Usluga također zahtijeva internetsku vezu i pristup uslugama lokacije. Dobivanje sadržaja koje koriste neke usluge također zahtijeva internetsku vezu. Prihvaćate?</string>
+  <string name="cta_dialog_text_new_user">Pročitajte iprihvatite s %1$s Korisnički Sporazum %2$s and %3$s Pravila o Privatnosti%4$s.</string>
+  <string name="cta_dialog_text_old_user">Prije korištenja Zaklj. aplikacija, morate prihvatiti %1$s\"Pravila o Privatnosti Zaklj. aplikacija\"%2$s. Dodirnite \"Start\" da se slažete.</string>
   <string name="cta_dialog_title">Uvjeti i Odredbe</string>
   <string name="cta_negative">Izlaz</string>
   <string name="cta_not_now">Ne sada</string>
@@ -437,10 +437,10 @@
   <string name="mru_setting_brief">Brze aplikacije i prečaci koji se prikazuju nakon što povučete prema dolje u Zaklj. aplikacija</string>
   <string name="mru_setting_brief_detail">"Nedavno korištene brze aplikacije i prečaci."</string>
   <string name="mru_title">Nedavne stavke</string>
-  <string name="navigation_network_location_enable">Slažem se</string>
+  <string name="navigation_network_location_enable">Prihvaćam</string>
   <string name="navigation_network_location_enable_later">Odustani</string>
   <string name="navigation_network_location_enabled">Usluge lokacije su uključene. To možete promijeniti u Postavkama.</string>
-  <string name="navigation_network_location_not_enabled_summary">Povežite se s mrežom i uključite usluge lokacije. Slažete se?</string>
+  <string name="navigation_network_location_not_enabled_summary">Povežite se s mrežom i uključite usluge lokacije. Prihvaćate?</string>
   <string name="navigation_network_location_not_enabled_title">Uključite usluge lokacije</string>
   <string name="navigation_search_automatically_positioned_city">Trenutna lokacija</string>
   <string name="navigation_search_current_city">Trenutan grad: </string>

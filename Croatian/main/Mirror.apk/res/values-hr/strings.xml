@@ -154,6 +154,7 @@
   <string name="privacy_describe_location">Za pronalaženje računala u blizini i prijenos datoteka</string>
   <string name="privacy_describe_record_audio">Za preusmjeravanje reprodukcije zvuka na računalo</string>
   <string name="privacy_describe_storage">Za slanje i primanje datoteka</string>
+  <string name="privacy_grant_or_revoke_settings">Povlačenje pristanka</string>
   <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
   <string name="relay_msg_photo_text">Uspješno spremljeno u Galeriju</string>
   <string name="relay_msg_photo_title">Nova slika</string>

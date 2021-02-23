@@ -95,7 +95,7 @@
     <string name="passport_unknow_host_network_error">Provjerite svoju mrežnu vezu i pokušajte ponovno</string>
     <string name="passport_unknow_network_error">Došlo je do pogreške mreže</string>
     <string name="passport_user_agreement">Korisnički Sporazum</string>
-    <string name="passport_user_agreement_prefix">Slažem se s </string>
+    <string name="passport_user_agreement_prefix">Prihvaćam </string>
     <string name="passport_v_code_error">Kod za provjeru nije valjan</string>
     <string name="passport_wechat_not_install">WeChat nije instaliran</string>
     <string name="phone_bind_too_many">Ovaj je broj telefona povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi broj telefona.</string>
@@ -104,7 +104,7 @@
     <string name="pre_station">Prethodna postaja</string>
     <string name="psw_hint">Zaporka</string>
     <string name="psw_sign_in">Prijavite se pomoću zaporke</string>
-    <string name="runtime_permission_ungranted">Zapis nije moguće pokrenuti zbog nedopuštenih dozvola</string>
+    <string name="runtime_permission_ungranted">Zapis nije moguće pokrenuti zbog nedopuštenih dopuštenja</string>
     <string name="search_dialog_title">Skeniraj postaje</string>
     <string name="sign_in_title">Prijavite se na Mi Račun</string>
     <string name="sns_sign_in">Drugi načini za prijavu</string>
