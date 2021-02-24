@@ -69,6 +69,7 @@ Pokušajte ponovo"</string>
   <string name="btn_continue">Nastavi</string>
   <string name="btn_restore_abort">Odustani</string>
   <string name="btn_restore_cancel">Odustani</string>
+  <string name="btn_restore_cancel_app_app">"Ne vraćaj podatke WeChat-a"</string>
   <string name="btn_restore_continue">Vrati svejedno</string>
   <string name="btn_restore_resume">Nastavi</string>
   <string name="btn_restore_retry">Pokušaj ponovno</string>
@@ -131,6 +132,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="cloud_backup_detail_time">Zadnja Sig. kopija: %1$s</string>
   <string name="cloud_backup_detail_title">Poč. zaslon, aplikacije i postavke.</string>
   <string name="cloud_backup_derail_size_summary">Veličina: %s</string>
+  <string name="cloud_backup_detail_app_data">Izradi Sig. kopiju WeChat podataka</string>
+  <string name="cloud_backup_detail_app_data_summary">Izradite Sig. kopiju povijesti chata, datoteka i drugih stavki</string>
   <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
   <string name="cloud_backup_in_cancel">Odustani</string>
   <string name="cloud_backup_in_process">Izrada Sig. kopije…</string>
@@ -143,6 +146,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="confirm_cancel_restore_positive">Nastavi</string>
   <string name="confirm_cancel_restore_title">Otkazati vraćanje?</string>
   <string name="confirm_restore">Vrati</string>
+  <string name="confirm_restore_app_data">Prepisivanje podataka aplikacije</string>
+  <string name="confirm_restore_app_data_summary">Vraćanje WeChat podataka prebrisat će trenutnu verziju podataka aplikacije na ovom uređaju. Svejedno vratiti?</string>
   <string name="confirm_restore_summary">Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti.</string>
   <string name="confirm_restore_title">Vrati</string>
   <string name="copy">Kopiraj</string>
@@ -158,15 +163,18 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="desktop_waiting">Čekanje</string>
   <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
+  <string name="dialog_backup_failed">"Nije moguće napraviti Sig. kopiju"</string>
   <string name="dialog_btn_cancel_backup">Odustani</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_btn_next">Dalje</string>
   <string name="dialog_btn_overwrite_backup">Prepiši</string>
   <string name="dialog_btn_restore_skip">Vrati kasnije</string>
+  <string name="dialog_buy_cloud_space">Nadogradi</string>
   <string name="dialog_cancel_backup_cancel">Odustani</string>
   <string name="dialog_cancel_backup_confirm">U redu</string>
   <string name="dialog_cancel_backup_msg">Promjena će uzrokovati prekid izrade Sig. kopije.</string>
-  <string name="dialog_cancel_backup_title">Otkazati izradu u tijeku?</string>
+  <string name="dialog_cancel_backup_title">Otkazati izradu Sig. kopije u tijeku?</string>
+  <string name="dialog_cloud_space_not_enough">Ova Sig. kopija zahtijeva %1$s besplatnog prostora za pohranu u Mi Cloudu. Nadogradite svoj plan za pohranu da biste izradili Sig. kopije stavki.</string>
   <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Mi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
   <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
   <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
@@ -186,7 +194,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="expand_button_title">Napredno</string>
   <string name="get_device_id_error">"Ne mogu dobiti ID uređaja"</string>
   <string name="help_and_feedback">Pomoć i povratne inf.</string>
-  <string name="hint_restore_cross_space">Izgled početnog zaslona može se prikazati pogrešno ako prenesete stavke između prostora.</string>
+  <string name="hint_restore_wechat_data">Napomena: Podaci WeChat-a možda se neće vratiti zbog problema s kompatibilnošću u nekim slučajevima.</string>
   <string name="home_hint_global_launcher">POCO pokretač</string>
   <string name="home_hint_other_launcher">Ostali pokretači</string>
   <string name="home_restore_error">"Ne mogu vratiti Poč. zaslon"</string>
@@ -210,9 +218,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="msg_alert_cancel_restore">Vraćanje stavki. Zaustaviti?</string>
+  <string name="msg_alert_cancel_restore">Vraćanje stavki iz Mi Clouda. Zaustaviti?</string>
   <string name="msg_alert_restore_error">Ne mogu vratiti stavke sa Mi Clouda. Pokušaj ponovno.</string>
-  <string name="msg_restore_start_with_metered_network">"Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s of files will be downloaded.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_start_with_metered_network">"Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti.&lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s of files will be downloaded.&lt;/font&gt;&lt;/b&gt;"</string>
   <string name="msg_restore_with_metered_network_hint">Ako nastavite s vraćanjem tih stavki, za preuzimanje će se koristiti mobilni podaci.</string>
   <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datoteka će biti preuzeto."</string>
   <string name="name_model">"%1$s %2$s"</string>
@@ -263,6 +271,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_cloud_backup_to_phone">Vrati stavke iz Mi Clouda</string>
   <string name="restore_data_summary">Ova značajka zahtijeva internetsku vezu.</string>
   <string name="restore_data_title">Vrati kor. podatke</string>
+  <string name="restore_detail_category_app_data">WeChat podaci</string>
+  <string name="restore_detail_category_app_data_summary">Povijest chata, datoteke i druge stavke (%s)</string>
   <string name="restore_detail_category_apps">Raspored Poč. zaslona &amp; aplikacija</string>
   <string name="restore_detail_category_settings">Postavke</string>
   <string name="restore_detail_more">Više</string>
@@ -277,14 +287,15 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_home_failed">"Ne mogu vratiti Početni zaslon."</string>
   <string name="restore_home_screen_apps">Vrati iz Sig. kopije na Mi Cloudu</string>
   <string name="restore_init_description">Započni vraćanje</string>
-  <string name="restore_network_pause">%s (Dodirnite za nastavak)</string>
+  <string name="restore_network_pause">Pauzirano radi uštede mobilnih podataka. Dodirnite za nastavak.</string>
   <string name="restore_network_unconnect">%s (Čekanje na vezu)</string>
   <string name="restore_task_cancelling">Otkazivanje…</string>
   <string name="restore_task_in_process">Vraćanje…</string>
   <string name="restore_task_unfinished">"Ne mogu vratiti"</string>
   <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
+  <string name="restoring_app_data_title_no_progress">Vraćanje WeChat podataka…</string>
   <string name="restoring_data">Vraćanje podataka…</string>
-  <string name="restoring_file_title_no_progress">Vraćanje datoteka…</string>
+  <string name="restoring_file_title_no_progress">Vraćanje aplikacija…</string>
   <string name="restoring_home_screen_apps">Vraćanje sa Mi Clouda…</string>
   <string name="restoring_settings">Vraćanje postavki…</string>
   <string name="restoreing_file_tile">Vraćanje datoteka: %d</string>

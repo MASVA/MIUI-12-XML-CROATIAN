@@ -5250,6 +5250,10 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_LeftEar">Lijeva</string>
   <string name="miheadset_RightEar">Desna</string>
   <string name="miheadset_active">Energetic</string>
+  <string name="miheadset_ancBalance">Srednja</string>
+  <string name="miheadset_ancClosed">Isključeno</string>
+  <string name="miheadset_ancDecrease">Niska</string>
+  <string name="miheadset_ancIncrease">Visoka</string>
   <string name="miheadset_anc_indicate">Spojite i uparite slušalice</string>
   <string name="miheadset_audio_mode">Audio način</string>
   <string name="miheadset_audio_mode_high">Visoka kvaliteta</string>
@@ -5328,9 +5332,11 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_rename_device">Preimenuj</string>
   <string name="miheadset_soft">Nježno</string>
   <string name="miheadset_transparent">Prozirnost</string>
+  <string name="miheadset_transparentMode">Prozirnost</string>
   <string name="miheadset_triple_click_key_mode">Način tipke s trostrukim klikom</string>
   <string name="miheadset_triple_click_key_mode_summary">Promijeni trostruki način rada tipke</string>
   <string name="miheadset_unpair_device_text">%1$s bit će rasparen sa svih uređaja povezanih s ovim Mi Računom.</string>
+  <string name="miheadset_voiceIncrease">Pojačajte glas</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>

@@ -172,7 +172,7 @@
   <string name="album_share_subtitle_requesting">Preuzimanje detalja albuma…</string>
   <string name="album_share_title_new_album">Podijeli novi album</string>
   <string name="album_show_local_only">Prikaži samo lokalne albume</string>
-  <string name="album_show_local_only_summary">Uključite samo za pregled i brisanje fotografija na vašem uređaju</string>
+  <string name="album_show_local_only_summary">Opcija za brisanje samo lokalnih albuma postat će dostupna kad je ova značajka uključena</string>
   <string name="album_sort_type">Redoslijed sortiranja</string>
   <string name="album_sort_type_create_time_asc">Od starog do novog</string>
   <string name="album_sort_type_create_time_desc">Od novog do starog</string>
@@ -232,7 +232,8 @@
   <string name="authorize_to_device_failed">"Ne mogu autorizirati"</string>
   <string name="authorize_watch_on_tv_failed">"Ne mogu autorizirati za gledanje na TV"</string>
   <string name="auto_backup_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
-  <string name="auto_download_media_title">Preuzmi fotografije automatski sa Mi Clouda</string>
+  <string name="auto_download_media_title">Preuzmi automatski</string>
+  <string name="auto_download_title">Odaberite kvalitetu slike</string>
   <string name="auto_update_face">Dodaj fotografije automatski</string>
   <string name="auto_update_face_summary">Automatski podudaraj i dodaj fotografije u Dječji album</string>
   <string name="auto_update_off">Isključeno</string>
@@ -303,6 +304,8 @@
   <string name="backup_pause_dialog_title">Pauziraj sinkronizaciju</string>
   <string name="backup_pause_title">Sinkronizacija je pauzirana</string>
   <string name="backup_pending">Biti će Sig. kopiran automatski</string>
+  <string name="backup_settings">Sinkroniziraj s Mi Cloudom</string>
+  <string name="backup_settings_more">Dodatne postavke</string>
   <string name="backup_stop">Zaustavi izradu</string>
   <string name="backup_sync_dialog_confirm">Uključi</string>
   <string name="backup_sync_dialog_tips">Uključite sinkronizaciju s Mi Cloudom da biste promijenili postavke.</string>
@@ -465,6 +468,14 @@
   <string name="close_dialog_desc">Zatvori dijaloški okvir</string>
   <string name="cloud_authorize_to_share_to_device">Autorizirajte gledanje stavki na televizorima povezanim s vašim Mi Računom</string>
   <string name="cloud_authorizing_to_device">Autorizacija…</string>
+  <string name="cloud_backup_enable_title">Sinkroniziraj</string>
+  <string name="cloud_backup_open_button">Uključi</string>
+  <string name="cloud_backup_space">Cloud pohrana</string>
+  <string name="cloud_backup_status_disable">Isključeno</string>
+  <string name="cloud_backup_status_eneble">Uključeno</string>
+  <string name="cloud_backup_title">Sinkroniziraj s Mi Cloudom</string>
+  <string name="cloud_bacup_disable_button">Isključi sinkronizaciju</string>
+  <string name="cloud_bacup_disable_processing">Obrada…</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_cancel_authorizing_to_device">Otkazivanje autorizacije…</string>
   <string name="cloud_guide_auto_backup_title">Odaberite albume za sinkronizaciju</string>
@@ -472,8 +483,10 @@
   <string name="cloud_guide_slim_text">Automatski izradi Sig. kopiju. Uštedite više od 90% lokalne pohrane.</string>
   <string name="cloud_guide_slim_title">Optimizirajte lokalnu pohranu da spremite %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
-  <string name="cloud_privacy_with_ai_album">Izjava o privatnosti pri automatskoj sinkronizaciji i obradi slike</string>
-  <string name="cloud_privacy_with_face">Izjava o privatnosti pri automatskoj sinkronizaciji i prepoznavanju lica</string>
+  <string name="cloud_login_ok">Razumijem</string>
+  <string name="cloud_login_settings_title">Postavke sinkronizacije</string>
+  <string name="cloud_privacy_with_ai_album">Značajke i privatnost</string>
+  <string name="cloud_privacy_with_face">Značajke i privatnost</string>
   <string name="cloud_screenshots_display_name">Snimke zaslona</string>
   <string name="cloud_settings">Sinkroniziraj</string>
   <string name="cloud_storage_extend">Proširi Cloud prostor</string>
@@ -1364,6 +1377,7 @@ za fotografije"</string>
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>
   <string name="mi_drop">Mi Share</string>
+  <string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
   <string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
   <string name="midnight">Ponoć</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -1801,6 +1815,7 @@ za fotografije"</string>
   <string name="photo_purge_dialog_message_video">"Nećete biti u mogućnosti vratiti odabranu stavku ako je izbrišete. Izbrisati svejedno?"</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_save_to_msg">Spremljeno u %s</string>
+  <string name="photo_size_not_support">"Ova rezolucija slike nije podržana"</string>
   <string name="photo_vlog_module_finish">Uređivač videozapisa uspješno preuzet</string>
   <string name="photo_vlog_module_loading">Preuzimanje Uređivača videozapisa…</string>
   <string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
@@ -2096,6 +2111,7 @@ za fotografije"</string>
   <string name="security_share_subtitle_hide">Podaci o lokaciji uklonjeni su</string>
   <string name="security_share_subtitle_no_hide">Sadrži podatke o lokaciji</string>
   <string name="see_ignore_faces">"Prikaži ignorirane osobe"</string>
+  <string name="see_more_settings">Dodatne postavke</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_image_operation">Dodavanje fotografija</string>
   <string name="select_item_face">"Na fotog. je %s ?"</string>
@@ -2143,7 +2159,7 @@ za fotografije"</string>
   <string name="sharer_quota_fulfiled">"Već ste podijelili ovaj album sa maksimalnim brojem osoba."</string>
   <string name="sharpen">Izoštri</string>
   <string name="show_all">Slike i videozapisi</string>
-  <string name="show_cloud_albumlist_summary">Upravljajte albumima koje sinkronizirate s Mi Cloudom</string>
+  <string name="show_cloud_albumlist_summary">"Nove stavke iz odabranih albuma neće biti učitane na Mi Cloud nakon što isključite sinkronizaciju."</string>
   <string name="show_hidden_album_summary">Pregled i upravljanje skrivenima albumima</string>
   <string name="show_hidden_album_title">Pokaži skrivene albume</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Uspješno premješteno, idite na album Ostalo za pregled</string>
@@ -2277,6 +2293,11 @@ za fotografije"</string>
   <string name="support_single_image">Odaberite jednu sliku</string>
   <string name="support_single_video">Odaberite jedan videozapis</string>
   <string name="sync_album_in_proecess">Sinkronizacija albuma…</string>
+  <string name="sync_backup_disable_confirm_message_downloading">Ako sada isključite sinkronizaciju, prekid preuzimanja u tijeku izvornih datoteka pohranjenih u Mi Cloudu bit će prekinut. Slike visoke kvalitete pohranjene na ovom uređaju više neće biti dostupne. Isključiti svejedno?</string>
+  <string name="sync_backup_disable_confirm_message_wait">Slike visoke kvalitete pohranjene na ovom uređaju više neće biti dostupne nakon isključivanja sinkronizacije. Izvorne datoteke možete preuzeti iz Mi Clouda i nakon toga isključiti sinkronizaciju.</string>
+  <string name="sync_backup_disable_confirm_title">Isključi sinkronizaciju</string>
+  <string name="sync_backup_enable_confirm_message">Kada je sinkronizacija s Mi Cloudom uključena, stavke s ovog uređaja prenijet će se i spojiti sa stavkama pohranjenim u Mi Cloudu.</string>
+  <string name="sync_backup_enable_confirm_title">Spoji sinkronizirane stavke</string>
   <string name="sync_battery_low">Slaba baterija</string>
   <string name="sync_cloud_space_full">Nema dovoljno prostora na Mi Cloudu</string>
   <string name="sync_diabled_toast">Sinkronizacija je isključena</string>
@@ -2650,6 +2671,8 @@ za fotografije"</string>
   <string name="vlog_filter_lanmei">Blueberry</string>
   <string name="vlog_filter_liulan">Mist</string>
   <string name="vlog_filter_luoma">Rome</string>
+  <string name="vlog_filter_master_close">Uklonjeni video efekti</string>
+  <string name="vlog_filter_master_open">Primijenjeni video efekti</string>
   <string name="vlog_filter_no_support_nums">"Preskočeni videozapisi koji ne podržavaju uređivanje (%1$d)"</string>
   <string name="vlog_filter_nuanyang">Sunshine</string>
   <string name="vlog_filter_origin">Ništa</string>

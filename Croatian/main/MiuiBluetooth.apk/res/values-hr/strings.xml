@@ -437,6 +437,10 @@ Brži protokol veze."</string>
   <string name="mi_key_summary_open_camera">2x klik Mi Key za pokretanje Kamere</string>
   <string name="mi_key_summary_take_photo">1x klik Mi Key za snimanje fotografije</string>
   <string name="mi_key_take_photo">Snimi fotografiju</string>
+  <string name="miheadset_notification_Box">Box</string>
+  <string name="miheadset_notification_Disconnect">Prekini vezu</string>
+  <string name="miheadset_notification_LeftEar">L</string>
+  <string name="miheadset_notification_RightEar">D</string>
   <string name="mihome_app_download">Instaliraj sada</string>
   <string name="mihome_app_update">Ažuriraj sada</string>
   <string name="mihome_download_tips">Instalirajte aplikaciju Mi Home kako biste uparili uređaj. Instalirajte aplikaciju Mi Home, prijavite se i držite telefon u blizini uređaja.</string>
