@@ -164,6 +164,7 @@
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o Privatnosti</string>
   <string name="other_settings_user_experience_summary_index">Detalji</string>
+  <string name="permission_MIUIDaemon_introduction">MIUI Daemon omogućuje vam prijenos podataka s uređaja kada je njegov zaslon oštećen.</string>
   <string name="permission_account">Pristup računima na vašem uređaju:</string>
   <string name="permission_account_introduction">Za prijavu pomoću Mi Računa</string>
   <string name="permission_application_package_introduction">Za pristup pohrani radi analize i skeniranja instalacijskih paketa</string>
@@ -196,6 +197,10 @@
   <string name="permission_picture_introduction">Za spremanje, uređivanje i sinkronizaciju fotografija i videozapisa</string>
   <string name="permission_read_call_records">Uređivanje povijesti poziva:</string>
   <string name="permission_read_call_records_introduction">Za dodavanje stavki povijesti poziva i brisanje blokiranih poziva</string>
+  <string name="permission_read_contacts">Pristup kontaktima</string>
+  <string name="permission_read_contacts_introduction">Za potvrdu vašeg identiteta</string>
+  <string name="permission_read_message">Pristup tekstualnim porukama</string>
+  <string name="permission_read_message_introduction">Za potvrdu vlasništva nad vašim uređajem</string>
   <string name="permission_read_note_introduction">Za pristup bilješkama i prilozima</string>
   <string name="permission_read_write_file">Pristup i spremanje datoteka i fotografija na svoj uređaj:</string>
   <string name="permission_read_write_file_introduction">Za pristup, spremanje i predmemoriranje stavki na vašem uređaju</string>
@@ -233,6 +238,7 @@
   <string name="security_introduction">Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama, dopuštenjima i još mnogo toga.</string>
   <string name="security_mobile_account_introduction">Za prijavu i upravljanje sistemskim računima</string>
   <string name="service_agreement">"Pročitao sam i pristao na uvjete i odredbe."</string>
+  <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galerija</string>
   <string name="service_name_application_package">Alat za instalaciju paketa</string>
   <string name="service_name_backup">Sig. kopije</string>
@@ -257,7 +263,7 @@
   <string name="service_policy">&lt;Data&gt;Pročitajte i pristanite na naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_policy_download">&lt;Data&gt;Prije korištenja naših usluga, pročitajte i pristanite na &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
-  <string name="service_security_over_r">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; prije kori&amp;#353;tenja aplikacije Sigurnost.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;U skladu s Androidom 11 standardima, jednokratno dopu&amp;#353;tenje &amp;#263;e se povu&amp;#263;i u roku od 5 sekundi nakon &amp;#353;to odgovaraju&amp;#263;a aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopu&amp;#353;tenje &amp;#263;e se povu&amp;#263;i nakon toga.&lt;/Data&gt;</string>
+  <string name="service_security_over_r">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; prije korištenja aplikacije Sigurnost.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;U skladu s Androidom 11 standardima, jednokratno dopuštenje će se povući u roku od 5 sekundi nakon što odgovarajuća aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopuštenje će se povući nakon toga.&lt;/Data&gt;</string>
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="setting_locale">Postavljanje regije…</string>
   <string name="shut_down">Isključivanje</string>
