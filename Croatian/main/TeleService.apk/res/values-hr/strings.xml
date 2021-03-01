@@ -2399,6 +2399,7 @@ UT sučelje: %5$s"</string>
   <string name="search_menu_title">Pretraživanje</string>
   <string name="search_networks">Pretraži mreže</string>
   <string name="selectContact">odabir kontakta</string>
+  <string name="select_apn_list_title">Odaberite zadani APN: za karticu %1$s</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_automatically">Automatski odaberi mrežu</string>
   <string name="select_cancel">Odustani</string>

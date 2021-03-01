@@ -990,6 +990,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_reenter_title">Snimite vaše lice ponovno.</string>
   <string name="face_unlock_reveal_eye">Napravite svoje oči vidljivijima</string>
   <string name="face_unlock_reveal_mouth">Napravite svoje usne vidljivijima</string>
+  <string name="face_unlock_success">Uspješno otključano</string>
   <string name="face_unlock_rise">Spustite glavu</string>
   <string name="face_unlock_rotated_left">Okrenite glavu udesno</string>
   <string name="face_unlock_rotated_right">Okrenite glavu ulijevo</string>

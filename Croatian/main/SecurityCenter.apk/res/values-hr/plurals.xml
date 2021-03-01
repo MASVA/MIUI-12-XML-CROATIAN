@@ -314,6 +314,10 @@ Odmorite se!"</item>
          <item quantity="other">"Već ste iskoristili %s dnevnih ograničenja podataka."</item>
          <item quantity="one">"Već ste iskoristili %s dnevnog ograničenje podataka."</item>
      </plurals>
+	 <plurals name="card_uninstall_title">
+        <item quantity="other">&lt;Data>Možete deinstalirati &lt;font color=#F22424>%d&lt;/font> aplikacija&lt;/Data></item>
+        <item quantity="one">&lt;Data>Možete deinstalirati &lt;font color=#F22424>%d&lt;/font> aplikaciju&lt;/Data></item>
+    </plurals>
      <plurals name="daily_sim_over_limit_dialog_message">
          <item quantity="other">"Već ste iskoristili %s dnevnih ograničenja podataka.
  
@@ -429,6 +433,10 @@ Odmorite se!"</item>
     <plurals name="app_check_title_text">
         <item quantity="other">%d stavki može biti optimizirano</item>
         <item quantity="one">%d stavka može biti optimizirana</item>
+    </plurals>
+	<plurals name="title_app_update_cn">
+        <item quantity="other">&lt;Data>Ažuriraj &lt;font color=#F22424>%d&lt;/font> aplikacija&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ažuriraj &lt;font color=#F22424>%d&lt;/font> aplikaciju&lt;/Data></item>
     </plurals>
 	<plurals name="title_virus_clean">
          <item quantity="other">Izbrisano virusa: %d</item>
@@ -694,6 +702,14 @@ Odmorite se!"</item>
          <item quantity="other">Blokirano %d puta</item>
          <item quantity="one">Blokirano %d put</item>
 	</plurals>
+	<plurals name="app_manager_uninstall_notify_summary">
+        <item quantity="other">Deinstaliraj aplikacije: %d</item>
+        <item quantity="one">Deinstaliraj %d aplikaciju</item>
+    </plurals>
+    <plurals name="app_manager_updater_notify_title">
+        <item quantity="other">Dostupna su ažuriranja za %d aplikacija</item>
+        <item quantity="one">Dostupno je ažuriranje za %d aplikaciju</item>
+    </plurals>
 	<plurals name="app_usage_day">
          <item quantity="other">"Korišteno prije %d dan"</item>
          <item quantity="one">"Korišteno prije %d dana"</item>
