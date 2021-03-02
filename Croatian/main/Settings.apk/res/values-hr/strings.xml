@@ -5457,11 +5457,14 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_launch_error">"Ne mogu aktivirati Hitni SOS"</string>
   <string name="miui_sos_launch_error_confirm">Shvaćam</string>
   <string name="miui_sos_launch_error_message">"Ne mogu se povezati s mobilnom mrežom. Ne može se koristiti Hitni SOS."</string>
-  <string name="miui_sos_launching_summary">Aktiviranje Hitnog SOS-a za %d s</string>
+  <string name="miui_sos_launching_summary">Aktiviranje Hitnog SOS-a za %ds</string>
   <string name="miui_sos_launching_title">SOS</string>
   <string name="miui_sos_menu_add">Dodaj</string>
   <string name="miui_sos_menu_edit">Uredi</string>
   <string name="miui_sos_msg_call_log_prefix">"Moja povijest poziva za zadnji sat:"</string>
+  <string name="miui_sos_pa_title">Lokacija za hitne slučajeve</string>
+  <string name="miui_sos_pa_turn_off">Isključeno</string>
+  <string name="miui_sos_pa_turn_on">Uključeno</string>
   <string name="miui_sos_play_voice">Reproduciraj SOS poruku</string>
   <string name="miui_sos_remind_add">Dodaj</string>
   <string name="miui_sos_remind_close">Hitni SOS je uključen. Isključiti ga zajedno sa svim povezanim funkcijama?</string>

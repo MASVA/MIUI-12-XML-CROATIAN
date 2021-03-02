@@ -996,7 +996,6 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_rotated_right">Okrenite glavu ulijevo</string>
   <string name="face_unlock_sc_status">Povucite dolje za otvaranje kamere</string>
   <string name="face_unlock_stay_away_screen">Budite 25 do 40 cm udaljeni od zaslona</string>
-  <string name="face_unlock_success">Podaci lica uspješno potvrđeni</string>
   <string name="face_unlock_success_show_message_dialog_msg">Omogućite obavijesti Zaklj. zaslona da bi ih mogli vidjeti na Zaklj. zaslonu.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Ne hvala</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Omogući</string>

@@ -106,9 +106,12 @@
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti za pisanje poruka, bilješki i za sve ostalo. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite tipkovnicu</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
+  <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>
   <string name="item_fingerprint">Otisak prsta</string>
   <string name="item_lock_screen_password">Samo Zaklj. zaslona</string>
   <string name="item_lock_screen_password_only">Zaklj. zaslon</string>
+  <string name="item_return">Postavi</string>
+  <string name="item_skip">Preskoči</string>
   <string name="ktposition_header">Dijeljenje informacija o lokaciji s hitnim spasilačkim agencijama</string>
   <string name="language_picker_other_languages_title">Više jezika</string>
   <string name="language_picker_popular_languages_title">Odaberi jezik</string>
@@ -309,6 +312,7 @@ Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Ke
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o Privatnosti</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Pravila o Privatnosti</string>
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
+  <string name="title_set_fingerprint">Zaklj. zaslona</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
   <string name="user_agreement_declare">Prije upotrebe MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Dok se vaš uređaj aktivira, Mi SIM usluga aktiviranja, Xiaomi Cloud, Backup Service, Pronađi uređaj, Početni zaslon, Česte fraze, Usluga prevođenja, Xiaomi Internet Communication Service, MIUI Daemon, HTML preglednik, AI Pomoćnik, Baterija i performanse, Detektor napajanja, Joyose, Secure Element Application, Podešavanje OS AI, Upravitelj dopuštenja i Ažuriranje će se povezati s mrežom. Pametne kartice, Upravitelj dopuštenja i pametne usluge spojit će se na mrežu i pristupiti vašoj lokaciji.</string>
