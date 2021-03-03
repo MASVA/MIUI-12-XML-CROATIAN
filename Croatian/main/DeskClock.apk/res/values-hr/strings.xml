@@ -132,6 +132,7 @@
   <string name="control_set_alarm_with_existing">Alarm postavljen: %s</string>
   <string name="copy">Kopiraj</string>
   <string name="current_stopwatch_time">Trenutno vrijeme</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="day_concat">", "</string>
   <string name="default_alarm_alert">Zadani zvuk alarma</string>
   <string name="default_alarm_title">Zadani zvuk alarma</string>
@@ -248,10 +249,13 @@
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
-  <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="mibi_license">Mi Kredit Uvjeti Pružanja Usluge</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -397,6 +401,7 @@
   <string name="search_stopwatch_keywords">Štoperica</string>
   <string name="search_timer_keywords">Kronometar</string>
   <string name="search_worldclock_keywords">Vrijeme;Svjetski sat;Sat</string>
+  <string name="send">Pošalji</string>
   <string name="set_alarm">Postavi alarm</string>
   <string name="set_alarm_choose_ringtone">Odaberite melodiju zvona</string>
   <string name="set_alarm_done">Gotovo</string>

@@ -2743,6 +2743,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
   <string name="device_actionbar_title">Sve specifikacije</string>
+  <string name="device_activation_info">Aktivacija uređaja</string>
   <string name="device_additional_status">Dodatne informacije statusa</string>
   <string name="device_additional_status_summary">Broj telefona, Signal, IMEI, itd.</string>
   <string name="device_admin_add_title">Administrator uređaja</string>
