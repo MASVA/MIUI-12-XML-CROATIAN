@@ -1188,7 +1188,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="deep_clean_never_memory_clean">Nikad</string>
   <string name="deep_power_save_item_summary_auto_brightness">Automatski prilagodite svjetlinu zaslona kako biste uštedjeli bateriju</string>
   <string name="deep_power_save_item_summary_bluetooth">Isključi Bluetooth kako biste uštedjeli bateriju</string>
-  <string name="deep_power_save_item_summary_lock_screen_time_new">Isključi zaslon nakon % sekundi neaktivnosti kako biste uštedjeli bateriju</string>
+  <string name="deep_power_save_item_summary_lock_screen_time_new">Isključi zaslon nakon %d sek. neaktivnosti kako biste uštedjeli bateriju</string>
   <string name="deep_power_save_item_title_auto_brightness">Uključi automatsku svjetlinu</string>
   <string name="deep_power_save_item_title_bluetooth">Isključi Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Isključi zaslon</string>

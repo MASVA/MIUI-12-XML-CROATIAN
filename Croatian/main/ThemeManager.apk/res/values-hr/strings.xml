@@ -684,7 +684,7 @@ dd.MM"</string>
   <string name="ota_recovery_theme_notity_content">"Možete se vratiti na temu koju ste koristili prije ažuriranja"</string>
   <string name="ota_recovery_theme_notity_title">Vraćanje vaše teme</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
-  <string name="personalize_alarm_ringtone_title">Alarms</string>
+  <string name="personalize_alarm_ringtone_title">Alarmi</string>
   <string name="personalize_aod_title">AOD</string>
   <string name="personalize_call_ringtone_title">Melodije zvona</string>
   <string name="personalize_charge_style_title">Punjenje</string>
