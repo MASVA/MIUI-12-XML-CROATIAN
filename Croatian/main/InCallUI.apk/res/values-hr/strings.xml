@@ -4,6 +4,7 @@
   <string name="add_vm_number_str">Dodaj broj</string>
   <string name="ai_assistant">AI Pomoćnik poziva</string>
   <string name="ai_assistant_not_installed">Prvo instalirajte AI Pomoćnik poziva</string>
+  <string name="ai_dial">AI poziv</string>
   <string name="ai_mode_auto">Autom.</string>
   <string name="ai_mode_manual">Ručno</string>
   <string name="ai_mode_subtitles">Titlovi</string>

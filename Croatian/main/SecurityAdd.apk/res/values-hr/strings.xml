@@ -148,8 +148,8 @@
   <string name="gb_gpu_control_optimization_graph">Optimizirajte grafiku</string>
   <string name="gb_gpu_control_resolution">Rezolucija</string>
   <string name="gb_gpu_control_texture_filtering_quality">Kvaliteta filtriranja teksture</string>
-  <string name="gb_gpu_dialog_button">Shvaćam</string>
-  <string name="gb_gpu_dialog_button_countdown">Shvaćam (%s)</string>
+  <string name="gb_gpu_dialog_button">Razumijem</string>
+  <string name="gb_gpu_dialog_button_countdown">Razumijem (%s)</string>
   <string name="gb_gpu_dialog_message">Primjenjuju se trenutne postavke GPU-a za \"%s\". Ponovo pokrenite igru da biste primijenili postavke.</string>
   <string name="gb_gpu_dialog_titile">GPU postavke</string>
   <string name="gb_gpu_rader_graph">Kvaliteta slike</string>

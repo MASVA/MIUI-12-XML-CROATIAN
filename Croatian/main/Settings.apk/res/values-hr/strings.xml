@@ -269,7 +269,7 @@ Da biste prešli na neku drugu značajku, prijeđite s tri prsta prema gore i za
   <string name="accessibility_toggle_screen_magnification_preference_title">Uvećanje zaslona</string>
   <string name="accessibility_toggle_speak_password_preference_title">Izgovori zaporke</string>
   <string name="accessibility_touch_vibration_title">Reakcija na dodir</string>
-  <string name="accessibility_tutorial_dialog_button">Shvaćam</string>
+  <string name="accessibility_tutorial_dialog_button">Razumijem</string>
   <string name="accessibility_tutorial_dialog_message_button">"Da biste uključili ili isključili tu uslugu, dodirnite gumb pristupačnosti %s na dnu zaslona.
 
 Da biste prešli na neku drugu značajku, dodirnite i zadržite gumb za Pristupačnost."</string>
@@ -585,7 +585,7 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
   <string name="aod_dual_togother">HH:MM</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
-  <string name="aod_got_it">Shvaćam</string>
+  <string name="aod_got_it">Razumijem</string>
   <string name="aod_lock_screen_date">EEEE, dd. MMMM</string>
   <string name="aod_lock_screen_date_12">EEEE, dd. MMMM</string>
   <string name="aod_mode_bg">Pozadina</string>
@@ -1678,7 +1678,7 @@ Audio"</string>
 2. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun i uređaj</string>
   <string name="bootloader_locked_question_1">Zašto bi uređaji trebali biti zaključani?</string>
-  <string name="bootloader_locked_question_2">Shvaćam rizik, ali i dalje želim otključati svoj uređaj.</string>
+  <string name="bootloader_locked_question_2">Razumijem rizik, ali i dalje želim otključati svoj uređaj.</string>
   <string name="bootloader_status">Mi Unlock status</string>
   <string name="bootloader_status_locked">Zaključan</string>
   <string name="bootloader_status_locked_info">Ovaj uređaj je zaključan</string>
@@ -1696,7 +1696,7 @@ Audio"</string>
   
   
   Ako ste već učinili nešto od gore navedenog, ponovno dodajte svoj Mi Račun; u suprotnom nećete moći otključati uređaj."</string>
-  <string name="bootloader_tips_ok">Shvaćam</string>
+  <string name="bootloader_tips_ok">Razumijem</string>
   <string name="bootloader_tips_warning">"Ne odspajajte s mreže, odjaviti se s Mi Računa, raditi pvraćanje na tvorničke postavke ili brisati podatke sustava."</string>
   <string name="bottom_function_settings">Funkcije dodatnih tipki</string>
   <string name="breathing_light_color_menu_title">Boja LED-a</string>
@@ -1735,6 +1735,10 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_ldac_pre_summary">Pruža visoko kvalitetno audio iskustvo</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Svojstva</string>
+  <string name="bt_leaudio_open_dialog_summary">"Kad je LC3 uključen, na slušalice nećete moći povezati više uređaja. Ostali povezani uređaji prekinut će se ako uključite ovu značajku. Uključiti LC3 svejedno?"</string>
+  <string name="bt_leaudio_open_dialog_title">Pažnja</string>
+  <string name="bt_leaudio_pre_title">LC3</string>
+  <string name="bt_leaudio_summary">Visoko kvalitetno audio iskustvo</string>
   <string name="bt_ldac_remember_choice">Zapamti izbor</string>
   <string name="bt_ldac_settings">Postavke</string>
   <string name="bt_lhdc_declaration">Kada Bluetooth uređaj podržava LHDC, bit će povezan prema zadanim postavkama. LHDC omogućuje reprodukciju visokokvalitetnog zvuka i smanjuje kašnjenje tijekom igranja, ali također povećava potrošnju energije. Problemi se mogu pojaviti tijekom reprodukcije zbog ograničenja Bluetooth hardvera</string>
@@ -1751,7 +1755,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_trace_log">Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
   <string name="btn_back">Natrag</string>
-  <string name="btn_got_it">Shvaćam</string>
+  <string name="btn_got_it">Razumijem</string>
   <string name="bubble_app_setting_all">Svi razgovori mogu se prikazivati u oblačiću</string>
   <string name="bubble_app_setting_bubble_conversation">Uključite oblačiće za ovaj razgovor</string>
   <string name="bubble_app_setting_excluded_conversation_title">Svi razgovori mogu otvoriti oblačić osim</string>
@@ -2471,7 +2475,7 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_ui_mode_disabled_summary_dark_theme_on">Uključeno/trenutačno onemogućeno zbog Štednje baterije</string>
   <string name="dark_ui_mode_title">Postavi noćni način rada</string>
   <string name="dark_ui_settings_dark_summary">Podržane aplikacije također će prijeći na tamnu temu</string>
-  <string name="dark_ui_settings_dialog_acknowledge">Shvaćam</string>
+  <string name="dark_ui_settings_dialog_acknowledge">Razumijem</string>
   <string name="dark_ui_settings_light_summary">Ova se postavka odnosi i na aplikacije</string>
   <string name="dark_ui_status_title">Status</string>
   <string name="dark_ui_summary_off">Isključeno/%1$s</string>
@@ -2856,7 +2860,7 @@ Da biste riješili taj problem, možete isključiti lokaciju za tu aplikaciju."<
   <string name="dialog_restrict_all_wlan_title">Ograniči Wi-Fi vezu</string>
   <string name="dialog_restrict_negative">Ograniči</string>
   <string name="dialog_restrict_positive">Odustani</string>
-  <string name="dialog_speaker_auto_clean_button">Shvaćam</string>
+  <string name="dialog_speaker_auto_clean_button">Razumijem</string>
   <string name="dialog_speaker_auto_clean_content">"Čišćenje traje 30 sekundi. Ne napuštajte ovu stranicu. Maksimalno povećajte glasnoću zvuka za najbolji učinak."</string>
   <string name="dialog_speaker_auto_clean_title">Pažnja</string>
   <string name="dialog_stop_message">"Vaš telefon ne može upravljati baterijom na uobičajen način jer ga aplikacija %1$s zadržava u aktivnom stanju.
@@ -3139,7 +3143,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dual_clock_aod_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za isključeni zaslon, omogućite prikazivanje stavki u Postavke &gt; Zaslon; 2. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 3. Za Poč. zaslon, provjerite koristite li standardni widget sata sustava."</string>
   <string name="dual_clock_aod_open_message">Dvostruki sat bit će prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
   <string name="dual_clock_hint">"\"Dvostruki sat\" oslanja se na sljedeće značajke: 1. Za Zaklj. zaslon, provjerite koristite li zadanu ili klasičnu temu u Postavke &gt; Teme; 2. Za Poč. zaslon, provjerite koristite li zadani widget sata sustava."</string>
-  <string name="dual_clock_ok">Shvaćam</string>
+  <string name="dual_clock_ok">Razumijem</string>
   <string name="dual_clock_open_message">Dvostruki sat će biti prikazan na Zaklj. zaslonu, Početnom zaslonu i isključenom zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
@@ -3920,7 +3924,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="google_service_title">Google usluge</string>
   <string name="google_title">Google</string>
   <string name="google_wallet">Google novčanik</string>
-  <string name="got_it">Shvaćam</string>
+  <string name="got_it">Razumijem</string>
   <string name="gps_description">Podržani su višestruki satelitski navigacijski sustavi (GPS, BeiDou, GLONASS, Galileo)</string>
   <string name="gps_description_global">Xiaomi uređaji kompatibilni su s više navigacijskih sustava, uključujući GPS, NavIC, BeiDou, GLONASS i Galileo.</string>
   <string name="graphics_driver_all_apps_preference_title">Omogućavanje za sve aplikacije</string>
@@ -3947,7 +3951,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gxzw_add_fingerprint_edge_title">Podesite dodir</string>
   <string name="gxzw_add_fingerprint_finish">Gotovo!</string>
   <string name="gxzw_add_fingerprint_indicate">Dodirnite ovo područje laganije</string>
-  <string name="gxzw_add_fingerprint_know">Shvaćam</string>
+  <string name="gxzw_add_fingerprint_know">Razumijem</string>
   <string name="gxzw_add_fingerprint_message">Provjerite jesu li vam prsti i zaslon čisti</string>
   <string name="gxzw_add_fingerprint_move_indicate">Pomičite prst lagano</string>
   <string name="gxzw_add_fingerprint_move_message">"Pomičite prst da snimite sve dijelove otiska prsta"</string>
@@ -3970,7 +3974,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gxzw_aod_show_tittle">Pokaži ikonu otiska prsta kada je zaslon isključen</string>
   <string name="gxzw_dialog_message">"Kako biste normalno mogli koristiti senzor otiska prsta unutar zaslona, nemojte koristiti zaštite zaslona. Ako mislite da je zaštita zaslona još uvijek potrebna, odaberite između ovlaštenih kompatibilnih opcija."</string>
   <string name="gxzw_dialog_not_show_again">"Ne prikazuj ponovo"</string>
-  <string name="gxzw_dialog_ok">Shvaćam</string>
+  <string name="gxzw_dialog_ok">Razumijem</string>
   <string name="gxzw_dialog_title">O senzoru otiska prsta unutar zaslona</string>
   <string name="gxzw_enroll_again">Podignite prst i ponovno pritisnite skener otiska prsta</string>
   <string name="gxzw_lowlight_open_summary">Smanji svjetlinu ikone otiska prsta u uvjetima slabog osvjetljenja. Uređaj će se možda sporije otključati kad je ova značajka uključena.</string>
@@ -4212,7 +4216,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="infinity_display_slogan">Inovacija na punom zaslonu</string>
   <string name="infinity_display_title">Prikaz preko cijelog zaslona</string>
   <string name="info_and_call">Pozivi i poruke</string>
-  <string name="information_dialog_button_text">Shvaćam</string>
+  <string name="information_dialog_button_text">Razumijem</string>
   <string name="information_label">Informacije</string>
   <string name="input_assistance">Alati</string>
   <string name="input_device_category">Ulazni uređaj</string>
@@ -5456,7 +5460,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_green_guard_summary">Podijeli informacije o lokaciji u stvarnom vremenu</string>
   <string name="miui_sos_green_guard_title">Roditeljski nadzor</string>
   <string name="miui_sos_launch_error">"Ne mogu aktivirati Hitni SOS"</string>
-  <string name="miui_sos_launch_error_confirm">Shvaćam</string>
+  <string name="miui_sos_launch_error_confirm">Razumijem</string>
   <string name="miui_sos_launch_error_message">"Ne mogu se povezati s mobilnom mrežom. Ne može se koristiti Hitni SOS."</string>
   <string name="miui_sos_launching_summary">Aktiviranje Hitnog SOS-a za %ds</string>
   <string name="miui_sos_launching_title">SOS</string>
@@ -5638,7 +5642,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="mtp_connection_failed_title">USB veza</string>
   <string name="mtp_connection_not_remind">"Ne prikazuj ponovo"</string>
   <string name="mtp_ptp_mode_summary">MTP ili PTP funkcija je aktivna</string>
-  <string name="mtp_solution_button_cancel">Shvaćam</string>
+  <string name="mtp_solution_button_cancel">Razumijem</string>
   <string name="mtp_solution_button_ok">Rješavanje problema</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_picker_cancel">Odustani</string>
@@ -5880,7 +5884,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_disclaimer_content">NFC razmjenjuje podatke između ovog uređaja i ostalih uređaja u blizini ili ciljeva, na primjer terminala za plaćanje, čitača za pristup i interaktivnih oglasa ili oznaka.</string>
   <string name="nfc_disclaimer_title">Uključite NFC</string>
   <string name="nfc_how_it_works_content">Postavite aplikaciju za plaćanje. Zatim samo prislonite stražnju stranu telefona na bilo koji terminal sa simbolom beskontaktnog povezivanja.</string>
-  <string name="nfc_how_it_works_got_it">Shvaćam</string>
+  <string name="nfc_how_it_works_got_it">Razumijem</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
   <string name="nfc_more_title">Više…</string>
   <string name="nfc_payment_btn_text_set_deault">Postavi zadano</string>
@@ -9050,7 +9054,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="structure_face_delete_data_dialog_title">"Ne mogu pokrenuti Kameru"</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Ova se značajka ne može koristiti zbog slabe baterije"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Baterija mora biti napunjena najmanje 5% za početak snimanja.</string>
-  <string name="structure_face_hardware_abnormal_btn">Shvaćam</string>
+  <string name="structure_face_hardware_abnormal_btn">Razumijem</string>
   <string name="structure_face_hardware_abnormal_msg">"Došlo je do pogreške hardvera. Ponovno pokrenite uređaj. Ako to ne pomaže, nazovite 400–100–5678 za pomoć."</string>
   <string name="structure_face_hardware_abnormal_title">Pogreška hardvera</string>
   <string name="structure_face_modules_abnormal_btn">Ponovno pokreni</string>
@@ -9165,7 +9169,6 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="switch_access_service_on">Promjena pristupa</string>
   <string name="switch_bootup_sound">Boot audio</string>
   <string name="switch_headset_anti_lost">Upozorenje: nedostaje slušalica</string>
-  <string name="switch_headset_anti_lost_summary">Primite upozorenje kad god je jedna od vaših slušalica udaljena od uha ili kućišta za punjenje dulje od minute</string>
   <string name="switch_headset_anti_lost_title">Upozorenje: nedostaje slušalica</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
@@ -9713,8 +9716,8 @@ i Mi Mover uključen"</string>
   <string name="turn_on_keyguard_password_alert">"Zapamtite vašu zaporku. Ako je zaboravite, nećete je moći vratiti."</string>
   <string name="turn_on_keyguard_password_alert_choose">"Zapamtite vašu zaporku. Ako je zaboravite, morati ćete izbrisati sve podatke na uređaju da postavite novu."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Ne sada</string>
-  <string name="turn_on_keyguard_password_alert_foget_ok">Shvaćam</string>
-  <string name="turn_on_keyguard_password_alert_foget_ok_time">Shvaćam (%d sek.)</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok">Razumijem</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Razumijem (%d sek.)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Zapamtite zaporku za zaključavanje zaslona. Ako je zaboravite, morati ćete izbrisati sve podatke na uređaju, uključujući fotografije i kontakte, a zatim postaviti novu."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Zapamtite vašu zaporku</string>
   <string name="turn_on_radio">Uključi radio</string>
@@ -9869,7 +9872,7 @@ S profila će se ukloniti i spremljeni otisci prstiju i nećete moći otključat
   <string name="usage_access">Pristup upotrebi</string>
   <string name="usage_access_description">Pristup upotrebi omogućuje aplikaciji praćenje drugih aplikacija koje upotrebljavate i učestalosti njihove upotrebe, kao i praćenje mobilnog operatera, postavki jezika i ostalih pojedinosti.</string>
   <string name="usage_access_title">Apl. s pristupom pod. o upot.</string>
-  <string name="usage_app_get_it">Shvaćam</string>
+  <string name="usage_app_get_it">Razumijem</string>
   <string name="usage_app_limit_alter_summary">"Čini se da je ovo vremensko ograničenje kraće od vremena koje danas koristite ovu aplikaciju. Postaviti ograničenje svejedno?"</string>
   <string name="usage_app_limit_alter_title">Provjeri vremensko ograničenje zaslona</string>
   <string name="usage_app_limit_prelong">Produži vrijeme</string>
@@ -9967,7 +9970,7 @@ S profila će se ukloniti i spremljeni otisci prstiju i nećete moći otključat
   <string name="usagestats_device_notification_title">Upozorenja vremena zaslona</string>
   <string name="usagestats_device_timeout_des" formatted="false">"Koristili ste svoj uređaj %dh %dm danas. Odmorite se malo!"</string>
   <string name="usagestats_device_timeout_negative">Podsjeti za 1 sat</string>
-  <string name="usagestats_device_timeout_positive">Shvaćam</string>
+  <string name="usagestats_device_timeout_positive">Razumijem</string>
   <string name="usagestats_device_timeout_title">Upozorenja vremena zaslona</string>
   <string name="usb_adb_input">USB otklanjanje pogrešaka (Sigurnosne postavke)</string>
   <string name="usb_adb_input_desc">Dopusti davanje dopuštenja i simuliranja ulaza preko USB otklanjanja pogrešaka</string>
@@ -9987,7 +9990,7 @@ Prenesite samo važne stavke."</string>
   <string name="usb_eject_summary">Isključite USB memoriju, tako da je možete ukloniti na siguran način</string>
   <string name="usb_format">Formatiraj USB memoriju</string>
   <string name="usb_format_summary">Briše sve podatke na USB memoriji, kao što su glazba i fotografije</string>
-  <string name="usb_headset_not_support_cancel">Shvaćam</string>
+  <string name="usb_headset_not_support_cancel">Razumijem</string>
   <string name="usb_headset_not_support_message">"Zvuk se ne može reproducirati putem adaptera. Koristite digitalne slušalice
 ili slušalice s 3,5 mm utikačem"</string>
   <string name="usb_headset_not_support_tile">"Ne mogu reproducirati zvuk"</string>
@@ -11023,7 +11026,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_share_connected_title">MIUI dijeljeni Wi-Fi</string>
   <string name="wifi_share_count">Podijeljeno %d mreža</string>
   <string name="wifi_share_current_network">Trenutna mreža</string>
-  <string name="wifi_share_know">"Shvaćam"</string>
+  <string name="wifi_share_know">"Razumijem"</string>
   <string name="wifi_share_list_empty">Nisu pronađene dijeljene mreže.</string>
   <string name="wifi_share_login">Podijeli Wi-Fi mrežu</string>
   <string name="wifi_share_login_summary">Ako je ovo javna mreža, možete je podijeliti s drugim MIUI korisnicima.</string>
@@ -11217,7 +11220,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="work_profile_usage_access_warning">Isključivanje pristupa upotrebi za tu aplikaciju ne sprječava administratora da prati upotrebu podataka za aplikacije na vašem poslovnom profilu.</string>
   <string name="work_ringtone_title">Melodija zvona radnog telefona</string>
   <string name="work_sim_title">Radni SIM</string>
-  <string name="work_sound_permission_dialog_button_text_known">Shvaćam</string>
+  <string name="work_sound_permission_dialog_button_text_known">Razumijem</string>
   <string name="work_sound_permission_dialog_message">"Ne možete koristiti Teme u Enterprise načinu. Obratite se svom nadzorniku za pristup."</string>
   <string name="work_sound_permission_dialog_title">Ograničenja Enterprise načina</string>
   <string name="work_sound_same_as_personal">Isto kao osobni profil</string>
@@ -11291,7 +11294,7 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="zen_category_exceptions">Alarmi i druga ometanja</string>
   <string name="zen_category_people">Osobe</string>
   <string name="zen_category_schedule">Raspored</string>
-  <string name="zen_custom_settings_dialog_ok">Shvaćam</string>
+  <string name="zen_custom_settings_dialog_ok">Razumijem</string>
   <string name="zen_custom_settings_dialog_review_schedule">Pregledajte raspored</string>
   <string name="zen_custom_settings_dialog_title">Prilagođene postavke</string>
   <string name="zen_custom_settings_duration_header">Trajanje</string>

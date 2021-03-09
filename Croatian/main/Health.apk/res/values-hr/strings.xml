@@ -341,7 +341,7 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="dialog_juveniles_details">Prema našim Pravilima o privatnosti, minimalna dob za korištenje ovog proizvoda je 18 godina.</string>
   <string name="dialog_juveniles_link">Prema našim &lt;font color=\"#FE6D67\"&gt;&lt;a href=\"%1$s\"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt;, minimalna dob za korištenje ovog proizvoda je 18 godina.</string>
   <string name="dialog_keep">Zadrži</string>
-  <string name="dialog_known">Shvaćam</string>
+  <string name="dialog_known">Razumijem</string>
   <string name="dialog_menstruation_purpose">Dobrodošli u Mi Health! \"Menstruacija\" omogućava vam bilježenje ciklusa, određivanje predviđenih datuma nadolazećih ciklusa i primanje podsjetnika. Svi povezani podaci bit će pohranjeni lokalno na vašem uređaju, što vam omogućuje jednostavno upravljanje.</string>
   <string name="dialog_no_more_prompt">"Ne prikazuj ponovo"</string>
   <string name="dialog_ok">U redu</string>

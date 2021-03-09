@@ -252,7 +252,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="keybag_set_password_negative">Postavi</string>
   <string name="keybag_set_password_positive">Koristi zaporku Zaklj. zaslona</string>
   <string name="keybag_set_password_success_close">Izlaz</string>
-  <string name="keybag_set_password_success_get">Shvaćam</string>
+  <string name="keybag_set_password_success_get">Razumijem</string>
   <string name="keybag_set_password_success_tip">"Uspješno postavljeno. Morat ćete unijeti ovu zaporku na druge uređaje da biste mogli pristupiti šifriranim stavkama"</string>
   <string name="keybag_set_password_title">Pažnja</string>
   <string name="ks_certificate_udpate_time">Ažuriranje certifikata</string>
@@ -757,7 +757,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_cancel">Dijeljenje otkazano</string>
   <string name="share_failed">"Ne mogu podijeliti"</string>
   <string name="share_location_app_name">Pronađi</string>
-  <string name="share_location_dialog_confirm">Shvaćam</string>
+  <string name="share_location_dialog_confirm">Razumijem</string>
   <string name="share_location_dialog_content">Sada možete koristiti prečac Poč. zaslona za brži pristup postavkama.</string>
   <string name="share_location_dialog_title">Pažnja</string>
   <string name="share_location_guide1_desc">Pronađite, zaključajte i izbrišite podatke na uređajima koji nedostaju</string>

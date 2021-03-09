@@ -62,7 +62,7 @@
   <string name="ble_wait_verify_code">Generiranje koda na novom uređaju…</string>
   <string name="ble_waiting_verify_code">Provjera koda…</string>
   <string name="ble_waiting_verify_code_error">Kôd koji ste unijeli nije ispravan</string>
-  <string name="btn_got_it">Shvaćam</string>
+  <string name="btn_got_it">Razumijem</string>
   <string name="btn_install_complete">Instalirano.</string>
   <string name="btn_mi_cloud_install_complete">"Instalirao sam aplikaciju"</string>
   <string name="btn_restore_data_to_device_complete">Prijavite se</string>
@@ -77,7 +77,7 @@
   <string name="cancel_description">Odustani</string>
   <string name="cancel_moving_dialog_message">Zaustaviti uvoz sada?</string>
   <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
-  <string name="cannot_use_mi_huanji_button">Shvaćam</string>
+  <string name="cannot_use_mi_huanji_button">Razumijem</string>
   <string name="cannot_use_mi_huanji_summary">Čini se kako MIUI upravo radi sigurnosne kopije stavki. Prekinite izradi sigurnosnih kopija u toku ili ponovno pokrenite Vaš uređaj kako biste dozvolili Mi Mover-u da započne prijenos.</string>
   <string name="cannot_use_mi_huanji_title">Trenutno nije moguće prenjeti</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
@@ -565,7 +565,7 @@ Oslobodite barem %s."</string>
   <string name="scan_soft_ap_label">Povežite se s novim uređajem</string>
   <string name="scanner_bottom_tip">Odaberite samo važne stavke za brži prijenos.</string>
   <string name="scanner_not_support_data_transfer_tip">Prijenos podataka aplikacija s ne-Xiaomi telefona nije podržan (uključujući WeChat i QQ povijest chatova)</string>
-  <string name="scanner_permission_alert_cancel">Shvaćam</string>
+  <string name="scanner_permission_alert_cancel">Razumijem</string>
   <string name="scanner_permission_alert_ok">Postavke</string>
   <string name="scanner_quit_alert_btn_negative">Prekid</string>
   <string name="scanner_quit_alert_btn_positive">Ne odustaj</string>

@@ -412,7 +412,7 @@
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>
   <string name="auto_saver_enabled_text">Štednja baterije uključit će se automatski kad razina baterije padne ispod %d%%.</string>
   <string name="auto_saver_enabled_title">Uključen je raspored štednje baterije</string>
-  <string name="auto_saver_okay_action">Shvaćam</string>
+  <string name="auto_saver_okay_action">Razumijem</string>
   <string name="auto_saver_text">Uključuje se automatski kada je razina baterije na %d%%</string>
   <string name="auto_saver_title">Dodirnite za zakazivanje štednje baterije</string>
   <string name="available_via_app">Dostupno putem mreže %1$s</string>
@@ -624,7 +624,7 @@ Audio"</string>
   <string name="bubbles_dont_bubble_conversation">Zaustavi razgovor u oblačićima</string>
   <string name="bubbles_settings_button_description">Postavke za oblačiće za aplikaciju %1$s</string>
   <string name="bubbles_user_education_description">Novi razgovori pojavljuju se kao pomične ikone ili oblačići. Dodirnite za otvaranje oblačića. Povucite da biste ga premjestili.</string>
-  <string name="bubbles_user_education_got_it">Shvaćam</string>
+  <string name="bubbles_user_education_got_it">Razumijem</string>
   <string name="bubbles_user_education_manage">Dodirnite Upravljanje da biste isključili oblačiće iz ove aplikacije</string>
   <string name="bubbles_user_education_manage_title">Upravljanje oblačićima u svakom trenutku</string>
   <string name="bubbles_user_education_title">Chatanje pomoću oblačića</string>
@@ -1006,6 +1006,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="face_unlock_success_stay_screen_msg">Ostani na Zaklj. zaslonu nakon što se vaše lice prepozna. Prijeđite prstom prema gore da biste otvorili Poč. zaslon.</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na Zaklj. zaslonu nakon otključavanja</string>
   <string name="failed_to_open_app_settings_toast">"Ne mogu otvoriti postavke za %1$s"</string>
+  <string name="finger_error_single_mode">"Ne mogu koristiti skener otiska prsta u Radu jednom rukom. Izađite iz Rada jednom rukom i pokušajte ponovo."</string>
   <string name="fingerprint_add_text">Sučelje otiska prsta je ažurirano. Dodajte svoj otisak prsta ponovno.</string>
   <string name="fingerprint_add_title">Dodajte otisak prsta</string>
   <string name="fingerprint_again_identified_msg">Otisak prsta je sada aktivan. Koristite ga za otključavanje uređaja ili unesite zaporku.</string>
@@ -1051,7 +1052,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="global_action_lock_message">Otključajte telefon za više opcija</string>
   <string name="global_action_screenshot">Snimka zaslona</string>
   <string name="go_to_web">Otvori preglednik</string>
-  <string name="got_it">Shvaćam</string>
+  <string name="got_it">Razumijem</string>
   <string name="gps_notification_found_text">Lokaciju utvrdio GPS</string>
   <string name="gps_notification_searching_text">Traženje GPS-a</string>
   <string name="guest_exit_guest">Uklanjanje gosta</string>
@@ -1908,7 +1909,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
   <string name="priority_onboarding_appear_as_bubble_text">Prikazuje se kao lebdeći oblačić iznad aplikacija</string>
   <string name="priority_onboarding_behavior">Prioritetni razgovori će:</string>
-  <string name="priority_onboarding_done_button_title">Shvaćam</string>
+  <string name="priority_onboarding_done_button_title">Razumijem</string>
   <string name="priority_onboarding_ignores_dnd_text">Prekida Ne uznemiravaj</string>
   <string name="priority_onboarding_settings_button_title">Postavke</string>
   <string name="priority_onboarding_show_at_top_text">Prikazuje se pri vrhu odjeljka razgovora</string>
@@ -2185,7 +2186,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="screen_pinning_exit">Zaslon je otkvačen</string>
   <string name="screen_pinning_exposes_personal_data">Osobni podaci mogu biti dostupni (poput kontakata i sadržaja e-pošte).</string>
   <string name="screen_pinning_negative">Ne hvala</string>
-  <string name="screen_pinning_positive">Shvaćam</string>
+  <string name="screen_pinning_positive">Razumijem</string>
   <string name="screen_pinning_start">Zaslon je pričvršćen</string>
   <string name="screen_pinning_title">Zaslon je prikvačen</string>
   <string name="screen_pinning_toast">Da biste otkvačili ovaj zaslon, dodirnite i zadržite \"Početna\" i \"Napajanje\" istovremeno da otkvačite</string>

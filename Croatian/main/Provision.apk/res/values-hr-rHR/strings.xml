@@ -323,6 +323,15 @@ Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Ke
 2. Kada slušate glazbu sa isključenim zaslonom."</string>
   <string name="voice_assist_desp">Recite \"Mi AI\" u svoj telefon. Mi AI će prepoznati vaš glas i moći će kontrolirati vaš uređaj.</string>
   <string name="voice_assist_title">Probudi sa glasom</string>
+  <string name="wc_dialog_agree">Prihvaćam</string>
+  <string name="wc_dialog_reject">"Ne prihvaćam"</string>
+  <string name="wc_dialog_summary">Wallpaper Carousel svakodnevno donosi zapanjujuće slike i uzbudljive priče na vaš Zaklj. zaslon.</string>
+  <string name="wc_dialog_title">Ponovno zamišljeni Zaklj. zaslon</string>
+  <string name="wc_double_check_agree">Isprobajte</string>
+  <string name="wc_double_check_reject">Ne hvala</string>
+  <string name="wc_double_check_summary">Možete uključiti Wallpaper Carousel da biste provjerili radi li to za vas. Imajte na umu da Wallpaper Carousel uvijek možete uključiti i isključiti u Postavke > Zaklj. zaslon.</string>
+  <string name="wc_double_check_title">Isprobajte Wallpaper Carousel</string>
+  <string name="wc_notice_link_announcement_summary">"Pročitajte i pristanite na sadržaj dobavljača treće strane &lt;a href=\"%1$s\">Pravila o Privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> prije korištenja ove značajke."</string>
   <string name="welcome">Dobrodošli</string>
   <string name="zone_picker_title">Odaberite vremensku zonu</string>
 </resources>

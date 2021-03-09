@@ -280,6 +280,10 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">%1$d prijedloga</item>
         <item quantity="one">1 prijedlog</item>
     </plurals>
+	<plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Primite upozorenje kad god je jedna od vaših slušalica udaljena od uha ili futrole za punjenje dulje od %d min.</item>
+        <item quantity="one">Primite upozorenje kad god je jedna od vaših slušalica udaljena od uha ili futrole za punjenje dulje od %d minute</item>
+    </plurals>
      <plurals name="uri_permissions_text">
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>

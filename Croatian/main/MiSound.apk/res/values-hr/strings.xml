@@ -40,10 +40,11 @@
   <string name="customization_continue">Nastavi</string>
   <string name="customization_pause_tip">Zaustaviti testiranje? Za nastavak povežite slušalice.</string>
   <string name="customization_quit">Izlaz</string>
+  <string name="dolby_atoms">Dolby Atmos</string>
   <string name="dolby_dax_geq_select_title">Preseti</string>
   <string name="dolby_dax_geq_title">Grafički ekvilajzer</string>
   <string name="dolby_dax_profile_dynamic">Dinamično</string>
-  <string name="dolby_dax_setting">Dolby eekti</string>
+  <string name="dolby_dax_setting">Dolby efekti</string>
   <string name="dolby_dax_title">Surround zvuk</string>
   <string name="end_wireless_transmission">Stop</string>
   <string name="eq_auto">Vlastito</string>

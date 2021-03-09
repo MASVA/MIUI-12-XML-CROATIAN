@@ -78,6 +78,7 @@ Pokušajte ponovo"</string>
   <string name="btn_retry">Provjeri ponovno</string>
   <string name="btn_skip">Preskoči ovaj korak</string>
   <string name="button_cancel">Odustani</string>
+  <string name="button_confirm">Razumijem</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Dalje</string>
   <string name="can_not_backup_in_lite_mode">"Ne mogu izraditi Sig. kopiju u Lite načinu"</string>
@@ -245,6 +246,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="provision_error_connect_title">Ne mogu se povezati</string>
   <string name="provision_restore_data">Vraćanje stavki</string>
   <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+  <string name="pc_mode_not_support_restore_warning">"Nije moguće vratiti stavke u PC načinu. Isključite PC način i pokušajte ponovo."</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="query_restore_back_view">Mi Cloud Sig. kopija</string>
   <string name="query_restore_description">Vrati aplikacije i postavke Poč. zaslona pomoću ove Sig. kopije. To će prebrisati podatke aplikacije za dvostruke aplikacije već instalirane na uređaju. Aplikacije koje nisu uključene u Sig. kopiju bit će premještene na posljednji Početni zaslon.</string>
