@@ -198,6 +198,11 @@
   <string name="notification_aggregate_title">Grupne obavijesti</string>
   <string name="notification_display_setting">Panel obavijesti</string>
   <string name="notification_display_style">Stil obavijesti</string>
+  <string name="notification_fold_description1">Mapa obavijesti je uvedena u MIUI 9. Ova značajka filtrira nevažne obavijesti i stavlja ih u zasebne mape.</string>
+  <string name="notification_fold_description2">MIUI će zapamtiti koje obavijesti dodirnete, a zatim koristiti višestruke kriterije kako bi utvrdio jesu li važne.</string>
+  <string name="notification_fold_description3">"Ako obavijesti koje smatrate važnim i dalje ulaze u mapu s obavijestima, prijavite nam takve probleme. Cijenimo vaše povratne informacije."</string>
+  <string name="notification_fold_footer_icon_summary">Prikaži ikone aplikacija kada su nevažne obavijesti grupirane</string>
+  <string name="notification_fold_footer_icon_title">Prikaži ikone aplikacija</string>
   <string name="notification_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
   <string name="notification_fold_title">Mapa obavijesti</string>
   <string name="notification_keyguard_hide_content">Prikaži obavijesti, ali sakrij sadržaj</string>

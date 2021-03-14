@@ -2232,7 +2232,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="screenshot_dlg_cancel">Odustani</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
-  <string name="screenshot_failed_in_landscape_mode">"Ne mogu napraviti pomicanje zaslona u pejzažnom načinu"</string>
+  <string name="screenshot_failed_in_landscape_mode">"Ne mogu izraditi pomičnu snimku zaslona u pejzažnom načinu"</string>
   <string name="screenshot_failed_title">"Ne mogu napraviti snimku zaslona."</string>
   <string name="screenshot_failed_to_capture_text">"Aplikacija ili vaša organizacija ne dopušta snimanje zaslona"</string>
   <string name="screenshot_failed_to_capture_title">"Ova aplikacija ne dopušta snimanje zaslona"</string>

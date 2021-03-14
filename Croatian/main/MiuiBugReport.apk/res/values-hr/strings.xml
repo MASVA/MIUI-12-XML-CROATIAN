@@ -546,6 +546,10 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="submit_dialog_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="submit_dialog_title">Pošalji izvješće o pogrešci</string>
   <string name="submit_feedback_info_failed">Ne mogu poslati izvješće</string>
+  <string name="suggest_upload_log_dialog_cancel">Ne hvala</string>
+  <string name="suggest_upload_log_dialog_confirm">Pošalji</string>
+  <string name="suggest_upload_log_dialog_content">"Da biste našim inženjerima pomogli da što prije pronađu i riješe problem s kojim ste se susreli, preporučujemo da prenesete povezane zapise. Zapisi se koriste samo za analizu problema i neće se koristiti u druge svrhe."</string>
+  <string name="suggest_upload_log_dialog_title">Pošalji povezane zapise</string>
   <string name="suggestion_description">Ovdje dodajte opis</string>
   <string name="system_app_select">Ugrađene aplik.</string>
   <string name="systemui">Panel obavijesti</string>

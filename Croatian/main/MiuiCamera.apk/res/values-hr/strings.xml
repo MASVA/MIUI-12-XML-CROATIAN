@@ -154,6 +154,7 @@
   <string name="accessibility_preview_effect_button">Efekat pregleda</string>
   <string name="accessibility_preview_expand">Približi</string>
   <string name="accessibility_preview_front">Pregled prednje kamere</string>
+  <string name="accessibility_preview_remote">Pregled snimanja s dva uređaja</string>
   <string name="accessibility_preview_select_tip">Položaj %1$d</string>
   <string name="accessibility_preview_selected">Odabrano</string>
   <string name="accessibility_preview_shrink">Udalji</string>
@@ -285,6 +286,7 @@ i prilagodite postavke automatski"</string>
   <string name="aperture">Otvor</string>
   <string name="app_details">Detalji:</string>
   <string name="audio_focus_exit_button_text">Isključi Audio fokus</string>
+  <string name="audio_map_summary_tip">Pratite glasnoću lijevog i desnog kanala u stvarnom vremenu i prilagodite ga pomoću klizača</string>
   <string name="auto">Autom.</string>
   <string name="auto_hibernation_enter_tip">O isključivanju zaslona…</string>
   <string name="autozoom_click_hint">"Dodirnite objekt kako biste ga zadržali u fokusu dok se kreće. Ostanite najmanje 3 metra za najbolji efekat."</string>
@@ -515,6 +517,15 @@ i na trenutak izađite iz pregleda"</string>
   <string name="details_title">%1$d od %2$d stavki:</string>
   <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
   <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
+  <string name="dialog_button_accept">Prihvaćam</string>
+  <string name="dialog_button_back">Natrag</string>
+  <string name="dialog_button_cancel">Odustani</string>
+  <string name="dialog_button_connect">Poveži</string>
+  <string name="dialog_button_disconnect">Izlaz</string>
+  <string name="dialog_button_exit">Isključi</string>
+  <string name="dialog_button_ok">U redu</string>
+  <string name="dialog_button_reject">Odbijam</string>
+  <string name="dialog_button_scan">Traži uređaje</string>
   <string name="dialog_google_lens_option_0">Google Leće (preporučeno)</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_ok_time">U redu (%ds)</string>
@@ -716,6 +727,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hint_slow_motion">Videozapis koji snimate reproducirat će se sporije.</string>
   <string name="hint_subtitle">"Diktirajte titlove dok snimate videozapise"</string>
   <string name="hint_subtitle_prompt">Sada možete diktirati titlove</string>
+  <string name="histogram_summary_tip">Prikaži povratne informacije o izloženosti u stvarnom vremenu</string>
   <string name="hunt_dual_water_mark">Oznaka Dvostruke kamere biti će dodana automatski.</string>
   <string name="id_card_mode_hint_back">Skenirajte stražnju stranu iskaznice</string>
   <string name="id_card_mode_hint_front">Skenirajte prednju stranu iskaznice</string>
@@ -983,6 +995,12 @@ izgledaju veće na fotografijama"</string>
   <string name="network_access_user_notice_message_sticker">"Kamera se treba povezati s internetom kako bi se osigurale naljepnice za ovu značajku.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
   <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na Internet kako bi se osigurala funkcionalnost govora u tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Slažem se\", pristajete na naše &amp;lt;a href =%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;, i dopuštate Kameri povezivanje s internetom."</string>
   <string name="network_access_user_notice_title">Povezivanje na internet</string>
+  <string name="network_connection_failed">"Ne mogu se povezati"</string>
+  <string name="network_connection_ongoing">Povezivanje…</string>
+  <string name="network_connection_prerequisites">Uključite Bluetooth i Wi-Fi da biste mogli upotrebljavati snimanje s dva uređaja.</string>
+  <string name="network_connection_prerequisites_china">Uključite Bluetooth i Wi-Fi da biste mogli upotrebljavati snimanje s dva uređaja.</string>
+  <string name="network_connection_rejected">Odbijeno</string>
+  <string name="network_connection_timed_out">Povezivanje je isteklo</string>
   <string name="no_save">"Ne spremaj"</string>
   <string name="no_storage">Umetnite SD karticu prije korištenja kamere.</string>
   <string name="no_thumbnail">Nema minijatura</string>
@@ -1496,6 +1514,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_custom_feature_layout_title">Raspored značajki</string>
   <string name="pref_custom_shutter_sound_title">Zvuk</string>
   <string name="pref_custom_tint_title">Boje</string>
+  <string name="pref_customization_style">Prilagođeni stil</string>
   <string name="pref_customization_title">Prilagodi</string>
   <string name="pref_document_mode">Dokumenti</string>
   <string name="pref_dual_camera_video">Dvostruki video</string>
@@ -1538,6 +1557,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_module_settings">Načini</string>
   <string name="pref_more_mode_style_title">Načini kamere</string>
   <string name="pref_multi_camera_dual_video_front">Prednja kamera</string>
+  <string name="pref_multi_camera_dual_video_remote">Snimanje sa dva uređaja</string>
   <string name="pref_n_s_a">Audio postavke</string>
   <string name="pref_n_s_o_l">Uklj.</string>
   <string name="pref_n_s_o_m">Isklj.</string>
@@ -1574,6 +1594,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_super_night_se_title">Autom. noćni način rada</string>
   <string name="pref_userdefine_watermark_title">Vlastita oznaka</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
+  <string name="pref_video_cast_setting_summary">Uključite da biste mogli snimati jedan videozapis s više uređaja</string>
+  <string name="pref_video_cast_setting_title">Snimanje sa dva uređaja</string>
   <string name="pref_video_denoise_off">Isklj.</string>
   <string name="pref_video_denoise_on">Uklj.</string>
   <string name="pref_video_denoise_title">Filter buke</string>
@@ -1639,6 +1661,19 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="recommend_soft_light_tip">Koristite bljeskalicu u načinu mekog svjetla</string>
   <string name="recommend_super_night">Isprobajte Noćni način</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
+  <string name="remote_online_connecting">Odaberite uređaj za povezivanje</string>
+  <string name="remote_online_disconnect_confirmation">Otkazati povezivanje s %1$s?</string>
+  <string name="remote_online_exit_confirmation">Želite li isključiti snimanje s dva uređaja?</string>
+  <string name="remote_online_exit_connecting">Želite li prekinuti snimanje i izaći iz snimanja s dva uređaja?</string>
+  <string name="remote_online_guide">Uključite snimanje s dva uređaja na drugom uređaju pomoću prečaca u Centru za kontrolu.</string>
+  <string name="remote_online_interrupted">Veza prekinuta. Ponovno se povežite za nastavak.</string>
+  <string name="remote_online_introduction_i">"Snimanje s dva uređaja omogućuje kombiniranje feedova s dva različita uređaja u jedan videozapis. Na ovom ćete uređaju moći pregledati feedove i konačni videozapis. Imajte na umu da će ovaj uređaj snimati samo zvuk."</string>
+  <string name="remote_online_introduction_ii">Da bi ova značajka funkcionirala, drugi Mi ili Redmi uređaj mora podržavati snimanje na dva uređaja. Može se uključiti pomoću prečaca u Centru za kontrolu.</string>
+  <string name="remote_online_searching">Traženje uređaja…</string>
+  <string name="remote_online_service_name">Snimanje s dva uređaja</string>
+  <string name="remote_online_unavailable">"Ne mogu pronaći uređaje u blizini"</string>
+  <string name="remote_online_waiting">Čekanje drugog uređaj da se poveže…</string>
+  <string name="remote_online_whats">Kako funkcionira snimanje na dva uređaja?</string>
   <string name="reset_manual_picture_style_toast">Parametri uspješno poništeni</string>
   <string name="reset_manually_parameter_confirmed">U redu</string>
   <string name="reset_manually_parameter_hint">Vrati</string>
@@ -1770,6 +1805,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="timer_burst_manu_param_interval">Interval bez ekspozicije</string>
   <string name="timer_burst_param_interval">Interval</string>
   <string name="timer_burst_param_total_count">Br. fotografija</string>
+  <string name="timerburst_pressed_hint">Dodirnite ponovo za zaustavljanje</string>
   <string name="times">X</string>
   <string name="title">Naslov</string>
   <string name="title_snap_double_confirm">Potvrdite ponovno</string>
@@ -1835,6 +1871,16 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="video_bokeh_zoom_in">Zoom in</string>
   <string name="video_bokeh_zoom_out">Zoom out</string>
   <string name="video_camera_label">Videokamera</string>
+  <string name="video_cast_connecting">Povezivanje…</string>
+  <string name="video_cast_exit_confirmation">Izaći sad?</string>
+  <string name="video_cast_exit_warning">"Vaš feed neće biti dostupan na drugom uređaju."</string>
+  <string name="video_cast_inviting">%1$s želi koristiti Snimanje s dva uređaja s ovim uređajem.</string>
+  <string name="video_cast_notification_content">Dodirnite za zaustavljanje</string>
+  <string name="video_cast_notification_title">Korištenje više kamera u pozadini…</string>
+  <string name="video_cast_service_error">"Snimanje s dva uređaja nije moguće uključiti u pozadini"</string>
+  <string name="video_cast_service_name">Snimanje s dva uređaja</string>
+  <string name="video_cast_state_exited">Zatvoreno Snimanje s dva uređaja</string>
+  <string name="video_cast_state_paused">Zaustavljeno</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
   <string name="video_effect_entry_bygone">Bygone</string>
   <string name="video_effect_entry_central">Central</string>
@@ -1842,7 +1888,7 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="video_effect_entry_color_retention_describe">Ovaj portretni filtar prikazuje ljude u boji, čineći pozadinu crno-bijelom.</string>
   <string name="video_effect_entry_fantasy">Fantazija</string>
   <string name="video_effect_entry_film">Film</string>
-  <string name="video_effect_entry_forest">Gaj</string>
+  <string name="video_effect_entry_forest">Šuma</string>
   <string name="video_effect_entry_holiday">Odrazi</string>
   <string name="video_effect_entry_lost">Izgubljen</string>
   <string name="video_effect_entry_meet">Susret</string>

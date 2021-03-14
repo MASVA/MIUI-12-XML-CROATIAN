@@ -540,6 +540,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
   <string name="allow_vibrate_title">Dopusti vibraciju</string>
   <string name="alpha_build">Alpha</string>
+  <string name="already_delete_system_app">Deinstalirane aplikacije sustava</string>
   <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
   <string name="always">Uvijek</string>
   <string name="always_allow_bind_appwidgets_text">Odlučili ste dopustiti ovoj aplikaciji izradu widgeta i pristupanje njihovim podacima.</string>
@@ -2078,6 +2079,7 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="cmcc_hardware_version">Verzija HW</string>
   <string name="codec_low_latency_summary">Smanji latenciju tijekom sinkronizacije zvuka i videa u igri</string>
   <string name="codec_low_latency_title">Niska latencija</string>
+  <string name="codec_low_latency_video_summary">Omogućava zvučno iskustvo s malim kašnjenjem za igre i videozapise, čineći sinkronizaciju zvuka i slike prirodnijom.</string>
   <string name="collect_diagnostics_summary">Prikupi dijagnostičke podatke za rješavanje problema</string>
   <string name="collect_diagnostics_title">Prikupi dijagnostiku</string>
   <string name="color_black">Crna</string>
@@ -3476,6 +3478,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="face_data_input_ok_title">Uspješno dodano</string>
   <string name="face_data_input_structure_title">3D lice</string>
   <string name="face_data_input_title">Dodaj lice</string>
+  <string name="face_data_introduction_add">Start</string>
   <string name="face_data_introduction_msg">Lice se može upotrijebiti za otključavanje uređaja ili provjeru vašeg identiteta. Prije dodavanja podataka o licu dodajte zaporku Zaklj. zaslona.</string>
   <string name="face_data_introduction_next">Dalje</string>
   <string name="face_data_introduction_title">Prepoznavanje lica</string>
@@ -3488,7 +3491,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="face_data_manage_unlock_title">Otključaj koristeći lice</string>
   <string name="face_data_siggesstion_next">Dalje</string>
   <string name="face_data_siggesstion_next_time">Dalje (%ds)</string>
-  <string name="face_data_suggesstion_first">Sigurnosni problemi: Otključavanje lica manje je sigurno od PIN-a, zaporke ili uzorka. Vaš će uređaj možda biti otključan s vašom fotografijom, kao i osobe ili predmeti sličnog izgleda.</string>
+  <string name="face_data_suggesstion_first">Otključavanje lica manje je sigurno od PIN-a, zaporke ili uzorka. Vaš će uređaj možda biti otključan s vašom fotografijom, kao i osobe ili predmeti sličnog izgleda.</string>
   <string name="face_data_suggesstion_second">"Provjerite nisu li svi dijelovi lica prekriveni predmetima i jasno su vidljivi. I vaše bi lice trebalo biti dobro osvijetljeno."</string>
   <string name="face_intro_error_max">Dodali ste maksimalan broj lica</string>
   <string name="face_intro_error_unknown">Nije moguće dodati više lica</string>
@@ -4052,6 +4055,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="heads_up_enabled_title">Skočni za visoki prioritet</string>
   <string name="headset_calibrate">Podešavanje tipki</string>
   <string name="headset_connectiong">Povezivanje…</string>
+  <string name="headset_notification_switch_summary">Prikažite status na widgetu Panela obavijesti kada su povezane slušalice</string>
+  <string name="headset_notification_switch_title">Widget Panela obavijesti</string>
   <string name="headset_remove_message">Želite li ukloniti ovaj uređaj sa svog računa?</string>
   <string name="headset_remove_message_indicate">Uklonit će se svi uređaji povezani s Mi Računom</string>
   <string name="headset_settings_title">Efekti zvuka</string>
@@ -4385,6 +4390,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="keyboard_settings_title">Android tipkovnica</string>
   <string name="keyboard_shortcuts_helper">Tipkovni prečaci</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostupnih prečaca</string>
+  <string name="keyboard_skin_follow_system_enable">Prebaci na Tamni način rada zajedno sa sustavom</string>
   <string name="keyguard_advance_setting_title">Napredne postavke</string>
   <string name="keyguard_double_tap_to_sleep_title">Dvaput dodirnite zaslon za mirovanje</string>
   <string name="keyguard_left_function_chooser_hint_text">Lijevi prečac promijenjen u %s</string>
@@ -5387,6 +5393,8 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miui_disturb_title">DND</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
   <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
+  <string name="miui_face_enroll_risk_warning_btn_cancel">Odustani</string>
+  <string name="miui_face_enroll_risk_warning_title_text">Pažnja</string>
   <string name="miui_face_enroll_success">"Ovaj uređaj sada možete otključati koristeći svoje lice.
 Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_ime_xiaoai_voice_hint">Brži i praktičniji način unosa teksta</string>
@@ -6104,11 +6112,6 @@ Aplikacija će također moći uključiti ili isključiti značajku Ne uznemirava
   <string name="notification_conversation_summary">%1$s • %2$s</string>
   <string name="notification_conversation_summary_low">Nema zvuka ili vibracije i pojavljuje se niže u odjeljku za razgovor</string>
   <string name="notification_display_settings">Panel obavijesti</string>
-  <string name="notification_fold_description1">Mapa obavijesti je uvedena u MIUI 9. Ova značajka filtrira nevažne obavijesti i stavlja ih u zasebne mape.</string>
-  <string name="notification_fold_description2">MIUI će zapamtiti koje obavijesti dodirnete, a zatim koristiti višestruke kriterije kako bi utvrdio jesu li važne.</string>
-  <string name="notification_fold_description3">"Ako obavijesti koje smatrate važnim i dalje ulaze u mapu s obavijestima, prijavite nam takve probleme. Cijenimo vaše povratne informacije."</string>
-  <string name="notification_fold_footer_icon_summary">Prikaži ikone aplikacija kada su nevažne obavijesti grupirane</string>
-  <string name="notification_fold_footer_icon_title">Prikaži ikone aplikacija</string>
   <string name="notification_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
   <string name="notification_fold_title">Mapa obavijesti</string>
   <string name="notification_group_title">Grupa kategorija obavijesti</string>
@@ -7472,7 +7475,7 @@ Ta postavka utječe na sve korisnike ovog telefona."</string>
   <string name="runningservicedetails_services_title">Usluge</string>
   <string name="runningservicedetails_settings_title">Pokrenuta aplikacija</string>
   <string name="runningservicedetails_stop_dlg_text">Ako zaustavite ovu uslugu, neke značajke vašeg uređaja mogu prestati raditi ispravno dok ga ne isključite i ponovno ne uključite.</string>
-  <string name="runningservicedetails_stop_dlg_title">Zaustaviti sistemsku uslugu?</string>
+  <string name="runningservicedetails_stop_dlg_title">Zaustaviti uslugu sustava?</string>
   <string name="runningservices_settings_summary">Pregledajte i kontrolirajte pokrenute usluge</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="runtime_permissions_summary_control_app_access">Kontrolirajte pristup aplikacija vašim podacima</string>
@@ -9211,7 +9214,7 @@ Googleov pristup sinkronizaciji podataka za mogućnost pristupa kontaktima, sast
   <string name="system_app_settings">Postavke aplikacija sustava</string>
   <string name="system_apps_updater">Ažuriranje aplikacija sustava</string>
   <string name="system_backup">Sig. kopija</string>
-  <string name="system_backup_info">Postavke sistema, Poč. zaslona itd.</string>
+  <string name="system_backup_info">Postavke sustava, Poč. zaslona itd.</string>
   <string name="system_backup_section_title">Sig. kopije sustava</string>
   <string name="system_backup_section_title_new">Izradi Sig. kopiju ili vrati</string>
   <string name="system_dashboard_summary">Jezici, pokreti, vrijeme, Sig. kopija</string>
@@ -9634,9 +9637,9 @@ i Mi Mover uključen"</string>
   <string name="trust_lost_locks_screen_summary">Ako je omogućeno, uređaj će se zaključati kad zadnji agent za pouzdanost više ne bude pouzdan</string>
   <string name="trust_lost_locks_screen_title">Zaključan zaslon kad nema pouzdanosti</string>
   <string name="trusted_credentials">Pouzdane vjerodajnice</string>
-  <string name="trusted_credentials_disable_confirmation">Želite li onemogućiti sistemski CA certifikat?</string>
+  <string name="trusted_credentials_disable_confirmation">Želite li onemogućiti CA certifikat sustava?</string>
   <string name="trusted_credentials_disable_label">Onemogući</string>
-  <string name="trusted_credentials_enable_confirmation">Želite li omogućiti sistemski CA certifikat?</string>
+  <string name="trusted_credentials_enable_confirmation">Želite li omogućiti CA certifikat sustava?</string>
   <string name="trusted_credentials_enable_label">Omogući</string>
   <string name="trusted_credentials_remove_confirmation">Želite li trajno ukloniti korisnički CA certifikat?</string>
   <string name="trusted_credentials_remove_label">Ukloni</string>
@@ -10213,7 +10216,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="users_summary">Prijavljeni ste kao %1$s</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
-  <string name="var_font_switch_title">Sistemski promjenjivi font</string>
+  <string name="var_font_switch_title">Promjenjivi font sustava</string>
   <string name="verify_applications">Potvrdi aplikacije</string>
   <string name="verify_applications_summary">Onemogući instalaciju zlonamjernih aplikacija ili skreni pozornost na njih</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
