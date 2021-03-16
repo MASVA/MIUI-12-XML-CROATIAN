@@ -1384,7 +1384,6 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exo_controls_fullscreen_enter_description">Cijeli zaslon</string>
   <string name="exo_controls_fullscreen_exit_description">Izađi iz cijelog zaslona</string>
   <string name="exo_controls_hide">Sakrij kontrole playera</string>
-  <string name="exo_controls_next_description">Dalje</string>
   <string name="exo_controls_overflow_hide_description">Sakrij dodatne postavke</string>
   <string name="exo_controls_overflow_show_description">Prikaži dodatne postavke</string>
   <string name="exo_controls_next_description">Sljedeća pjesma</string>
@@ -1393,7 +1392,6 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exo_controls_previous_description">Prethodna pjesma</string>
   <string name="exo_controls_playback_speed">Brzina</string>
   <string name="exo_controls_playback_speed_normal">Normalna</string>
-  <string name="exo_controls_previous_description">Prethodno</string>
   <string name="exo_controls_repeat_all_description">Ponovi sve</string>
   <string name="exo_controls_repeat_off_description">Bez ponavljanja</string>
   <string name="exo_controls_repeat_one_description">Ponovi jednu</string>
