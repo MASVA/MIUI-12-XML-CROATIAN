@@ -186,6 +186,7 @@
   <string name="notification_playback">Reprodukcija snimke…</string>
   <string name="notification_recording">Snimanje…</string>
   <string name="notification_recording_ticker">Telefon utišan.</string>
+  <string name="notification_save_as_complete">Uspješno spremljeno</string>
   <string name="notification_stopped">Snimanje zaustavljeno</string>
   <string name="notification_title_all_paused">Preuzimanje pauzirano</string>
   <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>
@@ -276,6 +277,7 @@
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="save_as">Spremi kao</string>
   <string name="save_record_dialog_title">Spremi snimku</string>
   <string name="search_app">Snimač</string>
   <string name="search_empty">"Ne mogu naći rezultate"</string>

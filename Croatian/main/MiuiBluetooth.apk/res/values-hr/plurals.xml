@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Pritisnite i držite gumb na box-u na %1$d sek.</item>
-        <item quantity="one">Pritisnite i držite gumb na box-u na %1$d sek.</item>
+        <item quantity="other">Pritisnite i držite tipku na futroli na %1$d sek.</item>
+        <item quantity="one">Pritisnite i držite tipku na futroli %1$d sekundu</item>
     </plurals>
 	<plurals name="fast_connect_reset_air2_se">
         <item quantity="other">Pritisnite i držite bilo koje područje slušalica osjetljivo na dodir na %1$d sek.</item>
@@ -13,11 +13,11 @@
         <item quantity="one">Povezan je %1$d uređaj</item>
     </plurals>
 	<plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Pritisnite i držite gumb na %1$s sek. tijekom isključivanja</item>
-        <item quantity="one">Pritisnite i držite gumb na %1$s sek. tijekom isključivanja</item>
+        <item quantity="other">Pritisnite i držite tipku na %1$s sek. tijekom isključivanja</item>
+        <item quantity="one">Pritisnite i držite tipku na %1$s sekundu tijekom isključivanja</item>
     </plurals>
 	<plurals name="fast_connect_reset_common_seconds">
         <item quantity="other">Pritisnite i držite %1$d sek. za resetiranje</item>
-        <item quantity="one">Pritisnite i držite %1$d sek. za resetiranje</item>
+        <item quantity="one">Pritisnite i držite %1$d sekundu za resetiranje</item>
      </plurals>
 </resources>

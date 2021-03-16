@@ -55,7 +55,7 @@
   <string name="early_morning">Jutro</string>
   <string name="enable_float_notification">Plutajuće obavijesti su dopuštene</string>
   <string name="enable_lockscreen_notification">Obavijesti Zaklj. zaslona su dopuštene</string>
-  <string name="enable_show_badge_notification">Značke  su dopuštene</string>
+  <string name="enable_show_badge_notification">Značke su dopuštene</string>
   <string name="eras_bc">BCE</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="evening">Podvečer</string>
@@ -67,12 +67,14 @@
   <string name="feedback_tip_cancel">"Podaci obavijesti neće se prikupljati."</string>
   <string name="feedback_tip_msg">Da bismo preciznije grupirali obavijesti, moramo prikupiti naziv aplikacije, naslov i opis obavijesti i vrijeme slanja obavijesti. Poslati povratne informacije?</string>
   <string name="feedback_tip_title">Povratne informacije o kategorijama obavijesti</string>
+  <string name="float_notification_snooze_strategy">Sakrij privremeno</string>
+  <string name="float_notification_snooze_summary">Povucite prema gore po plutajućoj obavijesti da biste privremeno sakrili nadolazeće</string>
   <string name="float_notifications">Plutajuće obavijesti</string>
   <string name="float_notifications_short">Plutajuće</string>
   <string name="fold_importance_default">Preporučeno</string>
   <string name="fold_importance_important">Važno</string>
   <string name="fold_importance_unimportant">Nevažno</string>
-  <string name="fold_title">Rules for grouped notifications</string>
+  <string name="fold_title">Pravila za grupirane obavijesti</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -97,6 +99,10 @@
   <string name="menu_setting_toast_show_in_home">"Obavijesti od %s neće biti grupirane"</string>
   <string name="menu_setting_unfold">Važno</string>
   <string name="midnight">Ponoć</string>
+  <string name="miui_snooze_always_float">"Ne skrivaj"</string>
+  <string name="miui_snooze_cancel">Odustani</string>
+  <string name="miui_snooze_default_time">Na %d min.</string>
+  <string name="miui_snooze_until_unlock_screen">Dok se ne zaključa</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>

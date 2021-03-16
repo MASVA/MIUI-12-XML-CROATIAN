@@ -5263,6 +5263,9 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_active">Energetic</string>
   <string name="miheadset_ancBalance">Srednja</string>
   <string name="miheadset_ancClosed">Isključeno</string>
+  <string name="miheadset_ancHigh">Zrakoplov</string>
+  <string name="miheadset_ancLow">Ured</string>
+  <string name="miheadset_ancMedium">Dnevno</string>
   <string name="miheadset_ancDecrease">Niska</string>
   <string name="miheadset_ancIncrease">Visoka</string>
   <string name="miheadset_anc_indicate">Spojite i uparite slušalice</string>
@@ -5313,6 +5316,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_ignore">Izbriši ovaj uređaj</string>
   <string name="miheadset_in_ear_check">Otkrivanje prisutnosti uha</string>
   <string name="miheadset_in_ear_check_summary">Automatski zaustavi i nastavi reprodukciju dok nosite ili uklanjate slušalice</string>
+  <string name="miheadset_key_config_ANC_list_title">Kontrola buke</string>
   <string name="miheadset_key_config_call_ai">Glasovni asistent</string>
   <string name="miheadset_key_config_close">Isključeno</string>
   <string name="miheadset_key_config_close_summary">Isključi uklanjanje buke i prozirnost</string>

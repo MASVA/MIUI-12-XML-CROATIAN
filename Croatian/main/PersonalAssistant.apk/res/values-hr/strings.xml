@@ -427,6 +427,8 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miot_auth_dialog_neg_btn">No hvala</string>
+  <string name="miot_auth_dialog_pos_btn">Sinkroniziraj</string>
   <string name="month_day_format">dd.MM</string>
   <string name="month_day_hour_minute_format_en">dd.MM HH:mm</string>
   <string name="month_format_en">dd.MM</string>

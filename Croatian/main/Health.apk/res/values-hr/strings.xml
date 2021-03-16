@@ -362,6 +362,7 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="dialog_user_agreement_purpose2">Dobrodošli u Mi Health, ovu aplikaciju možete koristiti za brojanje koraka, praćenje sna, menstruacije, težine, Xiaomi Health Cloud uslugu i druge funkcije.</string>
   <string name="diastolic_pressure">Dijastolički</string>
   <string name="disable">Isključeno</string>
+  <string name="discard_update">Ne hvala</string>
   <string name="drag_sort">Preuredi</string>
   <string name="dream_talk">Razgovor s %1$s</string>
   <string name="dream_talk_record">Bili ste snimljeni dok ste razgovarali tijekom spavanja</string>
@@ -1071,7 +1072,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="skipping_time">Trajanje</string>
   <string name="skipping_upload_dialog_agree_and_upload">Prihvaćam i pošalji</string>
   <string name="skipping_upload_dialog_msg">Kako bi pružio preciznije iskustvo brojanja preskakanja, Xiaomi Health će poslati datoteku snimke vašeg užeta za preskakanje pod %s uvjetima kako bi optimizirao efekt prepoznavanja preskakanja užeta. Da biste zaštitili vašu privatnost, prijenos i pohrana datoteka za snimanje strogo će se šifrirati.</string>
-  <string name="skipping_upload_dialog_reject_not_remind">Odbijam i ne pitaj ponovo</string>
+  <string name="skipping_upload_dialog_reject_not_remind">Ne hvala</string>
   <string name="skipping_upload_dialog_title">Pošaljite preskakanje užeta kako biste optimizirali prepoznavanje</string>
   <string name="skipping_upload_tips">Pošaljite ovu snimku preskakanja užeta kako biste poboljšali učinak prepoznavanja</string>
   <string name="sleep">Spavanje</string>
