@@ -370,7 +370,6 @@ Brži protokol veze."</string>
   <string name="headset_device_error_single_device">"Nije moguće ažurirati jednu slušalicu. Ponovno uparite."</string>
   <string name="headset_device_sync_donot_move_device">Sinkronizacija… Pričekajte dok se sinkronizacija ne završi prije upotrebe slušalica.</string>
   <string name="headset_device_sync_wait_connect">Sinkronizacija… Pričekajte dok se veza ne uspostavi automatski prije upotrebe slušalica.</string>
-  <string name="headset_device_error_failed">Nije uspjelo</string>
   <string name="headset_download_failed">Nije uspjelo</string>
   <string name="headset_download_fw">Preuzmi</string>
   <string name="headset_downloading">Preuzimanje</string>
