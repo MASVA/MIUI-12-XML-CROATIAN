@@ -363,6 +363,13 @@ Brži protokol veze."</string>
   <string name="headset_device_check_failed">Nije uspjelo</string>
   <string name="headset_device_donot_move">Ne pomičite uređaj</string>
   <string name="headset_device_enter_upgrade_failed">Nije uspjelo</string>
+  <string name="headset_device_error_box_close">Kućište za punjenje je isključeno</string>
+  <string name="headset_device_error_disconnect">Obje slušalice su odspojene. Zatvorite kućište za punjenje i ponovno ga otvorite da biste pokrenuli ažuriranje.</string>
+  <string name="headset_device_error_failed">"Ne mogu ažurirati"</string>
+  <string name="headset_device_error_no_device">Na kućištu za punjenje nedostaje barem jedna slušalica</string>
+  <string name="headset_device_error_single_device">"Nije moguće ažurirati jednu slušalicu. Ponovno uparite."</string>
+  <string name="headset_device_sync_donot_move_device">Sinkronizacija… Pričekajte dok se sinkronizacija ne završi prije upotrebe slušalica.</string>
+  <string name="headset_device_sync_wait_connect">Sinkronizacija… Pričekajte dok se veza ne uspostavi automatski prije upotrebe slušalica.</string>
   <string name="headset_device_error_failed">Nije uspjelo</string>
   <string name="headset_download_failed">Nije uspjelo</string>
   <string name="headset_download_fw">Preuzmi</string>

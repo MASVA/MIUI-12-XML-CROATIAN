@@ -483,7 +483,7 @@
   za:
 %s "</string>
   <string name="exception_updated">"
-    Detalji ovog događaja su se promijenili
+  Detalji ovog događaja su se promijenili
   za:
 %s "</string>
   <string name="exchange_name">Korporativno</string>
@@ -595,8 +595,10 @@
   <string name="general_preference_text_zoom_normal">Normalan</string>
   <string name="general_preference_text_zoom_small">Malen</string>
   <string name="general_preference_text_zoom_tiny">Sitan</string>
+  <string name="general_preference_trash_contact">Filtrirajte neželjenu poštu</string>
+  <string name="general_preference_trash_contact_sum">Filtrirajte e-poštu pošiljatelja koje prijavljuje više korisnika</string>
   <string name="generic_attachment_problem">"Ne mogu priložiti datoteku."</string>
-  <string name="get_database_exception">"Izbrišite podatke ove aplikacije u Postavke &gt; Aplikacije sustava i pokušajte ponovo."</string>
+  <string name="get_database_exception">"Izbrišite podatke ove aplikacije u Postavke > Aplikacije sustava i pokušajte ponovo."</string>
   <string name="get_oauth_code">Dobij kod</string>
   <string name="gmail_acceleration">Koristi proxy poslužitelj za Gmail Račun</string>
   <string name="gmail_login_confirm_to_use_proxy">Koristiti proxy poslužitelj za pristup Gmail Računu?</string>
@@ -612,7 +614,7 @@
   <string name="help_and_info">Pomoć</string>
   <string name="help_config">Ručna konfiguracija</string>
   <string name="help_me_get_qq_auth">Dobij kod</string>
-  <string name="help_weixin_title">"Ako imate bilo kakvih pitanja, slobodno nam pošaljite uoit na naš službeni WeChat račun: "</string>
+  <string name="help_weixin_title">"Ako imate bilo kakvih pitanja, slobodno nam pošaljite upit na naš službeni WeChat račun: "</string>
   <string name="hide_elided">▼ Sakrij citirani tekst</string>
   <string name="hide_password">Sakrij zaporku</string>
   <string name="hint_quick_reply_all">Odgovori svima</string>
@@ -699,6 +701,8 @@
   <string name="mailbox_name_server_sent">Poslano</string>
   <string name="mailbox_name_server_starred">Označeno</string>
   <string name="mailbox_name_server_trash">Smeće</string>
+  <string name="mailbox_setting_preference_sync_summary_close">Sinkr: Isključena</string>
+  <string name="mailbox_setting_preference_sync_summary_open">Sinkr: Uključena</string>
   <string name="mailbox_settings_activity_title">Postavke sinkronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Postavke sinkronizacije (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Sinkr. e-poštu iz</string>
@@ -720,49 +724,49 @@
   <string name="me_object_pronun">ja</string>
   <string name="me_subject_pronun">ja</string>
   <string name="meeting_accepted">"
-        Prihvaćeno:
-        %s
-    "</string>
+    Prihvaćeno:
+    %s
+  "</string>
   <string name="meeting_allday">"
-        Kada:
-        %s
-        (cijeli dan)
-    "</string>
+    Kada:
+    %s
+    (cijeli dan)
+  "</string>
   <string name="meeting_allday_recurring">"
-        Kada:
-        %s
-        (cijeli dan, ponavljajući)
-    "</string>
+    Kada:
+    %s
+    (cijeli dan, ponavljajući)
+  "</string>
   <string name="meeting_canceled">"
-        Otkazano:
-        %s
-    "</string>
+    Otkazano:
+    %s
+  "</string>
   <string name="meeting_declined">"
-        Odbijeno:
-        %s
-    "</string>
+    Odbijeno:
+    %s
+  "</string>
   <string name="meeting_recurring">"
-        Kada:
-        %s
-        (ponavljajući)
-    "</string>
+    Kada:
+    %s
+    (ponavljajući)
+  "</string>
   <string name="meeting_responded_failed">Nema odgovora</string>
   <string name="meeting_tentative">"
-        Privremen:
-        %s
-    "</string>
+    Privremen:
+    %s
+  "</string>
   <string name="meeting_updated">"
-        Ažurirano:
-        %s
-    "</string>
+    Ažurirano:
+    %s
+  "</string>
   <string name="meeting_when">"
-        Kada:
-        %s
-    "</string>
+    Kada:
+    %s
+  "</string>
   <string name="meeting_where">"
-        Gdje:
-        %s
-    "</string>
+    Gdje:
+    %s
+  "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Privici</string>
   <string name="menu_att_mgr_order_default">Nedavno pregledano</string>
@@ -784,6 +788,7 @@
   <string name="menu_search">Traži</string>
   <string name="menu_settings">Postavke</string>
   <string name="merged_mailbox_compose_select_account">Odaberite račun</string>
+  <string name="message_all_body">Cijeli tekst e-pošte</string>
   <string name="message_body_load_set_description">Učitaj veličinu za nove poruke e-pošte prilikom korištenja mobilnih podataka</string>
   <string name="message_compose_insert_quick_response_list_title">Umetanje brzog odgovora</string>
   <string name="message_count_spacer">  </string>
@@ -863,6 +868,18 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="notify_channel_permission_notice">Podsjetnik obavijesti o dopuštenju</string>
   <string name="notify_channel_send_fail">Obavijesti o neuspjeloj dostavi</string>
   <string name="notify_channel_service">Obavijesti o sinkronizaciji u pozadini</string>
+  <string name="ntes_authorization_code_to_login">Prijavite se pomoću ovog kontrolnog koda</string>
+  <string name="ntes_copy_and_login">Kopirajte i prijavite se</string>
+  <string name="ntes_do_not_sms_uplink">Pošaljite SMS s povezanog telefonskog broja, a zatim dodirnite \"Poruka je poslana\".</string>
+  <string name="ntes_had_send">Poruka je poslana</string>
+  <string name="ntes_had_send_to_content">"Ako ste već poslali SMS s povezanog telefonskog broja, dodirnite \"Poruka je poslana\" za nastavak."</string>
+  <string name="ntes_login_auth_too_much">"Ne možete dodati više od 5 kontrolnih kodova. Prijavite se u pristiglu poštu na računalu i izbrišite kodove koje ne koristite."</string>
+  <string name="ntes_login_error_message" formatted="false">"Ne mogu dobiti podatke o računu (Pogreška %s). %s."</string>
+  <string name="ntes_password_error_hint">"Ako se tijekom unosa zaporke pojave pogreške, zatvorite ovu stranicu i otvorite je ponovo."</string>
+  <string name="ntes_phone_send">Pošaljite SMS poruku s povezanog telefonskog broja</string>
+  <string name="ntes_send_to">Pošalji na: %s</string>
+  <string name="ntes_send_to_content">Ako je vaš trenutni telefonski broj povezan s računom, dodirnite \"Pošalji SMS\".</string>
+  <string name="ntes_verification_code">Unesite kod: %s</string>
   <string name="oauth_error_description">"Ne mogu provjeriti autentičnost"</string>
   <string name="oauth_gmail_login_notify">"Unesite svoje korisničko ime i zaporku Google računa na sljedećoj stranicu za prijavu"</string>
   <string name="oauth_login_continue">Nastavi</string>
@@ -879,7 +896,7 @@ Pokušajte s drugom pristiglom poštom."</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Omogućite dopuštenja korištenja Kalendara,kontakata i pohrane u postavkama</string>
   <string name="open_external_storage_and_contacts_permission">Omogućite dopuštenja korištenja kontakata u postavkama</string>
   <string name="open_notification_kingagent">Uključite obavijesti o grobnim točkama</string>
-  <string name="open_pdf_error">Ne mogu otvoriti PDF datoteku. Preuzmite druge aplikaciju za otvaranje PDF-a i pokušajte ponovo kasnije.</string>
+  <string name="open_pdf_error">Nije moguće otvoriti PDF. Instalirajte čitač PDF-a i pokušajte ponovo.</string>
   <string name="optimization_suggestion">Prijedlozi za optimizaciju</string>
   <string name="others_mail">Ostalo</string>
   <string name="others_mail_des">(Kompatibilan s uslugama e-pošte od 600K)</string>
