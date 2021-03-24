@@ -647,7 +647,7 @@ Audio"</string>
   <string name="card_title_outgoing_barred">Odlazni pozivi zabranjeni</string>
   <string name="card_title_redialing">Ponovno biranje</string>
   <string name="card_title_unconditionalCF">Uvjetno preusmjeravanje poziva je uključeno</string>
-  <string name="carrier_info">Informacije o davatelju usluge</string>
+  <string name="carrier_info">Informacije davatelja usluge</string>
   <string name="carrier_mmi_msg_title">%s poruka</string>
   <string name="carrier_name">(Naziv davatelja usluge)</string>
   <string name="carrier_provisioning">Informacije o uslugama mobilnog operatera</string>

@@ -1021,6 +1021,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="fingerprint_not_recognized">Otisak nije prepoznat</string>
   <string name="fingerprint_try_again_msg">"Ne mogu potvrditi otisak prsta, pokušajte ponovno."</string>
   <string name="fingerprint_try_again_text">Pokušajte ponovno</string>
+  <string name="float_notification_snooze_strategy">Privremeno sakrij plutajuće obavijesti</string>
   <string name="float_incall_ignore">Ignoriraj</string>
   <string name="float_incall_message">Poruka</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
@@ -1544,6 +1545,15 @@ snimke zaslona"</string>
   <string name="miui_toast_zen_to_standard">DND je uključeno. Melodije zvona za pozive i obavijesti utišane</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Bešumno je uključeno. Obavijesti i mediji su utišani i vibracija je isključena.</string>
+  <string name="miui_snooze_always_float">"Ne skrivaj"</string>
+  <string name="miui_snooze_cancel">Odustani</string>
+  <string name="miui_snooze_default_time">Na %d min.</string>
+  <string name="miui_snooze_to_settings">Postavke</string>
+  <string name="miui_snooze_toast_hint_default">"Nadolazeće obavijesti bit će skrivene na %d min."</string>
+  <string name="miui_snooze_toast_hint_until_unlock_screen">"Nadolazeće obavijesti će biti skrivene dok je uređaj zaključan."</string>
+  <string name="miui_snooze_until_unlock_screen">Dok je zaključan</string>
+  <string name="miui_snooze_user_set_fail">Idite u Postavke > Obavijesti &amp; Centar za kontrolu za više opcija</string>
+  <string name="miui_snooze_user_set_success">Uspješno primjenjeno. Idite u Postavke > Obavijesti &amp; Centar za kontrolu za više opcija.</string> 
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

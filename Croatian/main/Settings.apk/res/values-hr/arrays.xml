@@ -200,6 +200,14 @@
         <item>DHCP</item>
         <item>Statično</item>
     </string-array>
+	<string-array name="wifi_link_turbo_mode_entries">
+        <item>Pomoćno</item>
+        <item>Puno</item>
+    </string-array>
+    <string-array name="wifi_link_turbo_mode_summary_entries">
+        <item>Pojačaj brzinu pomoću mobilnih podataka samo kada je Wi-Fi signal slab</item>
+        <item>Kombiniraj Wi-Fi i mobilne podatke kako biste povećali brzinu veze</item>
+    </string-array>
 	<string-array name="wifi_metered_entries">
         <item>Otkrij automatski</item>
         <item>Tretiraj kao mjereno</item>

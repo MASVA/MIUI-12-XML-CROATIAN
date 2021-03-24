@@ -548,9 +548,13 @@ i pokušajte ponovno."</string>
   <string name="third_web_title">Preuzmi</string>
   <string name="thunder_download_speedup">Povećanje brzine koristeći Xunlei…</string>
   <string name="time_consume">Trajanje</string>
+  <string name="tip_download_icon_restore">Dodajte prečac Poč. zaslona za Preuzimanja</string>
+  <string name="tip_download_icon_retry">"Ne mogu dodati prečac. Pokušajte ponovo."</string>
   <string name="title_homepage_infoflow">Nedavna ažuriranja</string>
   <string name="title_tips">Pažnja</string>
   <string name="title_unbind_xunlei">Ukloni Xunlei Račun</string>
+  <string name="toast_download_icon_restore_fail">"Ne mogu dodati prečac"</string>
+  <string name="toast_download_icon_restore_success">Uspješno dodano</string>
   <string name="toast_only_wifi_download">Povežite se na Wi-Fi za preuzimanje ove stavke</string>
   <string name="toast_update_data_limit_fail">"Ne mogu postaviti"</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.

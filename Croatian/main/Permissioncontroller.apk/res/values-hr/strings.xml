@@ -75,7 +75,7 @@
     <string name="force_stop_app">Prisilno zaustavi</string>
     <string name="grant_dialog_button_allow">Dopusti</string>
     <string name="grant_dialog_button_allow_always">Dopusti cijelo vrijeme</string>
-    <string name="grant_dialog_button_allow_foreground">Dopusti samo dok je aplikacija u upotrebi</string>
+    <string name="grant_dialog_button_allow_foreground">Dopusti samo tijekom korištenja aplikacije</string>
     <string name="grant_dialog_button_deny">Odbij</string>
     <string name="grant_dialog_button_deny_and_dont_ask_again">Odbij i više ne pitaj</string>
     <string name="grant_dialog_button_deny_anyway">Svejedno odbij</string>

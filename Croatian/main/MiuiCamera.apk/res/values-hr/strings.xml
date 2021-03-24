@@ -523,6 +523,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="dialog_button_connect">Poveži</string>
   <string name="dialog_button_disconnect">Izlaz</string>
   <string name="dialog_button_exit">Isključi</string>
+  <string name="dialog_button_goto">Postavke</string>
   <string name="dialog_button_ok">U redu</string>
   <string name="dialog_button_reject">Odbijam</string>
   <string name="dialog_button_scan">Traži uređaje</string>
@@ -576,6 +577,8 @@ skenirane dokumente automatski"</string>
   <string name="dual_video_user_guide_main_content">Da biste stvorili videozapise s više kamera, odaberite dvije kamere na uređaju i snimajte istovremeno. Snimke se mogu pohraniti odvojeno ili kombinirati u podijeljenom prikazu ili videozapisu slika u slici.</string>
   <string name="dual_video_user_guide_main_title">Videozapis s više kamera</string>
   <string name="dual_video_user_guide_merge_content">Snimajte istovremeno s dvije kamere i kombinirajte snimke u podijeljenom prikazu ili videozapisu slika u slici.</string>
+  <string name="dual_video_user_guide_remote_content">"Snimanje s dva uređaja omogućuje kombiniranje feedova s dva različita uređaja u jedan videozapis. Na ovom ćete uređaju moći pregledati feedove i konačni videozapis. Imajte na umu da će ovaj uređaj snimati samo zvuk."</string>
+  <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="dual_video_user_guide_standalone_content">Snimajte istovremeno s dvije kamere i obje snimke spremite kao zasebne videozapise.</string>
   <string name="duration">Trajanje</string>
   <string name="edit">Uredi</string>
@@ -1549,7 +1552,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_hdr_indicator_entry_on">Uklj.</string>
   <string name="pref_i_n_r_b">Pametno smanjenje šuma</string>
   <string name="pref_k_h">Live in-ear monitor</string>
-  <string name="pref_k_s_i">Reproduciraj snimljeni zvuk u slušalice kad su spojene</string>
+  <string name="pref_k_s_i">Pratite snimljeni zvuk pomoću slušalica kad su spojene</string>
   <string name="pref_lens_dirty_detect_summary">Primite obavijest kada je leća prljava</string>
   <string name="pref_lens_dirty_detect_title">Obavijesti o prljavoj leći</string>
   <string name="pref_manual_exposure_title">Vrijeme eksp.</string>
@@ -1593,6 +1596,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_super_night_se_summary">Otkrij uvjete slabog osvjetljenja i automatski poboljšaj kvalitetu slike</string>
   <string name="pref_super_night_se_title">Autom. noćni način rada</string>
   <string name="pref_userdefine_watermark_title">Vlastita oznaka</string>
+  <string name="pref_video_ai_audio_single">Frontalni zvuk</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
   <string name="pref_video_cast_setting_summary">Uključite da biste mogli snimati jedan videozapis s više uređaja</string>
   <string name="pref_video_cast_setting_title">Snimanje sa dva uređaja</string>
@@ -1648,6 +1652,11 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_watermark_title">Vodeni žig</string>
   <string name="pref_wind_denoise_title">Filter vjetra</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="prek_b_j_o">Ponovo stvorite stereo surround efekt</string>
+  <string name="prek_b_j_p">Smanjite utjecaj vjetra na snimanje zvuka</string>
+  <string name="prep_video_ai_audio_new_desc_tip">Poboljšani su zvukovi izoštrenog objekta</string>
+  <string name="prep_video_ai_audio_single_desc_tip">Zvukovi iza zaslona filtriraju se</string>
+  <string name="prep_video_ai_audio_unsupported_headset_desc_tips">"Zumiranje zvuka ne radi sa zaslonom u uhu uživo i vanjskim mikrofonom"</string>
   <string name="preparing_sd">Provjera unutarnje pohrane…</string>
   <string name="preview_back_pressed_hint">Dodirnite ponovo za povratak na pregled</string>
   <string name="pro_color_mode">Pro boja</string>
@@ -1661,6 +1670,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="recommend_soft_light_tip">Koristite bljeskalicu u načinu mekog svjetla</string>
   <string name="recommend_super_night">Isprobajte Noćni način</string>
   <string name="record_back_pressed_hint">Dodirnite ponovno za zaustavljanje snimanja</string>
+  <string name="remote_device_type_phone">Xiaomi</string>
   <string name="remote_online_connecting">Odaberite uređaj za povezivanje</string>
   <string name="remote_online_disconnect_confirmation">Otkazati povezivanje s %1$s?</string>
   <string name="remote_online_exit_confirmation">Želite li isključiti snimanje s dva uređaja?</string>
@@ -1669,6 +1679,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="remote_online_interrupted">Veza prekinuta. Ponovno se povežite za nastavak.</string>
   <string name="remote_online_introduction_i">"Snimanje s dva uređaja omogućuje kombiniranje feedova s dva različita uređaja u jedan videozapis. Na ovom ćete uređaju moći pregledati feedove i konačni videozapis. Imajte na umu da će ovaj uređaj snimati samo zvuk."</string>
   <string name="remote_online_introduction_ii">Da bi ova značajka funkcionirala, drugi Mi ili Redmi uređaj mora podržavati snimanje na dva uređaja. Može se uključiti pomoću prečaca u Centru za kontrolu.</string>
+  <string name="remote_online_permission">"Promijenite dopuštenje za lokaciju Kamere u \"Dopusti samo tijekom korištenja aplikacije\" da biste mogli koristiti snimanje na dva uređaja."</string>
   <string name="remote_online_searching">Traženje uređaja…</string>
   <string name="remote_online_service_name">Snimanje s dva uređaja</string>
   <string name="remote_online_unavailable">"Ne mogu pronaći uređaje u blizini"</string>

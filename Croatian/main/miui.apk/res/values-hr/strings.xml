@@ -24,6 +24,7 @@
   <string name="close">Zatvori</string>
   <string name="click_to_restore">Vratite stavke sustava da biste mogli normalno koristiti MIUI nakon vraćanja na tvorničke postavke. Dodirnite za početak.</string>
   <string name="com_android_email">E-pošta</string>
+  <string name="com_android_soundrecorder">Snimač</string>
   <string name="com_mi_liveassistant">Live Streaming pomoćnik</string>
   <string name="com_miui_calculator">Kalkulator</string>
   <string name="com_miui_cleanmaster">Čistač</string>
@@ -37,6 +38,7 @@
   <string name="com_xiaomi_drivemode">Pribor za auto</string>
   <string name="com_xiaomi_gamecenter">Igre</string>
   <string name="com_xiaomi_jr">Mi Finance</string>
+  <string name="com_xiaomi_midrop">ShareMe</string>
   <string name="com_xiaomi_scanner">Skener</string>
   <string name="com_xiaomi_shop">Mi Store</string>
   <string name="com_xiaomi_vipaccount">Mi Community</string>
@@ -208,11 +210,11 @@ idite na: %s."</string>
   <string name="sunday_shortest">N</string>
   <string name="system_app_is_restore">Vraćanje stavki sustava…</string>
   <string name="system_app_restore_completed">Uspješno vraćeno</string>
-  <string name="system_app_restore_completed_detail">All system items are successfully restored</string>
+  <string name="system_app_restore_completed_detail">Sve su stavke sustava uspješno vraćene</string>
   <string name="system_app_restore_failed">Dogodila se pogreška</string>
-  <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite mrežne postavke i nemojte ponovno pokrenuti ili isključiti uređaj sve dok se stavke ne obnove u potpunosti. Dodirnite donji gumb da biste pokušali ponovo."</string>
+  <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite mrežne postavke i nemojte ponovno pokrenuti ili isključiti uređaj sve dok se stavke ne vrate u potpunosti. Dodirnite donju tipku da biste pokušali ponovo."</string>
   <string name="system_restore">Vrati stavke</string>
-  <string name="tap_to_update_system_app">Dodirnite za ažuriranje sistemskih aplikacija</string>
+  <string name="tap_to_update_system_app">Dodirnite za ažuriranje aplikacija sustava</string>
   <string name="sync_one_time_sync">Sinkronizacija (%1$s)</string>
   <string name="the_anniversary_of_lifting_martial_law"/>
   <string name="the_anti_aggression_day"/>

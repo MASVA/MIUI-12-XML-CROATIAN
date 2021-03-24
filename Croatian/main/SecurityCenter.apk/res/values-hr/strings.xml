@@ -1634,7 +1634,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže s mrežom kako bi se koristile sve značajke Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
-  <string name="gamebox_browser_not_find">Instalirajte najprije Mi Browser</string>
+  <string name="gamebox_browser_not_find">Instalirajte najprije Mi Preglednik</string>
+  <string name="gamebox_collimator">Pogled</string>
   <string name="gamebox_display_1">Ništa</string>
   <string name="gamebox_display_2">Zasićeno</string>
   <string name="gamebox_display_3">Jarko</string>
@@ -1663,6 +1664,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije koje rade s prečacima nisu instalirane"</string>
   <string name="gamebox_simcard">Promjeni SIM kartice</string>
+  <string name="gamebox_time">Timer</string>
   <string name="gamebox_type_close">"Ne prikazuj"</string>
   <string name="gamebox_type_float">Prečac popravljen</string>
   <string name="gamebox_type_gesture">Povuci za prikaz</string>
@@ -1715,6 +1717,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_advance_settings_vibration_4d_summary2">Vibriraj tijekom ubijanja u igri</string>
   <string name="gb_audition_instruction">Pritisnite i držite za snimanje (%1$s-%2$s sek)</string>
   <string name="gb_audition_play_instruction">Za najbolji učinak koristite slušalice</string>
+  <string name="gb_collimator_color">Boja</string>
+  <string name="gb_collimator_size">Veličina</string>
+  <string name="gb_collimator_style">Tip</string>
+  <string name="gb_collimator_toast">Pogled čini nišanjenje mnogo praktičnijim</string>
   <string name="gb_create_icon_summary">Izradi prečac Poč. zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
@@ -1748,6 +1754,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_game_macro_bubble_tips">Isprobajte kombinacije</string>
   <string name="gb_game_macro_toast_tips">"Isprobajte kombinacije!
 Snimite sekvence i koristite ih bilo kada!"</string>
+  <string name="gb_game_time_toast">Timer je sada dostupan!</string>
   <string name="gb_game_video_bottom_tips">Ponovno pogledajte ključne trenutke sa svojih sesija igranja u Game Turbo. Videozapisi će se automatski izbrisati nakon 7 dana.</string>
   <string name="gb_game_video_item_tag">Ključni trenutak</string>
   <string name="gb_game_video_page_delete_success">Uspješno izbrisano</string>
@@ -1773,6 +1780,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentna</string>
   <string name="gb_network_status_bad">Došlo je do pogreške u vezi.</string>
   <string name="gb_new_feature">Nova značajka</string>
+  <string name="gb_not_support_on_device">"Ova se aplikacija ne može koristiti na vanjskom zaslonu"</string>
   <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
   <string name="gb_shoulder_key">Tipke na ramenu</string>
   <string name="gb_shoulder_key_add_show_btn">Pokažite virtualne tipke tijekom igres</string>
@@ -5060,6 +5068,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="vpn_disabled_by_user">Određena podatkovna veza je isključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne mogu dobiti brojeve telefona pomoću određenih planova podataka"</string>
   <string name="vtb_func_desc">O ovoj značajki</string>
+  <string name="vtb_func_display_style_desc0">AI može prepoznati ljude, životinje, biljke, nebo, zgrade i druge predmete koji se nalaze u videozapisima i dinamički ih poboljšati.</string>
   <string name="vtb_func_display_style_desc1">"Odabrani efekti neće se primijeniti na HDR videozapise na odabranim uređajima."</string>
   <string name="vtb_func_display_style_desc2">"Ovi se efekti ne mogu primijeniti na snimke zaslona."</string>
   <string name="vtb_func_frc_desc0">Zaglađivanje pokreta smanjuje zamagljivanje i dodaje detalje pokretnim predmetima. Upotreba ove značajke povećava potrošnju energije.</string>

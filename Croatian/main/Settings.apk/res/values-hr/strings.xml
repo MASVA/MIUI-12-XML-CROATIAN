@@ -443,7 +443,11 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="add_fingerprint_toast_text">Stavite prst na senzor</string>
   <string name="add_front_fingerprint_instruction_msg">Senzor otiska prsta nalazi se na stražnjoj strani uređaja.</string>
   <string name="add_new">Dodaj</string>
+  <string name="add_one_text_app_name_once">Možete dodati jedan po jedan paket</string>
   <string name="add_rule">Dodaj pravila</string>
+  <string name="add_text_app_name">Dodajte paket aplikacija za testiranje</string>
+  <string name="add_text_app_name_here">Unesite naziv paketa</string>
+  <string name="add_text_app_package_name">Dodajte paket aplikacija za testiranje</string>
   <string name="add_virtual_keyboard">Dodaj virtualnu tipkovnicu</string>
   <string name="adding_profile_owner_warning">"Ako nastavite, vašim će korisnikom upravljati administrator, koji može i pohranjivati povezane podatke, kao i vaše osobne podatke.Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s ovim Kkorisnikom te njima upravljati, uključujući mrežnu aktivnost i podatke o lokaciji vašeg uređaja."</string>
   <string name="additional_battery_info">Upozorenja o korištenju</string>
@@ -10569,7 +10573,7 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_assistant_card_message">Automatski se povežite s dostupnim mrežama pomoću Wi-Fi pomoćnika.</string>
   <string name="wifi_assistant_confirm_always">"Ne pitaj ponovno"</string>
   <string name="wifi_assistant_confirm_connection_title">"Ne mogu se povezati s internetom"</string>
-  <string name="wifi_assistant_data_prompt">Upozori</string>
+  <string name="wifi_assistant_data_prompt">Prikaži upozorenje o upotrebi podataka</string>
   <string name="wifi_assistant_data_prompt_summary">Prikaži upozorenje o upotrebi podataka prilikom prelaska na mobilne podatke</string>
   <string name="wifi_assistant_description">"Evo kako funkcionira Wi-Fi pomoćnik:
 1. Kad je Wi-Fi veza loša, vaš će se uređaj pokušati automatski povezati s drugim dostupnim Wi-Fi mrežama.
@@ -10851,12 +10855,13 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_link_turbo_customize">Prilagođene aplikacije</string>
   <string name="wifi_link_turbo_customize_summary">Odaberite aplikacije koje će raditi s Wi-Fi pomoćnikom prema vašim željama</string>
   <string name="wifi_link_turbo_list">Aplikacije</string>
+  <string name="wifi_link_turbo_mode">Način pojačanja brzine</string>
   <string name="wifi_link_turbo_no_app">Ovdje još nema aplikacija.</string>
   <string name="wifi_link_turbo_off">Isključeno</string>
   <string name="wifi_link_turbo_on">Uključeno</string>
   <string name="wifi_link_turbo_recommendation">Preporučene aplikacije</string>
   <string name="wifi_link_turbo_recommendation_summary">Primanje preporuka na temelju statistika upotrebe podataka</string>
-  <string name="wifi_link_turbo_summary">Povećajte brzinu veze za odababrane aplikacije koje koriste mobilne podatke kada je Wi-Fi veza loša</string>
+  <string name="wifi_link_turbo_summary">Upotrijebite mobilne podatke da biste povećali brzinu veze. Korištenje ove značajke može generirati dodatne naknade davatelja usluge.</string>
   <string name="wifi_master_key_dialog_content_master_key">Wi-Fi Master ključ</string>
   <string name="wifi_master_key_dialog_content_password">Zaporka</string>
   <string name="wifi_master_key_dialog_title">Poveži koristeći</string>

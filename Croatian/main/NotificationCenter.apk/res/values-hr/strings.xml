@@ -102,7 +102,7 @@
   <string name="miui_snooze_always_float">"Ne skrivaj"</string>
   <string name="miui_snooze_cancel">Odustani</string>
   <string name="miui_snooze_default_time">Na %d min.</string>
-  <string name="miui_snooze_until_unlock_screen">Dok se ne zaključa</string>
+  <string name="miui_snooze_until_unlock_screen">Dok je zaključan</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
