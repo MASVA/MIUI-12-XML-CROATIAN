@@ -5264,7 +5264,8 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_Box">Box</string>
   <string name="miheadset_LeftEar">Lijeva</string>
   <string name="miheadset_RightEar">Desna</string>
-  <string name="miheadset_active">Energetic</string>
+  <string name="miheadset_active">Energično</string>
+  <string name="miheadset_adaptive">Prilagodljivo</string>
   <string name="miheadset_ancBalance">Srednja</string>
   <string name="miheadset_ancClosed">Isključeno</string>
   <string name="miheadset_ancHigh">Zrakoplov</string>
