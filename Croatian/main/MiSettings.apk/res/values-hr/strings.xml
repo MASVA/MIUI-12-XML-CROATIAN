@@ -28,6 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="adaptive_fps_tip">2. Postignite najbolju ravnotežu između glatkoće i trajanja baterije dinamičkim podešavanjem brzine osvježavanja.</string>
   <string name="advanced_mode">Napredne postavke</string>
   <string name="africa_introduction">"Biljni i životinjski svijet uspijeva u Africi - dom za mnoge od najpoznatijih svjetskih životinja."</string>
   <string name="african_bush_elephant">Afrički grm slon</string>
@@ -113,6 +114,7 @@
   <string name="class_breast_feeding">Sisavci</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_save">Dodirnite \"Gotovo\" za postavljanje općenite melodije zvona.</string>
+  <string name="close">Zatvori</string>
   <string name="color_gamut">Raspon boja</string>
   <string name="common_brushtail">Brushtail oposum</string>
   <string name="common_ostrich">Noj</string>
@@ -230,7 +232,7 @@
   <string name="fps_smooth_title">Srednja</string>
   <string name="fps_standard_summary">Standardna brzina osvježavanja štedi bateriju</string>
   <string name="fps_standard_title">Standardna</string>
-  <string name="fps_user_tip">Ove demo animacije reproduciraju se na maloj brzini za vašu referencu. Stvarne performanse mogu izgledati drugačije ovisno o različitim čimbenicima.</string>
+  <string name="fps_user_tip">1.Ove demo animacije reproduciraju se na maloj brzini za vašu referencu. Stvarne performanse mogu izgledati drugačije ovisno o različitim čimbenicima.</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -464,6 +466,7 @@
   <string name="search_empty">Nije pronađena nijedna aplikacija</string>
   <string name="search_menu_title">Traži</string>
   <string name="several_days_use_time">Vrijeme zaslona: %2$s</string>
+  <string name="send">Pošalji</string>
   <string name="shortcut_created">Taj prečac već postoji</string>
   <string name="silent_ringtone_hint">Zvuk je isključen. Pojačajte glasnoću i pokušajte ponovo.</string>
   <string name="sim_slot_1">" (SIM 1)"</string>

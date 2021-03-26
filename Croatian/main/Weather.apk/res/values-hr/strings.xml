@@ -562,8 +562,10 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="welcome_app_title">Dobrodošli u aplikaciju Vrijeme!</string>
   <string name="widget_cta_not_agree">Dodirnite da biste dobili informacije o vremenu</string>
   <string name="wind_direction_no_data">Vjetar</string>
-  <string name="xiaomi_weather_description_content">Aplikacija Vrijeme pruža točne informacije o vremenskoj prognozi. Bez ove aplikacije, traka statusa i widget Vrijeme na početnom zaslonu neće raditi ispravno. Prije nego deinstalirate aplikaciju, nemojte raditi bez tih značajki.</string>
-  <string name="xiaomi_weather_description_title">O aplikaciji</string>
+  <string name="xiaomi_weather_description_content">"Vrijeme je aplikacija sustava. Nakon što deinstalirate aplikaciju, nećete moći pregledavati vremenske informacije ili koristiti srodne widgete."</string>
+  <string name="xiaomi_weather_description_content_remove">"Vrijeme je aplikacija sustava. Nakon uklanjanja prečaca na Poč. zaslonu nećete moći pregledavati vremenske informacije ili koristiti srodne widgete."</string>
+  <string name="xiaomi_weather_description_title">Deinstalirati aplikaciju \"Vrijeme\"?</string>
+  <string name="xiaomi_weather_description_title_remove">Ukloniti \"Vrijeme\" sa Poč. zaslona</string>
   <string name="yesterday">Jučer</string>
   <string name="your_location">Vaša lokacija</string>
 </resources>
