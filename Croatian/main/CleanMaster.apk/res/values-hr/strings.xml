@@ -864,6 +864,8 @@
   <string name="toast_updater_open_4g_text">Aplikacije će biti ažurirane pomoću mobilnih podataka(4G)</string>
   <string name="total_clean">Ukupno očišćeno: %s</string>
   <string name="total_clean_text">Očisti</string>
+  <string name="unit_gb">%s GB</string>
+  <string name="unit_mb">%s MB</string>
   <string name="traffic_top">TOP 5 aplik. potrošača podataka</string>
   <string name="unlike">Ne hvala</string>
   <string name="update_date_format">dd. MMM. yyyy</string>
@@ -894,6 +896,7 @@
   <string name="virus_scan">Skeniranje</string>
   <string name="wechat_qq_deep_clean_button_text">Duboko čišćenje</string>
   <string name="whatsapp_btn_quick_cleanup">Izbriši odabrane stavke (%s)</string>
+  <string name="whatsapp_cache_clear">Brisanje predmemorije…</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Nastavi s skeniranjem</string>
   <string name="whatsapp_clean_exit_confirm_msg">"Skeniranje još nije dovršeno. Zaustaviti skeniranje?"</string>
   <string name="whatsapp_clean_exit_confirm_ok">Zaustavi</string>
@@ -903,6 +906,10 @@
   <string name="whatsapp_delete_confirm_message">Izbrisati sada?</string>
   <string name="whatsapp_delete_confirm_ok">U redu</string>
   <string name="whatsapp_delete_done">Gotovo</string>
+  <string name="whatsapp_detail_cache_result">Oslobođeno %s</string>
+  <string name="whatsapp_detail_sort_created">Poredaj po datumu</string>
+  <string name="whatsapp_file_recv">Primljeno</string>
+  <string name="whatsapp_file_send">Poslano</string>
   <string name="whatsapp_file_show_order">Danas</string>
   <string name="whatsapp_function_summery">Očisti WhatsApp privitke</string>
   <string name="whatsapp_function_title">WhatsApp čistač</string>

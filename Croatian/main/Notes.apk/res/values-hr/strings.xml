@@ -118,6 +118,7 @@
   <string name="cancel_alarm_description">Otkaži alarm</string>
   <string name="check_in_todo_app">Prikaži zadatke</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="cloud_trash_bin_title">Izbriši bilješke u Mi Cloudu</string>
   <string name="confirm_cancel">"Ne slažem se"</string>
   <string name="confirm_ok">Slažem se</string>
@@ -328,9 +329,11 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
-  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -414,7 +417,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_mindnote_entrance_hint_newversion">"Počnite tipkati "</string>
   <string name="note_mindnote_entrance_icon_text">Stvorite umnu mapu</string>
   <string name="note_mindnote_entrance_icon_text_newversion">Stvorite umnu mapu</string>
-  <string name="note_sort_way">Odaberite kako želite poredati vaše bilješke</string>
+  <string name="note_sort_way">Poredaj</string>
   <string name="notealert_enter">Otvori bilješku</string>
   <string name="notealert_ok">"Odbaci"</string>
   <string name="notelist_menu_new">Dodaj bilješku</string>
@@ -555,6 +558,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="search_path_notes">Aplikacije sustava/Bilješke</string>
   <string name="search_setting_description">Pretraži tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
+  <string name="send">Pošalji</string>
   <string name="set_alarm_description">Postavi alarm</string>
   <string name="setting_other">OSTALO</string>
   <string name="setting_privacy">Pravila o Privatnosti</string>
@@ -566,6 +570,13 @@ Dodirnite + da napravite mapu"</string>
   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, dodajte račun ponovno.</string>
   <string name="single_link_excerpt_saving">Spremanje stavki…</string>
   <string name="single_new_excerpt_title">Isječci</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="snippet_audio_stub">Glasovna bilješka</string>
   <string name="snippet_image_stub">Slikovna bilješka</string>
   <string name="snippet_image_template">[Slika %1$s]</string>

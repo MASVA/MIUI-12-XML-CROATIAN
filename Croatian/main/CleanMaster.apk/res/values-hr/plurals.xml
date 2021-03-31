@@ -207,4 +207,8 @@
         <item quantity="other">&lt;Data>Pronađeno &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovnih poruka&lt;/Data></item>
         <item quantity="one">&lt;Data>Pronađena &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovna poruka&lt;/Data></item>
     </plurals>
+	<plurals name="whatsapp_file_audio_dec">
+        <item quantity="other">%1$s audio datoteka</item>
+        <item quantity="one">%1$s audio datoteka</item>
+    </plurals>
 </resources>

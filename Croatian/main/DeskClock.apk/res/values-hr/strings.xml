@@ -549,6 +549,9 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="user_agreement">Korisnički Sporazum</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="version_update_dialog_negative_desc">Ne sad</string>
+  <string name="version_update_dialog_positive_desc">Ažuriraj</string>
+  <string name="version_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj kod poziva</string>
   <string name="voice_add_alarm">Dodajte alarm pomoću glasovne naredbe</string>

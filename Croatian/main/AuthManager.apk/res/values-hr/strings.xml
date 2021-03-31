@@ -366,6 +366,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="clipboard_read_ai_deny_once">Ograničeni pristup međuspremniku za %1$s</string>
   <string name="clipboard_read_allow_once">%1$s je pristupio stavkama u međuspremniku</string>
   <string name="clipboard_read_deny_dialog_title">Ograničeni pristup međuspremniku za %1$s</string>
+  <string name="close">Zatvori</string>
   <string name="current_permission_template">%1$s od %2$s</string>
   <string name="forbid_notice_me">Prestani obavještavati</string>
   <string name="friday">Petak</string>
@@ -527,8 +528,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="saturday_shortest">S</string>
   <string name="screen_overlay_button">Otvori postavke</string>
   <string name="screen_overlay_message">Za promjenu postavke dopuštenja, prvo morate isključiti Prekrivanje zaslona u Postavke &gt; Aplikacije</string>
-  <string name="screen_overlay_title">Otkriveno Prekrivanje zaslona</string>
+  <string name="screen_overlay_title">Otkriveno je prekrivanje zaslona</string>
   <string name="search_menu_title">Traži</string>
+  <string name="send">Pošalji</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>

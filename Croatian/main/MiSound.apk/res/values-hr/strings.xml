@@ -147,11 +147,13 @@
   <string name="music_headphone_settings">Odaberite vrstu slušalica</string>
   <string name="music_headset_audio_visual">Vizualni efekti</string>
   <string name="music_headset_audio_visual_apply">Primjeni</string>
+  <string name="music_headset_audio_visual_mute">Pregled bez zvuka</string>
   <string name="music_headset_audio_visual_style">Stil vizualnih efekata</string>
   <string name="music_headset_audio_visual_style_summary">Odaberite stil vizualnih efekata</string>
   <string name="music_headset_audio_visual_summary">Pratite zvuk s vizualnim efektima prikazanim na Zaklj. zaslonu</string>
   <string name="music_headset_audio_visual_toast">Uspješno primjenjeno</string>
   <string name="music_headset_button_settings">Podešavanje tipki</string>
+  <string name="music_headset_audio_visual_unmute">Pregled bez zvuka</string>
   <string name="music_headset_calibrate">Podešavanje tipki</string>
   <string name="music_headset_calibrate_apply">Koristi</string>
   <string name="music_headset_calibrate_confirm">Primjeniti ove postavke?</string>
@@ -203,6 +205,8 @@
   <string name="music_upper_sixty_years">Više od 60 godina</string>
   <string name="name">Ime</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="not_support_sound_transmission_content">"Ovu značajku ne podržava povezani uređaj. Pokušajte s drugim Bluetooth uređajem."</string>
+  <string name="not_support_sound_transmission_prompt">Pažnja</string>
   <string name="now_here">A sada?</string>
   <string name="original_sound">Reproduciraj originalni zvuk</string>
   <string name="personal_sound">Reproduciraj sa postavljenim presetom</string>

@@ -80,6 +80,7 @@ dd.MM"</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_panel_icon">Izgled sata</string>
+  <string name="close">Zatvori</string>
   <string name="color_change_with_time_description">Promijeni boju teksta automatski tijekom vremena</string>
   <string name="color_change_with_time_title">Promijeni boju automatski</string>
   <string name="component_battery">Baterija</string>
@@ -90,6 +91,7 @@ dd.MM"</string>
   <string name="continue_to_use">Nastavi</string>
   <string name="copy">Kopiraj</string>
   <string name="custom_image">Vlastita slika</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="deep_space_planet">Doba dana</string>
   <string name="deep_space_planet_des">\"Doba dana\" se odražava na svjetlosne promjene koje se događaju oko vas tokom dana. Izlasci i zalasci sunca u ovoj temi sinkroniziraju se s vašom lokacijom.</string>
   <string name="delete">Izbriši</string>
@@ -123,10 +125,13 @@ dd.MM"</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -242,6 +247,7 @@ dd.MM"</string>
   <string name="scheduled_style">Raspored</string>
   <string name="scheduled_style_summary">Postavite prilagođeno vrijeme</string>
   <string name="scope_des">Svaki kaleidoskop sadrži 5 različitih uzoraka koji će se redom prikazivati svaki put kada se zaslon upali.</string>
+  <string name="send">Poašlji</string>
   <string name="scope_icon">Stil kaleidoskopa</string>
   <string name="scope_time">Kaleidoskop</string>
   <string name="search_menu_title">Traži</string>

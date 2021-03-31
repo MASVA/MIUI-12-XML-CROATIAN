@@ -438,7 +438,7 @@ dd.MM"</string>
   <string name="morning_greet_mark">" Mi Morning Pozdravi"</string>
   <string name="morning_greet_title">Jutarnji pozdravi</string>
   <string name="morning_picture_tab">Slika</string>
-  <string name="mtrl_badge_numberless_content_description">New notification</string>
+  <string name="mtrl_badge_numberless_content_description">Nova oabvijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>

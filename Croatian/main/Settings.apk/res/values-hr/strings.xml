@@ -1468,6 +1468,11 @@ Evo što može biti pogrešno:
   <string name="bluetooth_max_connected_audio_devices_dialog_title">Odaberite maksimalan broj povezanih Bluetooth audiouređaja</string>
   <string name="bluetooth_max_connected_audio_devices_string">Maksimalan broj povezanih Bluetooth audiouređaja</string>
   <string name="bluetooth_menu_advanced">Dodatne postavke</string>
+  <string name="bluetooth_message_access_dialog_content">"Nepouzdani Bluetooth uređaj, %1$s, želi pristupiti vašim porukama.
+
+Niste se prije povezivali s %2$s."</string>
+  <string name="bluetooth_message_access_dialog_title">Dopustiti pristup porukama?</string>
+  <string name="bluetooth_message_access_notification_content">Nepouzdani uređaj želi pristupiti vašim porukama. Dodirnite za detalje.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Odblokirati %1$s sad?</string>
   <string name="bluetooth_mi_fast_connect">Uparite kompatibilne uređaje</string>
   <string name="bluetooth_mi_fast_connect_summary">Povežite se s obližnjim uređajima pomoću pojednostavljenog postupka uparivanja</string>
@@ -1514,6 +1519,11 @@ Evo što može biti pogrešno:
   <string name="bluetooth_pan_user_profile_summary_connected">Povezano s uređajem za pristup internetu</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s želi pristupiti vašim kontaktima i povijesti poziva. Želite li da %2$s dobije pristup?</string>
   <string name="bluetooth_pb_remember_choice">Više me ne pitaj</string>
+  <string name="bluetooth_phonebook_access_dialog_content">"Nepouzdani Bluetooth uređaj, %1$s, želi pristupiti vašim kontaktima i zapisniku poziva. To uključuje podatke o dolaznim i odlaznim pozivima.
+
+Niste se prije povezivali s %2$s."</string>
+  <string name="bluetooth_phonebook_access_dialog_title">Dopustiti pristup kontaktima i zapisniku poziva?</string>
+  <string name="bluetooth_phonebook_access_notification_content">Nepouzdani uređaj želi pristupiti vašim kontaktima i zapisniku poziva. Dodirnite za detalje.</string>
   <string name="bluetooth_permission_request">Zatraženo je Bluetooth dopuštenje</string>
   <string name="bluetooth_phonebook_request">Zahtjev za pristup telefonskom imeniku</string>
   <string name="bluetooth_pin_values_hint">Obično 0000 ili 1234</string>
@@ -5144,7 +5154,9 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="max_cpu8_info">"8 jezgreni "</string>
   <string name="max_fingerprint_number_reached">"Ne mogu dodati više od 5 otisaka prstiju. Da dodate novi otisak prsta, prvo izbrišite postojeći otisak prsta."</string>
   <string name="max_fingerprint_reached_toast">Možete dodati do 5 otisaka prstiju</string>
-  <string name="maximum_memory_use">Maksimalna upotreba memorije</string>
+  <string name="maximum_memory_use">Maksimalno korištenje memorije</string>
+  <string name="mechanical_ime">Mehanička tipkovnica</string>
+  <string name="mechanical_ime_hint">Podržava samo tipkovnicu prilagođenu za Xiaomi</string>
   <string name="mbn_version">MBN verzija</string>
   <string name="media_button">Medijska tipka</string>
   <string name="media_category">Mediji</string>
@@ -11272,6 +11284,8 @@ Pohrana vjerodajnica možda neće biti omogućiena"</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_custom_input_method">Prilagođeno za Xiaomi</string>
+  <string name="xiaomi_hp_location">Precizan pristup lokaciji</string>
+  <string name="xiaomi_hp_location_description">Precizne informacije o lokaciji omogućuju precizniju navigaciju</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router">Mi Router</string>

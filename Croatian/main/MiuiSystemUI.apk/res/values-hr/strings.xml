@@ -858,8 +858,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="dnd_is_off">Ne uznemiravaj je isključen</string>
   <string name="dnd_notification_warnings_title">Ne uznemiravaj je uključeno. Pozivi i obavijesti bit će utišani.</string>
   <string name="dnd_suppressing_shade_text">Značajka Ne uznemiravaj pauzirala je Obavijesti</string>
-  <string name="do_disclosure_generic">Ovim uređajem upravlja vaša organizacija</string>
-  <string name="do_disclosure_with_name">Ovim uređajem upravlja %s</string>
+  <string name="do_disclosure_generic">Ovaj uređaj pripada vašoj organizaciji</string>
+  <string name="do_disclosure_with_name">Ovaj uređaj pripada %s</string>
   <string name="do_not_silence">Ne utišavaj</string>
   <string name="do_not_silence_block">Ne utišavaj i ne blokiraj</string>
   <string name="dock_alignment_not_charging">Ponovo namjestite telefon da bi se punio bežično</string>

@@ -5,6 +5,8 @@
   <string name="app_name">Pronađi uređaj</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne mogu otključati. %s."</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="default_debt_msg_words">"Ovaj je uređaj zaključan zbog kasne rate plaćanja.\nKontaktirajte svog prodajnog agenta za detalje."</string>
   <string name="default_lock_msg_words">Ovaj uređaj je povezan s postojećim Mi Računom. Iz sigurnosnih razloga, potrebno je unijeti zaporku za provjeru uređaja.</string>
   <string name="default_lock_msg_words_with_phone">Bok! Izgubio sam mobitel. Možete li me, molim vas kontaktirati? Hvala!</string>
@@ -52,6 +54,8 @@
   <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
   <string name="phone_locked_account_phone">, povezan broj telefona: %s</string>
   <string name="return_to_call">Natrag na poziv</string>
+  <string name="search_menu_title">Traži</string>
+  <string name="send">Pošalji</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne može biti prazno"</string>
   <string name="stop_on_empty_password">"Polje zaporke ne može biti prazno"</string>
   <string name="sys_notification_async_open_failed_content">Dodirni za novi pokušaj ili odustati.</string>

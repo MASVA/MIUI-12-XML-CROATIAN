@@ -267,6 +267,11 @@
   <string name="recovery">Vrati</string>
   <string name="recovery_failed_dialog_button">Razumijem</string>
   <string name="recovery_failed_dialog_title">Pažnja</string>
+  <string name="reg_error_server">Dogodila se pogreška poslužitelja. Prijavite je nama i pokušajte ponovo.</string>
+  <string name="reg_error_upload_audio">"Učitavanje datoteke nije uspjelo, pokušajte ponovo."</string>
+  <string name="reg_error_upload_order">"Učitavanje nije uspjelo, pokušajte ponovo."</string>
+  <string name="remove_icon_description_content">"Snimač je aplikacija sustava. Nakon uklanjanja prečaca sa Poč. zaslona nećete moći upravljati snimkama."</string>
+  <string name="remove_icon_description_title">Ukloniti \"Snimač\" s Poč. zaslona?</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenuj snimku</string>
   <string name="rename_duplicate">Snimka s istim imenom već postoji.</string>

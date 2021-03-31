@@ -1018,6 +1018,13 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="celcius_symbol">℃</string>
   <string name="cellular_data_auto_check">Provjeri automatski</string>
   <string name="cellular_package_daily_input">Unesite</string>
+  <string name="cetus_invisible_mode">Inkognito</string>
+  <string name="cetus_invisible_mode_description_card">Obustavi dopuštenja</string>
+  <string name="cetus_invisible_mode_description_switch">Uključite za obustavu dopuštenja za mikrofon, kameru i lokaciju za sve aplikacije</string>
+  <string name="cetus_invisible_mode_warn_all">"Inkognito ste. Obustavljena su dopuštenja za mikrofon, kameru i lokaciju."</string>
+  <string name="cetus_invisible_mode_warn_camera">"Inkognito ste. Dopuštenja za kameru su obustavljena."</string>
+  <string name="cetus_invisible_mode_warn_location">"Inkognito ste. Dopuštenja za lokaciju su obustavljena."</string>
+  <string name="cetus_invisible_mode_warn_record_audio">"Inkognito ste. Dopuštenja za mikrofon su obustavljena."</string>
   <string name="charger_detect_button_ok">Razumijem</string>
   <string name="charger_detect_info1">Provjerite jesu li ispravljač i kabel ispravno spojeni.</string>
   <string name="charger_detect_info2">"Punjenje se može usporiti i ako koristite nestandardne ili stare adaptere i kabele za punjenje."</string>
@@ -3065,6 +3072,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_list_item_wake_notification">"Ne budi zaslon za obavijesti"</string>
   <string name="power_center_list_item_wake_notification_summary">Dolazne obavijesti prikazat će se samo kad uključite zaslon</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_night_charge_noti_subtitle">Baterija će se potpuno napuniti za %s</string>
+  <string name="power_center_night_charge_noti_title">Optimizirano punjenje je uključeno</string>
+  <string name="power_center_night_charge_protection">Optimizirano punjenje</string>
+  <string name="power_center_night_charge_protection_setting">Pogledajte više opcija u Sigurnost > Baterija.</string>
+  <string name="power_center_night_charge_protection_summary">Kako bi smanjio starenje baterije, MIUI uči iz vaše svakodnevne rutine punjenja kako bi smanjio nepotrebno kontinuirano punjenje</string>
   <string name="power_center_one_key_save">Optimiziraj</string>
   <string name="power_center_ontime_boot">Vrijeme uključivanja</string>
   <string name="power_center_ontime_shutdown">Vrijeme isključivanja</string>
@@ -3115,6 +3127,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_consume_software_total_format">Aplikacije: %s</string>
   <string name="power_consume_system_idle">Stanje mirovanja</string>
   <string name="power_customize_giveup_change">Odbaciti promjene?</string>
+  <string name="power_dailog_night_charge_protection_done">Razumijem</string>
+  <string name="power_dailog_night_charge_protection_summary">Čini se da je baterija većinu vremena potpuno napunjena, što može ubrzati njezino starenje. MIUI je uključio optimizirano punjenje kako biste izbjegli takve probleme.</string>
   <string name="power_customizer_cancel">Odustani</string>
   <string name="power_customizer_delete">Izbriši</string>
   <string name="power_customizer_my_mode">Prilagođeno</string>
@@ -4355,6 +4369,12 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="storage_available_total_size">Dostupno %1$s od %2$s</string>
   <string name="storage_available_total_size1">Zauzeto: %1$s | Ukupno: %2$s</string>
   <string name="storage_category_title">Dodatne mogućnosti</string>
+  <string name="storage_clear_available_total_size">%1$s/%3$s zauzeto | %2$s dostupno</string>
+  <string name="storage_clear_cache">Oslobodi %s</string>
+  <string name="storage_clear_cache_deep">Oslobodite pohranu</string>
+  <string name="storage_clear_cache_large">Oslobodi %s</string>
+  <string name="storage_clear_more_tools">Više alata za čišćenje</string>
+  <string name="storage_clear_video">Očisti predmemoriju videozapisa</string>
   <string name="storage_deepclean_entry">Duboko čišćenje</string>
   <string name="storage_dialog_unmountable">"Ovaj ^1 je oštećen.
 

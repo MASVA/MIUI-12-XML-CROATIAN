@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="about_title">O Mi Drive</string>
   <string name="about_version">"Verzija: "</string>
   <string name="account_bind_secure_email_title">Dodaj e-poštu</string>
