@@ -2926,7 +2926,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_dont_disturb">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje DND načina rada.</string>
   <string name="permission_instruction_draw_overlay">Ovo dopuštenje omogućuje aplikacijama prikaz plutajućih prozora preko bilo kojeg drugog sučelja na vašem uređaju, što može utjecati na uobičajeno korištenje drugih aplikacija. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za čitanje ili prikupljanje privatnih podataka (npr. zaporke) kroz prozirne plutajuće prozore.</string>
   <string name="permission_instruction_external_storage">Ovo dopuštenje omogućuje aplikacijama pristup fotografijama, medijima i datotekama na vašem uređaju. Budite oprezni s ovim dopuštenjem kako biste izbjegli nepotrebno otkrivanje privatnih podataka.</string>
-  <string name="permission_instruction_gallery">Kako bi zaštitio vašu privatnost, MIUI vam omogućuje da odlučite dopuštate li aplikacijama koje imaju dopuštenje za pohranu pristup Galeriji.</string>
+  <string name="permission_instruction_gallery">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_get_accounts">Ovo dopuštenje omogućuje aplikacijama pristup popisu računa pohranjenih na vašem uređaju. Ovaj popis može sadržavati sve vaše osobne račune koje su stvorile instalirane aplikacije, kao i račune s platformi društvenih medija i alata za komunikaciju.</string>
   <string name="permission_instruction_install_shortcuts">Ovo dopuštenje omogućuje aplikacijama stvaranje prečaca na početnom zaslonu.</string>
   <string name="permission_instruction_install_unknown_source">Ovo dopuštenje omogućuje aplikacijama instaliranje drugih aplikacija na vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za instaliranje aplikacija bez vaše potvrde.</string>
@@ -2962,8 +2962,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_send_payment_sms">Ovo dopuštenje omogućuje aplikacijama slanje plaćenih tekstualnih poruka.</string>
   <string name="permission_instruction_send_sms">Ovo dopuštenje omogućuje aplikacijama slanje tekstnih poruka, što može generirati dodatne naknade. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje plaćenih poruka bez vašeg pristanka.</string>
   <string name="permission_instruction_show_locked">Ovo dopuštenje omogućuje aplikacijama prikaz stavki na zaključanom zaslonu. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za prikazivanje dosadnih oglasa.</string>
-  <string name="permission_instruction_sociality">Kako bi zaštitio vašu privatnost, MIUI vam omogućuje da odlučite dopuštate li aplikacijama koje imaju dopuštenje za pohranu pristup vašim porukama u aplikacijama društvenih medija.</string>
-  <string name="permission_instruction_storage">Kako bi zaštitio vašu privatnost, MIUI vam omogućuje da odlučite dopuštate li aplikacijama koje imaju dopuštenje za pohranu pristup Galeriji i vašim porukama u aplikacijama društvenih medija.</string>
+  <string name="permission_instruction_sociality">Ako aplikacijama dopuštate pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti datotekama generiranim u aplikacijama društvenih mreža kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
+  <string name="permission_instruction_storage">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji i datotekama generiranim u aplikacijama društvenih medija kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_touch_pay">Ovo dopuštenje aplikacijama omogućuje beskontaktno plaćanje.</string>
   <string name="permission_instruction_use_sip">Ovo dopuštenje omogućuje aplikacijama upotrebu SIP video usluga.</string>
   <string name="permission_instruction_vr_assistant">Ovo dopuštenje omogućuje aplikacijama upotrebu usluga pomoćnika VR-a.</string>
@@ -3108,6 +3108,15 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>
+  <string name="power_center_unoffical_battery_button">Pronađite ovlaštenog pružatelja usluga</string>
+  <string name="power_center_unoffical_battery_dialog">Upozorenje o neovlaštenoj bateriji</string>
+  <string name="power_center_unoffical_battery_dialog_positive">Saznajte više</string>
+  <string name="power_center_unoffical_battery_dialog_summary">Čini se da je u ovaj uređaj umetnuta neovlaštena baterija. Snaga punjenja smanjit će se radi zaštite vašeg uređaja. Korištenje neovlaštenih baterija može rezultirati bubrenjem, pregrijavanjem i curenjem baterija. To također može uzrokovati požar ili druge opasnosti. Pronađite ovlaštenog pružatelja usluga koji će zamijeniti bateriju.</string>
+  <string name="power_center_unoffical_battery_noti_summary">Vaša trenutna baterija može predstavljati sigurnosni rizik</string>
+  <string name="power_center_unoffical_battery_summary1">Ovaj je uređaj bio opremljen ugrađenom baterijom koju bi trebao zamijeniti samo ovlašteni pružatelj usluga.</string>
+  <string name="power_center_unoffical_battery_summary2">Zamjena baterije negdje drugdje može oštetiti ovaj uređaj. Korištenje neovlaštenih baterija može rezultirati bubrenjem, pregrijavanjem i curenjem baterija. To također može uzrokovati požar ili druge opasnosti. Ne koristite neovlaštene baterije.</string>
+  <string name="power_center_unoffical_battery_tip">"Informacije o zdravlju nisu dostupne za ovu neovlaštenu bateriju. Dodirnite da biste saznali više o sigurnosnim rizicima."</string>
+  <string name="power_center_unoffical_battery_title">Rizici uzrokovani korištenjem neovlaštenih baterija</string>
   <string name="power_center_used_time_Introduction">Vrijeme na bateriji od posljednjeg punjenja %s</string>
   <string name="power_chooser_check_box_title">Odaberite profil</string>
   <string name="power_chooser_sleep_summary">Isključi sve funkcije (telefon, SMS, Wi-Fi i podatkovne usluge), osim alarma</string>

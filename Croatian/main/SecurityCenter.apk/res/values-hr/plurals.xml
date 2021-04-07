@@ -184,6 +184,10 @@
          <item quantity="other">Preuzelo %1$d osoba</item>
 		 <item quantity="one">Preuzela %1$d osoba</item>
      </plurals>
+	 <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Odustani (%ds)</item>
+        <item quantity="one">Odustani (%ds)</item>
+    </plurals>
 	 <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dana preostalo</item>
         <item quantity="one">%s dan preostao</item>

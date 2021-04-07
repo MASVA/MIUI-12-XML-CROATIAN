@@ -39,6 +39,10 @@
   <string name="begin_to_save_finger_data">Početak spremanja podataka otiska prsta</string>
   <string name="button_cancel">Odustani</string>
   <string name="button_ok">U redu</string>
+  <string name="bottom_left_high_speaker">Test donjeg lijevog visokotonca</string>
+  <string name="bottom_left_low_speaker">Test donjeg lijevog niskotonca</string>
+  <string name="bottom_right_high_speaker">Test donjeg desnog visokotonca</string>
+  <string name="bottom_right_low_speaker">Test donjeg desnog niskotonca</string>
   <string name="camera_capture">Snimi</string>
   <string name="camera_done">Gotovo</string>
   <string name="camera_zoom">Zoom</string>
@@ -160,6 +164,8 @@ Držite telefon kao da odgovorate na poziv, pričajte u mikrofon. Trebali bi ču
   <string name="cit_bluetooth_scanning_bluetooth_done">"Gotovo. Nema pronađenih Bluetooth uređaja u blizini."</string>
   <string name="cit_bluetooth_scanning_bluetooth_error">Došlo je do pogreške tijekom skeniranja Bluetooth uređaja.</string>
   <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
+  <string name="cit_bottom_left_speaker_test">Test lijevog donjeg zvučnika</string>
+  <string name="cit_bottom_right_speaker_test">Test desnog donjeg zvučnika</string>
   <string name="cit_build_finger_failed">Spremanje otiska prsta NEUSPJEŠNO</string>
   <string name="cit_build_finger_passed">Spremanje otiska prsta USPJEŠNO</string>
   <string name="cit_button_light_off">Osvjetljene tipaka isklj.</string>
@@ -561,6 +567,11 @@ Nakon što stavite \"music.mp3\" u direktorij SD kartice, dodirnite zaslon za re
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Odaberi antenu</string>
+  <string name="cit_top_left_speaker_test">Test lijevog gornjeg zvučnika</string>
+  <string name="cit_top_right_speaker_test">Test desnog gornjeg zvučnika</string>
+  <string name="cit_torch">Svjetiljka</string>
+  <string name="cit_torch_first">Prva svjetiljka</string>
+  <string name="cit_torch_second">Druga svjetiljka</string>
   <string name="cit_torch_modify">Modificiraj svjetiljku</string>
   <string name="cit_torch_off">Isključi svjetiljku</string>
   <string name="cit_torch_on">Uključi svjetiljku</string>
@@ -703,4 +714,8 @@ Kontrolirajte zatvaranje postolja i udaljite se od telefona"</string>
   <string name="tp_version">TP Verzija:</string>
   <string name="wait_test">Čekanje testa</string>
   <string name="waiting">Pričekajte 4s.</string>
+  <string name="top_left_high_speaker">Test gornjeg lijevog visokotonca</string>
+  <string name="top_left_low_speaker">Test gornjeg lijevog niskotonca</string>
+  <string name="top_right_high_speaker">Test gornjeg desnog visokotonca</string>
+  <string name="top_right_low_speaker">Test gornjeg desnog niskotonca</string>
 </resources>

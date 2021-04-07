@@ -572,6 +572,8 @@ Audio"</string>
   <string name="call_barring_sum">Postavke zabrane glasovnih poziva</string>
   <string name="call_category">Pozivanje</string>
   <string name="call_description_recording">Snimanje…</string>
+  <string name="call_fold_setting">Sklapanje i otklapanje</string>
+  <string name="call_fold_setting_title">Sklapanje i otklapanje</string>
   <string name="call_forward_option">Prosljeđivanje poziva</string>
   <string name="call_forwarding_number_hint">Prosljedi pozive na</string>
   <string name="call_forwarding_settings">Prosljeđivanje poziva</string>
@@ -1210,6 +1212,8 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="fiveg_upperlayer_indication1">Status indikacije gornjeg sloja:</string>
   <string name="flash_when_ring_summary">Koristi bljeskalicu za obavijesti o dolaznim pozivima</string>
   <string name="flash_when_ring_title">Bljeskalica i za pozive</string>
+  <string name="fold_answer_pref_summary">Sklopite uređaj da automatski prihvatite dolazni poziv</string>
+  <string name="fold_answer_pref_title">Sklopi za prihvaćanje poziva</string>
   <string name="forbidden_network">(Ograničeno)</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
   <string name="force_allow_on_external_summary">Aplikacije se mogu zapisivati u vanjsku pohranu neovisno o vrijednostima manifesta</string>
@@ -2776,6 +2780,10 @@ Sljedeće razdoblje počinje za ovoliko dana: %2$d (%3$s)"</string>
   <string name="turnover_mute_title">Okrenite kako biste utišali zvono</string>
   <string name="unable_dial_livetalk">"Ne mogu dovršiti poziv"</string>
   <string name="undefined">Ništa</string>
+  <string name="unfold_close_camera_pref_summary">Otklopite uređaj tijekom videopoziva da biste isključili kameru</string>
+  <string name="unfold_close_camera_pref_title">Otklopite da biste isključili kameru</string>
+  <string name="unfold_speaker_pref_summary">Otklopite uređaj tijekom poziva da biste uključili zvučnik</string>
+  <string name="unfold_speaker_pref_title">Otklopite da biste koristili zvučnik</string>
   <string name="undefined_setting">Ništa</string>
   <string name="unknown">Nepoznato</string>
   <string name="unlock_chances_left">Preostalo pokušaja:</string>

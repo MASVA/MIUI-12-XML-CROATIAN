@@ -176,6 +176,8 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
+  <string name="remove_icon_description_content">"Kompas je aplikacija sustava. Nećete ga moći koristiti za provjeru uputa, koordinata, atmosferskog tlaka i trenutne nadmorske visine nakon što uklonite prečac Poč. zaslona."</string>
+  <string name="remove_icon_description_title">Ukloniti \"Kompas\" sa Poč. zaslona?</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>

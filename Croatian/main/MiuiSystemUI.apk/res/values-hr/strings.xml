@@ -668,6 +668,7 @@ Audio"</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">prije %1$s</string>
   <string name="chip_text">Chip tekst</string>
+  <string name="choose_clock_dual_clock_hint_text">"Nije moguće promijeniti format kada je uključen Dvostruki sat"</string>
   <string name="chooseUsbActivity">"Odabir aplikacije za USB uređaj"</string>
   <string name="choose_clock_panel_title">Raspored Zaklj. zaslona</string>
   <string name="choose_clock_third_theme_hint_text">Zaklj. zaslon iz trenutno postavljene teme</string>
@@ -2338,6 +2339,7 @@ Povezani ste i s VPN-om koji može nadzirati vašu mrežnu aktivnost."</string>
   <string name="ssl_ca_cert_warning">"Mreža se
 možda prati"</string>
   <string name="standby_bucket_summary">"Stanje aplikacije u mirovanju:  %s"</string>
+  <string name="start_camera_error_try_again">"Ne mogu pokrenuti Kameru. Pokušajte ponovo."</string>
   <string name="start_dreams">Čuvar zaslona</string>
   <string name="status_bar">Traka statusa</string>
   <string name="status_bar_accessibility_dismiss_recents">Odbaci nedavne aplikacije</string>

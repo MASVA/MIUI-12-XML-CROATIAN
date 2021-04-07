@@ -102,6 +102,8 @@
   <string name="dialog_content_limit0">Ograniči preuzimanja</string>
   <string name="dialog_content_limit_max">Bez ograničenja</string>
   <string name="dialog_delete_positive">Izbriši</string>
+  <string name="dialog_download_dir_content" formatted="false">Promijenjena je zadana odredišna mapa za vaša preuzimanja iz \"%s\" u \"%s/DLManager\".</string>
+  <string name="dialog_download_dir_title">Nova odredišna mapa</string>
   <string name="dialog_failed_body">Želite li opet kasnije pokušati preuzeti datoteku ili je izbrisati s reda čekanja?</string>
   <string name="dialog_file_already_exists">Ova datoteka već postoji.</string>
   <string name="dialog_file_missing_body">"Ne mogu pronaći datoteku, izgleda da je izbrisana."</string>

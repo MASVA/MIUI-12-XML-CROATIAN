@@ -443,11 +443,12 @@
   <string name="navigation_guide_home_summary">Povucite prstom prema gore s donje strane zaslona</string>
   <string name="navigation_guide_home_title">Idi na Početni zaslon</string>
   <string name="navigation_guide_recent_summary">Povucite prstom prema gore s dna zaslona i pauziraj</string>
-  <string name="navigation_guide_recent_title">Otvori Nedavno Recents</string>
+  <string name="navigation_guide_recent_title">Otvori Nedavno</string>
   <string name="navigation_guide_settings">Demo gesta</string>
   <string name="navigation_type_full_screen">Geste</string>
   <string name="navigation_type_title">Navigacija sustavom</string>
   <string name="navigation_type_virtual_key">Tipke</string>
+  <string name="network_error">"Ne mogu se povezati na mrežu. Pokušajte ponovo."</string>
   <string name="no_detail_page">Nema detalja stranice</string>
   <string name="no_space_toast">Nema dovoljno prostora</string>
   <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>
@@ -545,9 +546,11 @@
   <string name="recommend_xout">"Ne prikazuj"</string>
   <string name="refresh">Osvježi</string>
   <string name="remove_invalidate_gadget_tips">Jedan od widgeta koji koristite više nije dostupan. Možete dodati neki drugi.</string>
+  <string name="remove_sys_app_content">"Moći ćete ponovo dodati prečac Poč. zaslona u Postavke > Aplikacije > Upravljanje prečacima Poč. zaslona. Ukloniti sada?"</string>   
+  <string name="remove_sys_app_title">Ukloniti prečac Poč. zaslona?</string>
   <string name="remove_dialog_message">Odabrane aplikacije sadrže osnovne značajke sustava. Možete ukloniti samo njihove prečace na Poč. zaslonu.</string>
   <string name="remove_dialog_title_format">Ukloniti \"%s\" s Poč. zaslona?</string>
-  <string name="reset_cate_tip_content">Ako nastavite, zadane grupe aplikacija će biti vraćene . Nastaviti svejedno?</string>
+  <string name="reset_cate_tip_content">Ako nastavite, zadane grupe aplikacija će biti vraćene. Nastaviti svejedno?</string>
   <string name="reset_cate_tip_title">Vrati zadane grupe</string>
   <string name="reset_description_first_time">Možete vratiti raspored iz %1$s unutar 2 sata</string>
   <string name="reset_description_others">Možete vratiti raspored iz %1$s</string>
@@ -565,6 +568,7 @@
   <string name="select_all">Odaberi sve</string>
   <string name="select_frame">Okvir</string>
   <string name="select_photo">Fotografija</string>
+  <string name="server_error">Dogodila se pogreška poslužitelja. Pričekajte minutu-dvije i pokušajte ponovo.</string>
   <string name="setting_wallpaper_tip">Pomakni ili uvećaj za prilagodbu</string>
   <string name="settings">Postavke</string>
   <string name="settings_shortcut">Postavke</string>
