@@ -3105,6 +3105,16 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_stop_scan_title">Zaustavi skeniranje</string>
   <string name="power_center_super_save_summary_text">Povećaj preostalo vrijeme do %1$dh %2$dm</string>
   <string name="power_center_super_save_title_text">Ultra Štednja baterije</string>
+  <string name="power_center_super_wireless_charge">Brzo bežično punjenje</string>
+  <string name="power_center_super_wireless_charge_dialog_positive">Drži uključeno</string>
+  <string name="power_center_super_wireless_charge_dialog_summary">"Ovaj način rada povećava brzinu ventilatora hladnjaka bežičnog punjača. Neka ovaj način bude uključen za brže punjenje uređaja ili ga isključite ako mislite da je šum preglasan."</string>
+  <string name="power_center_super_wireless_charge_dialog_summary2">Idite na Sigurnost > Baterija > Postavke za više opcija.</string>
+  <string name="power_center_super_wireless_charge_dialog_title">Brzo bežično punjenje</string>
+  <string name="power_center_super_wireless_charge_noti_summary">Dodirnite da biste otvorili Postavke</string>
+  <string name="power_center_super_wireless_charge_noti_switch">Obavijesti o brzom bežičnom punjenju</string>
+  <string name="power_center_super_wireless_charge_noti_title">Brzo bežično punjenje je uključeno</string>
+  <string name="power_center_super_wireless_charge_summary">"Povećaj brzinu ventilatora hladnjaka bežičnog punjača"</string>
+  <string name="power_center_super_wireless_charge_toast_close">Brzo bežično punjenje je isključeno</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>

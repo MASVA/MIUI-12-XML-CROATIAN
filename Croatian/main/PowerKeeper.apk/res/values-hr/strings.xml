@@ -198,7 +198,7 @@
   <string name="power_config_app_background_title">Pozadina</string>
   <string name="power_config_app_full_screen_title">Cijeli zaslon</string>
   <string name="power_config_app_launch_title">Prvi plan</string>
-  <string name="power_config_apps">Štednja baterije aplkacije</string>
+  <string name="power_config_apps">Štednja baterije aplikacije</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Odaberite vrijeme za ograničavanje podataka u pozadini</string>
   <string name="power_config_bg_data_delay_time_title">Ograniči podatke u pozadini</string>
   <string name="power_config_choose_apps">Odaberi aplikacije</string>

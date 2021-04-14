@@ -3615,6 +3615,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="fingerprint_and_password_entrance_title">Zaklj. zaslona &amp; Otisak prsta</string>
   <string name="fingerprint_apply_to_privacy_password">Zaporka zaštite privatnosti</string>
   <string name="fingerprint_apply_to_privacy_password_scenarios">Zaporka zaštite privatnosti štiti vaše poruke, fotografije, datoteke, bilješke i aplikacije.</string>
+  <string name="fingerprint_base_title">Otisak prsta %s</string>
   <string name="fingerprint_delete_message">Želite li izbrisati taj otisak prsta?</string>
   <string name="fingerprint_delete_title">Uklanjanje otiska prsta \"%1$s\"</string>
   <string name="fingerprint_double_tap">Dvostruki dodir senzora otiska prsta</string>
@@ -3625,6 +3626,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="fingerprint_first_open_screen_password_tittle">Otisak prsta (prvo postavite zaporku Zaklj. zaslona)</string>
   <string name="fingerprint_for_keyguard_disabled">Otisak prsta je onemogućen od strane sigurnosnih postavki.</string>
   <string name="fingerprint_gesture_screen_title">Pokret za otisak prsta</string>
+  <string name="fingerprint_gxzw_add_fingerprint_finish">Spremljen kao \"%s\"</string>
   <string name="fingerprint_identificating_msg">Skeniranje otiska prsta…</string>
   <string name="fingerprint_identify_input_password_msg">Unesite zaporku</string>
   <string name="fingerprint_identify_msg">Skeniranje otiska prsta…</string>
@@ -5338,8 +5340,10 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_fitness_check_result_dialog1">Prije početka testa stavite slušalice u oba uha.</string>
   <string name="miheadset_fitness_check_result_dialog2">Završite svoj trenutni poziv prije početka testa.</string>
   <string name="miheadset_fitness_check_result_dialog_title">Pažnja</string>
+  <string name="miheadset_fitness_check_result_l_not_ok">Prilagodite slušalice</string>
   <string name="miheadset_fitness_check_result_not_ok">Loše pristaju</string>
   <string name="miheadset_fitness_check_result_ok">Dobro pristaju</string>
+  <string name="miheadset_fitness_check_result_r_not_ok">Prilagodite slušalice</string>
   <string name="miheadset_fitness_check_result_summary1">Ove vam pristaju izvrsno!</string>
   <string name="miheadset_fitness_check_result_summary2">Prilagodite ili isprobajte drugi čepić i testirajte ponovo.</string>
   <string name="miheadset_fitness_check_start">Start</string>
@@ -10342,6 +10346,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="voice_search_settings_title">Glasovno pretraživanje</string>
   <string name="voice_service_preference_section_title">Usluge glasovnog unosa</string>
   <string name="voicemail_number_not_set">Nije postavljeno</string>
+  <string name="voip_assistant_settings">VoIP asistent</string>
   <string name="volte_5G_limited_text">"Time se isključuje i vaša 5G veza.
 Tijekom glasovnog poziva ne možete upotrebljavati internet i neke aplikacije možda neće funkcionirati."</string>
   <string name="volte_5G_limited_title">Isključiti VoLTE?</string>

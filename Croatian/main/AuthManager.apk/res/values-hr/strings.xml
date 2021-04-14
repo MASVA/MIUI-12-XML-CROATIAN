@@ -30,6 +30,10 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="blur_location_is_on_tip">%1$s koristi vašu približnu lokaciju. Nastaviti koristiti umjesto precizne lokacije?</string>
   <string name="blur_location_title">Približna lokacija</string>
+  <string name="cetus_invisible_mode_notice_audio">"U anonimnom ste načinu. Ne možete koristiti mikrofon."</string>
+  <string name="cetus_invisible_mode_notice_camera">"U anonimnom ste načinu. Ne možete koristiti Kameru."</string>
+  <string name="cetus_invisible_mode_notice_location">"U anonimnom ste načinu. Trenutno ne možete koristiti usluge lokacije."</string>
+  <string name="cetus_invisible_mode_notice_tip">Dodirnite za isključivanje anonimnog načina u postavkama</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clipboard_data">"Sadržaj: "</string>
   <string name="Dashboard_App">Aplikacija</string>
@@ -530,6 +534,13 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="screen_overlay_message">Za promjenu postavke dopuštenja, prvo morate isključiti Prekrivanje zaslona u Postavke &gt; Aplikacije</string>
   <string name="screen_overlay_title">Otkriveno je prekrivanje zaslona</string>
   <string name="search_menu_title">Traži</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="send">Pošalji</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>

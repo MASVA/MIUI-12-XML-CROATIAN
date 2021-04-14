@@ -90,6 +90,7 @@
   <string name="disabled">Onemogućeno</string>
   <string name="dnd_popup_close_message">Razumijem</string>
   <string name="dnd_popup_message">Možete uključiti DND način da biste utišali pozive i obavijesti bez isključivanja zvukova medija.</string>
+  <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
   <string name="early_morning">Jutro</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
@@ -102,7 +103,7 @@
   <string name="loading">Nepoznato</string>
   <string name="material_slider_range_end">Kraj,</string>
   <string name="material_slider_range_start">Početak,</string>
-  <string name="miui_dnd_count_down">DND timer</string>
+  <string name="miui_dnd_count_down">Povucite za postavljanje timera</string>
   <string name="miui_dnd_count_down_time">"DND timer
 %s"</string>
   <string name="miui_guide_dialog_button_negative_text">Postavke</string>
