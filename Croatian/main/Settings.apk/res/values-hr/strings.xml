@@ -3475,6 +3475,13 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="exterior">Shema boja</string>
   <string name="external_code_size_label">USB aplikacija za pohranu</string>
   <string name="external_data_size_label">USB uređaj za pohranu podataka</string>
+  <string name="external_ram_dialog_btn_cancel">Kasnije</string>
+  <string name="external_ram_dialog_btn_ok">Ponovo pokreni</string>
+  <string name="external_ram_dialog_message">Ponovo pokrenite uređaj da biste primijenili promjene.</string>
+  <string name="external_ram_dialog_title">Ponovo pokrenite uređaj</string>
+  <string name="external_ram_summary">"Dodaj %1$s %2$s RAM-a zauzimajući pohranu. Koristite ovu značajku samo kada je na vašem uređaju dostupno dovoljno prostora za pohranu."</string>
+  <string name="external_ram_title">Proširenje memorije</string>
+  <string name="external_ram_toast">"Ne možete koristiti proširenje memorije zbog nedovoljnog prostora za pohranu"</string>
   <string name="external_source_switch_title">Dopusti iz ovog izvora</string>
   <string name="external_source_trusted">Dopušteno</string>
   <string name="external_source_untrusted">Nije dopušteno</string>
@@ -6706,6 +6713,8 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="permission_manage_title">Dopuštenja %s</string>
   <string name="permission_manager">Dopuštenja</string>
   <string name="permission_mgr">Dopuštenja</string>
+  <string name="permission_records">Korištenje dopuštenja</string>
+  <string name="permission_records_summary">Sažetak kako aplikacije koriste dopuštenja</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj Dopuštenja</string>
   <string name="permission_settings_summary">Upravljajte dopuštenjima koja se odnose na lokaciju, prostor za pohranu, telefon, poruke i kontakte.</string>

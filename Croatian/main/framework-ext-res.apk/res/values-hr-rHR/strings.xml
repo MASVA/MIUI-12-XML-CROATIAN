@@ -294,7 +294,7 @@
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
-  <string name="status_bar_toggle_rotate">Rotacija isklj.</string>
+  <string name="status_bar_toggle_rotate">Rotacija zaklj.</string>
   <string name="status_bar_toggle_screen_button">Tipke</string>
   <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
   <string name="status_bar_toggle_shutdown">Isključi</string>

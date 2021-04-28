@@ -161,6 +161,7 @@
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
+  <string name="send">Pošalji</string>
   <string name="service_name">Naziv usluge</string>
   <string name="sim_type_sim_name">SIM Alat</string>
   <string name="sim_type_uim_name">UIM Alat</string>

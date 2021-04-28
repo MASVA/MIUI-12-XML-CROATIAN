@@ -1225,7 +1225,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="force_resizable_activities_summary">Uključi mijenjanje veličine svih aktivnosti za više prozora, neovisno o vrijednostima manifesta.</string>
   <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
-  <string name="four_point_five_switch_summary">Upotrijebite 4.5G za poboljšanje brzine pristupa podacima i kvalitete glasa.</string>
+  <string name="four_point_five_switch_summary">Upotrijebite 4.5G za povećanje brzine mobilne podatkovne veze i poboljšanje kvalitete glasa.</string>
   <string name="four_point_five_switch_title">4.5G</string>
   <string name="fw_change_failed">"Nije bilo moguće promijeniti broj za preusmjeravanje.
 Obratite se mobilnom operateru ako problem potraje."</string>

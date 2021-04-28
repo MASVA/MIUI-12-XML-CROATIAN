@@ -55,6 +55,7 @@
   <string name="carrier_introduction">"Kako bismo vam pružili bolje usluge, vaš uređaj može povremeno slati informacije o verziji uređaja, identifikacijske podatke uređaja (uključujući IMEI/IMSI/MSISDN/MAC adresu, MEID/ICCID) i približne informacije o lokaciji (uključujući ID bazne stanice) mobilnom operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Operater obećava da će analizirati relevantne podatke samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće objavljivati relevantne podatke trećim stranama u bilo kojem obliku koji vas osobno identificira. Specifična izjava operatera mora prevladati. Posavjetujte se s operaterom u vezi s troškovima korištenja ove usluge."</string>
   <string name="clock_introduction">Ovu aplikaciju možete koristiti za prikaz vremena, kao i korištenje timera, svjetskog sata, štoperice, postavljanje alarma i još mnogo toga.</string>
   <string name="close_location_service_setting">Pristup lokaciji možete isključiti u Postavke &gt; Dodatne postavke &gt; Privatnost ili ograničiti dopuštenja za pojedine aplikacije u aplikaciji Sigurnost.</string>
+  <string name="close">Zatvori</string>
   <string name="cm_terms_content">"U cilju poboljšanja usluge koje vam pruža operater mobilne mreže po vašem izboru može učitati Vaše osobne podatke i informacije o ovom uređaju na svoje poslužitelje koji koriste Wi-Fi mreže ili mobilnu podatkovnu vezu. Ove će se informacije koristiti isključivo u statističke svrhe, kako bi se poboljšala kvaliteta usluga i pruži vam se više personaliziranih sadržaja. Ti se podaci neće koristiti za vašu osobnu identifikaciju i neće biti dani na uvid trećim osobama."</string>
   <string name="cm_terms_title">Sporazum operatera mobilne mreže</string>
   <string name="compass_introduction">Ovu aplikaciju možete koristiti za navigaciju, kao i za pregled koordinata, atmosferskog tlaka i nadmorske visine.</string>
@@ -240,6 +241,7 @@
   <string name="search_menu_title">Traži</string>
   <string name="security_introduction">Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama, dopuštenjima i još mnogo toga.</string>
   <string name="security_mobile_account_introduction">Za prijavu i upravljanje sistemskim računima</string>
+  <string name="send">Pošalji</string>
   <string name="service_agreement">"Pročitao sam i pristao na uvjete i odredbe."</string>
   <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galerija</string>

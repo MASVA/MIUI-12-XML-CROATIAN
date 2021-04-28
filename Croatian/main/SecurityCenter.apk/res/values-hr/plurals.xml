@@ -718,10 +718,6 @@ Odmorite se!"</item>
         <item quantity="other">Deinstaliraj aplikacije: %d</item>
         <item quantity="one">Deinstaliraj %d aplikaciju</item>
     </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Dostupna su ažuriranja za %d aplikacija</item>
-        <item quantity="one">Dostupno je ažuriranje za %d aplikaciju</item>
-    </plurals>
 	<plurals name="app_usage_day">
          <item quantity="other">"Korišteno prije %d dan"</item>
          <item quantity="one">"Korišteno prije %d dana"</item>
@@ -815,7 +811,15 @@ Odmorite se!"</item>
         <item quantity="one">%1$d problem zahtijeva optimizaciju</item>
     </plurals>
 	<plurals name="videobox_settings_manager_apps_count">
-        <item quantity="other">%d aplik.</item>
+        <item quantity="other">%d aplikacija</item>
+        <item quantity="one">%d aplikacija</item>
+    </plurals>
+	<plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d aplikacija</item>
+        <item quantity="one">%d aplikacija</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d aplikacija</item>
         <item quantity="one">%d aplikacija</item>
     </plurals>
 	<plurals name="app_behavior_desc_allow">

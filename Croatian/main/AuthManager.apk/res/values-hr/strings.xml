@@ -35,6 +35,7 @@
   <string name="cetus_invisible_mode_notice_location">"U anonimnom ste načinu. Trenutno ne možete koristiti usluge lokacije."</string>
   <string name="cetus_invisible_mode_notice_tip">Dodirnite za isključivanje anonimnog načina u postavkama</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="clipboard_data">"Sadržaj: "</string>
   <string name="Dashboard_App">Aplikacija</string>
   <string name="Dashboard_HIPS_Disable_Content">"MIUI neće nadzirati zahtjeve dopuštenja aplikacija"</string>

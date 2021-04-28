@@ -327,6 +327,7 @@ Audio"</string>
   <string name="disabled">Onemogućeno</string>
   <string name="disabled_by_admin">Onemogućio administrator</string>
   <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
+  <string name="do_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="duplicate_video_call_not_allowed">Ne mogu dodati više poziva.</string>
   <string name="enable_account_preference_title">Računi za pozivanje</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
@@ -551,6 +552,11 @@ Audio"</string>
   <string name="runningservices_settings_summary">Pregledajte i kontrolirajte pokrenute usluge</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="saved_network">Spremila aplik. %1$s</string>
+  <string name="scam_cancle">Odustani</string>
+  <string name="scam_message">"Postavljate prosljeđivanje poziva. Nakon toga, na sve vaše dolazne pozive odgovarat će %1$s broj telefona. Ako niste vlasnik ovog broja za prosljeđivanje, možda ćete riskirati izlaganje svojih osobnih podataka ili ugrožavanje sigurnosti vaše imovine. Ovu značajku koristite oprezno."</string>
+  <string name="scam_message_2">**21*Broj za prosljeđivanje# je kôd za prosljeđivanje poziva. Ako imate pitanja, obratite se svom operateru.</string>
+  <string name="scam_ok">Biraj</string>
+  <string name="scam_title">Podsjetnik na rizik od prijevare</string>
   <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
   <string name="screen_zoom_summary_default">Zadano</string>
   <string name="screen_zoom_summary_extremely_large">Najveće</string>

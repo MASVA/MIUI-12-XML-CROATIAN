@@ -27,6 +27,7 @@
   <string name="dialog_stop_title">Zaustaviti preuzimanje?</string>
   <string name="dialog_twrp">Vaša unutarnja pohrana je šifrirana. Nakon ponovnog pokretanja u TWRP, unesite zaporku za otključavanje uređaja da biste nastavili.</string>
   <string name="download_cancel">Odustani</string>
+  <string name="downgrade_warning">Otkrivena i blokirana nadogradnja putem OTA-e! Navedena radnja može oštetiti sustav vašeg uređaja!</string>
   <string name="download_done">Uspješno preuzeto!</string>
   <string name="download_fail">Pogreška prilikom preuzimanja!</string>
   <string name="download_fail_desc">MD5 Sum se ne podudara…</string>
