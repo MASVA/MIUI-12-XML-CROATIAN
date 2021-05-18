@@ -556,7 +556,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="search_label">Pretraživanje…</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_path_notes">Aplikacije sustava/Bilješke</string>
-  <string name="search_setting_description">Pretraži tekst u vašim bilješkama</string>
+  <string name="search_setting_description">Pretražite tekst u vašim bilješkama</string>
   <string name="select_account_prompt">Sink. bilješke</string>
   <string name="send">Pošalji</string>
   <string name="set_alarm_description">Postavi alarm</string>
@@ -639,7 +639,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspješno skriven</string>
   <string name="toast_message_add_image_fail">"Ne mogu dodati sliku"</string>
   <string name="toast_message_add_text_warn">"Ova vrsta datoteka nije podržana"</string>
-  <string name="toast_note_privacy_mode">"Ne mogu stvoriti bilješku u Gost načinu rada"</string>
+  <string name="toast_note_privacy_mode">"Ne mogu izraditi bilješku u Gost načinu rada"</string>
   <string name="toast_notes_delete_success">Uspješno izbrisano</string>
   <string name="toast_notes_hidden">Uspješno skriveno</string>
   <string name="toast_notes_hidden_edit">Ova bilješka je uspješno skrivena. Povucite dolje da biste vidjeli skrivene bilješke.</string>
@@ -661,7 +661,7 @@ Dopustite aplikaciji Bilješke čitanje sadržaja SD kartice."</string>
 Dopustite aplikaciji Bilješke čitanje statusa i identiteta telefona."</string>
   <string name="toast_refuse_to_use_record_audio">"Dopuštenja za mikrofon su ograničena.
 Dopustite aplikaciji Bilješke snimanje zvuka."</string>
-  <string name="toast_refuse_to_use_storage_in_excerpt">Omogućite Bilješkama pristup pohrani da bi mogli dodavati slike u vaše bilješke</string>
+  <string name="toast_refuse_to_use_storage_in_excerpt">Omogućite aplikaciji Bilješke pristup pohrani da bi mogli dodavati slike u vaše bilješke</string>
   <string name="toast_unmark_privacy_notes">Uspješno otkriveno</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspješno otkriven</string>
   <string name="today">Danas</string>
@@ -683,7 +683,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="todo_event_description_today">Danas</string>
   <string name="todo_event_description_tomorrow">Sutra</string>
   <string name="todo_event_description_yesterday">Jučer</string>
-  <string name="todo_float_permission_open_reminder">Dopustite aplikaciji Bilješke da prikazuje plutajuće prozore u ostalim aplikacijama kako bi mogli koristiti ovu značajku.</string>
+  <string name="todo_float_permission_open_reminder">Dopustite aplikaciji Bilješke prikaz plutajućih prozora u ostalim aplikacijama kako bi mogli koristiti ovu značajku.</string>
   <string name="todo_item_group_expired">Isteklo</string>
   <string name="todo_item_group_finished">Dovršeno</string>
   <string name="todo_item_group_further">Kasnije</string>
@@ -720,11 +720,11 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="todo_schedule_time_ymdhm">dd.MM.yyyy HH:mm</string>
   <string name="todo_search_hint">Traži zadatke</string>
   <string name="todo_time_picker_title">Postavi podsjetnik</string>
-  <string name="todo_user_guide_fw_pop">Add Home screen shortcut</string>
-  <string name="todo_user_guide_tip1">Dobrodošli u Zadaci!</string>
+  <string name="todo_user_guide_fw_pop">Dodaj prečac Poč. zaslona</string>
+  <string name="todo_user_guide_tip1">Dobrodošli u Zadatke!</string>
   <string name="todo_user_guide_tip2">Ovdje možete dodati tekst i glasovne zadatke.</string>
   <string name="todo_user_guide_tip3">Da biste uredili tekstualni zadatak, jednostavno ga dodirnite.</string>
-  <string name="todo_user_guide_tip4">"Ne zaboravite stvoriti prečac na početnom zaslonu za Zadatke."</string>
+  <string name="todo_user_guide_tip4">"Ne zaboravite stvoriti prečac na Poč. zaslonu za Zadatke."</string>
   <string name="todo_user_guide_tip5">Ostanite u vrhu svoje igre i nikad ne propustite ništa važno!</string>
   <string name="todo_user_guide_tip6">Dodirnite \"Enter\" za izradu kontrolnog popisa podzadataka</string>
   <string name="todoalert_done">U redu</string>

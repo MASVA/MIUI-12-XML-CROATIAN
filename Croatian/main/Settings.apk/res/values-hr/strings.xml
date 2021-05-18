@@ -457,6 +457,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="adjust_3d_depth_title">"Podesi 3D dubinu igara"</string>
   <string name="adjust_font_size_answer_cn">Pokušajte prilagoditi veličinu teksta i debljinu fonta pomoću klizača u nastavku!</string>
   <string name="adjust_font_size_answer_global">Pokušajte prilagoditi veličinu teksta pomoću klizača ispod!</string>
+  <string name="adjust_ligth">Podešavanje svjetline</string>
   <string name="adjust_temperature_title">Temperatura boje</string>
   <string name="admin_device_owner_message">Vaš administrator može nadzirati aplikacije i podatke povezane s ovim uređajem, uključujući postavke, dopuštenja, korporacijski pristup, aktivnost na mreži i podatke o lokaciji uređaja, te njima upravljati.</string>
   <string name="admin_disabled_other_options">Ostale je opcije onemogućio vaš administrator.</string>
@@ -5392,6 +5393,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_plus">Glasnoća +</string>
   <string name="miheadset_rename">Preimenuj</string>
   <string name="miheadset_rename_device">Preimenuj</string>
+  <string name="miheadset_single_ear_indicate">Nosite obje slušalice kako biste koristili prigušivanje buke</string>
   <string name="miheadset_soft">Nježno</string>
   <string name="miheadset_transparent">Prozirnost</string>
   <string name="miheadset_transparentMode">Prozirnost</string>
@@ -8633,6 +8635,8 @@ Obavijesti će se za neke aplikacije možda odgoditi."</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Zaklj./otklj. telefon autom. koristeći smart cover</string>
   <string name="smartcover_sensitive_title">Smart Cover</string>
+  <string name="smooth_adjust_ligth">Glađi prijelazi</string>
+  <string name="smooth_adjust_ligth_summary">Neka prijelazi budu glađi dok ručno podešavate svjetlinu. Kad je ova značajka uključena, u nekim se slučajevima mogu pojaviti neusaglašenosti boja.</string>
   <string name="sms_access_restriction_enabled">Ograniči pristup SMS-ovima i zapisniku poziva</string>
   <string name="sms_access_restriction_enabled_summary">Samo zadane aplikacije za telefon i poruke imaju dopuštenja za SMS i zapisnik poziva</string>
   <string name="sms_application_title">SMS aplikacija</string>

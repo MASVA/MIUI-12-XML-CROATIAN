@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="photo_count">
+        <item quantity="other">%d fotografija</item>
+        <item quantity="one">%d fotografija</item>
+     </plurals>
+     <plurals name="synced_photo_count">
+        <item quantity="other">Sinkronizirano %d fotografija</item>
+        <item quantity="one">Sinkronizirana %d fotografija</item>
+     </plurals>
+     <plurals name="synced_videos_count">
+        <item quantity="other">Sinkronizirano %d videozapisa</item>
+        <item quantity="one">Sinkroniziran %d videozapis</item>
+     </plurals>
+     <plurals name="videos_count">
+        <item quantity="other">%d videozapisa</item>
+        <item quantity="one">%d videozapis</item>
+     </plurals>
     <plurals name="ignore_faces_alert_msg">
         <item quantity="other">"Ne prikazivati ove osobe?"</item>
         <item quantity="one">"Ne prikazivati ovu osobu?"</item>

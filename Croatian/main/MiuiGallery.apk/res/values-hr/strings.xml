@@ -478,6 +478,10 @@
   <string name="cloud_bacup_disable_processing">Obrada…</string>
   <string name="cloud_camera_display_name">Fotografije kamere</string>
   <string name="cloud_cancel_authorizing_to_device">Otkazivanje autorizacije…</string>
+  <string name="cloud_full_space_tip_message">Nadogradite plan pohrane u cloudu kako biste mogli sinkronizirati sve svoje fotografije i videozapise u cloud.</string>
+  <string name="cloud_full_space_tip_negative">Ne sad</string>
+  <string name="cloud_full_space_tip_positive">Nadogradi</string>
+  <string name="cloud_full_space_tip_title">Nedovoljna pohrana u cloudu</string>
   <string name="cloud_guide_auto_backup_title">Odaberite albume za sinkronizaciju</string>
   <string name="cloud_guide_login_title">Automatski izradi Sig. kopiju fotografija i videozapisa</string>
   <string name="cloud_guide_slim_text">Automatski izradi Sig. kopiju. Uštedite više od 90% lokalne pohrane.</string>
@@ -583,6 +587,7 @@
   <string name="custom_select_title_quickly_share">Podijeli</string>
   <string name="custom_select_title_select_all">Odaberi sve</string>
   <string name="custom_select_title_select_item">Odaberiie stavke</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="datetimepicker_dialog_title">Promijeni vrijeme</string>
   <string name="datetimepicker_updatetime_failed">"Ne mogu promijeniti vrijeme"</string>
   <string name="datetimepicker_updatetime_success">Vrijeme je uspješno promijenjeno</string>
@@ -1141,13 +1146,13 @@ za fotografije"</string>
   <string name="home_page_empty">Prazno</string>
   <string name="home_page_empty_action">Snimi fotografiju</string>
   <string name="home_page_label">Fotografije</string>
+  <string name="home_page_tab_photo">Fotografije</string>
   <string name="homepage_allphotos_tip_dialog_button_negative">Preskoči</string>
   <string name="homepage_allphotos_tip_dialog_button_positive">U redu</string>
   <string name="homepage_allphotos_tip_dialog_description_all">Sve</string>
   <string name="homepage_allphotos_tip_dialog_description_only_camera">Snimljeno Kamerom</string>
   <string name="homepage_allphotos_tip_dialog_subtitle">To možete učiniti i kasnije u Postavkama</string>
   <string name="homepage_allphotos_tip_dialog_title">Koje slike želite vidjeti u \"Fotografije\"?</string>
-  <string name="home_page_tab_photo">Fotografije</string>
   <string name="how_to_set_relation">Pritisnite &amp; držite album za izradu grupe</string>
   <string name="hr_preview_108m">Promjenjeno na pregled od 108MP</string>
   <string name="hybrid_check_network">Postavke mreže</string>
@@ -1263,6 +1268,7 @@ za fotografije"</string>
   <string name="macarons_select_video">"Ne mogu koristiti više videozapisa za stvaranje čarobne vinjete"</string>
   <string name="magic_add_full">Možete dodati do %1$d osoba</string>
   <string name="magic_background">Pozadina</string>
+  <string name="magic_bitmap_damaged">Datoteka slike je oštećena</string>
   <string name="magic_brush">Brush</string>
   <string name="magic_camera">Kamera</string>
   <string name="magic_cancel">Odustani</string>
@@ -1309,6 +1315,7 @@ za fotografije"</string>
   <string name="magic_matting_download_sdk_without_wifi_title">Preuzmi \"Magija\" dodatak</string>
   <string name="magic_matting_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje izvornih datoteka može rezultirati dodatnim naknadama. Svejedno preuzeti?</string>
   <string name="magic_matting_download_with_metered_network_title">Plaćena mreža</string>
+  <string name="magic_matting_error_px">"Ova veličina slike nije podržana"</string>
   <string name="magic_matting_face_fail">"Obrađivanje lica nije uspjelo"</string>
   <string name="magic_matting_load_data_fail">"Učitavanje podataka nije uspjelo"</string>
   <string name="magic_matting_module_finish">Dodatak \"Magija\" uspješno preuzet</string>
@@ -1338,6 +1345,8 @@ za fotografije"</string>
   <string name="magic_stroke">Outline</string>
   <string name="magic_typesetting_n">Izgled</string>
   <string name="magic_value_exceed">Vrijednost koju ste unijeli premašila je ograničenje</string>
+  <string name="magic_video_cut_frame">Obrada…</string>
+  <string name="magic_video_cut_frame_back">Dodirnite ponovo za otkazivanje</string>
   <string name="magic_video_cut_max">Odaberite do %1$d sekundi</string>
   <string name="magic_video_cut_min">Odaberite barem %1$d sekundu</string>
   <string name="magic_video_long_press">Pritisnite &amp; držite za dodavanje</string>
@@ -1389,6 +1398,7 @@ za fotografije"</string>
   <string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
   <string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
   <string name="midnight">Ponoć</string>
+  <string name="mishare_all_devices">Svi uređaji</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -1534,12 +1544,15 @@ za fotografije"</string>
   <string name="multi_view_tip_title">Povećavanje i smanjivanje</string>
   <string name="must_pick_file">Odaberite fotografiju</string>
   <string name="name_split">, </string>
+  <string name="nearby_share">Dijeljenje u blizini</string>
   <string name="need_to_turn_on_network">"Uređaj nije povezan s internetom."</string>
   <string name="need_to_turn_on_sync">Uključite sinkr. sa Mi Cloudom</string>
   <string name="need_to_turn_on_sync_first">Uključite prvo sinkr. sa Mi Cloudom</string>
   <string name="need_to_turn_on_wlan">Povežite se prvo na Wi-Fi</string>
   <string name="negative">Negativan</string>
   <string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
+  <string name="network_message">"Ova se značajka mora povezati s mrežom da bi normalno radila. Čini se da ovaj uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti mobilne podatke za nastavak? Korištenje mobilnih podataka može generirati dodatne naknade operatera."</string>
+  <string name="network_title">Povežite se na mrežu</string>
   <string name="network_unsatisfied_button_text">Povežite se na mrežu</string>
   <string name="new_album_invalid_byte">Naziv je predugačak</string>
   <string name="new_album_invalid_char">"Nazivi ne mogu sadržavati \"%s\", unesite slovo ili broj."</string>
@@ -1620,6 +1633,7 @@ za fotografije"</string>
   <string name="operation_failed">"Ne mogu dovršiti radnju"</string>
   <string name="operation_favorites">Favoriti</string>
   <string name="operation_force_top">Zakači</string>
+  <string name="operation_google_lens">Google Leće</string>
   <string name="operation_hide">Sakrij</string>
   <string name="operation_hide_time">Sakrij datume</string>
   <string name="operation_in_process">Obrada…</string>
@@ -2194,11 +2208,10 @@ za fotografije"</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="sky_dynamic">Dinamičko</string>
-  <string name="sky_static">Statično</string>
   <string name="sky_night">Večer</string>
   <string name="sky_nocturne">Noć</string>
+  <string name="sky_static">Statično</string>
   <string name="sky_sunny">Sunčano</string>
-  <string name="sticker_graduation">Matura</string>
   <string name="slideshow_interval_dialog_title">Unesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti između %1$d i %2$d sekundi</string>
   <string name="slideshow_interval_title">Prikaži svaki slajd na</string>
@@ -2278,6 +2291,7 @@ za fotografije"</string>
   <string name="sticker_fit">Pietina</string>
   <string name="sticker_girl">Zabavna cura</string>
   <string name="sticker_girly">Pribor</string>
+  <string name="sticker_graduation">Matura</string>
   <string name="sticker_head">Dan loše frizure</string>
   <string name="sticker_pupil">Škola djevojka</string>
   <string name="sticker_rock">Boom!</string>
@@ -2328,6 +2342,7 @@ za fotografije"</string>
   <string name="sync_off_title">Uključite sinkr. sa Mi Cloudom da automatski izradite Sig. kopiju fotografija i videozapisa</string>
   <string name="sync_pending_title">Sinkronizirat će se automatski</string>
   <string name="sync_state_unknow">Dobivanje informacija</string>
+  <string name="synced_photo_video_count">Sinkronizirano %1$s i %2$s</string>
   <string name="synced_title">Fotografije i videozapisi uspješno pohranjeni</string>
   <string name="syncing_gprs_title">Koriste se mob. podaci za izradu Sig. kopije stavki</string>
   <string name="syncing_metadata_title">Sinkronizacija Mi Cloud podataka</string>

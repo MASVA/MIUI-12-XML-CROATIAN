@@ -380,6 +380,7 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_close">Dotaknite ekran da biste zatvorili</string>
   <string name="clip_dialog_title">Birati kopirani broj?</string>
+  <string name="close">Zatvori</string>
   <string name="close_dial_pad_description">Zatvori brojčanu tipkovnicu</string>
   <string name="cloud_antispam_mark">Prijavi</string>
   <string name="cloud_antispam_marked">Prijavljeno</string>
@@ -523,6 +524,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Podsjeti me 3 dana prije, te još jednom na sami dan</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="date_time_set">Postavi</string>
   <string name="date_year_toggle">Navesti godinu</string>
   <string name="default_ringtone">"Zadana melodija zvona"</string>
@@ -1049,10 +1051,13 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Osvježeno</string>
   <string name="miuix_sb_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -1536,6 +1541,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="select_none">Nema odabranih stavki</string>
   <string name="select_show_contacts">Popis kontakata</string>
   <string name="select_vcard_title">"Odaberi vCard datoteku"</string>
+  <string name="send">Pošalji</string>
   <string name="send_contact_shortcut_todesktop_duplicate">Taj prečac već postoji</string>
   <string name="send_contact_shortcut_todesktop_failed">"Ne mogu staviti prečac na Poč. zaslon"</string>
   <string name="send_contact_shortcut_todesktop_overflow">"Ne mogu staviti još prečaca na Poč. zaslon"</string>

@@ -511,7 +511,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="guide_local_data_sync_title">Prenesite podatke s ovog uređaja</string>
   <string name="guide_other_data_sync_subtitle">Telefoni, Mi Band, vage i drugi uređaji</string>
   <string name="guide_other_data_sync_title">Sinkronizirajte podatke s drugih uređaja</string>
-  <string name="guide_setting">Navedite sljedeće podatke da biste dobili točnu statistiku o menstruaciji</string>
+  <string name="guide_setting">Navedite sljedeće podatke za dobivanje točne statistike o menstruaciji</string>
   <string name="harm_learn_more">Saznajte više</string>
   <string name="has_record">Zapisi</string>
   <string name="health_app_name">Health</string>

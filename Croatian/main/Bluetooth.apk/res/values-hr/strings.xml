@@ -97,6 +97,7 @@
   <string name="btopp_live_folder">Bluetooth primljen</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="deleteAll_record">Izbriši sve zapise</string>
   <string name="delete_record">Izbriši zapis</string>
   <string name="device_picker">Postavke Bluetooth uređaja</string>

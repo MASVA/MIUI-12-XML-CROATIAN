@@ -32,6 +32,7 @@
   <string name="account_contact_backup_info">Podaci Google računa, Mi Računa i kontakata</string>
   <string name="account_login">Prijavite se</string>
   <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="alert_button_agree_and_continue">Dopusti</string>
   <string name="alert_button_deny">Odbijam</string>
   <string name="alert_message_backup_to_miasist">Mi PC Suite traži dopuštenje za izradu Sig. kopije na računalo. Dopustiti?</string>
@@ -74,6 +75,7 @@
   <string name="backup_finished">Sig. kopija uspješno završena</string>
   <string name="backup_hint">"Držite vaš uređaj uključenim</string>
   <string name="backup_hint_onpad">Držite vaš uređaj uključenim</string>
+  <string name="backup_hint_pad">Držite uređaj uključenim</string>
   <string name="backup_is_running">Izrada Sig. kopije uređaja</string>
   <string name="backup_items_app_tailer">" x podaci aplikacija"</string>
   <string name="backup_items_sysdata_tailer">" x podaci sustava,"</string>
@@ -105,8 +107,10 @@
   <string name="cancel_moving_dialog_message">Zaustaviti uvoz?</string>
   <string name="cancel_moving_dialog_title">Zaustavi uvoz</string>
   <string name="cancel_restore">Odustani</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_soft_ap_to_link">Odaberite hotspot za povezivanje</string>
   <string name="click_to_view">Dodirnite za prikaz</string>
+  <string name="close">Zatvori</string>
   <string name="close_twice_auth_btn">Isključi autorizaciju s dva faktora</string>
   <string name="close_twice_auth_note">"Bilješka:\nNakon što izradite novo sigurnosno pitanje i potvrdite datum rođenja, autorizacija s dva faktora za vaš Apple ID bit će isključena. Ako ne vidite opciju isključivanja autorizacije s dva faktora na stranici računa Apple ID, ne možete ga isključiti."</string>
   <string name="close_twice_auth_operation">"URL:\nhttps://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
@@ -146,6 +150,7 @@
   <string name="data_item_desc">Podaci</string>
   <string name="data_no_enough_space_message">"Nema dovoljno prostora na unutarnjoj memoriji vašeg uređaja."</string>
   <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="delete">Izbriši</string>
   <string name="delete_backup_process">Brisanje…</string>
   <string name="delete_backup_title">Izbriši Sig. kopiju</string>
@@ -214,6 +219,9 @@ Provjerite da USB uređaj ima dovoljno prostora za pohranu prije nego što počn
   <string name="flash_drive_restore_btn">Vrati Sig. kopiju sa USB uređaja</string>
   <string name="flash_drive_search_backup_files">"Traženje Sig. kopije na USB uređaju…
 Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
+  <string name="friday">Petak</string>
+  <string name="friday_short">Pet</string>
+  <string name="friday_shortest">P</string>
   <string name="gallery_summary">Postavke Galerije (ne uključujući fotografije)</string>
   <string name="guarded_mode_dialog_backup_message">Izrada Sig. kopije nije dozvoljena u Gost načinu rada.</string>
   <string name="guarded_mode_dialog_title">Vi ste u "Gost" načinu rada</string>
@@ -303,6 +311,20 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="logining">Prijavljivanje…</string>
   <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -312,6 +334,50 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mms_title">MMS</string>
+  <string name="monday">Ponedjeljak</string>
+  <string name="monday_short">Pon</string>
+  <string name="monday_shortest">P</string>
+  <string name="month">Mjesec</string>
+  <string name="month_april">Travanj</string>
+  <string name="month_april_short">Tra</string>
+  <string name="month_april_shortest">T</string>
+  <string name="month_august">Kolovoz</string>
+  <string name="month_august_short">Kol</string>
+  <string name="month_august_shortest">K</string>
+  <string name="month_december">Prosinac</string>
+  <string name="month_december_short">Pro</string>
+  <string name="month_december_shortest">P</string>
+  <string name="month_february">Veljača</string>
+  <string name="month_february_short">Velj</string>
+  <string name="month_february_shortest">V</string>
+  <string name="month_january">Siječanj</string>
+  <string name="month_january_short">Sij</string>
+  <string name="month_january_shortest">S</string>
+  <string name="month_july">Srpanj</string>
+  <string name="month_july_short">Srp</string>
+  <string name="month_july_shortest">S</string>
+  <string name="month_june">Lipanj</string>
+  <string name="month_june_short">Lip</string>
+  <string name="month_june_shortest">L</string>
+  <string name="month_march">Ožujak</string>
+  <string name="month_march_short">Ožu</string>
+  <string name="month_march_shortest">O</string>
+  <string name="month_may">Svibanj</string>
+  <string name="month_may_short">Svi</string>
+  <string name="month_may_shortest">S</string>
+  <string name="month_medium_april">Tra</string>
+  <string name="month_medium_august">Kol</string>
+  <string name="month_medium_december">Pro</string>
+  <string name="month_november">Studeni</string>
+  <string name="month_november_short">Stu</string>
+  <string name="month_november_shortest">S</string>
+  <string name="month_october">Listopad</string>
+  <string name="month_october_short">Lis</string>
+  <string name="month_october_shortest">L</string>
+  <string name="month_september">Rujan</string>
+  <string name="month_september_short">Ruj</string>
+  <string name="month_september_shortest">R</string>
+  <string name="more">Više</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="multi_user_mode_backup_message">"Ne mogu koristiti Sig. kopiju u Multi-korisnik načinu. Isključite Multi-korisnik način za nastavak."</string>
   <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite Multi-korisnik način za nastavak."</string>
@@ -333,7 +399,9 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
 %1$d. Kopirajte Sig. kopije na računalo da biste izbjegli gubitak podataka. %2$s.
 %3$d. Sig. kopije bit će spremljene u MIUI-Backup-AllBackup."</string>
   <string name="new_local_tab_backup">Sigurnosno kopiranje na mobilni uređaj</string>
+  <string name="new_local_tab_backup_pad">Sig. kopiraj</string>
   <string name="new_local_tab_restore">Vratite s mobilnog uređaja</string>
+  <string name="new_local_tab_restore_pad">Vrati</string>
   <string name="new_low_storage_title">Nema dovoljno prostora za pohranu</string>
   <string name="new_more_settings_label">Dodatne postavke</string>
   <string name="new_pc_backup_content1">%1$d. Otvori \"%2$s\".</string>
@@ -341,11 +409,14 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="new_pc_backup_content3">%d. Pronađite Sig. kopije u MIUI-Backup-AllBackup.</string>
   <string name="new_pc_backup_content4">%d. Kopirajte datoteku na svoje računalo.</string>
   <string name="new_pc_backup_restore_link">Mobilni uređaj</string>
+  <string name="new_pc_backup_restore_link_pad">Mobilni uređaj</string>
   <string name="new_pc_backup_summary1">Odaberite stavke i dodirnite \"Sig. kopiraj\".</string>
   <string name="new_pc_backup_summary2">Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
+  <string name="new_pc_backup_summary2_pad">Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
   <string name="new_pc_backup_summary4">Napomena: možete kopirati i fotografije i videozapise iz DCIM.</string>
   <string name="new_pc_restore_content1">%d. Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
   <string name="new_pc_restore_content2">%d. Kopirajte Sig. kopiju s računala u MIUI-Backup-AllBackup.</string>
+  <string name="new_pc_restore_content2_pad">%d. Kopirajte Sig. kopiju s računala na MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Otvorite \"%2$s\" i odaberite stavke za vraćanje.</string>
   <string name="new_pc_title">Kopiraj Sig. kopije</string>
   <string name="new_select_file">Audio, videozapise i datoteke</string>
@@ -369,6 +440,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="new_usb_tab_restore">Vrati s USB pogona</string>
   <string name="no_encrypt_password">Nema zaporki</string>
   <string name="no_network">"Ne mogu se povezati na mrežu."</string>
+  <string name="not_enough_storage_tips">Nema dovoljno prostora za pohranu. Oslobodite malo prostora i pokušajte ponovo.</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="note_title">Bilješke</string>
   <string name="nothing_searched">Nema rezultata</string>
@@ -448,6 +520,9 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="reverse_all">Poništi odabir</string>
   <string name="router_backup_hint">Držite vaš uređaj uključenim</string>
+  <string name="saturday">Subota</string>
+  <string name="saturday_short">Sub</string>
+  <string name="saturday_shortest">S</string>
   <string name="save_finish_with_failing_items">"Prijenos je prekinut.\r\nPodaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="saving_data">"Uvoz podataka iz iClouda…
  Nemojte isključivati Wi-Fi"</string>
@@ -482,6 +557,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="select_item_summary_loading">Učitavanje podataka…</string>
   <string name="select_item_summary_wait">Čekanje…</string>
   <string name="select_storage_location">Odaberite lokaciju Sig. kopije</string>
+  <string name="send">Pošalji</string>
   <string name="service_stoped">Usluga zaustavljena</string>
   <string name="settings_summary">"Postavke telefona i poruka</string>
   <string name="size_byte">B</string>
@@ -504,6 +580,9 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="summary_err_backup_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Mi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne mogu se povezati na mrežu"</string>
+  <string name="sunday">Nedjelja</string>
+  <string name="sunday_short">Ned</string>
+  <string name="sunday_shortest">N</string>
   <string name="system_backup">Sig. kopija</string>
   <string name="system_backup_info">Postavke sistema, početnog zaslona itd.</string>
   <string name="task_backup_cancel_progress">Otkazivanje…</string>
@@ -533,6 +612,14 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="task_running_restore_hint">Taj proces je već pokrenut u pozadini!</string>
   <string name="task_service_not_launched">"Zadatak još nije započet"</string>
   <string name="task_stopped_exception">Vraćanje otkazano</string>
+  <string name="thursday">Četvrtak</string>
+  <string name="thursday_short">Čet</string>
+  <string name="thursday_shortest">Č</string>
+  <string name="time_picker_dialog_title">Postavi vrijeme</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
+  <string name="today">Danas</string>
+  <string name="tomorrow">Sutra</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Izrada Sig. kopije …</string>
   <string name="trans_backingup_no_items">Sinkr. …</string>
@@ -736,6 +823,9 @@ i Mi Mover uključen"</string>
   <string name="trans_waiting_for_sender">Čekanje povezivanja drugog uređaja…</string>
   <string name="trans_wlan_tips_message">"Nemojte isključivati Wi-Fi ili se prebacivati na druge Wi-Fi mreže tijekom prijenosa. Inače, Mi Mover neće biti u mogućnosti slati podatke."</string>
   <string name="trans_wlan_tips_title">"Nemojte isključivati niti mijenjati Wi-Fi tijekom prijenosa podataka"</string>
+  <string name="tuesday">Utorak</string>
+  <string name="tuesday_short">Uto</string>
+  <string name="tuesday_shortest">U</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stavki"</string>
   <string name="unknown_hint">Nepoznato</string>
@@ -763,6 +853,9 @@ Nemojte napustiti ovu stranicu dok se veza ne uspostavi. "
 Dodirnite \"Ja sam pošiljatelj\" i odaberite Hotspot za povezivanje.
 Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="waiting">Samo trenutak…</string>
+  <string name="wednesday">Srijeda</string>
+  <string name="wednesday_short">Sri</string>
+  <string name="wednesday_shortest">S</string>
   <string name="wifi_title">Postavke Wi-Fi-ja</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
   <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
@@ -773,4 +866,6 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 
  Veličina Delta ažuriranja: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupno ažuriranje</string>
+  <string name="yes">Da</string>
+  <string name="yesterday">Jučer</string>
 </resources>

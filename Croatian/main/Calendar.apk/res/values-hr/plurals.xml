@@ -267,4 +267,68 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
      </plurals>
+	      <plurals name="day_index">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+     </plurals>
+     <plurals name="hide_completed_notes">
+        <item quantity="other">Sakrij izvršene zadatke: %d</item>
+        <item quantity="one">Sakrij %d izvršeni zadatak</item>
+     </plurals>
+     <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Dan %1$d (očekivano)</item>
+        <item quantity="one">Dan %1$d (očekivano)</item>
+     </plurals>
+     <plurals name="mesens_card_title_days">
+        <item quantity="other">Dan %1$d</item>
+        <item quantity="one">Dan %1$d</item>
+     </plurals>
+     <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Sljedeća menstruacija za %1$d dana</item>
+        <item quantity="one">Sljedeća menstruacija za %1$d dan</item>
+     </plurals>
+     <plurals name="notes_custom_repeat_days">
+        <item quantity="other">dana</item>
+        <item quantity="one">dan</item>
+     </plurals>
+     <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">tjedana</item>
+        <item quantity="one">tjedan</item>
+     </plurals>
+     <plurals name="num_picker_hint">
+        <item quantity="other">" dana"</item>
+        <item quantity="one">" dan"</item>
+     </plurals>
+     <plurals name="show_completed_notes">
+        <item quantity="other">Prikaži izvršene zadatke: %d</item>
+        <item quantity="one">Prikaži %d izvršeni zadatak</item>
+     </plurals>
+     <plurals name="subtitle_add_record">
+        <item quantity="other">"Niste bilježili %1$d dana. Zabilježite svoja razdoblja da biste dobili preciznija predviđanja."</item>
+        <item quantity="one">"Niste bilježili %1$d dan. Zabilježite svoja razdoblja da biste dobili preciznija predviđanja."</item>
+     </plurals>
+     <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Ovaj je menstrualni ciklus trajao ukupno dana: %1$d</item>
+        <item quantity="one">Ovaj je menstrualni ciklus trajao ukupno %1$d dan</item>
+     </plurals>
+     <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">%1$d. dan ovog menstrualnog ciklusa</item>
+        <item quantity="one">%1$d. dan ovog menstrualnog ciklusa</item>
+     </plurals>
+     <plurals name="title_menstruation_day">
+        <item quantity="other">%1$d. dan menstrualnog ciklusa</item>
+        <item quantity="one">%1$d. dan menstrualnog ciklusa</item>
+     </plurals>
+     <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dana do sljedećeg menstrualnog ciklusa</item>
+        <item quantity="one">%1$d dan do sljedećeg menstrualnog ciklusa</item>
+     </plurals>
+     <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Procijenjeni dani menstrualnog ciklusa: %1$d </item>
+        <item quantity="one">Procijenjen %1$d dan menstrualnog ciklusa</item>
+     </plurals>
+     <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s minuta vožnje do %1$s.</item>
+        <item quantity="one">%2$s minuta vožnje do %1$s.</item>
+     </plurals>
 </resources>

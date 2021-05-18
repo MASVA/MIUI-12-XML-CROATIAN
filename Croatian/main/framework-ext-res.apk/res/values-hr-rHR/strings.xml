@@ -6,8 +6,11 @@
   <string name="all_call_livetalk_remain_mins">Preostalo minuta: %1$s domaći | %2$s međunarodni</string>
   <string name="always">Uvijek</string>
   <string name="alwaysUsePrompt">"Zapamti moj izbor"</string>
+  <string name="application_cannot_open_alipay_health_code">"Ne mogu otvoriti zdravstveni kod Alipay"</string>
   <string name="application_cannot_open_alipay_payment_code">"Ne mogu otvoriti Alipay kôd plaćanja"</string>
   <string name="application_cannot_open_alipay_scanner">"Ne mogu otvoriti Alipay skener"</string>
+  <string name="application_cannot_open_au_pay">Prvo instalirajte au PAY</string>
+  <string name="application_cannot_open_weixin_health_code">"Ne mogu otvoriti zdravstveni kod WeChat"</string>
   <string name="application_cannot_open_weixin_payment_code">"Ne mogu otvoriti WeChat kôd plaćanja"</string>
   <string name="application_cannot_open_weixin_scanner">"Ne mogu otvoriti WeChat skener"</string>
   <string name="application_not_install_content">"Čini se da aplikacija koja izvodi ovu radnju nije instalirana na vašem uređaju. Možete instalirati ovu aplikaciju ili dodijeliti drugu radnju ovoj gesti."</string>
@@ -74,6 +77,11 @@
   <string name="device_type_pc">Računalo</string>
   <string name="disable_nfc">Isključen NFC za bežično punjenje</string>
   <string name="disable_nfc_reverse">Isključen NFC za obrnuto bežično punjenje</string>
+  <string name="dock_tip_floatwindow">Držite traku i povucite je do ruba zaslona da biste otvorili prikaz podijeljenog zaslona.</string>
+  <string name="dock_tip_splitscreen_landscape_drag">Povucite traku vodoravno da biste zamijenili položaje dva prozora aplikacije.</string>
+  <string name="dock_tip_splitscreen_landscape_float">Držite i povucite prema dolje da biste se prebacili na plutajući prozor.</string>
+  <string name="dock_tip_splitscreen_portrait_drag">Povucite traku okomito da biste zamijenili položaje dva prozora aplikacije.</string>
+  <string name="dock_tip_splitscreen_portrait_float">Držite i povucite na lijevu ili desnu stranu zaslona da biste se prebacili na plutajući prozor.</string>
   <string name="eighthours">8 sati</string>
   <string name="enable_livetalk_summary">Uštedite 70% na vašim pozivima</string>
   <string name="enable_livetalk_title">Uključi paket nadoplate</string>
@@ -160,6 +168,8 @@
   <string name="miaudiovisual_notification_title">Zvučni i vizualni efekti</string>
   <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">"Ne mogu isključiti, uređaj je zaključan."</string>
+  <string name="miui_multiwindow_not_support_small_window">"%1$s ne podržava plutajuće prozore"</string>
+  <string name="miui_multiwindow_not_support_split">"%1$s ne podržava podijeljeni zaslon"</string>
   <string name="miui_screen_ratio_hint">Problem s omjerom zaslona</string>
   <string name="miui_screen_ratio_hint_dont_show_again">"Ne prikazuj ponovno"</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Idi u Postavke</string>
@@ -344,7 +354,7 @@
   <string name="wifi_assistant_wifi_no_internet">Ova Wi-Fi mreža nema pristup internetu</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Dodirni za prikaz detalja</string>
   <string name="wireless_charging_notification_message1">"Ne mogu pronaći bežične uređaje za punjenje. Obrnuto bežično punjenje sada je isključeno."</string>
-  <string name="wireless_charging_notification_message2">Baterija je napunjena manje od 30%. Obrnuto bežično punjenje sada je isključeno.</string>
+  <string name="wireless_charging_notification_message2">Baterija je napunjena manje od %s. Obrnuto bežično punjenje sada je isključeno.</string>
   <string name="wireless_charging_notification_message3">Došlo je do pogreške tijekom punjenja. Obrnuto bežično punjenje sada je isključeno.</string>
   <string name="wireless_charging_notification_titile">Obrnuto bežično punjenje sada je isključeno</string>
   <string name="xiaomi">Mi</string>

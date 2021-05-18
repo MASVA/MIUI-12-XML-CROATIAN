@@ -285,6 +285,9 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
   <string name="wireless_charging_connected_message">"Ne možete koristiti obrnuto bežično punjenje kad se uređaj puni bežično."</string>
+  <string name="wireless_charging_fg_control_cancel">Odustani</string>
+  <string name="wireless_charging_fg_control_messgae">"Obrnuto bežično punjenje je isključeno jer je ostalo manje od %d%% baterije. Možete prilagoditi postavke kako biste omogućili da obrnuto bežično punjenje radi dulje."</string>
+  <string name="wireless_charging_fg_control_ok">Prilagodi</string>
   <string name="wireless_charging_low_battery_level_message">"Ne možete koristiti obrnuto bežično punjenje kada je baterija na manje od %d%%."</string>
   <string name="wireless_charging_ok">Razumijem</string>
   <string name="wireless_charging_saver_cancel">Isključi</string>

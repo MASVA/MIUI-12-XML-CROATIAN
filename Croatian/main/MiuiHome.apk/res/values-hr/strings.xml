@@ -230,6 +230,7 @@
   <string name="delete_screen">Izbriši tipku zaslona</string>
   <string name="delete_wallpaper_message">Izbrisati sliku pozadine: %1$d?</string>
   <string name="delete_wallpapers_message">Izbrisati slike pozadine: %1$d?</string>
+  <string name="deleted_system_applications">Deinstalirane aplikacije sustava</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
   <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>

@@ -491,7 +491,7 @@
         <item>P</item>
         <item>S</item>
     </string-array>
-	 <string-array name="repeat_monthly_on_day_count_values">
+	<string-array name="repeat_monthly_on_day_count_values">
         <item>prvi ponedeljak</item>
         <item>prvi utorak</item>
         <item>prva srijeda</item>
@@ -528,4 +528,41 @@
         <item>zadnja subota</item>
         <item>zadnja nedjelja</item>
     </string-array>
+    <string-array name="panchang_weeks">
+        <item>Nedjelja</item>
+        <item>Ponedjeljak</item>
+        <item>Utorak</item>
+        <item>Srijeda</item>
+        <item>Četvrtak</item>
+        <item>Petak</item>
+        <item>Subota</item>
+     </string-array>
+     <string-array name="weather_forecasts">
+        <item>Vedro</item>
+        <item>Oblačno</item>
+        <item>Naoblaka</item>
+        <item>Maglovito</item>
+        <item>Jaka kiša</item>
+        <item>Pljusak</item>
+        <item>Pljusak</item>
+        <item>Oluja</item>
+        <item>Kiša</item>
+        <item>Obilna kiša</item>
+        <item>Umjerena kiša</item>
+        <item>Lagana kiša</item>
+        <item>Susnježica</item>
+        <item>Mećava</item>
+        <item>Snijeg</item>
+        <item>Gust snijeg</item>
+        <item>Umjeren snijeg</item>
+        <item>Susnježica</item>
+        <item>Jaka pješčana oluja</item>
+        <item>Pješčana oluja</item>
+        <item>Pijesak</item>
+        <item>Vjetrovito</item>
+        <item>Tuča</item>
+        <item>Prašina</item>
+        <item>Sumaglica</item>
+        <item>Ledena kiša</item>
+     </string-array>
 </resources> 

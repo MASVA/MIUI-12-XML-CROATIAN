@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Plutajući prozori</string>
+  <string name="bottom_bar_smallwindow_text">Otpustite da prikvačite</string>
   <string name="contentDescription">Pomicanje prozora</string>
   <string name="freeform_demo_back">Natrag</string>
   <string name="freeform_demo_final_over">Gotovo</string>
@@ -9,6 +10,10 @@
   <string name="freeform_demo_go_on">Dalje</string>
   <string name="freeform_demo_title_finish">Lijepo!</string>
   <string name="freeform_demo_title_skip">Preskoči</string>
+  <string name="freeform_slide_to_small_freeform">Smanjite plutajući prozor</string>
+  <string name="freeform_slide_to_small_freeform_summary">Pritisnite i držite radnu traku i povucite u kut</string>
+  <string name="fullscreen_slide_to_small_freeform">Smanjite aplikaciju</string>
+  <string name="fullscreen_slide_to_small_freeform_summary">Prijeđite prstom od dna zaslona do gornjeg desnog kuta</string>
   <string name="how_to_close_or_fullscreen_freeform">Zatvaranje plutajućih prozora ili prelazak na način rada preko cijelog zaslona</string>
   <string name="how_to_drop_down_to_fullscreen">Prebaci na način rada preko cijelog zaslona</string>
   <string name="how_to_drop_down_to_fullscreen_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku plutajućeg prozora</string>
