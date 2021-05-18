@@ -1638,6 +1638,8 @@ Uvijek koristi ovaj broj"</string>
   <string name="mobile_network_settings_not_available">Postavke mobilne mreže nisu dostupne za tog korisnika</string>
   <string name="mobile_networks">Postavke mobilne mreže</string>
   <string name="mobile_property">Svojstva mobilne mreže</string>
+  <string name="mobile_special_network_optimization_config_summary">Kad je mreža abnormalna, pokušajte je automatski popraviti</string>
+  <string name="mobile_special_network_optimization_config_title">Posebna optimizacija mreže</string>
   <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>

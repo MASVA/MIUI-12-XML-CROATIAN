@@ -942,7 +942,11 @@ Odmorite se!"</item>
         <item quantity="other">%d aplikacija prazni bateriju</item>
         <item quantity="one">%d aplikacija prazni bateriju</item>
      </plurals>
-	      <plurals name="gb_voice_changer_toast_tips_window_bubble">
+	 <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Razumijem (%ds)</item>
+        <item quantity="one">Razumijem (%ds)</item>
+    </plurals>
+	 <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Isprobajte Voice Changeer odmah 
 da biste dobili %d-dnevno besplatno probno razdoblje"</item>
      </plurals>

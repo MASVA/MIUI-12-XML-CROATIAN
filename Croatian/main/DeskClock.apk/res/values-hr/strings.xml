@@ -401,6 +401,7 @@
   <string name="search_stopwatch_keywords">Štoperica</string>
   <string name="search_timer_keywords">Kronometar</string>
   <string name="search_worldclock_keywords">Vrijeme;Svjetski sat;Sat</string>
+  <string name="select_operation">Odaberi</string>
   <string name="send">Pošalji</string>
   <string name="set_alarm">Postavi alarm</string>
   <string name="set_alarm_choose_ringtone">Odaberite melodiju zvona</string>
@@ -416,6 +417,7 @@
   <string name="shortcut_stop_watch">Pokreni štopericu</string>
   <string name="shut_down_keep_screen">"Zaslon neće ostati uključen"</string>
   <string name="shutdown_alarm_alert_enable_summary">Alarm isključivanja isključit će se najmanje 10 minuta nakon isključivanja uređaja</string>
+  <string name="shutdown_alarm_alert_enable_summary_new">Uključite da se aktiviraju postavljeni alarmi kada je uređaj isključen. Isključit će se samo alarmi postavljeni na najmanje %d min. nakon isključivanja uređaja.</string>
   <string name="shutdown_alarm_alert_title">Isključi alarm</string>
   <string name="shutdown_alarm_disable_summary">"Alarm se neće isključiti nakon što se uređaj isključi"</string>
   <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 10 minuta nakon što isključite uređaj"</string>
@@ -572,6 +574,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="worldclock_resident_city_text_detail">Dvostruki sat je uključen</string>
   <string name="worldclock_search_city">Odaberite grad</string>
   <string name="worldclock_second_time">Vrijeme u %s</string>
+  <string name="worldclock_second_time_desc">"%s: "</string>
   <string name="worldclock_title">Sat</string>
   <string name="worldclock_world_time">Vremenske zone</string>
   <string name="worldcolock_date_display_prefix">Trenutno: </string>

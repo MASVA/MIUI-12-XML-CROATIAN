@@ -1440,6 +1440,7 @@ Pokušajte ponovo za %2$d sek."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">Zaporke se ne podudaraju</string>
   <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
   <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
+  <string name="lock_screen_access_to_5G">Pristup 5G</string>
   <string name="lock_screen_carrier_airplane_mode_on">Zrakoplovni način</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
@@ -1547,6 +1548,7 @@ snimke zaslona"</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Bešumno je uključeno. Obavijesti i mediji su utišani i vibracija je isključena.</string>
   <string name="miui_snooze_always_float">"Ne skrivaj"</string>
+  <string name="miui_screen_rotation_freeze_message">Orijentacija Zaklj. zaslona u pejzažnom načinu</string>
   <string name="miui_snooze_cancel">Odustani</string>
   <string name="miui_snooze_default_time">Na %d min.</string>
   <string name="miui_snooze_to_settings">Postavke</string>

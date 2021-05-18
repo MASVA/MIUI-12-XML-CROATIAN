@@ -678,6 +678,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="applock_header_text_less_than_half">Premalo prostora. Povucite separator malo dalje.</string>
   <string name="applock_lock_all">Zaključaj sve</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
+  <string name="applock_mixtype_hidepwd_icon">Sakrij</string>
+  <string name="applock_mixtype_showpwd_icon">Pokaži</string>
   <string name="applock_no_account_login">"Niste prijavljeni na svoj Mi Račun"</string>
   <string name="applock_not_add_account">Ne sada</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
@@ -1385,6 +1387,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="examination_score_80_100_with_recommend">Ovoliko stavki (%d) može biti optimizirano</string>
   <string name="examination_score_80_60">Neke stavke mogu biti optimizirane</string>
   <string name="examination_score_has_virus">Otkrivene su sumnjive aplikacije.</string>
+  <string name="exception_checking">Provjera…</string>
   <string name="exception_dialog_message">"Ne mogu izračunati statistiku uporabe podataka zbog pogreške. Bez točne statistike aplikacija Sigurnost neće moći pratiti uporabu podataka. Ponovno pokrenuti da vratite tu značajku?"</string>
   <string name="exception_dialog_ok_button">Ponovno pokreni</string>
   <string name="exception_notify_message">"Ne mogu izračunati statističke podatke zbog pogreške. Ponovno pokrenite uređaj radi vraćanja."</string>
@@ -1658,6 +1661,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebooster_lowbattery_notification_summary">Napunite uređaj prije nego što se isključi.</string>
   <string name="gamebooster_lowbattery_notification_title">Baterija je na manje od 5%%</string>
   <string name="gamebooster_main_activity_back">Natrag</string>
+  <string name="gamebooster_network_dialog_cn_message">"Ne možete koristiti Game Turbo kada aplikacija Sigurnost ne smije uspostaviti vezu s internetom i pristupiti vašoj lokaciji. Dopustiti sada?"</string>
   <string name="gamebooster_network_dialog_message">Dopustiti aplikaciji Sigurnost da se poveže s mrežom kako bi se koristile sve značajke Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
@@ -1824,6 +1828,7 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_shoulder_key_settings_guide_tips1">Pomaknite tipke [L] i [D] u bilo koji funkcijski položaj da biste dovršili konfiguraciju</string>
   <string name="gb_shoulder_key_settings_guide_tips2">Upotrijebite tipke za ramena za značajke koje ste im dodijelili tijekom igara</string>
   <string name="gb_sound_audition">Preslušaj</string>
+  <string name="gb_storage_game_dialog_message">"Igre možete automatski pohraniti u Game Turbo. One se neće pojaviti na Poč. zaslonu ako uključite ovu značajku. Uključiti sada?"</string>
   <string name="gb_storage_game_uninstall">Deinstaliraj igre</string>
   <string name="gb_storage_summary">"Na Poč. zaslonu ne prikazuj igre koje su dodane u Game Turbo"</string>
   <string name="gb_storage_title">Ukloni dodane igre s Poč. zaslona</string>
@@ -4719,12 +4724,12 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="timeshow_h">%.1fh</string>
-  <string name="timeshow_h_int">%dh</string>
-  <string name="timeshow_h_m">%1$dh %2$dmin</string>
-  <string name="timeshow_m">%dmin</string>
-  <string name="timeshow_m_s">%1$dmin %2$dsek</string>
-  <string name="timeshow_s">%dsek</string>
-  <string name="tips">Savjeti</string>
+  <string name="timeshow_h_int">%d h</string>
+  <string name="timeshow_h_m">%1$d h %2$d min</string>
+  <string name="timeshow_m">%d min</string>
+  <string name="timeshow_m_s">%1$d min %2$d sek</string>
+  <string name="timeshow_s">%d sek</string>
+  <string name="tips">Pažnja</string>
   <string name="tips_dialog_title">"Ne znate svoje ograničenje"</string>
   <string name="tips_message">"Za prikaz detalja vašeg ograničenja, birajte %2$s (%1$s) (Samo Kina)"</string>
   <string name="tips_of_app_manage">Izbrišite rijetko korištene aplikacije da uštedite prostor za pohranu</string>
@@ -5228,6 +5233,9 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="write_clipboard_tip_title">Spremanje stavki u međuspremnik</string>
   <string name="wrong_password">Netočna zaporka</string>
   <string name="xiaomi_privacy_protection_measures">Mjere zaštite privatnosti</string>
+  <string name="xspace_warning_dialog_button">Razumijem</string>
+  <string name="xspace_warning_dialog_message">Zbog ograničenja uvedenih u Android %d, sve dvojne aplikacije moći će pristupiti samo fotografijama i videozapisima generiranim i spremljenim unutar same odgovarajuće dvojne aplikacije.</string>
+  <string name="xspace_warning_dialog_title">Pažnja</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite još</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obavijesti Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Nema dostupnih mobilnih podataka na vašem Mi Data planu. Prebačeno na plan podataka vašeg operatera."</string>

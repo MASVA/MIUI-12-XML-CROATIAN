@@ -69,6 +69,11 @@
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
+	<string-array name="sign_in_dialog_item">
+        <item>Prijava za protokol oauth imap protokola</item>
+        <item>IMAP (bez kalendara)</item>
+        <item>EXCHANGE (sa kalendarom)</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adresa:</item>
         <item>Tel:</item>
