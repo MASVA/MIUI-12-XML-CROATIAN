@@ -1548,7 +1548,6 @@ snimke zaslona"</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Bešumno je uključeno. Obavijesti i mediji su utišani i vibracija je isključena.</string>
   <string name="miui_snooze_always_float">"Ne skrivaj"</string>
-  <string name="miui_screen_rotation_freeze_message">Orijentacija Zaklj. zaslona u pejzažnom načinu</string>
   <string name="miui_snooze_cancel">Odustani</string>
   <string name="miui_snooze_default_time">Na %d min.</string>
   <string name="miui_snooze_to_settings">Postavke</string>
