@@ -28,6 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="app_name">Snimka zaslona</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -137,4 +138,11 @@ snimke zaslona"</string>
   <string name="wednesday_shortest">S</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
+  <string name="screenshot_failed_to_save_title">"Ne mogu spremiti. Nema dovoljno prostora za pohranu."</string>
+  <string name="screenshot_feedback_txt">Povratne inf.</string>
+  <string name="screenshot_insert_failed">"Nije moguće učitati snimku zaslona. Snimite novu ili pogledajte sliku u Galeriji."</string>
+  <string name="send">Pošalji</string>
 </resources>

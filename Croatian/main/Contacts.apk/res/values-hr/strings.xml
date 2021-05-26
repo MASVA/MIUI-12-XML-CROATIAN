@@ -1152,6 +1152,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="nickname_picker_nickname_column">"Naslov"</string>
   <string name="night">PM</string>
   <string name="noAccounts">Za stvaranje grupa potreban vam je račun</string>
+  <string name="no_contact_selected">Odaberite kontakt za prikaz pojedinosti</string>
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Vrati podatke o kontaktu sa Mi Računa</string>
   <string name="noContacts">Nema kontakata</string>

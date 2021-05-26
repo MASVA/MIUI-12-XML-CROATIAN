@@ -46,6 +46,7 @@
   <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
   <string name="app_name">Sig. kopija</string>
   <string name="apps_and_data_item_desc">Aplik. i podaci</string>
+  <string name="apps_item_desc">Aplikacija</string>
   <string name="auto_backup">Zakažite rutinsku Sig. kopiju</string>
   <string name="auto_backup_all_user_apps">Sve aplikacije</string>
   <string name="auto_backup_choose">Stavke Sig. kopije</string>
@@ -415,6 +416,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="new_pc_backup_summary2_pad">Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
   <string name="new_pc_backup_summary4">Napomena: možete kopirati i fotografije i videozapise iz DCIM.</string>
   <string name="new_pc_restore_content1">%d. Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
+  <string name="new_pc_restore_content1_pad">%d. Povežite svoj mobilni uređaj s računalom putem USB kabela.</string>
   <string name="new_pc_restore_content2">%d. Kopirajte Sig. kopiju s računala u MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content2_pad">%d. Kopirajte Sig. kopiju s računala na MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Otvorite \"%2$s\" i odaberite stavke za vraćanje.</string>

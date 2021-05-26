@@ -78,6 +78,7 @@
   <string name="error_receive_user_cancel">Prijenos je otkazan</string>
   <string name="error_receive_user_interrupted">Druga je osoba otkazala prijenos</string>
   <string name="error_refuse_receive">Prijenos je otkazan</string>
+  <string name="error_remote_ap_working">Zamolite drugu osobu da isključi prijenosni hotspot</string>
   <string name="error_remote_busy">Izgleda da je drugi uređaj zauzet. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
   <string name="error_remote_mirror_working">"Drugi uređaj ne može prihvatiti stavke tijekom dijeljenja zaslona"</string>
   <string name="error_self_busy">Uređaj je zauzet. Pričekajte minutu ili dvije i pokušajte ponovo.</string>

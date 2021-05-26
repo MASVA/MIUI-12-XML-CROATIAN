@@ -39,10 +39,12 @@
   <string name="back_up_task_in_process">Izrada u tijeku…</string>
   <string name="back_up_task_unfinished">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backing_up_to_micloud">Izrada u tijeku…</string>
+  <string name="backup_action_access_permission">Postavke</string>
   <string name="backup_action_buy_cloud_space">Nabavite još prostora za pohranu</string>
   <string name="backup_action_check_network">Provjerite mrežne postavke</string>
   <string name="backup_action_clean_disk_space">Oslobodite prostor</string>
   <string name="backup_action_retry_now">Pokušaj ponovno</string>
+  <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
   <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je Wi-Fi."</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Mi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
@@ -59,6 +61,8 @@
   <string name="backup_success">Sig. kopija uspješno izrađena</string>
   <string name="backup_successfully">Sig. kopija uspješno izrađena</string>
   <string name="backup_to_cloud">Sig. kopija aplikacija</string>
+  <string name="backup_warning_reason_app_usage_denied">"Nije moguće sinkronizirati podatke.
+Potrebna su dopuštenja."</string>
   <string name="backup_warning_reason_cloud_space_not_enough">"Ne mogu napraviti Sig. kopiju"</string>
   <string name="backup_warning_reason_disk_space_not_enough">"Nema dovoljno prostora.
 Ne mogu napraviti Sig. kopiju"</string>
@@ -168,9 +172,12 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="desktop_waiting">Čekanje</string>
   <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
+  <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za sigurnosnu kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="dialog_backup_failed">"Nije moguće napraviti Sig. kopiju"</string>
   <string name="dialog_btn_cancel_backup">Odustani</string>
+  <string name="dialog_btn_confirm2">Razumijem</string>
+  <string name="dialog_btn_enter">Postavke</string>
   <string name="dialog_btn_next">Dalje</string>
   <string name="dialog_btn_overwrite_backup">Prepiši</string>
   <string name="dialog_btn_restore_skip">Vrati kasnije</string>
@@ -183,6 +190,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Mi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
   <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
   <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
+  <string name="dialog_need_permission">Potrebna su dopuštenja</string>
   <string name="dialog_title_require_wlan">Poveži se na Wi-Fi</string>
   <string name="dialog_title_require_wlan_china">Poveži se na Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>

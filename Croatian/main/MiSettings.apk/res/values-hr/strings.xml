@@ -57,6 +57,8 @@
   <string name="area_australia">Australija</string>
   <string name="atarctic_shag">Antarktički čupavac</string>
   <string name="australia_introduction">Australijski kontinent utočište je za rijetke endemske vrste.</string>
+  <string name="authorization_btn_text">Start</string>
+  <string name="authorization_tips">Potrebna su dopuštenja</string>
   <string name="baboon_info">Babun maslina živi u skupinama s razvijenim socijalnim rangom ovisno o dominaciji svakog pojedinca.</string>
   <string name="back">Natrag</string>
   <string name="bear_info">Medvjedi su najveće kopnene zvijeri. Žive u hladnim krajevima i poznati su po svom izoštrenom njuhu.</string>
@@ -139,6 +141,8 @@
   <string name="dc_light_hint_other">DC zatamnjenje može utjecati na brzinu osvježavanja i način prikazivanja pojedinih stavki.</string>
   <string name="dc_lignt_enable_hint">Način rada protiv treperenja postaviće brzinu osvježavanja zaslona na 60 Hz. Promjeniti na način rada protiv treperenja?</string>
   <string name="delete_first_to_add_animal">Za dodavanje nove stavke, prvo izbrišite jednu.</string>
+  <string name="devices_type_pad">Tablet</string>
+  <string name="devices_type_phone">Teleon</string>
   <string name="display_description">Veće ikone, veliki tekst, manji vizualni neredi</string>
   <string name="display_title">Veće stavke</string>
   <string name="dynamic_ringtone_desc">"Istražili smo različite ekosustave i stvorili njihove različite zvukove. Započnite s nama istraživati zvukove prirode!"</string>

@@ -5,8 +5,8 @@
         <item quantity="one">Premalo prostora za pohranu (preostalo manje %d min.)</item>
      </plurals>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">Preuzeto snimaka: %d</item>
-        <item quantity="one">%d snimka preuzeta</item>
+        <item quantity="other">Preuzeto zapisa: %d</item>
+        <item quantity="one">%d zapis preuzet</item>
     </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d stavki</item>
@@ -17,28 +17,35 @@
         <item quantity="one">"Ne mogu vratiti %d stavku zbog nepoznate pogreške."</item>
     </plurals>
 	<plurals name="search_alll_records_hint">
-        <item quantity="other">Traži među %d snimaka</item>
-        <item quantity="one">Traži među %d snimke</item>
+        <item quantity="other">%d zapisa</item>
+        <item quantity="one">%d zapisa</item>
     </plurals>
 	<plurals name="search_app_records_hint">
-        <item quantity="other">Traži među %d snimaka</item>
-        <item quantity="one">Traži među %d snimke</item>
+        <item quantity="other">%d zapisa</item>
+        <item quantity="one">%d zapisa</item>
     </plurals>
     <plurals name="search_call_records_hint">
-        <item quantity="other">Traži među %d snimaka poziva</item>
-        <item quantity="one">Traži među %d snimke poziva</item>
+        <item quantity="other">%d zapisa poziva</item>
+        <item quantity="one">%d zapisa poziva</item>
     </plurals>
+	<plurals name="search_fm_records_hint">
+        <item quantity="other">%d radio zapisa</item>
+        <item quantity="one">%d radio zapisa</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d audio zapisa</item>
+        <item quantity="one">%d audio zapisa</item>
 	<plurals name="search_result">
-        <item quantity="other">Pronađeno snimaka: %d</item>
-        <item quantity="one">Pronađena %d snimka</item>
+        <item quantity="other">Pronađeno zapisa: %d</item>
+        <item quantity="one">Pronađen %d zapis</item>
     </plurals>
 	<plurals name="time_left_for_clear_file">
         <item quantity="other">%d dana preostalo</item>
         <item quantity="one">%d dan preostao</item>
     </plurals>
     <plurals name="trash_box_delete_items">
-        <item quantity="other">Izbrisati trajno %d odabranih snimki?</item>
-        <item quantity="one">Izbrisati trajno %d odabranu snimku?</item>
+        <item quantity="other">Izbrisati trajno %d odabranih zapisa?</item>
+        <item quantity="one">Izbrisati trajno %d odabranu zapis?</item>
     </plurals>
     <plurals name="trash_box_tip">
         <item quantity="other">Izbrisane stavke mogu se pohraniti u smeće do %d dana</item>
@@ -49,20 +56,20 @@
         <item quantity="one">%d nije sinkr.</item>
     </plurals>
 	<plurals name="btn_clear_records">
-         <item quantity="other">Izbriši snimke: %d</item>
-         <item quantity="one">Izbriši %d snimku</item>
+         <item quantity="other">Izbriši zapise: %d</item>
+         <item quantity="one">Izbriši %d zapis</item>
      </plurals>
      <plurals name="choose_call_records_count">
          <item quantity="other">%d stavki</item>
          <item quantity="one">%d stavka</item>
      </plurals>
 	 <plurals name="confirm_delete_cloud_records">
-        <item quantity="other">Izbrisati %d snimke sa Mi Clouda?</item>
-        <item quantity="one">Izbrisati %d snimku sa Mi Clouda?</item>
+        <item quantity="other">Izbrisati %d zapisa sa Mi Clouda?</item>
+        <item quantity="one">Izbrisati %d zapis sa Mi Clouda?</item>
     </plurals>
     <plurals name="confirm_delete_records">
-        <item quantity="other">Izbrisati snimke: %d?</item>
-        <item quantity="one">Izbrisati %d snimku?</item>
+        <item quantity="other">Izbrisati zapisa: %d?</item>
+        <item quantity="one">Izbrisati %d zapis?</item>
     </plurals>
 	<plurals name="a_hour_ago">
         <item quantity="other">prije 1 sat</item>

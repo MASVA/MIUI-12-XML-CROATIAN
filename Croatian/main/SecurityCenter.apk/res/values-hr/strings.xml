@@ -226,7 +226,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="antivirus_privacy_dialog_cloudscan_description">"Da bismo učinkovitije otkrili i neutralizirali viruse, prenijet ćemo imena i svojstva paketa aplikacija kako bismo ih skenirali pomoću cloud mehanizma."</string>
   <string name="antivirus_privacy_dialog_ok">U redu</string>
   <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Ovu značajku pokreće antivirusni sustav treće strane. Da biste saznali više, pročitajte &amp;lt;a href=\"%1$s\"&amp;gt;Licencni ugovor&amp;lt;/a&amp;gt; kojeg pruža treća strana.&lt;/Data&gt;</string>
-  <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data&gt;"Kada izvr&amp;#353;avate sigurnosno skeniranje, model va&amp;#353;eg ure&amp;#273;aja i rezultati skeniranja prenijet &amp;#263;e se na %1$s poslu&amp;#382;itelje i koriste se u skladu s odgovaraju&amp;#263;im &amp;lt;a href=\"%2$s\"&amp;gt;Uvjeti i odredbe&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pro&amp;#269;itajte i pristanite na %3$s uvjete i odredbe prije izvo&amp;#273;enja sigurnosnih skeniranja.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;If you don't agree to upload data to %4$s servers, you can still use the virus definitions stored locally on your device."&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data&gt;"Kada izvr&amp;#353;avate sigurnosno skeniranje, model va&amp;#353;eg ure&amp;#273;aja i rezultati skeniranja prenijet &amp;#263;e se na %1$s poslu&amp;#382;itelje i koriste se u skladu s odgovaraju&amp;#263;im &amp;lt;a href=\"%2$s\"&amp;gt;Uvjeti i odredbe&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pročitajte i pristanite na %3$s uvjete i odredbe prije izvo&amp;#273;enja sigurnosnih skeniranja.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;If you don't agree to upload data to %4$s servers, you can still use the virus definitions stored locally on your device."&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o Privatnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o Privatnosti</string>
   <string name="antivirus_privacy_dialog_title_kddi">Uvjeti i odredbe</string>
@@ -410,6 +410,11 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_warning_location_title">%1s pristupa vašoj lokaciji</string>
   <string name="app_bg_restrict_dialog_message">Ograničavanje pozadinske mrežne veze može spriječiti normalno funkcioniranje aplikacije. Na primjer, možda više neće moći primati poruke niti ažurirati sadržaj.</string>
   <string name="app_check_no_issue">Izgleda da nema problema s baterijom. Super!</string>
+  <string name="app_classification_activity_label">Sve aplikacije</string>
+  <string name="app_classification_recent_add">Nedavno</string>
+  <string name="app_classification_search_all">Sve</string>
+  <string name="app_classification_search_hint">Potražite aplikacije</string>
+  <string name="app_classification_suggest_app">Prijedlozi</string>
   <string name="app_check_optimize_title">Optimiziraj pozadinske aktivnosti</string>
   <string name="app_check_reason_background_cpu">Pozadinska aktivnost CPU-a</string>
   <string name="app_check_reason_background_gps">GPS radi u pozadini</string>
@@ -623,6 +628,18 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_permission_use_neccesary">Potrebna dopuštenja</string>
   <string name="app_permission_use_no_neccesary">Izborna dopuštenja</string>
   <string name="app_permission_use_title">Dopuštenja</string>
+  <string name="app_predict_black_list_empty">Ovdje još nema stavki</string>
+  <string name="app_predict_black_list_setting_title">Popis blokiranih prijedloga aplikacija</string>
+  <string name="app_predict_folder_name">Traži</string>
+  <string name="app_predict_loading_text">Samo trenutak…</string>
+  <string name="app_predict_search_title">Sve aplikacije</string>
+  <string name="app_predict_setting_black_list">Popis blokiranih</string>
+  <string name="app_predict_setting_black_list_message">"Blokirajte aplikacije koje ne želite vidjeti među prijedlozima"</string>
+  <string name="app_predict_setting_privacy">Pravila o privatnosti</string>
+  <string name="app_predict_setting_switch_message">Primajte prijedloge aplikacija na temelju vaših navika korištenja</string>
+  <string name="app_predict_setting_switch_title">Prilagodite prijedloge</string>
+  <string name="app_predict_setting_title">Prijedlozi aplikacija</string>
+  <string name="app_predict_widget_name_2x4">Prijedlozi aplikacija</string>
   <string name="app_running_tip_dialog_negative">Odustani</string>
   <string name="app_running_tip_dialog_positive">U redu</string>
   <string name="app_running_tip_dialog_text">Zatvori %1$s da se spriječi da se pokreće u pozadini. To će ubrzati vaš uređaj i smanjiti potrošnju energije.</string>
@@ -1150,6 +1167,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="daily_sim_over_limit_notify_title">"Već ste iskoristili %s dnevnog ograničenja podataka."</string>
   <string name="data_booster_desc">Deaktivirajte drugi SIM utor da zadržite vezu stabilnom</string>
   <string name="data_booster_title">Stabiliziraj podatkovnu vezu</string>
+  <string name="data_local_processing_and_storage">Podaci pohranjeni i obrađeni lokalno</string>
+  <string name="data_local_processing_and_storage_detail">"Vaš će se unos pohraniti i obraditi na ovom uređaju i neće se prenijeti u cloud."</string>
   <string name="data_network_blocked_notification_title">Nema povezivanja s internetom</string>
   <string name="data_usage_correction_timeout_body">Dodirnite za ručno ažuriranje.</string>
   <string name="data_usage_correction_timeout_title">Isteklo je vrijeme sinkronizacije uporabe podataka</string>
@@ -1275,19 +1294,21 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
   <string name="dialog_roaming_warning_message">Nakon uključivanja međunarodnog roaminga podataka, operater će vam naplatiti naknadu. Uključiti svejedno?</string>
   <string name="dialog_roaming_warning_ok">Uključi</string>
-  <string name="dialog_skt_roaming_warning_cancel">Ne slažem se</string>
+  <string name="dialog_skt_roaming_warning_cancel">Ne prihvaćam</string>
   <string name="dialog_skt_roaming_warning_message">"Pročitajte i prihvatite dolje navedene uvjete za korištenje podatkovnog roaminga. Mogu se naplaćivati troškovi međunarodnog podatkovnog roaminga. Bez plana podatkovnog roaminga mogu se primijeniti značajni troškovi za aplikacije koje se automatski ažuriraju, poput aplikacija povezanih s društvenim mrežama, e-poštom i vremenskim prilikama.
- * Kada se ne složite s podatkovnim roamingom, podatkovni roaming bit će onemogućen.
+ * Kada prihvatite podatkovni roaming, podatkovni roaming bit će onemogućen.
  * HD Voice koristi se kao zadani na podržanim mrežama.
  * 5G podatkovni roaming dostupan je samo u našim partnerskim mrežama.
 "</string>
-  <string name="dialog_skt_roaming_warning_ok">Slažem se</string>
+  <string name="dialog_skt_roaming_warning_ok">Prihvaćam</string>
   <string name="dialog_skt_roaming_warning_title">Ugovor o roamingu podataka</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
-  <string name="dialog_title_stop_paysafety_scan">Stop</string>
+  <string name="dialog_title_stop_paysafety_scan">Zaustavi</string>
   <string name="dialog_title_stop_virus_scan">Zaustavi sigurnosno skeniranje</string>
   <string name="disable_air_mode">Isključite najprije Zrakoplovni način</string>
+  <string name="disable_sensitive_permissions">Ograničena su osjetljiva dopuštenja</string>
+  <string name="disable_sensitive_permissions_detail">"Vaša tipkovnica neće moći koristiti dopuštenja povezana s privatnošću (npr. Pristup kontaktima ili podacima o lokaciji)."</string>
   <string name="dlg_add_blacklist">Blokirati ovaj broj?</string>
   <string name="dlg_add_blacklist_title">Dodaj na listu blokiranih</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s i %2$s drugih kontakata su već na popisu iznimaka.</string>
@@ -1395,13 +1416,14 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exit">Izlaz</string>
   <string name="exit_dialog_exit">Izlaz</string>
   <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
-  <string name="exit_dialog_garbage_clean_message_new">&lt;Data&gt;&amp;#268;ista&amp;#269; mo&amp;#382;e osloboditi &amp;lt;font color=#0099ff&amp;gt;%s&amp;lt;/font&amp;gt; prostora za pohranu. O&amp;#269;istiti sada?&lt;/Data&gt;</string>
+  <string name="exit_dialog_garbage_clean_message_new">&lt;Data&gt;&amp;Čistač može osloboditi &amp;lt;font color=#0099ff&amp;gt;%s&amp;lt;/font&amp;gt; prostora za pohranu. Očistiti sada?&lt;/Data&gt;</string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
   <string name="exit_dialog_garbage_clean_title">Oslobodite prostor za pohranu</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zatvori</string>
-  <string name="exit_dialog_release_memory_title">&lt;Data&gt;Ubrzajte svoj ure&amp;#273;aj za &amp;lt;font color=#0099ff&amp;gt;%d%%&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="exit_dialog_release_memory_title">&lt;Data&gt;Ubrzajte svoj uređaj za &amp;lt;font color=#0099ff&amp;gt;%d%%&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
+  <string name="exit_dialog_release_storage_message_new">Više od %s prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
   <string name="exit_dialog_release_storage_title">Oslobodi prostor</string>
   <string name="exit_dialog_scan_message">"Rezultat performansi vašeg uređaja niži je od 75 bodova. Optimizirati sada?"</string>
@@ -2026,6 +2048,7 @@ vašeg igranja"</string>
   <string name="image_protect_recover_success">Uspješno vraćeno</string>
   <string name="image_protect_tips_title">Brisanje fotografija</string>
   <string name="image_protect_total_activity_label">Primite obavijesti o izbrisanim fotografijama</string>
+  <string name="ime_security_warning">%1$s može snimati sve što upisujete, uključujući zaporke i druge osjetljive podatke. Koristiti svejedno?</string>
   <string name="in_delete">Brisanje…</string>
   <string name="in_recover">Vraćanje…</string>
   <string name="info_and_call">Pozivi i poruke</string>
@@ -2366,6 +2389,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="menu_text_power_manager">Baterija</string>
   <string name="menu_wh_remove">Ukloni iz iznimaka</string>
   <string name="menu_white">Dodaj u iznimke</string>
+  <string name="mi_ime_not_used">Koristite tipkovnicu koju je odobrio Xiaomi</string>
   <string name="mi_service_app_detail">Detalji usluge uporabe podataka</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirni detalji</string>
@@ -2488,6 +2512,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="network_assistant_privacy">Da bismo pratili korištenje podataka po aplikacijama, prikupljamo podatke kao što su nazivi paketa, upotreba Wi-Fi-ja i mobilnih podataka, maksimalno/minimalno korištenje podataka te kada su uključeni Wi-Fi i mobilni podaci. Ti se podaci pohranjuju lokalno na vašem uređaju.</string>
   <string name="network_assistant_upgraded_body">Dodirnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Ažurirano</string>
+  <string name="network_assistant_privacy_title">Pošaljite podatke o upotrebi aplikacije i mreže i dijagnostičke podatke</string>
   <string name="network_blocked_connected_open_wifi">Povezivanje s javnom mrežom</string>
   <string name="network_blocked_notification_summary">Testiranje mreže</string>
   <string name="network_blocked_switch_wifi">Promijeni mrežu</string>
@@ -2677,6 +2702,8 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="numeric_settings_help_how_to_record">Kako postaviti PIN</string>
   <string name="oaid_reset_content_tip">Ako sada isključite virtualni ID, neke aplikacije mogu prestati raditi ispravno, dio vaših aplikacija može se izgubiti ili postati neupotrebljiv.</string>
   <string name="oaid_reset_final_tip">Isključiti svejedno virtualni ID?</string>
+  <string name="offline_voice_input">Izvanmrežni glasovni unos</string>
+  <string name="offline_voice_input_detail">"Internet vam neće trebati za glasovni unos."</string>
   <string name="ok">U redu</string>
   <string name="ok_button">U redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija nije kompatibilna s najnovijim zahtjevima dopuštenja Androida. Odbijena dopuštenja mogu utjecati na način na koji ova aplikacija radi."</string>
@@ -3426,6 +3453,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_optional_protection_function">Neobvezne mjere zaštite</string>
   <string name="pp_permission_action_virtual_detail">Dodijelite dopuštenja, ali aplikacijama dajte prazne datoteke umjesto osobnih podataka</string>
   <string name="pp_permission_settings">Dopuštenja</string>
+  <string name="pp_privacy_input_tips">Zaštitite tipkovnicu</string>
   <string name="pp_privacy_lab_blur_location">Približna lokacija</string>
   <string name="pp_privacy_lab_blur_location_summary">Depersonalizirajte podatke o svojoj lokaciji omogućavajući aplikacijama pristup vašoj približnoj lokaciji</string>
   <string name="pp_privacy_lab_clipboard">Zaštitite međuspremnik</string>
@@ -3649,8 +3677,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_dialog_camera_message">"Da bi zaštitio vašu privatnost, MIUI ne dopušta aplikacijama da koriste vašu kameru u pozadini."</string>
   <string name="privacy_dialog_camera_title">Ograniči korištenje kamere u pozadini</string>
   <string name="privacy_dialog_content_part1">Dobrodošli u Sigurnost! Ova aplikacija provjerava ima li na uređaju otpada i virusa, kao i omogućuje upravljanje aplikacijama, kontrolu upotrebe mobilnih podataka, blokiranje poziva i poruka i još mnogo toga.</string>
-  <string name="privacy_dialog_content_part2">&lt;Data&gt;Sigurnost mora prikupiti potrebne osobne podatke kako bi vam pru&amp;#382;ila svoje usluge i mogla pobolj&amp;#353;ati svoje zna&amp;#269;ajke. Mo&amp;#382;ete nau&amp;#269;iti kako postupamo s podacima koje prikupljamo u svojim &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. U bilo kojem trenutku mo&amp;#382;ete povu&amp;#263;i svoj pristanak na Politiku privatnosti sigurnosti u Postavkama.&lt;/Data&gt;</string>
-  <string name="privacy_dialog_content_part3">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja aplikacije. Ako se ne sla&amp;#382;ete s kori&amp;#353;tenjem gore spomenutih usluga, ne&amp;#263;ete mo&amp;#263;i koristiti neke zna&amp;#269;ajke ove aplikacije; me&amp;#273;utim, osnovna funkcionalnost i dalje &amp;#263;e vam biti dostupna."&lt;/Data&gt;</string>
+  <string name="privacy_dialog_content_part2">&lt;Data&gt;Sigurnost mora prikupiti potrebne osobne podatke kako bi vam pru&amp;#382;ila svoje usluge i mogla pobolj&amp;#353;ati svoje značajke. Mo&amp;#382;ete naučiti kako postupamo s podacima koje prikupljamo u svojim &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. U bilo kojem trenutku mo&amp;#382;ete povu&amp;#263;i svoj pristanak na Politiku privatnosti sigurnosti u Postavkama.&lt;/Data&gt;</string>
+  <string name="privacy_dialog_content_part3">&lt;Data&gt;"Pročitajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja aplikacije. Ako se ne sla&amp;#382;ete s kori&amp;#353;tenjem gore spomenutih usluga, ne&amp;#263;ete mo&amp;#263;i koristiti neke značajke ove aplikacije; me&amp;#273;utim, osnovna funkcionalnost i dalje &amp;#263;e vam biti dostupna."&lt;/Data&gt;</string>
   <string name="privacy_dialog_danger_mission_message">Android ima više dopuštenja visokog rizika (npr. Dopuštenje za slanje push obavijesti). Da bismo zaštitili vašu privatnost, MIUI će vas pitati dopuštate li takvo ponašanje i pružati mogućnosti ograničenja.</string>
   <string name="privacy_dialog_danger_mission_title">Dopuštenja visokog rizika</string>
   <string name="privacy_dialog_feedback">Povratna inf.</string>
@@ -3670,6 +3698,13 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_guide_permission_use_text">MIUI će brojati i prikazati koliko puta aplikacija koristi osjetljiva dopuštenja, uključujući lokaciju, kontakt, povijest poziva i pristup pohrani, kao i snimanje zvuka. Možete saznati koliko puta svaka aplikacija upotrebljava ta dopuštenja i odrediti trebate li prilagoditi postavke dopuštenja.</string>
   <string name="privacy_hide_other_permissions">Sakrij druga dopuštenja</string>
   <string name="privacy_informed_title">Statistika</string>
+  <string name="privacy_input_icon_layout_status_bg_content_enable">Zaštićeno</string>
+  <string name="privacy_input_mode">Siguran unos</string>
+  <string name="privacy_input_mode_img_detail">Radi s tipkovnicama koje je odobrio Xiaomi</string>
+  <string name="privacy_input_mode_version_supported">Ažurirajte tipkovnicu da biste mogli koristiti ovu značajku</string>
+  <string name="privacy_input_model_guide_choose">Preuzmite izvanmrežni glasovni unos</string>
+  <string name="privacy_input_model_guide_text">"Ova značajka štiti vašu privatnost dok unosite tekst. Kad je ova značajka uključena, neke mrežne funkcije (npr. Opcije personalizacije, emojiji, prediktivno tipkanje) neće biti dostupne."</string>
+  <string name="privacy_input_model_tips">"Siguran unos je uključen. Vaša tipkovnica ne može prikazati skočne prozore niti pristupiti kontaktima, podacima o lokaciji i povijesti poziva."</string>
   <string name="privacy_location_info_summary">Upravljajte pristupom svojoj lokaciji</string>
   <string name="privacy_location_info_title">Podaci o lokaciji</string>
   <string name="privacy_look_all_permission_status">Sva dopuštenja</string>
@@ -3814,6 +3849,10 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="promotion">Oglas</string>
   <string name="prompt_all">Pitaj za sve</string>
   <string name="prompt_input_time_illegal">"Ne mogu postaviti ovo vrijeme, promijenite ga i pokušajte ponovno"</string>
+  <string name="protect_data_security">Izolirani podaci</string>
+  <string name="protect_data_security_detail">Podaci koje generira tipkovnica izolirat će i druge aplikacije će im biti nedostupne.</string>
+  <string name="protect_screen_information">Zaslon je zaštićen</string>
+  <string name="protect_screen_information_detail">"Nećete moći napraviti snimku zaslona ili snimiti zaslon dok tipkate."</string>
   <string name="protection_category_dangerous_title">Rizici (%d)</string>
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
@@ -3923,6 +3962,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="risk_app_install_history">Povijest autorizacije</string>
   <string name="risk_app_install_item_des">Verzija: %1$s</string>
   <string name="risk_app_install_manager">Aplikacije s mogućim rizicima</string>
+  <string name="risk_tip">Otkriven je rizik</string>
   <string name="risk_list_header_title">Otkriveno (%d) sumnjivih aplikacija</string>
   <string name="roaming_allow_network_dialog_title">Želite li dopustiti roaming podataka?</string>
   <string name="roaming_limit_dialog_message">Postignuto dnevno ograničenje pod. u roamingu.</string>
@@ -4029,6 +4069,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="set_immediately">Postavi</string>
   <string name="set_location">Postavite lokaciju</string>
   <string name="set_mixed_password_name">Postavite zaporku</string>
+  <string name="set_now">Postavke</string>
   <string name="set_numeric_password_name">Postavite PIN</string>
   <string name="set_package_tips">"Poslat ćemo besplatni SMS vašem mobilnom operateru kako bismo provjerili vaš podatkovni paket. Podaci koje navedete šifrirat će se i prenijeti na naše poslužitelje kako bi se sastavila ova poruka."</string>
   <string name="set_package_tips_detail">"Podaci preneseni na poslužitelje Xiaomi sadržavat će podatke o vašem mobilnom operateru, kao i vaš broj telefona, IMEI i Mi Račun."</string>
@@ -4370,6 +4411,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="status_bar_network_flow_setup_data_plan">"   Postavi podatkovni plan &gt;"</string>
   <string name="status_bar_network_flow_today">Danas: %1$s</string>
   <string name="still_retain_btn">Zadrži</string>
+  <string name="stop_collecting_data">"Tipkovnica neće naučiti vaše navike"</string>
+  <string name="stop_collecting_data_detail">"Tipkovnica neće prikupljati podatke za poboljšanje prediktivnog tipkanja i predlaganje čestih fraza na temelju vaših navika."</string>
   <string name="stop_app_button">Zaustavi</string>
   <string name="stop_milink_connect">Emitiranje je zaustavljeno</string>
   <string name="storage_activity_title">Prostor za pohranu</string>
@@ -5050,7 +5093,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="usbsharenet_exception_title">Testiraj povezivanje putem USB-a</string>
   <string name="usbsharenet_pc_exception_summary">"Ne mogu se povezati na internet putem dijeljene veze. 
   Provjerite internetsku vezu vašeg računala."</string>
-  <string name="use_immediately">Upotrijebi</string>
+  <string name="use_immediately">Koristi</string>
+  <string name="use_other_ime_warn">Tipkovnice trećih strana mogu snimati sve što upisujete, uključujući zaporke i druge osjetljive podatke.</string>
   <string name="user_define_title">Dodaj pravila</string>
   <string name="user_guide">Prijeđite prstom prema gore da biste otkrili nove igre</string>
   <string name="user_guide_title">Joystick Picks</string>
@@ -5071,6 +5115,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_quick_func_screening">Emitiraj</string>
   <string name="vb_settings">Postavke</string>
   <string name="vb_ve_settings_display_style_tips">*Ovi efekti primjenjuju se na cijeli zaslon</string>
+  <string name="vb_ve_settings_display_style_tips_new">*Efekti će se primijeniti samo na područje reprodukcije videozapisa</string>
   <string name="vb_ve_settings_pic_border_stronger">Poboljšane konture</string>
   <string name="vb_ve_settings_picture_stronger">Poboljšane animacije</string>
   <string name="vb_video_effects_display_style">Stil</string>
@@ -5196,7 +5241,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="warningcenter_policeassist_open_btn">Uključi</string>
   <string name="warningcenter_policeassist_open_content">"Pošaljite podatke o lokaciji policiji automatski koristeći SMS ili mobilne podatke dok zovete 110, 120, 119, 122 ili 12122."</string>
   <string name="warningcenter_policeassist_open_title">Podijelite svoju lokaciju s policijom tijekom hitnih poziva</string>
-  <string name="warningcenter_policeassist_privacy">&lt;Data&gt;"Pro&amp;#269;itao sam i pristao na &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="warningcenter_policeassist_privacy">&lt;Data&gt;"Pročitao sam i pristao na &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="warningcenter_policeassist_title">Lokacija za hitne slučajeve</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">MIUI Centar za upozoravanje</string>

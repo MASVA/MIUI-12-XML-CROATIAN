@@ -604,11 +604,15 @@ skenirane dokumente automatski"</string>
   <string name="dual_video_record_remote">Snimanje s dva telefona</string>
   <string name="dual_video_record_standalone">Odvojeno</string>
   <string name="dual_video_user_guide_main_content">Da biste stvorili videozapise s više kamera, odaberite dvije kamere na uređaju i snimajte istovremeno. Snimke se mogu pohraniti odvojeno ili kombinirati u podijeljenom prikazu ili videozapisu slika u slici.</string>
+  <string name="dual_video_user_guide_main_content_new">"Multicam videozapisi snimaju se istovremeno s više kamera.
+Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i stvaranje video zapisa s više kamera odabirom \"Kombinirano\"."</string>
   <string name="dual_video_user_guide_main_title">Videozapis s više kamera</string>
   <string name="dual_video_user_guide_merge_content">Snimajte istovremeno s dvije kamere i kombinirajte snimke u podijeljenom prikazu ili videozapisu slika u slici.</string>
-  <string name="dual_video_user_guide_remote_content">"Snimanje s dva uređaja omogućuje kombiniranje feedova s dva različita uređaja u jedan videozapis. Na ovom ćete uređaju moći pregledati feedove i konačni videozapis. Imajte na umu da će ovaj uređaj snimati samo zvuk."</string>
+  <string name="dual_video_user_guide_merge_content_new">Dvije snimke mogu se kombinirati u podijeljenom prikazu ili videozapisu slika u slici.</string>
+  <string name="dual_video_user_guide_remote_content">"Kombinirajte feedove s dva različita uređaja u jedan videozapis. Na ovom ćete uređaju moći pregledati feedove i konačni videozapis. Imajte na umu da će ovaj uređaj snimati samo zvuk."</string>
   <string name="dual_video_user_guide_remote_p">Telefon %d</string>
   <string name="dual_video_user_guide_standalone_content">Snimajte istovremeno s dvije kamere i obje snimke spremite kao zasebne videozapise.</string>
+  <string name="dual_video_user_guide_standalone_content_new">Istovremeno snimljeni videozapisi također se mogu odvojiti i spremiti kao dvije datoteke.</string>
   <string name="duration">Trajanje</string>
   <string name="edit">Uredi</string>
   <string name="edit_blusher">Ruž</string>
@@ -848,6 +852,7 @@ Ispišite kopiju bežično na papir A4."</string>
   <string name="live_sticker_updating">Ažuriranje…</string>
   <string name="live_workspace_title">Skice</string>
   <string name="live_workspace_title_edit">Odaberite stavke za brisanje</string>
+  <string name="location_access_allow">Dopuštam</string>
   <string name="loading">Učitavanje…</string>
   <string name="loading_video">Učitavanje videozapisa…</string>
   <string name="location">Lokacija</string>
@@ -1092,8 +1097,8 @@ izgledaju veće na fotografijama"</string>
   <string name="network_access_user_notice_title">Povezivanje na internet</string>
   <string name="network_connection_failed">"Ne mogu se povezati"</string>
   <string name="network_connection_ongoing">Povezivanje…</string>
-  <string name="network_connection_prerequisites">Uključite Bluetooth i Wi-Fi da biste mogli upotrebljavati snimanje s dva uređaja.</string>
-  <string name="network_connection_prerequisites_china">Uključite Bluetooth i Wi-Fi da biste mogli upotrebljavati snimanje s dva uređaja.</string>
+  <string name="network_connection_prerequisites">Uključite Bluetooth i Wi-Fi u Centru za kontrolu da biste mogli upotrebljavati snimanje s dva uređaja.</string>
+  <string name="network_connection_prerequisites_china">Uključite Bluetooth i Wi-Fi u Centru za kontrolu da biste mogli upotrebljavati snimanje s dva uređaja.</string>
   <string name="network_connection_rejected">Odbijeno</string>
   <string name="network_connection_timed_out">Povezivanje je isteklo</string>
   <string name="no_save">"Ne spremaj"</string>

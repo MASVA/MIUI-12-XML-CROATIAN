@@ -223,6 +223,7 @@
   <string name="using_record_confirm_ok">Dopusti</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="view_recorded_file">Dodirnite za prikaz snimljene datoteke</string>
   <string name="warning_recording_when_a2dp_connect">"Vaš uređaj ne podržava snimanje zvukova sustava dok se koristi Bluetooth slušalica."</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

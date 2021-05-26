@@ -222,6 +222,11 @@
   <string name="redmi_note_5">Redmi Note 5</string>
   <string name="redmi_note_7">Redmi Note 7</string>
   <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+  <string name="relaunch_dialog_alwaysUsePrompt">Zapamti moj izbor</string>
+  <string name="relaunch_dialog_button_cancel">Odustani</string>
+  <string name="relaunch_dialog_button_confirm">U redu</string>
+  <string name="relaunch_dialog_message">"Ne možete prilagoditi veličinu prozora dok upotrebljavate aplikaciju. Možete ponovo pokrenuti aplikaciju da biste prilagodili veličinu prozora, ali podaci aplikacije generirani tijekom ove sesije bit će izgubljeni. Svejedno ponovno pokrenuti?"</string>
+  <string name="relaunch_dialog_title">Ponovno pokrenuti \"%s\"?</string>
   <string name="remain">Preostalo: %s</string>
   <string name="replace">Zamijeni</string>
   <string name="resolver_app_recommend_flag">Preporučeno</string>
@@ -232,7 +237,7 @@
   <string name="resolver_other_method">Druge opcije</string>
   <string name="resolver_recommend_options_tag">Preporučene opcije</string>
   <string name="resource_select">Odaberi</string>
-  <string name="scanning_device_tips">Traženje uređaja u blizini ... Provjerite nalazi li se drugi uređaj u načinu rada otkrivanja.</string>
+  <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite nalazi li se drugi uređaj u načinu rada otkrivanja.</string>
   <string name="screen_button_disabled_message">Navigacijske tipke su isključene. Da ih ponovo uključite, dodirnite tipku \"Početna\" i \"Napajanje\" istovremeno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke su uključene</string>
   <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
@@ -317,6 +322,8 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="stop_operate_camera_frequently">"Prečesto otvarate prednju kameru."</string>
+  <string name="stylus_pen_mask_screenshot">Dodirnite zaslon da biste snimili snimku zaslona</string>
+  <string name="stylus_pen_mask_text">Dodirnite zaslon da biste započeli pisanje</string>
   <string name="sunlight_notification_content">Prilagodi svjetlinu jakog ambijentalnog svjetlu automatski</string>
   <string name="sunlight_notification_title">Uključi način rada Sunčeve svjetlosti</string>
   <string name="super_resolution_maintain_tips">"Super razlucija još nije dostupna."</string>

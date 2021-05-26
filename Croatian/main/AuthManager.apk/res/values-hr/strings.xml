@@ -517,10 +517,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="permission_group_title_privacy_related">Privatnost</string>
   <string name="permission_group_title_sensitive_privacy_related">Osjetljiva dopuštenja</string>
   <string name="permission_group_title_settings_related">Postavke</string>
-  <string name="permission_list_include">"Uključujući sljedeće:
-"</string>
+  <string name="permission_list_include">Uključujući i sljedeće</string>
   <string name="permission_reminders">Podsjetnici dopuštenja</string>
-  <string name="permission_request_title">Zahtjev dopuštenja</string>
+  <string name="permission_request_title">Potrebno je dopuštenje</string>
   <string name="permission_warning_template">Dopustiti %1$s %2$s ?</string>
   <string name="permission_warning_template_ask">Dopustiti %1$s sljedeća dopuštenja?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nema dopuštenje za %2$s. Dopuštenja aplikacije možete promijeniti u Aplikacije &gt; Dopuštenja."</string>

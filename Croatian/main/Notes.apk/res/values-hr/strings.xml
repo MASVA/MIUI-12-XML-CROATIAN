@@ -331,6 +331,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
@@ -482,6 +483,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_quick_note_desc">Upotrijebite prečac na rubu zaslona za izradu bilješki i zadataka, kao i spremanje kopiranih URL-ova, teksta i slika u Bilješke.</string>
   <string name="pref_remind_type_summary">Reproduciraj zvuk podsjetnika u Bešumnom načinu rada</string>
   <string name="pref_remind_type_summary_new">Zanemari Bešumni način i nastavi reproducirati zvuk dok se alarm ne isključi</string>
+  <string name="pref_remind_type_summary_new_2">Reproduciraj zvuk čak i kad je uključen Bešumni ili DND način</string>
   <string name="pref_remind_type_title">Zanemari Bešumni način</string>
   <string name="pref_remind_type_title_new">Podsjetnici visokog prioriteta</string>
   <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>

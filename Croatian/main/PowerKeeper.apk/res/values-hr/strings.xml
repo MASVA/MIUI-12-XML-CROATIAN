@@ -117,6 +117,8 @@
   <string name="high_temp_state_message">Vaš uređaj je pregrijan. Mobilni podaci, Wi-Fi hotspotovi, GPS i kamera bit će ograničeni.</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="important_warning">Pažnja</string>
+  <string name="insert_data">Umetnite podatke</string>
+  <string name="kill_pkg_toast_message">Uređaj se pregrijava i aplikacija će biti zatvorena</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
   <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
   <string name="lasttime_feature_cloud">Ažurirane značajke:</string>
@@ -294,6 +296,7 @@
   <string name="sleepmode_privacy_content">Ova značajka upotrebljavati će sustav telefona i podatke o uređaju. Isti neće biti učitani na poslužitelj</string>
   <string name="sleepmode_privacy_link">Saznajte više o privatnosti i sigurnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
+  <string name="stricter_high_temp_state_message">"Uređaj se pregrijava, ne možete upotrebljavati druge aplikacije osim poziva i kontakata"</string>
   <string name="still">Slika</string>
   <string name="sucess">Gotovo</string>
   <string name="ui">Standardno</string>

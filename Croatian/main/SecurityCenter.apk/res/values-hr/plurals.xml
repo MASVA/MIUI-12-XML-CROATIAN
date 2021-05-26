@@ -598,6 +598,10 @@ Odmorite se!"</item>
         <item quantity="other">&lt;Data>Zatvoriti &lt;font color=#0099ff>%d&lt;/font> aplikacija da biste ubrzali svoj uređaj?&lt;/Data></item>
         <item quantity="one">&lt;Data>Zatvoriti &lt;font color=#0099ff>%d&lt;/font> aplikaciju da biste ubrzali svoj uređaj?&lt;/Data></item>
     </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">"Rezultat prefromansi vašeg uređaja je manji od %d bodova. Optimizirati sada?"</item>
+        <item quantity="one">"Rezultat prefromansi vašeg uređaja je manji od %d boda. Optimizirati sada?"</item>
+    </plurals>
 	<plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">Brzo naprijed %d sek.</item>
         <item quantity="one">Brzo naprijed %d sekundu</item>
@@ -805,6 +809,10 @@ Odmorite se!"</item>
 	<plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d aplikacija se mogu prikazivati na pogrešan način. Ograničite plutajuće obavijesti.</item>
         <item quantity="one">%d aplikacija se može prikazivati na pogrešan način. Ograničite plutajuće obavijesti.</item>
+    </plurals>
+	<plurals name="find_leak_risk">
+        <item quantity="other">%d rizika povezani s privatnošću</item>
+        <item quantity="one">%d rizik povezan s privatnošću</item>
     </plurals>
 	<plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problema zahtijevaju optimizaciju</item>

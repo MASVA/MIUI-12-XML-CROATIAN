@@ -162,9 +162,13 @@
   <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">Dopustite Wallpaper Carousel povezivanje na internet kako bi preuzeo nove slike pozadine.</string>
-  <string name="other_settings_upload_debug_log_summary">Statistika korištenja koja nam pomaže u pronalaženju i rješavanju problema može sadržavati vaše osobne podatke.</string>
-  <string name="other_settings_upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
+  <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.
+Podaci koje ćete poslati sadržavat će opće podatke o vašem uređaju i načinu na koji ga upotrebljavate (npr. Razina baterije, aktivnost sustava i aplikacija i pogreške). Podaci će se koristiti za poboljšanje MIUI uređaja.
+Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke potrebne za osnovne usluge kao što su ažuriranja sustava i sigurnost.
+Ovom značajkom možete upravljati u Postavke> Zaporke &amp; sigurnost > Privatnost > Korištenje i dijagnostika."</string>
+  <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.</string>
+  <string name="other_settings_upload_debug_log_title">Pošaljite podatke o korištenju i dijagnostici</string>
   <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o Privatnosti</string>
   <string name="other_settings_user_experience_summary_index">Detalji</string>
