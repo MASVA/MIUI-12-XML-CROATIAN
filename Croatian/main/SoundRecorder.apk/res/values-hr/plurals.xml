@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="notification_warning">
+   <plurals name="notification_warning">
         <item quantity="other">Premalo prostora za pohranu (preostalo manje %d min.)</item>
         <item quantity="one">Premalo prostora za pohranu (preostalo manje %d min.)</item>
      </plurals>
@@ -35,6 +35,7 @@
     <plurals name="search_recorder_records_hint">
         <item quantity="other">%d audio zapisa</item>
         <item quantity="one">%d audio zapisa</item>
+	</plurals>
 	<plurals name="search_result">
         <item quantity="other">Pronađeno zapisa: %d</item>
         <item quantity="one">Pronađen %d zapis</item>
