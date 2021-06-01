@@ -172,4 +172,9 @@
         <item>" jin"</item>
         <item>" lb"</item>
     </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Slika</item>
+        <item>Ruta</item>
+        <item>Kartica</item>
+    </string-array>
 </resources>

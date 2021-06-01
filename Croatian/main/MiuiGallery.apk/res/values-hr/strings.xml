@@ -1143,6 +1143,9 @@ za fotografije"</string>
   <string name="home_menu_photo_movie">Isječak</string>
   <string name="home_menu_print">Ispiši fotografije</string>
   <string name="home_menu_video_post">Video efekti</string>
+  <string name="home_page_all_photos">Sve</string>
+  <string name="home_page_camera">Kamera</string>
+  <string name="home_page_custom">Vlastito</string>
   <string name="home_page_empty">Prazno</string>
   <string name="home_page_empty_action">Snimi fotografiju</string>
   <string name="home_page_label">Fotografije</string>
@@ -1410,7 +1413,7 @@ za fotografije"</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
-  <string name="miuix_appcompat_select_all">Odaberi svel</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -2789,7 +2792,7 @@ za fotografije"</string>
   <string name="vlog_video_importing">Uvoz videozapisa…</string>
   <string name="vlog_video_saved_in_my_create">Videozapis uspješno spremljen</string>
   <string name="vlog_video_selected_not_support">"Ne mogu urediti odabrani videozapis"</string>
-  <string name="vlog_video_trans_code_cons">Obrada datoteke visoke razlučivosti…</string>
+  <string name="vlog_video_trans_code_cons">Uvoz…</string>
   <string name="voice_assistant">Unos glasom</string>
   <string name="watch_all_photo">Galerija</string>
   <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>

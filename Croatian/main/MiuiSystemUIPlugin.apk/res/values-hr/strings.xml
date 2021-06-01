@@ -112,6 +112,15 @@
   <string name="hearing_assist_tips_message_two">%d. Ovu značajku podržavaju odabrani modeli Bluetooth slušalica.</string>
   <string name="hearing_assist_title">Live in-ear monitor</string>
   <string name="hearing_assist_volume">"Glasnoća mikrofona"</string>
+  <string name="hearing_assist_bluetooth_enable_tips_cancle">Odustani</string>
+  <string name="hearing_assist_bluetooth_enable_tips_start">Uključi</string>
+  <string name="hearing_assist_bluetooth_enable_tips_summary">Live in-ear monitor radi kad je Bluetooth uključen. Želite li sada uključiti Bluetooth?</string>
+  <string name="hearing_assist_bluetooth_enable_tips_title">Uključi Bluetooth</string>
+  <string name="hearing_assist_transmission_label">Live in-ear monitor</string>
+  <string name="hearing_assist_transmission_tips_cancel">Odustani</string>
+  <string name="hearing_assist_transmission_tips_continue">Uključi</string>
+  <string name="hearing_assist_transmission_tips_summary">"Live in-ear monitor prenosi feed mikrofona vašeg telefona na povezane Bluetooth slušalice. Uključiti sada?"</string>
+  <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="loading">Nepoznato</string>
@@ -202,6 +211,7 @@
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+  <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>

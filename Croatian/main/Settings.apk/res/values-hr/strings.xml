@@ -1992,8 +1992,13 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="charge_animation_style_summary">Odaberite željeni stil animacije punjenja Zaklj. zaslona</string>
   <string name="charge_animation_style_title">Animacija punjenja</string>
+  <string name="charge_animation_style_video">Sjaj</string>
+  <string name="charge_animation_style_wave">Val</string>
+  <string name="charge_animation_style_lollipop">Tok</string>
+  <string name="charge_animation_style_none">Isključeno</string>
+  <string name="charge_animation_style_particle">Čestica</string>
   <string name="charge_length_format">Prije %1$s</string>
-  <string name="charging_sounds_title">Zvukovi i vibracija punjenja</string>
+  <string name="charging_sounds_title">Zvukovi punjenja i vibracija</string>
   <string name="check_find_device_status_failure_confirm">U redu</string>
   <string name="check_importance">Pravila za grupirane obavijesti</string>
   <string name="check_importance_dialog_cancel">Odustani</string>
@@ -2475,11 +2480,16 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_color_summary_lcd">"Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada može vam pomoći pri uklanjanju naprezanja očiju dok uređaj koristite u mraku."</string>
   <string name="dark_color_summary_oled">Upotrijebite tamniju paletu boja za pozadine sustava i kompatibilne aplikacije. Tamni način rada smanjuje potrošnju energije i pomaže u oslobađanju naprezanja očiju.</string>
   <string name="dark_mode_apps_header">Pojedinačne aplikacije</string>
+  <string name="dark_mode_auto_time_summary">Uključite i isključite tamni način rada u zakazano vrijeme</string>
+  <string name="dark_mode_auto_time_title">Vlastito</string>
   <string name="dark_mode_contrast">Automatski prilagodi kontrast</string>
   <string name="dark_mode_contrast_hint">Automatski prilagodi boje i smanji kontrast kad se smanji svjetlina</string>
   <string name="dark_mode_font_background_title">Automatski prilagodi tekst i pozadinu</string>
-  <string name="dark_theme_slice_subtitle">Pomaže produljiti trajanje baterije</string>
-  <string name="dark_theme_slice_title">Isprobajte Tamnu temu</string>
+  <string name="dark_mode_day_night_mode_summary">Prebacite se u tamni način rada pri zalasku sunca i isključite ga pri izlasku sunca</string>
+  <string name="dark_mode_day_night_mode_title">Od zalaska do izlaska sunca</string>
+  <string name="dark_theme_slice_subtitle">Pomaže u produljenju vijeka trajanja baterije</string>
+  <string name="dark_mode_time_settings">Raspored tamnog načina rada</string>
+  <string name="dark_theme_slice_title">Isprobajte tamnu temu</string>
   <string name="dark_ui_activation_off_auto">Isključi do zalaska sunca</string>
   <string name="dark_ui_activation_off_custom">Isključi do %1$s</string>
   <string name="dark_ui_activation_off_manual">Odmah isključi</string>
@@ -2491,8 +2501,8 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_ui_auto_mode_never">Nijedno</string>
   <string name="dark_ui_auto_mode_title">Raspored</string>
   <string name="dark_ui_mode">Tamna tema</string>
-  <string name="dark_ui_mode_disabled_summary_dark_theme_off">Trenutačno uključeno zbog Štednje baterije</string>
-  <string name="dark_ui_mode_disabled_summary_dark_theme_on">Uključeno/trenutačno onemogućeno zbog Štednje baterije</string>
+  <string name="dark_ui_mode_disabled_summary_dark_theme_off">Trenutno uključeno zbog Štednje baterije</string>
+  <string name="dark_ui_mode_disabled_summary_dark_theme_on">Uključeno/trenutno onemogućeno zbog Štednje baterije</string>
   <string name="dark_ui_mode_title">Postavi noćni način rada</string>
   <string name="dark_ui_settings_dark_summary">Podržane aplikacije također će prijeći na tamnu temu</string>
   <string name="dark_ui_settings_dialog_acknowledge">Razumijem</string>
@@ -6362,7 +6372,9 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="nsd_quick_toggle_summary">Dopusti aplikacijama na drugim uređajima otkrivanje aplikacija na ovom uređaju</string>
   <string name="nsd_quick_toggle_title">Otkrivanje mrežne usluge</string>
   <string name="number_of_device_admins_none">Nema aktivnih aplikacija</string>
-  <string name="oaid_string">"Trenutačni virtualni ID:
+  <string name="oaid_apps_summary">Omogućite ili ograničite pristup pojedinačnim aplikacijama</string>
+  <string name="oaid_apps_title">Upravljanje virtualnim ID-om</string>
+  <string name="oaid_string">"Trenutni virtualni ID:
 %1s"</string>
   <string name="oem_lock_info_message">Ponovo pokrenite uređaj da biste omogućili značajku zaštite uređaja.</string>
   <string name="oem_preferred_feedback_reporter"/>
@@ -7808,8 +7820,9 @@ Da biste upotrijebili prikvačivanje aplikacije: \u0009
   <string name="screen_settings">Zaklj. zaslon</string>
   <string name="screen_shot">Snimi snimku zaslona</string>
   <string name="screen_timeout">Privremeni prekid rada zaslona</string>
+  <string name="screen_timeout_subtitle">Prikazivanje statičkog sadržaja dulje vrijeme može učiniti boje neujednačenima</string>
   <string name="screen_timeout_summary">Kada prođe %1$s neaktivnosti</string>
-  <string name="screen_timeout_title">Zaslon se isključuje</string>
+  <string name="screen_timeout_title">Automatski zaklj. zaslon</string>
   <string name="screen_usage_summary">Količina vremena dok je zaslon bio uključen od posljednjeg punjenja</string>
   <string name="screen_zoom_big">L</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
@@ -9311,6 +9324,7 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="switch_headset_anti_lost_title">Upozorenje: nedostaje slušalica</string>
   <string name="switch_off_text">Isključeno</string>
   <string name="switch_on_text">Uključeno</string>
+  <string name="switch_power_sound">Zvuk punjenja</string>
   <string name="switch_screen_button_order">Zamijeni tipke</string>
   <string name="switch_screen_button_order_desc">Zamijeni raspored tipki Natrag i Izbornik</string>
   <string name="switch_select_to_speak_on">Odaberite da pričate</string>
@@ -9503,6 +9517,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni Wi-Fi hotspot, da podijelit
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
+  <string name="time_floating_window">Plutajući sat</string>
+  <string name="time_floating_window_summary">Prikaži sat u plutajućem prozoru iznad ostalih aplikacija</string>
   <string name="time_format_category_title">Format vremena</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>

@@ -1344,6 +1344,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="invalid_pin2">Unesite PIN2 koji ima %1$d do %2$d brojeva.</string>
   <string name="invalid_puk">Unesite PUK koji ima od %1$d do %2$d brojeva.</string>
   <string name="invalid_puk2">Unesite PUK2 koji ima %d brojeva.</string>
+  <string name="invalid_secretcode_format_txt">Nevažeći format tajnog koda!</string>
   <string name="ivr_mo_area_code_settings">Trenutni predbroj</string>
   <string name="ivr_mo_area_code_settings_hint">Unesite trenutni predbroj</string>
   <string name="ivr_parameter_settings">IVR postavke paratmetra</string>

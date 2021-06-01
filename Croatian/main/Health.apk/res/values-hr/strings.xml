@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="MediaControlView_ad_remaining_time">Oglas · %1$s preostalo</string>
+  <string name="MediaControlView_ad_skip_wait_time">Možete preskočiti oglas za %1$ds</string>
+  <string name="MediaControlView_ad_text">Posjetite oglašivača</string>
+  <string name="MediaControlView_audio_track_none_text">Ništa</string>
+  <string name="MediaControlView_audio_track_number_text">Zapis %1$d</string>
+  <string name="MediaControlView_audio_track_text">Audio zapis</string>
+  <string name="MediaControlView_playback_speed_normal">Normalna</string>
+  <string name="MediaControlView_playback_speed_text">Brzina reprodukcije</string>
+  <string name="MediaControlView_subtitle_off_text">Isključeno</string>
+  <string name="MediaControlView_subtitle_track_number_and_lang_text">Zapis %1$d - %2$s</string>
+  <string name="MediaControlView_subtitle_track_number_text">Zapis %1$d</string>
+  <string name="MediaControlView_video_quality_auto_text">Auto</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Natrag</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>
@@ -56,6 +68,8 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="add_data_source_support_step">"Ovaj uređaj ne generira podatke o broju koraka. Možete pokušati prebaciti se na druge izvore podataka."</string>
   <string name="add_data_type_datasource">Dodajte izvor podataka (%1$s)</string>
   <string name="add_model_card">"Dodirnite gumb u gornjem lijevom kutu za dodavanje kartica"</string>
+  <string name="add_model_card2">"Dodirnite gornju tipku za dodavanje kartica.
+Moći ćete pratiti svoje treninge i aktivnosti."</string>
   <string name="add_owned_device">Dostupni uređaji</string>
   <string name="add_record">Dodaj</string>
   <string name="added_data_source">Izvori dodani</string>
@@ -65,6 +79,7 @@ Xiaomi Health podržava uređaje koje ste prethodno dodali u aplikaciju Mi Home.
   <string name="allergic_drugs_hint">Unesite lijekove i reakciju na njega</string>
   <string name="allow_notice_periods">Dopusti podsjetnik menstruacije</string>
   <string name="altitude">Visina</string>
+  <string name="altitude_pressure_hint">*Nadmorska visina izračunata na temelju atmosferskog tlaka je približna</string>
   <string name="altitude_range">Visina</string>
   <string name="am">AM</string>
   <string name="app_setting">Aplikacije</string>
@@ -208,6 +223,7 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="copy">Kopiraj</string>
   <string name="copy_done">Uspješno kopirano</string>
   <string name="copyright_statement">Autorsko pravo ©Xiaomi Inc. Sva prava zadržana.</string>
+  <string name="course_time_unit">min</string>
   <string name="cousume_unit_float_format">%1$.2f Cal</string>
   <string name="cross_hiking">Pješačenje</string>
   <string name="cumulative_decline">Pad</string>
@@ -263,6 +279,7 @@ Ako odlučite izbrisati svoje zdravstvene podatke nakon što odlučite čuvati i
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_picker_lunar">Lunar Calendar</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="date_week_index">"'T'ww yyyy"</string>
   <string name="day">Dan</string>
   <string name="deep_light_detection_open_prompt">Vaš će ciklus spavanja biti analiziran sljedeći put kad krenete u krevet</string>
@@ -272,6 +289,7 @@ Ako odlučite izbrisati svoje zdravstvene podatke nakon što odlučite čuvati i
   <string name="deep_sleep_duration_description">"Kad ljudi spavaju, javljaju se periodični brzi pokreti očiju. Spavanje se može podijeliti na spavanje brzim pokretima očiju (REM) i nebrzo kretanje oka (NREM). Duboko spavanje događa se tijekom razdoblja NREM spavanja, što iznosi oko 20 do 25%% ukupnog trajanja spavanja. Vaš mozak odmara tijekom dubokog sna, pokazujući nisku razinu svjesne aktivnosti, pa buđenje nije lako."</string>
   <string name="deep_sleep_duration_increase_description">Vaš dubok san je predug</string>
   <string name="deep_sleep_duration_normal_description">Imate dovoljnu količinu dubokog sna</string>
+  <string name="default_notification_channel_name">Sada se reproducira</string>
   <string name="delete">Izbriši</string>
   <string name="delete_aid_file">Izbriši</string>
   <string name="delete_aid_file_desc">Ako nastavite, vaš će se hitni medicinski ID trajno izbrisati s ovog uređaja.</string>
@@ -332,6 +350,7 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="dialog_delete_record_confirm">Izbrisati ovaj zapis?</string>
   <string name="dialog_exercise_purpose">Dobrodošli u Mi Health! \"Brojač koraka\" omogućava vam da vidite koliko koraka napravite tijekom dana, kao i da postavite i upravljate svojim ciljevima aktivnosti. Svi povezani podaci bit će pohranjeni lokalno na vašem uređaju, što vam omogućuje jednostavno upravljanje.</string>
   <string name="dialog_exit">Izlaz</string>
+  <string name="dialog_exit_use">Izlaz</string>
   <string name="dialog_feedback_content">"Ako se ne slažete davati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njegova osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete ograničiti dopuštenja ili oduzeti autorizaciju u Postavkama.
 "</string>
   <string name="dialog_feedback_purpose">Mi Health mora pristupiti pohrani kako bi poslao povratne informacije.</string>
@@ -343,6 +362,7 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="dialog_keep">Zadrži</string>
   <string name="dialog_known">Razumijem</string>
   <string name="dialog_menstruation_purpose">Dobrodošli u Mi Health! \"Menstruacija\" omogućava vam bilježenje ciklusa, određivanje predviđenih datuma nadolazećih ciklusa i primanje podsjetnika. Svi povezani podaci bit će pohranjeni lokalno na vašem uređaju, što vam omogućuje jednostavno upravljanje.</string>
+  <string name="dialog_new_version_title">Dostupno je ažuriranje</string>
   <string name="dialog_no_more_prompt">"Ne prikazuj ponovo"</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_open">Dopusti</string>
@@ -363,6 +383,8 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="diastolic_pressure">Dijastolički</string>
   <string name="disable">Isključeno</string>
   <string name="discard_update">Ne hvala</string>
+  <string name="download_apk">Preuzimanje %s…</string>
+  <string name="download_background">Preuzmi</string>
   <string name="drag_sort">Preuredi</string>
   <string name="dream_talk">Razgovor s %1$s</string>
   <string name="dream_talk_record">Bili ste snimljeni dok ste razgovarali tijekom spavanja</string>
@@ -385,6 +407,12 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="engrgy_format">%1$d W</string>
   <string name="enough">Dovoljno</string>
   <string name="enter_mi_health">Otvori Mi Health</string>
+  <string name="environment_detection_again">Pokušajte ponovo</string>
+  <string name="environment_detection_fail">"Izgleda da je ovdje previše bučno"</string>
+  <string name="environment_detection_fail_hint">Premjestite se na mirno mjesto i pokušajte ponovo.</string>
+  <string name="environment_detection_hint_one">Izbjegavajte bučna mjesta kako biste statistiku učinili preciznijom.</string>
+  <string name="environment_detection_hint_two">Trening će biti pauziran i automatski nastavljen na temelju zvukova koje proizvedete.</string>
+  <string name="environment_detection_ing">Provjera uvjeta za vježbanje…</string>
   <string name="equivalent_exercise">≈%1$s km prohodano (%2$s kcal)</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
@@ -466,6 +494,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="feedback_need_permission_msg">Dopustite Mi Health da piše u vanjsku pohranu kako bi mogao generirati zapisnike koji se koriste za povratne informacije.</string>
   <string name="feedback_permission_denied_msg">"Mi Health ne može spremiti zapisnike u vanjsku pohranu. Dajte potrebna dopuštenja u postavkama Mi Healtha."</string>
   <string name="fewer">Malo</string>
+  <string name="find_new_verision">Verzija %s je dostupna</string>
   <string name="finish">Gotovo</string>
   <string name="finish_stand">Da</string>
   <string name="finish_stand2">Stajanje</string>
@@ -523,6 +552,8 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="health_score">Rezultat</string>
   <string name="health_score_tips">Zdravstveni rezultat izračunava se na temelju vašeg BMI (indeksa tjelesne mase), kao i koraka spavanja i aktivnosti. Što ste bliže svojim ciljevima, to vam je bolji zdravstveni rezultat.</string>
   <string name="health_setting">Postavke</string>
+  <string name="health_uninstall_dialog_content">"Xiaomi Health je aplikacija sustava. Ovu aplikaciju možete koristiti za brojanje koraka, praćenje spavanja, mjesečnice i težinu, kao i za sinkronizaciju statistike s cloudom. Nećete moći koristiti ovu aplikaciju nakon što je deinstalirate."</string>
+  <string name="health_uninstall_dialog_title">Deinstalirati Xiaomi Health?</string>
   <string name="heart_rate">Brzina otkucaja srca</string>
   <string name="height">Visina</string>
   <string name="high">Visoki</string>
@@ -588,7 +619,18 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="hr_pre_detect_finger_desc">Otkriva se pokrivanje prstima. Molimo vas da ne puštate</string>
   <string name="hr_re_detect_title">Počnite ispočetka</string>
   <string name="hr_report_active_desc">Mjerenje pulsa odmah nakon vježbanja može vam pomoći prilagoditi navike u vježbanju, jer treninzi različitog intenziteta imaju različite optimalne zone otkucaja srca. Ako je vaš puls previsok, aktivnost može štetiti vašem zdravlju, što dovodi do vrtoglavice, stezanja u prsima i drugih rizika. Nizak puls može biti znak niske učinkovitosti određenog treninga.</string>
+  <string name="hr_report_active_high_desc">"Puls vam govori da se bavite fizičkom aktivnošću relativno visokog intenziteta. Vaše srce i pluća naporno rade."</string>
+  <string name="hr_report_active_higher_desc">"Puls nam govori da se bavite tjelesnom aktivnošću visokog intenziteta. Vaše srce i pluća naporno rade. Obratite pažnju na svoje stanje i prestanite vježbati ako se osjećate loše."</string>
+  <string name="hr_report_active_lower_mid_desc">"Puls vam govori da se bavite fizičkom aktivnošću relativno niskog intenziteta. Pogodno je za zagrijavanje i izvođenje jednostavnih vježbi. Ljudima s različitim zdravstvenim stanjima preporučuje se vježbanje slabog do umjerenog intenziteta."</string>
+  <string name="hr_report_active_lowest_desc">"Puls vam govori da se bavite tjelesnom aktivnošću slabog intenziteta. Stimulira vaše tijelo u određenoj mjeri bez potrebe za puno energije."</string>
+  <string name="hr_report_active_mid_desc">"Puls vam govori da se bavite tjelesnom aktivnošću umjerenog intenziteta. Preporučuje se da se većina zdravih odraslih osoba bavi vježbama umjerenog do visokog intenziteta, ukupno 150 minuta tjedno."</string>
   <string name="hr_report_common_desc">Normalni puls održava ljudsko tijelo tijekom svakodnevnih aktivnosti i kreće se od 60 do 100 otkucaja u minuti. Otkucaji srca niži od 60 BPM znak su bradikardije, dok je puls preko 100 BPM prihvaćen kao tahikardija kod odraslih.</string>
+  <string name="hr_report_regular_fast_desc">Trenutni puls je prebrz. Pretjerana tjelesna aktivnost, pijenje alkohola, težak fizički rad, nervoza, tjeskoba ili uzimanje određenih lijekova mogu uzrokovati fiziološku tahikardiju. Uz to, kardiovaskularne bolesti, anemija, hipertireoza, hipoksija, zatajenje srca i druge bolesti mogu biti znakovi patološke tahikardije. Ako se osjećate loše, na vrijeme se obratite svom liječniku.</string>
+  <string name="hr_report_regular_normal_desc">"Trenutni puls je normalan. Vaše srce može se dobro nositi sa stresom, a tijelo se može oduprijeti vanjskom pritisku. Međutim, ne biste trebali zaboraviti da bi promjene srčanog ritma mogle biti znakovi bolesti srca. Uvijek pripazite na brzinu otkucaja srca, posebno tijekom vježbanja."</string>
+  <string name="hr_report_regular_slow_desc">"Trenutni puls je prespor. Oko 15% ljudi može doživjeti fiziološku bradikardiju, što je usporeni sinusni ritam niži od 60 BPM. Ako ovo stanje ne uzrokuje vrtoglavicu, zatamnjenje, vrtoglavicu ili nesvjesticu, vjerojatno vam neće trebati nikakav tretman. Međutim, ako osjetite stezanje u prsima ili druge simptome, na vrijeme se obratite svom liječniku."</string>
+  <string name="hr_report_resting_fast_desc">Puls u mirovanju je brži od normalnog, što bi mogao biti znak tahikardije. Dijeta s malo soli i ulja, smanjenje tjelesne težine, odvikavanje od pušenja i alkohola, svijest o mentalnom zdravlju i tjelesna aktivnost mogu vam pomoći da usporite puls u mirovanju.</string>
+  <string name="hr_report_resting_normal_desc">"Puls u mirovanju je normalan. Otkucaji srca u mirovanju predstavljaju broj otkucaja srca u minuti kada mirujete. Najbolje vrijeme za mjerenje pulsa u mirovanju je kad se probudite ujutro, dok još uvijek ležite u krevetu i ne bavite se nikakvom tjelesnom aktivnošću. Odvojite malo vremena za duboko disanje prije nego što izmjerite puls u mirovanju kako biste potpuno opustili tijelo."</string>
+  <string name="hr_report_resting_slow_desc">Puls u mirovanju sporiji je od normalnog, što bi mogao biti znak bradikardije. Duža razdoblja usporenog rada srca mogu uzrokovati ishemiju i hipoksiju, kao i druge kardiovaskularne i cerebrovaskularne poremećaje. Puls u mirovanju usko je povezan s vašom prehranom, aktivnošću, razinom stresa, navikama spavanja i cjelokupnim fizičkim stanjem. Održavajte zdrav način života i obratite pažnju na svoje tijelo kako biste izbjegli probleme. Ako osjetite stezanje u prsima, vrtoglavicu, zamračenje, vrtoglavicu ili nesvjesticu, na vrijeme se obratite svom liječniku.</string>
   <string name="hr_see_report">Pogledaj izvještaj</string>
   <string name="hr_start_detect">Započnite isprobavati</string>
   <string name="hr_state">Status</string>
@@ -604,6 +646,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="hr_strength_lowest">Najniže</string>
   <string name="hr_strength_mid">Srednje</string>
   <string name="icon_content_description">Ikona dijaloga</string>
+  <string name="immediately_experience">Ažuriraj</string>
   <string name="improve_step_target">Svoj cilj postižete prečesto. Pokušajte postaviti viši.</string>
   <string name="improve_your_health_default_tips">Vježbajte i dovoljno spavajte da biste ostali zdravi.</string>
   <string name="inactivated">Nije aktivirano</string>
@@ -663,6 +706,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="light_sleep_time_normal_description">Imate dovoljnu količinu laganog sna</string>
   <string name="load_failed">"Ne mogu učitati stavke. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="location_perm_description">Za praćenje treninga na otvorenom i snimanje ruta</string>
   <string name="location_permission_dialog_content">Dopustite Xiaomi Healthu da pristupi vašoj lokaciji u \"Xiaomi Health\" &gt; \"Upravljanje dopuštenjima\" kako biste mogli pratiti svoje vježbe na otvorenom.</string>
   <string name="location_permission_dialog_negative">Ne sad</string>
   <string name="location_permission_dialog_positive">Dopusti</string>
@@ -679,6 +723,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="low_intensity">Nisko</string>
   <string name="low_intensity_description">Redovna brzina disanja koja vam omogućuje održavanje razgovora</string>
   <string name="low_pressure">Dijastolički (donji)</string>
+  <string name="lowest_freq">Najniža frekvencija</string>
   <string name="lowest_jump">Najniži skok</string>
   <string name="manage_home">Upravljanje početnom stranicom</string>
   <string name="manual_add">Dodajte ručno</string>
@@ -696,6 +741,28 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="max_low_pressure">Maks. dijastolički (donji)</string>
   <string name="maximum">Maks.</string>
   <string name="maximum_pace">Najviši tempo</string>
+  <string name="mcv2_back_button_desc">Natrag</string>
+  <string name="mcv2_cc_is_off">Podnaslovi su isključeni. Kliknite za prikaz.</string>
+  <string name="mcv2_cc_is_on">Podnaslov su uključeni. Kliknite za skrivanje.</string>
+  <string name="mcv2_error_dialog_button">U redu</string>
+  <string name="mcv2_ffwd_button_desc">Idi naprijed za 30 sekundi</string>
+  <string name="mcv2_full_screen_button_desc">Cijeli zaslon</string>
+  <string name="mcv2_launch_button_desc">Pokreni Link</string>
+  <string name="mcv2_music_artist_unknown_text">Izvođač nepoznat</string>
+  <string name="mcv2_music_title_unknown_text">Naslov pjesme nepoznat</string>
+  <string name="mcv2_next_button_desc">Sljedeći zapis</string>
+  <string name="mcv2_non_music_title_unknown_text">Naslov videozapisa nepoznat</string>
+  <string name="mcv2_overflow_left_button_desc">Povratak na prethodni popis</string>
+  <string name="mcv2_overflow_right_button_desc">See more buttons</string>
+  <string name="mcv2_pause_button_desc">Pauza</string>
+  <string name="mcv2_play_button_desc">Reproduciraj</string>
+  <string name="mcv2_playback_error_text">"Ne mogu reproducirati odabarani zapis"</string>
+  <string name="mcv2_previous_button_desc">Prethodni zapis</string>
+  <string name="mcv2_replay_button_desc">Reproduciraj ponovo</string>
+  <string name="mcv2_rewind_button_desc">Premotaj unatrag za 10 sekundi</string>
+  <string name="mcv2_seek_bar_desc">Napredak reprodukcije</string>
+  <string name="mcv2_settings_button_desc">Postavke</string>
+  <string name="mcv2_video_quality_button_desc">Odabir kvalitete videozapisa</string>
   <string name="measure_date">Vrijeme mjerenja</string>
   <string name="measure_time">Vrijeme mjerenj</string>
   <string name="medical_file_desc1">Važne medicinske informacije neophodne u hitnim slučajevima</string>
@@ -775,10 +842,13 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="miuix_appcompat_cloud_state_syncing">Sinkr. s Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -787,6 +857,11 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="miuix_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_search_history_clear">Izbriši povijest pretraživanja</string>
+  <string name="miuix_search_history_default_title">Izbriši povijest</string>
+  <string name="miuix_search_recommendation_default_title">Moglo bi vas zanimati</string>
+  <string name="miuix_search_recommendation_item_del_des">Izbriši</string>
   <string name="model_card_setting">Postavke kartice</string>
   <string name="moderately_abnormal">2. stupanj hipertenzije</string>
   <string name="moderately_abnormal_tip">Svaki dan nakon ustajanja i prije odlaska u krevet</string>
@@ -883,6 +958,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="oar_time">Vrijeme vožnje</string>
   <string name="oauth_account_failed">"Ne mogu dobiti informacije o računu"</string>
   <string name="oauth_account_failed_desc">Za dodavanje izvora podataka Mi Health mora koristiti vaš Mi Račun. Prijavite se za nastavak.</string>
+  <string name="oauth_invalid">Vrijeme isteklo. Prijavite se ponovo.</string>
   <string name="ok">U redu</string>
   <string name="open">Uključi</string>
   <string name="open_data_sync_description">Uključite sinkronizaciju s Cloudom za sinkronizaciju zdravstvenih podataka iz drugih izvora.</string>
@@ -906,6 +982,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="passport_oauth_sucess_tip">Uspješno autorizirano</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="pause">Pauza</string>
+  <string name="pause_button_content_description">Pauza</string>
   <string name="per_count_minutes1">%d SPM</string>
   <string name="per_time_minutes">%d po min.</string>
   <string name="per_time_minutes1">" po min."</string>
@@ -929,6 +1006,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="placement_tips_warn">Nije preporučeno</string>
   <string name="placement_tips_warn_1">Traka za trčanje</string>
   <string name="play">Reproduciraj</string>
+  <string name="play_button_content_description">Reproduciraj</string>
   <string name="please_choose">Odaberi</string>
   <string name="pm">PM</string>
   <string name="pool_swimming">Plivanje u bazenu</string>
@@ -967,6 +1045,8 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="rb_gender_female">Spol: Žena</string>
   <string name="rb_gender_male">Spol: Muškarac</string>
   <string name="reach_standard">Zadovoljava standard</string>
+  <string name="recog_permission_dialog_content">Omogućite Xiaomi Healthu pristup informacijama o vašoj aktivnosti kako bi mogao vidjeti broj koraka.</string>
+  <string name="recog_permission_dialog_title">Potrebna su dopuštenja</string>
   <string name="recommand_body_weight_msg">Preporučena ciljna težina: %1$.1f kg. Dostignite BMI %2$.1f da smanjite rizik od kardiovaskularnih i jetrenih bolesti.</string>
   <string name="recommend_sleep_goal">21:00-11:00</string>
   <string name="record_blood_pressure">Zabilježi mjerenje</string>
@@ -1011,6 +1091,8 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="retry">Pokušaj ponovno</string>
   <string name="revert_to_default">Vrati na zadane postavke</string>
   <string name="rope_skipping">Preskakanje užeta</string>
+  <string name="rope_skipping_environment_warning">Molimo izbjegavajte bučno okruženje</string>
+  <string name="rope_skipping_ways">Glasom prepoznaj preskakanje užeta</string>
   <string name="rowing_machine">Sprava za veslanje</string>
   <string name="run">Trčanje</string>
   <string name="saturday">Nedjelja</string>
@@ -1036,6 +1118,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="select_recog_question">Odaberite radnju</string>
   <string name="select_swim_posture">Odaberite stil</string>
   <string name="select_target">Odaberite cilj</string>
+  <string name="send">Pošalji</string>
   <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
   <string name="sending">Slanje…</string>
   <string name="set_emergency_contact">Kontakt za hitne slučajeve</string>
@@ -1054,6 +1137,33 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="severe_abnormal">Hipertenzivna kriza</string>
   <string name="severe_abnormal_tip">Svaki dan nakon ustajanja, nakon ručka i prije odlaska u krevet</string>
   <string name="share">Podijeli</string>
+  <string name="share_card_key_avg_pace">Tempo</string>
+  <string name="share_card_key_consume">Kalorije</string>
+  <string name="share_card_key_groups">Intervali</string>
+  <string name="share_card_key_step">Koraci</string>
+  <string name="share_card_key_time">Trajanje</string>
+  <string name="share_card_title_climbing">Penjanje %s</string>
+  <string name="share_card_title_cross_hiking">Planinarenje %s</string>
+  <string name="share_card_title_elliptical_trainer">Orbitrek</string>
+  <string name="share_card_title_free_training">Freestyle workout</string>
+  <string name="share_card_title_high_interval_training">HIIT</string>
+  <string name="share_card_title_indoor_rinding">Sobni bicikl %s</string>
+  <string name="share_card_title_indoor_running">Trčanje u zatvorenom %s</string>
+  <string name="share_card_title_open_swimming">Plivanje u otvorenoj vodi %s</string>
+  <string name="share_card_title_outdoor_hiking">Planinarenje %s</string>
+  <string name="share_card_title_outdoor_riding">Biciklizam %s</string>
+  <string name="share_card_title_outdoor_running">Trčanje %s</string>
+  <string name="share_card_title_outdoor_walking">Hodanje %s</string>
+  <string name="share_card_title_pool_swimming">Plivanje u bazenu %s</string>
+  <string name="share_card_title_riding">Biciklizam %s</string>
+  <string name="share_card_title_rope_skipping">Preskakanje užeta %s</string>
+  <string name="share_card_title_rowing_machine">Veslanje %s</string>
+  <string name="share_card_title_running">Trčanje %s</string>
+  <string name="share_card_title_stair_climbing">Penjanje stepenicama</string>
+  <string name="share_card_title_swimming">Plivanje %s</string>
+  <string name="share_card_title_treadmill">Traka za trčanje %s</string>
+  <string name="share_card_title_walking">Hodanje %s</string>
+  <string name="share_card_title_yoga">Yoga</string>
   <string name="skip">Preskoči</string>
   <string name="skip_to_next_item_button_content_description">Preskoči na sljedeću stavku</string>
   <string name="skip_to_previous_item_button_content_description">Preskoči na prethodnu stavku</string>
@@ -1255,6 +1365,9 @@ podatke o spavanju"</string>
   <string name="solar_term_white_dews">White Dews</string>
   <string name="solar_term_winter_begins">Winter Begins</string>
   <string name="solar_term_winter_solstice">Winter Solstice</string>
+  <string name="sport_audio_permission_dialog_content">Ova aplikacija treba dopuštenja za snimanje zvuka kako bi mogla pratiti treninge na temelju zvukova koje stvarate.</string>
+  <string name="sport_audio_permission_dialog_desc">Za praćenje treninga na temelju zvukova koje stvarate</string>
+  <string name="sport_audio_permission_dialog_title">Potrebna su dopuštenja</string>
   <string name="sport_btn_continue">Nastavi</string>
   <string name="sport_btn_finish">Kraj</string>
   <string name="sport_btn_lock">Zaključaj</string>
@@ -1268,6 +1381,7 @@ podatke o spavanju"</string>
   <string name="sport_invalid_dialog_title">Prebrzo!</string>
   <string name="sport_menu_share">Podijeli</string>
   <string name="sport_no_internet_toast">"Ne mogu pristupiti vašem preciznom mjestu zbog slabog mrežnog signala."</string>
+  <string name="sport_outdoor_running">Trčanje</string>
   <string name="sport_pace_chart_last_km">Manje od 1 km</string>
   <string name="sport_pace_step_unit">SPM</string>
   <string name="sport_pace_time_format" formatted="false">"%d'%d\""</string>
@@ -1286,6 +1400,9 @@ podatke o spavanju"</string>
   <string name="sport_step_max_frequency">Najviša</string>
   <string name="sport_step_min_frequency">Najniža</string>
   <string name="sport_title_step_frequency">Ritam</string>
+  <string name="sport_tts_1">Jedan</string>
+  <string name="sport_tts_2">Dva</string>
+  <string name="sport_tts_3">Tri</string>
   <string name="sport_tts_begin_riding">Počnite voziti bicikl</string>
   <string name="sport_tts_begin_running">Počnite trčati</string>
   <string name="sport_tts_begin_walking">Počnite hodati</string>
@@ -1363,6 +1480,8 @@ podatke o spavanju"</string>
   <string name="sustain_title">"Niste se pokrenuli "</string>
   <string name="swim">Plivanje</string>
   <string name="swim_type">Stil</string>
+  <string name="swipe_right_to_end">Povucite udesno za kraj</string>
+  <string name="swipe_up_to_end">Povucite gore za kraj</string>
   <string name="sync_health_data">Sinkr. podatke Health-a</string>
   <string name="sync_immediately">Sinkr.</string>
   <string name="sync_is_not_closed">Sinkronizacija je uključena</string>
@@ -1614,6 +1733,7 @@ podatke o spavanju"</string>
   <string name="tracking_progress_labe_up_nodata">Nema podataka</string>
   <string name="tracking_progress_labe_up_refresh">Povuci za osvježiti</string>
   <string name="treadmill">Traka za trčanje</string>
+  <string name="try_again">Pokušajte ponovo</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
@@ -1656,6 +1776,7 @@ Ažurirati sada?"</string>
   <string name="value_error_correct">Uredi zapis</string>
   <string name="visceral_fat">Visceralna masnoća</string>
   <string name="visceral_fat_descripe_content">Visceralna masnoća neophodna je za stabilizaciju i zaštitu unutarnjih organa. Međutim, visoka visceralna masnoća povećava rizik od kardiovaskularnih i metaboličkih bolesti.</string>
+  <string name="voice_remind">"Povećali smo glasnoću kako biste bolje čuli upute."</string>
   <string name="walk">Hodanje</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
@@ -1677,6 +1798,9 @@ Ažurirati sada?"</string>
   <string name="welcome_start_use">Start</string>
   <string name="well">Dobro</string>
   <string name="write_strorage_perm_description">Zabilježite probleme s kojima ste se susreli pri korištenju</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje aplikacije Preuzimanje nije uspjelo, provjerite stanje u Upravljanju aplikacijama.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s

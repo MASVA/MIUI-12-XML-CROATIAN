@@ -34,6 +34,8 @@
   <string name="autofill_save_sub_message">"Možete pregledavati i upravljati svojim zaporkama u Postavke &gt; Zaporke &amp; Sigurnost &gt; %s."</string>
   <string name="autofill_save_title">Spremi zaporke automatski</string>
   <string name="autofill_service_name">Upravljanje zaporkama</string>
+  <string name="battery_authentic_failed_button">Razumijem</string>
+  <string name="battery_authentic_failed_title">Pažnja</string>
   <string name="bluetooth_close">Ova je aplikacija isključila Bluetooth</string>
   <string name="bluetooth_disable_notification_content">%s je isključio Bluetooth</string>
   <string name="bluetooth_disable_notification_title">Bluetooth je isključen</string>
@@ -184,6 +186,7 @@
   <string name="onehour">30 minuta</string>
   <string name="open_close_tip_action">Razumijem</string>
   <string name="open_close_tip_content">Da zatvorite plutajući prozor, pritisnite i držite radnu traku, a zatim povucite prema gore</string>
+  <string name="other_ime">Ostale tipkovnice</string>
   <string name="package_delete_confirm_step_1">Deinstalirati %s?</string>
   <string name="package_delete_confirm_step_2">Deinstaliranje ove aplikacije može dovesti do nestabilnosti sustava vašeg uređaja.</string>
   <string name="package_delete_confirm_step_3">"Nećete biti u mogućnosti otvoriti ovu aplikaciju nakon što je deinstalirate."</string>

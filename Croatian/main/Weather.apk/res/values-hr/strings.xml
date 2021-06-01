@@ -105,6 +105,7 @@
   <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="city_exceeded_warning">Možete dodati do 10 gradova</string>
   <string name="close">Zatvori</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="commercial">Komercijalno</string>
   <string name="common_google_play_services_enable_button">Omogući</string>
   <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
@@ -404,6 +405,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="permission_storage_introduce">Za pristup stavkama na uređaju i spremanju datoteka</string>
   <string name="permission_user_protocol">Korisnički Sporazum (obavezno)</string>
   <string name="policy_settings">Uvjeti i odredbe</string>
+  <string name="privacy_grant_or_revoke_settings">Povlačenje pristanka</string>
   <string name="precipitation_degree_five">oluja</string>
   <string name="precipitation_degree_four">pljusak</string>
   <string name="precipitation_degree_one">bez kiše</string>

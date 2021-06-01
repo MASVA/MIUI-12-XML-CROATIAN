@@ -2700,8 +2700,10 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="numeric_recording_intro_header">Unesite zaporku</string>
   <string name="numeric_retry_button_text">Odustani</string>
   <string name="numeric_settings_help_how_to_record">Kako postaviti PIN</string>
+  <string name="oaid_apps_title">Upravljanje virtualnim ID-om</string>
   <string name="oaid_reset_content_tip">Ako sada isključite virtualni ID, neke aplikacije mogu prestati raditi ispravno, dio vaših aplikacija može se izgubiti ili postati neupotrebljiv.</string>
   <string name="oaid_reset_final_tip">Isključiti svejedno virtualni ID?</string>
+  <string name="oaid_tips_content">Virtualni ID-ovi (OAID) mogu se koristiti za praćenje vašeg ponašanja i personaliziranje oglasa za vas. Možete odabrati kojim će aplikacijama biti omogućen pristup vašem virtualnom ID-u. Imajte na umu da ako ograničite pristup, preporuke za oglase mogu postati nevažne ili aplikacije možda neće moći normalno raditi.</string>
   <string name="offline_voice_input">Izvanmrežni glasovni unos</string>
   <string name="offline_voice_input_detail">"Internet vam neće trebati za glasovni unos."</string>
   <string name="ok">U redu</string>
@@ -2896,6 +2898,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivan</string>
+  <string name="pc_hidemode_normal">Uravnoteženo</string>
+  <string name="pc_hidemode_performance">Performanse</string>
+  <string name="pc_hidemode_performance_title">Način rada Performanse</string>
+  <string name="pc_hidemode_power_save">Energija</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_main_activity_back">Natrag</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
@@ -2907,6 +2913,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do potpunog punjenja</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh preostalo</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm preostalo</string>
+  <string name="pc_performance_mode_dialog_summary">Vaš će uređaj moći raditi %s u načinu rada Performanse. Imajte na umu da način rada povećava potrošnju energije i može dovesti do pregrijavanja.</string>
+  <string name="pc_performance_mode_dialog_title">Način rada Performanse</string>
   <string name="pc_search_keywords_battery">Baterija</string>
   <string name="pc_search_keywords_battery_save">Štednja baterije</string>
   <string name="pc_search_keywords_battery_use">Korištenje baterije</string>
