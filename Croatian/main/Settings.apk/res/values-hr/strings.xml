@@ -8163,6 +8163,7 @@ Da biste upotrijebili prikvačivanje aplikacije: \u0009
   <string name="secspace_fod_use_password">Unesite zaporku</string>
   <string name="secure_keyguard_business_title">Postavi Zaklj. zaslona</string>
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za Zaklj. zaslona za bolje šifriranje podataka.</string>
+  <string name="security_center_title">Sigurnost</string>
   <string name="security_dashboard_summary">Zaklj. zaslona, otisak prsta</string>
   <string name="security_dashboard_summary_face">Play Protect, zaključavanje zaslona, otključavanje licem</string>
   <string name="security_dashboard_summary_no_fingerprint">Zaklj. zaslona</string>

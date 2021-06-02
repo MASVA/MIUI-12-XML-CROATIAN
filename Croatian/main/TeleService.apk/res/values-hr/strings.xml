@@ -1226,6 +1226,14 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
   <string name="four_point_five_switch_summary">Upotrijebite 4.5G za povećanje brzine mobilne podatkovne veze i poboljšanje kvalitete glasa.</string>
+  <string name="full_forwarding_number">Broj za prosljeđivanje</string>
+  <string name="full_forwarding_number_error_msg">Podržani su samo brojevi telefona koji počinju s \"0\".</string>
+  <string name="full_forwarding_number_error_title">Nevažeći broj telefona</string>
+  <string name="full_forwarding_number_prefix">"Broj telefona: "</string>
+  <string name="full_forwarding_option_forwarding">Prosljeđivanje</string>
+  <string name="full_forwarding_option_off">ISKLJUČENO</string>
+  <string name="full_forwarding_option_voicemail">Govorna pošta</string>
+  <string name="full_forwarding_settings">Potpuno prosljeđivanje</string>
   <string name="four_point_five_switch_title">4.5G</string>
   <string name="fw_change_failed">"Nije bilo moguće promijeniti broj za preusmjeravanje.
 Obratite se mobilnom operateru ako problem potraje."</string>
@@ -2012,6 +2020,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="please_login_mi_accout">Prijavite se</string>
   <string name="pocket_mode_summary">Automatski zaključaj kada se stavi u džep</string>
   <string name="pocket_mode_title">Spriječite džepna biranja</string>
+  <string name="play_voicemail_settings">Reproduciraj govornu poštu</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="police_type_description">Policija</string>
@@ -2888,6 +2897,7 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="voice_service_warning_dialog_title">VoLTE pozivi</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
+  <string name="voicemail_callforward_settings">Govorna pošta &amp; preusmjeravanje poziva</string>
   <string name="voicemail_change_pin_dialog_title">Promjena PIN-a</string>
   <string name="voicemail_default">Vaš mobilni operater</string>
   <string name="voicemail_notification_ringtone_title">Zvuk</string>
