@@ -607,7 +607,7 @@ Odmorite se!"</item>
         <item quantity="one">Brzo naprijed %d sekundu</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Premotaj unatrag %d seconds</item>
+        <item quantity="other">Premotaj unatrag %d sek.</item>
         <item quantity="one">Premotaj unatrag %d sekundu</item>
     </plurals>
     <plurals name="find_applications">
@@ -846,6 +846,18 @@ Odmorite se!"</item>
         <item quantity="other">"Nećete biti obaviješteni o osjetljivim radnjama koje izvršava %1$d aplikacija"</item>
         <item quantity="one">"Nećete biti obaviješteni o osjetljivim radnjama koje izvršava %1$d aplikacija"</item>
     </plurals>
+	<plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Dopušteno %3$d puta između %1$s i %2$s</item>
+        <item quantity="one">Dopušteno %3$d put između %1$s i %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Korišteno %1$d minuta</item>
+        <item quantity="one">Korišteno %1$d minutu</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Korišteno %1$d minuta do %2$s</item>
+        <item quantity="one">Korišteno %1$d minutu do %2$s</item>
+    </plurals>
 	<plurals name="app_behavior_desc_virtual">
         <item quantity="other">Vraćeno %3$d praznih poruka između %1$s i %2$s</item>
         <item quantity="one">Vraćena %3$d prazna poruka između %1$s i %2$s</item>
@@ -992,4 +1004,12 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">Unesite %s brojeva</item>
         <item quantity="one">Unesite %s broj</item>
      </plurals>
+	 <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>
+        <item quantity="one">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Automatski smanji svjetlinu zaslona radi uštede energije nakon %d min. neaktivnosti</item>
+        <item quantity="one">Automatski smanji svjetlinu zaslona radi uštede energije nakon %d min. neaktivnosti</item>
+    </plurals>
 </resources>

@@ -49,6 +49,7 @@ snimke zaslona"</string>
   <string name="screenshot_failed_to_capture_title">"Ova aplikacija ne dopušta snimanje zaslona"</string>
   <string name="screenshot_long_screenshot">Pomakni</string>
   <string name="screenshot_send">Pošalji</string>
+  <string name="screenshot_thumbnail">Minijature snimki zaslona</string>
   <string name="search_menu_title">Traži</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>

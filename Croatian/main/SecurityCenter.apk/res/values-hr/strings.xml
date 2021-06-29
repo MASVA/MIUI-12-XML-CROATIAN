@@ -289,7 +289,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_contacts_single">Aplikacija je pristupila vašim kontaktima</string>
   <string name="app_behavior_dashboard_desc">Aktivnost unutar zadnjih %d sati</string>
   <string name="app_behavior_dashboard_total_usage_title">Pogledaj sve zapise</string>
-  <string name="app_behavior_dashboard_usage">Ponašanje aplikacije</string>
+  <string name="app_behavior_dashboard_usage">Korištenje dopuštenja</string>
   <string name="app_behavior_dashboard_usage_list_title">Pregled po dopuštenju</string>
   <string name="app_behavior_dashboard_usage_unit">%1$s / %2$s</string>
   <string name="app_behavior_delete_pic">%1s je izbrisao stavke iz Galerije</string>
@@ -297,9 +297,12 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="app_behavior_denied">Odbij</string>
   <string name="app_behavior_desc_allow_once">Dopušteno u %1$s</string>
   <string name="app_behavior_desc_allowed">Dopušteno</string>
+  <string name="app_behavior_desc_allowed_at">Dopušteno u %s</string>
   <string name="app_behavior_desc_allowed_on_background">Dopušteno u pozadini</string>
+  <string name="app_behavior_desc_allowed_on_background_at">Dopušteno u pozadini u %s</string>
   <string name="app_behavior_desc_denied">Odbijeno</string>
   <string name="app_behavior_desc_denied_on_background">Odbijeno u pozadini</string>
+  <string name="app_behavior_desc_denied_on_background_at">Odbijeno u pozadini u %s</string>
   <string name="app_behavior_desc_deny_once">Odbijeno u %1$s</string>
   <string name="app_behavior_desc_other_perm_allowed">Najnovija aktivnost: %s</string>
   <string name="app_behavior_desc_other_perm_denied">Aktivnost unutar zadnjih %d sati</string>
@@ -1577,6 +1580,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_card_wifi_or_flow_title">"Ne mogu se povezati s internetom"</string>
   <string name="first_aid_dialog_msg_stop_scan">Zaustaviti skeniranje?</string>
   <string name="first_aid_dialog_title_stop_scan">Zaustavi</string>
+  <string name="first_aid_exception_sub_title">Te će se stavke zanemariti tijekom skeniranja</string>
   <string name="first_aid_item1_content">Performanse</string>
   <string name="first_aid_item2_content">Mreža</string>
   <string name="first_aid_item3_content">Postavke</string>
@@ -1936,6 +1940,8 @@ vašeg igranja"</string>
   <string name="gs_show_way_vertical">Okomito</string>
   <string name="gs_sign_notification">Podsjeti se da prijavim svaki dan u 20 sati</string>
   <string name="gs_slip_gamebox_detail">Koristite klizač ili prijeđite prstom od gornjeg ruba zaslona kako bi se pojavila ploča prečaca.</string>
+  <string name="gtb_brightness_dialog_right_btn">Drži uključenim</string>
+  <string name="gtb_brightness_dialog_sub_message">*Ovu značajku možete uključiti i isključiti u Postavkama.</string>
   <string name="gtb_dialog_btn_close">Isključi</string>
   <string name="gtb_dialog_btn_open">Uključi</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
@@ -1945,6 +1951,7 @@ vašeg igranja"</string>
   <string name="gtb_exit_game_to_home">Natrag na Poč. zaslon</string>
   <string name="gtb_setting_item_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
+  <string name="gtb_setting_item_title_brightness">Automatski smanji svjetlinu zaslona</string>
   <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi povećanje brzine</string>
   <string name="gtb_spring_festival_back_game">Natrag u igru</string>
@@ -2258,8 +2265,8 @@ podatkovnu vezu"</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="manual_input_traffic">Postavite uporabu podataka</string>
   <string name="manual_item_white_list_summary">Spriječite odabrane stavke od optimiziranja</string>
-  <string name="manual_item_white_list_title">Iznimke</string>
-  <string name="manual_white_list_header">Iznimaka: %d</string>
+  <string name="manual_item_white_list_title">Iznimke skeniranja</string>
+  <string name="manual_white_list_header">Iznimke: %d</string>
   <string name="mark_agent">Blokiraj prijavljene agencije</string>
   <string name="mark_agent_block">Prijavljen kao agencija</string>
   <string name="mark_agent_block_large">Agencija</string>

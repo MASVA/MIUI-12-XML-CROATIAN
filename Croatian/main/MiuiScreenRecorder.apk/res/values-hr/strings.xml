@@ -78,9 +78,11 @@
   <string name="is_go_home_summary">"Otvori početnu stranicu Snimača zaslona nakon prestanka snimanja"</string>
   <string name="loopback_sound">Zvučnik</string>
   <string name="low_battery">Napunite bateriju mobitela prije početka snimanja</string>
+  <string name="low_battery_for_pad">Napunite uređaj prije početka snimanja</string>
   <string name="low_battery_title">Slaba baterija</string>
   <string name="low_battery_warning">Baterija je previše slaba. Zaustavite snimanje i spremite videozapis.</string>
   <string name="low_memory">Imate manje od 1GB dostupnog prostora. Možete snimiti do 20 minuta.</string>
+  <string name="low_memory_for_pad">Imate manje od %1$d GB dostupnog prostora. Možete snimiti do %2$d minuta.</string>
   <string name="low_memory_dior">Imate manje od 500MB dostupnog prostora. Možete snimiti do 12 minuta.</string>
   <string name="low_memory_title">Nema dovoljno prostora za pohranu</string>
   <string name="low_momery_warning">Nema dovoljno prostora za pohranu. Snimanje je zaustavljeno i videozapis je spremljen.</string>
@@ -224,6 +226,7 @@
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="view_recorded_file">Dodirnite za prikaz snimljene datoteke</string>
+  <string name="view_recorded_videos">Prikaži snimke</string>
   <string name="warning_recording_when_a2dp_connect">"Vaš uređaj ne podržava snimanje zvukova sustava dok se koristi Bluetooth slušalica."</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

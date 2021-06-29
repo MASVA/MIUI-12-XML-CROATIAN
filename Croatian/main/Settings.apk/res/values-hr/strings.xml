@@ -4039,6 +4039,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="gxzw_anim_rhythm">Ritam</string>
   <string name="gxzw_anim_star">Starlight</string>
   <string name="gxzw_anim_title">Animacija otiska prsta</string>
+  <string name="gxzw_anim_unlock_effect">%s animacija otiska prsta</string>
   <string name="gxzw_aod_show_summary">Podignite uređaj ili dodirnite zaslon kako bi se pojavio simbol otiska prsta. Ova značajka povećava potrošnju baterije.</string>
   <string name="gxzw_aod_show_tittle">Pokaži ikonu otiska prsta kada je zaslon isključen</string>
   <string name="gxzw_dialog_message">"Kako biste normalno mogli koristiti senzor otiska prsta unutar zaslona, nemojte koristiti zaštite zaslona. Ako mislite da je zaštita zaslona još uvijek potrebna, odaberite između ovlaštenih kompatibilnih opcija."</string>
@@ -4437,6 +4438,12 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
   <string name="join_two_unrelated_items">%1$s i %2$s</string>
+  <string name="kddi_nfc_category_title">NFC/Osaifu-keitai</string>
+  <string name="kddi_nfc_disabled_summary">Nedostupno jer je NFC/Osaifu-keitai isključen</string>
+  <string name="kddi_nfc_quick_toggle_summary">Uključite značajku NFC/Osaifu-keitai</string>
+  <string name="kddi_nfc_quick_toggle_title">NFC/Osaifu-keitai</string>
+  <string name="kddi_nfc_secure_settings_title">Zaključaj dok je zaključan zaslon</string>
+  <string name="kddi_nfc_secure_toggle_summary">Omogućite funkciju NFC/Osaifu-keitai dok je zaslon otključan</string>
   <string name="keep_legacy_fingerprint">Zadrži</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u stanje mirovanje tijekom punjenja</string>
@@ -5122,7 +5129,8 @@ kao i PIN za Prvi prostor"</string>
   <string name="lte_ram_dump_off">Isključi LTE RAM kopiranje</string>
   <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
   <string name="macaddr_label">MAC adresa:</string>
-  <string name="magic_window_name">Podijeljeni prozor</string>
+  <string name="magic_list_empty_text">Trenutno nema aplikacija kompatibilnih s ovom značajkom</string>
+  <string name="magic_window_name">Optimizirajte aplikacije za pejzažni prikaz</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testiraj povezanost za probleme s mrežom</string>
   <string name="main_running_process_description">Glavni proces u upotrebi.</string>
@@ -6803,7 +6811,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="path_user_dict_settings_title">Postavke/Dodatne postavke/Jezik &amp; unos/Osobni rječnik</string>
   <string name="path_vibrate_in_silent_title">Postavke/Zvuk &amp; vibracija/Vibracija ako je bešumno</string>
   <string name="path_vibrate_on_touch_title">Postavke/Zvuk &amp; vibracija/Vibracija na dodir</string>
-  <string name="path_vibrate_when_ringing_title">Postavke/Zvuk &amp; vibracija/Vibracija i za pozive</string>
+  <string name="path_vibrate_when_ringing_title">Postavke/Zvuk &amp; vibracija/Vibriraj kod poziva</string>
   <string name="path_virtual_sim">Postavke/Više/Međunarodni mobilni podaci</string>
   <string name="path_vpn_enable">Postavke/Više/VPN/VPN</string>
   <string name="path_vpn_settings">Postavke/Više/VPN</string>
@@ -7549,6 +7557,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="reset_network_final_desc">Želite li poništiti sve postavke mreže? Ta se radnja ne može poništiti.</string>
   <string name="reset_network_final_desc_esim">Želite li vratiti sve postavke mreže na zadano i izbrisati preuzete SIM-ove? Ta se radnja ne može poništiti.</string>
   <string name="reset_network_title">Poništi Wi-Fi, mobilne mreže i Bluetooth</string>
+  <string name="reset_network_title_noSim">Poništi Wi-Fi i Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
   <string name="reset_remove_data_hint">Sve gore navedene stavke trajno se brišu. Izradite Sig. kopiju svih važnih stavki na računalo ili Mi Cloud prije nego što nastavite.</string>
   <string name="reset_second_space_passwd">Poništi zaporku Drugog prostora</string>
@@ -8189,7 +8198,7 @@ Da biste upotrijebili prikvačivanje aplikacije: \u0009
   <string name="search_user_dict_settings_title">Osobni rječnik;Riječnik</string>
   <string name="search_vibrate_in_silent_title">Vibracija ako je bešumno;vibriraj;vibracija</string>
   <string name="search_vibrate_on_touch_title">Uključi Vibraciju na dodir;Vibriraj na dodir;vibriraj;vibracija</string>
-  <string name="search_vibrate_when_ringing_title">Vibracija i za pozive;vibriraj;vibracija</string>
+  <string name="search_vibrate_when_ringing_title">Vibriraj kod poziva;vibriraj;vibracija</string>
   <string name="search_virtual_sim">Međunarodni mobilni podaci;Podaci u roamingu;Roaming;Mobilni podaci u roamingu;Lab funkcije</string>
   <string name="search_vpn">VPN;Dodaj VPN;Uključi VPN</string>
   <string name="search_vpn_enable">Uključi VPN;VPN</string>
@@ -10470,7 +10479,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="vibrate_when_ringing_option_always_vibrate">Uvijek vibriraj</string>
   <string name="vibrate_when_ringing_option_never_vibrate">Nikada ne vibriraj</string>
   <string name="vibrate_when_ringing_option_ramping_ringer">Najprije vibriraj, zatim postupno zvoni</string>
-  <string name="vibrate_when_ringing_title">Vibriraj za pozive</string>
+  <string name="vibrate_when_ringing_title">Vibriraj kod poziva</string>
   <string name="video_calling_settings_title">Videopozivanje putem mobilnog operatera</string>
   <string name="video_tool_box_title">Alat za videozapise</string>
   <string name="view_install_log">Prikaži zapis</string>

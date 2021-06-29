@@ -367,6 +367,7 @@
   <string name="launcher_icon_management">Upravljanje prečacima Poč. zaslona</string>
   <string name="launcher_not_exist">Došlo je do pogreške, vratite se na Poč. zaslon i pokušajte ponovno.</string>
   <string name="launcher_pull_down_title">Povuci prema gore na Poč. zaslonu</string>
+  <string name="launcher_search">Pretraživanje početnog zaslona</string>
   <string name="launcher_search_bar_provider_title">Davatelj trake pretraživanja</string>
   <string name="launcher_search_bar_title">Traka za pretraživanje na Poč. zaslonu</string>
   <string name="launcher_search_bar_value_disable">Isključeno</string>

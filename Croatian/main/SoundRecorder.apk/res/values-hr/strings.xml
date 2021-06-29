@@ -101,6 +101,7 @@
   <string name="loading_order_list">Samo trenutak…</string>
   <string name="low_battery_error">"Preostalo je manje od 5% baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
   <string name="low_battery_error_confirm">U redu</string>
+  <string name="low_battery_error_for_pad">"Preostalo je manje od %s baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
   <string name="low_battery_error_title">Slaba baterija</string>
   <string name="mark_point_list_title">Označi</string>
   <string name="menu">Izbornik</string>
@@ -186,6 +187,7 @@
   <string name="notification_playback">Reprodukcija snimke…</string>
   <string name="notification_recording">Snimanje…</string>
   <string name="notification_recording_ticker">Telefon utišan.</string>
+  <string name="notification_recording_ticker_for_pad">Vaš uređaj sada snima zvuk u Bešumnom načinu. Pomoću tipki za glasnoću isključite Bešumni način.</string>
   <string name="notification_save_as_complete">Uspješno spremljeno</string>
   <string name="notification_stopped">Snimanje zaustavljeno</string>
   <string name="notification_title_all_paused">Preuzimanje pauzirano</string>

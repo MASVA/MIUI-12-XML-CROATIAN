@@ -324,7 +324,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="loading">Samo trenutak…</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
-  <string name="lock_show_permission_exception">Dogodila se pogreška. Dopustite prikazivanje Wallpaper Carousela na Zaklj. zaslonu u aplikaciji Sigurnost.</string>
+  <string name="lock_show_permission_exception">Dopustite Wallpaper Carousel da prikazuje stavke na Zaklj. zaslonu.</string>
   <string name="lockscreen_h5_back_tv">Natrag</string>
   <string name="lockscreen_h5_close_tv">Isključi</string>
   <string name="lockscreen_h5_refresh_btn_tv">Osvježi</string>
