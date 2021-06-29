@@ -50,6 +50,8 @@
   <string name="enable_find_device_success">Pronađi uređaj je uključen.</string>
   <string name="expand_button_title">Napredno</string>
   <string name="find_device">Pronađi uređaj</string>
+  <string name="find_device_capture_notification_content">Drugi ovlašteni uređaj snima fotografiju na daljinu putem Pronađi uređaj na i.mi.com.</string>
+  <string name="find_device_capture_notification_title">Pronađi uređaj snima fotografiju na daljinu…</string>
   <string name="find_device_crash">Pronađi uređaj je neočekivano prekinut.</string>
   <string name="find_device_error_access_denied">Pristup je odbijen.</string>
   <string name="find_device_error_account_sys_timeout">"Ne mogu se povezati na Mi Račun."</string>
@@ -68,7 +70,7 @@
   <string name="find_device_stop_noise">Dodirnite U redu da utišate</string>
   <string name="find_device_storage_corrupted">Prostor za pohranu Pronađi uređaj oštećen. Vaš uređaj je sada nesiguran.</string>
   <string name="find_device_success_title">Pronađi uređaj</string>
-  <string name="find_device_telephony_fault">Pronađi uređaj: Pogreška Telefonije (%s).</string>
+  <string name="find_device_telephony_fault">Pronađi uređaj: Pogreška Telefona (%s).</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>

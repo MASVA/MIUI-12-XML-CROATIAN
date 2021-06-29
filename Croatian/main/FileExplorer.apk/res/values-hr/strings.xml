@@ -1,5 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="added_category">Dodano</string>
+  <string name="app_all_purpose_pad">Dobrodošli u Datoteke! Ovu aplikaciju možete koristiti za upravljanje datotekama pohranjenim na vašem uređaju.</string>
+  <string name="available_size">Dostupno: %s</string>
+  <string name="by_date">Vrijeme promjene</string>
+  <string name="by_name">Naziv</string>
+  <string name="by_size">Veličina</string>
+  <string name="by_type">Tip</string>
+  <string name="category_editor_mode">Uredi</string>
+  <string name="category_exit_editor_mode">Izlaz</string>
+  <string name="category_more">Više</string>
+  <string name="display_setting">Prikazane stavke</string>
+  <string name="edit_quick_category">Uredi</string>
+  <string name="enter">Otvori Datoteke</string>
+  <string name="entry_phone_storage_internal">Unutarnja pohrana</string>
+  <string name="entry_storage_cloned_app">Dvojne aplikacije</string>
+  <string name="entry_storage_usb">USB uređaj</string>
+  <string name="guide_one_summary">Nedavne stavke grupirane su prema datumima.</string>
+  <string name="guide_one_title">Stavke raspoređene u vremensku crtu</string>
+  <string name="guide_three_summary">Dodajte, uklonite i preuredite prečace početne stranice.</string>
+  <string name="guide_three_title">Preuredite prečace</string>
+  <string name="guide_two_summary">Fotografije i snimke zaslona u galeriji su prema zadanim postavkama skrivene.</string>
+  <string name="guide_two_title">Pogledajte samo bitne stavke</string>
+  <string name="least_quick_category_hint">Dodajte barem %d prečac</string>
+  <string name="most_quick_category_hint">Možete dodati do %d prečaca</string>
+  <string name="next">Dalje</string>
+  <string name="not_added_category">Dostupno</string>
+  <string name="recent_hide_camera_and_screenshots">"Ne prikazuj stavke galerije i snimke zaslona među nedavnim datotekama"</string>
+  <string name="remainder_size">Preostalo: %s</string>
+  <string name="search_category_folder">Mape</string>
+  <string name="search_more_category">Više</string>
+  <string name="size_lv1">Manje od %d KB</string>
+  <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+  <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+  <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+  <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+  <string name="size_lv6">Veće od %d GB</string>
+  <string name="start_all">Prikaži sve</string>
+  <string name="total_size">Ukupno: %s</string>
   <string name="a_week_share_rank">Tjedni poredak</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Natrag</string>

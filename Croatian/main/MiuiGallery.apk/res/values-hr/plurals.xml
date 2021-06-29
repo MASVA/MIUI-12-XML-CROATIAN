@@ -588,4 +588,7 @@
         <item quantity="other">Stavke ovdje mogu biti pohranjene do %1$d dana. Nadogradite svoj plan za produženje ovog razdoblja.</item>
         <item quantity="one">Stavke ovdje mogu biti pohranjene %1$d dan. Nadogradite svoj plan za produženje ovog razdoblja.</item>
     </plurals>
+	<plurals name="synced_immerse_title">
+        <item quantity="other">Uspješno sinkronizirano %1$d fotografija i %2$d videozapisa</item>
+     </plurals>
 </resources>

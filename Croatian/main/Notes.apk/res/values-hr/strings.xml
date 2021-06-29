@@ -134,6 +134,7 @@
   <string name="cta_v2_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i dodijelite gore navedena obvezna dopuštenja.</string>
   <string name="cta_v2_app_purpose">Izrada, pregled i upravljanje bilješkama</string>
   <string name="cta_v2_app_purpose_v12">Dobrodošli u Bilješke! Ovu aplikaciju možete koristiti za izradu zadataka i bilješki koje sadrže tekst, slike i zvuk.</string>
+  <string name="data_empty_folder">Nema drugih mapa za prikaz</string>
   <string name="data_empty_note">Nema bilješki</string>
   <string name="data_empty_todo">Nema zadataka</string>
   <string name="date_calculate_today">0 dana</string>
@@ -269,6 +270,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="gesture_guide_message">Možete dodirnuti, pritisnuti i zadržati i povlačiti stavke za stvaranje i preuređivanje bilješki. Naučite geste sada?</string>
   <string name="gesture_guide_ok">Nauči</string>
   <string name="gesture_guide_title">Geste</string>
+  <string name="handwrite_description">Rukom napisana bilješka</string>
+  <string name="menu_add_handwrite_description">Dodajte rukom napisanu bilješku</string>
   <string name="hear_note">Diktirane bilješke</string>
   <string name="hidden_notes_fragment_title">Skrivene bilješke</string>
   <string name="hide_arrow_description">Sakrij</string>

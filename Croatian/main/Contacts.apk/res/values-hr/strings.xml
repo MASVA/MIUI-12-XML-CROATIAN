@@ -1770,6 +1770,7 @@ Odaberite jednu od sljedećih opcija:</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="wifi_pad_disable_phone">"Ne mogu pozivati na ovom uređaju"</string>
   <string name="wipe_data">Izbriši podatke</string>
   <string name="yellowPageNavigationIconLabel">Direktorij</string>
   <string name="yellowPageNavigationLabel">Direktorij</string>

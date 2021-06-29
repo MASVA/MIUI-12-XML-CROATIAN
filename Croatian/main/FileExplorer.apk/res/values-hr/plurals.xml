@@ -421,4 +421,12 @@
          <item quantity="other">Osoba: %1$s</item>
          <item quantity="one">%1$s osoba</item>
 	</plurals>
+	<plurals name="search_head_hint_all">
+        <item quantity="other">Rezultati pretraživanja (%1$d stavki)</item>
+        <item quantity="zero">Rezultati pretraživanja (%1$d stavki)</item>
+        <item quantity="one">Rezultati pretraživanja (%1$d stavka)</item>
+        <item quantity="two">Rezultati pretraživanja (%1$d stavke)</item>
+        <item quantity="few">Rezultati pretraživanja (%1$d stavki)</item>
+        <item quantity="many">Rezultati pretraživanja (%1$d stavki)</item>
+     </plurals>
 </resources> 

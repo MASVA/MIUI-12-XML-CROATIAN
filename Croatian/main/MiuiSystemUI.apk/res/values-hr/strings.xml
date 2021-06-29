@@ -833,6 +833,7 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
+  <string name="device_locked_without_biometric">Biometrijsko otkrivanje nije moguće izvesti zbog upotrebe funkcije zaključavanja zaslona s jednim ključem u tri strane</string>
   <string name="device_services">Usluge uređaja</string>
   <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
   <string name="disable_carrier_button_text">Onemogući eSIM</string>
@@ -2930,12 +2931,17 @@ Pohrana vjerodajnica možda nije omogućena."</string>
   <string name="zen_mode_forever">Dok ne isključite</string>
   <string name="zen_mode_settings_summary_off">Nikad</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Uključi DND</string>
-  <string name="zen_mode_warnings_all_time_content">Obavijesti i pozivi će se utišati</string>
-  <string name="zen_mode_warnings_keyguard_content">Obavijesti i pozivi će se utišati kada je uređaj zaključan</string>
+  <string name="zen_mode_warnings_all_time_content">Obavijesti i pozivi će biti utišani</string>
+  <string name="zen_mode_warnings_keyguard_content">Obavijesti i pozivi će biti utišani kada je uređaj zaključan</string>
   <string name="zen_mode_warnings_quit_immediately">Isključi</string>
   <string name="zen_mode_warnings_title">DND je uključen</string>
   <string name="zen_priority_customize_button">Prilagodi</string>
   <string name="zen_priority_introduction">Neće vas ometati zvukovi i vibracije, osim alarma, podsjetnika, događaja i pozivatelja koje navedete. I dalje ćete čuti sve što želite reproducirati, uključujući glazbu, videozapise i igre.</string>
   <string name="zen_silence_introduction">To blokira SVE zvukove i vibracije, uključujući alarme, glazbu, videozapise i igre.</string>
   <string name="zen_silence_introduction_voice">To blokira SVE zvukove i vibracije, uključujući alarme, glazbu, videozapise i igre. I dalje ćete moći telefonirati.</string>
-</resources>
+  <string name="miui_notification_menu_msg_unfold">Prikazati %1$s obavijesti odvojeno?</string>
+  <string name="miui_notification_menu_unfold">Označi kao važno</string>
+  <string name="miui_unimportant_notifications">Nevažne obavijesti</string>
+  <string name="pad_zen_mode_warnings_all_time_content">Obavijesti će biti utišane</string>
+  <string name="pad_zen_mode_warnings_keyguard_content">Obavijesti će biti utišane kad je uređaj zaključan</string>
+</resources> 
