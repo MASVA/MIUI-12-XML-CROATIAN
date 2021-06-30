@@ -86,14 +86,16 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_failed_phone_error">Broj telefona koji ste unijeli nije ispravan.</string>
   <string name="activate_popup_desc_failed_query_info">"Ne mogu pronaći vaš broj telefona. Provjerite je li vaša SIM kartica aktivirana."</string>
   <string name="activate_popup_desc_failed_query_info_msg">"Ne mogu provjeriti broj telefona. Provjerite radi li SIM %d ispravno i pokušajte ponovo."</string>
+  <string name="activate_popup_desc_failed_query_info_msg_one_sim">"Ne mogu provjeriti broj telefona. Provjerite radi li SIM kartica ispravno i pokušajte ponovo."</string>
   <string name="activate_popup_desc_failed_receive_sms">Provjerite je li broj telefona koji ste unijeli ispravan i da je vaša SIM kartica aktivirana.</string>
   <string name="activate_popup_desc_failed_send_sms">"Ne mogu poslati SMS aktivacije. Provjerite je li vaša SIM kartica aktivirana."</string>
   <string name="activate_popup_desc_failed_server">Provjerite svoju mrežnu vezu i pokušajte ponovno.</string>
   <string name="activate_popup_desc_failed_server_msg">Dogodila se pogreška poslužitelja. Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="activate_popup_desc_find_device_postfix">SMS aktivacije će biti poslan nakon što promjenite SIM kartice.</string>
   <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Za aktiviranje %3$s, unesite broj telefona SIM %2$d. Ako zamijenite ovu SIM karticu, poslat će se drugi aktivacijski SMS.</string>
+  <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Za aktiviranje \"%2$s\", unesite vaš broj telefona. Ako zamijenite ovu SIM karticu, poslat će se drugi aktivacijski SMS.</string>
   <string name="activate_popup_desc_intl_sim_card">Vaš operater može vam naplatiti međunarodnu SMS poruku korištenu za aktivaciju %s.</string>
-  <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Pogledajte &amp;lt;a href=https://account.xiaomi.com/helpcenter/faq&amp;gt;Mi Account User Manual&amp;lt;/a&amp;gt; ako imate ikakvih pitanja.&lt;/Data&gt;</string>
+  <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data&gt;Pogledajte &amp;lt;a href=https://account.xiaomi.com/helpcenter/faq&amp;gt;Korisnički priručnik za Mi Račun&amp;lt;/a&amp;gt; ako imate ikakvih pitanja.&lt;/Data&gt;</string>
   <string name="activate_popup_desc_mixed_sim_cards">Vaš operater može vam naplatiti 1 domaću i 1 međunarodnu SMS poruku korištenu za aktivaciju %s.</string>
   <string name="activate_popup_desc_mixed_sim_cards_msg">Za aktiviranje %3$s, %1$d poslati će redovnu i %2$d međunarodnu SMS poruku. Vaš mobilni operater će vam naplatiti te poruke.</string>
   <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Za aktiviranje %3$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;domaća plaćena SMS poruka&lt;/b&gt; i &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;međunarodna plaćena SMS poruka&lt;/b&gt; bit će poslane. Vaš će vam mobilni operater naplatiti te poruke.</string>
@@ -109,11 +111,14 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_popup_desc_sim_card">Vaš operater može vam naplatiti SMS poruku korištenu za aktivaciju %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Unesite broj telefona za aktivaciju %s</string>
   <string name="activate_popup_desc_sim_card_downlink_msg">Za aktiviranje %2$s, unesite broj telefona SIM %1$d.</string>
+  <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Za aktiviranje %s, unesite vaš broj telefona.</string>
   <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Za aktiviranje %2$s, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;plaćena SMS poruka&lt;/font&gt; bit će poslana. Vaš mobilni operater će vam naplatiti tu poruku.</string>
   <string name="activate_popup_desc_voip_privacy">Pravila o Privatnosti</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"VoIP Usluga je podržana od strane Weihui. Prikaži Weihui "</string>
   <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Za aktiviranje %3$s, unesite broj telefona SIM %2$d. Tehničku podršku dijelom pruža Weihuitel. Pojedinosti potražite u Pravilima privatnosti tvrtke Weihuitel.</string>
-  <string name="activate_popup_failed_send_sms_desc">"Nije moguće poslati aktivacijski SMS. Uvjerite se da SIM %d radi ispravno i pokušajte ponovno."</string>
+  <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Za aktiviranje \"%2$s\", unesite vaš broj telefona. Tehničku podršku dijelom pruža Weihuitel. Pojedinosti potražite u Pravilima privatnosti tvrtke Weihuitel.</string>
+  <string name="activate_popup_failed_send_sms_desc">"Nije moguće poslati aktivacijski SMS. Provjerite radi li SIM %d ispravno i pokušajte ponovno."</string>
+  <string name="activate_popup_failed_send_sms_desc_one_sim">"Nije moguće poslati aktivacijski SMS. Provjerite radi li SIM kartica ispravno i pokušajte ponovo."</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Ne mogu pronaći broj telefona"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne mogu poslati SMS poruku"</string>
   <string name="activate_popup_title_error_device_id">Nevažeći IMEI</string>
@@ -132,7 +137,8 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_desc_acquire_phone_number">Dobivanje broja telefona s poslužitelja</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Došlo je do pogreške na poslužitelju pri dobivanju broja telefona</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne mogu provjeriti broj telefona"</string>
-  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Ne mogu provjeriti broj telefona. Uvjerite se da SIM %d radi ispravno i pokušajte ponovno."</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Ne mogu provjeriti broj telefona. Provjerite radi li SIM %d ispravno i pokušajte ponovno."</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Ne mogu provjeriti broj telefona. Provjerite radi li SIM kartica ispravno i pokušajte ponovo."</string>
   <string name="activate_status_desc_checking_xiaomi_account">Provjera Mi Računa…</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju pri provjeri Mi Računa</string>
   <string name="activate_status_desc_completed_with_sms_sent">SMS poslan za aktivaciju SIM-a</string>
@@ -152,7 +158,8 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Došlo je do pogreške na poslužitelju prilikom registracije Mi Računa</string>
   <string name="activate_status_desc_request_activation_sms">Potreban SMS aktivacije s poslužitelja na vaš telefon</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Došlo je do pogreške na poslužitelju tijekom zahtjeva SMS-a aktivacije s poslužitelja na vaš telefonu</string>
-  <string name="activate_status_desc_request_activation_sms_server_error_tip">"Ne mogu primiti aktivacijski SMS. Uvjerite se da SIM %d radi ispravno i pokušajte ponovno."</string>
+  <string name="activate_status_desc_request_activation_sms_server_error_tip">"Ne mogu primiti aktivacijski SMS. Provjerite radi li SIM %d ispravno i pokušajte ponovno."</string>
+  <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">"Ne mogu primiti aktivacijski SMS. Provjerite radi li SIM kartica ispravno i pokušajte ponovo."</string>
   <string name="activate_status_desc_sending_sms">Slanje SMS-a aktivacije…</string>
   <string name="activate_status_desc_sending_sms_fail">"Ne mogu poslati SMS aktivacije poslužitelju"</string>
   <string name="activate_status_desc_sms_sent">SMS aktivacije uspješno poslan</string>
@@ -177,10 +184,12 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
   <string name="error_checking_client_tip">"Nije moguće provjeriti okruženje za aktivaciju. Dodirnite za ponovni pokušaj."</string>
   <string name="error_network_io">Došlo je do pogreške mreže</string>
   <string name="error_network_io_tip">Provjerite mrežne postavke i pokušajte ponovo</string>
-  <string name="error_no_get_send_sms_permission">Najprije dopustite SIM-u %d da pošalje SMS.</string>
+  <string name="error_no_get_send_sms_permission">Prvo dopustite slanje SMS-a SIM-u %d.</string>
+  <string name="error_no_get_send_sms_permission_one_sim">Prvo dopustite slanje SMS-a.</string>
   <string name="error_no_send_sms_permission">Xiaomi Usluga aktivacije SIM kartice treba dopuštenje za slanje SMS poruka</string>
   <string name="error_sim_not_in_service">Ne mogu aktivirati SIM karticu. Provjerite stanje svog računa.</string>
-  <string name="error_sim_not_in_service_tip">"SIM %d se ne može povezati s mrežom. Uvjerite se da SIM kartica radi ispravno i pokušajte ponovno."</string>
+  <string name="error_sim_not_in_service_tip">"SIM %d se ne može povezati s mrežom. Provjerite radi li SIM kartica ispravno i pokušajte ponovno."</string>
+  <string name="error_sim_not_in_service_tip_one_sim">"Ne mogu se povezati s mrežom. Provjerite radi li SIM kartica ispravno i pokušajte ponovno."</string>
   <string name="expand_button_title">Napredno</string>
   <string name="explain_activate_feature_server_title">Aktiviraj %s</string>
   <string name="explain_activate_register_xiaomi_account_title">Izradite Mi Račun</string>
