@@ -266,12 +266,4 @@
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
     </string-array>
-	     <plurals name="num_categories_selected">
-        <item quantity="other">%d odabrano</item>
-        <item quantity="zero">%d odabrano</item>
-        <item quantity="one">%d odabran</item>
-        <item quantity="two">%d odabrano</item>
-        <item quantity="few">%d odabrano</item>
-        <item quantity="many">%d odabrano</item>
-     </plurals>
 </resources>
