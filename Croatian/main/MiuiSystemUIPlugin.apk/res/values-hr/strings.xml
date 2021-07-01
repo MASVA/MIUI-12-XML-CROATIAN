@@ -123,6 +123,8 @@
   <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
+  <string name="kddi_miui_toast_zen_standard_to_off">"Bešumno je isključeno. Pozivi i obavijesti neće biti utišani."</string>
+  <string name="kddi_miui_toast_zen_to_standard">Bešumno je uključeno. Pozivi i obavijesti će biti utišani.</string>
   <string name="loading">Nepoznato</string>
   <string name="material_slider_range_end">Kraj,</string>
   <string name="material_slider_range_start">Početak,</string>
@@ -140,12 +142,14 @@
   <string name="miui_ringer_status_close">Isljučeno</string>
   <string name="miui_ringer_status_open">Uključeno</string>
   <string name="miui_ringer_total">DND</string>
-  <string name="miui_toast_zen_dnd_to_off">"Pozivi i obavijesti više se neće utišavati"</string>
+  <string name="miui_toast_zen_dnd_to_off">"Pozivi i obavijesti više neće biti utišane"</string>
+  <string name="miui_toast_zen_dnd_to_off_T">Obavijesti više neće biti utišane</string>
   <string name="miui_toast_zen_dnd_to_off_version_R">DND je isključeno. Zvukovi obavijesti i vibracije ponovno su uključeni.</string>
   <string name="miui_toast_zen_standard_to_off">DND je isključeno. Melodije zvona ponovno su uključene.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Bešumno je isključeno. Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Bešumno je isključeno. Obavijesti, zvukovi medija i vibracije ponovno su uključeni.</string>
   <string name="miui_toast_zen_to_dnd">Pozivi i obavijesti biti će utišani</string>
+  <string name="miui_toast_zen_to_dnd_T">Obavijesti će biti utišane</string>
   <string name="miui_toast_zen_to_dnd_when_lock">Pozivi i obavijesti biti će utišani kada je uređaj zaključan</string>
   <string name="miui_toast_zen_to_standard">Bešumno je uključeno</string>
   <string name="miui_toast_zen_to_dnd_version_R">DND je uključeno. Obavijesti su utišane i vibracija je isključena.</string>
