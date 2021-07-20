@@ -742,6 +742,7 @@ Promijeniti postavke sada?"</string>
   <string name="app_special_disable_dlg_text">Ako onemogućite ovu aplikaciju, druge aplikacije možda više neće funkcionirati pravilno. Također će se izbrisati vaši podaci.</string>
   <string name="app_special_disable_dlg_title">Izbrisati podatke i onemogućiti aplikaciju?</string>
   <string name="app_switch_key">Nedavno</string>
+  <string name="app_uninstall_sounds_enable_title">Reproduciraj zvuk prilikom deinstaliranja aplikacija</string>
   <string name="app_usage_cycle">Ciklus potrošnje pod. prometa</string>
   <string name="app_usage_preference">Postavke upotrebe aplikacije</string>
   <string name="app_version">Verzija</string>
@@ -2127,7 +2128,11 @@ To utječe na druge aplikacije ili razgovore kojima je dopušteno otvaranje obla
   <string name="color_game_led_applications_title_summary">Odaberite pojedinačne aplikacije koje će raditi s LED svjetlom</string>
   <string name="color_game_led_battery_title">Držite uključeno tijekom punjenja</string>
   <string name="color_game_led_charging_summary">LED svjetlo će se isključiti kad se baterija napuni</string>
+  <string name="color_game_led_color_title">Boja</string>
   <string name="color_game_led_end_time">Kraj</string>
+  <string name="color_game_led_feature_off">Isključeno</string>
+  <string name="color_game_led_feature_on">Uključeno</string>
+  <string name="color_game_led_freq_title">Frekvencija</string>
   <string name="color_game_led_game_mode_summary">Prikaži efekte za igre kada je Game Turbo uključen</string>
   <string name="color_game_led_game_mode_title">Koristi za Game Turbo</string>
   <string name="color_game_led_incall_pulse_title">Koristi za dolazne pozive</string>
@@ -2365,6 +2370,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="cool_color">Cool</string>
   <string name="copy">Kopiraj</string>
   <string name="copyable_slice_toast">Kopirano u međuspremnik: %1$s.</string>
+  <string name="copyright">Autorska prava</string>
   <string name="copyright_title">Autorska prava</string>
   <string name="corner_assistant_gesture_summary">Povuci prema gore od donjeg lijevog ili desnog kuta za otvaranje Google pomoćnika</string>
   <string name="corner_assistant_gesture_title">Povuci prema gore iz kuta za Google pomoćnik</string>
@@ -3284,6 +3290,11 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_gnss_raw_meas_full_tracking_summary">Prati sve konstelacije i frekvencije GNSS-a bez određivanja radnog omjera</string>
   <string name="enable_gpu_debug_layers">Omogući slojeve za otklanjanje pogrešaka GPU-a</string>
   <string name="enable_gpu_debug_layers_summary">Omogućite učitavanje slojeva za otklanjanje pogrešaka GPU-a za aplikacije za otklanjanje pogrešaka</string>
+  <string name="enable_local_backup">Uključi</string>
+  <string name="enable_local_backup_cancel">Odustani</string>
+  <string name="enable_local_backup_message">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
+  <string name="enable_local_backup_ok">U redu</string>
+  <string name="enable_local_backup_title">Lokalne Sig. kopije</string>
   <string name="enable_mms_notification_channel_title">MMS poruka</string>
   <string name="enable_mms_notification_summary">Dodirnite da biste dopustili MMS poruke na usluzi %1$s kad su mobilni podaci isključeni</string>
   <string name="enable_mobile_data_when_opening_hotspot">Uključiti mobilnu podatkovnu vezu također?</string>
@@ -4768,6 +4779,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="local_backup_section_summary_new">Izradite Sig. kopiju računa, podataka aplikacija, postavki sustava i još mnogo toga</string>
   <string name="local_backup_section_title">Lokalne Sig. kopije</string>
   <string name="local_backup_section_title_new">Na ovom uređaju</string>
+  <string name="local_backup_usestatus_title">Lokalne Sig. kopije su isključene</string>
   <string name="local_backup_window_title">Lokalna Sig. kopija</string>
   <string name="local_home_title">Lokalne Sig. kopije</string>
   <string name="local_no_backup">Nema Sig. kopija</string>
@@ -4945,6 +4957,7 @@ Za uređaj i radni profil možete postaviti novo zaključavanje zaslona, ali će
   <string name="lock_settings_title">Sigurnost uređaja</string>
   <string name="lock_settings_with_fingerprint">Zaklj. zaslon &amp; zaporka</string>
   <string name="lock_setup">Postavljanje je završeno.</string>
+  <string name="lock_sound_effect_enable_title">Reproduciraj zvuk prilikom zaključavanja uređaja</string>
   <string name="lock_sounds_enable_title">Zvukovi zaključavanja zaslona</string>
   <string name="lockdown_settings_summary">Prikazuje opciju tipke za uključivanje/isključivanje koja isključuje Smart Lock, otključavanje otiskom prsta i obavijesti na zaključanom zaslonu</string>
   <string name="lockdown_settings_title">Prikaži opciju zaključavanja</string>
@@ -5101,6 +5114,7 @@ kao i PIN za Prvi prostor"</string>
   <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
   <string name="login_account_summary">Upravljanje računima, uslugama u oblaku, plaćanjima i još mnogo toga</string>
+  <string name="login_account_summary_temp">Upravljajte računima, uslugama u cloudu i još mnogo toga</string>
   <string name="login_action">Prijavite se</string>
   <string name="login_failed">"Ne mogu se prijaviti. Pokušajte ponovno."</string>
   <string name="logining">Prijavljivanje…</string>
@@ -5350,6 +5364,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
   <string name="micloud_service_summary">Sinkronizirajte popis aplikacija, izradite Sig. kopiju postavki sustava i izgleda Poč. zaslona</string>
+  <string name="micloud_service_summary_temp">Sinkronizirajte fotografije, videozapise, kontakte i još mnogo toga</string>
   <string name="micloud_service_title">Mi Cloud</string>
   <string name="middle_function_key">Središnje područje</string>
   <string name="miheadet_up_music">Prethodna pjesma</string>
@@ -6066,6 +6081,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_disabled_summary">Nije dostupno jer je NFC isključen</string>
   <string name="nfc_disclaimer_content">NFC razmjenjuje podatke između ovog uređaja i ostalih uređaja u blizini ili ciljeva, na primjer terminala za plaćanje, čitača za pristup i interaktivnih oglasa ili oznaka.</string>
   <string name="nfc_disclaimer_title">Uključite NFC</string>
+  <string name="nfc_dnd_mode_summary">Odgovori na NFC oznake s ograničenom količinom NDEF oznaka</string>
+  <string name="nfc_dnd_mode_title">NFC DND</string>
   <string name="nfc_how_it_works_content">Postavite aplikaciju za plaćanje. Zatim samo prislonite stražnju stranu telefona na bilo koji terminal sa simbolom beskontaktnog povezivanja.</string>
   <string name="nfc_how_it_works_got_it">Razumijem</string>
   <string name="nfc_how_it_works_title">Plaćanje na terminalu</string>
@@ -8567,6 +8584,17 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="shared_data_title">Dijeljeni podaci</string>
   <string name="sharing_remote_bugreport_dialog_message">Ovo izvješće o programskoj pogrešci dijeli se s vašim IT administratorom. Više pojedinosti možete saznati od te osobe.</string>
   <string name="short_summary_font_size">Smanjite ili povećajte tekst</string>
+  <string name="shoulder_key_game_light_settings">Animacije</string>
+  <string name="shoulder_key_settings">Tipke</string>
+  <string name="shoulder_key_settings_title">Tipke</string>
+  <string name="shoulder_key_sound_settings">Zvučni efekti</string>
+  <string name="shoulder_key_sound_switch_title">Zvučni efekti</string>
+  <string name="shoulder_key_sound_text_bullet">Metak</string>
+  <string name="shoulder_key_sound_text_current">Budućnost</string>
+  <string name="shoulder_key_sound_text_sword">Mač</string>
+  <string name="shoulder_key_sound_text_wind">Stroj</string>
+  <string name="shoulder_key_switch_status_close">Isključeno</string>
+  <string name="shoulder_key_switch_status_open">Uključeno</string>
   <string name="show_all_anrs">Prikaži pozadinske ANR-ove</string>
   <string name="show_all_anrs_summary">Dijalog o pozadinskim aplikacijama koje ne reagiraju</string>
   <string name="show_all_apps">Prikaži ukupnu potrošnju uređaja</string>
@@ -8821,6 +8849,7 @@ Obavijesti će se za neke aplikacije možda odgoditi."</string>
   <string name="snooze_options_title">Dopusti odgodu obavijesti</string>
   <string name="soft_ap_create_failed">"Ne mogu izraditi hotspot"</string>
   <string name="soft_ap_creating">Izrada hotspot-a…</string>
+  <string name="softbank_apn_lock_toast">APN je zaključan. Ne mogu urediti.</string>
   <string name="software_backup_info">Podaci aplikacije</string>
   <string name="software_version">Verzija softvera</string>
   <string name="sometimes_running">Ponekad se izvodi (%s)</string>
@@ -9304,6 +9333,17 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="style_and_wallpaper_settings_title">Stilovi i pozadine</string>
   <string name="style_suggestion_summary">Isprobajte različite stilove, pozadine, satove i drugo</string>
   <string name="style_suggestion_title">Prilagodba telefona</string>
+  <string name="stylus_ota_check_update">Provjerite ima li ažuriranja</string>
+  <string name="stylus_ota_current_firmware_version">Firmware verzija</string>
+  <string name="stylus_ota_downloading_firmware">Preuzimanje firmware</string>
+  <string name="stylus_ota_firmware_update">Ažuriraj firmware</string>
+  <string name="stylus_ota_hardware_version">Hardware verzija</string>
+  <string name="stylus_ota_latest">Sve je ažurno</string>
+  <string name="stylus_ota_model">Model</string>
+  <string name="stylus_ota_new_version">Update</string>
+  <string name="stylus_ota_serial_number">Serijski broj</string>
+  <string name="stylus_ota_update">Ažuriraj</string>
+  <string name="stylus_ota_updating">Ažuriranje</string>
   <string name="sub_activate_failed">Aktivacija nije uspjela.</string>
   <string name="sub_activate_not_supported">Aktivacija nije podržana</string>
   <string name="sub_activate_success">Uspješno aktivirano.</string>
@@ -10091,6 +10131,7 @@ S profila će se ukloniti i spremljeni otisci prstiju i nećete moći otključat
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Postavite zaključavanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Nakon postavljanja Zaklj. zaslona možete postaviti i otisak prsta u Postavkama &gt; Sigurnost.</string>
+  <string name="unlock_sound_effect_enable_title">Reproduciraj zvuk prilikom otključavanja uređaja</string>
   <string name="unlock_type_category_title">Metoda prepoznavanja</string>
   <string name="unlogin_account_summary">Sve Mi usluge. Jedan Mi Račun</string>
   <string name="unlogin_account_title">Prijavite se u Mi Račun</string>
@@ -10831,6 +10872,7 @@ Pročitajte pravila o privatnosti davatelja usluga."</string>
   <string name="wifi_assistant_explicitly_confirm_wifi_message">Čini se da postoje druge dostupne mreže. Promijeniti mrežu?</string>
   <string name="wifi_assistant_intro_setup">"Novo! Wi-Fi pomoćnik"</string>
   <string name="wifi_assistant_keep_connection">Ostani povezan</string>
+  <string name="wifi_assistant_keep_wifi_connection">Ne hvala</string>
   <string name="wifi_assistant_no_thanks">Ne, hvala</string>
   <string name="wifi_assistant_off">Isključeno</string>
   <string name="wifi_assistant_ok">U redu</string>

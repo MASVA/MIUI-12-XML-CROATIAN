@@ -870,4 +870,10 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="xiaomi_update_dialog_title">Dostupno ažuriranje</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
+  <string name="disable_local_backup">Isključi lokalne Sig. kopije</string>
+  <string name="disable_local_backup_and_restore">Isključi lokalne Sig. kopije</string>
+  <string name="disable_local_backup_tips">"Nakon što isključite ovu značajku, sve će se lokalne Sig. kopije izbrisati. Postavke Sig. kopije će se izbrisati i Sig. kopije stavki više neće biti rađene automatske. I dalje ćete moći koristiti svoj uređaj kao i obično. Isključiti svejedno?"</string>
+  <string name="enable_local_backup">Uključi lokalne Sig. kopije</string>
+  <string name="enable_local_backup_and_restore">Uključi lokalne Sig. kopije</string>
+  <string name="enable_local_backup_tips">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
 </resources>

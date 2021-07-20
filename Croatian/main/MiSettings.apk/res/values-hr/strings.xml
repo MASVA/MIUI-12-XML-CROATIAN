@@ -35,6 +35,7 @@
   <string name="africans_white_backed_vulture">Bjeloglavi sup</string>
   <string name="all_ringtone">Više</string>
   <string name="all_ringtone_summary">Odaberite melodije zvona online</string>
+  <string name="all_ringtone_summary_pad">Odaberite melodije zvona</string>
   <string name="amazon_introduction">Najraznovrsnija regija na našem planetu često se naziva \"plućima Zemlje\".</string>
   <string name="amazon_orange_winged_info">Amazonka s narančastim krilima velika je bučna papiga koja ispušta glasne visoke krikove.</string>
   <string name="animal_branch">Obitelj</string>
@@ -486,6 +487,7 @@
   <string name="srgb_color_region_summary">Prikaži sav sadržaj zaslona u sRGB rasponu boja</string>
   <string name="start_easymode">Uključi Lite način</string>
   <string name="steady_on_screen_notification_title">Odložite telefon i odmorite se</string>
+  <string name="steady_on_screen_notification_title_pad">Odložite telefon i odmorite se</string>
   <string name="steady_on_screen_notify">Obavijesti o neprekidnom korištenju</string>
   <string name="steady_on_screen_setting">Vremensko ograničenje za neprekidne sesije</string>
   <string name="steady_on_screen_summary">Vremensko ograničenje za neprekidne sesije</string>
@@ -680,7 +682,7 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
   <string name="usage_state_device_limit_summary">Postavite dnevno vremensko ograničenje zaslona za vaš uređaj</string>
   <string name="usage_state_device_limit_title">Vremensko ograničenje zaslona uređaja</string>
   <string name="usage_state_device_noti_today_tip_title">Obavijesti između %1$d:00 i %2$d:00</string>
-  <string name="usage_state_device_unlock_today_tip_title">Otključan uređaj između %1$d:00 i %2$d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title">Uređaj je otključan između %1$d:00 i %2$d:00</string>
   <string name="usage_state_download">Spremi u Galeriju</string>
   <string name="usage_state_duration_title">Ova sesija</string>
   <string name="usage_state_focus_call">Hitni poziv</string>
@@ -694,6 +696,11 @@ Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja d
   <string name="usage_state_focus_mode_title">Način fokusiranja</string>
   <string name="usage_state_focus_mode_warning_message">"Način fokusiranja omogućuje samo korištenje kamere i upućivanje hitnih poziva. Nećete moći prerano isključiti način fokusiranja."</string>
   <string name="usage_state_focus_mode_warning_title">Pažnja</string>
+  <string name="usage_state_focus_mode_experience_warning_message_pad">"Način fokusiranja omogućuje samo upotrebu kamere. Nećete moći prerano isključiti način fokusiranja."</string>
+  <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Način fokusiranja omogućuje samo upotrebu kamere i upućivanje hitnih poziva. Nećete moći prerano isključiti način fokusiranja."</string>
+  <string name="usage_state_focus_mode_warning_message_pad">"Način fokusiranja omogućuje samo upotrebu kamere. Nećete moći prerano isključiti način fokusiranja."</string>
+  <string name="usage_state_focus_mode_warning_message_sim_pad">"Način fokusiranja omogućuje samo upotrebu kamere i upućivanje hitnih poziva. Nećete moći prerano isključiti način fokusiranja."</string>
+  <string name="usage_state_focus_weak_summary_pad">Odložite uređaj</string>
   <string name="usage_state_focus_success">Izazov je završen</string>
   <string name="usage_state_focus_take_photo">Kamera</string>
   <string name="usage_state_focus_warning_text">Fokusirajte se na nešto važno</string>

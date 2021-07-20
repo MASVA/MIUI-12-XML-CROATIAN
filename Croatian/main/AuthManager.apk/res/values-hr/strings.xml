@@ -572,4 +572,9 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="wednesday_shortest">S</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner">Pristup broju telefona za prijavu</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Dobiti broj telefona od mobilnog operatera za prijavu</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Ako se sada niste mogli prijaviti jednim dodirom, vratite se na stranicu za prijavu i pokušajte ponovo."</string>
+  <string name="HIPS_Perm_operator_get_phonenumbner_Message">Ova aplikacija želi dobiti vaš broj telefona od mobilnog operatera za prijavu. Dopustiti?</string>
+  <string name="pp_privacy_lab_operator_introduction">Pažnja</string>
 </resources>

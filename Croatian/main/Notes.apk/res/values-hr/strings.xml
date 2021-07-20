@@ -399,6 +399,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="new_audio_create_talkback_des">Dodirnite za stvaranje tekstualne bilješke. Pritisnite i držite za stvaranje glasovne bilješke. Otpustite tipku da zaustavite snimanje i izradite bilješku ili povucite prema gore da odustanete.</string>
   <string name="new_data_empty_note">Ovdje još nema stavki</string>
   <string name="night">PM</string>
+  <string name="no_network">"Ne mogu se povezati s mrežom"</string>
   <string name="noon">PM</string>
   <string name="not_now">Ne sada</string>
   <string name="not_set">Nije postavljeno</string>
@@ -756,6 +757,9 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="view_all_notes">Prikaži sve</string>
+  <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
+  <string name="web_sso_login_message">Prijava…</string>
+  <string name="webview_reload">Pokušajte ponovo</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>

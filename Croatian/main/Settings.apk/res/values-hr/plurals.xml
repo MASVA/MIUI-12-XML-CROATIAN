@@ -780,4 +780,8 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Wi-Fi će se automatski uključiti kada vaš uređaj otkrije spremljene mreže u blizini i isključiti nakon %d minuta ako nije uspostavljena veza</item>
         <item quantity="one">Wi-Fi će se automatski uključiti kada vaš uređaj otkrije spremljene mreže u blizini i isključiti nakon %d minute ako nije uspostavljena veza</item>
      </plurals>
+	 <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Svakih %d sek.</item>
+        <item quantity="one">Svake %d sekunde</item>
+    </plurals>
 </resources> 
