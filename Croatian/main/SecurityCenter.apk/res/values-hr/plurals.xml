@@ -638,6 +638,18 @@ Odmorite se!"</item>
         <item quantity="other">%s rizičnih plaćanja</item>
         <item quantity="one">%s rizično plaćanje</item>
     </plurals>
+	<plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Preostalo vam je još samo %d pokušaja potvrde SIM PUK-a. Ako dosegnete ograničenje za unos pogrešnih PUK-ova, SIM kartica će se zaključati. Svejedno nastaviti?</item>
+        <item quantity="one">Preostao vam je još samo %d pokušaj potvrde SIM PUK-a. Ako dosegnete ograničenje za unos pogrešnih PUK-ova, SIM kartica će se zaključati. Svejedno nastaviti?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">PIN koji ste unijeli nije točan. Preostalo %d pokušaja.</item>
+        <item quantity="one">PIN koji ste unijeli nije točan. Preostao %d pokušaj.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Unesite SIM PUK. Preostalo %d pokušaja.</item>
+        <item quantity="one">Unesite SIM PUK. Preostao %d pokušaj.</item>
+    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s aplikacije za plaćanje je zaštićeno</item>
         <item quantity="one">%s aplikacija za plaćanje je zaštićena</item>
