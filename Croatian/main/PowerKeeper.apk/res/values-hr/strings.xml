@@ -112,6 +112,8 @@
   <string name="hide_mode_desc">Kada aplikacija radi u pozadini, njezine aktivnosti će se nadzirati da se smanji potrošnja baterije. Ova će funkcija dobiti i koristiti korisničke podatke prema %s</string>
   <string name="hide_mode_ultimate_desc">Ultimativan način je uključen. Aplikacije u pozadini biti će zamrznute. Isključite Štednju baterije za izlaz iz Ultimativnog načina rada.</string>
   <string name="hide_system_app">Sakrij aplikacije sustava</string>
+  <string name="high_temp_benchmark_state">Pregrijavanje</string>
+  <string name="high_temp_benchmark_state_message">"Čini se da je ovaj uređaj sada pregrijan. Koristite ovu aplikaciju nakon što se uređaj ohladi: "</string>
   <string name="high">Performanse</string>
   <string name="high_temp_state">Pregrijavanje</string>
   <string name="high_temp_state_message">Vaš uređaj je pregrijan. Mobilni podaci, Wi-Fi hotspotovi, GPS i kamera bit će ograničeni.</string>

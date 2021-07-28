@@ -2956,6 +2956,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disable_power_key_long_press_under_keyguard">Isključi izbornik tipke za uključivanje</string>
+  <string name="disable_quick_start">Isključi brzo pokretanje</string>
   <string name="disable_service_message">Ako dodirnete \"U redu\", usluga %1$s će se zaustaviti.</string>
   <string name="disable_service_title">Želite li zaustaviti %1$s?</string>
   <string name="disable_text">Onemogući</string>
@@ -3302,6 +3303,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_multi_window_summary">Više istovremenih aktivnosti na zaslonu.</string>
   <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
   <string name="enable_quick_setting">Prikaži u Brzim postavkama</string>
+  <string name="enable_quick_start">Uključi brzo pokretanje</string>
   <string name="enable_quickboot_summary">Stavite uređaj u QuickBoot način, umjesto normalnog isključivanja</string>
   <string name="enable_quickboot_title">Omogući QuickBoot način</string>
   <string name="enable_receiving_mms_notification_title">Dolazna MMS poruka</string>
@@ -3558,7 +3560,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="face_data_siggesstion_next">Dalje</string>
   <string name="face_data_siggesstion_next_time">Dalje (%ds)</string>
   <string name="face_data_suggesstion_first">Otključavanje lica manje je sigurno od PIN-a, zaporke ili uzorka. Vaš će uređaj možda biti otključan s vašom fotografijom, kao i osobe ili predmeti sličnog izgleda.</string>
-  <string name="face_data_suggesstion_second">"Provjerite nisu li svi dijelovi lica prekriveni predmetima i jasno su vidljivi. I vaše bi lice trebalo biti dobro osvijetljeno."</string>
+  <string name="face_data_suggesstion_second">"Uvjerite se da su svi dijelovi lica jasno vidljivi. Ne nosite nikakav pribor koji bi mogao prekriti vaše lice. Neka vam lice bude ravnomjerno osvijetljeno i izbjegavajte izravno svjetlo."</string>
   <string name="face_intro_error_max">Dodali ste maksimalan broj lica</string>
   <string name="face_intro_error_unknown">Nije moguće dodati više lica</string>
   <string name="face_lock_screen_setup_skip_dialog_text">Zaštitite telefon pomoću opcije zaključavanja zaslona kako se nitko ne bi mogao njime koristiti ako ga izgubite ili ga netko ukrade. Opcija zaključavanja zaslona treba vam i za postavljanje otključavanja licem. Da biste se vratili, dodirnite Odustani.</string>
@@ -6551,6 +6553,7 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="pad_backup_summary">Napravite sigurnosnu kopiju i vratite stavke na ovom uređaju</string>
   <string name="pad_backup_title">Mobilni uređaj</string>
   <string name="pad_computer_backup_summary">Napravite sigurnosnu kopiju i vratite stavke pomoću računala</string>
+  <string name="pad_flash_drive_backup_enable">Upotrijebite USB pogon za sigurnosno kopiranje ili vraćanje stavki</string>
   <string name="pad_how_backup_content">"Sigurnosne kopije možete spremiti lokalno ili u Mi Cloud. Lokalne sigurnosne kopije mogu se pohraniti na vaš mobilni uređaj, računalo ili USB pogon.
 
 Mobilni uređaj

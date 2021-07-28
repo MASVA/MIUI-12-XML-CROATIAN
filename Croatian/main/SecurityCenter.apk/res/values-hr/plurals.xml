@@ -137,11 +137,11 @@
         <item quantity="one">Prati uporabu podataka za %d aplikaciju</item>
     </plurals>
 	<plurals name="hints_traffic_saving_optimized">
-        <item quantity="other">Ovoliko aplikacija (%d) je optimizirano</item>
+        <item quantity="other">Optimizirano je %d aplikacija</item>
         <item quantity="one">%d aplikacija optimizirana</item>
     </plurals>
     <plurals name="hints_traffic_saving_need_optimize">
-        <item quantity="other">Ovoliko aplikacija (%d) može biti optimizirano</item>
+        <item quantity="other">%d aplikacija može biti optimizirano</item>
         <item quantity="one">%d aplikacija može biti optimizirana</item>
     </plurals>
 	<plurals name="pc_main_power_center_battery_day">
@@ -395,7 +395,7 @@ Odmorite se!"</item>
         <item quantity="one">pronađeno %d rizična aplikacija</item>
     </plurals>
     <plurals name="privacy_risk_photo_location_tip">
-        <item quantity="other">otkriveno %d rizika otkrivanja podataka o lokaciji</item>
+        <item quantity="other">Otkriveno %d rizika otkrivanja podataka o lokaciji</item>
         <item quantity="one">%d otkriven rizik otkrivanja podataka o lokaciji</item>
     </plurals>
     <plurals name="privacy_risk_result_item_error">
@@ -480,7 +480,7 @@ Odmorite se!"</item>
      </plurals>
 	<plurals name="summary_app_update">
         <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
-        <item quantity="one">Ažuriranja dostupna za (%d) aplikacija</item>
+        <item quantity="one">Ažuriranja dostupna za %d aplikaciju</item>
     </plurals>
 	<plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Izbriši %d instalacijskih paketa</item>
@@ -491,8 +491,8 @@ Odmorite se!"</item>
          <item quantity="one">%d dan od posljednjeg pregleda</item>
      </plurals>
 	 <plurals name="hints_scan_danger_result_with_number">
-         <item quantity="other">%d​ pronađenih rizika, popravi sada</item>
-         <item quantity="one">%d pronađen rizik, popravi sada</item>
+         <item quantity="other">Otkriveno %d rizika</item>
+         <item quantity="one">Otkriven %d rizik</item>
     </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
          <item quantity="other">%d rizika,</item>
@@ -507,12 +507,16 @@ Odmorite se!"</item>
          <item quantity="one">%d rizik</item>
     </plurals>
     <plurals name="hints_scan_result_danger">
-         <item quantity="other">%d​ pronađenih rizika, popravi sada</item>
+         <item quantity="other">Pronađeno %d​ rizika, popravite ih sada</item>
          <item quantity="one">%d pronađen rizik, popravi sada</item>
     </plurals>
 	<plurals name="virus_clean_num">
          <item quantity="other">Popravljeno je %1$d problema. Sve izgleda uredno</item>
          <item quantity="one">Popravljen je %1$d problem. Sve izgleda uredno</item>
+    </plurals>
+	<plurals name="virus_clear_dialog_content">
+        <item quantity="other">Izbrisati %d odabranih aplikacija?</item>
+        <item quantity="one">Izbrisati %d odabranu aplikaciju?</item>
     </plurals>
 	<plurals name="white_list_risk_app_header">
          <item quantity="other">Opasne aplikacije: %d</item>
@@ -623,8 +627,8 @@ Odmorite se!"</item>
         <item quantity="one">Traži %d aplik.</item>
 		</plurals>
 	<plurals name="result_virus_header">
-         <item quantity="other">Pronađeno virusa i nesigurnih aplikacija: %d</item>
-         <item quantity="one">Pronađen je %d virus</item>
+         <item quantity="other">Otkriveno je %d zlonamjernih aplikacija</item>
+         <item quantity="one">Otkrivena je %d zlonamjerna aplikacija</item>
      </plurals>
      <plurals name="result_sign_header">
          <item quantity="other">Pronađeno neslužbenih aplikacija: %d</item>
@@ -671,8 +675,8 @@ Odmorite se!"</item>
          <item quantity="one">%d zaklj. aplik. čeka da bude očišćena</item>
      </plurals>
      <plurals name="section_security_defend_item_right_tips">
-         <item quantity="other">Izbrisano virusa: %d</item>
-         <item quantity="one">Izbrisan je %d virus</item>
+         <item quantity="other">Izbrisano %d zlonamjernih aplikacija</item>
+         <item quantity="one">Izbrisana je %d zlonamjerna aplikacija</item>
      </plurals>
 	 <plurals name="om_running_apps_num">
         <item quantity="other">%d aplikacija</item>

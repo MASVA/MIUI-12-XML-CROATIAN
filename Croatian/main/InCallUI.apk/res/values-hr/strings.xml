@@ -202,7 +202,7 @@
   <string name="incall_error_supp_service_transfer">"Ne mogu prebaciti poziv."</string>
   <string name="incall_error_supp_service_unknown">"Ova usluga nije podržana."</string>
   <string name="incoming_answer_voice_text">Odgovor glasom</string>
-  <string name="incoming_call_forwarded_title">Prosijedi dolazni poziv</string>
+  <string name="incoming_call_forwarded_title">Proslijedeni poziv</string>
   <string name="incoming_circle_text_answer">Otpusti</string>
   <string name="incoming_circle_text_answer_p">Povuci prema gore</string>
   <string name="incoming_circle_text_message">Otpusti</string>

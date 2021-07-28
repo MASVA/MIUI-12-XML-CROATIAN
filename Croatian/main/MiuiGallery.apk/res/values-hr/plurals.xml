@@ -80,6 +80,10 @@
         <item quantity="other">Ukupno: %1$d</item>
         <item quantity="one">Ukupno: %1$d</item>
     </plurals>
+	<plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Rotiraj %d stupnjeva</item>
+        <item quantity="one">Rotiraj %d stupnjeva</item>
+    </plurals>
 	<plurals name="photo_remain_days">
         <item quantity="other">%d dana</item>
         <item quantity="one">%d dan</item>
@@ -400,14 +404,34 @@
          <item quantity="other">Optimizirano fotografija: %d</item>
          <item quantity="one">Optimizirana je %d fotografija</item>
      </plurals>
+	 <plurals name="slim_complete_photo_count_v2">
+         <item quantity="other">Optimizirano fotografija: %d</item>
+         <item quantity="one">Optimizirana je %d fotografija</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">Optimizirano %d videozapisa</item>
+        <item quantity="one">Optimiziran %d videozapis</item>
+    </plurals>
      <plurals name="slim_exit_dialog_message">
          <item quantity="other">"%d fotografija nije optimizirano. Zaustaviti sada?"</item>
          <item quantity="one">"%d fotografija nije optimizirana. Zaustaviti sada?"</item>
      </plurals>
+	 <plurals name="slim_photo_count">
+        <item quantity="other">%d fotografija</item>
+        <item quantity="one">%d fotografija</item>
+    </plurals>
      <plurals name="slim_remain_photo_count">
          <item quantity="other">preostalo %d fotografija</item>
          <item quantity="one">preostala %d fotografija</item>
      </plurals>
+	 <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">Preostalo je %d stavki za optimizaciju</item>
+        <item quantity="one">preostala je %d stavka za optimizaciju</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d videozapisa</item>
+        <item quantity="one">%d videozapis</item>
+    </plurals>
      <plurals name="sync_error_title">
          <item quantity="other">Nije pohranjeno %d fotografija ili videozapisa</item>
          <item quantity="one">Nije pohranjeno %d fotografija ili videozapis</item>
@@ -568,6 +592,10 @@
         <item quantity="other">%1$d datoteka</item>
         <item quantity="one">%1$d datoteka</item>
      </plurals>
+	 <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s stavki</item>
+        <item quantity="one">%1$s, %2$s stavka</item>
+    </plurals>
 	 <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">"Nećete biti u mogućnosti vratiti odabrane stavke (%d) ako ih izbrišete. Izbrisati svejedno?"</item>
         <item quantity="one">"Nećete biti u mogućnosti vratiti %d odabranu stavku ako je izbrišete. Izbrisati svejedno?"</item>

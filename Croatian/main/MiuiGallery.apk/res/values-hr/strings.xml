@@ -158,6 +158,7 @@
   <string name="album_rubbish_tip_title">Moguće suvišni albumi</string>
   <string name="album_scanner">Skener</string>
   <string name="album_screen_recorder">Snimač zaslona</string>
+  <string name="album_screenshot_and_screen_recorder_name">Snimke zaslona</string>
   <string name="album_screenshot_name">Snimke zaslona</string>
   <string name="album_share_cant_move_to_rubbish_tip">"Ne mogu dijeljene albume premjestiti u smeće"</string>
   <string name="album_share_exit_confirm">Izaći iz albuma?</string>
@@ -798,6 +799,8 @@
   <string name="error_unknown_msg">Dogodila se pogreška. Pošaljite nam povratne informacije.</string>
   <string name="error_unknown_tip">Dogodila se pogreška.</string>
   <string name="evening">Podvečer</string>
+  <string name="exif_tag_smart_fusion">Smart Fusion</string>
+  <string name="exif_title_smart_fusion">Poboljšanje slike:</string>
   <string name="exit">Izlaz</string>
   <string name="exit_choice_mode">Izlaz iz dijaloškog okvira</string>
   <string name="exit_share">Napusti album</string>
@@ -2253,10 +2256,18 @@ za fotografije"</string>
   <string name="slideshow_interval_invalid">Interval mora biti između %1$d i %2$d sekundi</string>
   <string name="slideshow_interval_title">Prikaži svaki slajd na</string>
   <string name="slideshow_loop_title">Ponovi sve slajdove</string>
+  <string name="slim_action">Optimiziraj</string>
+  <string name="slim_action_auto_backup">Uključi</string>
+  <string name="slim_action_auto_backup_disable_description">Pohranite originalne fotografije i videozapise u cloudu, a na ovom uređaju držite manje visokokvalitetne kopije.</string>
+  <string name="slim_action_auto_backup_enable_description">Prijenos stavki u cloud…</string>
+  <string name="slim_action_auto_backup_sub_tip">Oslobodite prostor za pohranu</string>
+  <string name="slim_action_auto_backup_tip">Uključite sinkronizaciju s cloudom</string>
   <string name="slim_after_backuped_summary">Zamijenite fotografije pune razlučivosti na uređaju s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. Fotografije u punoj razlučivosti i dalje će biti dostupne na Mi Cloudu. To može uštedjeti mnogo lokalnog prostora za pohranu.</string>
   <string name="slim_after_backuped_title">Optimiziraj lokalnu pohranu nakon napravljene Sig. kopije</string>
   <string name="slim_complete">Gotovo</string>
   <string name="slim_complete_action_title">Uspješno optimizirano</string>
+  <string name="slim_complete_count">"Optimizrano %1$s i %2$s. "</string>
+  <string name="slim_complete_download_tip">Kopije visoke kvalitete automatski će se preuzimati umjesto originala.</string>
   <string name="slim_cost_time_minute">preostalo %d min</string>
   <string name="slim_cost_time_minute_and_second">preostalo %1$d min %2$d sek</string>
   <string name="slim_cost_time_second">preostalo %d sek</string>
@@ -2264,7 +2275,12 @@ za fotografije"</string>
   <string name="slim_description_dialog_ok">Razumijem</string>
   <string name="slim_description_dialog_slim_after">"Poslije: %d KB"</string>
   <string name="slim_description_dialog_slim_before">"Prije: %.2f MB"</string>
-  <string name="slim_dialog_message">Optimizirane HD fotografije bit će preuzete s Mi Clouda umjesto originalnih datoteka.</string>
+  <string name="slim_dialog_empty_message">"Nije moguće pronaći stavke za optimizaciju."</string>
+  <string name="slim_dialog_empty_positive">Razumijem</string>  
+  <string name="slim_dialog_empty_title">Pažnja</string>
+  <string name="slim_dialog_message" formatted="false">"Zamijenite originalne fotografije i videozapise visokokvalitetnim kopijama %d dana nakon izrade stavki. Originalne datoteke bit će pohranjene u oblaku. Moći ćete osloboditi oko %s lokalnog prosttora za pohranu."</string>
+  <string name="slim_dialog_positive">Optimiziraj</string>
+  <string name="slim_dialog_title">Optimiziraj prostor za pohranu</string>
   <string name="slim_exit_dialog_positive">Zaustavi</string>
   <string name="slim_exit_dialog_title">Zaustavi optimiziranje</string>
   <string name="slim_introduce">Zamijenite fotografije i videozapise pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti više od 90% prostora za pohranu (potreban Mi Račun).</string>
@@ -2275,9 +2291,14 @@ za fotografije"</string>
   <string name="slim_running">Optimiziranje…</string>
   <string name="slim_space">oslobodi</string>
   <string name="slim_stop">Zaustavi optimiziranje</string>
+  <string name="slim_preference_scanning">Analiziranje fotografija i videozapisa…</string>
+  <string name="slim_preference_summery">Pohranite originalne fotografije i videozapise u cloudu, a na ovom uređaju držite manje visokokvalitetne kopije. Manje kopije zamijenit će originalne datoteke %d dana nakon izrade stavki.</string>
+  <string name="slim_preference_title">Optimiziraj prostor za pohranu</string>
   <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na Wi-Fi. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi originalnu datoteku" u izborniku te stavke.</string>
   <string name="slim_tip_title">Optimiziranje pohrane</string>
   <string name="slimming">Optimiziranje…</string>
+  <string name="slim_stop_v2">Stop</string>
+  <string name="slim_success_tip">Oslobodi %s prostora za pohranu</string>
   <string name="solar_term_autumn_begins">Početak jeseni</string>
   <string name="solar_term_autumn_equinox">Mjesečev festival</string>
   <string name="solar_term_clear_and_bright">Jasno</string>
@@ -2990,7 +3011,7 @@ za fotografije"</string>
   <string name="welcome_to_slim">Optimizirajte unutarnju pohranu</string>
   <string name="where_is_barcode">"Gdje je QR kod?"</string>
   <string name="who_is_this">Tko je to?</string>
-  <string name="widget_custom_store_detail_desc">"Odaberite slike koje želite vidjeti"</string>
+  <string name="widget_custom_store_detail_desc">"Dodajte widget, a zatim ga dodirnite za odabir fotografija"</string>
   <string name="widget_editor_confirm">Gotovo</string>
   <string name="widget_editor_reselect">Odaberite ponovno</string>
   <string name="widget_editor_title">Uredi</string>
@@ -3003,6 +3024,8 @@ za fotografije"</string>
   <string name="widget_recommend_default_title_on_story">Uspomene</string>
   <string name="widget_recommend_default_title_open_story">Uključi \"Uspomene\"</string>
   <string name="widget_recommend_store_detail_desc">Nedavne fotografije i svijetli trenuci iz prošlosti</string>
+  <string name="widget_talkback_custom">Galerija. Odabrane slike.</string>
+  <string name="widget_talkback_recommend">Galerija. Uspomene.</string>
   <string name="xiaomi">Mi</string>
   <string name="xiaomi_10">Mi 10</string>
   <string name="xiaomi_10_pro">Mi 10 Pro</string>
