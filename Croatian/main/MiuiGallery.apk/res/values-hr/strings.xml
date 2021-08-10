@@ -59,6 +59,7 @@
   <string name="add_automatically_alert_title">Dodaj fotografije automatski</string>
   <string name="add_nomedia_with_move_to_rubbish">Dodaj \".nomedia\" datoteke u odabrane albume kako bi ih učinili nevidljivim ostalim aplikacijama</string>
   <string name="add_remove_nomedia_dialog_message">"Dodati \".nomedia\" datoteke u odabrane albume? Ostale aplikacije neće moći vidjeti ove albume nakon ovoga."</string>
+  <string name="add_secret_ensure_message_new">Da biste pregledali stavke koje ste učinili privatnima, povucite prema dolje u \"Albumi\".</string>
   <string name="add_secret_ensure_title">Privatni album</string>
   <string name="add_sharer">Dodaj člana</string>
   <string name="add_to_album">Dodaj u album</string>
@@ -190,7 +191,9 @@
   <string name="alert_secret_album_enter">U redu</string>
   <string name="alert_secret_album_message">Za prikaz privatnog albuma prstom povucite prema dolje u \"Albumi\".</string>
   <string name="alert_secret_album_message_lower_case">  povucite prema dolje u \"Albumi\" za prikaz.</string>
+  <string name="alert_secret_album_message_new">Povucite prema dolje u odjeljku \"Albumi\" za pregled privatnih stavki.</string>
   <string name="alert_secret_album_title">Kako vidjeti privatni album</string>
+  <string name="alert_secret_album_title_new">Uspješno dodano</string>
   <string name="alert_selection_description">MIUI će analizirati slične fotografije i označiti najbolje snimke za vas.</string>
   <string name="alert_selection_title">Odaberite najbolju fotografiju</string>
   <string name="all_faces">Fotografije s tom osobom</string>
@@ -226,6 +229,7 @@
   <string name="aspect_ratio_free">Prilagođeno</string>
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
+  <string name="assistant_page_community">Zajednica</string>
   <string name="assistant_page_discovery">Otkrij</string>
   <string name="assistant_page_label">Uspomene</string>
   <string name="assistant_page_server_error">Provjerite postavke mreže</string>
@@ -648,10 +652,6 @@
   <string name="document_provider_guide_step_3">%d. Dodirni tipku izbornika sa strane.</string>
   <string name="document_provider_guide_step_4">%d. Odaberi \"SD kartica\".</string>
   <string name="document_provider_guide_step_5">%d. Dodirni \"Odaberi\".</string>
-  <string name="doodle_paint_select_heavy_talkback">Deblje</string>
-  <string name="doodle_paint_select_light_talkback">Tanje</string>
-  <string name="doodle_paint_select_medium_talkback">Regularno</string>
-  <string name="doodle_paint_select_talkback">Širina poteza</string>
   <string name="documentary">Dokumentarni</string>
   <string name="doodle">Crtarija</string>
   <string name="doodle_big_size">Veliko</string>
@@ -659,6 +659,10 @@
   <string name="doodle_mark">Marker</string>
   <string name="doodle_middle_size">Srednje</string>
   <string name="doodle_mosaic">Mozaik</string>
+  <string name="doodle_paint_select_heavy_talkback">Deblje</string>
+  <string name="doodle_paint_select_light_talkback">Tanje</string>
+  <string name="doodle_paint_select_medium_talkback">Regularno</string>
+  <string name="doodle_paint_select_talkback">Širina poteza</string>
   <string name="doodle_pen">Kemijska</string>
   <string name="doodle_pencil">Olovka</string>
   <string name="doodle_small_size">Malo</string>
@@ -1117,9 +1121,9 @@ za fotografije"</string>
   <string name="frame_black">Crna</string>
   <string name="frame_button">Okvir</string>
   <string name="frame_classic">Klasično</string>
-  <string name="frame_movie">Film</string>
   <string name="frame_color_selector_talkback_hide">Sakrij birač boja</string>
   <string name="frame_color_selector_talkback_show">Prikaži birač boja</string>
+  <string name="frame_movie">Film</string>
   <string name="frame_not_support_image_ratio">"Ovaj omjer nije podržan"</string>
   <string name="frame_semicircle">Polukrug</string>
   <string name="frame_white">Bijela</string>
@@ -1232,6 +1236,15 @@ za fotografije"</string>
   <string name="invited_tip">Pozvan</string>
   <string name="is">Da</string>
   <string name="is_higher_definition">HD pregled</string>
+  <string name="keyboard_shortcut_copy">Kopiraj</string>
+  <string name="keyboard_shortcut_cut">Obreži</string>
+  <string name="keyboard_shortcut_day">Dan</string>
+  <string name="keyboard_shortcut_delete">Izbriši</string>
+  <string name="keyboard_shortcut_month">Mjesečni prikaz</string>
+  <string name="keyboard_shortcut_paste">Zalijepi</string>
+  <string name="keyboard_shortcut_search">Traži</string>
+  <string name="keyboard_shortcut_select_all">Odaberi sve</string>
+  <string name="keyboard_shortcut_year">Godišnji prikaz</string>
   <string name="kick_owner_user_positive_button_text">Ukloni</string>
   <string name="kick_owner_user_title">Ukloniti ovu osobu?</string>
   <string name="kick_sharer">Ukloni zajedničkog gledatelja</string>
@@ -1491,7 +1504,6 @@ za fotografije"</string>
   <string name="more_face">Više osoba koje izgledaju podjednako</string>
   <string name="more_face_album_name">Više osoba</string>
   <string name="morning">Jutro</string>
-  <string name="motion_photo_enter"/>
   <string name="mosaic_item_talkback_effect1">Rešetka</string>
   <string name="mosaic_item_talkback_effect10">Hexagons</string>
   <string name="mosaic_item_talkback_effect11">Sprinkles</string>
@@ -1504,6 +1516,7 @@ za fotografije"</string>
   <string name="mosaic_item_talkback_effect8">Cvijeće</string>
   <string name="mosaic_item_talkback_effect9">Zvijezde</string>
   <string name="mosaic_item_talkback_eraser">Gumica</string>
+  <string name="motion_photo_enter"/>
   <string name="motion_photo_play">Reproduciraj</string>
   <string name="move_to_other_albums_tip">Premjestiti ovaj album u album Ostalo?</string>
   <string name="move_to_rubbish_albums_tip">Premjestiti odabrane albume u smeće?</string>
@@ -1512,6 +1525,8 @@ za fotografije"</string>
   <string name="movie_audio_custom">Lokalno</string>
   <string name="movie_audio_dream">San</string>
   <string name="movie_audio_electronics">Elektro</string>
+  <string name="movie_audio_local_cd">Lokalni zvuk</string>
+  <string name="movie_audio_no_cd">Nema zvučnog zapisa</string>
   <string name="movie_audio_none">Ništa</string>
   <string name="movie_audio_point1">Neon</string>
   <string name="movie_audio_point2">Zalazak sunca</string>
@@ -1540,6 +1555,8 @@ za fotografije"</string>
   <string name="movie_download_with_metered_network_msg">"Preuzimanje originalnih datoteka će stvorriti dodatne troškove. Preuzeti svejedno?"</string>
   <string name="movie_download_with_metered_network_title">"Povezani ste na plaćenu mrežu"</string>
   <string name="movie_edit">Uredi</string>
+  <string name="movie_edit_photo">Fotografija</string>
+  <string name="movie_full_screen">Cijeli zaslon</string>
   <string name="movie_item_name">Isječak</string>
   <string name="movie_preview_btn">Pregled</string>
   <string name="movie_preview_share_title">Podijeli</string>
@@ -1854,11 +1871,11 @@ za fotografije"</string>
   <string name="photo_editor_talkback_random_icon">Filtar slučajnog neba</string>
   <string name="photo_editor_talkback_recently">Nedavo korišteno</string>
   <string name="photo_editor_talkback_redo">Vrati</string>
-  <string name="photo_editor_talkback_undo">Poništi</string>
   <string name="photo_editor_talkback_seekbar">Efekat prikazivanja</string>
   <string name="photo_editor_talkback_sky_add_text">Dodaj tekst</string>
   <string name="photo_editor_talkback_sky_audio_close">"Bez zvuka"</string>
   <string name="photo_editor_talkback_sky_audio_open">Reproduciraj zvuk</string>
+  <string name="photo_editor_talkback_undo">Poništi</string>
   <string name="photo_editor_text">Tekst</string>
   <string name="photo_font_cancel_download">Odustani</string>
   <string name="photo_font_download">Preuzmi</string>
@@ -1936,7 +1953,8 @@ za fotografije"</string>
   <string name="prepare_to_drop">Spremanje u %s</string>
   <string name="preparing_data">Samo trenutak…</string>
   <string name="print_log">Isprintaj zapis</string>
-  <string name="privacy_permission_request_message"><Data>Galerija treba pristupiti %3$s. Podaci koje prikupljamo koristit će se u skladu s našim &lt;a href=\"%1$s\">\"Uvjeti pružanja usluge\"&lt;/a> i &lt;a href=\"%2$s\">\"Pravila o privatnosti\"&lt;/a>. Dopustiti?</Data></string><string name="privacy_permission_request_negative">Ograniči</string>
+  <string name="privacy_permission_request_message">&lt;Data&gt;Galerija treba pristupiti %3$s. Podaci koje prikupljamo koristit &amp;#263;e se u skladu s na&amp;#353;im &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pru&amp;#382;anja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;. Dopustiti?&lt;/Data&gt;</string>
+  <string name="privacy_permission_request_negative">Ograniči</string>
   <string name="privacy_permission_request_positive">Dopusti</string>
   <string name="privacy_permission_request_title">Potrebno je dopuštenje</string>
   <string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
@@ -2276,7 +2294,7 @@ za fotografije"</string>
   <string name="slim_description_dialog_slim_after">"Poslije: %d KB"</string>
   <string name="slim_description_dialog_slim_before">"Prije: %.2f MB"</string>
   <string name="slim_dialog_empty_message">"Nije moguće pronaći stavke za optimizaciju."</string>
-  <string name="slim_dialog_empty_positive">Razumijem</string>  
+  <string name="slim_dialog_empty_positive">Razumijem</string>
   <string name="slim_dialog_empty_title">Pažnja</string>
   <string name="slim_dialog_message" formatted="false">"Zamijenite originalne fotografije i videozapise visokokvalitetnim kopijama %d dana nakon izrade stavki. Originalne datoteke bit će pohranjene u oblaku. Moći ćete osloboditi oko %s lokalnog prosttora za pohranu."</string>
   <string name="slim_dialog_positive">Optimiziraj</string>
@@ -2286,19 +2304,19 @@ za fotografije"</string>
   <string name="slim_introduce">Zamijenite fotografije i videozapise pune rezolucije u lokalnoj pohrani s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti više od 90% prostora za pohranu (potreban Mi Račun).</string>
   <string name="slim_introduce_with_specific_size">Zamijenite datoteke pune rezolucije s optimiziranim verzijama nakon što ih pohranite na Mi Cloud. One s punom rezolucijom su još uvijek pohranjene na Mi Cloudu. To može uštedjeti %1$s (potreban je Mi Račun).</string>
   <string name="slim_now">Optimiziraj sada</string>
+  <string name="slim_preference_scanning">Analiziranje fotografija i videozapisa…</string>
+  <string name="slim_preference_summery">Pohranite originalne fotografije i videozapise u cloudu, a na ovom uređaju držite manje visokokvalitetne kopije. Manje kopije zamijenit će originalne datoteke %d dana nakon izrade stavki.</string>
+  <string name="slim_preference_title">Optimiziraj prostor za pohranu</string>
   <string name="slim_result_size">Ušteđeno %1$s</string>
   <string name="slim_result_title">Uspješno optimizirano</string>
   <string name="slim_running">Optimiziranje…</string>
   <string name="slim_space">oslobodi</string>
   <string name="slim_stop">Zaustavi optimiziranje</string>
-  <string name="slim_preference_scanning">Analiziranje fotografija i videozapisa…</string>
-  <string name="slim_preference_summery">Pohranite originalne fotografije i videozapise u cloudu, a na ovom uređaju držite manje visokokvalitetne kopije. Manje kopije zamijenit će originalne datoteke %d dana nakon izrade stavki.</string>
-  <string name="slim_preference_title">Optimiziraj prostor za pohranu</string>
+  <string name="slim_stop_v2">Stop</string>
+  <string name="slim_success_tip">Oslobodi %s prostora za pohranu</string>
   <string name="slim_tip_msg">Datoteke će se optimizirati kada je uređaj povezan na Wi-Fi. Preuzmite stavke pune razlučivosti dodirom na "Preuzmi originalnu datoteku" u izborniku te stavke.</string>
   <string name="slim_tip_title">Optimiziranje pohrane</string>
   <string name="slimming">Optimiziranje…</string>
-  <string name="slim_stop_v2">Stop</string>
-  <string name="slim_success_tip">Oslobodi %s prostora za pohranu</string>
   <string name="solar_term_autumn_begins">Početak jeseni</string>
   <string name="solar_term_autumn_equinox">Mjesečev festival</string>
   <string name="solar_term_clear_and_bright">Jasno</string>
@@ -3013,6 +3031,7 @@ za fotografije"</string>
   <string name="who_is_this">Tko je to?</string>
   <string name="widget_custom_store_detail_desc">"Dodajte widget, a zatim ga dodirnite za odabir fotografija"</string>
   <string name="widget_editor_confirm">Gotovo</string>
+  <string name="widget_editor_load_fail">"Ne mogu učitati sliku"</string>
   <string name="widget_editor_reselect">Odaberite ponovno</string>
   <string name="widget_editor_title">Uredi</string>
   <string name="widget_label_custom">Odabrane slike</string>

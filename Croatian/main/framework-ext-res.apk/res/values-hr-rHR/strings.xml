@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="keyboard_identity_reject_confirm">Razumijem</string>
+  <string name="keyboard_identity_reject_message">"Čini se da vaša tipkovnica nije kompatibilna s ovim uređajem."</string>
+  <string name="keyboard_identity_transfer_error_message">"Ne mogu povezati tipkovnicu. Pokušajte ponovno."</string>
+  <string name="keyboard_upgrade_failed">"Ne mogu ažurirati tipkovnicu"</string>
+  <string name="keyboard_upgrade_start">Ažuriranje tipkovnice…</string>
+  <string name="keyboard_upgrade_success">Tipkovnica je uspješno ažurirana</string>
+  <string name="trial_mode_dialog_button_cancel">Odustani</string>
+  <string name="trial_mode_dialog_button_save">Spremi</string>
+  <string name="trial_mode_dialog_message">\"%s\" radi u probnom načinu rada. Ponovnim pokretanjem uređaja ili prelaskom na način rada Brzina svjetlosti izbrisat će se ova igra. Spremiti igru u unutarnju pohranu?</string>
+  <string name="trial_mode_dialog_title">Probni način</string>
   <string name="activity_package_delete_confirm_title">Važno upozorenje</string>
   <string name="add_frequent_phrases">Dodaj česte izraze</string>
   <string name="all_call_livetalk_enable">Korištenje paketa nadoplate za domaće i međunarodne pozive</string>

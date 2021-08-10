@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_description_hours">Sati</string>
+  <string name="accessibility_description_minutes">Minuta</string>
+  <string name="accessibility_description_seconds">Sekundi</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
