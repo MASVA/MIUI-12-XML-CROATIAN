@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessible_cancel">Odustani</string>
+  <string name="accessible_ellipse">Elipsa</string>
+  <string name="accessible_irregular">Prilagođeni oblik</string>
+  <string name="accessible_rect">Pravokutnik</string>
+  <string name="partial_screenshot_failed_to_capture_title">"Ova aplikacija ne dopušta snimanje zaslona"</string>
+  <string name="partial_screenshot_failed_to_save_title">"Ne mogu spremiti. Nema dovoljno prostora za pohranu."</string>
+  <string name="partial_screenshot_insert_failed">"Ne mogu spremiti"</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>

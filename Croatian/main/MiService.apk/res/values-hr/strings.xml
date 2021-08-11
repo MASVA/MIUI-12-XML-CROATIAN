@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="public_authorize_now">Postavke</string>
+  <string name="public_please_authorize">Potrebna su dopuštenja za nastavak</string>
+  <string name="send">Pošalji</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>

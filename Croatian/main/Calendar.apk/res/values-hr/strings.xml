@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="common_google_play_services_install_text">"%1$s neće raditi bez usluga Google Play koje nedostaju na vašem uređaju."</string>
+  <string name="common_google_play_services_notification_channel_name">Dostupnost usluga Google Play</string>
+  <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
+  <string name="day">Dan</string>
+  <string name="fourth_saturday_holiday">Svaka druga i četvrta subota slobodni su dani</string>
+  <string name="xiaomi_calendar_delete_description">Kalendar je aplikacija sustava koja vam omogućuje izradu i upravljanje događajima. Neke od njegovih značajki i dalje će biti dostupne nakon što uklonite prečac na početnom zaslonu.</string>
+  <string name="xiaomi_calendar_delete_title">Ukloniti \"Kalendar\" s Poč. zaslona?</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>

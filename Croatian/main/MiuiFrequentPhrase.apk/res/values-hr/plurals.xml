@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
+   <plurals name="a_hour_ago">
         <item quantity="other">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
@@ -56,20 +56,4 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
      </plurals>
-    <plurals name="additional_permissions_more">
-        <item quantity="other">Još %1$d</item>
-        <item quantity="one">Još %1$d</item>
-    </plurals>
-	<plurals name="miui_app_all_permission_number">
-        <item quantity="other">%d dopuštenja</item>
-        <item quantity="one">%d dopuštenje</item>
-    </plurals>
-    <plurals name="miui_app_privacy_permission_number">
-        <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dopuštenja povezana s privatnošću&lt;/Data></item>
-        <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> dopuštenje povezano s privatnošću&lt;/Data></item>
-    </plurals>
-    <plurals name="miui_permission_detail">
-        <item quantity="other">%d dopuštenja</item>
-        <item quantity="one">%d dopuštenje</item>
-    </plurals>
 </resources>

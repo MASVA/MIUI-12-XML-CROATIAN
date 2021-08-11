@@ -389,6 +389,8 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_systemhelper">, Usluga samo registriranja</string>
   <string name="terms_of_use_label_updater">, Ažuriranje</string>
   <string name="terms_of_use_lable_apps">Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, Početni zaslon, Centar za igre, MAB, MIUI Daemon i MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
+  <string name="terms_of_use_lable_apps_wifi_device">Mi services, Xiaomi Cloud, Find device, Home screen, Games, MIUI Daemon, MSA system components, Translation Service, MIUI SDK, Quick apps, App vault, statistics, Mi Link</string>
+  <string name="terms_of_use_lable_vsimcore">, MConnService</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate prihvatiti Facemoji Pravila o Privatnosti prije korištenja ove značajke."</string>
@@ -409,7 +411,7 @@ Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Ke
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
-  <string name="title_set_fingerprint">Zaklj. zaslona</string>
+  <string name="title_set_fingerprint">Zaklj. zaslon</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>
@@ -417,7 +419,8 @@ Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Ke
   <string name="tuesday_shortest">U</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
-  <string name="user_agreement_declare">Prije upotrebe MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Dok se vaš uređaj aktivira, Mi SIM usluga aktiviranja, Xiaomi Cloud, Backup Service, Pronađi uređaj, Početni zaslon, Česte fraze, Usluga prevođenja, Xiaomi Internet Communication Service, MIUI Daemon, HTML preglednik, AI Pomoćnik, Baterija i performanse, Detektor napajanja, Joyose, Secure Element Application, Podešavanje OS AI, Upravitelj dopuštenja i Ažuriranje će se povezati s mrežom. Pametne kartice, Upravitelj dopuštenja i pametne usluge spojit će se na mrežu i pristupiti vašoj lokaciji.</string>
+  <string name="user_agreement_declare">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila privatnosti. Dok se vaš uređaj aktivira, Mi SIM usluga aktiviranja, Xiaomi Cloud, Backup Service, Pronađi uređaj, Početni zaslon, Česte fraze, Usluga prevođenja, Xiaomi Internet Communication Service, MIUI Daemon, HTML preglednik, AI Pomoćnik, Baterija i performanse, Detektor napajanja, Joyose, Secure Element Application, OS AI postavka, Upravitelj dopuštenja i Ažuriranje će se povezati s mrežom. Pametne kartice, Upravitelj dopuštenja i pametne usluge spojit će se na mrežu i pristupiti vašoj lokaciji.</string>
+  <string name="user_agreement_declare_wifi_device">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Politiku privatnosti. Dok se vaš uređaj aktivira, Xiaomi Cloud, Sigurnosna kopija, Pronađi uređaj, Početni zaslon, Česte fraze, Xiaomi Internet Communication Service, Usluga prevođenja, MIUI Daemon, HTML preglednik, MIUI SDK, Aplikacija sigurnih elemenata, AI Pomoćnik, Baterija i performanse, Detektor napajanja, Joyose, OS AI postavka i program za ažuriranje spojit će se na mrežu. Pametne kartice, Upravitelj dopuštenja i pametne usluge povezat će se s mrežom i pristupiti vašoj lokaciji.</string>
   <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>

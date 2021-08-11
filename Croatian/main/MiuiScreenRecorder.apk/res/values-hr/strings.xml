@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_notification_channel_record_complete">Obavijesti o završenim snimkama</string>
+  <string name="app_notification_record_complete">"Snimka zaslona spremljena je u Galeriju
+Dodirnite za prikaz"</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Natrag</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>

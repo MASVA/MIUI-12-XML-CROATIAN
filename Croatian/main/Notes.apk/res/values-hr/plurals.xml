@@ -156,4 +156,8 @@
         <item quantity="other">Pronađeno %1$s zadataka</item>
         <item quantity="one">Pronađen %1$s zadatak</item>
      </plurals>
+	 <plurals name="mtrl_badge_content_description">
+         <item quantity="other">Nove obavijesti: %d</item>
+        <item quantity="one">%d nova obavijest</item>
+	</plurals>
 </resources> 

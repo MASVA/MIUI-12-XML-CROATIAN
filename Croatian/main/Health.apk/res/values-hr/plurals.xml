@@ -153,9 +153,9 @@
         <item quantity="one">prije %1$d min</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">Nova obavijest: %d</item>
+        <item quantity="other">Nove obavijesti: %d</item>
         <item quantity="one">%d nova obavijest</item>
-    </plurals>
+	</plurals>
 	<plurals name="miuix_appcompat_items_selected">
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
