@@ -3294,6 +3294,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_local_backup">Uključi</string>
   <string name="enable_local_backup_cancel">Odustani</string>
   <string name="enable_local_backup_message">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
+  <string name="enable_local_backup_message_intledition">Uključite ovu značajku da biste mogli spremati Sig. kopije na ovaj uređaj i kopirati ih na računalo. Uključiti sada?</string>
   <string name="enable_local_backup_ok">U redu</string>
   <string name="enable_local_backup_title">Lokalne Sig. kopije</string>
   <string name="enable_mms_notification_channel_title">MMS poruka</string>
@@ -8525,9 +8526,14 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="setting_privacy_password">Postavite Zaporku zaštite privatnosti</string>
   <string name="settings_ad_loading">Samo trenutak…</string>
   <string name="settings_ad_loading_unavailable">"Ne mogu učitati informacije."</string>
-  <string name="settings_backup">Postavke sigurnosne kopije</string>
-  <string name="settings_backup_summary">Stvori sigurnosnu kopiju postavki</string>
+  <string name="settings_backup">Postavke Sig. kopije</string>
+  <string name="settings_backup_summary">Stvori Sig. kopiju postavki</string>
   <string name="settings_button">Postavke</string>
+  <string name="settings_charging_at_fast_speed">Brzo punjenje</string>
+  <string name="settings_charging_at_normal_speed">Punjenje</string>
+  <string name="settings_charging_at_top_speed">Punjenje najvećom brzinom</string>
+  <string name="settings_charging_fully_charged">Potpuno napunjeno</string>
+  <string name="settings_charging_not_charging">Ne puni se</string>
   <string name="settings_forbidden_message">Ova postavka je ograničena</string>
   <string name="settings_label">Postavke</string>
   <string name="settings_label_launcher">Postavke</string>

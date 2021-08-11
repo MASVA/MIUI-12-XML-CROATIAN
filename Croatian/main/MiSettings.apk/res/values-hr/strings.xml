@@ -142,6 +142,10 @@
   <string name="dc_light_hint_other">DC zatamnjenje može utjecati na brzinu osvježavanja i način prikazivanja pojedinih stavki.</string>
   <string name="dc_lignt_enable_hint">Način rada protiv treperenja postaviće brzinu osvježavanja zaslona na 60 Hz. Promjeniti na način rada protiv treperenja?</string>
   <string name="delete_first_to_add_animal">Za dodavanje nove stavke, prvo izbrišite jednu.</string>
+  <string name="desktop_widget_authorization">Dodirnite da odobrite dopuštenja prikaza statistike</string>
+  <string name="desktop_widget_not_support">"Statistika vremena zaslona
+nije generirana u Drugom prostoru"</string>
+  <string name="desktop_widget_screen_use_time">Vrijeme zaslona</string>
   <string name="devices_type_pad">Tablet</string>
   <string name="devices_type_phone">Teleon</string>
   <string name="display_description">Veće ikone, veliki tekst, manji vizualni neredi</string>
@@ -537,6 +541,7 @@
   <string name="unlock_times_per_day">"Dnevni prosjek: "</string>
   <string name="unlock_times_per_hour">"Otključavanja po satu: "</string>
   <string name="usage_agree">Slažem se</string>
+  <string name="usage_app_desktop_widget_limit">%s preostalo</string>
   <string name="usage_app_get_it">Razumijem</string>
   <string name="usage_app_holiday_limit">Slobodni dani</string>
   <string name="usage_app_limit_alter_summary">"Čini se da je ovo vremensko ograničenje kraće od vremena koje danas koristite ovu aplikaciju. Postaviti ograničenje svejedno?"</string>

@@ -295,17 +295,25 @@ Odmorite se!"</item>
          <item quantity="one">Štitim %d aplik.</item>
      </plurals>
     <plurals name="hints_traffic_saving_enable_title">
-        <item quantity="other">Ovoliko aplikacija (%d) koristi Uštedu Podataka</item>
-        <item quantity="one">%d aplikacija koristi Uštedu Podataka</item>
+        <item quantity="other">Ovoliko aplikacija (%d) koristi Štednju Podataka</item>
+        <item quantity="one">%d aplikacija koristi Štednju Podataka</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
-     	<item quantity="other">Ovoliko aplikacija (%d) ne koristi Uštedu Podataka</item>
-        <item quantity="one">%d aplikacija ne koristi Uštedu Podataka</item>
+     	<item quantity="other">Ovoliko aplikacija (%d) ne koristi Štednju Podataka</item>
+        <item quantity="one">%d aplikacija ne koristi Štednju Podataka</item>
     </plurals>
 	<plurals name="traffic_setting_app_count">
          <item quantity="other">Aplikacija: %d</item>
          <item quantity="one">Aplikacija: %d</item>
      </plurals>
+	 <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplikacija uključujući %1$s</item>
+        <item quantity="one">%2$d aplikacija uključujući %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d put(a)</item>
+        <item quantity="one">%d put</item>
+    </plurals>
 	 <plurals name="bg_network_allow_count">
          <item quantity="other">%d aplikacija se mogu povezati s mrežom u pozadini</item>
          <item quantity="one">%d aplikacija se može povezati s mrežom u pozadini</item>
