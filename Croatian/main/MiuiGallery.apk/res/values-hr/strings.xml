@@ -471,6 +471,9 @@
   <string name="clip_speedX_3.0x">3.0X</string>
   <string name="close">Zatvori</string>
   <string name="close_dialog_desc">Zatvori dijaloški okvir</string>
+  <string name="cloud_action_open">Uključi</string>
+  <string name="cloud_action_upgrade">Nadogradi</string>
+  <string name="cloud_action_view">Pregled</string>
   <string name="cloud_authorize_to_share_to_device">Autorizirajte gledanje stavki na televizorima povezanim s vašim Mi Računom</string>
   <string name="cloud_authorizing_to_device">Autorizacija…</string>
   <string name="cloud_backup_enable_title">Sinkroniziraj</string>
@@ -1780,6 +1783,11 @@ za fotografije"</string>
   <string name="photo_editor_crop_auto_tips">Obrezano automatski</string>
   <string name="photo_editor_crop_reset">Resetiraj</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
+  <string name="photo_editor_crop_size_former_latter" formatted="false">%d:%d</string>
+  <string name="photo_editor_crop_size_free">Vlastito</string>
+  <string name="photo_editor_crop_size_fullscreen">Cijeli zaslon</string>
+  <string name="photo_editor_crop_size_movie" formatted="false">%1.2f:%d</string>
+  <string name="photo_editor_crop_size_origin">Original</string>
   <string name="photo_editor_doodle">Doodle</string>
   <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_font_default">Mi Lanting (Regular)</string>
@@ -1902,6 +1910,7 @@ za fotografije"</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_save_to_msg">Spremljeno u %s</string>
   <string name="photo_size_not_support">"Ova rezolucija slike nije podržana"</string>
+  <string name="photo_video_count">%1$s i %2$s</string>
   <string name="photo_vlog_module_finish">Uređivač videozapisa uspješno preuzet</string>
   <string name="photo_vlog_module_loading">Preuzimanje Uređivača videozapisa…</string>
   <string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
@@ -2108,6 +2117,21 @@ za fotografije"</string>
   <string name="screen_save_dialog_btn_cancel">Odustani</string>
   <string name="screen_save_dialog_btn_delete">Izbriši snimnku zaslona</string>
   <string name="screen_save_dialog_btn_save">Spremi u Galeriju</string>
+  <string name="screen_talkback_a_little_large">Veliko</string>
+  <string name="screen_talkback_a_little_small">Malo</string>
+  <string name="screen_talkback_alpha_x">Neprozirnost %s</string>
+  <string name="screen_talkback_color_x">Boja %d</string>
+  <string name="screen_talkback_eraser">Brisač</string>
+  <string name="screen_talkback_large">Jako veliko</string>
+  <string name="screen_talkback_mark">Marker</string>
+  <string name="screen_talkback_medium">Srednje</string>
+  <string name="screen_talkback_mosaic">Mozaik</string>
+  <string name="screen_talkback_mosaic_size_x">Područje mozaika: %s</string>
+  <string name="screen_talkback_pen">Olovka</string>
+  <string name="screen_talkback_row_x_column_x">Red %1$d. Položaj %2$d.</string>
+  <string name="screen_talkback_shape">Oblik</string>
+  <string name="screen_talkback_small">Jako malo</string>
+  <string name="screen_talkback_text">Tekst</string>
   <string name="search_album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
   <string name="search_backup_full_screen">Uključite sinkr. sa Mi Cloudom bi se pronašli više objekata i osoba</string>
   <string name="search_backup_full_screen_new">Uključite sinkronizaciju s Mi Cloudom kaDodajte okvir uređaja biste pretraživanje učinili učinkovitijim</string>

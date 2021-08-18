@@ -108,6 +108,7 @@ dd.MM"</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="garbage_count">Postoji %1$s starih primjera</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="large_time">Veliki sat</string>
@@ -222,6 +223,7 @@ dd.MM"</string>
   <string name="notification_anim_pulse">Pulsno</string>
   <string name="notification_anim_rhythm">Ritam</string>
   <string name="notification_anim_star">Starlight</string>
+  <string name="notification_channel_alerts">Upozorenja</string>
   <string name="notification_nothing">Ništa</string>
   <string name="notification_screen_on">Osvijetli zaslon</string>
   <string name="off">Isključeno</string>

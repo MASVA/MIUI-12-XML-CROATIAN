@@ -97,7 +97,7 @@ Pokušajte ponovo"</string>
   <string name="cloud_app_backup_success">Sig. kopija aplikacija završena</string>
   <string name="cloud_app_check_data">Provjera Mi Cloud podataka…</string>
   <string name="cloud_app_current_device">Trenutan uređaj</string>
-  <string name="cloud_app_dont_restore">"Postavi kao novi uređaj"</string>
+  <string name="cloud_app_dont_restore">"Koristi kao novi uređaj"</string>
   <string name="cloud_app_no_data">Nema otkrivenih Sig. kopija</string>
   <string name="cloud_app_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="cloud_app_other_devices">Ostali uređaji</string>
@@ -364,6 +364,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="restore_init_description">Započni vraćanje</string>
   <string name="restore_network_pause">Pauzirano radi uštede mobilnih podataka. Dodirnite za nastavak.</string>
   <string name="restore_network_unconnect">%s (Čekanje na vezu)</string>
+  <string name="restore_prepare_item_type_enable">Dostupne Sig. kopije</string>
+  <string name="restore_prepare_item_type_other">Ostale Sig. kopije</string>
   <string name="restore_task_cancelling">Otkazivanje…</string>
   <string name="restore_task_in_process">Vraćanje…</string>
   <string name="restore_task_unfinished">"Ne mogu vratiti"</string>
@@ -380,8 +382,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="saturday_shortest">S</string>
   <string name="search_menu_title">Traži</string>
   <string name="selected">Odabrano</string>
-  <string name="self_device_main_space">"Prvi prostor ovog uređaja"</string>
-  <string name="self_device_second_space">"Drugi prostor ovog uređaja"</string>
+  <string name="self_device_main_space">Prvi prostor</string>
+  <string name="self_device_second_space">Drugi prostor</string>
   <string name="self_phone">Ovaj telefon</string>
   <string name="self_phone_home">Ovaj telefon: %s</string>
   <string name="send">Pošalji</string>

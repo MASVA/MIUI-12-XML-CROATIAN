@@ -41,6 +41,11 @@
         <item>Uključi/postavi sinkr.</item>
         <item>Kontakti;Povijest poziva;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
     </string-array>
+	<string-array name="settings_search_security_pad">
+        <item>Sigurnosna sinkronizacija u Cloudu</item>
+        <item>Uključi sinkronizaciju</item>
+        <item>Sigurnost;Cloud;Mi Cloud;Sinkr.;Cloud usluge</item>
+    </string-array>
     <string-array name="settings_search_sms">
         <item>Sinkr. poruke s Mi Cloudom</item>
         <item>Uključi/postavi sinkr.</item>
@@ -75,6 +80,11 @@
         <item>Sinkr. Bilješke s Mi Cloudom</item>
         <item>Uključi sinkr.</item>
         <item>Bilješke;Cloud;Sinkr.;Cloud usluge;Mi Cloud</item>
+    </string-array>
+	<string-array name="settings_search_sync_manage_pad">
+        <item>Mi Cloud. Sve Mi usluge na jednom mjestu.</item>
+        <item>Pristupite svojim fotografijama, bilješkama i uređajima s bilo kojeg mjesta</item>
+        <item>Nedovoljno prostora za pohranu;Članstvo;Pohrana;Prostor za pohranu;Cloud;Sinkronizacija;Cloud usluge;Mi Cloud;Smeće;Izbrisane stavke;Sigurnost</item>
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Sinkr. Wi-Fi postavke s Mi Cloudom</item>
@@ -135,6 +145,11 @@
         <item>Sig. kopije</item>
         <item>Stavke Sig. kopije</item>
         <item>Cloud;Izradi Sig. kopiju;Sig. kopija;Cloud usluge;Mi Cloud;Poč. zaslon;Izgled;Aplikacije;Upravljanje Sig. kopijama;Vrati</item>
+	</string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Izbrisane stavke u Mi Cloudu</item>
+        <item>Vratite fotografije, bilješke i drugo</item>
+        <item>Smeće;Izbrisane stavke;Kanta za smeće;Vrati;Cloud usluge;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_restore_device">
         <item>Vratite stavke iz Mi Clouda</item>
@@ -159,6 +174,14 @@
          <item>Izradite Sig. kopije važnih postavki, uključujući Wi-Fi i zaslon</item>
          <item>"Zaključajte uređaj daljinskim putem ako je izgubljen"</item>
      </string-array>
+	 <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sinkronizirajte svoje fotografije, bilješke, snimke, i još mnogo toga</item>
+        <item>"Zaključajte uređaj daljinskim putem ako je izgubljen"</item>
+    </string-array>
+	<string-array name="micloud_entrance_titleArray_pad">
+        <item>Sinkronizirajte podatke aplikacije</item>
+        <item>Pronađi uređaj</item>
+    </string-array>
      <string-array name="micloud_entrance_subtitleArray_v2">
          <item>Sinkronizirajte svoje kontakte, poruke, bilješke, kalendar i još mnogo toga</item>
          <item>Izradite Sig. kopije aplikacija, izgled Poč. zaslona i pozadine</item>

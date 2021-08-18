@@ -5152,7 +5152,9 @@ kao i PIN za Prvi prostor"</string>
   <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
   <string name="macaddr_label">MAC adresa:</string>
   <string name="magic_list_empty_text">Trenutno nema aplikacija kompatibilnih s ovom značajkom</string>
-  <string name="magic_window_name">Optimizirajte aplikacije za pejzažni prikaz</string>
+  <string name="magic_list_empty_text_pad">Trenutno nema aplikacija kompatibilnih s ovom značajkom</string>
+  <string name="magic_window_name">Paralelni prozori</string>
+  <string name="magic_window_name_pad">Optimizirajte aplikacije za pejzažni prikaz</string>
   <string name="mah">%d mAh</string>
   <string name="main_netcheck_summary">Testiraj povezanost za probleme s mrežom</string>
   <string name="main_running_process_description">Glavni proces u upotrebi.</string>
