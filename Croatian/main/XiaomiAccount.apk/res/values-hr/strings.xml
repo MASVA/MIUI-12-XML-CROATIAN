@@ -23,6 +23,7 @@
   <string name="access_token_expired_warning">Weibo račun je istekao</string>
   <string name="access_token_invalid_warning">Weibo račun je nevažeći</string>
   <string name="account">Račun</string>
+  <string name="account_and_password">Zaporka</string>
   <string name="account_bind_devices">Uređaji</string>
   <string name="account_bind_new_phone">Dodaj novi telefon</string>
   <string name="account_bind_phone_notice">Koristi ovaj broj telefona za prijavu na račun, poništavanje zaporke ili promjenu sigurnosnih postavki.</string>
@@ -82,12 +83,16 @@
   <string name="account_user_name_dialog_title">Unesite korisničko ime</string>
   <string name="account_user_other_info">Više izvora</string>
   <string name="account_user_phone">Telefon</string>
+  <string name="account_user_phone_show">Teleon: %s</string>
   <string name="account_user_recovery_phone">Telefon za oporavak</string>
   <string name="account_user_region">Regija</string>
   <string name="account_user_secure_info">Telefon &amp; E-pošta</string>
   <string name="account_user_using_facebook_avatar">Upotrijebi Facebook fotografiju profila</string>
   <string name="account_user_using_qq_avatar">Upotrijebi QQ fotografiju profila</string>
   <string name="account_user_using_weibo_avatar">Upotrijebi Sina Weibo fotografiju profila</string>
+  <string name="account_verify_guide_bind_mail_desc">Dodajte E-poštu za oporavak</string>
+  <string name="account_verify_guide_bind_phone_desc">Dodajte broj telefona za oporavak</string>
+  <string name="account_verify_guide_set_password_desc">Postavite zaporku</string>
   <string name="account_vip_achievements">Postignuća</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Usluge</string>
@@ -229,6 +234,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="facebook">Facebook</string>
   <string name="facebook_login">Prijavite se s Facebook računom</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
+  <string name="family_share">Obiteljsko dijeljenje</string>
   <string name="find_device">Pronađi uređaj</string>
   <string name="find_device_access_denied">"Ne mogu dobiti status, pristup odbijen"</string>
   <string name="find_device_account_error">"Ne mogu dobiti status zbog pogreške računa"</string>
@@ -258,12 +264,14 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="find_device_set_lost_model">Izgubljeni način rada</string>
   <string name="find_device_title">Pronađi uređaj</string>
   <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
+  <string name="find_equipment">Pronađi uređaj</string>
   <string name="first_login_time">Prvi pokušaj prijave: %s</string>
   <string name="for_diagnosis_usage_only">Koristi se samo za pronalaženje problema.</string>
+  <string name="forward_to_bind">Dodaj</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="forward_to_bind">Dodaj</string>
+  <string name="get_back_password">Poništi zaporku</string>
   <string name="get_back_pwd">Resetiranje vaše zaporke</string>
   <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
   <string name="get_identity_auth_url_failed">"Ne mogu provjeriti ID"</string>
@@ -340,7 +348,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-   <string name="monday">Ponedjeljak</string>
+  <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
   <string name="month">Mjesec</string>
@@ -391,13 +399,17 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="my_device_title">Trenutan uređaj</string>
   <string name="my_favorite">Moj favorit</string>
   <string name="need_install_wechat">Prvo instalirajte WeChat</string>
+  <string name="no_install">Nije instalirano</string>
   <string name="no_network_btn">Osvježi</string>
   <string name="no_network_title">"Ne mogu se povezati na mrežu."</string>
+  <string name="no_password_set">Nije postavljeno</string>
   <string name="no_phone">Nema broja telefona</string>
   <string name="no_response_retry">Nema odgovora, pokušajte ponovno.</string>
   <string name="no_sim_card_or_unactivated">Nema SIM kartice ili nije aktivirana</string>
   <string name="nobind">Nije povezano</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="notify_bind_security_phone">Dodajte broj telefona za oporavak</string>
+  <string name="notify_complete_security_info">Dodajte informacije o oporavku</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa u pozadini je ograničena. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
@@ -407,6 +419,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; će dobiti sljedeća dopuštenja:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Prijavite se s Mi Računom</string>
   <string name="ok">U redu</string>
+  <string name="operator_other">Broj telefona</string>
   <string name="optional_permissions">Izborna dopuštenja</string>
   <string name="other_devices_title">Ostali uređaji</string>
   <string name="passport_Resend">Pošalji ponovno</string>
@@ -425,6 +438,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_activing_account">Aktivacija…</string>
   <string name="passport_adding_account">Dodavanje računa…</string>
   <string name="passport_area_code_hot">ČESTO KORIŠTENO</string>
+  <string name="passport_area_code_others">Koristi drugi predbroj</string>
   <string name="passport_area_code_title">Kod zemlje</string>
   <string name="passport_auto_generate_pwd">Generiraj sigurnu zaporku</string>
   <string name="passport_back">Natrag</string>
@@ -640,6 +654,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_title_reg">Izradi račun</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
   <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
+  <string name="passport_tz_invalid">Otkriven siurnosni rizik. Ovaj je uređaj root-an ili flash-an. Pokušajte druge načine prijave.</string>
   <string name="passport_uplink_reg">Koristi broj telefona</string>
   <string name="passport_uplink_send_sms_hint">"Dodirnite \"Pošalji\" nakon što vas se preusmjeri na stranicu sa sastavljenom porukom."</string>
   <string name="passport_uplink_slot1_reg">Koristi SIM 1</string>
@@ -680,6 +695,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Pohrana</string>
+  <string name="personal_info_desc">Fotografija, nadimak, i više</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="phone_num_use_for">Broj telefona se koristi za:</string>
   <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
@@ -724,6 +740,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="search_account_protection_path">Postavke/Mi Račun/Zaštita računa</string>
   <string name="search_account_security">Sigurnost računa</string>
   <string name="search_account_security_desc">Postavke računa</string>
+  <string name="search_account_security_key_words">Promjeni broj,Promjeni E-poštu,Zaštita računa,Računi,Sina Weibo,QQ,Authorization,Uređaji</string>
+  <string name="search_account_security_path">Postavke/Mi Račun/Siurnost računa</string>
   <string name="search_app_name">Mi Račun</string>
   <string name="search_bind_Account">Računi</string>
   <string name="search_bind_Account_desc">Računi</string>
@@ -755,6 +773,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
  Pobrinite se da zapamtite odgovore na ta pitanja."</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_location_title">Odaberite vašu lokaciju</string>
+  <string name="self_account_info">Osobne informacije</string>
+  <string name="send">Pošalji</string>
   <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
   <string name="send_email_activate_message">E-pošta provjere poslana</string>
   <string name="sending">Slanje…</string>
@@ -766,6 +786,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="sim_changed_notification_msg">Dodirnite za ažuriranje vašeg telefona za oporavak i zadržite svoj račun sigurnijim.</string>
   <string name="sim_changed_notification_title">Broj telefona je promijenjen?</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="skip_query_account">Preskoči</string>
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="state_data_error">"Ne mogu dobiti podatke"</string>

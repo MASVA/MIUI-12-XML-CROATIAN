@@ -2,6 +2,7 @@
 <resources>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
   <string name="abc_action_mode_done">Gotovo</string>
   <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
@@ -197,6 +198,7 @@
   <string name="cd_scanning">Skeniranje</string>
   <string name="cd_settings">Postavke</string>
   <string name="cd_sort_type">Vrsta sortiranja</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clean_content_all">Sve</string>
   <string name="clean_content_one">1 stavku</string>
   <string name="clean_content_three">3 stavke</string>
@@ -418,10 +420,12 @@
   <string name="goto_set">Postavi</string>
   <string name="grabage_rank_title">Očišćeno danas</string>
   <string name="guide_dc_dialog_message">"Ostalo je manje od 2 GB slobodnog prostora za pohranu. To bi moglo usporiti vaš uređaj. Napravite duboko čišćenje da biste oslobodili prostor za pohranu."</string>
+  <string name="guide_dc_dialog_message_new">"Ostalo je manje od %d GB slobodnog prostora za pohranu. To bi moglo usporiti vaš uređaj. Napravite duboko čišćenje da biste oslobodili prostor za pohranu."</string>
   <string name="guide_dc_dialog_negative">Odustani</string>
   <string name="guide_dc_dialog_positive">U redu</string>
   <string name="guide_dc_dialog_title">Ponestaje prostora za pohranu</string>
   <string name="guide_secure_dialog_message">Rezultat optimizacije vašeg uređaja je manji od 80 bodova. Optimizirati sada?</string>
+  <string name="guide_secure_dialog_message_new">Rezultat optimizacije vašeg uređaja je manji od %d bodova. Optimizirati sada?</string>
   <string name="guide_secure_dialog_negative">Odustani</string>
   <string name="guide_secure_dialog_positive">Optimiziraj</string>
   <string name="guide_secure_dialog_title">Optimiziraj performanse</string>
@@ -516,6 +520,7 @@
   <string name="long_click_dialog_summary">Dugi pritisak za dodavanje u iznimke.</string>
   <string name="long_click_dialog_title">Obavijest</string>
   <string name="low_memory_clean_dialog_msg">Očistite prvo najmanje 100 MB datoteka</string>
+  <string name="low_memory_clean_dialog_msg_new">Očistite prvo najmanje %d MB datoteka</string>
   <string name="low_memory_clean_dialog_ok_button">U redu</string>
   <string name="low_memory_clean_dialog_title">Nema dovoljno slobodnog prostora</string>
   <string name="low_memory_warning_dialog_cancel_button">Odustani</string>
@@ -553,6 +558,9 @@
   <string name="micloud_find_device_verify_fail">"Ne mogu ponovno aktivirati Pronađi uređaj"</string>
   <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Pronađi uređaj…</string>
   <string name="micloud_main_save_battery_on">Način rada za uštedu energije je uključen. Može uzrokovati prekid sinkronizacije.</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -1019,6 +1027,9 @@
   <string name="wqfile_group_chat_pic">Slike od pošiljatelja</string>
   <string name="wqfile_group_chat_video">Videozapisi od pošiljatelja</string>
   <string name="wqfile_group_chat_voice">Voice messages</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yesterday">Jučer</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
 </resources>

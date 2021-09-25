@@ -267,4 +267,12 @@
         <item quantity="other">%1$s audio datoteka</item>
         <item quantity="one">%1$s audio datoteka</item>
     </plurals>
+	<plurals name="every_x_day">
+        <item quantity="other">Svakih %d dana</item>
+        <item quantity="one">Svaki %d dan</item>
+    </plurals>
+    <plurals name="last_x_day">
+        <item quantity="other">Zadnjih %d dana</item>
+        <item quantity="one">Zadnji %d dan</item>
+    </plurals>
 </resources>

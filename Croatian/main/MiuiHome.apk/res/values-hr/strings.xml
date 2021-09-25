@@ -512,6 +512,10 @@
   <string name="navigation_guide_recent_summary">Povucite prstom prema gore s dna zaslona i pauziraj</string>
   <string name="navigation_guide_recent_title">Otvori Nedavno</string>
   <string name="navigation_guide_settings">Demo gesta</string>
+  <string name="navigation_set_miui_home_as_default_dialog_cancel">Odustani</string>
+  <string name="navigation_set_miui_home_as_default_dialog_message">"Ne možete koristiti geste na cijelom zaslonu s pokretačima trećih strana. Prebaciti se na pokretač sustava i uključiti geste na cijelom zaslonu?"</string>
+  <string name="navigation_set_miui_home_as_default_dialog_ok">U redu</string>
+  <string name="navigation_set_miui_home_as_default_dialog_title">Pažnja</string>
   <string name="navigation_type_full_screen">Geste</string>
   <string name="navigation_type_title">Navigacija sustavom</string>
   <string name="navigation_type_virtual_key">Tipke</string>

@@ -44,9 +44,9 @@
   <string name="backup_action_check_network">Provjerite mrežne postavke</string>
   <string name="backup_action_clean_disk_space">Oslobodite prostor</string>
   <string name="backup_action_retry_now">Pokušaj ponovno</string>
-  <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
   <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
   <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je Wi-Fi."</string>
+  <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Mi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Oslobodite prostor za pohranu.</string>
   <string name="backup_failed_reason_network_error">Provjerite mrežne postavke i pokušajte ponovo.</string>
@@ -172,8 +172,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="desktop_waiting">Čekanje</string>
   <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
   <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
-  <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za sigurnosnu kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
   <string name="device_xiaomi">Mi Telefon</string>
+  <string name="dialog_app_usage_consent_title">Dopustite pristup podacima o upotrebi aplikacije</string>
+  <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za sigurnosnu kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
   <string name="dialog_backup_failed">"Nije moguće napraviti Sig. kopiju"</string>
   <string name="dialog_btn_cancel_backup">Odustani</string>
   <string name="dialog_btn_confirm2">Razumijem</string>
@@ -181,6 +182,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="dialog_btn_next">Dalje</string>
   <string name="dialog_btn_overwrite_backup">Prepiši</string>
   <string name="dialog_btn_restore_skip">Vrati kasnije</string>
+  <string name="dialog_button_agree">Dopuštam</string>
+  <string name="dialog_button_disagree">"Odbijam"</string>
   <string name="dialog_buy_cloud_space">Nadogradi</string>
   <string name="dialog_cancel_backup_cancel">Odustani</string>
   <string name="dialog_cancel_backup_confirm">U redu</string>
@@ -202,6 +205,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="download_meta_failed">Ne mogu preuzeti podatke</string>
   <string name="download_settings">Preuzimanje postavki Poč. zaslona %s%%</string>
   <string name="download_settings_fail">"Ne mogu preuzeti postavke Poč. zaslona"</string>
+  <string name="dump_app_data_record_complete_msg">Lokacije datoteka: %s</string>
   <string name="error_retry_later">"Ne mogu dovršiti radnju. Pričekajte trenutak ili dva i pokušajte ponovno."</string>
   <string name="error_unknown">Nešto je pošlo po krivu</string>
   <string name="expand_button_title">Napredno</string>
@@ -226,6 +230,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="menu_item_sort_name">Naziv</string>
   <string name="menu_item_sort_size">Veličina</string>
   <string name="miui_device_name">Android</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -240,6 +246,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

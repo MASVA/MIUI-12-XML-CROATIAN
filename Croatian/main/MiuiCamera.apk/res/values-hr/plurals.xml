@@ -112,4 +112,12 @@
         <item quantity="other">Izbrisati skice: %1$d?</item>
         <item quantity="one">Izbrisati %1$d skicu?</item>
      </plurals>
+	 <plurals name="exit_camera_hint">
+        <item quantity="other">"&lt;Data>"Ne mogu se povezati s kamerom.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovno."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Ne mogu se povezati s kamerom.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovno."&lt;/Data>"</item>
+     </plurals>
+     <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Ovaj je uređaj pregrijan.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Trenutni napredak je spremljen automatski.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ovaj je uređaj pregrijan.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Trenutni napredak je spremljen automatski.&lt;/Data></item>
+     </plurals>
 </resources>

@@ -10,6 +10,7 @@
   <string name="category_editor_mode">Uredi</string>
   <string name="category_exit_editor_mode">Izlaz</string>
   <string name="category_more">Više</string>
+  <string name="clean_hint_pad">Očistite smeće kako biste oslobodili prostor za pohranu</string>
   <string name="display_setting">Prikazane stavke</string>
   <string name="edit_quick_category">Uredi</string>
   <string name="enter">Otvori Datoteke</string>

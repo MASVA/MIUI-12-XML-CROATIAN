@@ -14,6 +14,7 @@
   <string name="HIPS_Perm_External_Storage_Desc">Pristup datotekama i fotografijama i spremnje u internu pohranu</string>
   <string name="HIPS_Perm_External_Storage_Group">Upravljanje dopuštenjima za pohranu</string>
   <string name="HIPS_Perm_External_Storage_Group_Desc">Odaberite koje aplikacije imaju odobren pristup stavkama</string>
+  <string name="HIPS_Perm_GetInstall_Desc">Dobijte informacije o aplikacijama instaliranim na ovom uređaju</string>
   <string name="HIPS_Perm_PhoneID_Desc">"Pristup broju telefona, IMEI i IMSI-ju vašeg uređaja"</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Pristupiti broju telefona i IMSI-ju</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Pročitati povijest poziva</string>
@@ -697,6 +698,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="applock_add_account_setting">Račun &amp; privatnost</string>
   <string name="applock_add_account_tips">"Pomoću Mi Računa, moći ćete vratiti vaš Zaklj. aplikacija ako ga zaboravite."</string>
   <string name="applock_add_account_title">Dodajte svoj Mi Račun</string>
+  <string name="applock_add_account_title_part">Dodajte svoj Mi račun kako biste mogli poništiti lozinku</string>
   <string name="applock_already_add_account">Trenutni račun: %s</string>
   <string name="applock_app_recommend_lock_title">Možete zaključati sljedeće aplikacije</string>
   <string name="applock_bind_account_dialog_content">Vaš Mi Račun jedini je način za vraćanje Zaklj. aplikacija u slučaju da ga zaboravite. Prijavite se da biste dodali svoj Mi Račun.</string>
@@ -707,6 +709,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="applock_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
   <string name="applock_face_unlock_summary">Otključajte aplikacije pomoću otključavanjem lica</string>
   <string name="applock_face_unlock_title">Otključavanje licem</string>
+  <string name="applock_fingerprint_detect">Koristite otisak prsta</string>
+  <string name="applock_fingerprint_unlock">Koristite otisak prsta</string>
   <string name="applock_function_base_settings">Zaklj. aplikacija</string>
   <string name="applock_function_pwd_settings">Zaporka</string>
   <string name="applock_go_to">Postavke</string>
@@ -726,6 +730,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="applock_guide_tip3">Sakrij sadržaj obavijesti.</string>
   <string name="applock_guide_tip3_global">Sakrij sadržaj obavijesti.</string>
   <string name="applock_guide_title">Zaštitite svoju privatnost sa Zaklj. aplikacija</string>
+  <string name="applock_gulide_third_part">Račun će biti uklonjen kada se odjavite</string>
   <string name="applock_header_text_less_than_half">Premalo prostora. Povucite separator malo dalje.</string>
   <string name="applock_lock_all">Zaključaj sve</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
@@ -733,6 +738,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="applock_mixtype_showpwd_icon">Pokaži</string>
   <string name="applock_no_account_login">"Niste prijavljeni na svoj Mi Račun"</string>
   <string name="applock_not_add_account">Ne sada</string>
+  <string name="applock_not_add_account_normal">"Ne dodaj račun"</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
   <string name="applock_numeric_pwd_type_line">Ukupan broj znamenki u zaporci: %1$d. Unesene znamenke: %2$d.</string>
   <string name="applock_operate_faceunlock_summary">Otključajte aplikacije jednostavnim gledanjem u zaslon</string>
@@ -955,6 +961,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="boot_time_day">Uključi u: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Sutra u: %1$s</string>
   <string name="bottom_func_guide_default_text">Više značajki</string>
+  <string name="bottom_notice_title">Povuci gore za otvaranje toolbox-a</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
@@ -1144,6 +1151,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
+  <string name="commonly_used_func_card_title">Zajedničke značajke</string>
+  <string name="commonly_used_func_edit_too_many_func">"Nije moguće dodati više stavki"</string>
   <string name="comprehensive_protection_measures">Sveobuhvatna zaštita</string>
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
   <string name="confirm_allow_all_permission">Želite li dopustiti svim aplikacijama upotrebu ove značajke?</string>
@@ -1900,15 +1909,28 @@ može isprazniti bateriju i dovesti do pregrijavanja"</string>
   <string name="gb_shoulder_key_btn_save_exit">Spremi</string>
   <string name="gb_shoulder_key_circle_left">L</string>
   <string name="gb_shoulder_key_circle_right">D</string>
+  <string name="gb_shoulder_key_dialog_message">"Možete koristiti oba gumba za pokretanje Game Turbo -a kada ne igrate igre."</string>
   <string name="gb_shoulder_key_dialog_txt">Game Turbo možete uključiti pomoću tipke na ramenu.</string>
   <string name="gb_shoulder_key_guide_btn_done">Razumijem</string>
   <string name="gb_shoulder_key_guide_btn_next">Dalje</string>
   <string name="gb_shoulder_key_guide_tips">Konfigurirajte tipke na ramenu tako da igrate kao profesionalac!</string>
   <string name="gb_shoulder_key_guide_tips1">Otvorite okvir s alatima i konfigurirajte tipke na ramenu</string>
+  <string name="gb_shoulder_key_light_effect">Animacije u boji</string>
+  <string name="gb_shoulder_key_light_effect_color">Boja</string>
+  <string name="gb_shoulder_key_light_effect_subtitle">"Animacije u boji bit će prikazane kada su gumbi uključeni i dok igrate igre"</string>
+  <string name="gb_shoulder_key_light_effect_title">Animacije</string>
   <string name="gb_shoulder_key_settings_guide_tips1">Pomaknite tipke [L] i [D] u bilo koji funkcijski položaj da biste dovršili konfiguraciju</string>
   <string name="gb_shoulder_key_settings_guide_tips2">Upotrijebite tipke za ramena za značajke koje ste im dodijelili tijekom igara</string>
+  <string name="gb_shoulder_key_settings_summary">"Koristite oba gumba da biste pokrenuli Game Turbo kada ne igrate igre"</string>
+  <string name="gb_shoulder_key_settings_title">Koristite gumbe za Game Turbo</string>
+  <string name="gb_shoulder_key_settings_title_new">Quick start Game Turbo</string>
+  <string name="gb_sign_gift_button_text">Promaj</string>
+  <string name="gb_sign_notification_summary">Igrajte igre bez kašnjenja mreže</string>
+  <string name="gb_sign_notification_title">Isprobajte Game Turbo besplatno</string>
+  <string name="gb_signed_gift_loading_fail">"Ne mogu učitati"</string>
   <string name="gb_signed_gift_loading_summary">Samo trenutak…</string>
   <string name="gb_sound_audition">Preslušaj</string>
+  <string name="gb_storage_game_dialog_button_timer">%ds</string>
   <string name="gb_storage_game_dialog_message">"Igre možete automatski pohraniti u Game Turbo. One se neće pojaviti na Poč. zaslonu ako uključite ovu značajku. Uključiti sada?"</string>
   <string name="gb_storage_game_uninstall">Deinstaliraj igre</string>
   <string name="gb_storage_summary">"Na Poč. zaslonu ne prikazuj igre koje su dodane u Game Turbo"</string>
@@ -1951,6 +1973,7 @@ vašeg igranja"</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
   <string name="gmscore_support_service">Osnovne Google usluge</string>
   <string name="go_to">Nastavi</string>
+  <string name="go_to_mi_sim">Dodirnite za korištenje Mi SIM.</string>
   <string name="go_to_send">Pošalji</string>
   <string name="go_to_setting_fingerprint">Postavke</string>
   <string name="google_base_app_fail">"Ne mogu preuzeti. Provjerite da li je aplikaciji Sigurnost dopušteno povezivanje s internetom."</string>
@@ -2005,6 +2028,8 @@ vašeg igranja"</string>
   <string name="gs_slip_gamebox_detail">Koristite klizač ili prijeđite prstom od gornjeg ruba zaslona kako bi se pojavila ploča prečaca.</string>
   <string name="gtb_brightness_dialog_right_btn">Drži uključenim</string>
   <string name="gtb_brightness_dialog_sub_message">*Ovu značajku možete uključiti i isključiti u Postavkama.</string>
+  <string name="gtb_content_switch">Preporuke sadržaja</string>
+  <string name="gtb_content_switch_summary">Primajte preporuke o sadržaju vezanim uz igre</string>
   <string name="gtb_dialog_btn_close">Isključi</string>
   <string name="gtb_dialog_btn_open">Uključi</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
@@ -2029,6 +2054,7 @@ vašeg igranja"</string>
   <string name="gtb_setting_item_title_smart_5g">5G optimizacija mreže</string>
   <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi povećanje brzine</string>
   <string name="gtb_spring_festival_back_game">Natrag u igru</string>
+  <string name="gtb_spring_festival_egg_obtain_fail">"Ne mogu se povezati na mrežu"</string>
   <string name="gtb_spring_festival_goto_gameturbo">Pregled</string>
   <string name="gtb_wlan_speed_tips">Korištenje Mi Wi-Fi-ja…</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Pogrešan operater?&lt;/U&gt;&lt;/font&gt;"</string>
@@ -2479,6 +2505,8 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="midrop_post_notification_contentTitle">Trebate prenijeti datoteke?</string>
   <string name="miui_optimization_close_final_tip">Isključiti MIUI optimizaciju?</string>
   <string name="miui_optimization_close_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Isključivanje MIUI optimizacije moglo bi donijeti sljedeće promjene:</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -2496,6 +2524,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -2979,6 +3008,19 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivan</string>
+  <string name="pc_fast_charge_notifi_action_text_off">Stop</string>
+  <string name="pc_fast_charge_notifi_action_text_on">Povećaj</string>
+  <string name="pc_fast_charge_notifi_power_threshold_title">Postavite razinu napunjenosti baterije za podsjetnike</string>
+  <string name="pc_fast_charge_notifi_summary">Punjenje do %s brže nego inače…</string>
+  <string name="pc_fast_charge_notifi_summary_on">Ova značajka može zagrijati vaš uređaj</string>
+  <string name="pc_fast_charge_notifi_switch_summary">Obavijestite o povećanju brzine punjenja kada je isporučeni punjač %dW priključen i baterija je ispod zadane razine</string>
+  <string name="pc_fast_charge_notifi_switch_title">Obavijesti o povečavanju</string>
+  <string name="pc_fast_charge_notifi_title">%dW punjenje</string>
+  <string name="pc_fast_charge_notifi_title_on">Zaustavi povećavati brzinu punjenja</string>
+  <string name="pc_fast_charge_switch_summary">"Uključite kako biste ubrzali proces punjenja. MIUI će dati prednost brzini punjenja i pritom osigurati sigurnost vašeg uređaja. Što je baterija praznija, brže će se puniti. Ova značajka može zagrijati vaš uređaj."</string>
+  <string name="pc_fast_charge_switch_title">Povećajte brzinu punjenja</string>
+  <string name="pc_fast_charge_switch_toast_message">Promjene će se primijeniti prilikom sljedećeg punjenja ovog uređaja</string>
+  <string name="pc_fast_charge_title">Povećajte brzinu punjenja</string>
   <string name="pc_hidemode_normal">Uravnoteženo</string>
   <string name="pc_hidemode_normal_title">Uravnoteženo</string>
   <string name="pc_hidemode_performance">Performanse</string>
@@ -3144,6 +3186,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="phone_manage_special_title">Posebne značajke</string>
   <string name="phone_manage_system_tool_summary">Korisni alati na razini sustava</string>
   <string name="phone_manage_system_tool_title">Alati</string>
+  <string name="phone_manager_edit_commonly_used_func_title">Uredite uobičajene značajke</string>
+  <string name="phone_manager_title">Toolbox</string>
   <string name="pkg_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="please_continue_keep">Zadrži</string>
   <string name="pm_auto_start_basic_services_lock">Zaključaj</string>
@@ -3590,6 +3634,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_private_photo_album_detail">Šifrirajte i zaštitite stavke Zaklj. zaslona</string>
   <string name="pp_prohibit_use_camera_in_background">Ograničite korištenje kamere u pozadini</string>
   <string name="pp_prohibit_use_camera_in_background_detail">"Aplikacije prema zadanim postavkama neće moći koristiti kameru u pozadini"</string>
+  <string name="pp_read_phone_info_summary">Pristupite SIM podacima</string>
   <string name="pp_record_msg">Snimanje zvuka</string>
   <string name="pp_safe_box">Privatni prostor</string>
   <string name="pp_safe_box_detail">"Privatne su stavke šifrirane i pohranjene samo na ovom uređaju. Drugi ljudi neće im moći pristupiti dok koriste ovaj uređaj, a samom uređaju neće biti omogućen pristup šifriranim stavkama i njihova upotreba na bilo koji način.</string>
@@ -3599,6 +3644,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_safe_save_pwd_and_account">Pohranite zaporke u sigurnom okruženju</string>
   <string name="pp_safe_share_img_detail">Dijelite fotografije bez podataka o lokaciji i metapodataka</string>
   <string name="pp_smart_manager_pwd">Zaporke</string>
+  <string name="pp_sms_and_contacts">Kontakti i poruke</string>
   <string name="pp_special_permission_settings">Posebna dopuštenja</string>
   <string name="pp_special_permission_settings_detail">Kontrolirajte kako aplikacije upotrebljavaju posebna dopuštenja</string>
   <string name="pp_storage_msg">Pohrana</string>
@@ -4253,6 +4299,18 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="signal_exception_summary">"Ne mogu se povezati na mrežu na ovom području."</string>
   <string name="signal_exception_title">Test jačine signala</string>
   <string name="signed_rule">Pravila</string>
+  <string name="sim_car_absent__tip">Potvrdite zaključavanje zaslona da biste isključili način rada Izgubljen</string>
+  <string name="sim_car_absent_intercept_action">Potvrdite zaključavanje zaslona (%d)</string>
+  <string name="sim_car_absent_intercept_action_last">Potvrdite zaključavanje zaslona</string>
+  <string name="sim_car_absent_intercept_item_summary">Uključena je značajka Pronađi uređaj. Potvrda zaključavanja zaslona potrebna je za isključivanje uređaja ili uklanjanje SIM kartice.</string>
+  <string name="sim_car_absent_intercept_item_summary_last">Uključena je značajka Pronađi uređaj. Potvrda zaključavanja zaslona potrebna je za isključivanje uređaja ili uklanjanje SIM kartice. Aktiviran je način rada Izgubljen.</string>
+  <string name="sim_car_absent_intercept_item_title">Aktivirani su zaštitni mehanizmi</string>
+  <string name="sim_car_absent_intercept_summary">SIM kartica je uklonjena. Potvrdite zaključavanje zaslona da biste mogli koristiti ovaj uređaj.</string>
+  <string name="sim_car_absent_intercept_title">Potvrdite zaključavanje zaslona</string>
+  <string name="sim_car_absent_summary">Potvrdite zaključavanje zaslona da biste mogli koristiti ovaj uređaj.</string>
+  <string name="sim_car_absent_title">Ovaj uređaj je izgubljen</string>
+  <string name="sim_card_absent_intercept_tip">"Ako ne potvrdite zaključavanje zaslona, aktivirat će se način rada Izgubljen."</string>
+  <string name="sim_card_absent_warning_voice">SIM kartica je uklonjena. Potvrdite zaključavanje zaslona.</string>
   <string name="sim_location_diagnostic">Dijagnostika lokacije</string>
   <string name="sim_location_error_dialog_message">"SIM kartica koju koristite je iz %1$s. To se razlikuje od lokacije koju ste postavili ručno (%2$s). Promijeniti lokaciju SIM kartice na %3$s?"</string>
   <string name="sim_location_error_notify_message">Dodirnite za promjenu lokacije SIM-a.</string>
@@ -5567,6 +5625,9 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="write_clipboard_tip_content">Ovo dopuštenje omogućuje aplikacijama spremanje stavki u međuspremnik. Neželjene poruke mogu utjecati na vaše uobičajeno korištenje međuspremnika</string>
   <string name="write_clipboard_tip_title">Spremanje stavki u međuspremnik</string>
   <string name="wrong_password">Netočna zaporka</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="xiaomi_privacy_protection_measures">Mjere zaštite privatnosti</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite još</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obavijesti Mi Data plana</string>

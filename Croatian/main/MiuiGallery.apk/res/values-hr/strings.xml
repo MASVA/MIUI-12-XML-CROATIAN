@@ -212,6 +212,7 @@
   <string name="app_name_view_picture">Pregled fotografija</string>
   <string name="app_name_view_video">Pregled videozapisa</string>
   <string name="app_summary">Upravljanje i uređivanje fotografija i videozapisa na vašem uređaju i u Mi Cloudu</string>
+  <string name="app_summary_2">Pohranjivanje, upravljanje i uređivanje fotografija i videozapisa na ovom uređaju</string>
   <string name="application_icon">Ikona aplikacije</string>
   <string name="apply">Primjeni</string>
   <string name="art_still_cancel_download">Odustani</string>
@@ -597,6 +598,8 @@
   <string name="crop_save_text">Spremi</string>
   <string name="crop_tooltip">Povucite oznake da obrežete sliku</string>
   <string name="crossprocess">Pomak boja</string>
+  <string name="cta_agreement_declare">&lt;Data&gt;Da biste u potpunosti razumjeli svoja prava kao korisnika, kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
+  <string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Mi Cloudom ova se aplikacija mora povezati s internetom.</string>
   <string name="custom_select_title_deselect_all">Poništi odabir</string>
   <string name="custom_select_title_quickly_share">Podijeli</string>
   <string name="custom_select_title_select_all">Odaberi sve</string>
@@ -1145,9 +1148,16 @@ za fotografije"</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
   <string name="grant_permission_go_and_set">Postavi</string>
+  <string name="grant_permission_go_and_set_2">Postavke</string>
+  <string name="grant_permission_go_and_set_3">Postavke</string>
+  <string name="grant_permission_shortcut">Dopustite ovoj aplikaciji da prvo stvara prečace na početnom zaslonu.</string>
+  <string name="grant_permission_storage">Dopustite ovoj aplikaciji prvo pristup pohrani.</string>
+  <string name="grant_permission_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji da prvo pristupi pohrani.</string>
   <string name="grant_permission_text">"Galerija treba pristup za \n%s\n da radi normalno, dodirni \"Postavi\" za ići u Dopuštenja."</string>
   <string name="grant_permission_title">Dopusti pristup</string>
   <string name="grant_permission_unlock_and_set">Otključaj i postavi</string>
+  <string name="grant_permission_unlock_and_set_2">Otključaj</string>
+  <string name="grant_permission_write_clipboard">Da biste mogli kopirati stavke, dopustite ovoj aplikaciji spremanje stavki u međuspremnik.</string>
   <string name="grayscale">Tonovi sive</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
   <string name="have_known">Razumijem</string>
@@ -1754,8 +1764,14 @@ za fotografije"</string>
   <string name="people_page_label">Osobe</string>
   <string name="people_page_unname">Bez imena</string>
   <string name="permissin_contract_desc">For naming people on photos</string>
+  <string name="permission_account_desc">Za prijavu i upravljanje računom sustava</string>
+  <string name="permission_account_name">Pristup računima</string>
+  <string name="permission_clipboard_desc">Za pristup i spremanje stavki u međuspremnik</string>
+  <string name="permission_clipboard_name">Pristup ili spremanje stavkama u međuspremnik</string>
   <string name="permission_contacts_desc">Za dodjeljivanje kontakata osobama na fotografijama</string>
+  <string name="permission_contacts_desc_2">Za povezivanje ljudi na fotografijama s kontaktima</string>
   <string name="permission_contacts_name">Kontakti</string>
+  <string name="permission_contacts_name_2">Pristup kontaktima</string>
   <string name="permission_contract_name">Kontakti</string>
   <string name="permission_optional_category">Izborna dopuštenja</string>
   <string name="permission_phone_desc">Za mrežne zahtjeve na temelju ID-a uređaja</string>
@@ -1763,6 +1779,7 @@ za fotografije"</string>
   <string name="permission_require_category">Obvezna dopuštenja</string>
   <string name="permission_storage_desc">Za prikaz, uređivanje i spremanje fotografija</string>
   <string name="permission_storage_name">Pohrana</string>
+  <string name="permission_storage_name_2">Pristup i spremanje fotografija i datoteka na uređaj</string>
   <string name="permission_use_desc">Dopuštenja</string>
   <string name="pet_album_display_name">Fotografije ljubimaca</string>
   <string name="petabyteShort">PB</string>

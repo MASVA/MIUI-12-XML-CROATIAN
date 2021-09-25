@@ -252,7 +252,9 @@
   <string name="pbap_authentication_timeout_message">Došlo je do prekoračenja vremena za unos šifre sesije s korisnikom %1$s</string>
   <string name="pbap_notification_group">Dijeljenje Bluetooth kontakta</string>
   <string name="pbap_session_key_dialog_header">Potrebna je šifra za Bluetooth sesiju</string>
-  <string name="pbap_session_key_dialog_title">Upiši šifru sesije za %1$s</string>
+  <string name="pbap_session_key_dialog_title">Upiši šifru sesije za %1$s</string>  
+  <string name="permdesc_bluetoothAcceptlist">Omogućuje aplikaciji privremeno stavljanje Bluetooth uređaja na popis prihvaćenih, čime mu omogućuje slanje datoteka na ovaj uređaj bez korisnikove potvrde.</string>
+  <string name="permlab_bluetoothAcceptlist">Stavi pristup Bluetooth uređaja na popis prihvaćenih.</string>
   <string name="permdesc_bluetoothAvrcpDataManager">Aplikaciji omogućuje pristup upravitelju za BluetoothAvrcpData i koristiti ga za prikaz na UI.</string>
   <string name="permdesc_bluetoothShareManager">Aplikaciji omogućuje pristup upravitelju za Bluetooth Dijeljenje i njegovu upotrebu za prijenos datoteka.</string>
   <string name="permdesc_bluetoothWhitelist">Omogućuje aplikaciji privremeno stavljanje Bluetooth uređaja na popis dopuštenih uređaja, čime mu omogućuje da šalje datoteke na ovaj uređaj bez potvrde korisnika.</string>

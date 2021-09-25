@@ -56,4 +56,8 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
      </plurals>
+	 <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sekundu</item>
+     </plurals>
 </resources> 

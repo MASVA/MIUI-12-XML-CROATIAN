@@ -784,4 +784,32 @@ Za više informacija o ovom certifikatu, obratite se administratoru."</item>
         <item quantity="other">Svakih %d sek.</item>
         <item quantity="one">Svake %d sekunde</item>
     </plurals>
+	     <plurals name="app_launch_supported_links_title">
+        <item quantity="other">%d podržanih veza</item>
+        <item quantity="one">%d podržana veza</item>
+     </plurals>
+     <plurals name="app_launch_verified_links_message">
+        <item quantity="other">Ove su veze potvrđene i automatski se otvaraju u ovoj aplikaciji.</item>
+        <item quantity="one">Ove su veze potvrđene i automatski se otvaraju u ovoj aplikaciji.</item>
+     </plurals>
+     <plurals name="app_launch_verified_links_title">
+        <item quantity="other">%d potvrđenih veza</item>
+        <item quantity="one">%d potvrđena veza</item>
+     </plurals>
+     <plurals name="autofill_passwords_count">
+        <item quantity="other">%1$d zaporki</item>
+        <item quantity="one">%1$d zaporka</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+     </plurals>
+     <plurals name="number_of_urls">
+        <item quantity="other">%d URL-ova</item>
+        <item quantity="one">%d URL</item>
+     </plurals>
+     <plurals name="unused_apps_summary">
+        <item quantity="other">%d nekorištenih aplikacija</item>
+        <item quantity="one">%d nekorištena aplikacija</item>
+     </plurals>
 </resources> 

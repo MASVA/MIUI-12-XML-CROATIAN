@@ -34,6 +34,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte otisak prsta</string>
   <string name="agree">Slažem se</string>
@@ -59,8 +60,10 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="changePassword">Promjeni zaporku</string>
   <string name="chooseDataTransfer">Što treba učiniti s podacima Drugog prostora?</string>
   <string name="chooseFile">Odaberite druge datoteke</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_back_first_space">Dodirnite za povratak u Prvi prostor</string>
   <string name="click_to_switch">Dodirnite za prikaz</string>
+  <string name="close">Zatvori</string>
   <string name="closePassword">Isključi zaporku</string>
   <string name="closePasswordGuide">"Nećete biti u mogućnosti ući u Drugi prostor sa Zaklj. zaslona nakon što isključite zaporku."</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
@@ -104,6 +107,7 @@ Isključiti svejedno?"</string>
   <string name="cta_declaration_title">Uvjeti i Odredbe</string>
   <string name="current_space">Trenutni prostor</string>
   <string name="dataSafe">Korištenje Drugog prostora je kao da imate dva uređaja.</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="declare_dialog_title">O Dvojnim aplikacijama</string>
   <string name="deleteAll">Izbriši sve</string>
   <string name="deleteDataConfirm">Sve stavke biti će izbrisani</string>
@@ -188,6 +192,9 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="finger_print_of_use">Upotrijebi otisak prsta</string>
   <string name="fingerprint_number_upper_limit">Previše neuspjelih pokušaja otključavanja</string>
   <string name="fingerprint_removal_failed">"Ne mogu izbrisati otisak prsta"</string>
+  <string name="friday">Petak</string>
+  <string name="friday_short">Pet</string>
+  <string name="friday_shortest">P</string>
   <string name="function_not_support">Nije podržano na ovom uređaju</string>
   <string name="gms_message">Izrada dvojnih aplikacija zahtijeva rad s Googleovim uslugama. Izraditi dvojnu aplikaciju za Google usluge?</string>
   <string name="gms_open_button">Uključi</string>
@@ -258,6 +265,23 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="master_clear_not_available_ep">"Nije vam dopušteno vraćanje na tvorničke postavke ili opoziv vaše autorizacije. Obratite se svom nadzorniku."</string>
   <string name="menu_item_about_privacy_title">Pravila o Privatnosti</string>
   <string name="messageData">Poruke</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">More</string>
+  <string name="miuix_appcompat_cancel_description">Odustani</string>
+  <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+  <string name="miuix_appcompat_delete_description">Izbriši</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+  <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -266,6 +290,50 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="monday">Ponedjeljak</string>
+  <string name="monday_short">Pon</string>
+  <string name="monday_shortest">P</string>
+  <string name="month">Mjesec</string>
+  <string name="month_april">Travanj</string>
+  <string name="month_april_short">Tra</string>
+  <string name="month_april_shortest">T</string>
+  <string name="month_august">Kolovoz</string>
+  <string name="month_august_short">Kol</string>
+  <string name="month_august_shortest">K</string>
+  <string name="month_december">Prosinac</string>
+  <string name="month_december_short">Pro</string>
+  <string name="month_december_shortest">P</string>
+  <string name="month_february">Veljača</string>
+  <string name="month_february_short">Velj</string>
+  <string name="month_february_shortest">V</string>
+  <string name="month_january">Siječanj</string>
+  <string name="month_january_short">Sij</string>
+  <string name="month_january_shortest">S</string>
+  <string name="month_july">Srpanj</string>
+  <string name="month_july_short">Srp</string>
+  <string name="month_july_shortest">S</string>
+  <string name="month_june">Lipanj</string>
+  <string name="month_june_short">Lip</string>
+  <string name="month_june_shortest">L</string>
+  <string name="month_march">Ožujak</string>
+  <string name="month_march_short">Ožu</string>
+  <string name="month_march_shortest">O</string>
+  <string name="month_may">Svibanj</string>
+  <string name="month_may_short">Svi</string>
+  <string name="month_may_shortest">S</string>
+  <string name="month_medium_april">Tra</string>
+  <string name="month_medium_august">Kol</string>
+  <string name="month_medium_december">Pro</string>
+  <string name="month_november">Studeni</string>
+  <string name="month_november_short">Stu</string>
+  <string name="month_november_shortest">S</string>
+  <string name="month_october">Listopad</string>
+  <string name="month_october_short">Lis</string>
+  <string name="month_october_shortest">L</string>
+  <string name="month_september">Rujan</string>
+  <string name="month_september_short">Ruj</string>
+  <string name="month_september_shortest">R</string>
+  <string name="more">Više</string>
   <string name="more_settings">Više</string>
   <string name="msg_switch_file">Izbrisati ove datoteke u Prvom prostoru nakon što ste ih premjestili?</string>
   <string name="msg_switch_file_second">Izbrisati ove datoteke u Drugom prostoru nakon što ste ih premjestili?</string>
@@ -343,6 +411,9 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="same_qr_code_des">Izgleda da Radni prostor već postoji. Možete koristiti prečace Početnog zaslona i panela obavijesti za Radni prostor. Ići sada?</string>
   <string name="same_qr_code_enter_space">Idi u Radni prostor</string>
   <string name="same_qr_code_title">%s već postoji</string>
+  <string name="saturday">Subota</string>
+  <string name="saturday_short">Sub</string>
+  <string name="saturday_shortest">S</string>
   <string name="scanner_fingerprint">Skeniranje otiska prsta…</string>
   <string name="scanner_fingerprint_enter_second">"Skenirajte otisak prsta Drugog prostora 
 za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
@@ -370,6 +441,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="secondspace_homepage">"Postavite određeno Zaklj. zaslona za Drugi prostor.
 Odvojite i osigurajte svoje podatke."</string>
   <string name="select_existed_fingerprint">Odaberite otisak prsta</string>
+  <string name="send">Pošalji</string>
   <string name="serNameSummary">Drugi prostor</string>
   <string name="setSecondSpacePassword">Postavite zaporku Drugog prostora</string>
   <string name="setSecondSpacePasswordGuide">Postavite zaporku Drugog prostora</string>
@@ -399,6 +471,8 @@ Odvojite i osigurajte svoje podatke."</string>
   <string name="settings_notification_and_switch_second_space">Postavke Drugog prostora</string>
   <string name="settings_notification_from_owner_space_title">Prikaži obavijesti iz Prvog prostora</string>
   <string name="settings_notification_from_second_space_title">Prikaži obavijesti iz Drugog prostora</string>
+  <string name="settings_notification_second_space_show_in_locked_summary">Prikaži obavijesti iz drugog prostora na Zaklj. zaslonu</string>
+  <string name="settings_notification_second_space_show_in_locked_title">Prikaži obavijesti na Zaklj. zaslonu</string>
   <string name="settings_second_space_entrance_summary">Pokaži prečac Drugog prostora u Postavkama</string>
   <string name="settings_second_space_entrance_title">Prečac u Postavkama</string>
   <string name="settings_set_password_for_owner_space">Postavi Zaklj. zaslona u Prvom prostoru</string>
@@ -446,6 +520,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stop_xspace_alert_content">"Izbrisati sve dvojne aplikacije zajedno s njihovim računima i podacima o aplikacijama? Vaš će se uređaj ponovno pokrenuti kako bi primijenio ovu promjenu."</string>
   <string name="stop_xspace_alert_title">Izbriši račune dvojnih aplikacija</string>
   <string name="summary_switch_apps_settings">Odaberite aplikacije korištene u trenutnom prostoru</string>
+  <string name="sunday">Nedjelja</string>
+  <string name="sunday_short">Ned</string>
+  <string name="sunday_shortest">N</string>
   <string name="support_desc">Sigurnosne usluge pruža Spaces Mobile</string>
   <string name="sure_to_use">Potvrdi</string>
   <string name="switchDataSummary">Premještajte stavke između prostora</string>
@@ -475,9 +552,17 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="switching_photos">Premještanje fotografija…</string>
   <string name="temporary_no_set">Ne sada</string>
   <string name="this_function_can_not_use_in_second_space">Ova se funkcija može koristiti samo u Prvom prostoru</string>
+  <string name="thursday">Četvrtak</string>
+  <string name="thursday_short">Čet</string>
+  <string name="thursday_shortest">Č</string>
+  <string name="time_picker_dialog_title">Postavi vrijeme</string>
+  <string name="time_picker_label_hour">H</string>
+  <string name="time_picker_label_minute">M</string>
   <string name="title_choose_app_status">Odaberite vrstu aplikacije</string>
   <string name="title_switch_file">Izbrisati ove datoteke?</string>
   <string name="title_switch_photo">Izbrisati ove fotografije?</string>
+  <string name="today">Danas</string>
+  <string name="tomorrow">Sutra</string>
   <string name="transferApp">Aplikacije instalirane u Drugom prostoru će biti premještene u Prvi prostor. Međutim, svi podaci aplikacije će biti izgubljeni.</string>
   <string name="transferContact">Kontakti iz Drugog prostora će biti premješteni u Prvi prostor</string>
   <string name="transferDataConfirm">Preostale stavke će biti izbrisane</string>
@@ -487,6 +572,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugog prostora će biti premještene u album \"Drugi prostor\" u Prvom prostoru</string>
   <string name="transferMessage">Poruke iz Drugog prostora će biti premještene u Prvi prostor</string>
   <string name="tryNow">Isprobajte sada</string>
+  <string name="tuesday">Utorak</string>
+  <string name="tuesday_short">Uto</string>
+  <string name="tuesday_shortest">U</string>
   <string name="undo_activated_dialog_message">"Opoziv autorizacije isključit će način rada Enterprise i vratiti uređaj na tvorničke postavke. Sve povezane značajke više neće biti dostupne. Osim toga, Xiaomi će prestati prikupljati informacije potrebne za način rada Enterprise (IMEI, ID uređaja, verzija sustava, regija itd.). Želimo vas podsjetiti da Xiaomi ne upravlja podacima koje prikuplja za način rada Enterprise. Učinit ćemo sve kako bi obavijestili sve povezane stranke, no preporučujemo da kontaktirate nadzornike svoje tvrtke da biste odobrili opoziv. Opozvati autorizaciju i vratiti uređaj na tvorničke postavke?"</string>
   <string name="undo_activated_dialog_ok">Opozovi</string>
   <string name="undo_grant_dialog_message">Xiaomi će prestati prikupljati informacije potrebne za tu značajku (IMEI, ID uređaja, verzija sustava, regija itd.) nakon opoziva autorizacije. Opozvati sada?</string>
@@ -497,6 +585,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wating">Samo trenutak…</string>
+  <string name="wednesday">Srijeda</string>
+  <string name="wednesday_short">Sri</string>
+  <string name="wednesday_shortest">S</string>
   <string name="weibo_send">Pošalji na Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share">WeChat Pay</string>
@@ -522,9 +613,9 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="xspace_guide_description">"Svaki račun
 zaslužuje vlastitu aplikaciju"</string>
   <string name="xspace_guide_title">Isprobajte Dvojne aplikacije</string>
-  <string name="xspace_install_complete">&lt;font>Uspješno izrađeno&lt;/font>&lt;font color=#0D84FF>Otcori sada&lt;/font></string> 
   <string name="xspace_header">Dvojne aplikacije</string>
   <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_install_complete">&lt;font&gt;Uspješno izrađeno&lt;/font&gt;&lt;font color=#0D84FF&gt;Otcori sada&lt;/font&gt;</string>
   <string name="xspace_install_completed">Ikona dodana na Početni zaslon</string>
   <string name="xspace_install_completed_global">Ikona dodana na ladicu</string>
   <string name="xspace_install_failed">"Ne mogu izraditi"</string>
@@ -547,4 +638,5 @@ zaslužuje vlastitu aplikaciju"</string>
   <string name="xspace_weibo_title">Weibo</string>
   <string name="xspace_weixin_title">WeChat</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
+  <string name="yesterday">Jučer</string>
 </resources>

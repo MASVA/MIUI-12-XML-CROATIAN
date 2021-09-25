@@ -68,6 +68,7 @@
   <string name="cancel">Odustani</string>
   <string name="cancel_running_download">Odustani</string>
   <string name="cancle">Odustani</string>
+  <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
   <string name="choose_open_picture">Odaberi radnju</string>
   <string name="choose_open_time">"Odaberite kada želite započeti"</string>
   <string name="clear_data">Izbriši</string>
@@ -195,6 +196,7 @@
   <string name="file_picker">Odaberite lokaciju</string>
   <string name="file_size">Veličina:</string>
   <string name="flow_consume">Promet</string>
+  <string name="for_diagnosis_usage_only">Koristite ove informacije samo za dijagnostiku.</string>
   <string name="force_touch_newdownload">Nova preuzimanja</string>
   <string name="force_touch_rank">Poredak</string>
   <string name="force_touch_search">Pretraži internet</string>
@@ -313,6 +315,7 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="net_error">"Ne mogu se povezati na mrežu, pokušajte ponovno"</string>
   <string name="network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="new_add">Novo</string>
@@ -337,6 +340,7 @@
   <string name="notify_only_wifi_download">Čekanje na Wi-Fi</string>
   <string name="one_month">1 mjesec</string>
   <string name="only_support_torrent">Samo su podržane torrent datoteke</string>
+  <string name="ok">U redu</string>
   <string name="open">Otvori</string>
   <string name="open_download">Otvori</string>
   <string name="open_folder">Otvori mapu</string>
@@ -347,6 +351,9 @@
   <string name="other">Ostalo</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
+  <string name="passport_oauth_actionbar_title">Mi Račun</string>
+  <string name="passport_oauth_sucess_tip">Autorizirani pristup</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="path_no_available">"Ova putanja nije dostupna"</string>
   <string name="path_not_available">Putanja nije dostupna</string>
   <string name="pause_download">Pauza</string>
@@ -404,6 +411,8 @@ i pokušajte ponovno."</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
   <string name="send">Pošalji</string>
+  <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
+  <string name="sending">Slanje…</string>
   <string name="save_path">"Spremi preuzimanja u: "</string>
   <string name="save_text">Uštedi ￥%1$s</string>
   <string name="search_clear_history_btn">Izbriši povijest pretraživanja</string>
