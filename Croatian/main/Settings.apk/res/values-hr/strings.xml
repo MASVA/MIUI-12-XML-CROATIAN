@@ -2947,8 +2947,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">Koristi 24-satni format</string>
   <string name="date_time_24hour_auto">Automatski 24‑satni format</string>
-  <string name="date_time_24hour_auto">Upotrijebi zadani lokalni format</string>
-  <string name="date_time_24hour_title">24-satni oblik</string>
+  <string name="date_time_24hour_title">24-satni format</string>
   <string name="date_time_auto">Automatsko postavljanje vremena</string>
   <string name="date_time_auto_summaryOff">Upotrijebi vrijeme mreže</string>
   <string name="date_time_auto_summaryOn">Upotrijebi vrijeme mreže</string>
