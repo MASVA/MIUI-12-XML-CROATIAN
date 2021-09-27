@@ -262,7 +262,7 @@ Audio"</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
  Upozorenje! Time će se izbrisati svi vaši podaci.
  Značajka je u alfa verziji i možda neće funkcionirati pravilno.
- Pritisnite \"Izbriši i pretvori...\" da biste nastavili."</string>
+ Pritisnite \"Izbriši i pretvori…\" da biste nastavili."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
   <string name="convert_to_file_encryption_done">Datoteke su već šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvori…</string>

@@ -20,6 +20,7 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_device_info">Prikaži pojedinosti o uređaju</string>
+  <string name="accept">Dopusti</string>
   <string name="access_token_expired_warning">Weibo račun je istekao</string>
   <string name="access_token_invalid_warning">Weibo račun je nevažeći</string>
   <string name="account">Račun</string>
@@ -122,6 +123,7 @@
   <string name="binded_description" formatted="false">%s je povezan na vaš Mi Račun. 
 Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="button_unbind">Prekini vezu</string>
+  <string name="cancel">Odustani</string>
   <string name="change_activate_email">Promjeni adresu e-pošte</string>
   <string name="change_email_address">Promjeni adresu e-pošte</string>
   <string name="change_password">Promjena zaporke</string>
@@ -209,6 +211,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
   <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Mi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
   <string name="delete_lock_device_success">Uspješno izbrisano</string>
+  <string name="deny">Odbij</string>
   <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
   <string name="device_delete_success_title">Odjavljeno</string>
   <string name="device_list__header">Moji uređaji</string>
@@ -221,6 +224,7 @@ ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
   <string name="download_file">Preuzimanje %s…</string>
   <string name="empty_device_list_notice">Nema uređaja</string>
+  <string name="enable">Postavke</string>
   <string name="ep_unsupported">Vaš uređaj ne podržava prijavu na Xiaomi račun</string>
   <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
   <string name="error_duplicate_answers">"Nemojte koristiti duplicirane odgovore iz sigurnosnih razloga"</string>
@@ -279,6 +283,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
   <string name="google">Google</string>
   <string name="google_login">Prijavite se s Google računom</string>
+  <string name="goto_accept">U redu</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="health_action_activate">Aktiviraj</string>
   <string name="health_action_install">Instaliraj</string>
@@ -326,6 +331,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="mipay_center">Mi Wallet</string>
   <string name="miui_provision_find_status_text">"Ovaj je uređaj povezan s postojećim Mi Računom (%1$s), unesite zaporku za provjeru uređaja.
 (Br. otključavanja: %2$s)"</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -340,6 +347,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -568,6 +576,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_privacy_policy">Pravila o Privatnosti</string>
   <string name="passport_privacy_policy_required">Pravila o Privatnosti (obavezno)</string>
   <string name="passport_provision_input_email_register_prompt">Vaši osobni podaci bit će pohranjeni u skladu sa zakonima i propisima regije koju odaberete.</string>
+  <string name="passport_provision_password_req_notice">&lt;xliff id="min_pwd_len" refersto="8"&gt;%1$d&lt;/xliff&gt;-&lt;xliff id="max_pwd_len" refersto="16"&gt;%2$d&lt;/xliff&gt; znakova barem &lt;xliff id="min_pwd_type" refersto="2"&gt;%3$d&lt;/xliff&gt; sljede&amp;#263;e vrste: slova, znamenke, posebni simboli</string>
   <string name="passport_pwd_generate_failure">"Ne mogu generirati zaporku"</string>
   <string name="passport_pwd_generating">Generiranje…</string>
   <string name="passport_querying_phone_info">Zahtijevanje podataka o računu…</string>
@@ -691,10 +700,14 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="password_view_hide_password">Sakrij zaporku</string>
   <string name="password_view_show_password">Prikaži zaporku</string>
+  <string name="permission_desc_read_sms">Za automatsko popunjavanje verifikacijskih kodova</string>
+  <string name="permission_desc_write_external_storage">Za učitavanje dnevnika radi povratnih informacija</string>
   <string name="permission_group_contacts">Kontakti</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Pohrana</string>
+  <string name="permission_read_sms">Pristup porukama</string>
+  <string name="permission_write_external_storage">Pristup i spremanje stavki u pohranu</string>
   <string name="personal_info_desc">Fotografija, nadimak, i više</string>
   <string name="phone_activated">%s aktiviran</string>
   <string name="phone_num_use_for">Broj telefona se koristi za:</string>
@@ -718,6 +731,12 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="removing_account">Odjava…</string>
   <string name="rename_current_device">"Promjeni naziv uređaja"</string>
   <string name="replace_binded_phone">Zamjeni telefon</string>
+  <string name="request_open_permission">Potrebna dopuštenja</string>
+  <string name="request_use_camera_message">"Dopustiti Mi Računu pristup kameri vašeg telefona?"</string>
+  <string name="request_use_camera_title">Pristup Kameri</string>
+  <string name="request_use_gallery_message">Dopustiti Mi Računu pristup Galeriji?</string>
+  <string name="request_use_gallery_title">Pristup Galeriji</string>
+  <string name="request_use_writing_clipboard_message">Da biste kopirali ID Mi Računa, dopustite Mi Računu spremanje stavki u međuspremnik.</string>
   <string name="resend_active_email">Pošalji ponovno</string>
   <string name="resend_email_reach_limit_message">"Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi."</string>
   <string name="resend_email_reach_limit_title">"Ne mogu poslati e-poštu"</string>
@@ -804,6 +823,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="system_ad_switch_failed">"Ne mogu primjeniti postavke"</string>
   <string name="talkback_scan_barcode">Skeniraj QR kod</string>
   <string name="temporary_not_available">"Ova značajka još nije dostupna."</string>
+  <string name="third_party_login">Računi trećih strana</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
@@ -842,6 +862,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="used_cloud_storage_info">Iskorišteno %s</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
+  <string name="user_instruction_all_purpose">Dobro došli na Mi Račun! Možete stvoriti račun, prijaviti se i pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi. com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>
+  <string name="user_instruction_tip">Da biste se mogli prijaviti, pročitajte i prihvatite odredbe i uvjete.</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verified_apps">Provjerene aplikacije</string>

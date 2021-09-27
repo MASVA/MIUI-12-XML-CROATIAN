@@ -74,6 +74,7 @@
   <string name="dual_app_title">Dvojne aplikacije</string>
   <string name="dual_app_words">Svaki račun zaslužuje vlastitu aplikaciju</string>
   <string name="error_icon_content_description">Pogreška</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="fastboot_locked_answer_1">Fastboot je tradicionalna metoda flešanja Mi uređaja. Kada je uređaj u Fastboot načinu, svim podacima pohranjenima na njemu može se izravno pristupiti te ih izbrisati. Zaključavamo Fastboot kako bismo bili sigurni da vaši podaci ostaju sigurni u slučaju da izgubite uređaj, te garantiramo pouzdanost značajke Pronađi uređaj.</string>
   <string name="fastboot_locked_answer_2">"Ako izgubite uređaj, Fastboot jamči sigurnost stavki pohranjenih na njemu. Ako otključate Fastboot, više nećete moći zaključati uređaj na daljinu ili izbrisati podatke pomoću značajke Pronađi uređaj. Zato ne preporučujemo da otključate Fastboot na uređaju."</string>

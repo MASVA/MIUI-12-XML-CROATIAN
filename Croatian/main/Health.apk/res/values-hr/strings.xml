@@ -217,6 +217,7 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="collect_diagnosis_log">Prikupite dijagnostički zapisnik</string>
   <string name="complete_preference_basic_info">Dovršite svoj profil</string>
   <string name="completed">"Dovršeno "</string>
+  <string name="complete_progress">Napredak</string>
   <string name="completed_stand">Stajanje je gotovo</string>
   <string name="confirm_opening">Potvrdi</string>
   <string name="contact_permission_desc">Za postavljanje kontakata u hitnim slučajevima</string>
@@ -1623,6 +1624,7 @@ podatke o spavanju"</string>
   <string name="tb_stand_day_ring">Danas, %1$s je akumulirao da dovrši stajanje, cilj je završiti stajanje za 12 sati</string>
   <string name="tb_stand_wm_column_chart">%1$s-%2$, Statistički podaci o završetku stajanja, povucite lijevo i desno za promjenu vremenskog raspona, kliknite na stupac za prikaz detalja</string>
   <string name="tb_stand_wm_column_click">%1$s, stajanje %2$d, %3$s</string>
+  <string name="tb_step_widget">Danas. %1$s. Napredak: %2$d%</string>
   <string name="tb_unmultiple_selecte_all">Poništi odabir</string>
   <string name="tb_user_account_signed">Mi Račun: %1$s.</string>
   <string name="tb_user_account_unsigned">Dodirnite za prijavu na Mi Račun</string>
@@ -1774,6 +1776,7 @@ Ažurirati sada?"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="value_error_correct">Uredi zapis</string>
+  <string name="view_step_and_progress">Prikaz trenutnog broja koraka</string>
   <string name="visceral_fat">Visceralna masnoća</string>
   <string name="visceral_fat_descripe_content">Visceralna masnoća neophodna je za stabilizaciju i zaštitu unutarnjih organa. Međutim, visoka visceralna masnoća povećava rizik od kardiovaskularnih i metaboličkih bolesti.</string>
   <string name="voice_remind">"Povećali smo glasnoću kako biste bolje čuli upute."</string>

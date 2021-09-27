@@ -1115,6 +1115,10 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="cetus_invisible_mode_warn_location">"Inkognito ste. Dopuštenja za lokaciju su obustavljena."</string>
   <string name="cetus_invisible_mode_warn_open">Anonimni način suspendira dopuštenja za mikrofon, kameru i lokaciju za sve aplikacije. Uključiti sada?</string>
   <string name="cetus_invisible_mode_warn_record_audio">"Inkognito ste. Dopuštenja za mikrofon su obustavljena."</string>
+  <string name="charge_high_temp_warning_dialog_ok">Razumijem</string>
+  <string name="charge_high_temp_warning_dialog_text">Čini se da je priključak za punjenje sada pregrijan. Odspojite punjač i pustite da se baterija ohladi prije nego što počnete ponovno puniti.</string>
+  <string name="charge_high_temp_warning_text">Odspojite punjač i pustite da se baterija ohladi</string>
+  <string name="charge_high_temp_warning_title">Priključak za punjenje je prevruć</string>
   <string name="charger_detect_button_ok">Razumijem</string>
   <string name="charger_detect_info1">Provjerite jesu li ispravljač i kabel ispravno spojeni.</string>
   <string name="charger_detect_info2">"Punjenje se može usporiti i ako koristite nestandardne ili stare adaptere i kabele za punjenje."</string>
@@ -3806,6 +3810,7 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_app_permission_manage_summary">Upravljanje dopuštenjima instaliranih aplikacija</string>
   <string name="privacy_app_permission_manage_title">Upravljanje dopuštenjima</string>
   <string name="privacy_apps">Skrivene aplikacije</string>
+  <string name="privacy_apps_add">Dodaj</string>
   <string name="privacy_apps_begin_use">Start</string>
   <string name="privacy_apps_button_know">Razumijem</string>
   <string name="privacy_apps_category_title">Skrivene aplikacije</string>
@@ -3817,9 +3822,13 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
   <string name="privacy_apps_manager_dialog_message">"Ikona ove aplikacije neće se prikazati na početnom zaslonu nakon što sakrijete tu aplikaciju. Želite li sakriti tu aplikaciju?"</string>
   <string name="privacy_apps_next_stup">Dalje</string>
+  <string name="privacy_apps_password_enable_summay">Zaštitite privatne datoteke Zaklj. aplikacije</string>
+  <string name="privacy_apps_password_enable_title">Zaklj. aplikacija</string>
   <string name="privacy_apps_shield_message_summary">"Ne prikazuj obavijesti zaštićenih aplikacija"</string>
   <string name="privacy_apps_shield_message_title">"Ne prikazuj obavijesti"</string>
   <string name="privacy_apps_tutorial">Tutorijal</string>
+  <string name="privacy_apps_tutorial_dlg_message_1">Raširite dva prsta na početnom zaslonu da biste vidjeli skrivene aplikacije</string>
+  <string name="privacy_apps_tutorial_dlg_message_2">Napomena: Kada sakrijete aplikaciju, skriva se samo njezin prečac na početnom zaslonu.</string>
   <string name="privacy_apps_tutorial_dlg_title">Kako pronaći skrivene aplikacije</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Ova značajka omogućuje vam skrivanje ikona aplikacija kako se više ne bi pojavljivale na Početnom zaslonu."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Nakon unosa zaporke pojavit će se mapa s skrivenim aplikacijama.</string>
@@ -3991,6 +4000,12 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_search_key_7">Podaci o lokaciji</string>
   <string name="privacy_search_key_8">Maska privatnosti</string>
   <string name="privacy_search_key_9">Virtualni ID</string>
+  <string name="privacy_search_keyword_1">Privatnost</string>
+  <string name="privacy_search_keyword_2">Sakrij aplikacije</string>
+  <string name="privacy_search_keyword_3">Sakrij ikone</string>
+  <string name="privacy_search_keyword_4">Sakrij prečace na početnom zaslonu</string>
+  <string name="privacy_search_keyword_5">Privatne aplikacije</string>
+  <string name="privacy_search_keyword_6">Sakrij</string>
   <string name="privacy_show_other_permissions">Prikaži druga dopuštenja</string>
   <string name="privacy_show_password">Prikaži zaporku</string>
   <string name="privacy_show_password_summary">Kratko vrijeme zadrži zaporke vidljivima</string>

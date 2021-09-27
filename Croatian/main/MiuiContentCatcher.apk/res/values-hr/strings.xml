@@ -19,6 +19,7 @@
   <string name="autofill_password_activity_label">Kontrolni kodovi</string>
   <string name="autofill_service_label">Upravljanje zaporkama</string>
   <string name="autofill_setting_activity_label">Upravljanje zaporkama</string>
+  <string name="back_button_label">Natrag</string>
   <string name="cancel">Odustani</string>
   <string name="change_passwork_dialog_content">"Već ste spremili zaporku za ovaj račun. Ažurirati zaporku sada?"</string>
   <string name="change_passwork_dialog_title">Ažurirati zaporke?</string>

@@ -104,6 +104,7 @@
   <string name="first_back_long_press_message">"Za postavljanje prilagođenog pritisnite &amp; zadržite radnju za Navigacijske tipke, idite na Postavke &gt; Dodatne postavke &gt; Tipke</string>
   <string name="flip_screen_camera_tip">Okrenite uređaj da koristite kameru</string>
   <string name="fm_record_smaple_prefix_miui">FM Snimanje</string>
+  <string name="fold_small_not_split">"Podijeljeni zaslon nije podržan na vanjskom zaslonu"</string>
   <string name="force_exit_message">Prisilno zatvorena \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne mogu isključiti %1$s zato jer je potrebno sustavu."</string>
   <string name="fourhours">2 sata</string>
@@ -157,6 +158,7 @@
   <string name="international_livetalk_enable">Koristite nadoplatu paketa za međunarodne pozive</string>
   <string name="key_btn_ok">U redu</string>
   <string name="key_btn_space">Razmak</string>
+  <string name="keyboard_connect_failed">"Povezivanje tipkovnice nije uspjelo. Ponovo pričvrstite."</string>
   <string name="keyboard_identity_reject_confirm">Razumijem</string>
   <string name="keyboard_identity_reject_message">"Čini se da vaša tipkovnica nije kompatibilna s ovim uređajem."</string>
   <string name="keyboard_identity_transfer_error_message">"Ne mogu povezati tipkovnicu. Pokušajte ponovno."</string>
@@ -170,6 +172,7 @@
   <string name="lockscreen_access_pattern_cleared">Uzorak je obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak je dovršen</string>
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
+  <string name="lockscreen_carrier_customized">Ograničena usluga</string>
   <string name="magic_window_toast">Aplikacija Multiplier je omogućena.</string>
   <string name="maml_component_customization_title">Postavke</string>
   <string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>

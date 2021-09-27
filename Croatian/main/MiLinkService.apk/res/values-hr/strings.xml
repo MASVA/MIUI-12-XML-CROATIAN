@@ -29,6 +29,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="account_other">Ostalo</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="audio_record_des">Za prijenos zvuka s vašeg mobilnog uređaja na vanjske monitore</string>
   <string name="casting_tips">Emitiranje…</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
@@ -42,6 +43,9 @@
   <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="device_desc_trust">Pouzdani uređaji</string>
+  <string name="dialog_location_permission_message">Ova aplikacija treba pristupiti vašoj lokaciji da bi mogla pronaći vanjske monitore u blizini. Odaberite \"Uvijek dopusti\" dok dajete ovo dopuštenje kako biste izbjegli moguće pogreške.</string>
+  <string name="dialog_location_permission_title">Potrebna su dopuštenja</string>
+  <string name="dialog_select_tv">Odaberite uređaj (%1$d)</string>
   <string name="dialog_can_not_find_device">"Ne mogu pronaći uređaje u blizini"</string>
   <string name="dialog_cancle">Odustani</string>
   <string name="dialog_connect_fail">"Povezivanje nije uspjelo"</string>
@@ -77,6 +81,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="disconnect">Zaustavi emitiranje</string>
   <string name="enable_screen_projection_summary">Emitiraj sadržaj zaslona na vanjski monitor</string>
   <string name="expand_button_title">Napredno</string>
+  <string name="file_read_des">Za prikaz fotografija i drugih datoteka na vanjskim monitorima</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -109,6 +114,7 @@ Ako dva uređaja ne mogu biti povezana na istu mrežu, uključite Miracast na va
   <string name="help_page_text_07">3. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno emitiranje. Ako nema bežične mreže ili ako se televizor i mobilni telefon ne mogu povezati na istu mrežu, trebate uključiti TV (ili uređaj velikog zaslona) [Miracast] Mirror projection screen]. Taj se naziv može razlikovati za različite marke televizora. Daljnju stranicu možete pomaknuti do dna ove stranice i saznati više.</string>
   <string name="help_page_text_08">Korak 2</string>
   <string name="help_page_text_09">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite Wi-Fi i Bluetooth za stabilniju vezu."</string>
+  <string name="help_page_text_09_global">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite Wi-Fi i Bluetooth za stabilniju vezu."</string>
   <string name="help_page_text_10">Ako želite emitirati stavke iz Galerija ili Mi Video, možete koristiti ugrađene značajke za emitiranje u tim aplikacijama.</string>
   <string name="help_page_text_11">Korak 3</string>
   <string name="help_page_text_12">Odaberite vanjski uređaj s popisa dostupnih uređaja da biste započeli emitiranje.</string>
@@ -244,12 +250,14 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="normal_device_none">Ovdje nema prethodno povezanih uređaja</string>
   <string name="normal_device_title">Uređaji kojima se ne vjeruje</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="notify">Emitiranje radi u pozadini</string>
   <string name="notification_cast_desc">Emitiranje…</string>
   <string name="notification_desc_scanning">Traženje uređaja u blizini…</string>
   <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
   <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
   <string name="notification_show_more">Pogledajte dodatne značajke</string>
   <string name="open_game_accelerate">Uključi Game Turbo</string>
+  <string name="p2p_location_des">Za povezivanje mobilnog uređaja s vanjskim monitorima</string>
   <string name="path_setting_cast">Veza &amp; dijeljenje/Emitiranje</string>
   <string name="path_setting_cast_demo">Veza &amp; dijeljenje/Emitiranje/Demos</string>
   <string name="path_setting_cast_demo_document">Veza &amp; dijeljenje/Emitiranje/Demos/Dokumenti</string>

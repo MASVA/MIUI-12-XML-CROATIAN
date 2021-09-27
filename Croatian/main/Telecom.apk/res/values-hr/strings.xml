@@ -473,6 +473,7 @@ Audio"</string>
   <string name="media_transfer_this_phone">Ovaj telefon</string>
   <string name="media_transfer_wired_device_name">Žičani audiouređaj</string>
   <string name="media_transfer_wired_usb_device_name">Žičane slušalice</string>
+  <string name="message_no_voice_capability">"Ne možete upućivati pozive na ovom uređaju"</string>
   <string name="missedcall_notification_public_version_title">Telefon</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>

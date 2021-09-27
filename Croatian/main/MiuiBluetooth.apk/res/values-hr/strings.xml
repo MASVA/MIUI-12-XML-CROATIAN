@@ -43,6 +43,7 @@
   <string name="accessor_expires_text">Najam istječe %s</string>
   <string name="accessor_info_title">Aplikacije koje dijele podatke</string>
   <string name="accessor_no_description_text">U aplikaciji nije naveden opis.</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="adb_device_fingerprint_title_format">Otisak prsta na uređaju: %1$s</string>
   <string name="adb_device_forget">Zaboravi</string>
@@ -229,6 +230,8 @@ Audio"</string>
   <string name="charge_length_format">Prije %1$s</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
+  <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="confirm_enable_oem_unlock_text">UPOZORENJE: značajke za zaštitu uređaja neće funkcionirati na ovom uređaju dok je ta postavka uključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite li dopustiti OEM otključavanje?</string>
   <string name="connected_via_app">Povezano putem %1$s</string>
@@ -339,6 +342,7 @@ Pojedinosti potražite u Postavkama."</string>
   <string name="fast_connect_same_account_content">Bluetooth uređaji mogu se sinkronizirati s vašim Mi Računom i povezati bez uparivanja na drugim uređajima.</string>
   <string name="fast_connect_same_accout_devices_connecting">Povezivanje putem Mi Clouda…</string>
   <string name="fast_connect_same_accout_devices_title">"Povezali ste %1$s na druge uređaje"</string>
+  <string name="fast_connect_same_accout_ok">Razumijem</string>
   <string name="fast_connect_sound_normalizer_content">"Bolji zvuk u glasovnim pozivima.
 Brži protokol veze."</string>
   <string name="fast_connect_wbs_name">Mi Wireless punjač za zvučnik</string>
@@ -387,6 +391,7 @@ Brži protokol veze."</string>
   <string name="headset_fw_file_position_failed">"Ne mogu pristupiti datoteci"</string>
   <string name="headset_fw_file_readfailed">Nije uspjelo</string>
   <string name="headset_loss_notify_summary">Čini se da barem jedna od vaših slušalica nije u kućištu za punjenje. Potražite okolo!</string>
+  <string name="headset_loss_notify_summary1">"Čini se da barem jedna od vaših slušalica nije u kućištu. Stavite je na punjenje."</string>
   <string name="headset_loss_notify_title">Upozorenje: nedostaje slušalica</string>
   <string name="headset_read_fw_state">Nije uspjelo</string>
   <string name="headset_update_failed">Nije uspjelo</string>
@@ -407,12 +412,35 @@ Brži protokol veze."</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Aplikacije u stanju mirovanja</string>
+  <string name="install_all_deferred">Instalirajte odgođeno</string>
+  <string name="install_all_features_now">Odmah instaliraj sve značajke</string>
   <string name="install_other_apps">Instalacija nepoznatih apl.</string>
   <string name="install_package">Instaliraj %1$s za više funkcija</string>
+  <string name="installer_downloaded">Preuzimanje dovršeno</string>
+  <string name="installer_downloading">Preuzimanje…</string>
+  <string name="installer_error_access_denied">Instalacija nije dopuštena u trenutnim okolnostima uređaja</string>
+  <string name="installer_error_incompatible_with_existing_session">Zahtjev već postoji!</string>
+  <string name="installer_error_internal_error">Interna pogreška</string>
+  <string name="installer_error_invalid_request">Zahtjev za instaliranje nije važeći</string>
+  <string name="installer_error_module_unavailable">Traženi modul nije dostupan</string>
+  <string name="installer_error_network_error">Provjerite status svoje telefonske mreže!</string>
+  <string name="installer_error_service_died">Usluga nije dostupna, pokušajte ponovo.</string>
+  <string name="installer_installed">Instaliranje dovršeno</string>
+  <string name="installer_installing">Instaliranje…</string>
+  <string name="installer_pending">U tijeku…</string>
+  <string name="instructions">Pritisnite tipku za izvođenje radnje.</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
+  <string name="keywords_adb_wireless">adb, otklanjanje pogrešaka, dev</string>
   <string name="launch_defaults_none">Nema zadanih postavki</string>
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
+  <string name="load_all_features_deferred">Učitaj sve značajke odgođeno</string>
+  <string name="load_assets">Prikaži sredstva</string>
+  <string name="load_feature_hello">Pokreni značajku Hello</string>
+  <string name="load_feature_java">Pokreni značajku Java</string>
+  <string name="load_feature_kotlin">Pokreni značajku Kotlin</string>
+  <string name="load_native_code">Pokreni značajku Native</string>
+  <string name="loading">Učitavanje</string>
   <string name="loading_injected_setting_summary">Samo trenutak…</string>
   <string name="local_backup_password_summary_change">Dodirnite da biste promijenili ili uklonili zaporku za Sig. kopije Poč. zaslona</string>
   <string name="local_backup_password_summary_none">Sig. kopije Poč. zaslona trenutačno nisu zaštićene</string>
@@ -463,6 +491,8 @@ Brži protokol veze."</string>
   <string name="mihome_ignore_title">Zanemariti ovaj uređaj?</string>
   <string name="mihome_update_tips">Trenutna verzija aplikacije Mi Home je prestara. Nakon ažuriranja držite telefon blizu uređaja.</string>
   <string name="mihome_update_title">Ažuriraj Mi Home aplikaciju</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -477,6 +507,7 @@ Brži protokol veze."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -578,6 +609,26 @@ Brži protokol veze."</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
   <string name="play_decode_audio">Reproduciraj zvuk</string>
+  <string name="plugin_alert_cancel">Kasnije</string>
+  <string name="plugin_alert_kill">Stop</string>
+  <string name="plugin_alert_text">Zaustavi postavke i ponovno pokrenite Bluetooth uslugu da biste primijenili promjene.</string>
+  <string name="plugin_alert_title">Ažuriranje dodatka</string>
+  <string name="plugin_download_create_client_failed">Izrada klijenta nije uspjela.</string>
+  <string name="plugin_download_get_object_failed">Dobivanje podataka sa poslužitelja nije uspjelo.</string>
+  <string name="plugin_download_network_timeout">Istek vremena.</string>
+  <string name="plugin_download_no_storage">Nema dovoljno prostora u pohrani.</string>
+  <string name="plugin_download_rejected">Zbog ograničenja ograničenog prometa.</string>
+  <string name="plugin_download_unexpected_files">Preuzmite neočekivane datoteke.</string>
+  <string name="plugin_download_unknown_error">Nepoznata pogreška.</string>
+  <string name="plugin_install_failed">Dio nadogradnje dodataka nije uspio.</string>
+  <string name="plugin_install_timeout">Čeka se istek instalacije.</string>
+  <string name="plugin_last_update_going">Zadnje ažuriranje je u toku.</string>
+  <string name="plugin_no_update">"To je već najnovija verzija."</string>
+  <string name="plugin_start_update">Početak ažuriranja dodatka...</string>
+  <string name="plugin_update_failed">Ažuriranje nije supjelo:</string>
+  <string name="plugin_update_notification_summary">Ažuriranje dodatka za Bluetooth dovršeno. Ponovo pokrenite postavke i bluetooth da biste primijenili promjene.</string>
+  <string name="plugin_update_notification_title">Ažuriranje dodatka za Bluetooth</string>
+  <string name="plugin_update_success">Ažuriranje dodatka za Bluetooth je uspjelo.</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="power_charging">%1$s - %2$s</string>
@@ -614,6 +665,7 @@ Brži protokol veze."</string>
   <string name="profile_info_settings_title">Profilni podaci</string>
   <string name="progress_scanning">Pretraživanje…</string>
   <string name="remaining_length_format">Još %1$s</string>
+  <string name="request_uninstall">Zahtjev deinstalacije modula</string>
   <string name="reset_function_msg">Poništavanje ove značajke može spriječiti %1$s da radi normalno.</string>
   <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
   <string name="retail_demo_reset_next">Dalje</string>
@@ -621,6 +673,10 @@ Brži protokol veze."</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
   <string name="runningservices_settings_summary">Pregledajte i kontrolirajte pokrenute usluge</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
+  <string name="sample_cancel">Odustani</string>
+  <string name="sample_confirm">Potvrdi</string>
+  <string name="sample_prompt_desc">Korištenje ove značajke potrošit će oko %s MB mob. podataka. Želite li nastaviti s preuzimanjem?</string>
+  <string name="sample_warm_prompt">Pažnja</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -645,6 +701,7 @@ Brži protokol veze."</string>
   <string name="select_webview_provider_dialog_title">Postavi implementaciju WebViewa</string>
   <string name="select_webview_provider_title">Implementacija WebViewa</string>
   <string name="select_webview_provider_toast_text">Taj izbor više nije važeći. Pokušajte ponovo.</string>
+  <string name="send">Pošalji</string>
   <string name="shared_data_delete_failure_text">Došlo je do pogreške prilikom brisanja dijeljenih podataka.</string>
   <string name="shared_data_no_accessors_dialog_text">Nisu potrebna iznajmljivanja za ove dijeljene podatke. Želite li ih izbirsati?</string>
   <string name="shared_data_no_blobs_text">Nema dijeljenih podataka za ovog korisnika.</string>
@@ -702,6 +759,7 @@ Brži protokol veze."</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_unit_just_now">Upravo sad</string>
+  <string name="title_aiapps">Naslov modula</string>
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka…</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
@@ -742,6 +800,7 @@ Brži protokol veze."</string>
   <string name="unbind_device_alert_content">Izgubljena je veza s %1$s. Da sačuvate bateriju, prekinite vezu s tim uređajem.</string>
   <string name="unbind_device_alert_ok">Prekini vezu</string>
   <string name="unbind_device_alert_title">Prekini vezu s uređajem</string>
+  <string name="uninstall_all_deferred">Deinstalacija odgođena</string>
   <string name="unknown">Nepoznato</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
@@ -836,6 +895,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_no_internet">"Ne mogu se povezati s internetom"</string>
   <string name="wifi_no_internet_no_reconnect">"Ne mogu se povezati automatski”</string>
   <string name="wifi_not_in_range">Nije u rasponu</string>
+  <string name="wifi_passpoint_expired">Isteklo</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_scan_throttling">Usporavanje traženja Wi-Fi-ja</string>
   <string name="wifi_scan_throttling_summary">Smanjuje pražnjenje baterije &amp; poboljšava performanse mreže</string>
@@ -873,5 +933,5 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="zen_mode_enable_dialog_turn_on">Uključi</string>
   <string name="zen_mode_forever">Dok ne isključite</string>
   <string name="zen_mode_settings_summary_off">Nikada</string>
-  <string name="zen_mode_settings_turn_on_dialog_title">Uključite opciju Ne uznemiravaj.</string>
+  <string name="zen_mode_settings_turn_on_dialog_title">Uključite opciju DND.</string>
 </resources>

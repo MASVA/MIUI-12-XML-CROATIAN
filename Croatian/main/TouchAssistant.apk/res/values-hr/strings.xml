@@ -38,6 +38,7 @@
   <string name="close_panel">Isključi Izbornik Prečaca</string>
   <string name="copy">Kopiraj</string>
   <string name="customize_entries">Odaberi prečace</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="edge_distance_pref_summary">Dodirnite područja buđenja u blizini rubova zaslona kako bi se brže pojavio Izbornik Prečaca</string>
   <string name="edge_distance_pref_title">Područja buđenja</string>
   <string name="edge_mode_custom_summary">Prilagodite veličinu područja za buđenje u blizini rubova zaslona</string>
@@ -56,6 +57,9 @@
   <string name="hide_when_fullscreen">Pomakni u stranu kod cijelog zaslona</string>
   <string name="hide_when_fullscreen_intro">Pomakni u stranu prilikom ulaska u cijeli zaslon.</string>
   <string name="mi_ai">Mi AI prečaci</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

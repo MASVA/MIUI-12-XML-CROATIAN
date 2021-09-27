@@ -163,6 +163,7 @@
   <string name="active_phone_success_toast">SIM kartica %1$s provjerena</string>
   <string name="activing_simcard">Provjera SIM %1$d</string>
   <string name="activing_simcard_alone">Provjera SIM-a…</string>
+  <string name="activity_title_fakecell">Zaštita od lažnih baznih stanica</string>
   <string name="adb_device_fingerprint_title_format">Otisak prsta na uređaju: %1$s</string>
   <string name="adb_device_forget">Zaboravi</string>
   <string name="adb_keys_warning_message">Želite li opozvati pristup otklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
@@ -918,6 +919,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="description_image_button_two">dva</string>
   <string name="description_image_button_zero">nula</string>
   <string name="description_voicemail_button">govorna pošta</string>
+  <string name="detect_fakecell">Prepoznajte SMS s lažnih baznih stanica</string>
   <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
   <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
   <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
@@ -1131,6 +1133,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="enterName">Unesite Ime:</string>
   <string name="enterNumber">Unesite Broj telefona:</string>
   <string name="enter_callbarring_password">Unesite zaporku zabrane poziva(%d znamenke)</string>
+  <string name="enter_esim_manager">Upravljanje eSIM</string>
   <string name="enter_input" formatted="false">USSD poruka mora imati ovoliko znakova: %d – %d. Pokušajte ponovo.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN za SIM:</string>
@@ -1149,6 +1152,10 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="error_type_network">Pogreška mreže</string>
   <string name="error_type_unknown">Nepoznata pogreška</string>
   <string name="error_updating_title">Pogreška postavki poziva</string>
+  <string name="esim_goto_active">Aktiviraj</string>
+  <string name="esim_inactive_message">Neaktivan eSIM</string>
+  <string name="esim_inactive_notification_message">SIM kartica nije otkrivena. Dodirnite za aktiviranje eSIM -a.</string>
+  <string name="esim_inactive_settings_title">Dvostruki SIM i; mobilne mreže</string>
   <string name="exception_error">Pogreška mreže ili SIM kartice.</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expected_avaiable_minute">Preostalo minuta</string>
@@ -1218,6 +1225,8 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="flash_when_ring_title">Bljeskalica i za pozive</string>
   <string name="fold_answer_pref_summary">Sklopite uređaj da automatski prihvatite dolazni poziv</string>
   <string name="fold_answer_pref_title">Sklopi za prihvaćanje poziva</string>
+  <string name="forbidden_fakecell">"Ne povezuj se s lažnim baznim stanicama"</string>
+  <string name="forbidden_fakecell_summary">Spriječite povezivanje telefona s lažnim baznim stanicama</string>
   <string name="forbidden_network">(Ograničeno)</string>
   <string name="force_allow_on_external">Prisilno dopusti aplikacije u vanjskoj pohrani</string>
   <string name="force_allow_on_external_summary">Aplikacije se mogu zapisivati u vanjsku pohranu neovisno o vrijednostima manifesta</string>
@@ -1388,6 +1397,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="keep_screen_on">Ne pokreći mirovanje</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="keep_wait_call_back">Nastavi s čekanjem</string>
+  <string name="keywords_adb_wireless">adb, otklanjanje pogrešaka, dev</string>
   <string name="keywords_carrier_settings_euicc">mobilni operater, esim, sim, euicc, promjena mobilnog operatera, dodavanje mobilnog operatera</string>
   <string name="kt_lte_emm_cause_19_22">Registriranje mreže… Pričekajte minutu ili dvije i pokušajte ponovo.</string>
   <string name="kt_lte_emm_cause_3">"Ne mogu potvrditi korisnika. Isključite uređaj, zatim ga ponovo uključite i pokušajte ponovo. Ako se i nakon toga još uvijek susrećete s tim problemom, posjetite korisnički servisni centar."</string>
@@ -1465,6 +1475,12 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="lgu_msim_emm_cause_7_14">"SIM %d mreža ne pruža mobilne podatkovne usluge"</string>
   <string name="lgu_msim_emm_cause_8">"SIM %d ne može registrirati mrežu. Posjetite korisnički servisni centar (+82-2-3416-7010)."</string>
   <string name="lgu_msim_emm_cause_others">"SIM %d se ne može povezati na mrežu. Posjetite korisnički servisni centar (+82-2-3416-7010)."</string>
+  <string name="limited_service_alert_dialog_description">&lt;b&gt;Pozivi u hitnim slu&amp;#269;ajevima putem Wi-Fi poziva&lt;/b&gt;"
+Pozivi hitnim slu&amp;#382;bama nisu mogu&amp;#263;i putem Wi-Fi poziva.
+
+Ure&amp;#273;aj se automatski prebacuje na mobilnu mre&amp;#382;u (2G/3G) radi upu&amp;#263;ivanja hitnog poziva.
+
+Pozivi hitnim slu&amp;#382;bama mogu&amp;#263;i su samo u podru&amp;#269;jima pokrivenim mobilnom mre&amp;#382;om."</string>
   <string name="limited_sim_function_notification_message">Pozivi i podatkovne usluge operatera %1$s mogu biti blokirane dok upotrebljavate drugi SIM.</string>
   <string name="limited_sim_function_notification_title">Ograničene funkcije SIM-a</string>
   <string name="limited_sim_function_with_phone_num_notification_message">Pozivi i podatkovne usluge operatera %1$s mogu biti blokirane dok upotrebljavate broj %2$s.</string>
@@ -1587,9 +1603,11 @@ to start using Top-up package"</string>
 Broj u slučaju nedostupnosti"</string>
   <string name="messageCFNRy">Broj ako nema odgovora</string>
   <string name="messageCFU">Uvijek koristi ovaj broj</string>
+  <string name="messageCFU_kr">Mrežna usluga koja preusmjerava sve dolazne pozive i tekstualne poruke na određeni broj. Morate se pretplatiti na ovu uslugu. Bit će vam naplaćena mjesečna naknada. Kontaktirajte korisnički centar (114+ [Pošalji]) da biste se pretplatili ili odjavili s ove usluge. Unesite %1$s+[broj za prosljeđivanje poziva na] [Pošalji] da biste omogućili ili %2$s [Pošalji] da biste onemogućili.</string>
   <string name="messageCFU_kr_kt">"Mrežna usluga koja preusmjerava sve dolazne pozive i SMS-ove na određeni broj. Morate se pretplatiti na ovu uslugu. Naplatit će vam se mjesečna naknada. Obratite se korisničkom centru (114+[Pošalji]) da biste se pretplatili ili odjavili pretplatu na ovu uslugu. Unesite *71+[broj za prosljeđivanje poziva][Pošalji] da biste omogućili, ili *710[Pošalji] da biste onemogućili.
 
 Uvijek koristi ovaj broj"</string>
+  <string name="messageCW_kr">Besplatna mrežna usluga koja vam omogućuje da odgovorite na drugi poziv tijekom poziva, stavljajući prvi poziv na čekanje. Unesite %1$s [Pošalji] da biste omogućili ili %2$s [Pošalji] da biste onemogućili.</string>
   <string name="messageCW_kr_kt">Besplatna mrežna usluga koja omogućuje odgovor na drugi poziv tijekom poziva i stavljanje prvog poziva na čekanje. Enter *40+[Pošalji] da biste omogućili, ili *400+[Pošalji] da biste onemogućili.</string>
   <string name="messageCallBarring">Unesite zaporku</string>
   <string name="message_decode_error">Došlo je do pogreške prilikom dekodiranja poruke.</string>
@@ -1896,6 +1914,7 @@ Kontaktirajte vašeg operatera."</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_sufficient_funds_content">Stanje vašeg računa je prenisko. Umjesto toga, pokušajte koristiti redovitu SIM za upućivanje tog poziva. Slijede vam regualarni troškovi vašeg operatera.</string>
   <string name="not_sufficient_funds_content_title">Nedovoljno sredstava</string>
+  <string name="not_support_forbidden_fakecell">"Vaš uređaj ne podržava zaštitu od lažnih baznih stanica na razini čipa."</string>
   <string name="not_support_message">"Paket nadopuna trenutno ne podržava takve brojeve. Možete umjesto toga pokušati uputiti redoviti poziv."</string>
   <string name="not_support_title">"Broj nije podržan"</string>
   <string name="not_supported_number_content">"Paket nadoplate ne podržava brojeve usluga. Umjesto toga, pokušajte koristiti redovitu SIM za upućivanje tog poziva. Vaš opertaer će vam naplatiti ovaj poziv."</string>
@@ -1935,6 +1954,7 @@ Kontaktirajte vašeg operatera."</string>
   <string name="nw_subset_unlock_failed">Otključavanje podskupa SIM-a Mreže nije uspjelo.</string>
   <string name="nw_subset_unlock_success">Otključavanje podskupa SIM-a Mreže bilo je uspješno.</string>
   <string name="oem_preferred_feedback_reporter"/>
+  <string name="oem_radio_info_label">OEM-specifični podaci/Postavke</string>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
   <string name="ok">U redu</string>
@@ -2025,6 +2045,40 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
   <string name="pane_title_emergency_dialpad">površina za biranje brojeva hitne službe</string>
   <string name="password_changed">Zaporka promjenjena</string>
   <string name="password_title">Zaporka</string>
+  <string name="path_answer_state_setting_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva</string>
+  <string name="path_antispam_setting">Aplikacije sustava/Telefon/Lista blokiranih</string>
+  <string name="path_app_name">Aplikacije sustava/Telefon</string>
+  <string name="path_auto_answer_pref_title">Aplikacije sustava/Telefon/Autom. odgovori</string>
+  <string name="path_auto_retry_mode_title">Aplikacije sustava/Telefon/Napredne postavke/Autom. pokušaj ponovno</string>
+  <string name="path_call_advanced_settings_title">Aplikacije sustava/Telefon/Napredne postavke</string>
+  <string name="path_call_forwarding_settings">Aplikacije sustava/Telefon/Postavke preusmjeravanja poziva</string>
+  <string name="path_call_record_auto_title">Aplikacije sustava/Telefon/Snimanje poziva/Snimi pozive automatski</string>
+  <string name="path_call_record_setting">Aplikacije sustava/Telefon/Snimanje poziva</string>
+  <string name="path_call_recording_notification_toggle_title">Aplikacije sustava/Telefon/Snimanje poziva/Obavijest snimanja poziva</string>
+  <string name="path_call_waiting_title">Aplikacije sustava/Telefon/Poziv na čekanju</string>
+  <string name="path_call_waiting_tone_title">Aplikacije sustava/Telefon/Napredne postavke/Obavijest poziva na čekanju</string>
+  <string name="path_caller_id_title">Aplikacije sustava/Telefon/Napredne postavke/ID pozivatelja</string>
+  <string name="path_cloud_antispam_title">Aplikacije sustava/Telefon/Identificirajte nepoznate brojeve</string>
+  <string name="path_connect_disconnect_vibrate_title">Aplikacije sustava/Telefon/Napredne postavke/Vibriraj kad odgovorite na poziv</string>
+  <string name="path_crescendo_ringer_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva/Povećanje glasnoće melodije zvona</string>
+  <string name="path_dtmf_tones_title">Aplikacije sustava/Telefon/Napredne postavke/DTMF tonovi</string>
+  <string name="path_enable_antispam_strange_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva/Isključivanje prvog zvona</string>
+  <string name="path_enable_proximity_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva/Proximity senzor</string>
+  <string name="path_fdn">Aplikacije sustava/Telefon/Napredne postavke/Brojevi za fiksno biranje</string>
+  <string name="path_flash_when_ring_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva/Bljeskalica pri zvonjenju</string>
+  <string name="path_handon_ringer_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva/Utišaj zvono pri podizanju</string>
+  <string name="path_missed_call_notify_times_title">Aplikacije sustava/Telefon/Napredne postavke/Podsjetnik na propušteni pozivs</string>
+  <string name="path_preference_dial_pad_touch_tone_title">Aplikacije sustava/Telefon/Napredne postavke/Tonovi dodirne tipkovnice</string>
+  <string name="path_preference_telocation_title">Aplikacije sustava/Telefon/Lokacija</string>
+  <string name="path_reject_via_sms">Aplikacije sustava/Telefon/Napredne postavke/Brzi odgovori</string>
+  <string name="path_sip_settings">Aplikacije sustava/Telefon/Napredne postavke/SIP postavke</string>
+  <string name="path_t9_indexing_method_title">Aplikacije sustava/Telefon/Napredne postavke/T9 unos za pretraživanje</string>
+  <string name="path_telocation_auto_country_code">Aplikacije sustava/Telefon/Lokacija/Dodajte pozivni broj zemlje</string>
+  <string name="path_telocation_contacts_countrycode">Aplikacije sustava/Telefon/Lokacija/Zadani kôd zemlje</string>
+  <string name="path_telocation_custom_location_title">Aplikacije sustava/Telefon/Lokacija/Moje lokacije</string>
+  <string name="path_telocation_enable_title">Aplikacije sustava/Telefon/Lokacija/Prikaži lokaciju</string>
+  <string name="path_turnover_mute_title">Aplikacije sustava/Telefon/Postavke dolaznog poziva/Okrenite da biste utišali zvono</string>
+  <string name="path_voicemail_settings">Aplikacije sustava/Telefon/Napredne postavke/Postavke glasovne pošte</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_str">"Slanje tonova
 "</string>
@@ -2431,6 +2485,9 @@ UT sučelje: %5$s"</string>
   <string name="respond_via_sms_setting_summary">Uređivanje unaprijed napisanih brzih odgovora</string>
   <string name="respond_via_sms_setting_title">Brzi odgovori</string>
   <string name="response_error">Neočekivan mrežni odgovor.</string>
+  <string name="restart_details">Uključivanje ili isključivanje ove značajke zahtijeva ponovno pokretanje uređaja. Ponovno pokrenuti sad?</string>
+  <string name="restart_later">Kasnije</string>
+  <string name="restart_now">Ponovno pokreni</string>
   <string name="restaurants_disable">Restorani onemogućeni</string>
   <string name="restaurants_enable">Restorani omogućeni</string>
   <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
@@ -3194,6 +3251,8 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wild_prompt_str">Zamijeni zamjenski znak s</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>
   <string name="wrong_password">Zaporka koju ste unijeli nije točna</string>
+  <string name="xcap_setting_summary">Zabrana poziva, govorna pošta, prosljeđivanje poziva i Poziv na čekanju</string>
+  <string name="xcap_setting_title">Postavke usluge poziva</string>
   <string name="xdivert_button">X-Divert postavke</string>
   <string name="xdivert_setting">X-Divert postavke</string>
   <string name="xdivert_summary">CFNRc postavke</string>
