@@ -60,6 +60,18 @@
          <item quantity="other">Isključeno stavki: %d</item>
          <item quantity="one">Isključena %d stavka</item>
     </plurals>
+	<plurals name="error_retry_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sek.</item>
+    </plurals>
 	<plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Pokušajte ponovno za %d sek.</item>
         <item quantity="one">Pokušajte ponovno za %d sekundu</item>

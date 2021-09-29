@@ -1342,6 +1342,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_turn_off_airplane_mode">Isključite Zrakoplovni način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se s bežičnom mrežom da biste uputili poziv.</string>
   <string name="incall_number_anonymous">Nepoznati broj</string>
+  <string name="incall_number_anonymous_kd">ID Neposlano</string>
+  <string name="incall_number_unavailable_kd">Nije podržano</string>
   <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
   <string name="incoming_video_show_pref_summary">Prikaži video profil koji je postavio pozivatelj. Za korištenje ove značajke, uključite posjetnicu kontakata.</string>
   <string name="incoming_video_show_pref_title">"Prikaži Video profil pozivatelja"</string>

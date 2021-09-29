@@ -106,6 +106,7 @@
   <string name="city_exceeded_warning">Možete dodati do 10 gradova</string>
   <string name="close">Zatvori</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="commercial">Komercijalno</string>
   <string name="common_google_play_services_enable_button">Omogući</string>
   <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
@@ -149,6 +150,7 @@
   <string name="daily_forecast_no_data">"Ne mogu dobiti informacije o vremenu
 Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
   <string name="data_provided_by">Podaci dobiveni od</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="dislike_alert_dialog_title">Zašto ne želite vidjeti ovaj sadržaj?</string>
   <string name="edit_alert_city_title">Upravljaj upozorenjima</string>
   <string name="edit_city">Upravljanje gradovima</string>
@@ -455,6 +457,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="save_to_gallery_icon_name">Spremljeno u Galeriju</string>
   <string name="save_to_gallery_success_message">Uspješno spremljeno u Galeriju</string>
   <string name="search_menu_title">Traži</string>
+  <string name="send">Pošalji</string>
   <string name="search_weather">Vrijeme</string>
   <string name="set">Postavke</string>
   <string name="settings">Postavke</string>

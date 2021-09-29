@@ -216,6 +216,11 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
+  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+  <string name="mtrl_picker_cancel">Odustani</string>
+  <string name="mtrl_picker_confirm">Spremi</string>
+  <string name="mtrl_picker_header_prompt">Odaberite datum</string> 
+  <string name="mtrl_picker_range_header_prompt">Odaberite datumski raspon</string>
   <string name="movie">Film</string>
   <string name="new_group_name">Način korisnika</string>
   <string name="new_power_checker_title">PowerChecker(novo)</string>
@@ -228,6 +233,7 @@
   <string name="notification_exit_extreme_mode_text">Baterija je napunjena više od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremni način je isključen</string>
   <string name="notification_open_extreme_mode_text">Ekstremni način je uključen</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="notify_abnormal">Napomena abnormalne energije</string>
   <string name="notify_abnormal_title">Obavijest</string>
   <string name="notify_app_consume_abnormal_title">troši jako bateriju</string>
@@ -389,6 +395,8 @@
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_history">Povijest</string>
+  <string name="title_home">Početna</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>

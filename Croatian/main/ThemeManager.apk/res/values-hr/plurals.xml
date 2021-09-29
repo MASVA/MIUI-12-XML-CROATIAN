@@ -184,4 +184,24 @@
         <item quantity="other">Ažuriranje %1$d ikona…</item>
         <item quantity="one">Ažuriranje %1$d ikone…</item>
     </plurals>
+	<plurals name="detail_reward_few_times">
+        <item quantity="other">%s nagrada</item>
+        <item quantity="one">%s nagrada</item>
+     </plurals>
+     <plurals name="detail_reward_times">
+        <item quantity="other">%s nagrada</item>
+        <item quantity="one">%s nagrada</item>
+     </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Brzo naprijed %d sek.</item>
+        <item quantity="one">Brzo naprijed %d sek.</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Unatrag %d sek.</item>
+        <item quantity="one">Unatrag  %d sek.</item>
+     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+     </plurals>
 </resources>

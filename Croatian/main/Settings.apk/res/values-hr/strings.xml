@@ -1745,9 +1745,9 @@ Niste se prije povezivali s %2$s."</string>
   <string name="bluetooth_phonebook_request">Zahtjev za pristup telefonskom imeniku</string>
   <string name="bluetooth_pin_values_hint">Obično 0000 ili 1234</string>
   <string name="bluetooth_pin_values_hint_16_digits">Mora imati 16 znamenki</string>
-  <string name="bluetooth_plugins_check_summary">Provjerite ažuriranja Bluetooth dodataka</string>
-  <string name="bluetooth_plugins_check_summary_new">Pronađena je nova verzija Bluetooth dodatka</string>
-  <string name="bluetooth_plugins_check_title">Provjerite Bluetooth dodatke</string>
+  <string name="bluetooth_plugins_check_summary">Povežite se s mrežom kako biste provjerili ima li ažuriranja</string>
+  <string name="bluetooth_plugins_check_summary_new">Dostupno je ažuriranje</string>
+  <string name="bluetooth_plugins_check_title">Ažurirajte Bluetooth dodatak</string>
   <string name="bluetooth_pref_summary">Dopustite telefonu da komunicira s Bluetooth uređajima u blizini</string>
   <string name="bluetooth_preference_connected_devices">Povezani uređaji</string>
   <string name="bluetooth_preference_device_settings">Postavke uređaja</string>
@@ -4445,6 +4445,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="hand_mode_notification_title">Koristite kontrole ruba</string>
   <string name="handy_mode">Rad jednom rukom</string>
   <string name="handy_mode_enable">Rad jednom rukom</string>
+  <string name="handy_mode_no_touch_assistant">"Način rada s jednom rukom funkcionirat će samo ako koristite tipke za navigaciju po sustavu. Možete se prebacivati između gesti i tipki u odjeljku \"Navigacija sustavom\" u Postavkama."</string>
   <string name="handy_mode_enter_ask">Pitaj prije ulaska u način Rada jednom rukom</string>
   <string name="handy_mode_size">Veličina zaslona</string>
   <string name="handy_mode_tips">Prijeđite prstom lijevo ili desno od tipke Početna da pomaknete zaslon bliže jednoj strani.</string>
@@ -4533,7 +4534,8 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="headset_remove_message">Želite li ukloniti ovaj uređaj sa svog računa?</string>
   <string name="headset_remove_message_indicate">Uklonit će se svi uređaji povezani s Mi Računom</string>
   <string name="headset_settings_title">Efekti zvuka</string>
-  <string name="headset_toast_tip_disconnect_others">Ove se slušalice ne mogu postaviti sada, možda su povezane s drugim uređajem</string>
+  <string name="headset_spatial_audio">Prostorni zvuk</string>
+  <string name="headset_toast_tip_disconnect_others">Čini se da su vaše slušalice sada spojene na drugi uređaj</string>
   <string name="headset_unsaved_device">Ukloni uređaj</string>
   <string name="headset_unsaved_devices">Ne spremaj, povežite se na svoj račun na drugom telefonu</string>
   <string name="hearing_aids_category">Slušni pomoćni alati</string>
@@ -4655,6 +4657,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="imei_information_summary">Relativne informacije IMEI-ja</string>
   <string name="imei_information_title">Informacije IMEI-ja</string>
   <string name="imei_multi_sim">IMEI (utor za SIM %1$d)</string>
+  <string name="imei_multi_sim_softbank">IMEI %1$d</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
   <string name="import_again">Uvezi ponovno</string>
@@ -4754,6 +4757,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="input_pattern_hint_text">Iscrtajte obrazac otključavanja</string>
   <string name="input_settings">Postavke unosa</string>
   <string name="input_text">Traka za unos teksta</string>
+  <string name="insert_sim_card_and_try_again">Umetnite SIM karticu i pokušajte ponovo.</string>
   <string name="install_all_warning">Vaš uređaj i osobni podaci izloženiji su napadima aplikacija iz nepoznatih izvora. Prihvaćate isključivu odgovornost za svu štetu nastalu na uređaju ili gubitak podataka uzrokovan upotrebom tih aplikacija.</string>
   <string name="install_applications">Nepoznati izvori</string>
   <string name="install_applications_title">Dopusti sve izvore aplikacija</string>
@@ -4861,6 +4865,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="keyboard_and_input_methods_category">Tipkovnice</string>
   <string name="keyboard_assistance_category">Pomoć za tipkovnicu</string>
   <string name="keyboard_disconnected">Nije povezana</string>
+  <string name="keyboard_funtion_key">Funkcijska tipka</string>
   <string name="keyboard_layout_default_label">Zadano</string>
   <string name="keyboard_layout_dialog_setup_button">Postavljanje izgleda tipkovnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Za prijelaz pritisnite Ctrl i razmaknicu.</string>
@@ -9595,8 +9600,9 @@ Možda je PIN pogrešan."</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">SIM je prazan</string>
   <string name="sim_status_summary">Informacije povezane sa SIM-om</string>
-  <string name="sim_status_title">Status SIM-a</string>
-  <string name="sim_status_title_sim_slot">Status SIM-a (utor za SIM %1$d)</string>
+  <string name="sim_status_title">SIM status</string>
+  <string name="sim_status_title_sim_slot">SIM status (utor za SIM %1$d)</string>
+  <string name="sim_status_title_sim_softbank">SIM status %1$d</string>
   <string name="sim_switch_button">Prebaci</string>
   <string name="sim_switch_channel_id">Promjena mobilnog operatera</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
@@ -9913,9 +9919,10 @@ Za više informacija obratite se svom administratoru."</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
   <string name="status_network_type">Vrsta mobilne mreže</string>
-  <string name="status_number">Telefonski broj</string>
-  <string name="status_number_sim_slot">Tel. broj (utor za SIM %1$d)</string>
-  <string name="status_number_sim_status">Telefonski broj na SIM-u</string>
+  <string name="status_number">Broj telefona</string>
+  <string name="status_number_sim_slot">Broj telefona (utor za SIM %1$d)</string>
+  <string name="status_number_sim_softbank">Broj telefona %1$d</string>
+  <string name="status_number_sim_status">Broj telefona na SIM-u</string>
   <string name="status_operator">Mreža</string>
   <string name="status_prl_version">PRL verzija</string>
   <string name="status_roaming">Roaming</string>
@@ -10205,6 +10212,11 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="style_and_wallpaper_settings_title">Pozadina i stil</string>
   <string name="style_suggestion_summary">Isprobajte različite stilove, pozadine, satove i drugo</string>
   <string name="style_suggestion_title">Prilagodba telefona</string>
+  <string name="stylus_connect_fail">"Povezivanje nije uspjelo. Ponovno pričvrstite."</string>
+  <string name="stylus_connect_fail_no_battery">Napunite olovku sada</string>
+  <string name="stylus_connect_fail_no_reason">"Povezivanje nije uspjelo"</string>
+  <string name="stylus_connect_fail_not_open_gps">"Povezivanje nije uspjelo. Uključite usluge lokacije i pokušajte ponovo."</string>
+  <string name="stylus_connecting">Povezivanje…</string>
   <string name="stylus_ota_check_failed_battery">"Ne mogu provjeriti. Baterija olovke je pri kraju."</string>
   <string name="stylus_ota_check_failed_info">"Ne mogu provjeriti firmware verziju. Ponovno pričvrstite olovku."</string>
   <string name="stylus_ota_check_update">Provjerite ima li ažuriranja</string>
@@ -11072,6 +11084,7 @@ Sa ovog profila bit će uklonjeni i vaši spremljeni otisci prstiju i nećete mo
   <string name="unrestricted_app_title">Neograničena potroš. podataka</string>
   <string name="unrestricted_data_saver">Neograničena potrošnja</string>
   <string name="unsupported_setting_summary">Postavka nije podržana na telefonu</string>
+  <string name="unsupported_usim_card">Nepodržana USIM kartica.</string>
   <string name="untitled_apn">Bez naslova</string>
   <string name="unused_apps">Nekorištene aplikacije</string>
   <string name="unused_apps_switch">Ukloni dopuštenja i oslobodi prostor</string>

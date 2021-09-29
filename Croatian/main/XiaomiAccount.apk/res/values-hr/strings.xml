@@ -309,6 +309,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="kr_permission_sms_desc">Koristi se za automatsko popunjavanje kontrolnog koda</string>
   <string name="kr_permission_storage_desc">Koristi se za informacije o dijagnostici trgovine</string>
   <string name="loading_micloud_sync_data">Samo trenutak…</string>
+  <string name="login_3rd_app_with_system_account">Prijavite se u %s</string>
   <string name="local_device">(ovaj uređaj)</string>
   <string name="locating_current_location">Lociranje</string>
   <string name="location_service_not_working">Usluga lociranja ne radi</string>
@@ -316,6 +317,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="login_check_find_device_failed_title">"Ne mogu provjeriti informacije o sigurnosti uređaja"</string>
   <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
   <string name="login_guard_prompt">Potrebna je provjera broja telefona kad se prijavite na svoj Mi Račun sa nepoznatog uređaja ili u nepoznatu aplikaciju po prvi puta.</string>
+  <string name="login_with_other">Više opcija</string>
   <string name="logout_account">Odjava</string>
   <string name="logout_failed">"Ne mogu se odjaviti"</string>
   <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
@@ -862,8 +864,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="used_cloud_storage_info">Iskorišteno %s</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
-  <string name="user_instruction_all_purpose">Dobro došli na Mi Račun! Možete stvoriti račun, prijaviti se i pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi. com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>
+  <string name="user_instruction_all_purpose">Dobro došli na Mi Račun! Pomoću svog računa možete pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi.com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>
   <string name="user_instruction_tip">Da biste se mogli prijaviti, pročitajte i prihvatite odredbe i uvjete.</string>
+  <string name="user_license_with_3rd_app"><Data>"Prijavljivanjem sa svojim Mi Računom potvrđujem da sam pročitao i složio se s tim &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnostii&lt;/a> i Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> and &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="user_license_without_3rd_app"><Data>"Pročitao sam i složio se s Mi Računom &lt;a href=%1$s>Korisnički ugovor&lt;/a> I &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verified_apps">Provjerene aplikacije</string>
