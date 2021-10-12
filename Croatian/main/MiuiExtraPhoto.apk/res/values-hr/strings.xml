@@ -32,6 +32,7 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
+  <string name="doc_photo_adjust_section_talkback">Obreži i uredi</string>
   <string name="doc_photo_adjust_section_title">Povuci za prilagoditi</string>
   <string name="doc_photo_cancel">Odustani</string>
   <string name="doc_photo_confirm">Izlaz</string>
