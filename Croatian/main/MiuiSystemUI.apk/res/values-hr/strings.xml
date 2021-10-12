@@ -2589,6 +2589,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="screenshot_failed_to_save_text">Zaslon nije snimljen zbog ograničenog prostora za pohranu.</string>
   <string name="screenshot_failed_to_save_title">Nema dovoljno mjesta za pohranu novih snimki zaslona</string>
   <string name="screenshot_failed_to_save_unknown_text">Prilikom spremanja snimke zaslona pojavio se problem.</string>
+  <string name="screenshot_failed_to_save_user_locked_text">Uređaj mora biti otključan prije spremanja snimke zaslona</string>
   <string name="screenshot_feedback_txt">Povratna inf.</string>
   <string name="screenshot_insert_failed">Ne mogu učitati snimku zaslona. Napravite novu ili pregledajte sliku u Galeriji.</string>
   <string name="screenshot_left_boundary_pct">Lijevi rub %1$d posto</string>

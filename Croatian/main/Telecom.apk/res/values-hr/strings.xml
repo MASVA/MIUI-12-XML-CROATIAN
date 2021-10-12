@@ -21,10 +21,10 @@
   <string name="abc_search_hint">Pretražite…</string>
   <string name="abc_searchview_description_clear">Izbriši upit</string>
   <string name="abc_searchview_description_query">Upit za pretraživanje</string>
-  <string name="abc_searchview_description_search">Pretraži</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
   <string name="abc_searchview_description_submit">Pošalji upit</string>
   <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
-  <string name="abc_shareactionprovider_share_with">Dijeli s</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="accessibility_banner_message_dismiss">Odbaci</string>
@@ -63,7 +63,7 @@
   <string name="active_input_method_subtypes">Aktivni načini unosa</string>
   <string name="adb_device_fingerprint_title_format">Otisak prsta na uređaju: %1$s</string>
   <string name="adb_device_forget">Zaboravi</string>
-  <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
+  <string name="adb_keys_warning_message">Želite li opozvati pristup otklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
   <string name="adb_pair_method_code_summary">Uparivanje novih uređaja pomoću šesteroznamenkastog koda</string>
   <string name="adb_pair_method_code_title">Uparivanje uređaja pomoću koda za uparivanje</string>
   <string name="adb_pair_method_qrcode_summary">Uparivanje novih uređaja pomoću čitača QR koda</string>
@@ -122,7 +122,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="auto_connect_disable">Automatsko povezivanje je isključeno</string>
   <string name="available_via_app">Dostupno putem mreže %1$s</string>
-  <string name="available_via_carrier">Dostupno putem mreže %1$s</string>
+  <string name="available_via_carrier">Dostupno putem %1$s</string>
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="battery_info_status_charging">Punjenje</string>
   <string name="battery_info_status_charging_ac">Punjenje punjačem</string>
@@ -136,8 +136,9 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="battery_info_status_charging_wireless_short">Punjenje</string>
   <string name="battery_info_status_discharging">Ne puni se</string>
   <string name="battery_info_status_full">Napunjeno</string>
-  <string name="battery_info_status_not_charging">Povezano, ne puni se</string>
+  <string name="battery_info_status_not_charging">Uključen, trenutačno se ne može puniti</string>
   <string name="battery_info_status_unknown">Nepoznato</string>
+  <string name="bf_news_settings">Poslovne i financijske vijesti</string>
   <string name="blob_expires_text">Istječe %s</string>
   <string name="blob_id_text">ID dijeljenih podataka: %d</string>
   <string name="block_button">Blokiraj</string>
@@ -176,8 +177,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="bluetooth_dun_profile_summary_use_for">Koristi za dial-up pristup mreži</string>
   <string name="bluetooth_enable_gabeldorsche">Omogući  Gabeldorsche</string>
   <string name="bluetooth_enable_gabeldorsche_summary">Omogućuje nizove značajke Bluetooth Gabeldorsche.</string>
-  <string name="bluetooth_enable_inband_ringing">Omogući zvuk zvona unutar pojasne širine</string>
-  <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
+  <string name="bluetooth_enable_inband_ringing">Uključi zvuk zvona unutar pojasne širine</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Uključi reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano sa telefonskim zvukom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Koristi za zvuk telefona</string>
   <string name="bluetooth_hearing_aid_profile_summary_connected">Povezano sa Slušnim aparatima</string>
@@ -260,7 +261,10 @@ Audio"</string>
   <string name="cached_apps_freezer_disabled">Onemogućeno</string>
   <string name="cached_apps_freezer_enabled">Omogućeno</string>
   <string name="cached_apps_freezer_reboot_dialog_text">Da bi se ova promjena primijenila, vaš se uređaj mora ponovno pokrenuti. Ponovo pokrenite odmah ili otkažite.</string>
+  <string name="callFailed_concurrent_calls_not_possible">Poziv je završio zbog istovremenih poziva koji nisu mogući.</string>
   <string name="callFailed_simError">Pogreška SIM kartice</string>
+  <string name="call_quality_notification_bluetooth_details">Bluetooth signal vam je slab. Pokušajte se prebaciti na spikerfon.</string>
+  <string name="call_quality_notification_name">Obavijest o kvaliteti poziva</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne mogu uputiti videopoziv dok je glasovni poziv u tijeku"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne mogu birati dok je videopoziv u tijeku"</string>
   <string name="cancel">Odustani</string>
@@ -271,6 +275,7 @@ Audio"</string>
   <string name="carrier_network_change_mode">Promjena mreže mobilnog operatera</string>
   <string name="category_personal">Osobno</string>
   <string name="category_work">Posao</string>
+  <string name="cbrs_data_switch_string">Cbrs Podaci</string>
   <string name="cell_data_off_content_description">Mobilni su podaci isključeni</string>
   <string name="change_default_call_screening_dialog_affirmative">Postavi kao zadano</string>
   <string name="change_default_call_screening_dialog_negative">Otkaži</string>
@@ -349,7 +354,7 @@ Audio"</string>
   <string name="debug_layout_summary">Prikazuju se obrubi, margine itd. isječaka.</string>
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Umrežavanje</string>
-  <string name="debug_view_attributes">Omogući pregled atributa prikaza</string>
+  <string name="debug_view_attributes">Uključi pregled atributa prikaza</string>
   <string name="decline_incoming_call">Odbij</string>
   <string name="delete_blob_confirmation_text">Jeste li sigurni da želite izbrisati te dijeljene podatke?</string>
   <string name="delete_blob_text">Izbriši dijeljene podatke</string>
@@ -360,31 +365,32 @@ Audio"</string>
   <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
   <string name="developer_enhanced_call_blocking">Poboljšano blokiranje poziva</string>
   <string name="developer_title">Izbornik Telecom Developer</string>
-  <string name="development_settings_enable">Omogući opcije za razvojne programere</string>
+  <string name="development_settings_enable">Uključi opcije za razvojne programere</string>
   <string name="development_settings_not_available">Opcije razvojnih programera nisu dostupne za ovog korisnika</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
   <string name="dial_conference_fail_prompt">"Ne mogu birati konferenciju izravno, jer trenutna mreža ne podržava VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Trenutna mreža ne podržava VoLTE. Prebaciti se na redovan glasovni poziv?"</string>
   <string name="direct_boot_unaware_dialog_message">Napomena: ova se aplikacija ne može pokrenuti nakon ponovnog pokretanja dok ne otključate telefon</string>
+  <string name="disable_cdma_cw">Odustani</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
   <string name="disabled">Onemogućeno</string>
-  <string name="disabled_by_admin">Onemogućio administrator</string>
+  <string name="disabled_by_admin">Onemogućeno od strane administratora</string>
   <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
   <string name="do_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="duplicate_video_call_not_allowed">Ne mogu dodati više poziva.</string>
   <string name="enable_account_preference_title">Računi za pozivanje</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
-  <string name="enable_adb_summary">Otklanjanje pogrešaka putem USB-a</string>
+  <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
   <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>
   <string name="enable_adb_wireless_summary">Način otklanjanja pogrešaka kad je Wi-Fi povezan</string>
-  <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
-  <string name="enable_freeform_support_summary">Omogući podršku za eksperimentalne prozore slobodnog oblika.</string>
+  <string name="enable_freeform_support">Uključi prozore slobodnog oblika</string>
+  <string name="enable_freeform_support_summary">Uključi podršku za eksperimentalne prozore slobodnog oblika.</string>
   <string name="enable_gpu_debug_layers">Omogući slojeve za otklanjanje pogrešaka GPU-a</string>
   <string name="enable_gpu_debug_layers_summary">Omogući učitavanje slojeva za otklanjanje pogrešaka GPU-a za aplikacije za otklanjanje pogrešaka</string>
-  <string name="enable_opengl_traces_title">Omogući OpenGL praćenja</string>
-  <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
+  <string name="enable_opengl_traces_title">Uključi OpenGL praćenja</string>
+  <string name="enable_terminal_summary">Uključi aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
   <string name="enable_verbose_vendor_logging">Omogući opširni zapisnik</string>
   <string name="enable_verbose_vendor_logging_summary">Uključite dodatne zapisnike dobavljača pojedinog uređaja u izvješća o programskoj pogrešci koja mogu sadržavati privatne podatke, trošiti više baterije i/ili zauzeti više prostora za pohranu.</string>
@@ -404,9 +410,9 @@ Audio"</string>
   <string name="force_hw_ui">Nametni GPU renderiranje</string>
   <string name="force_hw_ui_summary">Nametni upotrebu GPU-a za 2D crteže</string>
   <string name="force_msaa">Nametni 4x MSAA</string>
-  <string name="force_msaa_summary">Omogući 4x MSAA u aplikacijama OpenGL ES 2.0</string>
+  <string name="force_msaa_summary">Uključi 4x MSAA u aplikacijama OpenGL ES 2.0</string>
   <string name="force_resizable_activities">Nametni mogućnost promjene veličine za aktivnosti</string>
-  <string name="force_resizable_activities_summary">Omogući mijenjanje veličine svih aktivnosti za više prozora, neovisno o vrijednostima manifesta.</string>
+  <string name="force_resizable_activities_summary">Uključi mijenjanje veličine svih aktivnosti za više prozora, neovisno o vrijednostima manifesta.</string>
   <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
   <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
   <string name="guest_exit_guest">Uklanjanje gosta</string>
@@ -433,9 +439,14 @@ Audio"</string>
   <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
-  <string name="inactive_apps_title">Aplikacije u stanju mirovanja</string>
-  <string name="incall_error_call_failed">"Nije moguće upućivanje poziva."</string>
+  <string name="inactive_apps_title">Neaktivne aplikacije</string>
+  <string name="incall_error_call_failed">"Ne mogu uputiti poziv."</string>
   <string name="incall_error_power_off">Za uspostavu poziva, prvo isključite Zrakoplovni način.</string>
+  <string name="incall_error_power_off_thermal">&lt;b&gt;Telefon je prevruć&lt;/b&gt;"
+
+Nije moguće dovršiti ovaj poziv. Pokušajte ponovo kad se telefon ohladi.
+
+I dalje možete upućivati hitne pozive."</string>
   <string name="incall_error_supp_service_unknown">"Ova usluga nije podržana."</string>
   <string name="incoming_call_failed_low_battery">Dolazni poziv nije uspio zbog slabe baterije.</string>
   <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
@@ -444,6 +455,8 @@ Audio"</string>
   <string name="keep_screen_on_summary">Zaslon nikad neće prijeći u mirovanje tijekom punjenja</string>
   <string name="keywords_adb_wireless">adb, otklanjanje pogrešaka, razvoj</string>
   <string name="keywords_alarms_and_reminders">raspored, alarm, podsjetnik, sat</string>
+  <string name="label_ndp_nck">Otključavanje SIM kartice NCK</string>
+  <string name="label_phoneid">SIM kartica zaključana za operatera</string>
   <string name="launch_defaults_none">Nema zadanih postavki</string>
   <string name="launch_defaults_some">Postavljene su neke zadane postavke</string>
   <string name="lch_dtmf_key">D</string>
@@ -499,7 +512,7 @@ Audio"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
   <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je Wi‑Fi aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
-  <string name="mock_location_app">Odabir aplikacije za lažnu lokaciju</string>
+  <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
   <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
   <string name="monday">Ponedjeljak</string>
@@ -574,6 +587,7 @@ Audio"</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+  <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
@@ -618,6 +632,7 @@ Audio"</string>
   <string name="notification_channel_in_call_service_crash">Rušenja aplikacija telefona</string>
   <string name="notification_channel_incoming_call">Dolazni pozivi</string>
   <string name="notification_channel_missed_call">Propušteni pozivi</string>
+  <string name="notification_channel_sip_account">Deprecated SIP accounts</string>
   <string name="notification_disconnectedCall_body">Poziv upućen %s prekinut je zbog uspostavljanja hitnog poziva.</string>
   <string name="notification_disconnectedCall_generic_body">Poziv je prekinut zbog hitnog poziva.</string>
   <string name="notification_disconnectedCall_title">Prekinuti poziv</string>
@@ -693,7 +708,6 @@ Audio"</string>
   <string name="power_suggestion_battery_run_out">Baterija bi se mogla isprazniti do %1$s</string>
   <string name="power_suggestion_extend_battery">Neka baterija potraje i nakon %1$s</string>
   <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
-  <string name="preference_summary_default_combination">%1$s / %2$s</string>
   <string name="private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
@@ -702,11 +716,19 @@ Audio"</string>
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="profile_connect_timeout_subtext">Problem s povezivanjem. Isključite i ponovo uključite uređaj</string>
   <string name="profile_info_settings_title">Profilni podaci</string>
+  <string name="radio_info_dcnr_restricted">DCNR Ograničen:</string>
+  <string name="radio_info_endc_available">EN-DC Dostupan:</string>
+  <string name="radio_info_imsi_label">IMSI:</string>
+  <string name="radio_info_network_slicing_config">Network slicing config:</string>
+  <string name="radio_info_nr_available">NR Dostupan:</string>
+  <string name="radio_info_nr_frequency">NR Frequency:</string>
+  <string name="radio_info_nr_state">NR State:</string>
+  <string name="registration_cf_forbidden">"Vaš mobilni operater ne podržava prosljeđivanje poziva."</string>
   <string name="remaining_length_format">Još %1$s</string>
   <string name="respond_via_sms_canned_response_1">Sada ne mogu razgovarati. Što ima?</string>
-  <string name="respond_via_sms_canned_response_2">Zovem čim stignem.</string>
-  <string name="respond_via_sms_canned_response_3">Nazvat ću kasnije.</string>
-  <string name="respond_via_sms_canned_response_4">Sad ne mogu razgovarati. Čujemo se kasnije.</string>
+  <string name="respond_via_sms_canned_response_2">Nazvat ću vas odmah.</string>
+  <string name="respond_via_sms_canned_response_3">Zvat ću vas kasnije.</string>
+  <string name="respond_via_sms_canned_response_4">Sada ne mogu razgovarati. Nazovite me kasnije?</string>
   <string name="respond_via_sms_confirmation_format">Poruka je poslana na broj %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Brzi odgovor</string>
   <string name="respond_via_sms_failure_format">"Poruku nije moguće poslati %s."</string>
@@ -718,7 +740,7 @@ Audio"</string>
   <string name="retail_demo_reset_next">Dalje</string>
   <string name="retail_demo_reset_title">Potrebna je zaporka</string>
   <string name="running_process_item_user_label">Korisnik: %1$s</string>
-  <string name="runningservices_settings_summary">Pregledajte i kontrolirajte pokrenute usluge</string>
+  <string name="runningservices_settings_summary">Pogledajte i nadzirite pokrenute procese</string>
   <string name="runningservices_settings_title">Pokrenute usluge</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
@@ -735,7 +757,7 @@ Audio"</string>
   <string name="screen_zoom_summary_large">Veliko</string>
   <string name="screen_zoom_summary_small">Malo</string>
   <string name="screen_zoom_summary_very_large">Veće</string>
-  <string name="search_menu">Pretraži postavke</string>
+  <string name="search_menu">Opcije pretraživanja</string>
   <string name="search_menu_title">Pretraživanje</string>
   <string name="select_account_dialog_title">Odaberite račun</string>
   <string name="select_application">Odaberite aplikaciju</string>
@@ -760,9 +782,9 @@ Audio"</string>
   <string name="shared_data_summary">Prikaz i izmjena dijeljenih podataka</string>
   <string name="shared_data_title">Dijeljeni podaci</string>
   <string name="show_all_anrs">Pokaži pozadinske ANR-ove</string>
-  <string name="show_all_anrs_summary">Prikaz dijaloga o pozad. aplik. koja ne odgovara</string>
+  <string name="show_all_anrs_summary">Dijalog o pozadinskim aplikacijama koje ne reagiraju</string>
   <string name="show_cpu_usage">Prikaži upotrebu procesora</string>
-  <string name="show_cpu_usage_summary">Na zaslonu se prikazuje iskorištenost procesora.</string>
+  <string name="show_cpu_usage_summary">Postav. element sa trenutnom upotrebom procesora</string>
   <string name="show_hw_layers_updates">Prikaži ažuriranja hardverskih slojeva</string>
   <string name="show_hw_layers_updates_summary">Hardverski slojevi bljeskaju zeleno pri ažuriranju.</string>
   <string name="show_hw_screen_updates">Pokaži ažuriranja prikaza</string>
@@ -775,6 +797,11 @@ Audio"</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
+  <string name="sip_accounts_removed_notification_action">Go to settings</string>
+  <string name="sip_accounts_removed_notification_message">"SIP calling is no longer supported by Android platform.
+Your existing SIP accounts %s have been removed.
+Please confirm your default calling account setting."</string>
+  <string name="sip_accounts_removed_notification_title">Deprecated SIP accounts found and removed</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
   <string name="speed_label_okay">U redu</string>
@@ -791,6 +818,7 @@ Audio"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="support_forbidden_fakecell">Note: Restricting connection to fake base stations may lower the signal in areas with poor coverage.</string>
   <string name="tap_to_renew_subscription_and_connect">Dodirnite da biste obnovili pretplatu i povezali se</string>
   <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
   <string name="telecommAppLabel">Upravljanje pozivima</string>
@@ -866,8 +894,8 @@ Audio"</string>
   <string name="unblock_button">Deblokiraj</string>
   <string name="unblock_dialog_body">Želite li deblokirati %1$s?</string>
   <string name="unknown">Nepoznato</string>
-  <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
-  <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
+  <string name="usb_audio_disable_routing">Isključi USB audiousmj.</string>
+  <string name="usb_audio_disable_routing_summary">Isključi aut. usmjeravanje na USB audioperiferiju</string>
   <string name="use_system_language_to_select_input_method_subtypes">Upotrijebi jezike sustava</string>
   <string name="userCallActivityLabel">Telefon</string>
   <string name="user_add_profile_item_summary">Možete ograničiti pristup aplikacijama i sadržaju sa svojeg računa</string>
@@ -955,9 +983,9 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_disabled_wifi_failure">Povezivanje s Wi-Fi-jem nije uspjelo</string>
   <string name="wifi_disconnected">Nije povezano</string>
   <string name="wifi_display_certification">Certifikacija bežičnog prikaza</string>
-  <string name="wifi_display_certification_summary">Prikaz opcija za certifikaciju bežičnog prikaza</string>
-  <string name="wifi_enhanced_mac_randomization">Nasumični odabir nepostojane MAC adrese za Wi-Fi</string>
-  <string name="wifi_enhanced_mac_randomization_summary">Kada je omogućen ovaj način, MAC adresa ovog uređaja može se promijeniti svaki put kad se uređaj poveže s mrežom na kojoj je omogućen nasumični odabir MAC-a.</string>
+  <string name="wifi_display_certification_summary">Prikaži opcije za certifikaciju bežičnog prikaza</string>
+  <string name="wifi_enhanced_mac_randomization">Nasum. odabir MAC-a poboljšanim Wi-Fi-jem</string>
+  <string name="wifi_enhanced_mac_randomization_summary">Kad je ovaj način omogućen, MAC adresa ovog uređaja može se promijeniti svaki put kada se poveže s mrežom koja ima omogućenu MAC slučajnost.</string>
   <string name="wifi_fail_to_scan">Skeniranje mreža nije moguće</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
   <string name="wifi_hotspot_switch_off_text">Isključeno</string>
@@ -970,17 +998,19 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wifi_p2p_allow_passive_listen">Omogući Wi-Fi P2P pasivno slušanje</string>
   <string name="wifi_p2p_allow_passive_listen_summary">Omogući/onemogući Wi-F P2p pasivno slušanje, uređaj ne može skenirati druge uređaje, ali drugi uređaji mogu skenirati trenutni uređaj</string>
   <string name="wifi_passpoint_expired">Isteklo</string>
+  <string name="wifi_pref_none">Nema odabranih preferenci</string>
+  <string name="wifi_preferred">Wi-Fi preferirano</string>
   <string name="wifi_remembered">Spremljeno</string>
   <string name="wifi_scan_throttling">Usporavanje traženja Wi-Fi-ja</string>
   <string name="wifi_scan_throttling_summary">Smanjuje potrošnju baterije i poboljšava rad mreže</string>
-  <string name="wifi_security_none">Nema</string>
-  <string name="wifi_ssid_is_empty">Polje SSID ne može ostati prazno</string>
-  <string name="wifi_ssid_length_is_max">SSID ne smije premašivati 32 znakova u dužini</string>
+  <string name="wifi_security_none">Ništa</string>
+  <string name="wifi_ssid_is_empty">SSID polje ne može biti prazno</string>
+  <string name="wifi_ssid_length_is_max">SSID ne smije premašiti 32 znaka</string>
   <string name="wifi_status_mac_randomized">MAC adresa određena je nasumično</string>
   <string name="wifi_status_no_internet">Nema interneta</string>
   <string name="wifi_status_sign_in_required">Obavezna prijava</string>
   <string name="wifi_unmetered_label">Bez ograničenja prometa</string>
-  <string name="wifi_verbose_logging">Omogući opširnu prijavu na Wi-Fi</string>
+  <string name="wifi_verbose_logging">Uključi opširnu prijavu na Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi-Fi, prikaz po SSID RSSI-ju u Biraču Wi-Fi-ja</string>
   <string name="wifi_wapi_as_certificate">AS certifikat</string>
   <string name="wifi_wapi_cert_mode_hand_text">Ručno odaberi certifikat</string>
@@ -1032,6 +1062,8 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifitrackerlib_wifi_poor_channel_conditions">Privremeno loši uvjeti mreže</string>
   <string name="wifitrackerlib_wifi_remembered">Spremljeno</string>
   <string name="wifitrackerlib_wifi_security_none">Ništa</string>
+  <string name="wifitrackerlib_wifi_security_owe">Enhanced Open</string>
+  <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>
   <string name="wifitrackerlib_wifi_unmetered_label">Bez ograničenja prometa</string>
   <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Wi-Fi se zasad neće automatski povezivati</string>
   <string name="window_animation_scale_title">Brzina animacije prozora</string>

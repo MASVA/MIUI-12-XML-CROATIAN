@@ -157,13 +157,14 @@
   <string name="bh_order_loading">Samo trenutak…</string>
   <string name="bh_order_pay">Plaćanje</string>
   <string name="bh_order_time">Vrijeme transakcije</string>
-  <string name="bh_other_charge">Other phone number</string>
-  <string name="bh_other_operator">Other carriers</string>
+  <string name="bh_other_charge">Drugi telefonski broj</string>
+  <string name="bh_other_operator">Drugi operateri</string>
   <string name="bh_pay_fail_desc">"Couldn't connect to the network. Go back and complete payment again."</string>
   <string name="bh_pay_fee">Ampunt</string>
   <string name="bh_pay_success_desc">Your balance might be credited with a delay</string>
   <string name="bh_perm_ask_read_contacts">Allow Mi Carrier Services to access your contacts first.</string>
   <string name="bh_perm_desc_read_contacts">For displaying contacts during topping up</string>
+  <string name="bh_permission_contact_desc">For topping up balance of your contacts</string>
   <string name="bh_permission_get_accounts_desc">For placing orders and checking their status</string>
   <string name="bh_permission_read_call_log_desc">For displaying call duration</string>
   <string name="bh_permission_read_phone_state_desc">For displaying phone numbers and related carrier info</string>

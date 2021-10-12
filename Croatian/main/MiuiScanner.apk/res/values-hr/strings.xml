@@ -59,6 +59,8 @@
   <string name="calories_logo_text">AI podršku pruža Health Hope</string>
   <string name="calories_request_interface_text">AI podrška</string>
   <string name="camera_error_title">Pogreška kamere</string>
+  <string name="camera_stealth_mode_message">Povezivanje s kamerom nije moguće. Ako je potrebna kamera, isključite Prikriveni način rada.</string>
+  <string name="camera_stealth_mode_title">Prikriveni način rada je omogućen</string>
   <string name="can_only_be_English_Chinese">Jezik mrežnog prevođenja može biti samo engleski i pojednostavljeni kineski</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_pdf_save">Otkazano spremanje PDF-a</string>
@@ -307,6 +309,8 @@
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
@@ -321,6 +325,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

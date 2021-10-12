@@ -261,6 +261,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="get_ph_ticket">Nabavite kod</string>
   <string name="get_phone_bind_exceed_limit">"Možete povezati do 3 Mi Računa s brojem telefona. Ne mogu se dodati novi računi."</string>
   <string name="get_phone_verifycode_exceed_limit">Na ovaj je broj poslano previše verifikacijskih kodova. Pričekajte 24 sata i pokušajte ponovo.</string>
+  <string name="goto_confirm">Postavke</string>
   <string name="goto_sign_up">Izradi račun</string>
   <string name="history_list_no_data">Nema stavki</string>
   <string name="hour_1">Svaki sat</string>
@@ -770,6 +771,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="refresh_network">Osvježi</string>
   <string name="remove">Ukloni</string>
   <string name="req_permission_dis_tip">Potrebno je dopuštenje</string>
+  <string name="require_permission">Potrebna su dopuštenja</string>
+  <string name="require_permission_text">Da biste mogli spremati i pregledavati stavke, dopustite Wallpaper Carouselu pristup pohrani.</string>
   <string name="resend_active_email">Pošalji ponovno</string>
   <string name="resend_email_reach_limit_message">Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi.</string>
   <string name="resend_email_reach_limit_title">Previše pokušaja</string>
@@ -926,6 +929,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="subscribe_update_time_setting">Postavite drugačiji interval</string>
   <string name="summary">"Prihvatite naše &lt;a href='%s'&gt;Pravila o Privatnosti&lt;/a&gt; za pregled online sadržaja. Ako ne prihvatite, lokalne pozadinske slike i dalje će biti dostupne."</string>
   <string name="summary2">"Korištenjem ove značajke, prihvaćate naše &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Korisnički Sporazum&lt;/font>&lt;/a> i &lt;font color='#0D84FF'>&lt;a href='%2$s'>Pravila o Privatnosti&lt;/font>&lt;/a>. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
+  <string name="summary3">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi.&lt;br>Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije korištenja ove aplikacije."</string>
+  <string name="summary4">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. "</string>
+  <string name="summary5">"Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja. "</string>
   <string name="summary_international">"Korištenjem ove značajke, prihvaćate naše &lt;a href ='%1$s'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>

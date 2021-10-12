@@ -1485,6 +1485,7 @@ u razdoblju ^2"</string>
   <string name="biometric_weak_improve_matching_title">Poboljšaj podudaranje lica</string>
   <string name="biometric_weak_liveliness_summary">Potreban je treptaj oka za otključavanje</string>
   <string name="biometric_weak_liveliness_title">Provjera stvarne osobe</string>
+  <string name="blank_screen_no_device">Nema uređaja</string>
   <string name="biometrics_unlock_set_unlock_password">Zaporka • lice • otisak prsta</string>
   <string name="biometrics_unlock_set_unlock_pattern">Uzorak • lice • otisak prsta</string>
   <string name="biometrics_unlock_set_unlock_pin">PIN • lice • otisak prsta</string>
@@ -1691,7 +1692,7 @@ Dosad se niste povezali s uređajem %2$s."</string>
   <string name="bluetooth_message_access_notification_content">Nepouzdani uređaj želi pristupiti vašim porukama. Dodirnite za detalje.</string>
   <string name="bluetooth_message_move_out_of_blacklist">Odblokirati %1$s sad?</string>
   <string name="bluetooth_mi_fast_connect">Uparite kompatibilne uređaje</string>
-  <string name="bluetooth_mi_fast_connect_summary">Povežite se s obližnjim uređajima pomoću pojednostavljenog postupka uparivanja</string>
+  <string name="bluetooth_mi_fast_connect_summary">Brzo povežite slušalice, zvučnike i druge kompatibilne uređaje</string>
   <string name="bluetooth_middle_name">Futrola</string>
   <string name="bluetooth_move_out_of_blacklist">Odblokiraj uređaj</string>
   <string name="bluetooth_name_not_set">Bez postavke imena, koristi naziv računa</string>
@@ -1708,6 +1709,7 @@ Dosad se niste povezali s uređajem %2$s."</string>
   <string name="bluetooth_opp_profile_summary_connected">Povezano s poslužiteljem za prijenos datoteka</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Niste povezani s poslužiteljem za prijenos datoteka</string>
   <string name="bluetooth_opp_profile_summary_use_for">Koristi za prijenos datoteke</string>
+  <string name="bluetooth_other_settings">Dodatne postavke</string>
   <string name="bluetooth_paired">Spremljeno</string>
   <string name="bluetooth_paired_device_title">Vaši uređaji</string>
   <string name="bluetooth_pairing">Uparivanje…</string>
@@ -2721,6 +2723,7 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="current_password">Trenutno Zaklj. zaslona</string>
   <string name="current_phone_location">Telefon</string>
   <string name="current_screen_lock">Trenutačno zaključavanje zaslona</string>
+  <string name="current_use_default_wallet">Odabire se automatski</string>
   <string name="current_sim">Trenutna SIM kartica</string>
   <string name="current_use_ese">Korištenje ugrađenog sigurnosnog elementa</string>
   <string name="current_use_ese_wallet">"Vi koristite Mi Novčanik. On vam omogućuje da koristite Mi Pay i NFC tranzitnu karticu."</string>
@@ -2973,6 +2976,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dc_light_summary">Primijenite DC prigušivanje kako biste smanjili naprezanje očiju</string>
   <string name="dc_light_summary_new">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
   <string name="dc_light_title">Način rada protiv treperenja</string>
+  <string name="dclight_unavailable_prompt">Način rada protiv treperenja podržava samo vanjski zaslon</string>
   <string name="debug_app">Aplikacija za otklanjanje pogrešaka</string>
   <string name="debug_app_not_set">Nema aplikacije za otklanjanje pogrešaka</string>
   <string name="debug_app_set">Aplikacija za otklanjanje pogrešaka: %1$s</string>
@@ -3305,6 +3309,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="display_font_size_label">Veličina fonta:</string>
   <string name="display_label">Zaslon</string>
   <string name="display_order_text">Poredati prema:</string>
+  <string name="display_prompt_confirm">Razumijem</string>
   <string name="display_preview_label">Pregled:</string>
   <string name="display_settings">Prikaz</string>
   <string name="display_settings_title">Zaslon</string>
@@ -8623,6 +8628,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="screen_reader_mode_input_type_title">Unos teksta</string>
   <string name="screen_recorder">Snimač zaslona</string>
   <string name="screen_recorder_title">Snimač zaslona</string>
+  <string name="screen_refresh_unavailable_prompt">Promjenu brzine osvježavanja podržava samo vanjski zaslon</string>
   <string name="screen_resolution_confirm">Ponovno pokreni</string>
   <string name="screen_resolution_dialog_title">Promjeni rezoluciju</string>
   <string name="screen_resolution_high_format">Visoka (%1$s)</string>
@@ -8718,14 +8724,16 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="sdcard_settings_unmounted_status">Sad na siguran način možete ukloniti USB pohranu.</string>
   <string name="sdcard_settings_used_bytes_label">Iskorišteni bajtovi:</string>
   <string name="sdcard_unmount">Isključi USB memoriju</string>
+  <string name="se_route_default">Odaberi automatski</string>
   <string name="sdcard_unmounted">Umetnite sada SD karticu</string>
   <string name="se_route_ese">Ugrađeni sigurnosni element</string>
   <string name="se_route_uicc">Korištenje sigurnosnog elementa na SIM kartici</string>
-  <string name="se_wallet_ese">Mi Wallet</string>
-  <string name="se_wallet_hce">Koristi HCE Wallet</string>
-  <string name="se_wallet_uicc">SIM %1$s Wallet</string>
+  <string name="se_wallet_ese">Mi Novčanik</string>
+  <string name="se_wallet_hce">Koristi HCE Novčanik</string>
+  <string name="se_wallet_uicc">SIM %1$s Novčanik</string>
+  <string name="se_wallet_uicc_jp">"SIM %1$s Novčanik (Nije moguće odabrati automatski)"</string>
   <string name="search_about_settings">"O uređaju;Naziv uređaja;Broj modela;Android verzija;MIUI verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Kernel verzija;Broj verzije;Status;Pravne informacije "</string>
-  <string name="search_accelerometer_title">Autom.zakreni zaslon;Rotiraj zaslon;Orijentacija;Portrait;Landscape</string>
+  <string name="search_accelerometer_title">Autom. zakreni zaslon;Rotiraj zaslon;Orijentacija;Portrait;Landscape</string>
   <string name="search_access_control">Postavke privatnosti;Postavke sigurnosti;Gost;Gost način</string>
   <string name="search_accessibility">Dostupnost</string>
   <string name="search_accessibility_captioning_title">Naslovi</string>

@@ -881,7 +881,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="settings_backup_title">Postavke Sig. kopije sustava</string>
   <string name="share_cancel">Dijeljenje otkazano</string>
   <string name="share_failed">"Ne mogu podijeliti"</string>
-  <string name="share_location_app_name">Pronađi</string>
+  <string name="share_location_app_name">Pronađi uređaj</string>
   <string name="share_location_dialog_confirm">Razumijem</string>
   <string name="share_location_dialog_content">Sada možete koristiti prečac Poč. zaslona za brži pristup postavkama.</string>
   <string name="share_location_dialog_title">Pažnja</string>
@@ -891,6 +891,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_location_guide2_title">Pomozite prijateljima i obitelji</string>
   <string name="share_location_guide3_desc">Provjerite jesu li vaši prijatelji i obitelj sigurni provjerom podataka o lokaciji koje su podijelili</string>
   <string name="share_location_guide3_title">Ostanite sigurni</string>
+  <string name="share_location_guide_action_btn_loading_text">Samo trenutak…</string>
   <string name="share_location_guide_action_btn_text">Uključi</string>
   <string name="share_location_guide_extra_btn_text">Preskoči</string>
   <string name="share_location_menu_create_shortcut">Prečac Poč. zaslona</string>

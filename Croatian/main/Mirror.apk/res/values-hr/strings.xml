@@ -69,12 +69,19 @@
   <string name="generic_error_no_device_credential">Nije postavljen PIN, uzorak ili zaporka.</string>
   <string name="generic_error_no_keyguard">Ovaj uređaj ne podržava PIN, uzorak ili zaporku.</string>
   <string name="generic_error_user_canceled">Korisnik je otkazao provjeru autentičnosti.</string>
+  <string name="guide_window_btn_know">Razumijem</string>
+  <string name="guide_window_operation">Povucite sa strane prema sredini zaslona</string>
+  <string name="guide_window_title">Natrga</string>
   <string name="http_buffer_size">HTTP veličina predmemorije</string>
   <string name="log_warning">"Uključivanje promjene dnevnika može povećati sigurnosne rizike i utjecati na performanse. Koristite ove promjene samo kad je to potrebno."</string>
+  <string name="low_version_dialog_message">Ažurirajte MIUI+ na računalu ili preuzmite najnoviju verziju s plus.miui.com.</string>
+  <string name="low_version_dialog_title">Ažurirajte MIUI+</string>
   <string name="message_log">Zapisi poruka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
@@ -90,6 +97,7 @@
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
@@ -148,7 +156,8 @@
   <string name="notify_connected_title">Povezan s %1$s</string>
   <string name="ok">U redu</string>
   <string name="open_folder">Prikaži</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="pcmode_not_support_multi_window">"Način rada s računalom ne podržava prikazivanje više prozora."</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_all_purpose">Dobrodošli Screen Combo! Ova vam aplikacija omogućuje prijenos datoteka i interakciju s telefonom pomoću računala.</string>
   <string name="privacy_describe_change_wifi_state">Za povezivanje uređaja i prijenos datoteka pomoću Wi-Fi-ja</string>
   <string name="privacy_describe_location">Za pronalaženje računala u blizini i prijenos datoteka</string>

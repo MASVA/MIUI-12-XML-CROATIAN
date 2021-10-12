@@ -284,6 +284,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="development_settings_summary">Postavljanje opcija za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programere</string>
   <string name="device_picker">Postavke Bluetooth uređaja</string>
+  <string name="device_update_plugin">Dostupna je nova verzija</string>
   <string name="direct_boot_unaware_dialog_message">"Napomena: Nakon ponovnog pokretanja, ova se aplikacija neće pokrenuti sve dok ne otključate svoj uređaj."</string>
   <string name="disable_overlays">Onemogući dijeljenje mem.</string>
   <string name="disable_overlays_summary">Uvijek koristi GPU za slaganje zaslona</string>
@@ -624,8 +625,13 @@ Brži protokol veze."</string>
   <string name="plugin_install_timeout">Čeka se istek instalacije.</string>
   <string name="plugin_last_update_going">Zadnje ažuriranje je u toku.</string>
   <string name="plugin_no_update">"To je već najnovija verzija."</string>
+  <string name="plugin_ota_finish">Ažuriranje Bluetooth dodatka uspjelo</string>
+  <string name="plugin_ota_indicate">Ponovo pokrenite Bluetooth i spojite slušalice</string>
+  <string name="plugin_ota_messages1">Dodajte još Bluetooth slušalica</string>
+  <string name="plugin_ota_messages2">Ažurirajte Bluetooth service framework</string>
+  <string name="plugin_ota_progress">Ažuriraj sad</string>
   <string name="plugin_start_update">Početak ažuriranja dodatka...</string>
-  <string name="plugin_update_failed">Ažuriranje nije supjelo:</string>
+  <string name="plugin_update_failed">Ažuriranje Bluetooth dodatka nije uspjelo:</string>
   <string name="plugin_update_notification_summary">Ažuriranje dodatka za Bluetooth dovršeno. Ponovo pokrenite postavke i bluetooth da biste primijenili promjene.</string>
   <string name="plugin_update_notification_title">Ažuriranje dodatka za Bluetooth</string>
   <string name="plugin_update_success">Ažuriranje dodatka za Bluetooth je uspjelo.</string>
@@ -738,6 +744,7 @@ Brži protokol veze."</string>
   <string name="storage_category">Pohrana</string>
   <string name="strict_mode">Strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
+  <string name="stylus_ota_check_update">Ažuriraj  sad</string>
   <string name="summary_empty"/>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
