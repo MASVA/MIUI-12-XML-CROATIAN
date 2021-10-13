@@ -828,6 +828,9 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_add_user_title">Dodati novog korisnika?</string>
   <string name="user_add_user_type_title">Dodavanje</string>
   <string name="user_guest">Gost</string>
+  <string name="user_image_choose_photo">Galerija</string>
+  <string name="user_image_photo_selector">Odaberite sliku</string>
+  <string name="user_image_take_photo">Kamera</string>
   <string name="user_info_settings_title">Podaci o korisniku</string>
   <string name="user_need_lock_message">Prije izrade ograničenog profila trebate postaviti zaključavanje zaslona radi zaštite svojih aplikacija i osobnih podataka.</string>
   <string name="user_new_profile_name">Novi profil</string>

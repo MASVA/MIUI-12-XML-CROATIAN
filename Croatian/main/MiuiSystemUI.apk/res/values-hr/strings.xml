@@ -189,7 +189,7 @@
   <string name="accessibility_lock_icon">Uređaj je zaključan</string>
   <string name="accessibility_long_click_tile">Otvaranje postavki</string>
   <string name="accessibility_manage_notification">Upravljanje obavijestima</string>
-  <string name="accessibility_managed_profile">Radni profil</string>
+  <string name="accessibility_managed_profile">Poslovni profil</string>
   <string name="accessibility_manual_zen_less_time">Manje vremena.</string>
   <string name="accessibility_manual_zen_more_time">Više vremena.</string>
   <string name="accessibility_menu">Izbornik</string>
@@ -1454,13 +1454,13 @@ prioritetno"</string>
   <string name="keywords_alarms_and_reminders">raspored, alarm, podsjetnik, sat</string>
   <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
   <string name="kg_face_not_recognized">Nije prepoznato</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja radni će se profil ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja poslovni će se profil ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja taj će se korisnik ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_almost_at_login">"Netočno ste iscrtali uzorak za otključavanje %1$d put/a. Nakon još %2$d pokušaja morat ćete otključati telefon pomoću računa e-pošte.
 
  Pokušajte ponovo za %3$d s."</string>
   <string name="kg_failed_attempts_almost_at_wipe">Neuspješno ste pokušali otključati telefon %1$d put/a. Nakon još %2$d pokušaja telefon će se vratiti na zadano, a time će se izbrisati i svi podaci na njemu.</string>
-  <string name="kg_failed_attempts_now_erasing_profile">Neuspješno ste pokušali otključati telefon %d put/a. Radni će se profil ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">Neuspješno ste pokušali otključati telefon %d put/a. Poslovni će se profil ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_now_erasing_user">Neuspješno ste pokušali otključati telefon %d put/a. Taj će se korisnik ukloniti, a time će se izbrisati i svi njegovi podaci.</string>
   <string name="kg_failed_attempts_now_wiping">Neuspješno ste pokušali otključati telefon %d put/a. Telefon će se vratiti na zadano, a time će se izbrisati i svi podaci na njemu.</string>
   <string name="kg_fingerprint_not_recognized">Nije prepoznat</string>
@@ -1468,7 +1468,7 @@ prioritetno"</string>
   <string name="kg_invalid_confirm_pin_hint">PIN kodovi nisu jednaki</string>
   <string name="kg_invalid_puk">Ponovo unesite ispravan PUK kôd. Ponovljeni pokušaji trajno će onemogućiti SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Unesite PIN koji ima od 4 do 8 brojeva.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK kôd treba imati 8 brojeva ili više.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK kôd mora sadržavati %1$d brojeva.</string>
   <string name="kg_login_too_many_attempts">Previše pokušaja iscrtavanja uzorka</string>
   <string name="kg_password_instructions">Unesite zaporku</string>
   <string name="kg_password_pin_failed">Operacija PIN-a SIM kartice nije uspjela!</string>

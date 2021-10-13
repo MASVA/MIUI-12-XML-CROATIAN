@@ -27,10 +27,12 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="access_non_personal_data">Ako povučete suglasnost za pristup i korištenje neosobnih podataka sa svog uređaja, usluge Wallpaper Carousel bit će deaktivirane, a svi prikupljeni podaci izbrisani u roku određenom važećim zakonima i propisima.</string>
   <string name="accessibility_enabled">Pristupačnost je omogućena.</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="agree">Prihvaćam</string>
   <string name="agree_and_next">Prihvaćam</string>
+  <string name="agree_cookie">Prihvaćam kolačiće</string>
   <string name="agree_terms">"Pročitao sam i prihvaćam Uvjete Pružanja Usluge i Pravila o Privatnosti"</string>
   <string name="agree_terms_input_method_facemoji">"Pročitao sam i prihvaćam Facemoji Pravila o Privatnosti."</string>
   <string name="agree_terms_input_method_kika">"Pročitao sam i prihvaćam Kika Pravila o Privatnosti."</string>
@@ -70,6 +72,9 @@
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Centar za sadržaj objedinjuje sadržaj i usluge s više kanala. Ovdje možete čitati članke, gledati videozapise, pregledavati svakodnevno predstavljene stavke i primati preporuke za sadržaj.</string>
   <string name="continue_to_enable_accessibility">Držite pritisnuta dva prsta da omogućite pristupačnost.</string>
+  <string name="cookies_content_one">"Kad dodirnete slike i priče u Wallpaper Carouselu, otvorit ćemo njihove pune verzije u vašem pregledniku. Taboola, naš pouzdani pružatelj sadržaja treće strane, tada može preporučiti dodatni sadržaj i oglase prilagođene vašim interesima. Ako pristanete aktivirati ovu značajku, Taboola će postaviti kolačiće na vaš uređaj putem preglednika, kako je opisano u Taboolinim &lt;a href =%1$s>Politika kolačića&lt;/a>. Ako odbijete upotrebu kolačića, stavke Wallpaper Carousel nastavit će se pojavljivati na vašem zaključanom zaslonu, a cijele priče bit će otvorene u vašem pregledniku, ali dodatne preporuke neće biti posebno odabrane za vas. Postavke možete promijeniti u bilo kojem trenutku u postavkama."</string>
+  <string name="cookies_content_two">"Odlučite želite li da naši pouzdani pružatelji sadržaja treće strane koriste kolačiće za prilagodbu preporuka sadržaja i oglasa na temelju vaših interesa."</string>
+  <string name="cookies_title">Personalizirani sadržaj i kolačići</string>
   <string name="copy">Kopiraj</string>
   <string name="data_traffic_enable_dialog_title">"Ako sada niste povezani s Wi-Fi mrežom, vaš će uređaj koristiti mobilne podatke. Korištenje mobilnih podataka može generirati dodatne troškove mobilnog operatera."</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
@@ -306,11 +311,14 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="privacy_content_one">"Preporuke za Wallpaper Carousel pokreće Taboola, naš pouzdani pružatelj sadržaja treće strane. Da bi pružio ovaj sadržaj, Taboola mora pristupiti i pohraniti neosobne podatke s vašeg uređaja, uključujući jezik vašeg sustava i vrstu preglednika. Možete saznati kako Taboola koristi prikupljene podatke u Taboolinim &lt;a href =%1$s>Pravila o privatnosti&lt;/a> i &lt;a href =%2$s>Korisnički ugovor&lt;/a>. Pročitajte i prihvatite uvjete i odredbe navedene u ovim dokumentima prije nego nastavite. Ako se ne slažete, usluge Wallpaper Carousel bit će deaktivirane."</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_provision_more">Saznajte više o zaštiti privatnosti</string>
   <string name="privacy_provision_summary">Zaštita privatnosti obveza je koja stoji iza dizajna naših proizvoda</string>
   <string name="privacy_provision_text">Predani smo poštivanju i zaštiti vaše privatnosti. Dajući prioritet istraživanju i razvoju na području informacijske sigurnosti, Xiaomi neprestano radi na poboljšanju metoda, praksi i tehničkih rješenja koja štite vaše podatke. Također dijelimo naša najnovija dostignuća s našim partnerima kako bismo osigurali vašu privatnost na svim poljima.</string>
   <string name="privacy_provision_title">Privatnost</string>
+  <string name="privacy_refuse">"Ne slažem se"</string>
+  <string name="privacy_title">Uvjeti &amp; Pravila o privatnosti</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_inputmethod_policy_description">&lt;Data&gt;Pogledajte &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;odabrane tipkovnice.&lt;/Data&gt;</string>
@@ -318,6 +326,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
   <string name="recorder_introduction">Možete koristiti ovu aplikaciju za snimanje zvuka i pohranu snimki na Mi Cloud.</string>
+  <string name="refuse_cookie">Odbijam kolačiće</string>
   <string name="require_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate odobriti sljedeća dopuštenja kako bismo mogli prikupiti vaše osobne podatke:</string>
   <string name="require_miuidaemon_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate odobriti sljedeća dopuštenja kako bismo mogli prikupljati vaše osobne podatke:</string>
   <string name="require_network_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate se povezati na internet i odobriti sljedeća dopuštenja kako bismo mogli prikupiti vaše osobne podatke:</string>
@@ -384,6 +393,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="system_navigation_mode">Način navigacije sustavom</string>
+  <string name="term_condition_detail">"Svakodnevno dobivajte zapanjujuće slike i uzbudljive priče na zaključanom zaslonu. Ova značajka neće koristiti vaše podatke za prilagodbu bez vašeg pristanka. Pročitajte i složite se s pružateljima sadržaja treće strane &lt;a href =%1$s>Pravila o privatnosti&lt;/a> i &lt;a href =%2$s>Korisnički ugovor&lt;/a> prije korištenja ove značajke."</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>
   <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
   <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o Privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate prihvatiti Uvjeti Pružanja Usluge i Pravila o Privatnosti prije nego što možete koristiti MIUI. %s i komponente Mi Računa povezati će na internet i pribaviti vašu lokaciju."</string>
@@ -450,6 +460,7 @@ Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Ke
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
   <string name="welcome">Dobrodošli</string>
+  <string name="withdraw_consent">Ako povučete suglasnost, usluge Wallpaper Carousel bit će deaktivirane.</string>
   <string name="yesterday">Jučer</string>
   <string name="zone_picker_title">Odaberite vremensku zonu</string>
 </resources>
