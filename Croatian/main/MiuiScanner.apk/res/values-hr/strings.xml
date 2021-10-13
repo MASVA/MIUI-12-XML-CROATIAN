@@ -650,8 +650,9 @@
   <string name="word_to_be_recognized_is_aligned_with_cross">Riječ koju treba prepoznati poravnata je s križem</string>
   <string name="word_translation">Prijevod riječi</string>
   <string name="wx_not_installed_toast">Ovu značajka treba koristiti WeChat. Prvo instalirajte WeChat.</string>
-  <string name="xiaoai_dialog">"Pokušajte reći Mi AI
-što želite skenirati"</string>
+  <string name="xiaoai_classmate_scan_text">Skeniraj sa Mi AI</string>
+  <string name="xiaoai_dialog">"Pokušajte reći što 
+  želite skenirati sa Mi AI"</string>
   <string name="xiaoai_text">Tipka</string>
   <string name="yesterday">Jučer</string>
   <string name="you_have_permission_to_download">Dodirnite za preuzimanje beta verzije</string>

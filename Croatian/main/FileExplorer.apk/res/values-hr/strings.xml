@@ -1,44 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="added_category">Dodano</string>
-  <string name="app_all_purpose_pad">Dobrodošli u Datoteke! Ovu aplikaciju možete koristiti za upravljanje datotekama pohranjenim na vašem uređaju.</string>
-  <string name="available_size">Dostupno: %s</string>
-  <string name="by_date">Vrijeme promjene</string>
-  <string name="by_name">Naziv</string>
-  <string name="by_size">Veličina</string>
-  <string name="by_type">Tip</string>
-  <string name="category_editor_mode">Uredi</string>
-  <string name="category_exit_editor_mode">Izlaz</string>
-  <string name="category_more">Više</string>
-  <string name="clean_hint_pad">Očistite smeće kako biste oslobodili prostor za pohranu</string>
-  <string name="display_setting">Prikazane stavke</string>
-  <string name="edit_quick_category">Uredi</string>
-  <string name="enter">Otvori Datoteke</string>
-  <string name="entry_phone_storage_internal">Unutarnja pohrana</string>
-  <string name="entry_storage_cloned_app">Dvojne aplikacije</string>
-  <string name="entry_storage_usb">USB uređaj</string>
-  <string name="guide_one_summary">Nedavne stavke grupirane su prema datumima.</string>
-  <string name="guide_one_title">Stavke raspoređene u vremensku crtu</string>
-  <string name="guide_three_summary">Dodajte, uklonite i preuredite prečace početne stranice.</string>
-  <string name="guide_three_title">Preuredite prečace</string>
-  <string name="guide_two_summary">Fotografije i snimke zaslona u galeriji su prema zadanim postavkama skrivene.</string>
-  <string name="guide_two_title">Pogledajte samo bitne stavke</string>
-  <string name="least_quick_category_hint">Dodajte barem %d prečac</string>
-  <string name="most_quick_category_hint">Možete dodati do %d prečaca</string>
-  <string name="next">Dalje</string>
-  <string name="not_added_category">Dostupno</string>
-  <string name="recent_hide_camera_and_screenshots">"Ne prikazuj stavke galerije i snimke zaslona među nedavnim datotekama"</string>
-  <string name="remainder_size">Preostalo: %s</string>
-  <string name="search_category_folder">Mape</string>
-  <string name="search_more_category">Više</string>
-  <string name="size_lv1">Manje od %d KB</string>
-  <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
-  <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
-  <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
-  <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
-  <string name="size_lv6">Veće od %d GB</string>
-  <string name="start_all">Prikaži sve</string>
-  <string name="total_size">Ukupno: %s</string>
   <string name="a_week_share_rank">Tjedni poredak</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Natrag</string>
@@ -83,6 +44,7 @@
   <string name="add_private">Sakrij datoteke sada</string>
   <string name="add_private_files">Dodaj datoteke</string>
   <string name="add_task">Dodaj zadatak</string>
+  <string name="added_category">Dodano</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="aggree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
   <string name="album_creator">Izradio %s</string>
@@ -92,6 +54,7 @@
   <string name="already_signin_description">"Već ste se prijavili danas."</string>
   <string name="apk_installing">Instaliranje…</string>
   <string name="app_all_purpose">Dobrodošli u Datoteke! Ovom aplikacijom možete upravljati datotekama pohranjenim na vašem uređaju.</string>
+  <string name="app_all_purpose_pad">Dobrodošli u Datoteke! Ovom aplikacijom možete upravljati datotekama pohranjenim na vašem uređaju.</string>
   <string name="app_function">Upravljanje datotekama na vašem uređaju</string>
   <string name="app_name">Datoteke</string>
   <string name="app_name_bluetooth">Bluetooth</string>
@@ -104,6 +67,7 @@
   <string name="app_name_miuimusic">Glazba</string>
   <string name="app_name_miuiringtone">Melodija zvona</string>
   <string name="app_name_miuiwallpaper">Slike pozadine</string>
+  <string name="app_name_recorder">Snimač</string>
   <string name="app_name_screenshot">Snimke zaslona</string>
   <string name="archive_send_to">Pošalji…</string>
   <string name="auto_play">Reproduciraj automatski kada je povezano na Wi-Fi</string>
@@ -112,6 +76,7 @@
   <string name="auto_play_recommend">Reproduciraj automatski</string>
   <string name="auto_play_recommend_tips">Pokreni reprodukciju videozapisa automatski</string>
   <string name="auto_play_toast">Videozapisi će se automatski reproducirati. Možete to promijeniti u postavkama.</string>
+  <string name="available_size">Dostupno: %s</string>
   <string name="background">Sakrij</string>
   <string name="backup_cancel">"Ne radi Sig. kopiju"</string>
   <string name="backup_checkbox_msg">Autom. napravi Sig. kopiju</string>
@@ -137,6 +102,10 @@
   <string name="binded_accout_description">"Vaš Mi Račun je sinkroniziran s KuaiPan. Koristite vaš Mi Račun za pristup podacima koje ste pohranili na KuaiPan."</string>
   <string name="binded_accout_title">Račun sinkroniziran</string>
   <string name="black_list">"Dobili ste ban. Pošaljite svoju pov. informaciju na MIUI Forum da naučite zašto."</string>
+  <string name="by_date">Vrijeme promjene</string>
+  <string name="by_name">Naziv</string>
+  <string name="by_size">Veličina</string>
+  <string name="by_type">Tip</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Ne mogu odjednom poslati toliko puno stavaka"</string>
   <string name="cancel">Odustani</string>
@@ -153,12 +122,15 @@
   <string name="category_bluetooth">Bluetooth</string>
   <string name="category_document">Dokumenti</string>
   <string name="category_download">Preuzimanja</string>
+  <string name="category_editor_mode">Uredi</string>
+  <string name="category_exit_editor_mode">Izlaz</string>
   <string name="category_favorite">Favoriti</string>
   <string name="category_file">Datoteke</string>
   <string name="category_files">Datoteke</string>
   <string name="category_installed_app">Instalirane aplikacije</string>
   <string name="category_kuaipan">KuaiPan</string>
   <string name="category_midrive">Mi Drive</string>
+  <string name="category_more">Više</string>
   <string name="category_music">Glazba</string>
   <string name="category_other">Ostalo</string>
   <string name="category_photo">Fotografije</string>
@@ -198,6 +170,7 @@
   <string name="claim_video_success">Uspješno zahtjevano</string>
   <string name="claim_video_unlogin">Prijavite se da možete zahtjevati videozapise</string>
   <string name="clean_hint">Dodirni da oslobodite prostor</string>
+  <string name="clean_hint_pad">Izbrišite smeće kako biste oslobodili prostor za pohranu</string>
   <string name="clean_message">Oslobođeno %1$s prostora.</string>
   <string name="clean_title">Izbriši datoteke starije više od 30 dana.</string>
   <string name="clean_trash_box">Isprazni smeće</string>
@@ -308,6 +281,7 @@
   <string name="disk_total">Ukupno: </string>
   <string name="dislike_toast">"Takvi videozapisi neće biti preporučeni za vas."</string>
   <string name="dislike_video">"Nisam zainteresiran"</string>
+  <string name="display_setting">Prikazane stavke</string>
   <string name="dlg_error_unmount_text">"Ne mogu ukloniti USB pohranu."</string>
   <string name="doc_all">Sve</string>
   <string name="doc_epub">EPUB</string>
@@ -327,6 +301,7 @@
   <string name="drag_not_support_with_dir">"Ne mogu se preurediti ili poslati mape"</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
+  <string name="edit_quick_category">Uredi</string>
   <string name="editor_commend">Uredi</string>
   <string name="email_platform">E-pošta</string>
   <string name="empty_comment">"Komentar ne može biti prazan"</string>
@@ -341,6 +316,10 @@
   <string name="encrypt_success">Uspješno skriveno</string>
   <string name="encrypt_success_first_five">"Šifrirano i datoteka skrivena. Možete vidjeti skrivene datoteke povlačenjem prema dolje na početnoj stranici aplik. Datoteke."</string>
   <string name="encrypting">Šifriranje…</string>
+  <string name="enter">Otvori Datoteke</string>
+  <string name="entry_phone_storage_internal">Unutarnja pohrana</string>
+  <string name="entry_storage_cloned_app">Dvojne aplikacije</string>
+  <string name="entry_storage_usb">USB uređaj</string>
   <string name="error_contains_sharer_path">"Ne mogu dešifrirati datoteke u mapi /MIUI/Gallery/cloud/sharer. Premjestite datoteke na drugo mjesto i pokušajte ponovno."</string>
   <string name="error_create_dir">"Ne mogu napraviti mapu"</string>
   <string name="error_create_file">"Ne mogu napraviti datoteku"</string>
@@ -440,6 +419,12 @@
   <string name="group_title_extra_new">Novo</string>
   <string name="guide_newfunc_content">Sada možete filtrirati formate datoteka, preurediti stavke i prelaziti s različitih prikaza dodirom na prečac.</string>
   <string name="guide_newfunc_title">Nova značajka</string>
+  <string name="guide_one_summary">Nedavne stavke grupirane su prema datumima.</string>
+  <string name="guide_one_title">Stavke raspoređene u vremensku crtu</string>
+  <string name="guide_three_summary">Dodajte, uklonite i preuredite prečace početne stranice.</string>
+  <string name="guide_three_title">Preuredite prečace</string>
+  <string name="guide_two_summary">Fotografije i snimke zaslona u galeriji su prema zadanim postavkama skrivene.</string>
+  <string name="guide_two_title">Pogledajte samo bitne stavke</string>
   <string name="handsome_boy">Muškarac</string>
   <string name="has_installed">Instalirano</string>
   <string name="hint_switch_to_grid_mode">Prebačeno na prikaz rešetke</string>
@@ -500,6 +485,7 @@
   <string name="launcher_icon_add_description">Dodajte prečac Poč. zaslona</string>
   <string name="launcher_icon_remove_description_content">"Datoteke su sistemska aplikacija. Nakon uklanjanja prečaca Poč. zaslona nećete moći upravljati datotekama na uređaju."</string>
   <string name="launcher_icon_remove_description_title">Ukloniti \"Datoteke\" sa Poč. zaslona?</string>
+  <string name="least_quick_category_hint">Dodajte barem %d prečac</string>
   <string name="like_toast_1">Takvi videozapisi će vam biti preporučeno često.</string>
   <string name="like_toast_2">Pogledajte videozapise koje želite na svom profilu.</string>
   <string name="like_toast_3">Prijavite se da pogledate videozapise koje želite na svom profilu.</string>
@@ -682,6 +668,7 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
+  <string name="most_quick_category_hint">Možete dodati do %d prečaca</string>
   <string name="move_failed">"Ne mogu premjestiti stavke"</string>
   <string name="move_failed_retry">"Ne mogu izrezati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="move_icon_to_desktop_hint">Napravi prečac aplik. Datoteke na Poč. zaslonu za učinkovitije upravljanje datotekama.</string>
@@ -770,6 +757,7 @@
 Preuzmite ih kada želite
 i nikad ne propustite nove cool naljepnice!"</string>
   <string name="new_function_title_str">O WeChat naljepnicama</string>
+  <string name="next">Dalje</string>
   <string name="next_time">Ne sada</string>
   <string name="no">Ne</string>
   <string name="no_apk">Dodirni za dobivanje aplikacija.</string>
@@ -800,6 +788,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_videos">Ovdje nema ništa. Provjerite one ispod!</string>
   <string name="no_wifi">Nema dostupnih Wi-Fi mreža.</string>
   <string name="no_wifi_hint">Nema dostupnih mreža</string>
+  <string name="not_added_category">Dostupno</string>
   <string name="not_installed_documentsui">"Nemate instaliranu DocumentsUI aplikaciju"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_documentui">"Aplikacija DocumentUI nije podržana na ovom uređaju"</string>
@@ -981,15 +970,16 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="prize_result_tip2">Dragulji idu u vašu riznicu</string>
   <string name="promot_enctypt_password">Unesite zaporku koja se koristi za otključavanje uređaja ili za isključivanje Dječjeg načina</string>
   <string name="pull_to_enter_private">Povuci dolje za otvaranje privatne mape</string>
-  <string name="qq_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati QQ dokumente."</string>
-  <string name="qq_title">"Ne mogu pristupiti QQ dokumentima"</string>
   <string name="pull_to_signin">Povucite dolje za prijavu.</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>
+  <string name="qq_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati QQ dokumente."</string>
   <string name="qq_not_installed">"QQ nije instaliran"</string>
   <string name="qq_platform">QQ</string>
+  <string name="qq_title">"Ne mogu pristupiti QQ dokumentima"</string>
   <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_hide_camera_and_screenshots">"Ne prikazuj stavke galerije i snimke zaslona među nedavnim datotekama"</string>
   <string name="recent_show">Nedavno</string>
   <string name="recommend">Preporučeno</string>
   <string name="recommend_popup_title">Preporuke</string>
@@ -998,6 +988,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="refresh_success">Osvježavanje gotovo</string>
   <string name="release_enter_private">Otpusti za otvaranje privatne mape</string>
   <string name="release_to_signin">Otpustite za prijavu</string>
+  <string name="remainder_size">Preostalo: %s</string>
   <string name="remote_video_no_network">"Ne mogu se povezati na mrežu."</string>
   <string name="remote_video_report_success">"Hvala vam na povratnim informacijama! Pregledati ćemo ih u najkraćem mogućem roku."</string>
   <string name="remote_video_server_error">"Ne mogu se povezati na poslužitelj."</string>
@@ -1055,7 +1046,8 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_activity_hint">Pretraga</string>
   <string name="search_app">Aplik. &amp; mape</string>
   <string name="search_app_more">Više</string>
-  <string name="search_category">Vrsta</string>
+  <string name="search_category">Kategorije</string>
+  <string name="search_category_folder">Mape</string>
   <string name="search_description">Pretraži sve datoteke na uređaju</string>
   <string name="search_empty_view_hint">"Ne mogu ništa pronaći"</string>
   <string name="search_error_hint">Unesite ključne riječi za traženje</string>
@@ -1076,6 +1068,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="search_keyword_news">Vijesti</string>
   <string name="search_keyword_wallet">Novčanik</string>
   <string name="search_menu_title">Traži</string>
+  <string name="search_more_category">Više</string>
   <string name="search_popup_tip">Možete tražiti osobe i teme</string>
   <string name="search_result">Rezultati</string>
   <string name="search_result_hint1">Srodno</string>
@@ -1165,6 +1158,12 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="signin_error">"Ne mogu se povezati na poslužitelj. Provjerite svoje mrežnu vezu."</string>
   <string name="signin_success">"Prijavljeni ste!
 Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
+  <string name="size_lv1">Manje od %d KB</string>
+  <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
+  <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
+  <string name="size_lv4" formatted="false">%1d MB - %2d MB</string>
+  <string name="size_lv5" formatted="false">%1d MB - %2d GB</string>
+  <string name="size_lv6">Veće od %d GB</string>
   <string name="skip">Preskoči</string>
   <string name="skip_file">Preskoči</string>
   <string name="slashes">/</string>
@@ -1177,6 +1176,7 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="sort_size_desc">Veće prema manjem</string>
   <string name="space_info">KuaiPan: %1$s dostupno, %2$s ukupno</string>
   <string name="space_usage">Iskorišten prostor</string>
+  <string name="start_all">Prikaži sve</string>
   <string name="start_doc">Datoteke</string>
   <string name="start_phone">Pohrana</string>
   <string name="start_server">Pokreni FTP poslužitelj</string>
@@ -1254,15 +1254,16 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tools">ALATI</string>
-  <string name="transfer">Prijenosi &amp; preuzimanja</string>
   <string name="top_mark">TOP</string>
   <string name="top_videos">Podijeli poredak</string>
   <string name="topic_follow">Prati</string>
   <string name="topic_followed">Pratim</string>
   <string name="topic_title">Teme</string>
   <string name="topic_winners">Dosadašnji dobitnici</string>
+  <string name="total_size">Ukupno: %s</string>
   <string name="trans_mobile_network_message">Korištenje mobilnih podataka da prijenos datoteka će potrošiti puno podataka, jeste li sigurni za nastavak?</string>
   <string name="trans_task">Mrežni prijenos</string>
+  <string name="transfer">Prijenosi &amp; preuzimanja</string>
   <string name="transfer_done">Datoteke uspješno premještene.</string>
   <string name="transfer_private_data">Premještanje skrivenih datoteka sa SD kartice…</string>
   <string name="transfer_summary">Preuzimanja i stavke prenesene putem Mi Share</string>
@@ -1460,8 +1461,6 @@ oslobodili prostor.</string>
   <string name="view_more_sticker">Prikaži još naljepnica</string>
   <string name="view_top_rank">Prikaži poredak</string>
   <string name="view_type">Pregled</string>
-  <string name="wechat_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati dokumente pregledane u WeChatu. Otvorite i spremite dokumente u WeChat kako bi se pojavili ovdje."</string>
-  <string name="wechat_title">"Ne mogu pristupiti WeChat dokumentima"</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čekanje na mrežu…</string>
   <string name="wait_sdcard">Čekanje SD kartice…</string>
@@ -1472,7 +1471,9 @@ oslobodili prostor.</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_login_btn_str">WeChat</string>
+  <string name="wechat_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati dokumente pregledane u WeChatu. Otvorite i spremite dokumente u WeChat kako bi se pojavili ovdje."</string>
   <string name="wechat_platform">WeChat</string>
+  <string name="wechat_title">"Ne mogu pristupiti WeChat dokumentima"</string>
   <string name="wechat_video">Video na %s</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
