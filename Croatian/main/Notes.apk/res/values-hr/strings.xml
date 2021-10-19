@@ -493,6 +493,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="note_header_first_enter_guide">Povucite prema dolje za prikazati više</string>
   <string name="note_invalid_mindnote_hint">"Mape uma nisu dostupne u ovoj verziji. Ažurirajte aplikaciju da biste koristili ovu značajku."</string>
   <string name="note_link_email">"Nova e-pošta"</string>
+  <string name="note_item_default_title">Prazna bilješka</string>
   <string name="note_link_other">Otvori pomoću aplikacije Karte</string>
   <string name="note_link_select">"Odaberi tekst"</string>
   <string name="note_link_tel">"Nazovi"</string>
@@ -563,8 +564,14 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_category_title_quick_func">Brze značajke</string>
   <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>
-  <string name="pref_desc_todo_float_mode">Prijeđite prstom od ruba zaslona da biste otvorili okvir alata sa zadacima</string>
+  <string name="pref_desc_todo_float_mode">Prijeđite prstom od ruba zaslona da biste otvorili alat sa zadacima</string>
   <string name="pref_excerpt_link_float">Primite podsjetnik za izradu isječka kad god se URL kopira</string>
+  <string name="pref_permission_allowed">Odobreno</string>
+  <string name="pref_permission_manage">Pojedinosti o dopuštenjima</string>
+  <string name="pref_permission_manage_key_contact">Pristup kontaktima</string>
+  <string name="pref_permission_manage_key_recording">Snimanje zvuka</string>
+  <string name="pref_permission_manage_key_storage">Pristup pohrani</string>
+  <string name="pref_permission_not_allowed">Nije odobreno</string>
   <string name="pref_quick_note_desc">Upotrijebite prečac na rubu zaslona za izradu bilješki i zadataka, kao i spremanje kopiranih URL-ova, teksta i slika u Bilješke.</string>
   <string name="pref_remind_type_summary">Reproduciraj zvuk podsjetnika u Bešumnom načinu rada</string>
   <string name="pref_remind_type_summary_new">Zanemari Bešumni način i nastavi reproducirati zvuk dok se alarm ne isključi</string>
@@ -858,6 +865,10 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="widget_havenot_content">"Dodirnite za stvaranje bilješke. Držite widget za promjenu veličine."</string>
   <string name="widget_havenot_content_new">Dodirnite za izradu bilješke. Pritisnite i držite za promjenu veličine.</string>
   <string name="widget_note_list_page_title">Odaberite bilješku</string>
+  <string name="widget_size_item_big">Veliki</string>
+  <string name="widget_size_item_medium">Srednji</string>
+  <string name="widget_size_item_small">Mali</string>
+  <string name="widget_take_notes_title">Bilješke</string>
   <string name="widget_under_privacy_mode">"Ne mogu pregledavati bilješke u Gost načinu rada"</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>

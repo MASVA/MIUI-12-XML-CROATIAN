@@ -142,12 +142,17 @@
         <item>Cloud;Sig. kopija;Sig. kopija;Cloud usluge;Mi Cloud;Poč. zaslon;Izgled;Aplikacije;Postavke;Učestalost Sig. kopije;Upravljanje Sig. kopijama;Vrati</item>
     </string-array>
 	<string-array name="privacy_dialog_sync_runtime_perm_title">
-        <item>Pristupiti događajima u kalendaru</item>
+        <item>Pristup događajima u kalendaru</item>
         <item>Poslati SMS</item>
         <item>Pročitati MMS</item>
-        <item>Pristupiti kontaktima</item>
+        <item>Pristup kontaktima</item>
         <item>Uređivanje i brisanje kontakata</item>
-        <item>Pristupiti fotografijama i datotekama na uređaju</item>
+        <item>Pristup fotografijama i datotekama na uređaju</item>
+    </string-array>
+	<string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Za lociranje uređaja i prebacivanje u izgubljeni način rada</item>
+        <item>"Za lociranje ovog uređaja kada nije spojen na internet"</item>
+        <item>"Za pristup telefonskom broju radi lociranja ovog uređaja kada nije spojen na internet"</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Sig. kopije</item>

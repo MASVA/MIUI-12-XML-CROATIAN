@@ -228,7 +228,7 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="HIPS_Perm_Read_MMS">Čitanje MMS poruka</string>
   <string name="HIPS_Perm_Read_MMS_Desc">pročitati vaše MMS poruke</string>
   <string name="HIPS_Perm_Read_MMS_Hint">Ovoliko (%1$s) aplikacija može pročitati vaše MMS poruke</string>
-  <string name="HIPS_Perm_Read_SMS">Čitanje SMS poruka</string>
+  <string name="HIPS_Perm_Read_SMS">Čitanje SMS i MMS poruka</string>
   <string name="HIPS_Perm_Read_SMS_Desc">pročitati vaše SMS poruke</string>
   <string name="HIPS_Perm_Read_SMS_Hint">Ovoliko (%1$s) aplikacija može pročitati vaše SMS poruke</string>
   <string name="HIPS_Perm_Recorder_Audio">Pristup mikrofonu za snimanje zvuka</string>
@@ -409,11 +409,11 @@ Morate flashati MIUI Developer verziju kako bi imali ROOT ovlasti."</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
-  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
-  <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

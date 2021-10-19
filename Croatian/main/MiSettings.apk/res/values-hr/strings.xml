@@ -577,12 +577,14 @@ nije generirana u Drugom prostoru"</string>
   <string name="usage_app_over_content">"Već ste koristili ovu aplikaciju %s danas."</string>
   <string name="usage_app_over_summary">"Dosegli ste svoj limit. Vrijeme je isteklo!"</string>
   <string name="usage_app_set_limit_time">Postavi ograničenje</string>
+  <string name="usage_app_stop_desc">Svi podaci o vremenu korištenja i dopuštenja, uključujući pojedinačne postavke, kao i povezane stavke pohranjene lokalno, bit će izbrisani nakon što isključite ovu značajku.​</string>
   <string name="usage_app_system_app_summary">"Ne mogu ograničiti vrijeme zaslona za aplikacije sustava"</string>
   <string name="usage_app_weekday_limit">Radni dani</string>
   <string name="usage_app_weekend_limit">Vikendi</string>
   <string name="usage_beat_fans">Bolje od %s of Mi Fanova</string>
   <string name="usage_continuous_days">Niz</string>
   <string name="usage_creating_weekly_report">Izrada tjednog izvještaja…</string>
+  <string name="usage_cta_desc">"Dobro došli u Postavke! Da bi vam pružila statistiku o vremenu korištenja zaslona i načinu rada za fokusiranje, ova aplikacija mora prikupiti sljedeće podatke: koliko ste puta otključali uređaj, popis vaših aplikacija zajedno s odgovarajućim trajanjem upotrebe, koliko se puta zaslon zasvijetlio, i postavke načina rada fokusiranja. Prikupljeni podaci bit će pohranjeni samo lokalno na ovom uređaju."</string>
   <string name="usage_current_week_usage">%s u prosjeku u posljednjih 7 dana</string>
   <string name="usage_device_limit_app_prolong">Dodaj vrijeme</string>
   <string name="usage_device_limit_app_prolong_time1">Dodaj 20 minuta</string>

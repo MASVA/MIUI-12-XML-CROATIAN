@@ -213,6 +213,19 @@
         <item>PIN</item>
         <item>Zaporka</item>
     </string-array>
+	<string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Jako mali</item>
+        <item>Mali</item>
+        <item>Srednji</item>
+        <item>Veliki</item>
+        <item>Jako veliki</item>
+        <item>XXL</item>
+    </string-array>
 	<string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>

@@ -486,9 +486,17 @@ Odmorite se!"</item>
          <item quantity="other">"Nisu sinkronizirani statistički podaci o uporabi podataka %d dana"</item>
          <item quantity="one">"Nisu sinkronizirani statistički podaci o uporabi podataka %d dan"</item>
      </plurals>
+	 <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Uključi način fokusiranja za %d min.</item>
+        <item quantity="one">Uključi način fokusiranja za %d minutu</item>
+    </plurals>
 	<plurals name="summary_app_update">
-        <item quantity="other">Ažuriranja dostupna za (%d) aplikacija</item>
+        <item quantity="other">Ažuriranja dostupna za %d aplikacija</item>
         <item quantity="one">Ažuriranja dostupna za %d aplikaciju</item>
+    </plurals>
+	<plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Nakon zaključavanja zaslona za %d min.</item>
+        <item quantity="one">Nakon zaključavanja zaslona za %d min.</item>
     </plurals>
 	<plurals name="notification_checker_installed_apk_text">
         <item quantity="other">Izbriši %d instalacijskih paketa</item>
@@ -1035,5 +1043,13 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
     <plurals name="gtb_setting_item_summary_brightness">
         <item quantity="other">Automatski smanji svjetlinu zaslona radi uštede energije nakon %d min. neaktivnosti</item>
         <item quantity="one">Automatski smanji svjetlinu zaslona radi uštede energije nakon %d min. neaktivnosti</item>
+    </plurals>
+	 <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Zaključaj zaslon nakon %d min.</item>
+        <item quantity="one">Zaključaj zaslon nakon %d min.</item>
     </plurals>
 </resources>

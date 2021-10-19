@@ -260,7 +260,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="input_password_hint">Unesite zaporku</string>
   <string name="internet_access_dspt">Ovoj je aplikaciji potrebno povezivanje s internetom za normalan rad.</string>
   <string name="keybag_create_by_new_passcode_prompt">"Ova zaporka štiti vaše zaporke pohranjene u cloudu. Nećete im moći pristupiti ako zaboravite ovaj pristupni kôd."</string>
-  <string name="keybag_create_by_screen_password_prompt">Ova zaporka štiti vaše zaporke pohranjene u cloudu. Unesite Zaklj. zaslona kako biste ga postavili kao zaporku u Upravitelju zaporki.</string>
+  <string name="keybag_create_by_screen_password_prompt">Ova zaporka štiti vaše zaporke pohranjene u cloudu. Unesite zaporku Zaklj. zaslona kako biste ga postavili kao zaporku u Upravitelju zaporki.</string>
   <string name="keybag_dialog_cancel">Odustani</string>
   <string name="keybag_dialog_ok">U redu</string>
   <string name="keybag_install_by_passcode_prompt">"Ova zaporka štiti vaše zaporke pohranjene u cloudu. Već ste je postavili kada ste uključili sinkronizaciju u cloudu u Upravitelju zaporki."</string>
@@ -862,7 +862,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Mi Cloud ako ne pristanete na njegovu novu verziju &lt;a href=%1$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a>. Slažete li se s ažuriranim Pravilima privatnosti sada?"</string>
   <string name="privacy_policy_reject_confirm_title">Pažnja</string>
   <string name="privacy_policy_revoked_msg">Suglasnost s Pravilima privatnosti tvrtke Mi Cloud povučena je za ovaj račun. Pokušajte upotrijebiti drugi račun.</string>
-  <string name="privacy_policy_update_msg">Ažurirana su pravila o privatnosti Mi Cloud:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
+  <string name="privacy_policy_update_msg">Ažurirana su pravila o privatnosti Mi Cloud-a:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
   <string name="privacy_policy_update_title">Ažurirana Pravila o privatnosti</string>
   <string name="privacy_settings">Privatnost</string>
   <string name="provision_back">Natrag</string>

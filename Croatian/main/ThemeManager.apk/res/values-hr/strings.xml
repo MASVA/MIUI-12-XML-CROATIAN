@@ -82,6 +82,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="app_enable_transparent_wallpaper">Sa transparentnom pozadinom</string>
   <string name="app_name">Teme</string>
   <string name="apply_choosen_type_resource">Postavi odabrane stavke</string>
+  <string name="application_list_permission_desc">Za prikaz aplikacija kompatibilnih s prozirnim pozadinama</string>
   <string name="apply_default_font_tip">"Nastaviti koristiti trenutni font sustava?"</string>
   <string name="apply_failed">"Ne mogu postaviti"</string>
   <string name="apply_font_btn_exclude">Ne sada</string>
@@ -423,6 +424,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="has_mamual_hide_icons">Skrivene ikone</string>
   <string name="has_mamual_hide_theme">Skriveno</string>
   <string name="has_mamual_hide_wallpaper">Skriveno</string>
+  <string name="head_portraits">Fotografija profila</string>
   <string name="hide_free">Sakrij besplatne teme</string>
   <string name="hide_free_aod">"Ne prikazuj besplatne teme"</string>
   <string name="hide_free_font">Sakrij besplatne fontove</string>
@@ -671,6 +673,9 @@ dd.MM"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemi s kompatibilnošću</string>
   <string name="multiwindow_no_support">"Ova radnja nije podržana u podijeljenom zaslonu"</string>
   <string name="multiwindow_no_support_icon">"Ikone se ne mogu promijeniti tijekom korištenja podijeljenog zaslona"</string>
+  <string name="need_to_open_application_permission_desc">Da biste mogli saznati koje su aplikacije kompatibilne s prozirnim pozadinama, dopustite Temama pristup popisu aplikacija instaliranih na vašem uređaju.</string>
+  <string name="need_to_open_permission">Potrebna su dopuštenja</string>
+  <string name="need_to_open_storage_permission_desc">Da biste mogli upotrebljavati i preuzimati stavke u Temama, prvo dopustite aplikaciji pristup pohrani.</string>
   <string name="my_gifts">Pokloni</string>
   <string name="my_gifts_purchased">Kupljeni</string>
   <string name="my_gifts_received">Primljeni</string>
@@ -742,6 +747,7 @@ dd.MM"</string>
   <string name="present_local_themes_subtitle">Prilagodite svoj uređaj</string>
   <string name="present_official_themes">Naš odabir</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
+  <string name="privacy_settings">Privatnost</string>
   <string name="provision_default_theme_title">Zadano</string>
   <string name="provision_loading_tips">Samo trenutak…</string>
   <string name="provision_second_title">Odaberite jednu od nekoliko zadanih tema</string>
@@ -1077,6 +1083,8 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="show_mamual_hide_theme">Prikaži skrivene teme</string>
   <string name="show_mamual_hide_wallpaper">Prikaži skrivene pozadine</string>
   <string name="still_apply">Primjeni</string>
+  <string name="storage_migration_exit_msg">Kako bismo aplikaciju Teme učinili kompatibilnima s nadolazećim verzijama Androida, premjestili smo vaše preuzete stavke na novo mjesto. Ponovno pokrenite aplikaciju da biste primijenili promjene i pogledali preuzeti sadržaj.</string>
+  <string name="storage_permission_denied_desc">Dopustite aplikaciji Teme pristup pohrani za pregled stavki</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>

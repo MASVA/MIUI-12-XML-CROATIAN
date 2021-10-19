@@ -47,6 +47,8 @@
   <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
   <string name="confirm_cancel_task_images">Otkazati slanje slika korisnicima %1$s?</string>
   <string name="copy">Kopiraj</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za prijenos datoteka putem Bluetootha i Wi-Fi-ja</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za slanje i primanje datoteka</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_device_name">Nepoznati uređaj</string>
   <string name="device_name">Naziv uređaja</string>
@@ -117,6 +119,7 @@
   <string name="hide">Sakrij</string>
   <string name="i_know">Razumijem</string>
   <string name="location_enabled">Uključena je usluga lociranja za pronalaženje uređaja u blizini</string>
+  <string name="menu_item_permission_title">Pojedinosti o dopuštenjima</string>
   <string name="menu_item_privacy_title">Pravila o privatnosti</string>
   <string name="mi_drop">Mi Share</string>
   <string name="mishare_folder_in_file_explorer">Datoteke &gt; MiShare</string>

@@ -3877,6 +3877,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="external_ram_dialog_btn_ok">Ponovo pokreni</string>
   <string name="external_ram_dialog_message">Ponovo pokrenite uređaj da biste primijenili promjene.</string>
   <string name="external_ram_dialog_title">Ponovo pokrenite uređaj</string>
+  <string name="external_ram_remind_toast">Prostor za pohranu je pri kraju. Za sada je isključeno proširenje memorije.</string>
   <string name="external_ram_summary">"Dodaj %1$s %2$s RAM-a zauzimajući pohranu. Koristite ovu značajku samo kada je na vašem uređaju dostupno dovoljno prostora za pohranu."</string>
   <string name="external_ram_title">Proširenje memorije</string>
   <string name="external_ram_toast">"Ne možete koristiti proširenje memorije zbog nedovoljnog prostora za pohranu"</string>
@@ -9771,6 +9772,23 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobn
 Prije upotrebe naših usluga, pročitajte i prihvatite naše %s."</string>
   <string name="sos_privacy_dialog_title">Uvjeti i Odredbe</string>
   <string name="sos_privacy_policy">Pravila o privatnosti</string>
+  <string name="sos_privacy_policy_change_endtitle">Pročitajte i prihvatite novu verziju %s prije nego nastavite.</string>
+  <string name="sos_privacy_policy_change_message_reject">"Nećete moći nastaviti koristiti SOS za hitne slučajeve ako ne pristanete na novu verziju Pravila o privatnosti. Slažete li se s ažuriranim %s sada?"</string>
+  <string name="sos_privacy_policy_change_subtitle">SOS Pravila o privatnosti za hitne slučajeve su ažurirana:</string>
+  <string name="sos_privacy_policy_change_title">Pravila o privatnosti su ažurirana</string>
+  <string name="sos_privacy_policy_change_title_reject">"Ne mogu koristiti aplikaciju"</string>
+  <string name="sos_privacy_policy_no_net_button">Razumijem</string>
+  <string name="sos_privacy_policy_no_net_message">Vaš se uređaj mora povezati s mrežom da biste mogli povući suglasnost. Provjerite mrežne postavke i pokušajte ponovo.</string>
+  <string name="sos_privacy_policy_no_net_title">"Ne mogu se povezati s mrežom"</string>
+  <string name="sos_privacy_policy_revoke">Povlačenje suglasnosti</string>
+  <string name="sos_privacy_policy_revoke_message_reject">"Ako nastavite, povući ćete suglasnost na Pravila o privatnosti Emergency SOS -a. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije.
+
+Budući da Emergency SOS pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja sigurnosnih usluga.
+
+Povući suglasnost za %s?"</string>
+  <string name="sos_privacy_policy_revoke_title_reject">Pažnja</string>
+  <string name="sos_privacy_revoke_failed_dialog_content">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="sos_privacy_revoke_failed_dialog_title">"Ne mogu povući suglasnost"</string>
   <string name="sound_assist_summary">Prilagodite svoje postavke zvuka</string>
   <string name="sound_assist_title">Zvučni pomoćnik</string>
   <string name="sound_category_call_ringtone_vibrate_title">Melodija zvona i vibriranje za poziv</string>

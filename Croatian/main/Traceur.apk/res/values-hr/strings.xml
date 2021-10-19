@@ -21,10 +21,10 @@
   <string name="abc_search_hint">Pretražite…</string>
   <string name="abc_searchview_description_clear">Izbriši upit</string>
   <string name="abc_searchview_description_query">Upit za pretraživanje</string>
-  <string name="abc_searchview_description_search">Pretraži</string>
+  <string name="abc_searchview_description_search">Pretraživanje</string>
   <string name="abc_searchview_description_submit">Pošalji upit</string>
   <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
-  <string name="abc_shareactionprovider_share_with">Dijeli s</string>
+  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="accessibility_banner_message_dismiss">Odbaci</string>
