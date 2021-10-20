@@ -612,16 +612,24 @@
         <item quantity="other">%1$s, %2$s stavki</item>
         <item quantity="one">%1$s, %2$s stavka</item>
     </plurals>
+	<plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d odabranih stavki bit će trajno izbrisano iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</item>
+        <item quantity="one">%d odabrana stavka bit će trajno izbrisana iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</item>
+    </plurals>
 	 <plurals name="trash_purge_dialog_message_image">
-        <item quantity="other">"Nećete biti u mogućnosti vratiti odabrane stavke (%d) ako ih izbrišete. Izbrisati svejedno?"</item>
+        <item quantity="other">"Nećete biti u mogućnosti vratiti %d odabranih stavki ako ih izbrišete. Izbrisati svejedno?"</item>
         <item quantity="one">"Nećete biti u mogućnosti vratiti %d odabranu stavku ako je izbrišete. Izbrisati svejedno?"</item>
     </plurals>
+	<plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d odabranih stavki bit će trajno izbrisano. Izbrisati svejedno?</item>
+        <item quantity="one">%d odabrana stavka bit će trajno izbrisana. Izbrisati svejedno?</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_media">
-        <item quantity="other">"Nećete biti u mogućnosti vratiti odabrane stavke (%d) ako ih izbrišete. Izbrisati svejedno?"</item>
+        <item quantity="other">"Nećete biti u mogućnosti vratiti %d odabranih stavki ako ih izbrišete. Izbrisati svejedno?"</item>
         <item quantity="one">"Nećete biti u mogućnosti vratiti %d odabranu stavku ako je izbrišete. Izbrisati svejedno?"</item>
     </plurals>
     <plurals name="trash_purge_dialog_message_video">
-        <item quantity="other">"Nećete biti u mogućnosti vratiti odabrane stavke (%d) ako ih izbrišete. Izbrisati svejedno?"</item>
+        <item quantity="other">"Nećete biti u mogućnosti vratiti %d odabranih stavki ako ih izbrišete. Izbrisati svejedno?"</item>
         <item quantity="one">"Nećete biti u mogućnosti vratiti %d odabranu stavku ako je izbrišete. Izbrisati svejedno?"</item>
     </plurals>
     <plurals name="trash_vip_info_text_login">

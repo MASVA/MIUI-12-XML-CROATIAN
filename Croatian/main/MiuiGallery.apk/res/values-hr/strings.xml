@@ -643,6 +643,8 @@
   <string name="delete_unsynced">Izbriši stavke koje nisu pohranjene</string>
   <string name="deny">Odbaci</string>
   <string name="detail_title">Pojedinosti</string>
+  <string name="device_list_all">Svi uređaji</string>
+  <string name="device_list_more">Više</string>
   <string name="device_offline">Drugi je uređaj isključen. Počnite iz početka.</string>
   <string name="device_status_failed">"Ne mogu poslati"</string>
   <string name="device_status_sending">Slanje…</string>
@@ -1158,6 +1160,9 @@ za fotografije"</string>
   <string name="grant_permission_unlock_and_set">Otključaj i postavi</string>
   <string name="grant_permission_unlock_and_set_2">Otključaj</string>
   <string name="grant_permission_write_clipboard">Da biste mogli kopirati stavke, dopustite ovoj aplikaciji spremanje stavki u međuspremnik.</string>
+  <string name="group_header_title_immutable_album">Organizirajte fotografije</string>
+  <string name="group_header_title_third_album">Više albuma</string>
+  <string name="group_header_title_user_create_album">Moji albumi</string>
   <string name="grayscale">Tonovi sive</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
   <string name="have_known">Razumijem</string>
@@ -1167,6 +1172,8 @@ za fotografije"</string>
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
   <string name="home_menu_art_still">Umjetnost</string>
+  <string name="home_menu_all_photos">Prikaži sve stavke</string>
+  <string name="home_menu_camera">Prikaži samo stavke Kamere</string>
   <string name="home_menu_cleaner">Oslobodite prostor</string>
   <string name="home_menu_collage">Kolaž</string>
   <string name="home_menu_id_photo">ID</string>
@@ -1236,6 +1243,8 @@ za fotografije"</string>
   <string name="input_or_select_a_name">Unesite ili odaberite ime</string>
   <string name="input_relation_name">Unesi naziv grupe</string>
   <string name="install_fail">"Ne mogu učitati dodatak zbog pogreške."</string>
+  <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
+  <string name="install_media_editor_title">Preuzmi dodatak</string>
   <string name="internal_storage_device">Unutarnja pohrana</string>
   <string name="invalid_invition_url">Neispravan URL pozivnice.</string>
   <string name="invalid_recipient_message">Imena primatelja koje ste unijeli su nevažeća</string>
@@ -1409,6 +1418,18 @@ za fotografije"</string>
   <string name="main_save_origin">Spremi originalnu datoteku</string>
   <string name="manual_hide_manage">Dodaj \".nomedia\" datoteke</string>
   <string name="manual_hide_state">Datoteke \".nomedia\" uspješno dodane</string>
+  <string name="map_album">Karta</string>
+  <string name="map_album_detail_page_title">Lokacija</string>
+  <string name="map_enable_position_service_message">Za pregled fotografija i videozapisa na karti prvo uključite usluge lokacije.</string>
+  <string name="map_enable_position_service_title">Uključite usluge lokacije</string>
+  <string name="map_grant_position_permission_after_declined_twice_message">Za pregled fotografija i videozapisa na karti dopustite Galeriji da najprije pristupi vašoj lokaciji.</string>
+  <string name="map_grant_position_permission_subtitle">Za prikazivanje obližnjih fotografija i videozapisa na karti</string>
+  <string name="map_guide_message">Pogledajte svoje fotografije i videozapise na karti</string>
+  <string name="map_positioning_failed_tip">"Ne mogu se dobiti informacije o lokaciji zbog slabog signala"</string>
+  <string name="map_privacy_dialog_message"><Data>Ova usluga omogućuje vam pregled fotografija i videozapisa s podacima o lokaciji na karti. Za pružanje ove usluge koristimo Baidu Map Open SDK. Pročitajte &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> da biste saznali više.</Data></string>
+  <string name="map_privacy_dialog_title">Karta galerije</string>
+  <string name="map_privacy_policy">Pravila o privatnosti Karta galerije</string>
+  <string name="map_privacy_policy_1">Pravila o privatnosti</string>
   <string name="mark_myself_default_name">Ja</string>
   <string name="mark_myself_suggestion_load_more">"To nisam ja"</string>
   <string name="mark_myself_suggestion_title">"Odaberite fotografije s vašim licem\n da osobno prilagodite Galeriju"</string>
@@ -1443,6 +1464,8 @@ za fotografije"</string>
   <string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
   <string name="midnight">Ponoć</string>
   <string name="mishare_all_devices">Svi uređaji</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -1457,6 +1480,7 @@ za fotografije"</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -1922,8 +1946,11 @@ za fotografije"</string>
   <string name="photo_print_menu_loading">Učitavanje dodatka…</string>
   <string name="photo_print_package_finish">Uspješno učitan dodatak ispisa…</string>
   <string name="photo_print_package_installing">Učitavanje dodatka…</string>
+  <string name="photo_purge_dialog_message_cloud">Odabrane stavke bit će trajno izbrisane iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
   <string name="photo_purge_dialog_message_image">"Nećete biti u mogućnosti vratiti odabrane stavke ako ih izbrišete. Izbrisati svejedno?"</string>
+  <string name="photo_purge_dialog_message_local">Odabrane stavke bit će trajno izbrisane. Izbrisati svejedno?</string>
   <string name="photo_purge_dialog_message_video">"Nećete biti u mogućnosti vratiti odabranu stavku ako je izbrišete. Izbrisati svejedno?"</string>
+  <string name="photo_purge_dialog_title">Izbriši odabrane stavke</string>
   <string name="photo_save_succeed">Uspješno spremljeno</string>
   <string name="photo_save_to_msg">Spremljeno u %s</string>
   <string name="photo_size_not_support">"Ova rezolucija slike nije podržana"</string>
@@ -2656,7 +2683,10 @@ za fotografije"</string>
   <string name="trash_empty">Ovdje nema stavki.</string>
   <string name="trash_menu_delete">Izbriši</string>
   <string name="trash_menu_recovery">Vrati</string>
-  <string name="trash_purge_all">"Sve fotografije i videozapisi bit će izbrisani iz Mi Clouda. Nećete ih moći vratiti. Svejedno izbrisati?"</string>
+  <string name="trash_purge_all">"Sve fotografije i videozapisi bit će izbrisani iz Mi Clouda. Nećete ih moći vratiti. Izbrisati svejedno?</string>
+  <string name="trash_purge_all_cloud">Sve stavke u smeću trajno će se izbrisati iz Clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
+  <string name="trash_purge_all_local">Sve stavke u smeću bit će trajno izbrisane. Izbrisati svejedno?</string>
+  <string name="trash_purge_dialog_title">Očisti smeće</string>
   <string name="trash_purge_positive_button">Izbriši</string>
   <string name="trash_size">Izbrisane stavke (%s)</string>
   <string name="trash_vip_button_login">Produži</string>

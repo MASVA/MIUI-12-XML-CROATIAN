@@ -1587,8 +1587,8 @@ dd.MM."</string>
   <string name="lock_screen_signature_msg">Prikaži potpis na Zaklj. zaslonu</string>
   <string name="lock_screen_signature_title">Podaci o vlasniku na Zaklj. zaslonu</string>
   <string name="lockscreen_access_pattern_area">Područje uzorka.</string>
-  <string name="lockscreen_access_pattern_cell_added">Ćelija dodana</string>
-  <string name="lockscreen_access_pattern_cell_added_verbose">Ćelija %1$s dodana</string>
+  <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
+  <string name="lockscreen_access_pattern_cell_added_verbose">Mobitel %1$s dodan</string>
   <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
   <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
   <string name="lockscreen_access_pattern_start">Uzorak započet</string>

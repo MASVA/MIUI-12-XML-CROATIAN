@@ -47,6 +47,7 @@
   <string name="added_category">Dodano</string>
   <string name="adding_upload_tasks">Učitavam zadatke…</string>
   <string name="aggree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
+  <string name="agree">Slažem se</string>
   <string name="album_creator">Izradio %s</string>
   <string name="album_name">Dnevni izbor: %s</string>
   <string name="all_topic">Sve teme</string>
@@ -333,6 +334,7 @@
   <string name="error_invalid_path">Netočna putanja</string>
   <string name="error_not_support">Nije podržano</string>
   <string name="error_open_file_failed_no_app_found">Nema nađenih aplikacija za izvršenje ove radnje.</string>
+  <string name="exit">Izlaz</string>
   <string name="exo_controls_fastforward_description">Brzo naprijed</string>
   <string name="exo_controls_next_description">Sljedeća pjesma</string>
   <string name="exo_controls_pause_description">Pauza</string>
@@ -815,6 +817,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="oauth_success_tip">Uspješno autorizirano</string>
   <string name="one_account_bind_needed">Dodajte barem jedan račun</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku u ovom trenutku."</string>
+  <string name="open_or_close_wlan">Uključite i isključite Wi-Fi</string>
   <string name="only_wifi">Preuzmi kad je povezano na Wi-Fi</string>
   <string name="open_app">Otvori</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete slijedeće:
@@ -913,6 +916,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="path_recent_file">Upravljaj datotekama na uređaju</string>
   <string name="paused">Pauzirano</string>
   <string name="permission_denial">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama."</string>
+  <string name="permission_description">Pojedinosti o dopuštenjima</string>
   <string name="permission_required">"Nije moguće pristupiti datotekama. Dopustite aplikaciji Datoteke pristup datotekama u Postavkama.​"</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Unutarnja pohrana</string>
