@@ -326,7 +326,6 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="manual_connection_hint">Dodirnite \"Poveži se ručno\" na vašem starom uređaju.</string>
   <string name="manual_connection_title">Povežite stari uređaj na ovaj hotspot</string>
   <string name="manual_connection_summary2">"Ako ne možete pronaći ovaj hotspot, osvježite popis dostupnih Wi-Fi mreža i pokušajte ponovno."</string>
-  <string name="manual_connection_title">Ručno se povežite sa starim uređajem</string>
   <string name="message_request_package_stats_perm">Mi Mover treba ovo dopuštenje da bi saznao koje su aplikacije instalirane na uređaju i prebacio ih na drugi.</string>
   <string name="midnight">AM</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
