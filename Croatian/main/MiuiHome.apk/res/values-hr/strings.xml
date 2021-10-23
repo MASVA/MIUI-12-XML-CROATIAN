@@ -753,7 +753,7 @@
   <string name="unknown_artist_name">Nepoznati izvođač</string>
   <string name="unnamed_folder_name">Mapa</string>
   <string name="unstable_dialog_content">"Ovo je testna verzija sustava Android, te je podložna promjenama. Korištenje ove verzije uređena je licencnim ugovorom za pregled SDK za Android. Testna verzija sustava Android nije stabilno izdanje i može sadržavati pogreške i nedostatke koji mogu dovesti do oštećenja računalnih sustava, uređaja ili podataka. Testna verzija sustava Android ne podliježe istom testiranju kao tvornički OS i može uzrokovati prestanak rada ovog uređaja, instaliranih usluga ili aplikacija."</string>
-  <string name="unstable_dialog_message">Ovaj je uređaj upisan u Android 11 Developer Preview Program. Program omogućuje Android programerima i entuzijastima da isprobaju inačice prije izdanja Androida 11. Ova verzija prije izdanja može sadržavati pogreške i nedostatke koji mogu utjecati na normalno funkcioniranje vašeg uređaja.</string>
+  <string name="unstable_dialog_message">Ovaj je uređaj upisan u Android 12 Developer Preview Program. Program omogućuje Android programerima i entuzijastima da isprobaju inačice prije izdanja Androida 12. Ova verzija prije izdanja može sadržavati pogreške i nedostatke koji mogu utjecati na normalno funkcioniranje vašeg uređaja.</string>
   <string name="unstable_dialog_title">Android Developer Preview Program</string>
   <string name="use_theme_screen_cells_title">Dopusti temi da poništi izgled zaslona</string>
   <string name="v7_preference_off">ISKLJUČENO</string>

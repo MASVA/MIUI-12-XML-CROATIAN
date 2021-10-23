@@ -156,6 +156,8 @@
   <string name="cm_privacy_dialog_spannable_tips">Pravila o Privatnosti</string>
   <string name="cm_privacy_dialog_tips">"Usluga pametnih poruka pruža vaš mobilni operater. Poruke se trebaju povezati s internetom i pristupiti vašoj lokaciji kako bi pružile te usluge. Prije nego počnete upotrebljavati te usluge, morate pristati na %1s vašeg mob. operatera. Slažete li se?"</string>
   <string name="cm_privacy_dialog_title">Pažnja</string>
+  <string name="cn_privacy_dialog_title">Pažnja</string>
+  <string name="cn_privacy_update_dialog_title">Ažurirana Pravila o privatnosti</string>
   <string name="complain_input_number">Unesite svoj broj telefona</string>
   <string name="complain_jump">Preskoči</string>
   <string name="complain_message_title">Prijavi</string>
@@ -245,6 +247,8 @@
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
+  <string name="dialog_agree">Slažem se</string>
+  <string name="dialog_cancel">Odustani</string>
   <string name="dialog_choice_all_correct_as_normal">Sve poruke od %s</string>
   <string name="dialog_complain_tips">Dopustite aplikaciji Poruke da se poveže s mrežom da bi mogao prijavljivati stavke.</string>
   <string name="dialog_message_correct_as_ad">Sve poruke od %s (osim kontrolnih kodova) premjestit će se u promotivne poruke.</string>
@@ -258,6 +262,8 @@
   <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogućuje slanje poruka drugim korisnicima China Mobilea bez naplate troškova. Morate prihvatiti naše \"%1$s\" and \"%2$s\" prije korištenja China Mobile Messaging. Poruke se trebaju povezati s internetom i pristupiti vašoj lokaciji kako bi pružili Smart Messaging, prepoznati ID-a pošiljatelja i druge usluge. Prihvaćate?</string>
   <string name="dialog_message_rcs">China Mobile Messaging vam omogućuje slanje poruka drugim korisnicima China Mobilea bez naplate troškova. Morate prihvatiti naše \"%1$s\" and \"%2$s\" prije korištenja China Mobile Messaging. Prihvaćate?</string>
   <string name="dialog_message_sms_report">"Spam poruke i informacije o pošiljatelju bit će poslane MIUI kada ih prijavite. One će se koristiti samo za poboljšanje MIUI spam filtera."</string>
+  <string name="dialog_quit">Izlaz</string>
+  <string name="dialog_revoke">Povuci</string>
   <string name="dialog_sim_locked_confirm">U redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodala uređaj."</string>
   <string name="dialog_smart_message_privacy_tips">Usluge Pametnih poruka nudi Dianhuabang. Prije upotrebe Pametnih poruka morate se složiti sa \"%1$s\". Pametne poruke moraju se povezati s internetom i pristupiti vašoj lokaciji kako bi radile normalno. Slažete li se?</string>
@@ -516,6 +522,8 @@ Provjerite svoju SIM karticu."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mms">MMS</string>
+  <string name="mms_5g_mms_privacy_policy">Politika o privatnosti 5G poruka</string>
+  <string name="mms_5g_mms_privacy_policy_revoke">Povlačenje suglasnosti Pravila o privatnosti 5G poruka</string>
   <string name="mms_block_alert_message">Sve MMS poruke osim poruka poslanih od ovlaštenih pošiljatelja bit će blokirani. Ovlašteni pošiljatelji uključuju mrežne operatere, državne sustave za rezervaciju željeznica itd.</string>
   <string name="mms_block_alert_ok">Blokiraj</string>
   <string name="mms_block_alert_title">Blokiraj MMS</string>
@@ -644,6 +652,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="mx_on_sim_2">Mi Poruka sa SIM utora 2</string>
   <string name="mx_online">Aktivirano</string>
   <string name="mx_privacy_policy">Mi Message Pravila o Privatnosti</string>
+  <string name="mx_privacy_policy_revoke">Povlačenje suglasnosti Pravila o privatnosti Mi poruka</string>
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
   <string name="mx_stranger_recommend_msg">Dodirni za blokiranje Mi Poruka od nepoznatih brojeva</string>
@@ -708,6 +717,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="perm_purpose_rcs_account">"Za prikazivanje početnih vodiča novim korisnicima"</string>
   <string name="perm_purpose_rcs_phone_state">Za pristup IMEI radi identifikacije vašeg uređaja</string>
   <string name="perm_purpose_rcs_storage">Za spremanje slika, videozapisa, datoteka i ostalih RCS privitaka</string>
+  <string name="permission_new_retry_dialog_msg">Aplikacija Poruke treba pristupiti kontaktima da bi mogla normalno raditi. Dopuštenja možete promijeniti u Postavke &gt; Aplikacije &gt; Postavke aplikacije sustava.</string>
   <string name="permission_retry_deny">Odustani</string>
   <string name="permission_retry_dialog_msg">Aplikacija Poruke treba dopuštenje da bi mogla normalno raditi. Da odobrite potrebna dopuštenja, dodirnite \"Postavke\", odaberite \"Dopuštenja aplikacije\", i omogućite aplikaciji pristup telefonu, SMS-u i kontaktima.</string>
   <string name="permission_retry_setting">Postavke</string>
@@ -777,6 +787,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_ad_mms_recognition">Prepoznaj promotivne poruke</string>
   <string name="pref_title_allow_si_sl_push">Dopustiti WAP push poruke (SI/SL)</string>
   <string name="pref_title_allow_upload_message_info">Pošalji spam poruke</string>
+  <string name="pref_title_authority_management">Pojedinosti o dopuštenjima</string>
   <string name="pref_title_auto_delete">Izbriši stare poruke</string>
   <string name="pref_title_card_format">Format dijeljenja kartice</string>
   <string name="pref_title_collapse_ad_notification">Grupne obavijesti o promotivnim porukama</string>
@@ -796,6 +807,17 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_mms_validity_period">Valjanost MMS-a</string>
   <string name="pref_title_msg_blocked">Lista blokiranih</string>
   <string name="pref_title_notification_body_enabled">Prikaži obavijest na Zaklj. zaslonu</string>
+  <string name="pref_title_perm_audio">Snimiti zvuk</string>
+  <string name="pref_title_perm_calander">Pristupiti kalendaru</string>
+  <string name="pref_title_perm_call">Upućivati pozive</string>
+  <string name="pref_title_perm_camera">Koristiti kameru</string>
+  <string name="pref_title_perm_location">Lokacija</string>
+  <string name="pref_title_perm_read_call_log">Pristupiti povijesti poziva</string>
+  <string name="pref_title_perm_read_contacts">Pristupiti kontaktima</string>
+  <string name="pref_title_perm_read_mms">Pročitati SMS</string>
+  <string name="pref_title_perm_send_mms">Poslati SMS</string>
+  <string name="pref_title_perm_storage">Pristupiti pohrani</string>
+  <string name="pref_title_perm_write_contacts">Urediti kontakte</string>
   <string name="pref_title_privacy_authority">Autorizacija</string>
   <string name="pref_title_privacy_policy_detail">Pravila o Privatnosti</string>
   <string name="pref_title_ringtone_repeat">Zvukovi obavijesti</string>
@@ -820,6 +842,16 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="priority_label">"Prioritet: "</string>
   <string name="priority_low">Niski</string>
   <string name="priority_normal">Normalni</string>
+  <string name="privacy_dialog_error_service">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="privacy_dialog_text_policy_link">Pravila o privatnosti</string>
+  <string name="privacy_dialog_tips_revoke" formatted="false">"Ako nastavite, povući ćete pristanak na Pravila o privatnosti tvrtke %s. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da %s pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga %s. Povući sada suglasnost?"</string>
+  <string name="privacy_dialog_tips_update" formatted="false">"%s Pravila o privatnosti su ažurirana:
+%s
+Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nastavite."</string>
+  <string name="privacy_dialog_tips_update_confim" formatted="false">"Nećete moći nastaviti koristiti %s osim ako ne pristanete na novu verziju Pravila o privatnosti %s. Slažete li se sada s ažuriranim Pravilima o privatnosti?"</string>
+  <string name="privacy_dialog_title_revoke_confim">Povlačenje suglasnosti</string>
+  <string name="privacy_dialog_title_update">Ažurirana Pravila o privatnosti</string>
+  <string name="privacy_dialog_title_update_confim">"Ne mogu koristiti aplikaciju"</string>
   <string name="privacy_mode_hint">"Ne mogu slati poruke u Gost načinu rada"</string>
   <string name="privacy_password_message1">Zaporka zaštite privatnosti funkcionira za fotografije, bilješke i skrivene mape.</string>
   <string name="privacy_password_message2">Koristi Zaporku zaštite privatnosti. Funkcionira za fotografije, bilješke i skrivene mape</string>
@@ -830,6 +862,10 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="privacy_password_title3">Nadogradite vašu zaporku</string>
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_policy_name_5g_mms">5G Poruke</string>
+  <string name="privacy_policy_name_mms">Poruke</string>
+  <string name="privacy_policy_name_smart_sms">Pametne poruke</string>
+  <string name="privacy_policy_name_websms">Mi Poruka</string>
   <string name="privacy_revoke_nonetwork_msg">Vaš uređaj mora se povezati s mrežom da biste mogli povući pristanak. Provjerite mrežne postavke i pokušajte ponovo.</string>
   <string name="privacy_revoke_nonetwork_ok">Razumijem</string>
   <string name="privacy_revoke_nonetwork_title">"Ne mogu se povezati na mrežu"</string>
@@ -1085,6 +1121,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="smart_messages_network_allow_title">Internetska veza je obavezna</string>
   <string name="smart_msg_main_purpose">Smart Poruka pruža prepoznavanje ID-a pošiljatelja i usluge pametnog izbornika.</string>
   <string name="smart_msg_privacy_policy">Smart Poruka Pravila o Privatnosti</string>
+  <string name="smart_msg_privacy_policy_revoke">Povlačenje suglasnosti na Pravila o privatnosti Pametnih poruka</string>
   <string name="smart_msg_upgrade_main_purpose">"Smart Messaging sada rade s MMS -om. Moći ćete koristiti više usluga koje pružaju pošiljatelji, kao i primati poruke u novim formatima."</string>
   <string name="sms_card_partner_label">"SMS kartica partnera: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
@@ -1161,10 +1198,37 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="system_permission_declare_single_link">Pročitajte i pristanite na naše %1s prije upotrebe ove značajke.</string>
   <string name="system_permission_declare_triple_link" formatted="false">Pročitajte i pristanite na naše %1s, %2s, i %3s prije upotrebe ove značajke.</string>
   <string name="system_permission_declare_use_network">Povežite se na mrežu</string>
+  <string name="system_permission_disabled">Nije odobreno</string>
+  <string name="system_permission_enabled">Odobreno</string>
+  <string name="system_permission_perm_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i dodijelite izborna dopuštenja za korištenje svih njezinih značajki.</string>
+  <string name="system_permission_perm_all_purpose">Dobro došli u Poruke! Ovu aplikaciju možete koristiti za slanje i primanje tekstualnih i multimedijskih poruka.</string>
   <string name="system_permission_perm_answer_call">Upućivanje poziva</string>
+  <string name="system_permission_perm_calendar">Za kreiranje kalendarskih događaja</string>
+  <string name="system_permission_perm_call_log">Za pristup vašim nedavnim kontaktima prilikom kreiranja poruka</string>
+  <string name="system_permission_perm_call_phone">Za upućivanje poziva</string>
+  <string name="system_permission_perm_copy_menu_text">Za pristup stavkama kopiranim u međuspremnik</string>
+  <string name="system_permission_perm_email">Za kreiranje i slanje e -pošte</string>
+  <string name="system_permission_perm_get_account">Za cloud sig. kopiranje</string>
+  <string name="system_permission_perm_get_phone_state">Za pristup telefonskom broju i statusu uređaja</string>
+  <string name="system_permission_perm_location">Za pristup i dijeljenje vaše lokacije</string>
+  <string name="system_permission_perm_new_read_sms">Za pristup sadržaju poruke</string>
+  <string name="system_permission_perm_new_receive_mms">Za pristup sadržaju poruke</string>
+  <string name="system_permission_perm_paste_menu_text">Za pristup i spremanje stavki u međuspremnik</string>
+  <string name="system_permission_perm_rcs_call_phone">Za odgovaranje, završetak i praćenje poziva</string>
+  <string name="system_permission_perm_read_contact">Za pristup kontaktima prilikom kreiranja poruka</string>
   <string name="system_permission_perm_read_mms">Čitanje MMS-a</string>
   <string name="system_permission_perm_read_numbers">Čitanje brojeva telefona</string>
+  <string name="system_permission_perm_read_sms">Dopustite aplikaciji Poruke čitanje SMS-a</string>
+  <string name="system_permission_perm_record_audio">Za snimanje zvuka</string>
   <string name="system_permission_perm_send_mms">Slati MMS</string>
+  <string name="system_permission_perm_send_sms">Za slanje tekstualnih poruka</string>
+  <string name="system_permission_perm_sms">Za pregled i slanje poruka</string>
+  <string name="system_permission_perm_storage">Za pregled, slanje i pohranjivanje datoteka</string>
+  <string name="system_permission_perm_takephoto">Za snimanje fotografija i videozapisa</string>
+  <string name="system_permission_perm_write_contact">Za stvaranje i uređivanje kontakata</string>
+  <string name="system_permission_perm_write_mms">Dopustite aplikaciji Poruke pisanje MMS-a</string>
+  <string name="system_permission_perm_write_sms">Dopustite aplikaciji Poruke pisanje SMS-a</string>
+  <string name="system_permission_requested">Pitaj</string>
   <string name="tab_finance">Financije</string>
   <string name="tab_message">Poruke</string>
   <string name="tab_promotions">Promocije</string>
@@ -1199,9 +1263,19 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="to_label">"Prima "</string>
   <string name="to_send_wrapper">Poslano će biti u %s</string>
   <string name="toast_failed_to_close_priv_auth">"Autorizaciju nije moguće opozvati. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="toast_new_not_show_microphone_perm_req">Dopustite aplikaciji Poruke pristup mikrofonu za korištenje ove značajke</string>
+  <string name="toast_not_show_account_perm_req">Dopustite aplikaciji Poruke pristup računima pohranjenim na vašem uređaju za korištenje ove značajke</string>
+  <string name="toast_not_show_calendar_perm_req">Dopustite aplikaciji Poruke pristup Kalendaru za korištenje ove značajke</string>
+  <string name="toast_not_show_call_log_perm_req">Dopustite aplikaciji Poruke pristup vašoj povijesti poziva za korištenje ove značajke</string>
+  <string name="toast_not_show_call_perm_req">Dopustite aplikaciji Poruke upućivanje poziva za korištenje ove značajke</string>
   <string name="toast_not_show_camera_perm_req">Dopustite aplikaciji Poruke korištenje kamere da bi mogla koristiti ovu značajku</string>
+  <string name="toast_not_show_clipboard_perm_req">Dopustite aplikaciji Poruke pristup međuspremniku za korištenje ove značajke</string>
+  <string name="toast_not_show_email_perm_req">Dopustite aplikaciji Poruke pristup vašoj e-pošti za korištenje ove značajke</string>
+  <string name="toast_not_show_location_perm_req">Dopustite aplikaciji Poruke pristup vašoj lokaciji da biste koristili ovu značajku</string>
   <string name="toast_not_show_microphone_perm_req">Dopustite aplikaciji Poruke korištenje mikrofona da bi mogla koristiti ovu značajku</string>
+  <string name="toast_not_show_send_sms_perm_req">Da biste mogli koristiti ovu značajku, dopustite najprije ovoj aplikaciji slanje poruka.</string>
   <string name="toast_not_show_storage_perm_req">Dopustite aplikaciji Poruke pristup pohrani da bi mogla koristiti ovu značajku</string>
+  <string name="toast_not_show_write_contacts_perm_req">Dopustite aplikaciji Poruke uređivanje kontakata za korištenje ove značajke</string>
   <string name="toast_pending_hangup_msg">Poruka će biti poslana nakon završetka poziva</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>

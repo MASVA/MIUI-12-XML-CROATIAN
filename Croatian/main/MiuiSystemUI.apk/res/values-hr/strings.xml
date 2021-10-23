@@ -140,7 +140,8 @@
   <string name="accessibility_detail_switch_disable">Nije dostupno</string>
   <string name="accessibility_detail_switch_off">Isključeno</string>
   <string name="accessibility_detail_switch_on">Uključeno</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Korekcija boje omogućuje vam prilagodbu načina prikazivanja boja na vašem uređaju</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Korekcija boje omogućuje vam prilagodbu načina prikazivanja boja na vašem uređaju. 
+  Ovo može biti od pomoći kada želite:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Vidjeti boje preciznije&lt;/li> &lt;li>&amp;nbsp;Ukloniti boje kako biste se lakše fokusirali&lt;/li> &lt;/ol></string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija boja</string>
   <string name="accessibility_divider">Razdjelnik podijeljenog zaslona</string>
   <string name="accessibility_drag_hint_message">Povucite stavke na vrh zaslona</string>
@@ -181,7 +182,7 @@
   <string name="accessibility_keyboard_letter_board_shift2symbol_button">Simboli</string>
   <string name="accessibility_keyboard_ok_button">Enter</string>
   <string name="accessibility_keyboard_symbol_board_shift2letter_button">Slova</string>
-  <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Symbols lock</string>
+  <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Zaklj. simbola</string>
   <string name="accessibility_keyguard_face_unlock_view">Otklj. licem</string>
   <string name="accessibility_left_control_center_button">Prečac</string>
   <string name="accessibility_left_lock_screen_magazine_button">Wallpaper Carousel</string>
@@ -200,7 +201,7 @@
   <string name="accessibility_multi_user_switch_switcher">Promjena korisnika</string>
   <string name="accessibility_multi_user_switch_switcher_with_current">Promjena korisnika, trenutačni korisnik %s</string>
   <string name="accessibility_no_battery">Nema baterije.</string>
-  <string name="accessibility_no_calling">Bez poziva.</string>
+  <string name="accessibility_no_calling">Nema poziva.</string>
   <string name="accessibility_no_data">Nema podataka.</string>
   <string name="accessibility_no_phone">Nema telefona.</string>
   <string name="accessibility_no_signal">Nema signala.</string>

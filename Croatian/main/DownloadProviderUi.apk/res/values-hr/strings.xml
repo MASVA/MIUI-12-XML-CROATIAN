@@ -85,6 +85,7 @@
   <string name="copy_info">Kopirano u međuspremnik. Možete podijeliti s prijateljima!</string>
   <string name="creat_task_success">Dodano na red za preuzimanje</string>
   <string name="create_task">Izradi zadatak</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za preuzimanje stavki, kao i za prikaz i upravljanje preuzimanjima</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="delete">Izbriši</string>
   <string name="delete_download">Izbriši</string>
@@ -114,6 +115,9 @@
   <string name="dialog_media_not_found">Spojite vanjski prostor za pohranu da preuzmete.</string>
   <string name="dialog_msg_disabled_net">%1$s ograničava preuzimanja za trenutnu mrežu. Dodirnite Postavke mreže za odlazak u aplikaciju Sigurnost.</string>
   <string name="dialog_msg_recommend">"Nećete biti u mogućnosti vidjeti preporučene izvore nakon isključivanja. Možete odabrati \"Učitaj kada je povezano na Wi-Fi\" da uštedite mobilne podatke."</string>
+  <string name="dialog_privacy_update_button1">Odustani</string>
+  <string name="dialog_privacy_update_button2">Slažem se</string>
+  <string name="dialog_privacy_update_title">Ažurirana Pravila o privatnosti</string>
   <string name="dialog_queued_body">Datoteka je dodata u red i uskoro će se preuzeti.</string>
   <string name="dialog_speed_cancel">Odustani</string>
   <string name="dialog_speed_msg">Uporaba mobilnih podataka za testiranje mreže može prouzrokovati velike količine mobilnih podataka. Svejedno nastaviti?</string>
@@ -123,6 +127,10 @@
   <string name="dialog_title_not_available">Preuzimanje nije uspjelo.</string>
   <string name="dialog_title_queued_body">Datoteka još nije spremna</string>
   <string name="dialog_title_recommend">Isključi preporučene izvore</string>
+  <string name="dialog_user_know_button1">Izlaz</string>
+  <string name="dialog_user_know_button2">Slažem se</string>
+  <string name="dialog_user_know_content">&lt;Data&gt;"Nećete moći nastaviti koristiti ovu značajku ako ne pristanete na novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Slažete li se sada s ažuriranim Pravilima o privatnosti?"&lt;/Data&gt;</string>
+  <string name="dialog_user_know_title">Pažnja</string>
   <string name="disable">Isključeno</string>
   <string name="display_expire_netiv1">Ovaj mjesec</string>
   <string name="do_not_support_url">"Ova vrsta poveznice nije podržana"</string>
@@ -338,9 +346,9 @@
   <string name="notify_install_guide_title">%s uspješno instaliran</string>
   <string name="notify_not_support">"Takve obavijesti nisu podržane, ažurirajte sada"</string>
   <string name="notify_only_wifi_download">Čekanje na Wi-Fi</string>
+  <string name="ok">U redu</string>
   <string name="one_month">1 mjesec</string>
   <string name="only_support_torrent">Samo su podržane torrent datoteke</string>
-  <string name="ok">U redu</string>
   <string name="open">Otvori</string>
   <string name="open_download">Otvori</string>
   <string name="open_folder">Otvori mapu</string>
@@ -366,9 +374,11 @@
   <string name="paused_waiting_to_retry">Čekam ponovni pokušaj</string>
   <string name="percent_title">Preuzelo %1$s osoba</string>
   <string name="period_of_validity">"Valjanost: "</string>
+  <string name="permission">Dopuštenja</string>
   <string name="pref_download_revert_default">Spremi na zadanu lokaciju</string>
   <string name="pref_download_settings_title">Preuzimanje putem mob. podataka je ograničeno</string>
   <string name="pref_download_storage_path">Spremi na moju lokaciju</string>
+  <string name="pref_permission_description">Pojedinosti o dopuštenjima</string>
   <string name="pref_sniff_shortcut">Izradi Prečac Poč. zaslona za pretraživanje weba</string>
   <string name="pref_summary_any_bytes_popup">Uvijek čekaj Wi-Fi vezu za preuzimanje datoteka</string>
   <string name="pref_summary_enable_max_bytes_popup">"Prikaži skočnu obavijest kada se koristi mobilna podatkovna veza za preuzimanje sadržaja"</string>
@@ -377,6 +387,7 @@
   <string name="pref_title_enable_max_bytes_popup">Prikaži upozorenje uporabe podataka</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preferences_title">Postavke</string>
+  <string name="privacy">Privatnost</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_tip_cancel">Odustani</string>
   <string name="privacy_tip_content">"Koristiti Xunlei Accelerator za ubrzanje preuzimanja? Poveznica domaćina preuzimanja će biti učitan na Xunlei poslužitelje. Detalji vašeg Mi Računa će biti učitani radi provjere je li imate aktivne pretplate na ovu uslugu."</string>
@@ -410,9 +421,6 @@ i pokušajte ponovno."</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
-  <string name="send">Pošalji</string>
-  <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
-  <string name="sending">Slanje…</string>
   <string name="save_path">"Spremi preuzimanja u: "</string>
   <string name="save_text">Uštedi ￥%1$s</string>
   <string name="search_clear_history_btn">Izbriši povijest pretraživanja</string>
@@ -451,6 +459,9 @@ i pokušajte ponovno."</string>
   <string name="select_sub_file_download">Odaberite datoteku za preuzimanje</string>
   <string name="select_subfile_all">Odaberi sve</string>
   <string name="selected_count">Odabrano %1$d od %2$d</string>
+  <string name="send">Pošalji</string>
+  <string name="send_diagnosis_log">Pošalji zapise dijagnostike</string>
+  <string name="sending">Slanje…</string>
   <string name="setting_close_debug">Debug način isključen</string>
   <string name="setting_debug_fail">"Ne mogu ući u Debug način"</string>
   <string name="setting_open_debug">Debug način je isključen. Dodirnite ovdje 6 puta da uključite Debug način.</string>
@@ -529,18 +540,6 @@ i pokušajte ponovno."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="thursday">Četvrtak</string>
-  <string name="thursday_short">Čet</string>
-  <string name="thursday_shortest">Č</string>
-  <string name="time_picker_dialog_title">Postavi vrijeme</string>
-  <string name="today">Danas</string>
-  <string name="tomorrow">Sutra</string>
-  <string name="tuesday">Utorak</string>
-  <string name="tuesday_short">Uto</string>
-  <string name="tuesday_shortest">U</string>
-  <string name="wednesday">Srijeda</string>
-  <string name="wednesday_short">Sri</string>
-  <string name="wednesday_shortest">S</string>
   <string name="task_add">Dodavanje zadatka…</string>
   <string name="task_detail">Zadaci</string>
   <string name="task_detail_notfound_confirm">U redu</string>
@@ -558,7 +557,11 @@ i pokušajte ponovno."</string>
   <string name="third_web_savepath">Lokacija</string>
   <string name="third_web_title">Preuzmi</string>
   <string name="thunder_download_speedup">Povećanje brzine koristeći Xunlei…</string>
+  <string name="thursday">Četvrtak</string>
+  <string name="thursday_short">Čet</string>
+  <string name="thursday_shortest">Č</string>
   <string name="time_consume">Trajanje</string>
+  <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="tip_download_icon_restore">Dodajte prečac Poč. zaslona za Preuzimanja</string>
   <string name="tip_download_icon_retry">"Ne mogu dodati prečac. Pokušajte ponovo."</string>
   <string name="title_homepage_infoflow">Nedavna ažuriranja</string>
@@ -570,10 +573,15 @@ i pokušajte ponovno."</string>
   <string name="toast_update_data_limit_fail">"Ne mogu postaviti"</string>
   <string name="toast_xunlei_engine_open">"Xunlei ubrzanje preuzimanja uključeno.
 Ova značajka se ne preporučuje izvan Kine"</string>
+  <string name="today">Danas</string>
+  <string name="tomorrow">Sutra</string>
   <string name="torrent_file_error">"Ne mogu analizirati ovu torrent datoteku"</string>
   <string name="torrent_no_subfile">Nema podataka o ovom torrentu</string>
   <string name="total_speedup">Povećanje brzine (ukupno)</string>
   <string name="try_download">Pokušajte preuzeti</string>
+  <string name="tuesday">Utorak</string>
+  <string name="tuesday_short">Uto</string>
+  <string name="tuesday_shortest">U</string>
   <string name="turn_off_xunlei_message">Možete iskusiti sporiju brzinu preuzimanja.</string>
   <string name="turn_off_xunlei_tips">Xunlei ubrzanje preuzimanja je isključeno</string>
   <string name="turn_off_xunlei_title">Isključi Xunlei</string>
@@ -596,6 +604,9 @@ Ubrzajte preuzimanja na svim vašim uređajima</string>
   <string name="vip_speedup">Povećanje brzine:</string>
   <string name="web_dialog_cancel">Odustani</string>
   <string name="web_dialog_confirm">U redu</string>
+  <string name="wednesday">Srijeda</string>
+  <string name="wednesday_short">Sri</string>
+  <string name="wednesday_shortest">S</string>
   <string name="xiaomi_account_not_exist_message">"Taj Mi Račun ne postoji"</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>

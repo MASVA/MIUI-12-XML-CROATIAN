@@ -199,7 +199,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="gms_message">Izrada dvojnih aplikacija zahtijeva rad s Googleovim uslugama. Izraditi dvojnu aplikaciju za Google usluge?</string>
   <string name="gms_open_button">Uključi</string>
   <string name="gms_title">Dvojna aplikacija za Googleove usluge</string>
-  <string name="goToSecondSpacce">Idi u Drugi prosotor</string>
+  <string name="goToSecondSpacce">Idi u Drugi prostor</string>
   <string name="go_on_import">Nastavi s uvozom</string>
   <string name="gpg_message">Izrada dvojnih aplikacija zahtijeva rad s Google Play igrama. Izraditi dvojnu aplikaciju za Google Play igre?</string>
   <string name="gpg_title">Dvojna aplikacija za Google Play igre</string>
@@ -211,8 +211,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="green_guard_title3">Upravljaj aplikacijama</string>
   <string name="greenguard_child_des">Upravljajte uređajima svojih prijatelja i obitelji</string>
   <string name="greenguard_child_des_title">Skenirajte QR kod za dodavanje uređaja</string>
-  <string name="greenguard_functional_description">"Udaljeno upravljajte uređajima, pogledajte informacije o lokaciji,
-kontrolirajte instalirane aplikacije i ograničavajte korištenje"</string>
+  <string name="greenguard_functional_description">"Upravljajte uređajima daljinski, pregledavajte informacije o lokaciji i kontrolirajte instalirane aplikacije"</string>
   <string name="greenguard_install_cancle">Ne hvala</string>
   <string name="greenguard_install_confirm">Instaliraj</string>
   <string name="greenguard_install_message">"Family Guard je sistemska aplikacija. Ne treba vam internet da biste je instalirali."</string>

@@ -102,7 +102,7 @@
   <string name="accessibility_flash_mode_button">Bljeskalica</string>
   <string name="accessibility_flash_off">Bljeskalica je isključena</string>
   <string name="accessibility_flash_on">Bljeskalica je uključena</string>
-  <string name="accessibility_flash_screen_halo">Prsten svijetli</string>
+  <string name="accessibility_flash_screen_halo">Svjetlo prstena je uključeno</string>
   <string name="accessibility_flash_torch">Bljeskalica je uključena, način svjetiljke</string>
   <string name="accessibility_focus_face_pos_bottom">Smješten blizu donjeg ruba okvira</string>
   <string name="accessibility_focus_face_pos_left">Smješten blizu lijevog ruba okvira</string>
@@ -602,10 +602,10 @@ skenirane dokumente automatski"</string>
   <string name="download_alert">"Ne može se uređivati tijekom preuzimanja"</string>
   <string name="download_automatic_cancel">Odustani</string>
   <string name="download_automatic_confirm">Preuzmi</string>
-  <string name="download_automatic_message">Automatski preuzimati dodatke za značajke kada je ovaj uređaj spojen na Wi-Fi?</string>
-  <string name="download_automatic_message_cn">Automatski preuzimati dodatke za značajke kada je ovaj uređaj spojen na Wi-Fi?</string>
-  <string name="download_automatic_summary">Automatski preuzimajte dodatke za značajke putem Wi-Fi-ja</string>
-  <string name="download_automatic_summary_cn">Automatski preuzimajte dodatke za značajke putem Wi-Fi-ja</string>
+  <string name="download_automatic_message">Automatski preuzeti dodatke za značajke kada je ovaj uređaj spojen na Wi-Fi?</string>
+  <string name="download_automatic_message_cn">Automatski preuzeti dodatke za značajke kada je ovaj uređaj spojen na Wi-Fi?</string>
+  <string name="download_automatic_summary">Automatski preuzmi dodatke za značajke putem Wi-Fi-ja</string>
+  <string name="download_automatic_summary_cn">Automatski preuzmi dodatke za značajke putem Wi-Fi-ja</string>
   <string name="download_automatic_title">Automatski preuzmi</string>
   <string name="download_by_browser">Preuzmi sa Preglednikom</string>
   <string name="download_cancel_hint">Otkazati preuzimanje %1$s?</string>
@@ -1694,7 +1694,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_hdr_indicator_entry_on">Uklj.</string>
   <string name="pref_i_n_r_b">Pametno smanjenje šuma</string>
   <string name="pref_k_h">Live in-ear monitor</string>
-  <string name="pref_k_s_i">Pratite snimljeni zvuk pomoću slušalica kad su spojene</string>
+  <string name="pref_k_s_i">Pratite snimljeni zvuk pomoću žičanih slušalica kada su spojene</string>
   <string name="pref_lens_dirty_detect_summary">Primite obavijest kada je leća prljava</string>
   <string name="pref_lens_dirty_detect_title">Obavijesti o prljavoj leći</string>
   <string name="pref_live_duration_title">Trajanje uživo</string>

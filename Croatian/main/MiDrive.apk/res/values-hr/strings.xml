@@ -27,7 +27,6 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
-  <string name="actionbar_button_up_description">Natrag</string>
   <string name="about_title">O Mi Drive</string>
   <string name="about_version">"Verzija: "</string>
   <string name="account_bind_secure_email_title">Dodaj e-poštu</string>
@@ -69,6 +68,7 @@
   <string name="action_mode_deselect_all">Poništi odabir</string>
   <string name="action_mode_select_all">Odaberi sve</string>
   <string name="action_update_phone">Promjeni broj telefona</string>
+  <string name="actionbar_button_up_description">Natrag</string>
   <string name="activate_email_notice">Pobrinite se aktivirati vaš korisnički račun u roku od 24 sata</string>
   <string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
@@ -87,6 +87,8 @@
   <string name="background">Sakrij</string>
   <string name="be_sure_to_clear_cache">Želite li sada očistiti predmemoriju?</string>
   <string name="bind_sign_in_title">Dodajte Mi Račun</string>
+  <string name="btn_recall_text_next_step_timer">Povlačenje suglasnosti (%ds)</string>
+  <string name="btn_recall_text_ok_timer">Povlačenje suglasnosti </string>
   <string name="byteShort">B</string>
   <string name="camera">Kamera</string>
   <string name="cancel">Odustani</string>
@@ -105,6 +107,9 @@
   <string name="category_transport">Prikaži prijenose</string>
   <string name="category_video">Videozapisi</string>
   <string name="category_video_title">Videozapisi</string>
+  <string name="change_activate_email">Promjeni adresu e-pošte</string>
+  <string name="change_mobile_network_message">Prebačeno na mobilne podatke. Nastavak prijenosa datoteka će potrošiti puno podataka, jeste li sigurni da želite nastaviti?</string>
+  <string name="change_password">Promjeni zaporku</string>
   <string name="channel_pc_edit">Uređeno na računalu</string>
   <string name="channel_pc_upload">Preneseno s računala</string>
   <string name="channel_pc_view">Gledano na računalu</string>
@@ -114,9 +119,6 @@
   <string name="channel_web_edit">Uređeno u pregledniku</string>
   <string name="channel_web_upload">Preneseno s preglednika</string>
   <string name="channel_web_view">Gledano na pregledniku</string>
-  <string name="change_activate_email">Promjeni adresu e-pošte</string>
-  <string name="change_mobile_network_message">Prebačeno na mobilne podatke. Nastavak prijenosa datoteka će potrošiti puno podataka, jeste li sigurni da želite nastaviti?</string>
-  <string name="change_password">Promjeni zaporku</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">"Ne, izraditi ću račun"</string>
@@ -158,11 +160,11 @@
   <string name="delete_failed_retry">"Ne mogu izbrisati, pričekajte %1$s pa pokušajte ponovno"</string>
   <string name="delete_file">Izbrisati ovu datoteku?</string>
   <string name="delete_file_success">Uspješno izbrisano</string>
-  <string name="delete_operation_record">Izbrisati ovaj zapis?</string>
-  <string name="delete_operation_record_timeout">"Ne mogu izbrisati zapis. Pričekajte minutu-dvije i pokušajte ponovo."</string>
   <string name="delete_files">Izbrisati datoteke: %1$d?</string>
   <string name="delete_folder">Izbrisati ovu datoteku?</string>
   <string name="delete_folders">Izbrisati mape: %1$d?</string>
+  <string name="delete_operation_record">Izbrisati ovaj zapis?</string>
+  <string name="delete_operation_record_timeout">"Ne mogu izbrisati zapis. Pričekajte minutu-dvije i pokušajte ponovo."</string>
   <string name="delete_record_only">"Stavke na koje se odnose odabrani zapisi neće biti izbrisane."</string>
   <string name="delete_success">Uspješno izbrisano</string>
   <string name="detail_download_path">"Lokacija: "</string>
@@ -302,10 +304,10 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="image_preview_open_large_image">Otvori izvornu sliku (%s)</string>
   <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
   <string name="inner_storage_path">Unutarnja pohrana</string>
-  <string name="jump_to_directory">Otvori mapu</string>
   <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
   <string name="input_new_pwd">Unesite novu zaporku</string>
   <string name="isornot_your_mi_account">Je li ovo vaš Mi Račun?</string>
+  <string name="jump_to_directory">Otvori mapu</string>
   <string name="just_a_second">Samo trenutak…</string>
   <string name="just_now">Upravo sada</string>
   <string name="kilobyteShort">KB</string>
@@ -367,7 +369,6 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="navigation_file">Datoteke</string>
   <string name="navigation_my">Profil</string>
   <string name="navigation_transport">Prijenosi</string>
-  <string name="no_recent_activity">Ovdje nema nedavnih stavki</string>
   <string name="need_get_accounts_and_storage_permission">Aplikacija Mi Drive treba pristup vašem računu i vanjskoj pohrani da radi normalno.</string>
   <string name="need_get_accounts_permission">Aplikacija Mi Drive treba pristup vašem računu da radi normalno.</string>
   <string name="never_notify">"Ne prikazuj ponovo"</string>
@@ -377,6 +378,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="no_more_space">Nema dovoljno prostor.</string>
   <string name="no_network">"Ne mogu se povezati na mrežu. Provjerite mrežnu vezu i pokušajte ponovo."</string>
   <string name="no_phone">Nema broja telefona</string>
+  <string name="no_recent_activity">Ovdje nema nedavnih stavki</string>
   <string name="no_tasks">Nema zadataka.</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_upload_file_for_overseas_users">"Učitavanje nije dostupno izvan kontinentalne Kine"</string>
@@ -433,8 +435,8 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="operation_sure_to_delete">Izbrisati sada?</string>
   <string name="operation_task_manage">Prikaži prijenose</string>
   <string name="operation_transport_success">Uspješno dodano u prijenose</string>
-  <string name="operation_will_not_show_after_delete">Zapis se više neće pojavljivati ovdje ako ga izbrišete.</string>
   <string name="operation_upload">Učitaj</string>
+  <string name="operation_will_not_show_after_delete">Zapis se više neće pojavljivati ovdje ako ga izbrišete.</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_label">Mi Račun</string>
   <string name="passport_account_name">Račun: %1$s</string>
@@ -529,6 +531,16 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="pause_download">Pauzirano</string>
   <string name="pause_upload">Pauzirano</string>
   <string name="paused">Pauzirano</string>
+  <string name="permission_account_desc">Pristup svim računima pohranjenima na ovom uređaju</string>
+  <string name="permission_account_title">Računi</string>
+  <string name="permission_accpeted">Odobreno</string>
+  <string name="permission_camera_desc">Snimanje fotografija i videozapisa</string>
+  <string name="permission_camera_title">Kamera</string>
+  <string name="permission_denied">Nije odobreno</string>
+  <string name="permission_phone_desc">Pristup telefonskom broju i statusu uređaja</string>
+  <string name="permission_phone_title">Informacije o uređaju</string>
+  <string name="permission_storage_desc">Pristup i spremanje fotografija i datoteka na ovaj uređaj</string>
+  <string name="permission_storage_title">Pohrana</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_bind_too_many">Ovaj je broj telefona povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi broj telefona.</string>
   <string name="phone_hint">Broj telefona</string>
@@ -544,20 +556,30 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="play_metered_network_dialog_ok">Reproduciraj</string>
   <string name="play_metered_network_dialog_title">Korištenje mob. podataka</string>
   <string name="ppt_to_pdf">Pretvoreno u PDF</string>
+  <string name="pre_permission_management">Pojedinosti o dopuštenjima</string>
   <string name="pre_privacy_policy">Pravila o privatnosti</string>
+  <string name="pre_privacy_recall">Povlačenje suglasnosti</string>
   <string name="pre_user_agreement">Korisnički sporazum</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preview">Pregled</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="privacy_recall_dialog_msg">"Ako nastavite, povući ćete svoj pristanak na Pravila o privatnosti Mi Drivea. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Drive pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Drive. Povući sada suglasnost??"</string>
+  <string name="privacy_recall_dialog_title">Povlačenje suglasnosti</string>
+  <string name="privacy_update_dialog_msg">Mi Drive Pravila o privatnosti su ažurirana:&lt;br/&gt;%1$s&lt;br/&gt;Pročitajte i složite se s novom verzijom &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije nego nastavite.</string>
+  <string name="privacy_update_dialog_title">Ažurirana Pravila o privatnosti</string>
+  <string name="privacy_user_notice_dialog_exit_btn_text">Izlaz</string>
+  <string name="privacy_user_notice_dialog_msg">"Nećete moći nastaviti koristiti Mi Drive osim ako ne pristanete na njegovu novu verziju &lt;a href=%1$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt;. Agree to the updated Privacy Policy now?"</string>
+  <string name="privacy_user_notice_dialog_ok_btn_text">Slažem se</string>
+  <string name="privacy_user_notice_dialog_title">Pažnja</string>
   <string name="private_empty_desc">Ovdje datoteke možete pohraniti privatno.</string>
   <string name="private_empty_sub_desc">Pokušajte ovdje premjestiti datoteke ili ih izravno prenijeti.</string>
   <string name="private_folder_name">Privatne datoteke</string>
   <string name="psw_hint">Zaporka</string>
   <string name="psw_sign_in">Prijavite se pomoću zaporke</string>
   <string name="ptp_ai_recommend_empty_page">Ovdje nema automatski generiranih PDF-ova</string>
+  <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
   <string name="recent_file">Nedavno</string>
   <string name="recent_jump_to_privacy_fail_notice">Ova je datoteka privatna. Vratite se na početnu stranicu i povucite prema dolje za prikaz.</string>
-  <string name="quota_info">Mi Drive: %1$s dostupno, %2$s ukupno</string>
   <string name="refresh_label_pull_to_refresh">Povuci dolje za osvježiti</string>
   <string name="refresh_label_refreshed">Uspješno osvježeno</string>
   <string name="refresh_label_refreshing">Osvježavanje…</string>
@@ -697,7 +719,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_id_hint">E-pošta/Br. telefona/ID Mi Računa</string>
-  <string name="user_protocol_and_privacy_protocol"><Data>"Pročitao sam i pristajem na &lt;a href=\"%1$s\">Korisnički sporazum&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="user_protocol_and_privacy_protocol">&lt;Data&gt;"Pro&amp;#269;itao sam i pristajem na &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="v_code_title">Unesite kontrolni kôd</string>
@@ -716,9 +738,9 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="warning_bar_title_cloud_space_full">"Cloud pohrana je puna. Ne mogu sinkronizirati fotografije, povijest poziva ili druge stavke."</string>
   <string name="xiaomi_drive_description_content">Mi Drive je alat za online pohranu koji omogućuje pohranu datoteka na mreži i oslobađanje pohrane na vašem uređaju. Prestati koristiti Mi Drive?</string>
   <string name="xiaomi_drive_description_title">O Mi Drive aplikaciji</string>
-  <string name="year_month_day_format">dd.MMM.yyyy</string>
-  <string name="yesterday">Jučer</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
+  <string name="year_month_day_format">dd.MMM.yyyy</string>
+  <string name="yesterday">Jučer</string>
 </resources>
