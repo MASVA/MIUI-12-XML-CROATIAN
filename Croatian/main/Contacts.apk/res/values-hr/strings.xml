@@ -1042,6 +1042,8 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="miprofile_switch_on_alertdialog_title">Ažuriranje slike profila</string>
   <string name="missing_name">"(Bez imena)"</string>
   <string name="missing_required_permission">Onemogućili ste potrebno dopuštenje.</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -1058,6 +1060,8 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">Osvježeno</string>
@@ -1292,6 +1296,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="permission_notice_desc_access_fine_location">Za uvoz kontakata s drugih uređaja putem Bluetootha</string>
   <string name="permission_notice_desc_add_voicemail">Za korištenje funkcije govorne pošte i audio poruka</string>
   <string name="permission_notice_desc_call_phone">Za upućivanje poziva u aplikacijama trećih strana</string>
+  <string name="permission_notice_desc_call_phone_for_pad">Za upućivanje poziva u aplikacijama trećih strana</string>
   <string name="permission_notice_desc_camera">Za snimanje profilnih fotografija</string>
   <string name="permission_notice_desc_read_call_logs">Za pregled povijesti poziva</string>
   <string name="permission_notice_desc_read_contacts">Za pregled kontakata</string>
@@ -1420,7 +1425,10 @@ Za dodavanje kontakta na listu favorita :
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="privacy_settings_call_phone">Napravi</string>
   <string name="privacy_settings_call_phone_description">Za upućivanje poziva u aplikacijama trećih strana</string>
-  <string name="privacy_settings_contacts">Kontakti i telefon</string>
+  <string name="privacy_settings_call_phone_description_for_pad">Za upućivanje poziva u aplikacijama trećih strana</string>
+  <string name="privacy_settings_call_phone_for_pad">Upućivanje poziva</string>
+  <string name="privacy_settings_contacts">Kontakti i Telefon</string>
+  <string name="privacy_settings_contacts_for_pad">Privatnost</string>
   <string name="privacy_settings_mallowed">Odobreno</string>
   <string name="privacy_settings_mnotallowed">Nije odobreno</string>
   <string name="privacy_settings_permission_description">Pojedinosti o dopuštenjima</string>
@@ -1741,6 +1749,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="toast_not_show_read_contacts_perm_req">Da biste mogli pregledavati kontakte, dopustite najprije ovoj aplikaciji pristup kontaktima.</string>
   <string name="toast_not_show_read_phone_state_perm_req">Da biste mogli koristiti ovu aplikaciju sa SIM karticom, dopustite najprije pristup podacima o uređaju.</string>
   <string name="toast_not_show_storage_perm_req">Da biste mogli dodavati fotografije profila i uvoziti vCards, dopustite najprije ovoj aplikaciji pristup pohrani.</string>
+  <string name="toast_not_show_storage_perm_req_for_pad">Da biste mogli dodavati fotografije profila i uvoziti vCards, dopustite najprije ovoj aplikaciji pristup pohrani.</string>
   <string name="toast_not_show_write_calllogs_perm_req">Da biste mogli ažurirati povijest poziva, dopustite najprije ovoj aplikaciji uređivanje povijesti poziva.</string>
   <string name="toast_not_show_write_contacts_perm_req">Da biste mogli pregledavati kontakte, dopustite najprije ovoj aplikaciji uređivanje kontakata.</string>
   <string name="toast_start_intent_failed">"Ne mogu pronaći aplikaciju za obradu ove radnje"</string>

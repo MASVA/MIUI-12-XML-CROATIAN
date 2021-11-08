@@ -56,6 +56,10 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
      </plurals>
+	 <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Vaš uređaj je pregrijan. Kamera će se zatvoriti za %d sekundi. Vaše fotografije ili videozapisi bit će automatski spremljeni.</item>
+        <item quantity="one">Vaš uređaj je pregrijan. Kamera će se zatvoriti za %d sekundu. Vaše fotografije ili videozapisi bit će automatski spremljeni.</item>
+    </plurals>
    <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>

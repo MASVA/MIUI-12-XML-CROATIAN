@@ -86,6 +86,7 @@
   <string name="attach_transaction">Pošalji novac</string>
   <string name="attach_video">Videozapisi</string>
   <string name="attach_video_call">Video poziv</string>
+  <string name="attachment_panel_show_part">Stranica %1$d</string>
   <string name="audio_download_failed">"Ne mogu preuzeti zvuk"</string>
   <string name="audio_message_expired">Ova glasovna poruka je istekla.</string>
   <string name="audio_message_mx_offline">"Ne mogu preuzeti zvuk. Mi poruka je offline ili nije dostupna."</string>

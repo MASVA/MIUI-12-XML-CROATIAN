@@ -1161,7 +1161,7 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="fsg_demo_back">Natrag</string>
   <string name="fsg_demo_go_on">Nauči</string>
   <string name="game_status">Playing</string>
-  <string name="garbage_count">Postoje %1$s starih slučajeva</string>
+  <string name="garbage_count">Postoji %1$s starih slučajeva</string>
   <string name="global_action_lock_message">Za više opcija otključajte telefon</string>
   <string name="global_action_screenshot">Snimka zaslona</string>
   <string name="global_actions_change_description">Da biste pristupili usluzi %1$s i kontrolama uređaja, prijeđite prstom od vrha zaslona prema dolje</string>

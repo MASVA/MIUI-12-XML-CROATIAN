@@ -4332,12 +4332,13 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="game_settings_summary">Uključite prečac za nadzornu ploču igre itd.</string>
   <string name="game_settings_title">Postavke igara</string>
   <string name="game_storage_settings">Igre</string>
+  <string name="gd_setting_title">Smart toolbox</string>
   <string name="general_category_title">Općenito</string>
   <string name="general_notification_header">Upravljanje</string>
   <string name="general_text">Polje za tekst</string>
   <string name="general_time">"Vrijeme: %1$d:%2$d. Duge vibracije predstavljaju sate, kratke vibracije predstavljaju minute. Uslijedit će kratka stanka između sati i minuta. Dvaput dodirnite za pokušaj."</string>
   <string name="gentle_notifications_also_display">Prikaži i na</string>
-  <string name="gentle_notifications_display_lock">Zaključan zaslon</string>
+  <string name="gentle_notifications_display_lock">Zaklj. zaslon</string>
   <string name="gentle_notifications_display_status">Traka statusa</string>
   <string name="gentle_notifications_display_summary_shade">Prikaži samo na zaslonu obavijesti</string>
   <string name="gentle_notifications_display_summary_shade_lock">Prikaži na zaslonu obavijesti i zaključanom zaslonu</string>

@@ -118,6 +118,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="answering_ends_other_managed_calls">Ako odgovorite, prekinut ćete pozive u tijeku</string>
   <string name="answering_ends_other_managed_video_call">Ako odgovorite, prekinut ćete videopoziv u tijeku</string>
   <string name="answering_ends_other_video_call">Ako odgovorite, prekinut ćete videopoziv u aplikaciji %1$s</string>
+  <string name="anti_fraud_notification_msg">Vratite ovaj poziv kako biste izbjegli prijevaru u telekomunikacijama</string>
+  <string name="anti_fraud_notification_title">Upozorenje protiv prijevara</string>
   <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="auto_connect_disable">Automatsko povezivanje je isključeno</string>

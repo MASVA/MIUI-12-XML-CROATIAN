@@ -671,6 +671,15 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="system_alert">Internet povezivanje</string>
   <string name="temporary_not_available">Ova značajka još nije dostupna</string>
   <string name="terabyteShort">TB</string>
+  <string name="talkback_continue">Nastavi</string>
+  <string name="talkback_doc_filter">Filter button</string>
+  <string name="talkback_list_play">Reproduciraj sve</string>
+  <string name="talkback_next_song">Sljedeća pjesma</string>
+  <string name="talkback_pause">Pause</string>
+  <string name="talkback_play">Reproduciraj</string>
+  <string name="talkback_previous_song">Pretodna pjesma</string>
+  <string name="talkback_random_play">Nasumično</string>
+  <string name="talkback_single_play">Ponovi jednom</string>
   <string name="text_select_all">Odaberi sve</string>
   <string name="text_select_nothing">Poništi odabir</string>
   <string name="ticket_hint">Kontrolni kôd</string>

@@ -2067,11 +2067,32 @@ može isprazniti bateriju i dovesti do pregrijavanja"</string>
 vašeg igranja"</string>
   <string name="gb_wonderful_video_cancel">Odustani</string>
   <string name="gb_wonderful_video_checkall">Odaberi sve</string>
-  <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
+  <string name="gb_wonderful_video_date_format">"dd.MMM."</string>
   <string name="gb_wonderful_video_delete">Izbriši</string>
   <string name="gb_wonderful_video_goto_box">Otvori Game Turbo</string>
   <string name="gb_wonderful_video_header_title">Danas</string>
   <string name="gb_wonderful_video_save_suc">Spremljeno</string>
+  <string name="gd_app_edit_done">Gotovo</string>
+  <string name="gd_app_edit_title">Dodajte aplikacije</string>
+  <string name="gd_app_edit_title_new">Uredite najčešće korištene aplikacije s malim prozorima</string>
+  <string name="gd_setting_desc_action1">Otvorite plutajući prozor</string>
+  <string name="gd_setting_desc_action2">Koristite prečac</string>
+  <string name="gd_setting_group_custom_gtb_apps">Igre</string>
+  <string name="gd_setting_group_custom_line_location">Položaj toolbox-a</string>
+  <string name="gd_setting_group_custom_settings">Personalizacije</string>
+  <string name="gd_setting_group_custom_vtb_apps">Video aplikacije</string>
+  <string name="gd_setting_group_smart_tool_box">Smart toolbox</string>
+  <string name="gd_setting_group_title_switch">Scene</string>
+  <string name="gd_setting_gtb">Prikaži tijekom igranja igara</string>
+  <string name="gd_setting_gtb_desc">Posebne značajke za igranje igara</string>
+  <string name="gd_setting_guide_one">Kliknite na aplikaciju da otvorite mali prozor</string>
+  <string name="gd_setting_guide_three">Kliznite da biste otvorili game smart toolbox</string>
+  <string name="gd_setting_guide_two">Kliznite da biste otvorili video toolbox</string>
+  <string name="gd_setting_miui_dock">Uvijek pokazuj</string>
+  <string name="gd_setting_shorthand">Brze bilješke</string>
+  <string name="gd_setting_title">Smart toolbox</string>
+  <string name="gd_setting_vtb">Prikaži tijekom reprodukcije videozapisa</string>
+  <string name="gd_setting_vtb_desc">Posebne značajke za reprodukciju videozapisa</string>
   <string name="gdpr_msg">"&lt;Data&gt;"Da bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i pristanite na naše &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih podataka, i dalje ćete moći koristiti ovu aplikaciju, ali neke značajke neće vam biti dostupne. "&lt;/Data&gt;</string>
   <string name="get_detail_by_click">Dodirnite za prikaz pojedinosti</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
@@ -2142,10 +2163,10 @@ vašeg igranja"</string>
   <string name="gtb_dialog_btn_open">Uključi</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
   <string name="gtb_dialog_privacy_speed_message">"Upravo ćete koristiti Xunyou Game Booster. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
-  <string name="gtb_dialog_privacy_speed_tips">"Pročitao sam i slažem se s Pravilima o privatnosti Xunyou Game Booster."</string>
+  <string name="gtb_dialog_privacy_speed_tips"><Data>"Pročitao sam i slažem se s Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
   <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
   <string name="gtb_dialog_privacy_voice_message">"Upravo ćete koristiti Xunyou Game Voice Changer. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
-  <string name="gtb_dialog_privacy_voice_tips">"Pročitao sam i slažem se s Pravilima o privatnosti Xunyou Voice Changer"</string>
+  <string name="gtb_dialog_privacy_voice_tips"><Data>"Pročitao sam i slažem se s Xunyou Game Voice Changer &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
   <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
   <string name="gtb_dialog_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži. Želite li sada uključiti tu značajku?</string>
   <string name="gtb_dialog_title_smart_5g">5G optimizacija mreže</string>
@@ -2638,6 +2659,7 @@ Vaš je uređaj sad %d%% brži."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -2817,6 +2839,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="no_network">"Ne mogu se povezati s mrežom, pokušajte ponovno kasnije"</string>
   <string name="no_network_btn">Pokušaj ponovno</string>
   <string name="no_open">Ne sad</string>
+  <string name="no_privacy_permission">Suglasnost na Politiku o privatnosti nije potrebna</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="not_limited_brand">Neograničeno</string>
   <string name="not_set">Nije postavljeno</string>
@@ -2829,7 +2852,7 @@ Pokušajte povezati router s drugim Ethernet kabelom. Ako sumnjate da postoji pr
   <string name="noti_back_diving_mode_title">Interaktivan način je uključen. Dodirni za isključivanje.</string>
   <string name="notification_abnormal_check_button">Prikaži</string>
   <string name="notification_abnormal_check_now_button">Prikaži</string>
-  <string name="notification_abnormal_consume_app_title">%s prazzni bateriju</string>
+  <string name="notification_abnormal_consume_app_title">%s prazni bateriju</string>
   <string name="notification_abnormal_consume_cpu">Resursi procesora zloupotrebljavaju se u pozadini</string>
   <string name="notification_abnormal_consume_wakelock">Sustav se drži budnim u pozadini</string>
   <string name="notification_antivirus_button_text">Skeniraj</string>
@@ -3150,7 +3173,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_hidemode_normal_title">Uravnoteženo</string>
   <string name="pc_hidemode_performance">Performanse</string>
   <string name="pc_hidemode_performance_title">Način rada Performanse</string>
-  <string name="pc_hidemode_power_save">Energija</string>
+  <string name="pc_hidemode_power_save">Štednja baterije</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_main_activity_back">Natrag</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
@@ -5052,8 +5075,9 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="summary_realname_verify">Potvrdite svoj identitet kako bi vaša plaćanja bila što sigurnija.</string>
   <string name="summary_restrict_data_usage">Ograničili ste uporabu podataka za ovu aplikaciju.</string>
   <string name="summary_result_screen_brightness_format">Postavi svjetlinu zaslona na %s</string>
+  <string name="summary_safe_mode">Neutralizirajte rizike tijekom instalacije</string>
   <string name="summary_saving_switch">Ograničite aplikacije od korištenja vaše mobilne podatkovne veze za prijenos podataka.</string>
-  <string name="summary_show_notification">"Izbriši predmemoriju, prikaži status baterije i blokirane stavke u panelu obavijesti."</string>
+  <string name="summary_show_notification">"Izbriši predmemoriju, prikaži status baterije i blokirane stavke u Panelu obavijesti."</string>
   <string name="summary_telecom_operator">Nabavite statistiku vaše mjesečne uporabe podataka od vašeg operatera.</string>
   <string name="summary_usb">Spriječite širenje zlonamjernog softvera putem USB veze</string>
   <string name="summary_virus">Uklonite viruse da održite svoj uređaj sigurnim</string>
@@ -5435,6 +5459,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_result_typeface">Veličina teksta &amp; debljina fonta</string>
   <string name="title_result_wlan">Wi-Fi</string>
   <string name="title_result_zen_mode">DND način</string>
+  <string name="title_safe_mode">Uključite Sigurni način rada</string>
   <string name="title_saving_switch">Štednja podataka</string>
   <string name="title_share_link">Podijeli URL</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
@@ -5720,12 +5745,17 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_ve_settings_display_style_tips_new">*Efekti će se primijeniti samo na područje reprodukcije videozapisa</string>
   <string name="vb_ve_settings_pic_border_stronger">Poboljšane konture</string>
   <string name="vb_ve_settings_picture_stronger">Poboljšane animacije</string>
+  <string name="vb_video_effects_3d">Surround zvuk</string>
+  <string name="vb_video_effects_3d_summary">Povećajte dubinu reprodukcije zvuka za slušalice i zvučnike</string>
+  <string name="vb_video_effects_3d_surround">Surround zvuk</string>
   <string name="vb_video_effects_display_style">Stil</string>
   <string name="vb_video_effects_dolby">Dolby Atmos</string>
   <string name="vb_video_effects_dolby_dialog_enhancer">Pojačani dijalog</string>
   <string name="vb_video_effects_dolby_headset">" (Samo slušalice)"</string>
   <string name="vb_video_effects_dolby_open">Dolby Atmos je uključen</string>
-  <string name="vb_video_effects_dolby_stereo_expansion">Expanded stereo</string>
+  <string name="vb_video_effects_dolby_stereo_expansion">Prošireni stereo</string>
+  <string name="vb_video_effects_liquid_summary">Poboljšajte jasnoću dijaloga u videozapisima</string>
+  <string name="vb_video_effects_only_headphone">Radi samo sa slušalicama</string>
   <string name="vb_video_effects_setting_black_white">B&amp;W</string>
   <string name="vb_video_effects_setting_cinema">Cinema</string>
   <string name="vb_video_effects_setting_girl">Blush</string>
@@ -5743,6 +5773,10 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_video_effects_setting_warmth">Toplina</string>
   <string name="vb_video_effects_settings_liquid">Jasnoća</string>
   <string name="vb_video_effects_settings_stereo">Glasnoća</string>
+  <string name="vb_video_effects_some_headphone">Supported by selected earphone models</string>
+  <string name="vb_video_effects_spatial">Prati kretanje glave</string>
+  <string name="vb_video_effects_spatial_summary">"Prilagodite surround zvuk na temelju pokreta glave
+*Podržano samo na modelima slušalica za igranje"</string>
   <string name="vb_video_effects_srs_premium_sound">Zvuk</string>
   <string name="vb_video_super_division">Povećaj</string>
   <string name="vb_video_super_division_desc">"Automatski povećaj rezoluciju kad je ≤720p.

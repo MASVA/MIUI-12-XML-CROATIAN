@@ -149,6 +149,7 @@
   <string name="dc_lignt_enable_hint">Način rada protiv treperenja postaviće brzinu osvježavanja zaslona na 60 Hz. Promjeniti na način rada protiv treperenja?</string>
   <string name="delete_first_to_add_animal">Za dodavanje nove stavke, prvo izbrišite jednu.</string>
   <string name="desktop_widget_authorization">Dodirnite da odobrite dopuštenja prikaza statistike</string>
+  <string name="desktop_widget_authorization_new">Dodirnite za prikaz statistike vremena korištenja</string>
   <string name="desktop_widget_not_support">"Statistika vremena zaslona
 nije generirana u Drugom prostoru"</string>
   <string name="desktop_widget_screen_use_time">Vrijeme zaslona</string>

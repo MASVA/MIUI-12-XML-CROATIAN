@@ -554,6 +554,10 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="tuesday_shortest">U</string>
   <string name="turn_off_a_repeat_alarm">Isključi ponavljajući alarm</string>
   <string name="turn_off_this_repeat_alarm">Isključi ovaj ponavljajući alarm</string>
+  <string name="tv_blank_list_other_text">Ovdje nema još ništa</string>
+  <string name="tv_blank_list_show_text">Ovdje nema još ništa. Potražite lokaciju kako biste je dodali svom svjetskom satu.</string>
+  <string name="tv_world_clock_edit_title1">Lokacije prikazane na Poč. zaslonu</string>
+  <string name="tv_world_clock_edit_title2">Ostale spremljene lokacije</string>
   <string name="upcoming_alarm">Nadolazeći alarm: %s</string>
   <string name="upcoming_alarm_hint">Možete isključiti ovaj alarm sada</string>
   <string name="update_health_app">Ažurirajte Mi Health</string>
@@ -578,7 +582,9 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="wake_up_alert_desc">Reproduciraj alarma u vrijeme buđenja</string>
   <string name="wake_up_ringtone">Melodija zvona alarma</string>
   <string name="wake_up_time">Vrijeme buđenja</string>
+  <string name="white_noise">Ambijentalna buka</string>
   <string name="white_noise_selector">Odaberi zvuk</string>
+  <string name="worldclock_edit_label">Svjetski sat</string>
   <string name="workday_alarm_clock">Alarm u radne dane</string>
   <string name="worldclock_empty_text">Nema satova</string>
   <string name="worldclock_input_hint_text">Unesite grad</string>

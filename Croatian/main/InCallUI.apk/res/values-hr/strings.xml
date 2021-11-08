@@ -36,6 +36,8 @@
   <string name="ai_mode_auto">Autom.</string>
   <string name="ai_mode_manual">Ručno</string>
   <string name="ai_mode_subtitles">Titlovi</string>
+  <string name="antifraud_center">Platforma za upozorenje protiv prijevara</string>
+  <string name="antifraud_center_incoming_prompt">"Ne propustite nijedan poziv sa službene platforme za upozorenje protiv prijevara"</string>
   <string name="antispam_local_marked">Lokalno obilježen</string>
   <string name="antispam_notification_title">Nepoznati broj</string>
   <string name="antispam_provider">Identificiran od %s</string>
@@ -72,6 +74,17 @@
   <string name="call_description_recording">Snimanje…</string>
   <string name="call_extension_conference_mode">Konferencija</string>
   <string name="call_not_support_high_frequency_click">"Ne dodirujte ovu tipku tako često"</string>
+  <string name="call_progress_info_call_forwarding">Poziv se preusmjerava na drugi broj</string>
+  <string name="call_progress_info_call_rejected">Poziv je odbijen</string>
+  <string name="call_progress_info_call_waiting">Poziv je na čekanju</string>
+  <string name="call_progress_info_no_answer_from_user">Korisnik ne odgovara</string>
+  <string name="call_progress_info_no_user_responding">Korisnik ne odgovara</string>
+  <string name="call_progress_info_nonuser_call_rejected">Nema korisnika - Poziv je odbijen</string>
+  <string name="call_progress_info_remote_available">Upozorenje</string>
+  <string name="call_progress_info_subscriber_absent">Pretplatnik je odsutan</string>
+  <string name="call_progress_info_unallocated_number">Nedodijeljeni broj</string>
+  <string name="call_progress_info_user_busy">Korisnik je zauzet</string>
+  <string name="call_progress_info_user_call_rejected">Korisnik odbija poziv</string>
   <string name="call_record_button_label">Snimanje %s</string>
   <string name="call_record_wait_label">Čekanje</string>
   <string name="call_recording_deny_permission_msg">"Odbili ste dopuštenje za snimanje, ne mogu snimiti."</string>
@@ -103,6 +116,7 @@
   <string name="card_title_hanging_up_weak_signal">Slab signal mobilne mreže. Prekidanje poziva…</string>
   <string name="card_title_in_call">U pozivu</string>
   <string name="card_title_in_call_short">Poziv</string>
+  <string name="card_title_in_crbt">Čeka se odgovor</string>
   <string name="card_title_in_video">Video </string>
   <string name="card_title_incoming_call">Dolazni poziv</string>
   <string name="card_title_incoming_conference_call">Dolazni konferencijski poziv</string>
@@ -239,6 +253,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -379,6 +394,7 @@
   <string name="send">Pošalji</string>
   <string name="separate_from_conference">Odvoji poziv</string>
   <string name="sip_call_not_support_record">"Ne mogu snimiti SIP pozive"</string>
+  <string name="speakerphone_tip">Preklopite uređaj da biste koristili slušalicu ili zvučnik</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>

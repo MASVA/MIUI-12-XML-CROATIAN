@@ -109,6 +109,9 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
+  <string name="global_pad">Moj tablet</string>
+  <string name="global_pc">Moj laptop</string>
+  <string name="global_phone">Moj telefon</string>
   <string name="go_to_settings">Postavke</string>
   <string name="guide_summary_1">Druga osoba može dodirnuti prečac u Panelu obavijesti</string>
   <string name="guide_summary_2">"Odaberite uređaj na koji želite poslati stavke i dodirnite njegovu ikonu"</string>

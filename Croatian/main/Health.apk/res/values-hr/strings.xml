@@ -85,6 +85,8 @@ Moći ćete pratiti svoje treninge i aktivnosti."</string>
   <string name="app_setting">Aplikacije</string>
   <string name="audio_permission_dialog_desc">Dopuštenje za snimanje zvuka nije odoboreno. Dajte dopuštenje</string>
   <string name="audio_permission_dialog_title">Odobrite dopuštenje za snimanje zvuka</string>
+  <string name="audio_permission_subtitle">Za otkrivanje hrkanja i pričanja</string>
+  <string name="audio_permission_title">Snimanje zvuka</string>
   <string name="audio_record_perm_description">Zabilježite hrkanje i snove tijekom spavanja</string>
   <string name="audio_record_permission_description">Za snimanje razgovora i hrkanja tijekom analize ciklusa spavanja</string>
   <string name="auth_description">Omogućite %1$s sinkronizaciju podataka sa sljedećih uređaja</string>
@@ -160,6 +162,8 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="bmi_label">BMI</string>
   <string name="body_bmi_descripe_content">Indeks tjelesne mase (BMI) definira se kao tjelesna masa u kilogramima podijeljena s kvadratom visine tijela u metrima. Poznavanje BMI može vam pomoći da shvatite ima li vaša težina negativan utjecaj na vaše zdravlje.</string>
   <string name="body_composition">Sastav tijela</string>
+  <string name="body_sport_permission_subtitle">Za praćenje vaših koraka</string>
+  <string name="body_sport_permission_title">Pristup podacima o zdravlju i aktivnostima</string>
   <string name="body_water">Voda</string>
   <string name="body_water_descripe_content">Postotak vode u tijelu odnosi se na udio vode u ukupnoj težini ljudskog tijela. Obično mišićno tkivo sadrži više vode nego ostali dijelovi tijela.</string>
   <string name="body_weight">Težina</string>
@@ -184,6 +188,8 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="buy">Kupi</string>
   <string name="calories">kalorija</string>
   <string name="camera_permission_desc">Za postavljanje fotografije profila</string>
+  <string name="camera_permission_subtitle">Za dobivanje promjena protoka krvi detekcije otkucaja srca i postavljanje fotografija profila</string>
+  <string name="camera_permission_title">Koristiti kameru</string>
   <string name="cancel">Odustani</string>
   <string name="cancel_edit">Odbaci promjene</string>
   <string name="cancel_mark_end">"Ciklus nije završio"</string>
@@ -221,6 +227,8 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="completed_stand">Stajanje je gotovo</string>
   <string name="confirm_opening">Potvrdi</string>
   <string name="contact_permission_desc">Za postavljanje kontakata u hitnim slučajevima</string>
+  <string name="contact_permission_subtitle">Za postavljanje kontakata za hitne slučajeve</string>
+  <string name="contact_permission_title">Pristup kontaktima</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_done">Uspješno kopirano</string>
   <string name="copyright_statement">Autorsko pravo ©Xiaomi Inc. Sva prava zadržana.</string>
@@ -484,6 +492,8 @@ Ako je vaš uređaj ovdje naveden, izvore podataka možete ručno dodati u Xiaom
   <string name="expand_all">Prikaži sve</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="external_storage_permission_subtitle">Za postavljanje profilnih fotografija</string>
+  <string name="external_storage_permission_title">Pristup i spremanje stavki u pohranu</string>
   <string name="fall_sleep_hard">Problemi kod spavanja</string>
   <string name="falling_duration">Padanje u san</string>
   <string name="falling_duration_hard_description">"Padanje u san je razdoblje između početka i potpunog utonoća u san. Ako vam treba dulje od 30 minuta da zaspite, to bi mogao biti znak nesanice.
@@ -712,6 +722,8 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="location_permission_dialog_negative">Ne sad</string>
   <string name="location_permission_dialog_positive">Dopusti</string>
   <string name="location_permission_dialog_title">Potrebna su dopuštenja za lokaciju</string>
+  <string name="location_permission_subtitle">Za praćenje treninga na otvorenom i snimanje ruta</string>
+  <string name="location_permission_title">Pristup lokaciji</string>
   <string name="location_service_dialog_content">Uključite usluge lokacije u Postavkama da biste mogli pratiti svoje vježbe na otvorenom.</string>
   <string name="location_service_dialog_negative">Ne sad</string>
   <string name="location_service_dialog_positive">Uključi</string>
@@ -1375,6 +1387,9 @@ podatke o spavanju"</string>
   <string name="sport_btn_pause">Pauza</string>
   <string name="sport_btn_unlock">Otključaj</string>
   <string name="sport_counter_begin">Započni</string>
+  <string name="sport_data_use_subtitle">Kako bismo pratili vaše vježbanje i napredak u fitnesu, prikupljamo i obrađujemo vaše podatke uključujući rute vježbanja, podatke o spavanju, broj otkucaja srca i težinu.</string>
+  <string name="sport_data_use_tip">"Pročitajte i prihvatite naše &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Health and Activity Data Use Policy&lt;/a>&lt;/font> kako biste bolje razumjeli kako prikupljamo i obrađujemo vaše podatke. Nećete moći koristiti ovu uslugu ako ne pristanete na naše prikupljanje i obradu."</string>
+  <string name="sport_data_use_title">Dopuštenja za podatke</string>
   <string name="sport_home_begin">Start</string>
   <string name="sport_home_set_goal">Postavi cilj</string>
   <string name="sport_invalid_dialog_distance_content">Udaljenost koju ste prešli tijekom ovog treninga prekratka je da bi bila zabilježena. Završiti ovaj trening svejedno?</string>
@@ -1495,6 +1510,7 @@ podatke o spavanju"</string>
   <string name="sync_status_never_done">Nije sinkronizirano</string>
   <string name="sync_status_oauth_error">"Ne mogu sinkronizirati podatke. Prvo odobrite potrebna dopuštenja."</string>
   <string name="system_app_setting">Postavke sistemske aplikacije</string>
+  <string name="system_permission">Pojedinosti o dopuštenjima</string>
   <string name="systolic_pressure">Sistolički</string>
   <string name="tb_audio_progress_bar">Traka reprodukcije zvuka</string>
   <string name="tb_blood_pressure_day_chart">%1$s. Najviši sistolički tlak: %2$d milimetara žive. Najniži dijastolički tlak: %3$d milimetara žive.</string>

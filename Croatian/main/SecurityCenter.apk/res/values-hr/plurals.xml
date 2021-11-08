@@ -1036,6 +1036,13 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">Unesite %s brojeva</item>
         <item quantity="one">Unesite %s broj</item>
      </plurals>
+	 <plurals name="gd_app_edit_desc">
+        <item quantity="other">Dodajte do %d aplikacija. Povucite dodane stavke da biste prilagodili redoslijed.</item>
+        <item quantity="one">Dodajte %d aplikaciju. Povucite dodanu stavku da biste prilagodili redoslijed.</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Dodajte do %d aplikacija. Povucite dodanu stavku da biste prilagodili redoslijed.</item>
+    </plurals>
 	 <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>
         <item quantity="one">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>

@@ -215,6 +215,13 @@
   <string name="copy">Kopiraj</string>
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutna</string>
+  <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za upućivanje poziva kontaktima za hitne slučajeve u Lite načinu rada</string>
+  <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Za prikaz kontakata za hitne slučajeve u Lite načinu rada</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Za prikaz statusa uređaja</string>
+  <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Za prikaz widgeta Kalendara</string>
+  <string name="custom_define_permission_desc_android.permission_group.CAMERA">Za prikaz widgeta Galerije</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za pristup nazivu Wi-Fi widgeta u Androidu Q</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za pristup i spremanje podataka početnog zaslona</string>
   <string name="custom_wallpaper_picker">Prilagođeno</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="defalut_launcher_title">Zadani pokretač</string>

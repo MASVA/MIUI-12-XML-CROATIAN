@@ -24,6 +24,7 @@
   <string name="about_item_function">Nove značajke</string>
   <string name="about_net_error">Provjerite postavke mreže i pokušajte ponovno.</string>
   <string name="about_newest">Wallpaper Carousel je ažuran.</string>
+  <string name="about_permission">Dopuštenja</string>
   <string name="about_update">Ažuriraj</string>
   <string name="account_bind_secure_email_title">Dodajte e-poštu za oporavak</string>
   <string name="account_bind_secure_phone_title">Dodajte broj telefona za oporavak</string>
@@ -85,6 +86,7 @@
   <string name="add_to_trust_device">Ovo su pouzdani uređaj</string>
   <string name="add_wallpaper">Dodajte slike pozadine</string>
   <string name="addcw_apply_btn_txt">Dodaj sliku pozadine</string>
+  <string name="allowed">Odobreno</string>
   <string name="and"> i </string>
   <string name="app_name">Wallpaper Carousel</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Zanemari ovu verziju</string>
@@ -104,11 +106,16 @@
   <string name="back_icon_content_description">Natrag</string>
   <string name="bind_sign_in_title">Dodaj Mi Račun</string>
   <string name="cancel">Odustani</string>
+  <string name="cancel_button">Da</string>
   <string name="cancel_international">Odustani</string>
   <string name="cancel_lockscreen">Odustani</string>
+  <string name="cancel_mfashiongallery_service">Otkaži Wallpaper Carousel usluge</string>
   <string name="cancel_network">Izlaz</string>
+  <string name="cancel_service">Otkaži usluge</string>
+  <string name="cancel_service_running">Otkazivanje usluga…</string>
+  <string name="cancel_service_summary">"Ako nastavite, otkazat ćete Wallpaper Carousel usluge. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Želite li svejedno otkazati usluge?"</string>
   <string name="carousel_declaration_btn_text">Uključi Wallpaper Carousel</string>
-  <string name="carousel_declaration_cta">"Wallpaper Carousel zahtijeva internetsku vezu da radi normalno. Da biste dobili pristup mrežnom sadržaju, morate prihvatiti naše &lt;a href='%s'&gt;Pravila o Privatnosti&lt;/a&gt;. Prihvaćate?"</string>
+  <string name="carousel_declaration_cta">"Wallpaper Carousel zahtijeva internetsku vezu da radi normalno. Da biste dobili pristup mrežnom sadržaju, morate prihvatiti naše &lt;a href='%s'&gt;Pravila o privatnosti&lt;/a&gt;. Prihvaćate?"</string>
   <string name="carousel_declaration_cta_btn_text">Prihvaćam i uključi</string>
   <string name="carousel_declaration_des">Pogledajte prekrasna mjesta i doživite uzbudljiva iznenađenja s Wallpaper Carousel</string>
   <string name="carousel_declaration_des2">Dodajte svoje slike pozadina u Wallpaper Carousel</string>
@@ -143,6 +150,7 @@
   <string name="confirm_bundled_phone_dialog_title">Potvrdite pridruženi broj telefona</string>
   <string name="confirm_new_pwd">Potvrdite novu zaporku</string>
   <string name="confirm_unbundled_phone_dialog_message">Ovaj je broj telefona povezan s Mi Računom %2$s na %1$s. Ako nastavite, više neće biti povezan s Mi Računom %3$s. Nastaviti?</string>
+  <string name="copy">Kopiraj</string>
   <string name="create_shortcut">Izradi prečac Poč. zaslona</string>
   <string name="create_shortcut_btn">Izradi</string>
   <string name="create_shortcut_title">Izradi prečac Poč. zaslona</string>
@@ -243,8 +251,11 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli nije važeća.</string>
   <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
+  <string name="expand_button_title">Napredno</string>
   <string name="explorer_activity_title">Wallpaper Carousel</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="external_storage_permission">Pristup pohrani</string>
+  <string name="external_storage_permission_summary">Za odabir prilagođenih pozadina i spremanje preuzetih stavki</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
   <string name="favor_list_no_data">Nema stavki.</string>
   <string name="favor_list_title">Favoriti</string>
@@ -333,8 +344,13 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="lockscreen_magazine_summary">Dodajte vaše slike pozadina u mapu Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_title">Izvanmrežno</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine Zaklj. zaslona</string>
+  <string name="logout">Odjava</string>
   <string name="lockscreen_wallpaper_changed">Slika pozadine promjenjena</string>
   <string name="logout_account">Odjava</string>
+  <string name="logout_cancel">Odustani</string>
+  <string name="logout_confirm">U redu</string>
+  <string name="logout_summary">"Nakon što se odjavite, nećete moći sinkronizirati svoje pretplate i prilagođene postavke na svim uređajima. Odjaviti se svejedno?"</string>
+  <string name="logout_title">Odjaviti se?</string>
   <string name="look_str">Popularno</string>
   <string name="main_fragment_title_discover">Otkrijte</string>
   <string name="main_fragment_title_home">Preporuke</string>
@@ -479,6 +495,10 @@ dd.MM"</string>
   <string name="no_networdk">"Ne mogu se povezati na mrežu"</string>
   <string name="no_phone">Nema broja telefona</string>
   <string name="no_pic_data">"Ne mogu pronaći slike"</string>
+  <string name="not_allowed">Nije odobreno</string>
+  <string name="not_cancel_button">Ne</string>
+  <string name="not_revoke_button">Odustani</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="ok">U redu</string>
   <string name="ok_enable_network_prov">Slažem se</string>
   <string name="ok_enable_network_prov2">Slažem se</string>
@@ -739,8 +759,10 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_yes">Da</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="permission_account_tip">Pristup podacima o računu</string>
+  <string name="permission_manager">Pojedinosti o dopuštenjima</string>
   <string name="permission_storage_read_tip">Pristup fotografijama pohranjenim na vašem uređaju</string>
   <string name="permission_storage_tip">Spremiti preuzete stavke na vaš uređaj</string>
+  <string name="personalized">Personalizacije</string>
   <string name="phone_bind_too_many">Ovaj telefon je povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi telefonski broj.</string>
   <string name="phone_hint">Broj telefona</string>
   <string name="phone_num_use_for">Broj telefona se koristi za:</string>
@@ -752,6 +774,14 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="platform_unavailable_wechatmoment">Instaliraj Wechat</string>
   <string name="platform_unavailable_weibo">Instaliraj Weibo</string>
   <string name="privacy_setting">Postavke privatnosti</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
+  <string name="privacy_update_cancel">Odustani</string>
+  <string name="privacy_update_confirm">Slažem se</string>
+  <string name="privacy_update_quit">Izlaz</string>
+  <string name="privacy_update_summary1">Ažurirana su Wallpaper Carousel Pravila o privatnosti:</string>
+  <string name="privacy_update_summary2">"Pročitajte i složite se s novom verzijom &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
+  <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne pristanete na njegovu novu verziju &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a>. Slažete li se s ažuriranim Pravilima o privatnosti?"</string>
   <string name="prv_end">" "Nema više stavki za prikaz" "</string>
   <string name="prv_loading">" "Samo trenutak…" "</string>
   <string name="prv_nodata">" "Nema podataka" "</string>
@@ -782,10 +812,20 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="restart_action">Započni ispočetka</string>
   <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
+  <string name="revoke_button">Povuci</string>
+  <string name="revoke_failed1">Pogreška</string>
+  <string name="revoke_failed2">Pogreška</string>
+  <string name="revoke_failed_internet">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="revoke_failed_internet_confirm">Razumijem</string>
+  <string name="revoke_failed_service">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="revoke_failed_service_confirm">Razumijem</string>
+  <string name="revoke_privacy">Povlačenje suglasnosti</string>
+  <string name="revoke_privacy_running">Povlačenje suglasnosti…</string>
+  <string name="revoke_privacy_summary">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Wallpaper Carousel. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Budući da Wallpaper Carousel pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Wallpaper Carousela. Povući suglasnost?"</string>
   <string name="rv_with_footer_empty">Ovdje nema ništa</string>
   <string name="rv_with_footer_loading">" "Samo trenutak…" "</string>
   <string name="rv_with_footer_pull_load_more">Povuci dolje za prikazati više</string>
-  <string name="same_new_and_old_pwd">Ne može biti ista kao trenutna zaporka</string>
+  <string name="same_new_and_old_pwd">Ne može biti isto kao trenutna zaporka</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -932,6 +972,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="summary3">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi.&lt;br>Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije korištenja ove aplikacije."</string>
   <string name="summary4">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. "</string>
   <string name="summary5">"Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja. "</string>
+  <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_international">"Korištenjem ove značajke, prihvaćate naše &lt;a href ='%1$s'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
@@ -999,6 +1040,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_id_hint">E-pošta/Br. telefona</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="v_code_title">Unesite kontrolni kôd u 2 koraka</string>
   <string name="view_privacy_policy">Pravila o Privatnosti</string>
   <string name="wallpaper">Slika pozadine</string>
@@ -1013,6 +1056,9 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="wm_storage_used">"Zauzeto: "</string>
   <string name="wp_desktop_enable_title">Dijaprojekcija Poč. zaslona</string>
   <string name="wp_lockscreen_enable_title">Dijaprojekcija Zaklj. zaslona</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="xw_subscribe"/>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>

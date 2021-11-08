@@ -131,7 +131,7 @@
   <string name="important_warning">Pažnja</string>
   <string name="insert_data">Umetnite podatke</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
-  <string name="kill_pkg_toast_message">Uređaj se pregrijava i aplikacija će biti zatvorena</string>
+  <string name="kill_pkg_toast_message">"Ne mogu koristiti aplikacije zbog pregrijavanja uređaja"</string>
   <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
   <string name="lasttime_feature_cloud">Ažurirane značajke:</string>
   <string name="location_disable_description">Aplikacije u pozadini mogu pristupiti samo uslugama lociranja za kratko vrijeme, dok je kontinuirani pristup ograničen</string>
@@ -382,7 +382,7 @@
   <string name="softbank_high_temp_toast_time_10min">Isključena bljeskalica kako bi se izbjeglo pregrijavanje</string>
   <string name="softbank_high_temp_toast_time_4min">Isključena bljeskalica kako bi se izbjeglo pregrijavanje</string>
   <string name="still">Slika</string>
-  <string name="stricter_high_temp_state_message">"Uređaj se pregrijava, ne možete upotrebljavati druge aplikacije osim poziva i kontakata"</string>
+  <string name="stricter_high_temp_state_message">"Čini se da je ovaj uređaj pregrijan. Za sada ćete moći koristiti samo Telefon i Kontakte."</string>
   <string name="sucess">Gotovo</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>

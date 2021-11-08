@@ -59,6 +59,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="add_resource_detail_fail">"Ne mogu dodati izvor"</string>
   <string name="afternoon">PM</string>
   <string name="all_resources">Sve</string>
+  <string name="allow">Odobreno</string>
   <string name="already_latest_version">Najnovija verzija</string>
   <string name="already_newest_version">Trenutna verzija je ažurirana</string>
   <string name="am">AM</string>
@@ -229,8 +230,8 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="de_mix_mode_lockscreen">Zaklj. zaslon</string>
   <string name="de_mix_mode_lockscreen_desc">Slika pozadine i sat</string>
   <string name="de_mix_mode_superwallpaper">Super slike pozadine</string>
-  <string name="de_mix_mode_superwallpaper_with_aod_desc">Always-on display, Lock screen, and Home screen</string>
-  <string name="de_mix_mode_superwallpaper_without_aod_desc">Lock screen and Home screen</string>
+  <string name="de_mix_mode_superwallpaper_with_aod_desc">Always-on zaslon, Zaklj. zaslon, i Početni zaslon</string>
+  <string name="de_mix_mode_superwallpaper_without_aod_desc">Zaklj. zaslon i Početni zaslon</string>
   <string name="de_more_info">Više</string>
   <string name="de_more_resource">Povucite da biste vidjeli više</string>
   <string name="de_no_more_recommendations">"To je sve za sada."</string>
@@ -283,6 +284,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
   <string name="dialog_content_get_device_status">Ova aplikacija mora pristupiti ID-u vašeg uređaja da bi mogla autentificirati stavke kupljene na vašim drugim uređajima. Možda ćete moći isključiti neke od kupljenih stavki nakon što isključite ovu značajku. Svejedno isključiti?</string>
   <string name="dialog_show_never">"Ne prikazuj ponovno."</string>
   <string name="display">Zaslon</string>
+  <string name="do_not_allow">Ograničeno</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
   <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
@@ -514,8 +516,8 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="miui_clock_city_name_second">Drugi sat</string>
   <string name="miui_clock_fancy_colon"></string>
   <string name="miui_digital_clock_dot">:</string>
-  <string name="miui_lock_screen_date">dd.MM EEEE</string>
-  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date">EEEE dd.MM</string>
+  <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
 dd.MM"</string>
   <string name="miui_lock_screen_date_two_lines_12">"EEEE
@@ -691,6 +693,7 @@ dd.MM"</string>
   <string name="no_network_please_retry">Provjerite mrežne postavke i pokušajte ponovo</string>
   <string name="no_wallpaper">Nema stavki</string>
   <string name="noon">PM</string>
+  <string name="not_allow">Nije odobreno</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_incall_show">"Ova pozadina ne radi s profilnim videozapisima"</string>
   <string name="online_no_network">"Ne mogu se povezati na mrežu"</string>
@@ -719,7 +722,15 @@ dd.MM"</string>
   <string name="ota_recovery_theme_notity_btn">Vrati</string>
   <string name="ota_recovery_theme_notity_content">"Možete se vratiti na temu koju ste koristili prije ažuriranja"</string>
   <string name="ota_recovery_theme_notity_title">Vraćanje vaše teme</string>
+  <string name="pad_fold_exit_wallpaper_warning_content">"Nakon što se odjavite, nećete moći izvršiti sljedeće radnje:
+Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
+  <string name="pad_fold_exit_wallpaper_warning_title">Odjaviti se s Pozadine i personalizacije?</string>
+  <string name="pad_fold_log_in_theme_detail"><Data>"Pročitao sam i pristajem na Pozadine i personalizacije &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, također i Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
+  <string name="pad_fold_log_in_wallpaper">Prijavite se u Pozadine i personalizacije</string>
+  <string name="pad_fold_no_permission">Potrebna su dopuštenja za pohranu</string>
+  <string name="pad_fold_no_permission_detail">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani.</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
+  <string name="personalize">Personalizacije</string>
   <string name="personalize_alarm_ringtone_title">Alarmi</string>
   <string name="personalize_aod_title">AOD</string>
   <string name="personalize_call_ringtone_title">Melodije zvona</string>
@@ -735,11 +746,19 @@ dd.MM"</string>
   <string name="personalize_title">Slike pozadine i personalizacija</string>
   <string name="personalize_wallpaper_sub_title">Super slike pozadine i istaknute slike</string>
   <string name="personalize_wallpaper_title">Slike pozadine</string>
+  <string name="phone_exit_theme_warning_content">"Nakon što se odjavite, nećete moći izvršiti sljedeće radnje:
+1. Pregledati i koristiti stavke koje ste kupili ili dodali u favorite.
+2. Dodajte komentare i lajkove, pratite druge ljude i komunicirajte s njima."</string>
+  <string name="phone_exit_theme_warning_title">Odjaviti se iz Tema?</string>
+  <string name="phone_log_in_theme">Prijavite se u Teme</string>
+  <string name="phone_log_in_theme_detail"><Data>"Pročitao sam i pristajem na Teme &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>, također i Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
   <string name="playing_ringtone">Reproducira se</string>
   <string name="pm">PM</string>
   <string name="pref_lockscreen_magazine_summary">Zamijenite sliku pozadine prezentacijama slika iz različitih kategorija</string>
   <string name="pref_privacy_policy">Pravila o Privatnosti</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="pref_read_write_function_detail">Za promjenu postavki personalizacije i spremanje preuzetih stavki</string>
+  <string name="pref_reading_the_application_list_detail">Za korištenje transparentnih pozadina</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preference_subtitle_get_device_status">Dopustite aplikaciji pristup ID-u vašeg uređaja kako bi mogla preuzeti stavke kupljene na vašim drugim uređajima</string>
   <string name="preference_title_get_device_status">Pristup ID uređaja</string>
   <string name="present_local_fonts">Moji fontovi</string>
@@ -747,7 +766,112 @@ dd.MM"</string>
   <string name="present_local_themes_subtitle">Prilagodite svoj uređaj</string>
   <string name="present_official_themes">Naš odabir</string>
   <string name="present_online_themes">Preuzmite besplatno više tema</string>
+  <string name="privacy_action_failed_net_content">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="privacy_action_failed_server_content">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="privacy_action_failed_title">Pogreška</string>
+  <string name="privacy_confirm_logoff_and_exit">Otkaži usluge</string>
+  <string name="privacy_confirm_revoke_and_exit_btn">Povlačenje suglasnosti</string>
+  <string name="privacy_exit_btn">Izlaz</string>
+  <string name="privacy_give_up_logoff">Natrag</string>
+  <string name="privacy_give_up_revoke_btn">Natrag</string>
+  <string name="privacy_i_know_btn">Nastavi</string>
+  <string name="privacy_important_prompt_title">Pažnja</string>
+  <string name="privacy_log_off_succeed">Usluge su uspješno otkazane</string>
+  <string name="privacy_loging_off_warning">Otkazivanje usluga…</string>
+  <string name="privacy_logoff_services_title">Otkaži usluge</string>
+  <string name="privacy_logoff_theme_content_1">1. Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima. Više nećete moći koristiti kupljene artikle.</string>
+  <string name="privacy_logoff_theme_content_2">2. Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generirane na Xiaomi uređajima.</string>
+  <string name="privacy_logoff_theme_content_5">5. Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene.</string>
+  <string name="privacy_logoff_theme_service_warning">Sljedeće stavke će se trajno izbrisati nakon otkazivanja usluga:</string>
+  <string name="privacy_network_exception">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="privacy_pad_fold_Read_write_storage">Pristup pohrani</string>
+  <string name="privacy_pad_fold_entry">Privatnost</string>
+  <string name="privacy_pad_fold_logoff_service_content">Otkažite usluge Pozadina i personalizacija</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Sve pozadine, fontovi i melodije zvona preuzete na ovaj uređaj.</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Sve postavke dopuštenja, postavke i stavke iz predmemorije generirane na ovom uređaju.</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Provjerite imate li pravo otkazati usluge prije nego što nastavite.
+2. Otkazivanje usluga pozadine i personalizacije neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
+3. Otkazivanje usluge je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon što usluge budu otkazane. Sljedeći će podaci biti trajno izbrisani ili anonimizirani nakon otkazivanja usluge (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima. Više nećete moći koristiti kupljene artikle.
+Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generirane na Xiaomi uređajima.
+Sve pozadine, fontovi i melodije zvona preuzete na ovaj uređaj.
+Sve postavke dopuštenja, postavke i stavke iz predmemorije generirane na ovom uređaju.
+Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Otkazivanje usluge ne podrazumijeva izuzeće ili ublažavanje odgovornosti u vezi s radnjama izvršenim prije otkazivanja usluga.</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Izjava o otkazivanju usluga Pozadina i personalizacije</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Pročitajte i prihvatite \"Izjavu o otkazivanju usluga Pozadina i personalizacije\" prije nego što otkažete naše usluge.</string>
+  <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"Upravo ćete otkazati usluge Pozadina i personalizacije."</string>
+  <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy"><Data>"Pročitao sam i pristajem na \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o otkazivanju usluga Pozadina i personalizacije&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_pad_fold_read_wallpaper_privacy_policy"><Data>"Pročitao sam i pristajem na \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o povlačenju suglasnosti na Pravila o privatnosti Pozadina i personalizacije&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_pad_fold_revoke_agree_content_3">3. Sve pozadine, fontovi i melodije zvona preuzete na ovaj uređaj.</string>
+  <string name="privacy_pad_fold_revoke_agree_content_4">4. Sve postavke dopuštenja, postavke i stavke iz predmemorije generirane na ovom uređaju.</string>
+  <string name="privacy_pad_fold_revoke_agree_detail_prompt">Izjava o povlačenju suglasnosti na Pravila o privatnosti Pozadina i personalizacije</string>
+  <string name="privacy_pad_fold_revoke_agree_detail_title">Prije povlačenja suglasnosti pročitajte i prihvatite \"Izjavu o povlačenju suglasnosti na Pravila o privatnosti Pozadina i personalizacije\".</string>
+  <string name="privacy_pad_fold_revoke_agree_introduce">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Pozadina i personalizacije. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Budući da Pozadina i personalizacije pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Pozadina i personalizacije."</string>
+  <string name="privacy_pad_fold_update_content">Pravila o privatnosti Pozadina i personalizacije su ažurirana:</string>
+  <string name="privacy_pad_important_prompt_content">"Čini se da se još niste složili s našim korisničkim ugovorom i pravilima o privatnosti. Međutim, osnovne značajke i usluge Pozadina i personalizacije i dalje su vam dostupne.
+Kad god koristite stavke pohranjene na ovom uređaju za personalizaciju (npr. postavite ih kao pozadine ili melodije zvona), zamolit ćemo vas da ovoj aplikaciji dopustite pristup pohrani uređaja."</string>
+  <string name="privacy_permission_management_description">Pojedinosti o dopuštenjima</string>
+  <string name="privacy_permission_related_content">Dopuštenja</string>
+  <string name="privacy_permit_privacy_policy_content">"Nećete moći nastaviti koristiti ovu aplikaciju osim ako ne pristanete na novu verziju &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pravila o privatnosti&lt;/font>&lt;/a>. Slažete li se sada s ažuriranim Pravilima o privatnosti?"</string>
+  <string name="privacy_phone_important_prompt_content">"Čini se da se još niste složili s našim korisničkim ugovorom i pravilima o privatnosti. Međutim, osnovne značajke i usluge Tema su vam i dalje dostupne.
+Kad god koristite stavke pohranjene na ovom uređaju za personalizaciju (npr. postavite ih kao pozadine ili melodije zvona), zamolit ćemo vas da ovoj aplikaciji dopustite pristup pohrani uređaja."</string>
+  <string name="privacy_phone_logoff_service_content">Otkažite usluge Tema</string>
+  <string name="privacy_phone_logoff_theme_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
+  <string name="privacy_phone_logoff_theme_content_4">4. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Provjerite imate li pravo otkazati usluge prije nego što nastavite.
+2. Otkazivanje usluga tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
+3. Otkazivanje usluge je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon što usluge budu otkazane. Sljedeći će podaci biti trajno izbrisani ili anonimizirani nakon otkazivanja usluge (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima. Više nećete moći koristiti kupljene artikle.
+Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generirane na Xiaomi uređajima.
+Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.
+Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.
+Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
+  <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Otkazivanje usluge ne podrazumijeva izuzeće ili ublažavanje odgovornosti u vezi s radnjama izvršenim prije otkazivanja usluga.</string>
+  <string name="privacy_phone_logoff_theme_service_detail_prompt">Izjava o ukidanju usluga Tema</string>
+  <string name="privacy_phone_logoff_theme_service_detail_title">Pročitajte i prihvatite \"Izjavu o ukidanju usluga Tema\" prije nego što otkažete naše usluge.</string>
+  <string name="privacy_phone_logoff_theme_service_introduce">"Upravo ćete otkazati usluge Teme."</string>
+  <string name="privacy_phone_read_and_write_storage">Pristup pohrani</string>
+  <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Pročitao sam i pristajem na \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o ukidanju usluga Tema&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_phone_read_theme_privacy_policy"><Data>"Pročitao sam i pristajem na \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Izjava o povlačenju suglasnosti Pravila o privatnosti Tema&lt;/a>&lt;/font>\"."</Data></string>
+  <string name="privacy_phone_revoke_agree_content_3">3. Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.</string>
+  <string name="privacy_phone_revoke_agree_content_4">4. Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.</string>
+  <string name="privacy_phone_revoke_agree_detail_content_1">"1.Provjerite imate li pravo povući suglasnost prije nego što nastavite.
+2. Vaše povlačenje suglasnosti na Pravila o privatnosti Tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
+3. Povlačenje suglasnosti je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon povlačenja suglasnosti. Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
+  <string name="privacy_phone_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi račun. Više nećete moći koristiti kupljene artikle.
+Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Mi račun.
+Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.
+Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.
+Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
+  <string name="privacy_phone_revoke_agree_detail_content_3">"4. Nakon što povučete svoju suglasnostii na Pravila o privatnosti Tema, prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano.
+5. Povlačenje suglasnosti ne podrazumijeva izuzeće ili ublažavanje odgovornosti u vezi s radnjama izvršenim prije povlačenja suglasnosti."</string>
+  <string name="privacy_phone_revoke_agree_detail_prompt">Izjava o povlačenju suglasnosti na Pravila o privatnosti Tema</string>
+  <string name="privacy_phone_revoke_agree_detail_title">Pročitajte i prihvatite \"Izjavu o povlačenju suglasnosti na Pravila o privatnosti Tema\" prije nego što povučete svoju suglasnost.</string>
+  <string name="privacy_phone_revoke_agree_introduce">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Tema. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Budući da Teme pružaju svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga Tema."</string>
+  <string name="privacy_phone_update_content">Pravila o privatnosti Tema su ažurirana:</string>
+  <string name="privacy_read_statement">Najprije prihvatite uvjete i odredbe</string>
+  <string name="privacy_read_the_updated_privacy_policy_content">"Pročitajte i prihvatite novu verziju &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije nego nastavite."</string>
+  <string name="privacy_reading_the_application_list">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
+  <string name="privacy_revoke_agree_content">Povlačenje suglasnosti</string>
+  <string name="privacy_revoke_agree_content_1">1. Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi račun. Više nećete moći koristiti kupljene artikle.</string>
+  <string name="privacy_revoke_agree_content_2">2. Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Mi Račun.</string>
+  <string name="privacy_revoke_agree_content_5">5. Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene.</string>
+  <string name="privacy_revoke_agree_data_warning">Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):</string>
+  <string name="privacy_revoke_succeed">Suglasnot je uspješno povučena</string>
+  <string name="privacy_revoking_warning">Povlačenje suglasnosti…</string>
   <string name="privacy_settings">Privatnost</string>
+  <string name="privacy_update_prompt_title">Pravila o privatnosti su ažurirana</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Provjerite imate li pravo povući suglasnost prije nego što nastavite.
+2. Vaše povlačenje suglasnosti na Pravila o privatnosti Pozadina i personalizacije neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
+3. Povlačenje suglasnosti je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon povlačenja suglasnosti. Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja privole (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi Račun. Više nećete moći koristiti kupljene artikle.
+Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Mi Račun.
+Sve pozadine, fontovi i melodije zvona preuzete na ovaj uređaj.
+Sve postavke dopuštenja, postavke i stavke iz predmemorije generirane na ovom uređaju.
+Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
+  <string name="private_pad_fold_revoke_agree_detail_content_3">"4. Nakon što povučete svoju suglasnost na Pravila o privatnosti Pozadina i personalizacije, prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano.
+5. Povlačenje suglasnosti ne podrazumijeva izuzeće ili ublažavanje odgovornosti u vezi s radnjama izvršenim prije povlačenja suglasnosti."</string>
   <string name="provision_default_theme_title">Zadano</string>
   <string name="provision_loading_tips">Samo trenutak…</string>
   <string name="provision_second_title">Odaberite jednu od nekoliko zadanih tema</string>
@@ -1182,6 +1306,7 @@ Svaki sat vidjet ćete novu sliku."</string>
   <string name="theme_import_from_sdcard">Uvezi</string>
   <string name="theme_is_external_priority_storage">Spremi na SD karticu</string>
   <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu ove postavke.</string>
+  <string name="theme_log_out">Odjava</string>
   <string name="theme_multiple_button_title_customize">Prilagodi</string>
   <string name="theme_no">Ne</string>
   <string name="theme_not_include_module_desc">"Ova tema ne sadrži sljedeće stavke: %s"</string>

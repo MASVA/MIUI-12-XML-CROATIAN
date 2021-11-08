@@ -35,6 +35,7 @@
   <string name="am">AM</string>
   <string name="antispam">Lista blokiranih</string>
   <string name="app_name">Mi Mover</string>
+  <string name="app_update_title">Ažurirajte sve aplikacije</string>
   <string name="appname_app_data_suffix">%1$s podaci aplikacije</string>
   <string name="audio">Audiozapis</string>
   <string name="audio_video_document">Audio, videozapisi i dokumenti</string>
@@ -216,6 +217,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="guest_unfinished_task_alert_title">Nedovršeni zadaci</string>
   <string name="guest_wainting_title">Nastavite na novom uređaju</string>
   <string name="hide_password_description">Sakrij zaporku</string>
+  <string name="high_temp_summary">Vaš se uređaj može zagrijati tijekom prijenosa velike količine podataka. To je normalno i vaš će se uređaj ohladiti nakon dovršetka prijenosa.</string>
   <string name="host_boot_installation_bottom_tips">Ne možete pronaći Mi Mover? Dodirnite za preuzimanje.</string>
   <string name="host_boot_installation_button">Sljedeće</string>
   <string name="host_boot_installation_content">"1. Odite u Postavke na Vašem starom uređaju.
@@ -325,6 +327,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="main_sender_title">Stari</string>
   <string name="manual_connection_hint">Dodirnite \"Poveži se ručno\" na vašem starom uređaju.</string>
   <string name="manual_connection_title">Povežite stari uređaj na ovaj hotspot</string>
+  <string name="message_request_manage_external_storage_perm">Mi Mover treba pristupiti svim datotekama na ovom uređaju kako bi ih mogao premjestiti sa vašeg starog uređaja na novi.</string>
   <string name="manual_connection_summary2">"Ako ne možete pronaći ovaj hotspot, osvježite popis dostupnih Wi-Fi mreža i pokušajte ponovno."</string>
   <string name="message_request_package_stats_perm">Mi Mover treba ovo dopuštenje da bi saznao koje su aplikacije instalirane na uređaju i prebacio ih na drugi.</string>
   <string name="midnight">AM</string>
@@ -345,6 +348,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
@@ -504,6 +508,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="password">Upišite zaporku</string>
   <string name="password_null">Zaporka ne može biti prazna</string>
   <string name="perm_location">Pristup lokaciji</string>
+  <string name="perm_manage_external_storage">Pristup svim datotekama</string>
   <string name="perm_package_stats">Pristup statistikama upotrebe aplikacije</string>
   <string name="perm_payment_dspt">Dopustite aplikaciji plaćanje koristeći Mi Usluge plaćanja</string>
   <string name="perm_payment_lab">Mi Usluge plaćanja</string>
@@ -688,6 +693,7 @@ Oslobodite barem %s."</string>
   <string name="time_spent">Vrijeme: &lt;g id="time"&gt;%1$s&lt;/g&gt;</string>
   <string name="title_open_wlan">Uključi Wi-Fi</string>
   <string name="title_request_alert_window_perm">Dopusti plutajuće prozore</string>
+  <string name="title_request_manage_external_storage_perm">Potrebna su dopuštenja</string>
   <string name="title_request_package_stats_perm">Potrebno je dopuštenje</string>
   <string name="title_request_write_settings_perm">Dopusti promjenu postavki sustava</string>
   <string name="today">Danas</string>
