@@ -1418,9 +1418,9 @@
         <item>LDAC</item>
 		<item>Qualcomm® aptX™ Adaptivni audio</item>
 		<item>Qualcomm® aptX™ TWS+ audio</item>
-		<item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+        <item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
     </string-array>
@@ -1433,9 +1433,9 @@
         <item>LDAC</item>
 		<item>Qualcomm® aptX™ Adaptivni audio</item>
 		<item>Qualcomm® aptX™ TWS+ audio</item>
-		<item>LHDC_V3</item>
-        <item>LHDC_V2</item>
-        <item>LHDC_V1</item>
+		<item>LHDC V3/V4</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Omogućivanje izbornih kodeka</item>
         <item>Onemogućivanje izbornih kodeka</item>
     </string-array>

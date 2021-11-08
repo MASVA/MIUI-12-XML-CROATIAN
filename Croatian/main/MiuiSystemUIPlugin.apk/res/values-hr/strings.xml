@@ -162,8 +162,8 @@
   <string name="miui_ringer_total_description">Utišaj zvukove i isključi vibraciju za sve stavke osim alarma</string>
   <string name="miui_toast_zen_dnd_to_off">"Pozivi i obavijesti više neće biti utišane"</string>
   <string name="miui_toast_zen_dnd_to_off_T">Obavijesti više neće biti utišane</string>
-  <string name="miui_toast_zen_dnd_to_off_version_R">DND je isključeno. Zvukovi obavijesti i vibracije ponovno su uključeni.</string>
-  <string name="miui_toast_zen_standard_to_off">DND je isključeno. Melodije zvona ponovno su uključene.</string>
+  <string name="miui_toast_zen_dnd_to_off_version_R">DND je isključen. Zvukovi obavijesti i vibracije ponovno su uključeni.</string>
+  <string name="miui_toast_zen_standard_to_off">Bešumno je isključeno.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Bešumno je isključeno. Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Bešumno je isključeno. Obavijesti, zvukovi medija i vibracije ponovno su uključeni.</string>
   <string name="miui_toast_zen_to_dnd">Pozivi i obavijesti biti će utišani</string>
@@ -294,7 +294,7 @@
   <string name="quick_settings_pcmode_dialog_remember_text">"Ne prikazuj ponovno"</string>
   <string name="quick_settings_pcmode_label">PC način</string>
   <string name="quick_settings_pcmode_ok_button">U redu</string>
-  <string name="quick_settings_pcmode_error">Nije pronađena nijedna aplikacija, instalirajte je i pokušajte ponovo.</string>
+  <string name="quick_settings_pcmode_error">"Ne mogu pronaći ovu aplikaciju. Najprije je instalirajte."</string>
   <string name="quick_settings_pcmode_turn_off_description">"Zaslon vašeg telefona prikazat će se na vanjskom monitoru. Isključiti način rada s računalom?"</string>
   <string name="quick_settings_pcmode_turn_on_description">"Zaslon vašeg računala prikazat će se na vanjskom monitoru. Uključiti način rada s računalom?"</string>
   <string name="quick_settings_scanner_label">Skener</string>

@@ -1707,8 +1707,8 @@ snimke zaslona"</string>
   <string name="miui_snooze_user_set_fail">Idite u Postavke &gt; Obavijesti &amp; Centar za kontrolu za više opcija</string>
   <string name="miui_snooze_user_set_success">Uspješno primjenjeno. Idite u Postavke &gt; Obavijesti &amp; Centar za kontrolu za više opcija.</string>
   <string name="miui_toast_zen_dnd_to_off">DND je isključeno. Zvukovi i vibracije ponovno su uključeni.</string>
-  <string name="miui_toast_zen_dnd_to_off_version_R">DND je isključeno. Zvukovi obavijesti i vibracije ponovno su uključeni.</string>
-  <string name="miui_toast_zen_standard_to_off">DND je isključeno. Melodije zvona ponovno su uključene.</string>
+  <string name="miui_toast_zen_dnd_to_off_version_R">DND je isključen. Zvukovi obavijesti i vibracije ponovno su uključeni.</string>
+  <string name="miui_toast_zen_standard_to_off">Bešumno je isključeno.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Bešumno je isključeno. Melodije zvona, kao i obavijesti i zvukovi medija, bit će reproducirani.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media_version_R">Bešumno je isključeno. Obavijesti, zvukovi medija i vibracije ponovno su uključeni.</string>
   <string name="miui_toast_zen_to_dnd">DND je uključeno. Zvukovi su utišani i vibracija je isključena.</string>

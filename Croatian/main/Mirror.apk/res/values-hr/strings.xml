@@ -41,6 +41,7 @@
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_boss_terminal_name">Mi Notebook</string>
   <string name="default_error_msg">Nepoznata pogreška</string>
+  <string name="device_max_screen_count_toast">Ovaj uređaj podržava otvaranje samo dva prozora u isto vrijeme</string>
   <string name="display_max_screen_count_toast">U ovoj verziji možete otvoriti do 2 prozora</string>
   <string name="display_not_support_secondary_toast">"Ne mogu otvoriti ovu aplikaciju u novom prozoru"</string>
   <string name="download_aborted">"Ne mogu prenijeti zbog prekida veze"</string>

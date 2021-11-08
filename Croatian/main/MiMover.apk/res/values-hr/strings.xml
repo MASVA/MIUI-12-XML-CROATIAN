@@ -178,6 +178,7 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
   <string name="err_bakfile_broken">Ne mogu koristiti ovu Sig. kopiju.</string>
   <string name="err_bakfile_not_exist">Sig. kopija datoteke ne postoji.</string>
   <string name="err_binder_died">Aplikacija se neočekivano zaustavila.</string>
+  <string name="err_install_incompatible">Problem kompatibilnosti</string>
   <string name="err_low_storage">Nema dovoljno prostora za pohranu</string>
   <string name="err_no_gms">Nekompatibilna verzija aplikacije. Instalirajte ovu aplikaciju zasebno.</string>
   <string name="err_not_allow">Nije podržano</string>

@@ -171,6 +171,9 @@
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_description">Nije šifrirano</string>
   <string name="disable_encrypt_title">Isključi šifriranje</string>
+  <string name="disable_local_backup">Isključi lokalne Sig. kopije</string>
+  <string name="disable_local_backup_and_restore">Isključi lokalne Sig. kopije</string>
+  <string name="disable_local_backup_tips">"Nakon što isključite ovu značajku, sve će se lokalne Sig. kopije izbrisati. Postavke Sig. kopije će se izbrisati i Sig. kopije stavki više neće biti rađene automatske. I dalje ćete moći koristiti svoj uređaj kao i obično. Isključiti svejedno?"</string>
   <string name="enable_encrypt">Uključi šifriranje</string>
   <string name="enable_encrypt_description">Šifriraj</string>
   <string name="enable_encrypt_fail">Pogreška šifriranja</string>
@@ -180,6 +183,10 @@
   <string name="enable_encrypt_summery2">"Vaše Sig. kopije će biti automatski šifrirane. Morate se prijaviti sa svojim Mi Računom da im možete pristupiti."</string>
   <string name="enable_encrypt_title">Šifriraj Sig. kopije</string>
   <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
+  <string name="enable_local_backup">Uključi lokalne Sig. kopije</string>
+  <string name="enable_local_backup_and_restore">Uključi lokalne Sig. kopije</string>
+  <string name="enable_local_backup_tips">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
+  <string name="enable_local_backup_tips_global">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
   <string name="err_acquire_system_service">"Nije moguće pokrenuti uslugu sustava."</string>
   <string name="err_authentication_failed">Provjera nije uspjela</string>
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
@@ -315,7 +322,6 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -330,6 +336,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -910,10 +917,4 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
   <string name="xiaomi_update_dialog_title">Dostupno ažuriranje</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
-  <string name="disable_local_backup">Isključi lokalne Sig. kopije</string>
-  <string name="disable_local_backup_and_restore">Isključi lokalne Sig. kopije</string>
-  <string name="disable_local_backup_tips">"Nakon što isključite ovu značajku, sve će se lokalne Sig. kopije izbrisati. Postavke Sig. kopije će se izbrisati i Sig. kopije stavki više neće biti rađene automatske. I dalje ćete moći koristiti svoj uređaj kao i obično. Isključiti svejedno?"</string>
-  <string name="enable_local_backup">Uključi lokalne Sig. kopije</string>
-  <string name="enable_local_backup_and_restore">Uključi lokalne Sig. kopije</string>
-  <string name="enable_local_backup_tips">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
 </resources>
