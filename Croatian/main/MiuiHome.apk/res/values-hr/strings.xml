@@ -526,6 +526,7 @@
   <string name="navigation_guide_home_summary">Povucite prstom prema gore s donje strane zaslona</string>
   <string name="navigation_guide_home_title">Idi na Početni zaslon</string>
   <string name="navigation_guide_prohibit_gesture_hint">"Ne možete koristiti geste na cijelom zaslonu dok gledate demo"</string>
+  <string name="navigation_guide_provision_see_more_pad_with_virtual_key">Pogledajte više demonstracija u Postavke > Poč. zaslon > Navigacija sustavom</string>
   <string name="navigation_guide_recent_summary">Povucite prstom prema gore s dna zaslona i pauziraj</string>
   <string name="navigation_guide_recent_title">Otvori Nedavno</string>
   <string name="navigation_guide_settings">Demo gesta</string>

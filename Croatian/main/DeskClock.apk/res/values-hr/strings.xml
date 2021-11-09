@@ -382,6 +382,7 @@
   <string name="privacy_settings_title">Pravila o privatnosti</string>  
   <string name="pull_to_enter_private">Povuci dolje za otvaranje privatne mape</string>
   <string name="pull_to_refresh">Povuci za osvježiti</string>
+  <string name="query_privacy_policy">Pogledajte Pravila o privatnosti</string>
   <string name="reach_upper_limit">"Ne mogu dodati više timera"</string>
   <string name="read_external_storage_permission_desc">Za postavljanje prilagođenih melodija zvona</string>
   <string name="read_internal_storage">Pristup pohrani</string>

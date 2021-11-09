@@ -41,6 +41,7 @@
   <string name="channel_waiting">Preuzimanje na čekanju</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
+  <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="dialog_button_cancel">Odustani</string>
   <string name="dialog_button_ok">U redu</string>
@@ -158,6 +159,7 @@
   <string name="notify_install_guide_msg">Uspješno instalirano</string>
   <string name="notify_install_guide_title">%s uspješno instaliran</string>
   <string name="notify_only_wifi_download">Čekanje na Wi-Fi</string>
+  <string name="not_set">Nije postavljeno</string>
   <string name="paused_waiting_for_network">Čekanje na mrežu</string>
   <string name="permdesc_accessAllDownloads">Omogućuje aplikaciji prikaz i izmjenu svih preuzimanja koja je pokrenula bilo koja aplikacija.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Omogućuje aplikaciji preuzimanje datoteka u predmemoriju preuzimanja koja se ne može automatski izbrisati kada upravitelj preuzimanja treba više prostora.</string>
@@ -173,6 +175,7 @@
   <string name="permlab_downloadManagerAdvanced">Napredne funkcije aplikacije Preuzimanja.</string>
   <string name="permlab_downloadWithoutNotification">Preuzmi datoteke bez obavijesti</string>
   <string name="permlab_seeAllExternal">Prikaz svih preuz. na USB</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_notif_content">Dodirnite za pregled detalja.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je uključen</string>
   <string name="privacy_tip_cancel">Odustani</string>
@@ -202,6 +205,8 @@
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
   <string name="warning_tip_cancel">Preuzmi</string>
   <string name="warning_tip_content">"Više niste povezani s Wi-Fi-jem. Korištenje vaše mobilne podatkovne veze za dovršetak ovog preuzimanja će povećati uporabu podataka. Ako premašite svoje ograničenje, vaš operater vam može naplatiti dodatne naknade."</string>
   <string name="warning_tip_ok">Pauza</string>

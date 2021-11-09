@@ -46,6 +46,7 @@
   <string name="chip_text">Chip tekst</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="close">Zatvori</string>
   <string name="controls_confirmation_message">Potvrdite promjenu za %s</string>
   <string name="controls_dialog_confirmation">Kontrole su ažurirane</string>
   <string name="controls_dialog_message">%s predlaže da ovu kontrolu dodate u svoje favorite.</string>
@@ -90,6 +91,7 @@
   <string name="controls_seeding_in_progress">Učitavanje preporuka</string>
   <string name="controls_structure_tooltip">Povucite da biste vidjeli više</string>
   <string name="copy">Kopiraj</string>
+  <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="disabled">Onemogućeno</string>
   <string name="dnd_popup_close_message">Razumijem</string>
   <string name="dnd_popup_message">Možete uključiti DND način da biste utišali pozive i obavijesti bez isključivanja zvukova medija.</string>
@@ -173,6 +175,9 @@
   <string name="miui_toast_zen_to_standard">Bešumno je uključeno</string>
   <string name="miui_toast_zen_to_standard_when_shield_media">DND je uključeno. Melodije zvona, kao i zvukovi obavijesti i medija su utišani.</string>
   <string name="miui_toast_zen_to_standard_when_shield_media_version_R">Bešumno je uključeno. Obavijesti i mediji su utišani i vibracija je isključena.</string>
+  <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
+  <string name="miuix_appcompat_select_all">Odaberi sve</string>
+  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -311,6 +316,7 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="saturday_shortest">S</string>
   <string name="save">Spremi</string>
   <string name="search_menu_title">Traži</string>
+  <string name="send">Pošalji</string>
   <string name="slider_view_content_description">Povucite prema gore za isključivanje ili dolje za ponovno pokretanje</string>
   <string name="smart_home_title">Pametni uređaji</string>
   <string name="status_bar_setting_title">Centar za kontrolu &amp; traka statusa</string>

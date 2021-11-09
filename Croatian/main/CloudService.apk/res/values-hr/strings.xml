@@ -202,7 +202,7 @@ Zadnja Sig. kopija: %2$s"</string>
   <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
   <string name="find_device_error_server">Pogreška poslužitelja</string>
   <string name="find_device_error_unknown">Nepoznata pogreška.</string>
-  <string name="find_device_gdpr_prompt">Uključivanjem opcije Pronađi uređaj prihvaćate naša &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/u&gt;. Ako trebate opozvati autorizaciju o privatnosti, isključite tu značajku.</string>
+  <string name="find_device_gdpr_prompt">Uključivanjem opcije Pronađi uređaj prihvaćate naša <a href="app://com.miui.cloudservice.gdpr.license"><u>Pravila o privatnosti</u></a>. Ako trebate opozvati autorizaciju, isključite ovu značajku.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Pravila o privatnosti</string>
   <string name="find_device_notice_p1">Idite na</string>
   <string name="find_device_notice_p3">" kako biste locirali, zaključali ili resetirali svoj uređaj na daljinu.
@@ -240,6 +240,7 @@ Ako promjenite SIM kartice, još jedna SMS poruka će automatski biti poslana za
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="gallery_auto_sync_fail_noti_content">Nema dovoljno prostora za pohranu u Cloudu. Nadogradite svoj plan za pohranu za sinkronizaciju fotografija i videozapisa.</string>
   <string name="get_first_month_gb">Dobijte %s slobodnog prostora</string>
   <string name="get_this_month_gb">Dobijte %s slobodnog prostora ovaj mjesec</string>
   <string name="google_100gb">100GB</string>

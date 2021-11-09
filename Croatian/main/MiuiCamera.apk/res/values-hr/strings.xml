@@ -1299,6 +1299,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_audio_focus_title">Izoštravanje zvuka</string>
   <string name="pref_audio_indicator_entry_off">Zvuk je isklj.</string>
   <string name="pref_audio_indicator_entry_on">Zvuk je uklj.</string>
+  <string name="pref_auto_boot">Autom. pokretanje</string>
+  <string name="pref_auto_boot_summary">Učinite kameru osjetljivijom tako što ćete joj omogućiti automatsko pokretanje. Dopuštenjima za automatsko pokretanje možete upravljati u pojedinostima aplikacije.</string>
   <string name="pref_burst_shoot_title">Brzo snimanje</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Postavke</string>

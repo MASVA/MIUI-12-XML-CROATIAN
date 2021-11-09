@@ -780,7 +780,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="privacy_update_confirm">Slažem se</string>
   <string name="privacy_update_quit">Izlaz</string>
   <string name="privacy_update_summary1">Ažurirana su Wallpaper Carousel Pravila o privatnosti:</string>
-  <string name="privacy_update_summary2">"Pročitajte i složite se s novom verzijom &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
+  <string name="privacy_update_summary2">"Pročitajte i složite se s novom verzijom &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> prije nego nastavite."</string>
   <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne pristanete na njegovu novu verziju &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a>. Slažete li se s ažuriranim Pravilima o privatnosti?"</string>
   <string name="prv_end">" "Nema više stavki za prikaz" "</string>
   <string name="prv_loading">" "Samo trenutak…" "</string>

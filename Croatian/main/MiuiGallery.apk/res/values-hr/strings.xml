@@ -1160,10 +1160,10 @@ za fotografije"</string>
   <string name="grant_permission_unlock_and_set">Otključaj i postavi</string>
   <string name="grant_permission_unlock_and_set_2">Otključaj</string>
   <string name="grant_permission_write_clipboard">Da biste mogli kopirati stavke, dopustite ovoj aplikaciji spremanje stavki u međuspremnik.</string>
+  <string name="grayscale">Tonovi sive</string>
   <string name="group_header_title_immutable_album">Organizirajte fotografije</string>
   <string name="group_header_title_third_album">Više albuma</string>
   <string name="group_header_title_user_create_album">Moji albumi</string>
-  <string name="grayscale">Tonovi sive</string>
   <string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
   <string name="have_known">Razumijem</string>
   <string name="help">"Ne možete pronaći uređaje?"</string>
@@ -1171,8 +1171,8 @@ za fotografije"</string>
   <string name="hidden_album_display_name">Skriveni album</string>
   <string name="highlight">Isticanja</string>
   <string name="highlight_abbr">I</string>
-  <string name="home_menu_art_still">Umjetnost</string>
   <string name="home_menu_all_photos">Prikaži sve stavke</string>
+  <string name="home_menu_art_still">Umjetnost</string>
   <string name="home_menu_camera">Prikaži samo stavke Kamere</string>
   <string name="home_menu_cleaner">Oslobodite prostor</string>
   <string name="home_menu_collage">Kolaž</string>
@@ -1426,7 +1426,7 @@ za fotografije"</string>
   <string name="map_grant_position_permission_subtitle">Za prikazivanje obližnjih fotografija i videozapisa na karti</string>
   <string name="map_guide_message">Pogledajte svoje fotografije i videozapise na karti</string>
   <string name="map_positioning_failed_tip">"Ne mogu se dobiti informacije o lokaciji zbog slabog signala"</string>
-  <string name="map_privacy_dialog_message"><Data>Ova usluga omogućuje vam pregled fotografija i videozapisa s podacima o lokaciji na karti. Za pružanje ove usluge koristimo Baidu Map Open SDK. Pročitajte &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> da biste saznali više.</Data></string>
+  <string name="map_privacy_dialog_message">&lt;Data&gt;Ova usluga omogu&amp;#263;uje vam pregled fotografija i videozapisa s podacima o lokaciji na karti. Za pru&amp;#382;anje ove usluge koristimo Baidu Map Open SDK. Pro&amp;#269;itajte &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Privacy Policy for Open Platform Products and Services&amp;lt;/a&amp;gt; da biste saznali vi&amp;#353;e.&lt;/Data&gt;</string>
   <string name="map_privacy_dialog_title">Karta galerije</string>
   <string name="map_privacy_policy">Pravila o privatnosti Karta galerije</string>
   <string name="map_privacy_policy_1">Pravila o privatnosti</string>
@@ -2006,10 +2006,45 @@ za fotografije"</string>
   <string name="prepare_to_drop">Spremanje u %s</string>
   <string name="preparing_data">Samo trenutak…</string>
   <string name="print_log">Isprintaj zapis</string>
+  <string name="privacy">Pravila o privatnosti</string>
+  <string name="privacy_cloud_confirm">Uključi sinkronizaciju</string>
+  <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Pravila o privatnosti</string>
+  <string name="privacy_cloud_confirm_content2">Korisnički ugovor</string>
+  <string name="privacy_cloud_confirm_detail">&lt;Data&gt;"Nakon &amp;#353;to uklju&amp;#269;ite sinkronizaciju, fotografije i videozapisi s ovog ure&amp;#273;aja bit &amp;#263;e preneseni u Mi Cloud i spojeni s prethodno sinkroniziranim stavkama (ako ih ima). Pro&amp;#269;itajte i prihvatite Mi Cloud &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite."&lt;/Data&gt;</string>
+  <string name="privacy_cloud_confirm_detail_negative">Izlaz</string>
+  <string name="privacy_cloud_confirm_detail_positive">Prihvaćam</string>
+  <string name="privacy_cloud_confirm_rejected">Suglasnost na Pravila o privatnosti Xiaomi Clouda je povučena za ovaj račun. Pokušajte koristiti drugi račun.</string>
+  <string name="privacy_detail">Pogledajte Pravila o privatnosti</string>
+  <string name="privacy_detail_map">Pogledajte Gallery Map Pravila o privatnosti</string>
+  <string name="privacy_entrance">Privatnost</string>
+  <string name="privacy_map">Gallery Map</string>
+  <string name="privacy_map_detail">&lt;Data&gt;Ova usluga vam omogu&amp;#263;uje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pru&amp;#382;ili ovu uslugu. Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Pravila o privatnosti za Open Platform Products and Services&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_map_detail_content">Baidu Map Pravila o privatnosti za Open Platform Products and Services</string>
+  <string name="privacy_permission">Dopuštenja</string>
+  <string name="privacy_permission_account">Računi</string>
+  <string name="privacy_permission_account_detail">Za prijavu i sinkronizaciju stavki s Cloudom</string>
+  <string name="privacy_permission_agree">Odobreno</string>
+  <string name="privacy_permission_clip">Pristup međuspremniku</string>
+  <string name="privacy_permission_clip_detail">Za pristup kopiranim stavkama</string>
+  <string name="privacy_permission_clip_write">Spremanje stavki u međuspremnik</string>
+  <string name="privacy_permission_clip_write_detail">Za kopiranje stavki</string>
+  <string name="privacy_permission_contact">Kontakti</string>
+  <string name="privacy_permission_contact_detail">Za imenovanje ljudi na fotografijama i videozapisima</string>
+  <string name="privacy_permission_detail">Pojedinosti o dopuštenjima</string>
+  <string name="privacy_permission_disagree">Nije odobreno</string>
+  <string name="privacy_permission_location">Lokacija</string>
+  <string name="privacy_permission_location_detail">Za prikaz fotografija i videozapisa na karti</string>
   <string name="privacy_permission_request_message">&lt;Data&gt;Galerija treba pristupiti %3$s. Podaci koje prikupljamo koristit &amp;#263;e se u skladu s na&amp;#353;im &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pru&amp;#382;anja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;. Dopustiti?&lt;/Data&gt;</string>
   <string name="privacy_permission_request_negative">Ograniči</string>
   <string name="privacy_permission_request_positive">Dopusti</string>
   <string name="privacy_permission_request_title">Potrebno je dopuštenje</string>
+  <string name="privacy_permission_shotcut">Prečac na početnom zaslonu</string>
+  <string name="privacy_permission_shotcut_detail">Za stvaranje prečaca na početnom zaslonu</string>
+  <string name="privacy_permission_storage">Pohrana</string>
+  <string name="privacy_permission_storage_detail">Za pohranu fotografija i videozapisa</string>
+  <string name="privacy_rejected">Povlačenje suglasnosti</string>
+  <string name="privacy_rejected_map">Povlačenje suglasnosti Pravila o privatnosti Gallery Map</string>
+  <string name="privacy_rejected_map_detail">"Vaše povlačenje suglasnosti na Pravila o privatnosti Gallery Map smatrat će se odbijanjem prihvaćanja njezinih usluga. Ostale osnovne značajke i usluge neće biti pogođene. Svejedno povući?"</string>
   <string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
   <string name="private_entry_lock_state_enterd_text">Povuci dolje za otvaranje privatne mape</string>
   <string name="problem_feedback">Povratne inf.</string>

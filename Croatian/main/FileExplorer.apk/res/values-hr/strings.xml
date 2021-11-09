@@ -817,7 +817,6 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="oauth_success_tip">Uspješno autorizirano</string>
   <string name="one_account_bind_needed">Dodajte barem jedan račun</string>
   <string name="online_not_support">"Ne mogu prikazati ovu datoteku u ovom trenutku."</string>
-  <string name="open_or_close_wlan">Uključite i isključite Wi-Fi</string>
   <string name="only_wifi">Preuzmi kad je povezano na Wi-Fi</string>
   <string name="open_app">Otvori</string>
   <string name="open_changed_file_message">"Datoteka koju pokušavate otvoriti je izmijenjena. Možete slijedeće:
@@ -827,6 +826,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="open_chest">Otvorite da biste dobili dar</string>
   <string name="open_chest_failed">"Ne mogu otvoriti, provjerite mrežne postavke i pokušajte ponovo"</string>
   <string name="open_file_failed">"Ne mogu otvoriti"</string>
+  <string name="open_or_close_wlan">Uključite i isključite Wi-Fi</string>
   <string name="open_private_folder">Otpustite za prikaz skrivenih mapa</string>
   <string name="operate_confirm_in_3g">"Koristiti vašu mobilnu podatkovnu vezu za preuzimanje ove datoteke? Snositi ćete redovite troškove vašeg mobilnog operatera."</string>
   <string name="operating">Obrada…</string>
@@ -957,9 +957,14 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="popup_msg_wb">Cool videozapis? Podijelite ga s vašim Weibo prijateljima!</string>
   <string name="popup_msg_wx">Podijelite ovaj videozapis s vašim WeChat prijateljima.</string>
   <string name="port_range">Port mora biti između 1024–65535</string>
+  <string name="pref_permission_allowed">Odobreno</string>
+  <string name="pref_permission_manage_key_storage">Pristup fotografijama i datotekama na uređaju</string>
+  <string name="pref_permission_not_allowed">Nije odobreno</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="pretty_girl">Žena</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_policy_renew">Ažurirana su Pravila o privatnosti</string>
+  <string name="privacy_policy_renew_content">&lt;Data&gt;"A&amp;#382;urirana su &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; aplikacije Datoteke. Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite novu verziju Pravila o privatnosti prije nego &amp;#353;to nastavite."&lt;/Data&gt;</string>
   <string name="private_files">Skriveno</string>
   <string name="private_folder">Skriveno</string>
   <string name="private_folder_no_file_hints">Nema skrivenih datoteka.</string>
@@ -1491,6 +1496,10 @@ oslobodili prostor.</string>
   <string name="welcome_to_my_page_1">Pratite me!</string>
   <string name="welcome_to_my_page_2">Pratite me!</string>
   <string name="wifi_state">Wi-Fi mreža</string>
+  <string name="withdraw">Povuci</string>
+  <string name="withdraw_consent">Povlačenje suglasnosti</string>
+  <string name="withdraw_consent_content">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Datoteka. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima, osim ako nije drugačije propisano. Budući da Datoteke pružaju svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Datoteka."</string>
+  <string name="withdraw_consent_summary">Povlačenje suglasnosti Pravila o privatnosti Datoteka</string>
   <string name="wxcircle_platform">Trenuci</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_btn_bind">Mi Račun</string>
