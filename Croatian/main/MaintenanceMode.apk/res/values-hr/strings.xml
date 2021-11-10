@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agree">Slažem se</string>
+    <string name="cancel">Odustani</string>
+    <string name="check_protocol_msg">Za korištenje načina održavanja kliknite ovdje slažem se</string>
+    <string name="check_protocol_msg_detail">Prije pokretanja načina održavanja, provjerite jesu li podaci sigurnosno kopirani, a postprodajna služba nije odgovorna za mogući gubitak podataka uzrokovan popravljenim proizvodom.</string>
+    <string name="check_protocol_msg_sub">Odricanje od odgovornosti za korisničke podatke</string>
+    <string name="click_to_close">Kliknite ovdje da biste izašli iz načina održavanja</string>
+    <string name="close_maintenance_mode">Zatvori načina održavanja</string>
+    <string name="create_fail">Kreiranje načina održavanja nije uspjelo, pokušajte ponovo kasnije</string>
+    <string name="create_fail_because_max_user">Dosegnut je maksimalni broj korisnika u sustavu, molimo izbrišite avatar, dvostruko otvaranje ili podatke o dječjem načinu i pokušajte ponovno</string>
+    <string name="delete_maintenance_mode">Brisanje načina održavanja…</string>
+    <string name="disagree">Ne slažem se</string>
+    <string name="forbid_create">Način održavanja može se kreirati samo u glavnom korisničkom prostoru</string>
+    <string name="maintenance_mode">Način održavanja</string>
+    <string name="maintenance_mode_close_title">U načinu održavanja</string>
+    <string name="maintenance_mode_loading">Pokretanje načina popravka, uređaj će se uskoro ponovno pokrenuti …</string>
+    <string name="maintenance_mode_reboot">Ponovno pokretanje načina održavanja</string>
+    <string name="maintenance_mode_title">Sveobuhvatna zaštita podataka mobilnog telefona</string>
+    <string name="maintenance_mode_watch_out">Zaštitite važne privatne podatke kao što su fotografije, videozapisi, kontakti, zapisnici poziva i tekstualne poruke tijekom održavanja nakon prodaje</string>
+    <string name="open">Otvori način održavanja</string>
+    <string name="open_maintenance_mode">Otvori način održavanja</string>
+    <string name="open_maintenance_mode_msg">Kako biste izbjegli gubitak podataka, preporuča se da uređaj pošaljete na popravak </string>
+    <string name="open_maintenance_mode_msg_sub">nakon što ste sigurnosno kopirali svoje podatke</string>
+    <string name="reached_max_user">Dosegnut je maksimalni broj korisnika</string>
+    <string name="reboot_maintenance_mode">Brisanje načina održavanja je završeno, ponovno pokrenite uređaj</string>
+    <string name="reboot_msg">Uključivanjem načina održavanja automatski će se ponovno pokrenuti telefon, molimo potvrdite je li odmah uključen</string>
+    <string name="reopen_maintenance_mode">Otkriveno je da je glavni korisnik uređaja otključan. Kako biste zaštitili privatnost korisnika i sigurnost podataka, preporuča se da ponovno uđete u način održavanja</string>
+    <string name="set_password_main_user">Postavite zaporku za glavnog korisnika</string>
+    <string name="set_password_main_user_context">Kako biste osigurali sigurnost svojih podataka, postavite zaporku Zaklj. zaslona. Zaporka se ne može dohvatiti, zapamtite je. Kada zatvorite način održavanja, morate provjeriti zaporku Zaklj. zaslona koju ste postavili.</string>
+    <string name="setting">Postavke</string>
+    <string name="switch_to_maintenance_mode">Prijeđite na način održavanja</string>
+</resources>

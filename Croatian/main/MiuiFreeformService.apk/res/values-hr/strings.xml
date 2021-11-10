@@ -41,6 +41,8 @@
   <string name="freeform_demo_final_restart">Započni ispočetka</string>
   <string name="freeform_demo_final_title">"Sad ste spremni!"</string>
   <string name="freeform_demo_go_on">Dalje</string>
+  <string name="freeform_demo_next_tutorial">Dalje</string>
+  <string name="freeform_demo_previous_tutorial">Natrag</string>
   <string name="freeform_demo_title_finish">Lijepo!</string>
   <string name="freeform_demo_title_skip">Preskoči</string>
   <string name="freeform_slide_to_small_freeform">Smanjite plutajući prozor</string>
