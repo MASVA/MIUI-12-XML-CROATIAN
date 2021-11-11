@@ -40,6 +40,7 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="icon_add_description">Dodajte prečac na Poč. zaslon</string>
+  <string name="i_get_it">Razumijem</string>
   <string name="icon_remove_confirm">Ukloni</string>
   <string name="icon_remove_description_content">"\"Usluge &amp; Povratne inf.\" je sistemska aplikacija. I dalje ćete je moći koristiti putem Postavki nakon što uklonite prečac na Poč. zaslonu."</string>
   <string name="icon_remove_description_title">Ukloniti \"Usluge &amp; Povratne inf.\" sa Poč. zaslona?</string>
@@ -280,7 +281,11 @@
   <string name="permission_storage_introduce">Za spremanje predmeta na uređaj</string>
   <string name="permission_user_protocol">Korisnički ugovor (obavezno)</string>
   <string name="pm">PM</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="privacy_policy_update_hint">"Ažurirana su %1$s  Pravila o privatnosti:
+%2$s
+Pročitajte i prihvatite novu verziju %3$s prije nego što nastavite."</string>
+  <string name="privacy_policy_update_title">Ažurirana su Pravila o privatnosti</string>
   <string name="public_loading_text">Samo trenutak…</string>
   <string name="public_net_error_retry">Pokušajte ponovo</string>
   <string name="public_net_error_sub_title">Provjerite postavke mreže i pokušajte ponovno</string>
@@ -315,10 +320,16 @@
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="user_must_known">Pažnja</string>
+  <string name="user_must_known_content">"Nećete moći nastaviti koristiti naše usluge osim ako ne pristanete na novu verziju naših %s. Prihvaćate li ažurirana Pravila o privatnosti?"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
+  <string name="withdraw_consent_failed">"Ne mogu povući suglasnost"</string>
+  <string name="withdraw_consent_failed_hint">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="withdraw_consent_failed_hint_connect_net">Vaš se uređaj mora povezati s mrežom da biste mogli povući suglasnost. Provjerite postavke mreže i pokušajte ponovno.</string>
+  <string name="withdrawing">Povlačenje suglasnosti…</string>
   <string name="yesterday">Jučer</string>
 </resources>

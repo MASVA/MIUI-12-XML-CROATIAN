@@ -370,9 +370,9 @@
   <string name="set_lcd_mode">Način zaslona</string>
   <string name="settings_safetylegal_activity_loading">Samo trenutak…</string>
   <string name="show_system_app">Prikaži aplikacije sustava</string>
-  <string name="sleep_config_enhance_description">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, mobilne podatke i Wi-Fi, i neće upaliti ekran kod obavijesti."</string>
-  <string name="sleep_config_enhance_description_non_nfc">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, Bluetooth, GPS, mobilne podatke i Wi-Fi, i neće upaliti ekran kod obavijesti."</string>
-  <string name="sleep_config_enhance_description_pad">"Kad god MIUI otkrije da spavate, zatvorit će pozadinske aplikacije, ograničiti upotrebu Bluetootha i Wi-Fi-ja i neće osvijetliti zaslon za obavijesti."</string>
+  <string name="sleep_config_enhance_description">"Da bi uštedio bateriju, MIUI će zatvoriti pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, korištenje mobilnih podataka i Wi-Fi-ja i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
+  <string name="sleep_config_enhance_description_non_nfc">"Da bi uštedio bateriju, MIUI će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha, GPS-a, mobilnih podataka i Wi-Fi-ja te neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
+  <string name="sleep_config_enhance_description_pad">"Da bi uštedio bateriju, MIUI će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha i Wi-Fija i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="sleepmode_disclaimer_agree">Slažem se</string>
   <string name="sleepmode_disclaimer_cancel">Odustani</string>
