@@ -800,16 +800,16 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="presence_label">Prikaži me kao</string>
   <string name="privacy_card_description">Pristanite na naša Pravila o privatnosti da biste pristupili svim značajkama.</string>
   <string name="privacy_label">"Privatnost"</string>
-  <string name="privacy_policy_dialog_agree">Pristajem</string>
-  <string name="privacy_policy_dialog_dont_agree">"Ne pristajem"</string>
-  <string name="privacy_policy_dialog_message">&lt;Data&gt;"Dobrodo&amp;#353;li u Kalendar!&amp;lt;br/&amp;gt;Ovu aplikaciju mo&amp;#382;ete koristiti za stvaranje i upravljanje doga&amp;#273;ajima, postavljanje podsjetnika i primanje dodatnih podataka specifi&amp;#269;nih za va&amp;#353;u lokaciju.&amp;lt;br/&amp;gt;Kalendar treba prikupiti potrebne osobne podatke kako bi vam pru&amp;#382;io osnovne usluge . Mo&amp;#382;ete nau&amp;#269;iti kako postupamo s podacima koje prikupljamo u na&amp;#353;im &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%3$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja Kalendara. U bilo kojem trenutku mo&amp;#382;ete povu&amp;#263;i svoj pristanak na Pravila o privatnosti Kalendara u Postavkama.&amp;lt;br/&amp;gt; Ako se ne sla&amp;#382;ete s na&amp;#353;im Pravilima o privatnosti, ne&amp;#263;ete mo&amp;#263;i koristiti neke zna&amp;#269;ajke ove aplikacije; me&amp;#273;utim, osnovna funkcionalnost i dalje &amp;#263;e vam biti dostupna."&lt;/Data&gt;</string>
+  <string name="privacy_policy_dialog_agree">Prihvaćam</string>
+  <string name="privacy_policy_dialog_dont_agree">"Odbijam"</string>
+  <string name="privacy_policy_dialog_message"><Data>"Dobrodošli u Kalendar!&lt;br/>Ovu aplikaciju možete koristiti za izradu događaja i upravljanje njima, postavljanje podsjetnika i primanje dodatnih informacija specifičnih za vašu lokaciju.&lt;br/>Kalendar treba prikupiti potrebne osobne podatke kako bi vam pružio osnovne usluge. Možete saznati kako postupamo s podacima koje prikupljamo u našim &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>.&lt;br/>Pročitajte i prihvatite naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a> prije korištenja Kalendara. Svoju suglasnost na Pravila o privatnosti Kalendara možete povući u Postavkama u bilo kojem trenutku.&lt;br/> Ako ne prihvatite naša Pravila o privatnosti, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna."</Data></string>
   <string name="privacy_policy_dialog_title">Uvjeti i odredbe</string>
   <string name="privacy_revoke_switch_text">Povlačenje pristanka</string>
   <string name="productivity_add_event">Izradi događaj</string>
   <string name="productivity_cannot_move_event">"Ne mogu premjestiti ovaj događaj"</string>
   <string name="productivity_move_event_failed">"Ne mogu premjestiti ovaj događaj na dd.MM.yyyy"</string>
   <string name="productivity_move_event_hint">Pritisnite i držite događaj da ga premjestite na drugi datum</string>
-  <string name="productivity_move_event_success">Događaj pemješten na dd.MM.yyyy</string>
+  <string name="productivity_move_event_success">Događaj premješten na dd.MM.yyyy</string>
   <string name="productivity_no_event">Za danas nisu planirani nikakvi događaji</string>
   <string name="pull_refresh_events">Prikaži događaje %d</string>
   <string name="pull_refresh_events_default">Prikaži događaje iz prethodne godine</string>
@@ -878,8 +878,8 @@ Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="response_no">"Ne"</string>
   <string name="response_yes">"Da"</string>
   <string name="revoke_confirmation_dialog_confirm">Povlačenje</string>
-  <string name="revoke_confirmation_dialog_message">Isključivanjem povlačite svoj pristanak na Pravila o privatnosti Kalendara. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku kako to zahtijevaju važeći zakoni. Kalendar mora prikupiti potrebne osobne podatke kako bi vam pružio osnovne usluge. Vaše povlačenje pristanka na njegova Pravila o privatnosti smatrat će se odbijanjem prihvaćanja njegovih usluga na temelju prikupljenih osobnih podataka.</string>
-  <string name="revoke_confirmation_dialog_title">Povlačenje pristanka</string>
+  <string name="revoke_confirmation_dialog_message">Isključivanjem povlačite svoju suglasnost na Pravila o privatnosti Kalendara. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku kako to zahtijevaju važeći zakoni. Kalendar mora prikupiti potrebne osobne podatke kako bi vam pružio osnovne usluge. Vaše povlačenje suglasnosti na njegova Pravila o privatnosti smatrat će se odbijanjem prihvaćanja njegovih usluga na temelju prikupljenih osobnih podataka.</string>
+  <string name="revoke_confirmation_dialog_title">Povlačenje suglasnosti</string>
   <string name="revoke_fail_message">"Ne mogu se povezati s mrežom"</string>
   <string name="revoke_processing_message">Obrada…</string>
   <string name="saturday">Subota</string>

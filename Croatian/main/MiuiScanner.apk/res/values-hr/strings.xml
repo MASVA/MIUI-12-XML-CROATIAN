@@ -261,7 +261,7 @@
   <string name="importFailed">"Ne mogu uvesti"</string>
   <string name="import_contact">Uvezi kontakt</string>
   <string name="import_picture">Uvezi</string>
-  <string name="impunity_declaration_content">"Skener mora koristiti kameru i obrađivati slike koje snimate tijekom korištenja aplikacije. Nemojte koristiti Skener da biste fotografirali objekte koji sadrže vaše osobne podatke. Dodirom \"Prihvaćam\", prihvaćate naše &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o Privatnosti&lt;/a&gt;&lt;/font&gt; i dopustite aplikaciji povezivanje s internetom."</string>
+  <string name="impunity_declaration_content">"Skener mora koristiti kameru i obrađivati slike koje snimate tijekom korištenja aplikacije. Nemojte koristiti Skener da biste fotografirali objekte koji sadrže vaše osobne podatke. Dodirom \"Prihvaćam\", prihvaćate naše &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o Privatnosti&lt;/a&gt;&lt;/font&gt; i dopuštate aplikaciji povezivanje s internetom."</string>
   <string name="impunity_declaration_negative_text">Izlaz</string>
   <string name="impunity_declaration_positive_text">Dopusti</string>
   <string name="impunity_declaration_title">Uvjeti pružanja usluge</string>

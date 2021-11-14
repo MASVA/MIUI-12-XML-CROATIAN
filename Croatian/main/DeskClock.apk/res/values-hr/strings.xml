@@ -39,7 +39,7 @@
   <string name="add_timer">Česti timer</string>
   <string name="add_timezone_title">Dodaj vremensku zonu</string>
   <string name="aggree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
-  <string name="agree">Slažem se</string>
+  <string name="agree">Prihvaćam</string>
   <string name="alarm_alert">Zadani zvuk alarma</string>
   <string name="alarm_alert_alert_silenced">Alarm utišan nakon %1$s min.</string>
   <string name="alarm_alert_disabled">Isključeno</string>
@@ -266,9 +266,9 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="module_dialog_negative">"Ne slažem se"</string>
+  <string name="module_dialog_negative">"Odbijam"</string>
   <string name="module_dialog_neutral">Razumijem</string>
-  <string name="module_dialog_positive">Slažem se</string>
+  <string name="module_dialog_positive">Prihvaćam</string>
   <string name="module_download_cancel">Ne hvala</string>
   <string name="module_download_data_msg">Da bi MIUI pametni alarmi bili dostupni, Sat treba preuzeti datoteke zvuka. Pametni alarmi sadrže značajke zvuka koje omogućuju uključivanje informacija o trenutnom vremenu u alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
   <string name="module_download_data_msg_golbal">Sat mora preuzeti datoteke zvuka za MIUI 10 pametne alarme. ≈20MB mobilnih podataka bit će potrebno za ovo preuzimanje. Preuzeti sada?</string>
@@ -351,10 +351,10 @@
   <string name="more_alert_setting">Dodatne postavke alarma</string>
   <string name="more_setting">Više postavki</string>
   <string name="more_settings">Postavke</string>
-  <string name="net_permission_cancel">"Ne slažem se"</string>
-  <string name="net_permission_ok">Slažem se</string>
-  <string name="network_privacy">U cilju pružanja relevantnih informacija o lokalnim praznicima i prilagođavanju alarma, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazu&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?</string>
-  <string name="network_privacy_global">U cilju pružanja personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički Sporazu&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?</string>
+  <string name="net_permission_cancel">"Odbijam"</string>
+  <string name="net_permission_ok">Prihvaćam</string>
+  <string name="network_privacy"><Data>U cilju pružanja relevantnih informacija o lokalnim praznicima i prilagođavanju alarma, aplikacija Sat se mora povezati s internetom. Prije korištenja aplikacije, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate???</Data></string>
+  <string name="network_privacy_global"><Data>U cilju pružanja relevantnih informacija o lokalnim praznicima i prilagođavanju alarma, aplikacija Sat se mora povezati s internetom. Prije korištenja aplikacije, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="never">Jednom</string>
   <string name="new_label">Dodaj tekst alarma</string>
   <string name="no_alarm_setting">Nema alarma</string>
