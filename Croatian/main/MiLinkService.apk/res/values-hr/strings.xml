@@ -271,7 +271,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_agree">Slažem se</string>
   <string name="privacy_detail">Dopustite ovoj aplikaciji da se poveže s internetom i dajte potrebna dopuštenja prije nego što nastavite.</string>
-  <string name="privacy_detail_extra">&lt;Data&gt;Neke značajke pruža treći pružatelj usluga HappyCast. Prije upotrebe ove značajke pročitajte i složite se našim &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;HappyCast Korisnički ugovor&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra"><Data>Neke značajke pruža treći pružatelj usluga HappyCast. Prije upotrebe ove značajke pročitajte i prihvatite &lt;a href=%1$s>HappyCast Pravila o privatnosti&lt;/a> i &lt;a href=%2$s>HappyCast Korisnički ugovor&lt;/a>.</Data></string>
   <string name="privacy_explain">"Dobrodošli u Emitiranje! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:"</string>
   <string name="privacy_negative">Izlaz</string>
   <string name="privacy_permission_ble">Uključivanje i isključivanje Bluetootha</string>

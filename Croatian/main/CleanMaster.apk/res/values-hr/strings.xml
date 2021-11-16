@@ -734,8 +734,8 @@
   <string name="powerful_acceleration_notification_summary">Dodirnite za oslobađanje više prostora</string>
   <string name="powerful_acceleration_notification_title">Defragmentacija završena</string>
   <string name="powerful_acceleration_tip">Unutarnja pohrana pati od fragmentacije, što može znatno usporiti vaš uređaj. Defragmentacija fizički organizira vaše datoteke u najmanji broj fragmenata smanjujući lag.</string>
-  <string name="powerful_acceleration_tip_high">&lt;Data&gt;Va&amp;#353;a pohrana je &amp;lt;font color=#ff0000 &amp;gt;jako&amp;lt;/font&amp;gt; fragmented. Defragmentacija mo&amp;#382;e rije&amp;#353;iti problem.&lt;/Data&gt;</string>
-  <string name="powerful_acceleration_tip_middle">&lt;Data&gt;Va&amp;#353;a pohrana je &amp;lt;font color=#ff0000 &amp;gt;lagano&amp;lt;/font&amp;gt; fragmented. Defragmentacija mo&amp;#382;e rije&amp;#353;iti problem.&lt;/Data&gt;</string>
+  <string name="powerful_acceleration_tip_high"><Data>Vaša pohrana je &lt;font color=#ff0000 >ozbiljno&lt;/font> fragmentirana. Defragmentacija može riješiti problem.</Data></string>
+  <string name="powerful_acceleration_tip_middle"><Data>Vaša pohrana je &lt;font color=#ff0000 >neznatno&lt;/font> fragmentirana. Defragmentacija može riješiti problem.</Data></string>
   <string name="powerful_acceleration_toast">"Defragmentacija će se izvoditi kada ne koristite uređaj"</string>
   <string name="pref_about_privacy_title">Pravila o Privatnosti</string>
   <string name="pref_category_title_auto_clean_config_settings">Automatsko čišćenje</string>

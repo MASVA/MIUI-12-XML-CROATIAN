@@ -59,7 +59,7 @@
     <string name="documentmanager_addPic_failed">"Nije moguće umetnuti sliku"</string>
     <string name="documentmanager_checkUpdate">Provjeri ima li ažuriranja</string>
     <string name="documentmanager_chooseEmail">Odaberi aplikaciju</string>
-    <string name="documentmanager_feedback">Povratna inf.</string>
+    <string name="documentmanager_feedback">Povratne inf.</string>
     <string name="documentmanager_file_loading">Samo trenutak…</string>
     <string name="documentmanager_log_list_title">Odaberi zapis</string>
     <string name="documentmanager_log_no_log">Nema zapisa pogrešaka</string>

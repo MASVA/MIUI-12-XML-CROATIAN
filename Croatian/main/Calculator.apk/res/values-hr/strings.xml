@@ -417,7 +417,7 @@
   <string name="permission_location_desc">Za pružanje usluga temeljenih na lokaciji</string>
   <string name="permission_phone">Pristup statusu i ID-u uređaja</string>
   <string name="permission_phone_desc">Za prepoznavanje različitih uređaja</string>
-  <string name="permission_privacy_link">&lt;Data&gt;Prije korištenja ove aplikacije pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Ugovor o korisniku&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
   <string name="permission_purpose">"Dobrodošli u Kalkulator! Osim osnovne funkcionalnosti, Kalkulator vam omogućuje pretvaranje valuta i mjernih jedinica, izračunavanje otplate hipoteke i još mnogo toga. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
 Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:"</string>
   <string name="permission_remove_desc">Možete odlučiti deinstalirati ovu aplikaciju ili ograničiti dopuštenja i oduzeti autorizaciju u Postavkama.</string>
@@ -441,7 +441,7 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="preference_follow_weibo_title">Sina Weibo</string>
   <string name="preference_help">Pomoć &amp; povratne inf.</string>
   <string name="preference_other">Ostalo</string>
-  <string name="preference_privacy_title">Pravila o Privatnosti</string>
+  <string name="preference_privacy_title">Pravila o privatnosti</string>
   <string name="preference_rating_title">Ocijenite našu aplikaciju</string>
   <string name="preference_settings">Postavke</string>
   <string name="preference_use_degress_summary">Zamjenski radijani s kutovima u trigonometrijskim funkcijama</string>
@@ -449,9 +449,9 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="preference_use_voice">Govorni izlaz</string>
   <string name="preference_use_voice_summary">Uključite da biste koristili govorni izlaz tijekom izračuna</string>
   <string name="preference_use_voice_title">Govorni izlaz</string>
-  <string name="preference_user_feedback_title">Povratna inf.</string>
+  <string name="preference_user_feedback_title">Povratne inf.</string>
   <string name="privacy_dialog_title">Privatnost</string>
-  <string name="privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="privacy_revoke_error">"Ne može se povući. Pokušajte ponovo."</string>
   <string name="privacy_revoke_progress">Povlačenje…</string>
   <string name="privacy_switch">Povlačenje pristanka</string>

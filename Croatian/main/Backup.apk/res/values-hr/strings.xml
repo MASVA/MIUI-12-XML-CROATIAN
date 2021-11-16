@@ -186,7 +186,7 @@
   <string name="enable_local_backup">Uključi lokalne Sig. kopije</string>
   <string name="enable_local_backup_and_restore">Uključi lokalne Sig. kopije</string>
   <string name="enable_local_backup_tips">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
-  <string name="enable_local_backup_tips_global">Uključite ovu značajku da biste na ovom uređaju mogli spremati Sig. kopije i kopirati ih na svoje računalo ili USB uređaj za pohranu. Uključiti sada?</string>
+  <string name="enable_local_backup_tips_global">Uključite ovu značajku da biste mogli spremati Sig. kopije na ovaj uređaj i kopirati ih na svoje računalo. Uključiti sada?</string>
   <string name="err_acquire_system_service">"Nije moguće pokrenuti uslugu sustava."</string>
   <string name="err_authentication_failed">Provjera nije uspjela</string>
   <string name="err_bakfile_broken">"Ne mogu koristiti ovu Sig. kopiju."</string>
@@ -409,8 +409,12 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="new_local_button_restore">Vrati</string>
   <string name="new_local_click_to_jump">Dodirnite za prikaz detaljnih uputa</string>
   <string name="new_local_detail_description">"Napomena:
-%1$d. Kopirajte Sig. kopije na računalo da biste izbjegli gubitak podataka. %2$s.
+%1$d. Kopirajte Sig. kopije na vaše računalo da biste izbjegli gubitak podataka. %2$s.
 %3$d. Sig. kopije bit će spremljene u MIUI-Backup-AllBackup."</string>
+   <string name="new_local_detail_description_global">"Napomena:
+%1$d. Kopirajte Sig. kopije na vaše računalo da biste izbjegli gubitak podataka. %2$s.
+%3$d. Sig. kopije bit će spremljene u MIUI-Backup-AllBackup.
+%4$d. Neke aplikacije možda ne podržavaju Sig. kopije."</string>
   <string name="new_local_tab_backup">Sigurnosno kopiranje na mobilni uređaj</string>
   <string name="new_local_tab_backup_pad">Sig. kopiraj</string>
   <string name="new_local_tab_restore">Vratite s mobilnog uređaja</string>
@@ -747,8 +751,8 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_intro_desc_6">Postoji nekoliko razloga zašto se to može dogoditi: problemi s kompatibilnošću sustava i aplikacijom, problemi s mrežom, problemi s kompatibilnošću specifični za određeni uređaj itd.</string>
   <string name="trans_intro_desc_7">Zbog sigurnosnih razloga neki profili aplikacija (e-bankarstvo, financije itd.) povezani su s određenim uređajem. Pokušajte izbrisati podatke aplikacije ili ponovno instalirati aplikaciju na novi uređaj.</string>
   <string name="trans_intro_desc_8">"WeChat podaci o aplikaciji i povijest chata možda se ne mogu potpuno prenijeti pomoću programa Mi Mover. Idite na postavke usluge WeChat i odjavite se s računa kako biste dobili više šanse za uspješan prijenos."</string>
-  <string name="trans_intro_desc_9_method_1_dec">Idite na Početni zaslon &gt; Alati &gt; Povratna inf.</string>
-  <string name="trans_intro_desc_9_method_1_title">1. Podijelite nam povratne informacije pomoću apliakcije \"Povratna inf.\".</string>
+  <string name="trans_intro_desc_9_method_1_dec">Idite na Početni zaslon &gt; Alati &gt; Povratne inf.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Podijelite nam povratne informacije pomoću apliakcije \"Povratne inf.\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Pošaljite povratne informacije na miui-mover@xiaomi.com.</string>
   <string name="trans_intro_desc_9_method_2_title">2. Pošaljite nam e-mail</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover QQ Grupa: 687338378"</string>

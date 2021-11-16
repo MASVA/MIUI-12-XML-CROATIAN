@@ -741,6 +741,8 @@
   <string name="my_video">Videozapisi</string>
   <string name="my_video_desc"/>
   <string name="name_empty">Unesite naziv</string>
+  <string name="need_open_content">Dopustite aplikaciji Datoteke da pristupi vašim fotografijama i datotekama za korištenje ove značajke.</string>
+  <string name="need_open_permission">Potrebna su dopuštenja</string>
   <string name="need_login">Prijavite se prvo</string>
   <string name="need_read_storage_permission">"Aplikacija Datoteke treba dopuštenje za pristup pohrani uređaja da radi normalno."</string>
   <string name="net_lose_connected">Veza izgubljena.</string>
@@ -772,6 +774,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="no_enough_storage_indication">"Prostor uređaja za pohranu je pun."</string>
   <string name="no_enough_storage_title">Nema dovoljno prostora</string>
   <string name="no_file">Prazno</string>
+  <string name="no_permission">Odobrite potrebna dopuštenja za pristup ovoj značajci</string>
   <string name="no_local_sticker_tip">"Ne mogu pronaći preuzete naljepnice. Provjerite naljepnice podjeljene od strane Mi obožavatelja."</string>
   <string name="no_login_btn_text">Prijavite se</string>
   <string name="no_login_str">Niste prijavljeni</string>
@@ -964,7 +967,7 @@ i nikad ne propustite nove cool naljepnice!"</string>
   <string name="pretty_girl">Žena</string>
   <string name="privacy_policy">Pravila o Privatnosti</string>
   <string name="privacy_policy_renew">Ažurirana su Pravila o privatnosti</string>
-  <string name="privacy_policy_renew_content">&lt;Data&gt;"A&amp;#382;urirana su &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; aplikacije Datoteke. Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite novu verziju Pravila o privatnosti prije nego &amp;#353;to nastavite."&lt;/Data&gt;</string>
+  <string name="privacy_policy_renew_content"><Data>"Ažurirana su &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> aplikacije Datoteke. Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nastavite."</Data></string>
   <string name="private_files">Skriveno</string>
   <string name="private_folder">Skriveno</string>
   <string name="private_folder_no_file_hints">Nema skrivenih datoteka.</string>
@@ -1258,6 +1261,8 @@ Dodano besplatno %1$s slobodnog prostora za pohranu"</string>
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>
   <string name="title_select_volume">Odaberite mapu</string>
+  <string name="to_open">Postavke</string>
+  <string name="to_setting">Postavke</string>
   <string name="title_upload_video">Podijelite video isječke</string>
   <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
   <string name="today">Danas</string>

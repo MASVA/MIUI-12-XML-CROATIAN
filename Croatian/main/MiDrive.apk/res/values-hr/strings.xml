@@ -360,7 +360,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="music_preview_title_loading">Samo trenutak…</string>
   <string name="music_preview_title_play">Reprodukcija</string>
   <string name="my_about_item">O Mi Drive</string>
-  <string name="my_feedback_item">Povratna inf.</string>
+  <string name="my_feedback_item">Povratne inf.</string>
   <string name="my_file">Moje datoteke</string>
   <string name="my_manage_space_item">Upravljanje cloud pohranom</string>
   <string name="my_setting">Postavke</string>
@@ -513,8 +513,8 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="passport_unknow_error">Došlo je do nepoznate pogreške</string>
   <string name="passport_unknow_host_network_error">Provjerite svoju mrežnu vezu i pokušajte ponovno</string>
   <string name="passport_unknow_network_error">Došlo je do pogreške mreže</string>
-  <string name="passport_user_agreement_link">&lt;Data&gt;Pročitao sam i prihvaćam Xiaomi&lt;a href=%1$s&gt;Ugovor o korisniku&lt;/a&gt; i &lt;a href=%2$s&gt;Pravila o Privatnosti&lt;/a&gt;.&lt;/Data&gt;</string>
-  <string name="passport_user_agreement_link_more">&lt;Data&gt;Pročitao sam i prihvaćam sljedeće dokumente: Xiaomi&lt;a href=%1$s&gt;Ugovor o korisniku&lt;/a&gt; i &lt;a href=%4$s&gt;Pravila o Privatnosti&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_link"><Data>"Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_link_more"><Data>"Pročitao sam i prihvaćam sljedeće dokumente: Xiaomi &lt;a href=%1$s&gt;Ugovor o korisniku&lt;/a&gt; i &lt;a href=%4$s&gt;Pravila o privatnosti&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;."</Data></string>
   <string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
   <string name="passport_v_code_error">Kod za provjeru nije valjan</string>
   <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
@@ -560,15 +560,15 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="pre_privacy_policy">Pravila o privatnosti</string>
   <string name="pre_privacy_recall">Povlačenje suglasnosti</string>
   <string name="pre_user_agreement">Korisnički sporazum</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="preview">Pregled</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
-  <string name="privacy_recall_dialog_msg">"Ako nastavite, povući ćete svoj pristanak na Pravila o privatnosti Mi Drivea. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Drive pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Drive. Povući sada suglasnost??"</string>
+  <string name="privacy_recall_dialog_msg">"Ako nastavite, povući ćete svoj pristanak na Pravila o privatnosti Mi Drivea. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Drive pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Drive. Povući sada suglasnost?"</string>
   <string name="privacy_recall_dialog_title">Povlačenje suglasnosti</string>
-  <string name="privacy_update_dialog_msg">Mi Drive Pravila o privatnosti su ažurirana:&lt;br/&gt;%1$s&lt;br/&gt;Pročitajte i složite se s novom verzijom &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije nego nastavite.</string>
+  <string name="privacy_update_dialog_msg">Mi Drive Pravila o privatnosti su ažurirana:&lt;br/&gt;%1$s&lt;br/&gt;Pročitajte i prihvatite novu verziju &lt;a href=%2$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt; prije nego nastavite.</string>
   <string name="privacy_update_dialog_title">Ažurirana Pravila o privatnosti</string>
   <string name="privacy_user_notice_dialog_exit_btn_text">Izlaz</string>
-  <string name="privacy_user_notice_dialog_msg">"Nećete moći nastaviti koristiti Mi Drive osim ako ne pristanete na njegovu novu verziju &lt;a href=%1$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt;. Agree to the updated Privacy Policy now?"</string>
+  <string name="privacy_user_notice_dialog_msg">"Nećete moći nastaviti koristiti Mi Drive osim ako ne pristanete na njegovu novu verziju &lt;a href=%1$s&gt;&lt;u&gt;Pravila o privatnosti&lt;/u&gt;&lt;/a&gt;. Prihvaćate li nova ažurirana pravila?"</string>
   <string name="privacy_user_notice_dialog_ok_btn_text">Slažem se</string>
   <string name="privacy_user_notice_dialog_title">Pažnja</string>
   <string name="private_empty_desc">Ovdje datoteke možete pohraniti privatno.</string>
@@ -672,7 +672,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="temporary_not_available">Ova značajka još nije dostupna</string>
   <string name="terabyteShort">TB</string>
   <string name="talkback_continue">Nastavi</string>
-  <string name="talkback_doc_filter">Filter button</string>
+  <string name="talkback_doc_filter">Filter tipka</string>
   <string name="talkback_list_play">Reproduciraj sve</string>
   <string name="talkback_next_song">Sljedeća pjesma</string>
   <string name="talkback_pause">Pause</string>
@@ -728,7 +728,7 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_id_hint">E-pošta/Br. telefona/ID Mi Računa</string>
-  <string name="user_protocol_and_privacy_protocol">&lt;Data&gt;"Pro&amp;#269;itao sam i pristajem na &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_protocol_and_privacy_protocol"><Data>"Pročitao sam i prihvaćam &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="v_code_title">Unesite kontrolni kôd</string>

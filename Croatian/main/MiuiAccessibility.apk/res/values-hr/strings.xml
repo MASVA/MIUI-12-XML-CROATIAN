@@ -79,7 +79,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="new_permission_agree">&lt;Data&gt;Prije upotrebe naših usluga, pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="new_permission_agree"><Data>Prije upotrebe naših usluga, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>.</Data></string>
   <string name="new_permission_agree_explain">"Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete odlučiti deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
 "</string>
   <string name="new_permission_content_first_line">"Dobrodošli u Mi Ditto! Ovom aplikacijom možete prepisivati zvuk i generirati govor na temelju unosa teksta.

@@ -682,7 +682,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
   <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
   <string name="passport_user_agreement">Korisnički Sporazum</string>
-  <string name="passport_user_agreement_link">&lt;Data&gt;"Pročitao sam i pristajem na Xiaomi &amp;lt;a href=%1$s&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_link"><Data>"Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
   <string name="passport_user_agreement_required">Korisnički sporazum (obavezno)</string>
   <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Zemlja/Regija</string>

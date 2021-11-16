@@ -288,7 +288,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="minute_rain_after_an_hour">Sat vremena kasnije</string>
   <string name="minute_rain_after_two_hour">Dva sata kasnije</string>
   <string name="minute_rain_feedback_subtitle">Samo mi reci kakvo je vrijeme</string>
-  <string name="minute_rain_feedback_text">Povratna inf.</string>
+  <string name="minute_rain_feedback_text">Povratne inf.</string>
   <string name="minute_rain_feedback_title">"Vrijeme ne izgleda dobro…"</string>
   <string name="minute_rain_let_go_refresh">Neka se osvježi</string>
   <string name="minute_rain_no_data">Nema podataka</string>

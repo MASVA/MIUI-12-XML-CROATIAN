@@ -1191,7 +1191,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="fdn_service_unavailable">FDN usluga nije dostupna.</string>
   <string name="fdn_summary">Ograniči odlazne pozive navedenim na FDN popisu ili na brojeve s određenim prefiksima</string>
   <string name="fdn_with_label">Fiksno biranje (%s)</string>
-  <string name="feedback">Povratna inf.</string>
+  <string name="feedback">Povratne inf.</string>
   <string name="fire_type_description">Vatrogasci</string>
   <string name="fiveg_bearer_status1">5G status davatelja usluga :</string>
   <string name="fiveg_carrier_aggregation_title">Agregacija 5G operatera</string>

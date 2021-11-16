@@ -261,7 +261,7 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
-  <string name="to_feedback">Povratna inf.</string>
+  <string name="to_feedback">Povratne inf.</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="transfer_intercept_to_remote">Nije moguće poslati: %1$s</string>

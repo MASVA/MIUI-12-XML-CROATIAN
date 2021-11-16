@@ -591,6 +591,8 @@
   <string name="create_new_face">Nova osoba</string>
   <string name="create_quick_icon_on_desk">Napravi prečac</string>
   <string name="creating_baby_album">Izrada albuma…</string>
+  <string name="creativity_summary">Prikaži dodatne mogućnosti kreativnosti i uređivanja</string>
+  <string name="creativity_title">Kreativnost</string>
   <string name="crop">Obreži</string>
   <string name="crop_and_rotate">Prilagodi</string>
   <string name="crop_label">Obrezane fotke</string>
@@ -598,7 +600,7 @@
   <string name="crop_save_text">Spremi</string>
   <string name="crop_tooltip">Povucite oznake da obrežete sliku</string>
   <string name="crossprocess">Pomak boja</string>
-  <string name="cta_agreement_declare">&lt;Data&gt;Da biste u potpunosti razumjeli svoja prava kao korisnika, kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
+  <string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
   <string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Mi Cloudom ova se aplikacija mora povezati s internetom.</string>
   <string name="custom_select_title_deselect_all">Poništi odabir</string>
   <string name="custom_select_title_quickly_share">Podijeli</string>
@@ -1426,7 +1428,7 @@ za fotografije"</string>
   <string name="map_grant_position_permission_subtitle">Za prikazivanje obližnjih fotografija i videozapisa na karti</string>
   <string name="map_guide_message">Pogledajte svoje fotografije i videozapise na karti</string>
   <string name="map_positioning_failed_tip">"Ne mogu se dobiti informacije o lokaciji zbog slabog signala"</string>
-  <string name="map_privacy_dialog_message">&lt;Data&gt;Ova usluga omogu&amp;#263;uje vam pregled fotografija i videozapisa s podacima o lokaciji na karti. Za pru&amp;#382;anje ove usluge koristimo Baidu Map Open SDK. Pro&amp;#269;itajte &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Privacy Policy for Open Platform Products and Services&amp;lt;/a&amp;gt; da biste saznali vi&amp;#353;e.&lt;/Data&gt;</string>
+  <string name="map_privacy_dialog_message"><Data>Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> da naučite više.</Data></string>
   <string name="map_privacy_dialog_title">Karta galerije</string>
   <string name="map_privacy_policy">Pravila o privatnosti Karta galerije</string>
   <string name="map_privacy_policy_1">Pravila o privatnosti</string>
@@ -2008,17 +2010,17 @@ za fotografije"</string>
   <string name="print_log">Isprintaj zapis</string>
   <string name="privacy">Pravila o privatnosti</string>
   <string name="privacy_cloud_confirm">Uključi sinkronizaciju</string>
-  <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Pravila o privatnosti</string>
+  <string name="privacy_cloud_confirm_content1">Mi Cloud Pravila o privatnosti</string>
   <string name="privacy_cloud_confirm_content2">Korisnički ugovor</string>
-  <string name="privacy_cloud_confirm_detail">&lt;Data&gt;"Nakon &amp;#353;to uklju&amp;#269;ite sinkronizaciju, fotografije i videozapisi s ovog ure&amp;#273;aja bit &amp;#263;e preneseni u Mi Cloud i spojeni s prethodno sinkroniziranim stavkama (ako ih ima). Pro&amp;#269;itajte i prihvatite Mi Cloud &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite."&lt;/Data&gt;</string>
-  <string name="privacy_cloud_confirm_detail_negative">Izlaz</string>
+  <string name="privacy_cloud_confirm_detail"><Data>"Nakon što uključite sinkronizaciju, fotografije i videozapisi s ovog uređaja bit će preneseni u Mi Cloud i spojeni s prethodno sinkroniziranim stavkama (ako ih ima). Pročitajte i prihvatite Mi Cloud &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije nego nastavite."</Data></string>
+  <string name="privacy_cloud_confirm_detail_negative">Odbijam</string>
   <string name="privacy_cloud_confirm_detail_positive">Prihvaćam</string>
-  <string name="privacy_cloud_confirm_rejected">Suglasnost na Pravila o privatnosti Xiaomi Clouda je povučena za ovaj račun. Pokušajte koristiti drugi račun.</string>
+  <string name="privacy_cloud_confirm_rejected">Suglasnost na Pravila o privatnosti Mi Clouda je povučena za ovaj račun. Pokušajte koristiti drugi račun.</string>
   <string name="privacy_detail">Pogledajte Pravila o privatnosti</string>
   <string name="privacy_detail_map">Pogledajte Gallery Map Pravila o privatnosti</string>
   <string name="privacy_entrance">Privatnost</string>
   <string name="privacy_map">Gallery Map</string>
-  <string name="privacy_map_detail">&lt;Data&gt;Ova usluga vam omogu&amp;#263;uje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pru&amp;#382;ili ovu uslugu. Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Pravila o privatnosti za Open Platform Products and Services&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_map_detail"><Data>Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i privatite &lt;a href=\"%1$s\">Baidu Map Privacy Policy for Open Platform Products and Services&lt;/a> prije nego nastavite.</Data></string>
   <string name="privacy_map_detail_content">Baidu Map Pravila o privatnosti za Open Platform Products and Services</string>
   <string name="privacy_permission">Dopuštenja</string>
   <string name="privacy_permission_account">Računi</string>
@@ -2034,7 +2036,7 @@ za fotografije"</string>
   <string name="privacy_permission_disagree">Nije odobreno</string>
   <string name="privacy_permission_location">Lokacija</string>
   <string name="privacy_permission_location_detail">Za prikaz fotografija i videozapisa na karti</string>
-  <string name="privacy_permission_request_message">&lt;Data&gt;Galerija treba pristupiti %3$s. Podaci koje prikupljamo koristit &amp;#263;e se u skladu s na&amp;#353;im &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pru&amp;#382;anja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;. Dopustiti?&lt;/Data&gt;</string>
+  <string name="privacy_permission_request_message"><Data>Galeriji je potreban pristup %3$s. Informacije koje prikupljamo koristit će se u skladu s našim &lt;a href=\"%1$s\">\"Uvjeti pružanja usluge\"&lt;/a> i &lt;a href=\"%2$s\">\"Pravila o privatnosti\"&lt;/a>. Allow?</Data></string>
   <string name="privacy_permission_request_negative">Ograniči</string>
   <string name="privacy_permission_request_positive">Dopusti</string>
   <string name="privacy_permission_request_title">Potrebno je dopuštenje</string>
@@ -2751,11 +2753,11 @@ za fotografije"</string>
   <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>
   <string name="unsupported_media_scanned_tip">"Otkriveno je %1$s slika. Gledanje %2$s slika nije podržano u ovoj verziji Androida."</string>
   <string name="unsupported_media_view_tip">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida"</string>
-  <string name="user_agree">Slažem se</string>
+  <string name="user_agree">Prihvaćam</string>
   <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
   <string name="user_agreement4">Pravila o Privatnosti</string>
   <string name="user_alias_self">Sam</string>
-  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge prihvaćate Xiaomi &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pružanja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"</string>
+  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge prihvaćate Mi &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pružanja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"</string>
   <string name="user_notice_title">Uvjeti i Odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
@@ -2767,10 +2769,10 @@ za fotografije"</string>
   <string name="video_compress_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="video_compress_encode_video">Sažimanje videozapisa…</string>
   <string name="video_compress_lib_download">Preuzmite dodatak za sažimanje videozapisa</string>
-  <string name="video_compress_lib_download_without_wifi">"Čini se da vaš uređaj nije povezan s Wi-Fi-om. Možete koristiti mobilne podatke za preuzimanje dodatka za sažimanje videozapisa (%.1f MB)."</string>
+  <string name="video_compress_lib_download_without_wifi">"Čini se da vaš uređaj nije povezan s Wi-Fi-jem. Možete koristiti mobilne podatke za preuzimanje dodatka za sažimanje videozapisa (%.1f MB)."</string>
   <string name="video_compress_not_with_8k">"Ne mogu se sažeti %dK videozapisi"</string>
   <string name="video_compress_not_with_format">"Sažimanje videozapisa nije podržana za ovaj format"</string>
-  <string name="video_compress_not_with_low_quality">Trenutna razlucija je najniža</string>
+  <string name="video_compress_not_with_low_quality">Trenutna rezolucija je najniža</string>
   <string name="video_compress_save_stop_tips">Dodirnite ponovo da zaustavite sažimanje</string>
   <string name="video_compress_size">≈%s nakon sažimanja</string>
   <string name="video_edit_file_not_exits_tip">Preuzmite prvo videozapis</string>

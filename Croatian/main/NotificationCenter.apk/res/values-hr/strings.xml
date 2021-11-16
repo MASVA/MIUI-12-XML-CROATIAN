@@ -65,7 +65,7 @@
   <string name="expand_top_notification">Proširi gornju obavijest</string>
   <string name="expandable_under_keyguard">Otvori Panel obavijesti na Zaklj. zaslonu</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-  <string name="feedback">Povratna inf.</string>
+  <string name="feedback">Povratne inf.</string>
   <string name="feedback_tip_cancel">"Podaci obavijesti neće se prikupljati."</string>
   <string name="feedback_tip_msg">Da bismo preciznije grupirali obavijesti, moramo prikupiti naziv aplikacije, naslov i opis obavijesti i vrijeme slanja obavijesti. Poslati povratne informacije?</string>
   <string name="feedback_tip_title">Povratne informacije o kategorijama obavijesti</string>
@@ -211,7 +211,7 @@
   <string name="not_set">Nije postavljeno</string>
   <string name="notch_and_status_bar_setting">Centar za kontrolu &amp; traka statusa</string>
   <string name="notification_aggregate_description1">MIUI može automatski grupirati push i promotivne obavijesti, čineći vaš Panel obavijesti manje skučenim.</string>
-  <string name="notification_aggregate_description2">"Naši algoritmi analiziraju sadržaj obavijesti i ne primjenjuju ovu značajku na važna upozorenja i obavijesti iz trenutačnih poruka. Ako ustanovite da su važne obavijesti grupirane pogreškom, prijavite problem s kojim ste se susreli pomoću naše značajke \"Povratna inf.\"."</string>
+  <string name="notification_aggregate_description2">"Naši algoritmi analiziraju sadržaj obavijesti i ne primjenjuju ovu značajku na važna upozorenja i obavijesti iz trenutačnih poruka. Ako ustanovite da su važne obavijesti grupirane pogreškom, prijavite problem s kojim ste se susreli pomoću naše značajke \"Povratne inf.\"."</string>
   <string name="notification_aggregate_summary">Dopustite MIUI da automatski grupira obavijesti</string>
   <string name="notification_aggregate_summary_inner">Automatski uključi grupne push i promotivne obavijesti</string>
   <string name="notification_aggregate_title">Grupne obavijesti</string>

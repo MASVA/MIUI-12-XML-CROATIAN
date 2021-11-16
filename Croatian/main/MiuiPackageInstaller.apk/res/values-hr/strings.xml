@@ -232,7 +232,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
   <string name="miui_failed_update_incompatible">Konflikt sa potpisom aplikacija</string>
   <string name="miui_failed_version_downgrade">"Ne mogu unazaditi aplikacije"</string>
   <string name="miui_failed_version_downgrade_space">"Postoji novija verzija ove aplikacije instalirana u Drugom prostoru ili Dječjem prostoru."</string>
-  <string name="miui_help_feedback_label">Pomoć &amp; povratna inf.</string>
+  <string name="miui_help_feedback_label">Pomoć &amp; povratne inf.</string>
   <string name="miui_install_confirm_question">Instalirati ovu aplikaciju?</string>
   <string name="miui_install_confirm_question_update">Prepisati postojeću aplikaciju?</string>
   <string name="miui_install_fail">"Ne mogu instalirati (%d)"</string>

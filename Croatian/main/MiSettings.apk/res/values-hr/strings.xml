@@ -522,7 +522,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="stop_app_timer_success">Vrijeme zaslona uspješno je isključeno</string>
   <string name="stop_app_timer_tip">Nakon isključivanja ove značajke, svi podaci i dopuštenja zaslona, uključujući pojedinačne postavke, kao i stavke pohranjene lokalno i sinkronizirane s cloudom će se izbrisati.</string>
   <string name="stop_summary">Kad isključite ovu značajku, izbrisat će se sva statistika i podaci vremena zaslona</string>
-  <string name="suggestion">Povratna inf.</string>
+  <string name="suggestion">Povratne inf.</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>

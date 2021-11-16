@@ -624,7 +624,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="permission_storage_desc">Za spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_pad_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slike</string>
-  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI prikupit će vaše glasovne snimke i ID uređaja da prepiše zvuk i izradi glasovne bilješke. Saznajte više u Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_xiaoai_desc"><Data>Mi AI prikupit će vaše glasovne snimke i ID uređaja da prepiše zvuk i izradi glasovne bilješke. Saznajte više u Mi AI &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>.</Data></string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pm">PM</string>
   <string name="pref_category_title_quick_func">Brze značajke</string>

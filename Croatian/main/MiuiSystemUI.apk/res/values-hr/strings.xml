@@ -89,7 +89,7 @@
   <string name="accessibility_cell_data_off">Mobilni su podaci isključeni</string>
   <string name="accessibility_cell_data_on">Mobilni su podaci uključeni</string>
   <string name="accessibility_clear_all">Brisanje svih obavijesti.</string>
-  <string name="accessibility_compatibility_zoom_button">Gumb za kompatibilnost zumiranja.</string>
+  <string name="accessibility_compatibility_zoom_button">Tipka za kompatibilnost zumiranja.</string>
   <string name="accessibility_compatibility_zoom_example">Zumiranje manjeg zaslona na veći.</string>
   <string name="accessibility_control_change_favorite">dodali u favorite</string>
   <string name="accessibility_control_change_unfavorite">uklonili iz favorita</string>
@@ -164,18 +164,18 @@
   <string name="accessibility_floating_button_action_move_to_edge_and_hide_to_half">Premjesti na rub i sakrij</string>
   <string name="accessibility_floating_button_action_move_top_left">Premjesti u gornji lijevi kut</string>
   <string name="accessibility_floating_button_action_move_top_right">Premjesti u gornji desni kut</string>
-  <string name="accessibility_floating_button_docking_tooltip">Pomaknite gumb do ruba da biste ga privremeno sakrili</string>
+  <string name="accessibility_floating_button_docking_tooltip">Pomaknite tipku do ruba da biste ga privremeno sakrili</string>
   <string name="accessibility_floating_button_migration_tooltip">"Gumb za Pristupačnost zamijenio je pokret pristupačnosti
 
 "<annotation id="link">Prikaz postavki</annotation></string>
-  <string name="accessibility_floating_button_switch_migration_tooltip">"Možete prijeći s pokreta za pristupačnost na gumb
+  <string name="accessibility_floating_button_switch_migration_tooltip">"Možete prijeći s pokreta za pristupačnost na tipku
 
 "<annotation id="link">Postavke</annotation></string>
   <string name="accessibility_gps_acquiring">Dohvaćanje GPS-a.</string>
   <string name="accessibility_gps_enabled">GPS je omogućen.</string>
   <string name="accessibility_home">Početna</string>
   <string name="accessibility_ime_switch_button">Promjena načina unosa</string>
-  <string name="accessibility_key">Prilagođeni navigacijski gumb</string>
+  <string name="accessibility_key">Prilagođeni navigacijski tipku</string>
   <string name="accessibility_keyboard_delete_button">Izbriši</string>
   <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps lock</string>
   <string name="accessibility_keyboard_letter_board_shift2number_button">Brojevi</string>
@@ -419,7 +419,7 @@
   <string name="adbwifi_warning_title">Želite li omogućiti bežično otklanjanje pogrešaka?</string>
   <string name="add_tile">Dodavanje pločice</string>
   <string name="add_user_failed">Izrada novog korisnika nije uspjela</string>
-  <string name="adjust_button_width">Prilagodite širinu gumba</string>
+  <string name="adjust_button_width">Prilagodite širinu tipkua</string>
   <string name="airplane_mode">Zrakoplov</string>
   <string name="alarm_template">u %1$s</string>
   <string name="alarm_template_far">u %1$s</string>
@@ -691,7 +691,7 @@ Audio"</string>
   <string name="bubbles_user_education_manage_title">Upravljanje oblačićima u svakom trenutku</string>
   <string name="bubbles_user_education_title">Oblačići u chatu</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
-  <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
+  <string name="bugreport_in_power_summary">Prikaži tipku u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="build_number_clip_data_label">Broj međuverzije</string>
   <string name="build_number_copy_toast">Broj međuverzije kopiran je u međuspremnik.</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
@@ -1556,7 +1556,7 @@ Pokušajte ponovo za %2$d sek."</string>
   <string name="learn_more">Saznajte više</string>
   <string name="left_icon">Lijeva ikona</string>
   <string name="left_keycode">Lijevi kôd tipke</string>
-  <string name="left_nav_bar_button_type">Vrsta dodatnog lijevog gumba</string>
+  <string name="left_nav_bar_button_type">Vrsta dodatne lijeve tipke</string>
   <string name="legacy_vpn_name">VPN</string>
   <string name="loading_injected_setting_summary">Samo trenutak…</string>
   <string name="local_backup_password_summary_change">Dodirnite za promjenu ili uklanjanje zaporke za potpune Sig. kopije Poč. zaslona</string>
@@ -2507,7 +2507,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="rgb_face_data_manage_delete_msg">Izbriši 2D lice</string>
   <string name="right_icon">Desna ikona</string>
   <string name="right_keycode">Desni kôd tipke</string>
-  <string name="right_nav_bar_button_type">Vrsta dodatnog desnog gumba</string>
+  <string name="right_nav_bar_button_type">Vrsta dodatne desne tipke</string>
   <string name="ring_toggle_title">Pozivi</string>
   <string name="running_foreground_services_msg">Dodirnite da biste vidjeli pojedinosti o potrošnji baterije i podatkovnom prometu</string>
   <string name="running_foreground_services_title">Izvođenje aplikacija u pozadini</string>
@@ -2520,23 +2520,23 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="save">Spremi</string>
   <string name="save_mode_btn_ok">U redu</string>
   <string name="saved_network">Spremila aplik. %1$s</string>
-  <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Napajanje\"."</string>
+  <string name="screen_button_notification_text">"Da ih uključite, istovremeno pritisnite tipke \"Početna\" i \"Power\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke su isključene</string>
   <string name="screen_pinning_can_open_other_apps">Prikvačena aplikacija može otvoriti druge aplikacije.</string>
-  <string name="screen_pinning_description">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite \"Početna\" i \"Napajanje\" istovremeno da otkvačite.</string>
-  <string name="screen_pinning_description_accessible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite i zadržite \"Početna\" i \"Napajanje\" istovremeno da otkvačite</string>
-  <string name="screen_pinning_description_gestural">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Prijeđite prstom prema gore i zadržite da biste ga otkvačili.</string>
-  <string name="screen_pinning_description_recents_invisible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite gumbe Natrag i Početna i zadržite pritisak da biste ga otkvačili.</string>
-  <string name="screen_pinning_description_recents_invisible_accessible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite i zadržite \"Početna\" i \"Napajanje\" istovremeno da otkvačite.</string>
+  <string name="screen_pinning_description">Ovo se prikazuje sve dok ne odznačite. Dodirnite i zadržite \"Početna\" i \"Power\" istovremeno da otkvačite.</string>
+  <string name="screen_pinning_description_accessible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite i zadržite \"Početna\" i \"Power\" istovremeno da otkvačite</string>
+  <string name="screen_pinning_description_gestural">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Povucite prstom prema gore i zadržite da biste ga otkvačili.</string>
+  <string name="screen_pinning_description_recents_invisible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite tipke Natrag i Početna i zadržite pritisak da biste ga otkvačili.</string>
+  <string name="screen_pinning_description_recents_invisible_accessible">Zaslon će tako ostati u prvom planu dok ga ne otkvačite. Dodirnite i zadržite \"Početna\" i \"Power\" istovremeno da otkvačite.</string>
   <string name="screen_pinning_exit">Aplikacija je otkvačena</string>
   <string name="screen_pinning_exposes_personal_data">Osobni podaci mogu biti dostupni (poput kontakata i sadržaja e-pošte).</string>
   <string name="screen_pinning_negative">Ne hvala</string>
   <string name="screen_pinning_positive">Razumijem</string>
   <string name="screen_pinning_start">Aplikacija je prikvačena</string>
   <string name="screen_pinning_title">Aplikacija je prikvačena</string>
-  <string name="screen_pinning_toast">Da biste otkvačili ovu aplikaciju, dodirnite gumbe Natrag i Pregled i zadržite pritisak</string>
-  <string name="screen_pinning_toast_gesture_nav">Da biste otkvačili ovu aplikaciju, prijeđite prstom prema gore i zadržite pritisak</string>
-  <string name="screen_pinning_toast_recents_invisible">Da biste otkvačili ovu aplikaciju, dodirnite gumb Natrag i gumb Početna i zadržite pritisak</string>
+  <string name="screen_pinning_toast">Da biste otkvačili ovu aplikaciju, dodirnite tipke Natrag i Pregled i zadržite</string>
+  <string name="screen_pinning_toast_gesture_nav">Da biste otkvačili ovu aplikaciju, povucite prstom prema gore i zadržite</string>
+  <string name="screen_pinning_toast_recents_invisible">Da biste otkvačili ovu aplikaciju, dodirnite tipke Natrag i Početna i zadržite</string>
   <string name="screen_zoom_summary_custom">Prilagođeno (%d)</string>
   <string name="screen_zoom_summary_default">Zadano</string>
   <string name="screen_zoom_summary_extremely_large">Najveće</string>
@@ -2576,7 +2576,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="screenshot_delete">Izbriši</string>
   <string name="screenshot_delete_dlg_msg">Jeste li sigurni da želite izbrisati ovu snimku zaslona?</string>
   <string name="screenshot_delete_dlg_title">Izbriši</string>
-  <string name="screenshot_dismiss_description">Dismiss screenshot</string>
+  <string name="screenshot_dismiss_description">Odbaci snimku zaslona</string>
   <string name="screenshot_dismiss_ui_description">Odbacivanje snimke zaslona</string>
   <string name="screenshot_dlg_cancel">Odustani</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
@@ -2591,7 +2591,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="screenshot_failed_to_save_title">Nema dovoljno mjesta za pohranu novih snimki zaslona</string>
   <string name="screenshot_failed_to_save_unknown_text">Prilikom spremanja snimke zaslona pojavio se problem.</string>
   <string name="screenshot_failed_to_save_user_locked_text">Uređaj mora biti otključan prije spremanja snimke zaslona</string>
-  <string name="screenshot_feedback_txt">Povratna inf.</string>
+  <string name="screenshot_feedback_txt">Povratne inf.</string>
   <string name="screenshot_insert_failed">Ne mogu učitati snimku zaslona. Napravite novu ili pregledajte sliku u Galeriji.</string>
   <string name="screenshot_left_boundary_pct">Lijevi rub %1$d posto</string>
   <string name="screenshot_long_screenshot">Pomakni</string>
@@ -2663,8 +2663,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="show_silently">Prikaži obavijesti tiho</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
-  <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data&gt;Pritisnite i dr&amp;#382;ite tipke &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; i &amp;lt;font color=#e6e6e6&amp;gt;[Glasno&amp;#263;a +]&amp;lt;/font&amp;gt; dok ne vidite &amp;lt;img src=\"\"&amp;gt;.&lt;/Data&gt;</string>
-  <string name="shut_down_password_forget_password_suggesstion_two_content">&lt;Data&gt;Odaberite &amp;lt;font color=#e6e6e6&amp;gt;[Wipe data]&amp;lt;/font&amp;gt; i dodirnite &amp;lt;font color=#e6e6e6&amp;gt;[Ponovno pokreni]&amp;lt;/font&amp;gt; nakon toga.&lt;/Data&gt;</string>
+  <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Pritisnite i zadržite tipke &lt;font color=#e6e6e6>[Power]&lt;/font> i &lt;font color=#e6e6e6>[Volume +]&lt;/font> dok ne vidite &lt;img src=\"\">.</Data></string>
+  <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Odaberite &lt;font color=#e6e6e6>[Wipe data]&lt;/font> i dodirnite &lt;font color=#e6e6e6>[Reboot]&lt;/font> nakon toga.</Data></string>
   <string name="sim_state_locked_dialog_title">Nevažeća SIM kartica</string>
   <string name="sim_state_locked_puk_dialog_message">"Unijeli ste pogrešan PUK kôd najmanje %d puta. Vaša SIM kartica sada nije važeća. Zamijenite ovu SIM karticu drugom."</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>

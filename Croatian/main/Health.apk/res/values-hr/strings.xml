@@ -108,6 +108,7 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="average_menstruation_days">Prosječno trajanje menstruacije</string>
   <string name="avg_altitude">Prosj. visina</string>
   <string name="avg_day">Prosječno</string>
+  <string name="avg_earphone_listening_duration">Slušalica</string>
   <string name="avg_finish_stand">Prosj. dnevno stajanje</string>
   <string name="avg_freq">Prosj. frekvencija</string>
   <string name="avg_heart_rate">Prosj. otkucaji srca</string>
@@ -116,6 +117,7 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="avg_low_pressure">Prosj. dijastolički (niži)</string>
   <string name="avg_pace">Prosj. tempo</string>
   <string name="avg_steps">Dnevni koraci</string>
+  <string name="avg_treble_duration">Glasni zvukovi</string>
   <string name="awake_count">Buđenje</string>
   <string name="awake_count_abnormal_description">Probudili ste se puno puta tijekom noći.</string>
   <string name="awake_count_normal_description">Probudili ste se jednom noću. To je normalno.</string>
@@ -212,6 +214,7 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_finish_stand">Kliknite da završite stajanje</string>
+  <string name="click_to_solve">Pomoć</string>
   <string name="climb">Penjanje stepenicama</string>
   <string name="climbing">Penjanje</string>
   <string name="close">Iskjuči</string>
@@ -222,8 +225,8 @@ Ako ne želite pristupiti preporučenim tečajevima, još uvijek možete koristi
   <string name="collapse">Sakrij</string>
   <string name="collect_diagnosis_log">Prikupite dijagnostički zapisnik</string>
   <string name="complete_preference_basic_info">Dovršite svoj profil</string>
-  <string name="completed">"Dovršeno "</string>
   <string name="complete_progress">Napredak</string>
+  <string name="completed">"Dovršeno "</string>
   <string name="completed_stand">Stajanje je gotovo</string>
   <string name="confirm_opening">Potvrdi</string>
   <string name="contact_permission_desc">Za postavljanje kontakata u hitnim slučajevima</string>
@@ -402,12 +405,15 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="each_week_day_format1">Svaki %1$s</string>
   <string name="each_week_day_format2">Svaki %1$s, %2$s, i %3$s</string>
   <string name="each_week_day_format3">Svaki %1$s sve do %2$s</string>
+  <string name="earphone_listening_duration">Slušalica</string>
   <string name="edit_aid_file">Uredi</string>
   <string name="edit_basic_info_desc">Osnovne informacije</string>
   <string name="edit_immediately">Unesite podatke</string>
   <string name="edit_sleep_record_button">Uredi</string>
   <string name="elliptical_machine">Eliptični</string>
   <string name="emergency_contact">Kontakt za hitne slučajeve</string>
+  <string name="emergency_lock_show_subtitle">Pronađite svoj ID za hitnu medicinsku pomoć dodirom na \"Hitno\" i \"ID hitne medicinske pomoći\" dok je zaslon zaključan.</string>
+  <string name="emergency_lock_show_title">Prikaži kada je zaključano</string>
   <string name="empty_data">-</string>
   <string name="enable">Uključeno</string>
   <string name="enable_go_now">Uključi</string>
@@ -425,6 +431,7 @@ Mi Health će vas obavijestiti samo o važnim stavkama."</string>
   <string name="equivalent_exercise">≈%1$s km prohodano (%2$s kcal)</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
+  <string name="evaluation_origin_health">Prijedlozi su dati od Health.</string>
   <string name="evening">PM</string>
   <string name="every_day">Svaki dan</string>
   <string name="excessive">Previše</string>
@@ -510,6 +517,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="finish_stand">Da</string>
   <string name="finish_stand2">Stajanje</string>
   <string name="finished_rate">Dovršeno %1$d%%</string>
+  <string name="first_aid_card">ID hitne medicinske pomoći</string>
   <string name="for_diagnosis_usage_only">Koristite ove informacije samo za dijagnozu.</string>
   <string name="free_training">Vježba u slobodnom stilu</string>
   <string name="freestyle">Slobodni stil</string>
@@ -565,6 +573,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
   <string name="health_setting">Postavke</string>
   <string name="health_uninstall_dialog_content">"Xiaomi Health je aplikacija sustava. Ovu aplikaciju možete koristiti za brojanje koraka, praćenje spavanja, mjesečnice i težinu, kao i za sinkronizaciju statistike s cloudom. Nećete moći koristiti ovu aplikaciju nakon što je deinstalirate."</string>
   <string name="health_uninstall_dialog_title">Deinstalirati Xiaomi Health?</string>
+  <string name="hearing">Sluh</string>
   <string name="heart_rate">Brzina otkucaja srca</string>
   <string name="height">Visina</string>
   <string name="high">Visoki</string>
@@ -715,6 +724,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="light_sleep_time_decrease_description">Vaš lagani san je prekratak</string>
   <string name="light_sleep_time_increase_description">Vaš lagani san je predugačak</string>
   <string name="light_sleep_time_normal_description">Imate dovoljnu količinu laganog sna</string>
+  <string name="listening_duration">Slušalica</string>
   <string name="load_failed">"Ne mogu učitati stavke. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="loading">Samo trenutak…</string>
   <string name="location_perm_description">Za praćenje treninga na otvorenom i snimanje ruta</string>
@@ -730,6 +740,16 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="location_service_dialog_title">Lokacijske usluge su isključene</string>
   <string name="location_service_ntfc_content">Xiaomi Health</string>
   <string name="location_service_ntfc_title">Traženje GPS-a…</string>
+  <string name="lock_not_support_description">Da bi vaš ID za hitnu medicinsku pomoć bio dostupan na Zaklj. zaslonu, dodirnite Više &gt; Uredi i uključite Prikaži na Zaklj. zaslonu.</string>
+  <string name="lock_show_dialog_content">„Vašem hitnom medicinskom iskazu može se pristupiti bez otključavanja telefona.
+Ako ne želite dijeliti svoje podatke, možete isključiti ovu značajku."</string>
+  <string name="lock_show_dialog_title">Pažnja</string>
+  <string name="lock_show_solve_description">Za prikaz ID-a hitne medicinske pomoći na Zaklj. zaslonu, dopustite Health-u prikaz obavijesti na Zaklj. zaslonu.</string>
+  <string name="lock_show_solve_go">Postavke</string>
+  <string name="lock_show_solve_path">Dodirnite \"Postavke\" ispod, odaberite \"Prikaži na Zaklj. zaslonu\" i odaberite \"Uvijek dopusti\".</string>
+  <string name="lock_show_solve_title">Dodajte informacije na vaš Zaklj. zaslon</string>
+  <string name="lock_support_description">Vaš ID za hitnu medicinsku pomoć možete vidjeti tako da dodirnete \"Hitno\" i \"Hitna medicinska pomoć\" dok je zaslon zaključan.</string>
+  <string name="lock_support_description2">"Ne možete pronaći ID za hitnu medicinsku pomoć na Zaklj. zaslonu?"</string>
   <string name="login_and_open_sync">Prijavite se i uključite sinkronizaciju</string>
   <string name="login_and_open_sync2">Prijavite se i uključite sinkronizaciju</string>
   <string name="low">Nisko</string>
@@ -845,6 +865,8 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="min_pace">Najniži tempo</string>
   <string name="minimum">Min.</string>
   <string name="minute">M</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -862,6 +884,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -1028,7 +1051,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="preference_basic_info">Osnovne informacije</string>
   <string name="preference_click_login">Prijavi se</string>
   <string name="preference_copied">\"%1$s\" kopiran u međuspremnik.</string>
-  <string name="preference_feedback">Povratna inf.</string>
+  <string name="preference_feedback">Povratne inf.</string>
   <string name="preference_health_info_proposal_title">Nabavite točne statistike i korisne savjete</string>
   <string name="preference_health_score_tip">Rezultat</string>
   <string name="preference_not_set">Nije postavljeno</string>
@@ -1213,7 +1236,7 @@ Kroz velik broj eksperimenata, prosječna pogreška otkucaja srca manja je od 3 
   <string name="sleep_deep_light_no_data">Nema zapisa o dubokom snu</string>
   <string name="sleep_deep_light_no_data_improvement">"Ne mogu otkriti faze spavanja. Poboljšavamo naše algoritme. Ostanite u toku!"</string>
   <string name="sleep_detection_enable">Analizirajte ciklus spavanja</string>
-  <string name="sleep_detection_feedback">Povratna inf.</string>
+  <string name="sleep_detection_feedback">Povratne inf.</string>
   <string name="sleep_detection_guide_four_description">Praćenje spavanja troši samo oko 1% baterije po noći</string>
   <string name="sleep_detection_guide_four_high_power_description">Provjerite je li vaš uređaj dovoljno napunjen prije spavanja. Slaba baterija može prekinuti praćenje spavanja.</string>
   <string name="sleep_detection_guide_four_high_power_title">Neka vaš uređaj bude napunjen</string>
@@ -1388,7 +1411,7 @@ podatke o spavanju"</string>
   <string name="sport_btn_unlock">Otključaj</string>
   <string name="sport_counter_begin">Započni</string>
   <string name="sport_data_use_subtitle">Kako bismo pratili vaše vježbanje i napredak u fitnesu, prikupljamo i obrađujemo vaše podatke uključujući rute vježbanja, podatke o spavanju, broj otkucaja srca i težinu.</string>
-  <string name="sport_data_use_tip">"Pročitajte i prihvatite naše &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Health and Activity Data Use Policy&lt;/a>&lt;/font> kako biste bolje razumjeli kako prikupljamo i obrađujemo vaše podatke. Nećete moći koristiti ovu uslugu ako ne pristanete na naše prikupljanje i obradu."</string>
+  <string name="sport_data_use_tip">"Pročitajte i prihvatite naše &lt;font color=\"#0D84FF\"&gt;&lt;a href=%1$s&gt;Health and Activity Data Use Policy&lt;/a&gt;&lt;/font&gt; kako biste bolje razumjeli kako prikupljamo i obrađujemo vaše podatke. Nećete moći koristiti ovu uslugu ako ne pristanete na naše prikupljanje i obradu."</string>
   <string name="sport_data_use_title">Dopuštenja za podatke</string>
   <string name="sport_home_begin">Start</string>
   <string name="sport_home_set_goal">Postavi cilj</string>
@@ -1573,6 +1596,10 @@ podatke o spavanju"</string>
   <string name="tb_go_next_a_day">Prethodni dan</string>
   <string name="tb_go_on_detection">Nastavi</string>
   <string name="tb_has_snore_dream_talk">Otkriveno hrkanje i pričanje</string>
+  <string name="tb_hearing_card">Sluh | Izlaganje slušalicama: %1$s | Recorded: %2$s.</string>
+  <string name="tb_hearing_column">%1$s | Izlaganje slušalicama: %2$s | Glasni zvukovi: %3$s.</string>
+  <string name="tb_hearing_daily_card">%1$s | Izlaganje slušalicama: %2$s | Glasni zvukovi: %3$s.</string>
+  <string name="tb_hearing_wm_card">%1$s | Prosječna izloženost slušalicama: %2$s | Prosječna izloženost glasnom zvuku: %3$s.</string>
   <string name="tb_heart_rate_max_min">Otkucaji srca. Najviši: %1$d. Najniži: %2$d.</string>
   <string name="tb_home_blood_pressure_card">Krvni tlak. Sistolički: %1$d. Dijastolički: %2$d. Zabilježeno: %3$s. Status: %4$s.</string>
   <string name="tb_home_blood_pressure_card_no_data">Krvni tlak. Nema podataka.</string>
@@ -1649,6 +1676,7 @@ podatke o spavanju"</string>
   <string name="tb_user_step_card_info">Dnevni cilj: %1$s, oko %2$s ili %3$s.</string>
   <string name="tb_user_step_target_btn">Promijeni cilj</string>
   <string name="tb_user_weight_card_info">BMI %1$s, %2$s. Preporučena težina: %3$s.</string>
+  <string name="tb_volume_list_item">%1$s | Zvukovi okoline: %3$s (%2$d dB).</string>
   <string name="tb_weight_choice">%2$s od %1$s je %3$s</string>
   <string name="tb_weight_decrease">Smršavjeli ste</string>
   <string name="tb_weight_has_record">Pronađeno je vaganje</string>
@@ -1751,6 +1779,8 @@ podatke o spavanju"</string>
   <string name="tracking_progress_labe_up_nodata">Nema podataka</string>
   <string name="tracking_progress_labe_up_refresh">Povuci za osvježiti</string>
   <string name="treadmill">Traka za trčanje</string>
+  <string name="treble_duration">Glasni zvukovi</string>
+  <string name="treble_sum_duration">Glasni zvukovi</string>
   <string name="try_again">Pokušajte ponovo</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
@@ -1796,6 +1826,13 @@ Ažurirati sada?"</string>
   <string name="visceral_fat">Visceralna masnoća</string>
   <string name="visceral_fat_descripe_content">Visceralna masnoća neophodna je za stabilizaciju i zaštitu unutarnjih organa. Međutim, visoka visceralna masnoća povećava rizik od kardiovaskularnih i metaboličkih bolesti.</string>
   <string name="voice_remind">"Povećali smo glasnoću kako biste bolje čuli upute."</string>
+  <string name="volume_high">Glasno</string>
+  <string name="volume_high_description">"Kako biste izbjegli oštećenje sluha, koristite slušalice za uklanjanje buke. Nemojte pojačavati glasnoću kako biste prikrili šum."</string>
+  <string name="volume_level">Zvukovi okoline</string>
+  <string name="volume_normal">U redu</string>
+  <string name="volume_normal_description">Izloženost tihim zvukovima ne smije uzrokovati oštećenje sluha. Oni mogu pomoći u koncentraciji.</string>
+  <string name="volume_too_high">Jako glasno</string>
+  <string name="volume_too_high_description">Ponavljano, dugotrajno izlaganje vrlo glasnim zvukovima može uzrokovati oštećenje sluha. Kako biste zaštitili svoj sluh, držite se podalje od glasnih zvukova ili razmislite o nošenju čepića za uši ili slušalica za poništavanje buke.</string>
   <string name="walk">Hodanje</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

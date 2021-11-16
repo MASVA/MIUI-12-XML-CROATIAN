@@ -153,6 +153,8 @@
   <string name="mint_keyboard_oobe_terms">Pravila o privatnosti Mint Keyboard</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o privatnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -167,6 +169,8 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -233,7 +237,7 @@
   <string name="navigation_picker_gesture_guide">Vodič za geste</string>
   <string name="navigation_picker_radio_text_full_screen">Geste u cijelom zaslonu</string>
   <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
-  <string name="network_access_warning">Trebate se povezati s internetom kako biste aktivirali Mi Usluge i \"Pronađi uređaj\"</string>
+  <string name="network_access_warning">Trebate se povezati s internetom kako biste aktivirali Mi Service i \"Pronađi uređaj\"</string>
   <string name="next">Dalje</string>
   <string name="next_fingerprint">Dalje</string>
   <string name="not_set">Nije postavljeno</string>
@@ -386,7 +390,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="privacy_title">Uvjeti &amp; Pravila o privatnosti</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provision_back">Natrag</string>
-  <string name="provision_inputmethod_policy_description">&lt;Data&gt;Pogledajte &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;odabrane tipkovnice.&lt;/Data&gt;</string>
+  <string name="provision_inputmethod_policy_description"><Data>Pogledajte &lt;a href=%1$s>Pravila o privatnosti&lt;/a > vaše odabrane tipkovnice.</Data></string>
   <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
@@ -437,11 +441,11 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="service_name_security">Sigurnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_name_systemdesktop">Dodatak za uslugu početnog zaslona</string>
-  <string name="service_policy">&lt;Data&gt;Pročitajte i pristanite na naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+  <string name="service_policy"><Data>Pročitajte i prihvatite naše &lt;a href=%1$s>Pravila o privatnosti&lt;/a >.</Data></string>
   <string name="service_policy_adjust_content">Xunlei Pravila o privatnosti</string>
-  <string name="service_policy_download"><Data>Pročitajte i pristanite na &lt;a href=%1$s>Xunlei Pravila o privatnosti&lt;/a > i &lt;a href=%1$s>Xunlei Network Services User Agreement&lt;/a > prije nego nastavite.</Data></string>
+  <string name="service_policy_download"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Xunlei Pravila o privatnosti&lt;/a > i &lt;a href=%1$s>Xunlei Network Services User Agreement&lt;/a > prije nego nastavite.</Data></string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
-  <string name="service_security_over_r">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; prije korištenja aplikacije Sigurnost.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;U skladu s Androidom 11 standardima, jednokratno dopuštenje će se povući u roku od 5 sekundi nakon što odgovarajuća aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopuštenje će se povući nakon toga.&lt;/Data&gt;</string>
+  <string name="service_security_over_r"><Data>Pročitajte i prihvatite naše &lt;a href=%1$s>Pravila o privatnosti&lt;/a > prije korištenja aplikacije Sigurnost.&lt;br/>&lt;br/>In accordance with U skladu s Androidom 11 standardima, jednokratno dopuštenje će se povući u roku od 5 sekundi nakon što odgovarajuća aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopuštenje će se povući nakon toga.</Data></string>
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="service_sim_activation">Aktivacija SIM kartice</string>
   <string name="setting_locale">Postavljanje regije…</string>
@@ -484,7 +488,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_app_vault">Zaklj. aplikacija</string>
   <string name="terms_of_use_label_back">Usluga sigurnosnog kopiranja</string>
   <string name="terms_of_use_label_ble">Davatelj spojenih lokacija</string>
-  <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
+  <string name="terms_of_use_label_cloud">Mi Cloud</string>
   <string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Service</string>
   <string name="terms_of_use_label_finddevice">Pronađi uređaj</string>
   <string name="terms_of_use_label_game">Igre</string>
@@ -502,7 +506,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_package">Alat za instalaciju paketa</string>
   <string name="terms_of_use_label_parallel_windows">Paralelni prozori</string>
   <string name="terms_of_use_label_phrase">Česte fraze</string>
-  <string name="terms_of_use_label_power_detection">Detektor energije</string>
+  <string name="terms_of_use_label_power_detection">Detektor baterije</string>
   <string name="terms_of_use_label_power_performance">Baterija i performanse</string>
   <string name="terms_of_use_label_quickapp">Brze aplikacije</string>
   <string name="terms_of_use_label_secure">Aplikacija sigurnih elemenata</string>

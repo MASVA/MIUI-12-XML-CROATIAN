@@ -116,7 +116,7 @@
   <string name="dialog_msg_disabled_net">%1$s ograničava preuzimanja za trenutnu mrežu. Dodirnite Postavke mreže za odlazak u aplikaciju Sigurnost.</string>
   <string name="dialog_msg_recommend">"Nećete biti u mogućnosti vidjeti preporučene izvore nakon isključivanja. Možete odabrati \"Učitaj kada je povezano na Wi-Fi\" da uštedite mobilne podatke."</string>
   <string name="dialog_privacy_update_button1">Odustani</string>
-  <string name="dialog_privacy_update_button2">Slažem se</string>
+  <string name="dialog_privacy_update_button2">Prihvaćam</string>
   <string name="dialog_privacy_update_title">Ažurirana Pravila o privatnosti</string>
   <string name="dialog_queued_body">Datoteka je dodata u red i uskoro će se preuzeti.</string>
   <string name="dialog_speed_cancel">Odustani</string>
@@ -127,9 +127,9 @@
   <string name="dialog_title_not_available">Preuzimanje nije uspjelo.</string>
   <string name="dialog_title_queued_body">Datoteka još nije spremna</string>
   <string name="dialog_title_recommend">Isključi preporučene izvore</string>
-  <string name="dialog_user_know_button1">Izlaz</string>
-  <string name="dialog_user_know_button2">Slažem se</string>
-  <string name="dialog_user_know_content">&lt;Data&gt;"Nećete moći nastaviti koristiti ovu značajku ako ne pristanete na novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Slažete li se sada s ažuriranim Pravilima o privatnosti?"&lt;/Data&gt;</string>
+  <string name="dialog_user_know_button1">Odustani</string>
+  <string name="dialog_user_know_button2">Prihvaćam</string>
+  <string name="dialog_user_know_content"><Data>"Nećete moći nastaviti koristiti ovu značajku ako ne privatite novu verziju &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Prihvaćate li novu verziju pravila?"</Data></string>
   <string name="dialog_user_know_title">Pažnja</string>
   <string name="disable">Isključeno</string>
   <string name="display_expire_netiv1">Ovaj mjesec</string>
