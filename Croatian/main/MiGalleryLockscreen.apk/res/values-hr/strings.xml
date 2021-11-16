@@ -732,8 +732,8 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
   <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
   <string name="passport_user_agreement">Korisnički ugovor</string>
-  <string name="passport_user_agreement_link"><Data>Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>.<Data></string>
-  <string name="passport_user_agreement_link_more"><Data>Pročitao sam i slažem se sa sljedećim dokumentima: Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.<Data></string>
+  <string name="passport_user_agreement_link">"&lt;Data>Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> I &lt;a href=%2$s>Pravila o privatnosti&lt;/a>.&lt;/Data>"</string>
+  <string name="passport_user_agreement_link_more">"&lt;Data&gt;Pročitao sam i prihvaćam sljedeće dokumente: Xiaomi: &lt;a href=%1$s&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=%4$s&gt;Pravila o privatnosti&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
   <string name="passport_user_agreement_p1">Prihvaćam </string>
   <string name="passport_user_agreement_p2">Korisnički ugovor</string>
   <string name="passport_user_agreement_p3"> i </string>
@@ -967,13 +967,13 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="subscribe_success_content_per_three_hour">Promjeni sliku pozadine svaka 3 sata</string>
   <string name="subscribe_success_content_per_unlock">Promijeni sliku pozadinu svaki put kada se uređaj zaključa</string>
   <string name="subscribe_update_time_setting">Postavite drugačiji interval</string>
-  <string name="summary">"Prihvatite naše &lt;a href='%s'&gt;Pravila o Privatnosti&lt;/a&gt; za pregled online sadržaja. Ako ne prihvatite, lokalne pozadinske slike i dalje će biti dostupne."</string>
-  <string name="summary2">"Korištenjem ove značajke, prihvaćate naše &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Korisnički Sporazum&lt;/font>&lt;/a> i &lt;font color='#0D84FF'>&lt;a href='%2$s'>Pravila o Privatnosti&lt;/font>&lt;/a>. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
+  <string name="summary">"Prihvatite naše &lt;a href='%s'&gt;Pravila o privatnosti&lt;/a&gt; za pregled online sadržaja. Ako ne prihvatite, lokalne pozadinske slike i dalje će biti dostupne."</string>
+  <string name="summary2">"Korištenjem ove značajke, prihvaćate naše &lt;font color='#0D84FF'>&lt;a href ='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color='#0D84FF'>&lt;a href='%2$s'>Pravila o Privatnosti&lt;/font>&lt;/a>. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
   <string name="summary3">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. Ova se aplikacija mora povezati s internetom i prikupiti potrebne osobne podatke kako bi mogla normalno raditi.&lt;br>Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja.&lt;br>To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije korištenja ove aplikacije."</string>
   <string name="summary4">"Dobrodošli u Wallpaper Carousel! Ovdje se možete pretplatiti na svoje omiljene kategorije pozadina i redovito dobivati nove slike na zaključani zaslon. "</string>
   <string name="summary5">"Za pružanje dodatnih usluga možemo zatražiti dopuštenje za pristup i spremanje stavki u pohranu ovog uređaja. "</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_international">"Korištenjem ove značajke, prihvaćate naše &lt;a href ='%1$s'&gt;Korisnički Sporazum&lt;/a&gt; i &lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
+  <string name="summary_international">"Korištenjem ove značajke, prihvaćate naše &lt;a href ='%1$s'&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href='%2$s'&gt;Pravila o Privatnosti&lt;/a&gt;. Ova značajka treba biti povezana na internet da radi normalno.​"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
