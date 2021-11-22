@@ -28,29 +28,29 @@
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
-  <string name="acc_bg_first_item_description">Nema mogućnosti pozadine</string>
-  <string name="acc_clear_button">Tipka briši</string>
+  <string name="acc_bg_first_item_description">Nema pozadinskih opcija</string>
+  <string name="acc_clear_button">Očisti</string>
   <string name="acc_clsoe_function_button">Tipka za isključivanje izvornog zvuka</string>
-  <string name="acc_delete_video_special">Brisanje efekata</string>
+  <string name="acc_delete_video_special">Izbriši efekte</string>
   <string name="acc_magic_huifu_description">Poništi</string>
   <string name="acc_magic_matting_copy">Kopiraj</string>
   <string name="acc_magic_matting_delete">Izbriši</string>
-  <string name="acc_magic_matting_matting">Uredi ručno</string>
-  <string name="acc_magic_matting_mirror">Ogledalo</string>
+  <string name="acc_magic_matting_matting">Uredite ručno</string>
+  <string name="acc_magic_matting_mirror">Mirror</string>
   <string name="acc_magic_matting_show_image">Odabrana osoba</string>
   <string name="acc_magic_shanchupeiyue">Ukloni zvučni zapis</string>
-  <string name="acc_magic_xuanzepeiyue">Odaberi zvučni zapisk</string>
+  <string name="acc_magic_xuanzepeiyue">Odaberi zvučni zapis</string>
   <string name="acc_minutes">Minuta</string>
   <string name="acc_open_function_button">Tipka za uključivanje izvornog zvuka</string>
   <string name="acc_renxiangtexiaoshipin">Odaberi videozapis</string>
-  <string name="acc_search_guide">Tipka za pretraživanje formata</string>
+  <string name="acc_search_guide">Tipka za traženje formata</string>
   <string name="acc_search_guide_button">Traka za pretraživanje</string>
-  <string name="acc_seconds">Sekunde</string>
+  <string name="acc_seconds">Sekundi</string>
   <string name="acc_selected">Odabrano</string>
-  <string name="acc_unit_switch">Promjeni jedinice</string>
+  <string name="acc_unit_switch">Prebacite jedinice</string>
   <string name="acc_unselected">Nije odabrano</string>
-  <string name="acc_video_pause_btn">Tipka Pauza</string>
-  <string name="acc_video_play_btn">Tipka Reproduciraj</string>
+  <string name="acc_video_pause_btn">Pauza</string>
+  <string name="acc_video_play_btn">Reproduciraj</string>
   <string name="accept">Prihvati</string>
   <string name="accept_or_deny">%1$s je podijelio album %2$s s tobom.</string>
   <string name="actionbar_button_up_description">Natrag</string>
@@ -91,10 +91,10 @@
   <string name="adjust_contrast">Kontrast</string>
   <string name="adjust_exposure">Ekspozicija</string>
   <string name="adjust_faderray">Izblijediti</string>
-  <string name="adjust_grain">Grain</string>
+  <string name="adjust_grain">Žitarica</string>
   <string name="adjust_highlight">Naglasci</string>
   <string name="adjust_highlight_shadow">Naglasci &amp; sjene</string>
-  <string name="adjust_natural_saturation">Saturacija</string>
+  <string name="adjust_natural_saturation">Živost</string>
   <string name="adjust_reset">Poništi</string>
   <string name="adjust_saturation">Saturacija</string>
   <string name="adjust_shadow">Sjene</string>
@@ -102,7 +102,7 @@
   <string name="adjust_tiunt">Tint</string>
   <string name="adjust_vignette">Vinjeta</string>
   <string name="afternoon">Poslijepodne</string>
-  <string name="agreement_agree">Prihvati</string>
+  <string name="agreement_agree">Prihvaćam</string>
   <string name="agreement_optional_tip">(Opcija)</string>
   <string name="agreement_quit">Izlaz</string>
   <string name="agreement_required_tip">(Obavezno)</string>
@@ -595,7 +595,7 @@
   <string name="creativity_title">Kreativnost</string>
   <string name="crop">Obreži</string>
   <string name="crop_and_rotate">Prilagodi</string>
-  <string name="crop_label">Obrezane fotke</string>
+  <string name="crop_label">Obrezane fotografije</string>
   <string name="crop_recognize_text">Prepoznaj</string>
   <string name="crop_save_text">Spremi</string>
   <string name="crop_tooltip">Povucite oznake da obrežete sliku</string>
@@ -1034,7 +1034,7 @@ za fotografije"</string>
   <string name="filter_sky_dynamic_snow">Snijeg</string>
   <string name="filter_sky_dynamic_stop_saving">Dodirnite ponovo da biste otkazali</string>
   <string name="filter_sky_dynamic_text_yanhua">Tekst</string>
-  <string name="filter_sky_dynamic_text_yanhua_hint">Unesite %1$d do %1$d znakova</string>
+  <string name="filter_sky_dynamic_text_yanhua_hint">Unesite %1$d do %2$d znakova</string>
   <string name="filter_sky_dynamic_unavailable">"Ne mogu primijeniti ovaj filtar na takve slike"</string>
   <string name="filter_sky_dynamic_yanhua">Fireworks</string>
   <string name="filter_sky_dynamic_yinhe">Milky Way</string>
@@ -1789,7 +1789,7 @@ za fotografije"</string>
   <string name="people_mark_mode_title_no_mark_name">Odaberi osobu</string>
   <string name="people_page_label">Osobe</string>
   <string name="people_page_unname">Bez imena</string>
-  <string name="permissin_contract_desc">For naming people on photos</string>
+  <string name="permissin_contract_desc">Za imenovanje ljudi na fotografijama</string>
   <string name="permission_account_desc">Za prijavu i upravljanje računom sustava</string>
   <string name="permission_account_name">Pristup računima</string>
   <string name="permission_clipboard_desc">Za pristup i spremanje stavki u međuspremnik</string>
@@ -2004,7 +2004,7 @@ za fotografije"</string>
   <string name="play_video_desc">Reproduciraj video</string>
   <string name="pm">PM</string>
   <string name="posterize">Posterizacija</string>
-  <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="prepare_to_drop">Spremanje u %s</string>
   <string name="preparing_data">Samo trenutak…</string>
   <string name="print_log">Isprintaj zapis</string>
@@ -2039,7 +2039,7 @@ za fotografije"</string>
   <string name="privacy_permission_request_message"><Data>Galeriji je potreban pristup %3$s. Informacije koje prikupljamo koristit će se u skladu s našim &lt;a href=\"%1$s\">\"Uvjeti pružanja usluge\"&lt;/a> i &lt;a href=\"%2$s\">\"Pravila o privatnosti\"&lt;/a>. Allow?</Data></string>
   <string name="privacy_permission_request_negative">Ograniči</string>
   <string name="privacy_permission_request_positive">Dopusti</string>
-  <string name="privacy_permission_request_title">Potrebno je dopuštenje</string>
+  <string name="privacy_permission_request_title">Potrebna su dopuštenja</string>
   <string name="privacy_permission_shotcut">Prečac na početnom zaslonu</string>
   <string name="privacy_permission_shotcut_detail">Za stvaranje prečaca na početnom zaslonu</string>
   <string name="privacy_permission_storage">Pohrana</string>
@@ -2753,11 +2753,23 @@ za fotografije"</string>
   <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>
   <string name="unsupported_media_scanned_tip">"Otkriveno je %1$s slika. Gledanje %2$s slika nije podržano u ovoj verziji Androida."</string>
   <string name="unsupported_media_view_tip">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida"</string>
+  <string name="update_apk_size">Veličina ažuriranja: %s MB</string>
+  <string name="update_btn_exit">Izlaz</string>
+  <string name="update_btn_negative">Kasnije</string>
+  <string name="update_btn_positive">Ažuriraj</string>
+  <string name="update_check">Provjerite ima li ažuriranja</string>
+  <string name="update_check_title">Trenutna verzija: %s</string>
+  <string name="update_ignore">Zanemari ovu verziju</string>
+  <string name="update_latest_version">Trenutna verzija je ažurirana</string>
+  <string name="update_log_format" formatted="false">%s %s</string>
+  <string name="update_network_error">Provjerite postavke mreže i pokušajte ponovno</string>
+  <string name="update_new_version">Dostupno je ažuriranje</string>
+  <string name="update_title">Dostupna je %s verzija</string>
   <string name="user_agree">Prihvaćam</string>
-  <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
-  <string name="user_agreement4">Pravila o Privatnosti</string>
-  <string name="user_alias_self">Sam</string>
-  <string name="user_notice_identify_summary_format">"Korištenjem ove usluge prihvaćate Mi &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pružanja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"</string>
+  <string name="user_agreement2">Uvjeti pružanja usluge</string>
+  <string name="user_agreement4">Pravila o privatnosti</string>
+  <string name="user_alias_self">Osobno</string>
+  <string name="user_notice_identify_summary_format"><Data>"Korištenjem ove usluge prihvaćate Xiaomi &lt;a href=\"%1$s\">\"Uvjeti pružanja usluge\"&lt;/a> i &lt;a href=\"%2$s\">\"Pravila o privatnosti\"&lt;/a>."</Data></string>
   <string name="user_notice_title">Uvjeti i Odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
@@ -3175,6 +3187,9 @@ za fotografije"</string>
   <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
   <string name="xiaomi_note_3">Mi Note 3</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
   <string name="you_are">"Vi ste djetetu"</string>

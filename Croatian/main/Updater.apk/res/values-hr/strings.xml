@@ -39,6 +39,7 @@
   <string name="download_title_full_download">Dobivanje informacija…</string>
   <string name="downloading">Preuzimanje:</string>
   <string name="downloading_desc">U tijeku je preuzimanje, provjerite status u području obavijesti.</string>
+  <string name="fastboot_update_warning">Ovo ažuriranje je samo za fastboot instalaciju!</string>
   <string name="fetching_data">Dohvaćanje veze za preuzimanje, pričekajte…</string>
   <string name="install_desc">"Uređaj će se ponovno pokrenuti u TWRP recovery i instalirati odabranu datoteku: %1$s
 Podaci neće biti izbrisani."</string>

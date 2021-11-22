@@ -445,6 +445,7 @@ Audio"</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
+  <string name="material_minute_suffix">%1$s min</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -665,6 +666,7 @@ Audio"</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
   <string name="time_unit_just_now">Upravo sad</string>
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka</string>
+  <string name="thirty_minutes">30 minuta</string>
   <string name="trace_debuggable_applications">Prati aplikacije iz kojih se mogu uklanjati pogreške</string>
   <string name="trace_is_being_recorded">Trag se bilježi</string>
   <string name="trace_saved">Trag je spremljen</string>

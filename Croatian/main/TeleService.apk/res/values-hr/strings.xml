@@ -1822,6 +1822,8 @@ Uvijek koristi ovaj broj"</string>
   <string name="msim_sim_radio_off">Isključeno</string>
   <string name="msim_switch_data_conn_toast">SIM kartice su promijenjene. Vrsta mreže se promijenila. Pogledaj dodatne informacije za SIM kartice i mobilne mreže u izborniku Postavki.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM utor 2 podržava samo GSM mreže. Poželjna vrsta mreža za ovaj utor je promijenjen na \"Samo 2G mreža\".</string>
+  <string name="mtn_simlock_emergency">Hitna služba</string>
+  <string name="mtn_simlock_text_tip">Umetnuta SIM kartica ne ispunjava zahtjev. Prije korištenja telefona morate umetnuti SIM karticu propisanu ugovorom. Za pojedinosti kontaktirajte svog lokalnog operatera.</string>
   <string name="multi_category_disable">Višestruke kategorije su isključene</string>
   <string name="multi_category_enable">Višestruke kategorije su uključene</string>
   <string name="multi_sim_settings_title">Dual SIM Postavke</string>
@@ -2627,6 +2629,7 @@ UT sučelje: %5$s"</string>
   <string name="simFdnContacts_empty">Nema kontakata za fiksno biranje.</string>
   <string name="sim_absent">Nema</string>
   <string name="sim_accounts">SIM računi</string>
+  <string name="sim_can_not_read">Utor za karticu %d može čitati samo SIM karticu MTN operatera</string>
   <string name="sim_activated">Provjereno</string>
   <string name="sim_card_activate">Provjera SIM kartice</string>
   <string name="sim_card_num">SIM %s</string>
@@ -2715,6 +2718,7 @@ UT sučelje: %5$s"</string>
   <string name="smart_dual_sim_title">Smart dual SIM</string>
   <string name="smart_forwarding_settings_menu">Pametno prosljeđivanje</string>
   <string name="smart_forwarding_settings_menu_summary">Ako jedan broj nije dostupan, uvijek proslijedite pozive na svoj drugi broj</string>
+  <string name="smart_multinetwork_acceleration_title">Pametno višemrežno ubrzanje</string>
   <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">"Provjerite je li broj koji ste unijeli ispravan. U suprotnom nećete moći slati ni primati SMS. Za potvrdu vašeg SMSC broja kontaktirajte svog operatera."</string>
   <string name="sp_unlock_failed">SIM zahtjev otključavanja Davatelja usluga neuspješno.</string>
@@ -3133,7 +3137,7 @@ Ovaj uređaj nema slušalicu. Možete se prebaciti na handsfree način ili koris
   <string name="wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
   <string name="wifi_auth_password_wrong">Zaporka možda nije točna</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
-  <string name="wifi_call_accept">Preskoči</string>
+  <string name="wifi_call_accept">Prihvaćam</string>
   <string name="wifi_call_available_message">"Sada možete upućivati pozive putem Wi-Fi-ja. Ako ste povezani s Wi-Fi mrežom, moći ćete razgovarati čak i kad se nalazite u područjima koja nemaju pokrivenost mobilnom mrežom."</string>
   <string name="wifi_call_available_message_for_ATT_MX">Povezat ćete se na Wi-Fi mrežu, kvaliteta poziva može varirati ovisno o mreži.</string>
   <string name="wifi_call_available_title">Uključivanje Wi-Fi poziva</string>

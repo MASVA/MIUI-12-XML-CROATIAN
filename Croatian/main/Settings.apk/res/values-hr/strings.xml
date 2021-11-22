@@ -4266,6 +4266,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="freeform_guide_move_title">Pomicanje plutajućih prozora uokolo</string>
   <string name="freeform_guide_move_to_small_freeform_window_summary">Povuci plutajući prozor u kut zaslona</string>
   <string name="freeform_guide_move_to_small_freeform_window_title">Minimiziranje plutajućih prozora</string>
+  <string name="freeform_guide_multi_window">Višezadaćnost</string>
   <string name="freeform_guide_notification_drop_down_summary">Dodirnite i zadržite, a zatim povucite prema dolje radnu traku obavijesti</string>
   <string name="freeform_guide_notification_drop_down_title">Otvaranje plutajućih prozora</string>
   <string name="freeform_guide_settings">Plutajući prozor</string>
@@ -4276,6 +4277,7 @@ Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</stri
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
   <string name="freeform_vedio_description">"·Dodirnite i zadržite, a zatim povucite prema dolje da otvorite obavijest u plutajućem prozoru.
 ·Dodirnite \"Plutajući prozor\" u Nedavno za odabir aplikacija."</string>
+  <string name="freeform_vedio_description_pad">Povucite stavke s doka da otvorite plutajuće prozore</string>
   <string name="frequently_fragment_delete">Ukloni</string>
   <string name="frequently_fragment_tempty">Često korištene stavke će biti popisane ovdje</string>
   <string name="friday">Petak</string>
@@ -9010,6 +9012,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="secure_keyguard_business_title">Postavi Zaklj. zaslona</string>
   <string name="secure_lock_encryption_warning">Budući da ste uključili uslugu pristupačnosti, vaš uređaj neće upotrebljavati PIN ili zaporku za Zaklj. zaslona za bolje šifriranje podataka.</string>
   <string name="security_center_title">Sigurnost</string>
+  <string name="security_check_progress_dialog_message">Provjera sigurnosnih problema…</string>
   <string name="security_dashboard_summary">Zaklj. zaslona, otisak prsta</string>
   <string name="security_dashboard_summary_face">Play Protect, zaključavanje zaslona, otključavanje licem</string>
   <string name="security_dashboard_summary_no_fingerprint">Zaklj. zaslona</string>
