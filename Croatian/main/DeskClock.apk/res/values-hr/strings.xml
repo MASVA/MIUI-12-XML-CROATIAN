@@ -467,7 +467,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="sleep_time">Vrijeme spavanja</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
   <string name="slider_text">Povucite gore za isklj. alarma</string>
-  <string name="slider_text_new">Povucite gore za zaustavljanje</string>
+  <string name="slider_text_new">Povucite gore za isklj. alarma</string>
   <string name="snooze_confirm_cancel">Odbaci alarm</string>
   <string name="snooze_duration">Odgodi</string>
   <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -509,11 +509,11 @@ nakon što Mi Health analizira dovoljno podataka</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_settings">Postavke sata</string>
   <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Dodirnite zaslon da zaustavite alarm</string>
+  <string name="timer_alarm_cancel_pad">Dodirnite zaslon da isključite alarm</string>
   <string name="timer_alarm_dot_matrix_label">TIMER</string>
   <string name="timer_alert_alert_silenced">Timer je isključen nakon %1$s.</string>
-  <string name="timer_alert_mute_off">Alarm će se oglasiti kada se timer zaustavi</string>
-  <string name="timer_alert_mute_on">"Alarm se neće oglasiti kada se timer zaustavi"</string>
+  <string name="timer_alert_mute_off">Alarm će se oglasiti kada se timer isključi</string>
+  <string name="timer_alert_mute_on">"Alarm se neće oglasiti kada se timer isključi"</string>
   <string name="timer_alert_mute_remind">Dodirni za isključivanje alarma</string>
   <string name="timer_alert_mute_switch">Prebaci se na isključenje timera</string>
   <string name="timer_alert_type_beach">Plaža</string>

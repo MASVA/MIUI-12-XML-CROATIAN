@@ -825,7 +825,7 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="auto_task_default_task_summary_listen_music">Reproduciraj glazbu i odaberi vrstu slušalica</string>
   <string name="auto_task_default_task_summary_meet">Zakaži vrijeme sastanka i uključi DND način rada</string>
   <string name="auto_task_default_task_summary_noon_break">Rasporedi vrijeme za drijemanje i uključi DND način rada</string>
-  <string name="auto_task_default_task_summary_save_power">Uključi Štednju baterije kada je baterija manje od %s</string>
+  <string name="auto_task_default_task_summary_save_power">Uključi Štednju baterije kada je baterija manje od 30%</string>
   <string name="auto_task_default_task_summary_sleep">Zakaži vrijeme za spavanje i prilagodi ponašanje uređaja</string>
   <string name="auto_task_default_task_summary_watch_video">Otvori aplikaciju, uključi Wi-Fi, prilagodi glasnoću</string>
   <string name="auto_task_default_task_title_driver_car">Vožnja</string>
