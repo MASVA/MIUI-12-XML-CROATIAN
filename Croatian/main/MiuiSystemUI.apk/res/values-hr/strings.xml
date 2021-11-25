@@ -1150,8 +1150,8 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="fs_gesture_back_ready_title">Idi natrag</string>
   <string name="fs_gesture_final_over">Gotovo</string>
   <string name="fs_gesture_final_restart">Još jednom</string>
-  <string name="fs_gesture_final_see_more">Pogledajte više demonstracija u Postavke &gt; Početni zaslon &gt; Navigacija sustavom</string>
-  <string name="fs_gesture_final_summary">Možete promjeniti "Idi natrag" tipku u Postavke &gt; Cijeli zaslon</string>
+  <string name="fs_gesture_final_see_more">Pogledajte više demonstracija u Postavke > Početni zaslon > Navigacija sustavom</string>
+  <string name="fs_gesture_final_summary">Možete promjeniti "Idi natrag" tipku u Postavke > Cijeli zaslon</string>
   <string name="fs_gesture_final_title">"Sve je spremno!"</string>
   <string name="fs_gesture_finish">Lijepo!</string>
   <string name="fs_gesture_left_back_ready_summary">Prijeđite prstom udesno od ruba</string>
@@ -1160,7 +1160,7 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="fs_gesture_switch_recents_summary">Prijeđite prstom od dna i pauziraj</string>
   <string name="fsg_demo_back">Natrag</string>
   <string name="fsg_demo_go_on">Nauči</string>
-  <string name="game_status">Playing</string>
+  <string name="game_status">Igranje</string>
   <string name="garbage_count">Postoji %1$s starih slučajeva</string>
   <string name="global_action_lock_message">Za više opcija otključajte telefon</string>
   <string name="global_action_screenshot">Snimka zaslona</string>

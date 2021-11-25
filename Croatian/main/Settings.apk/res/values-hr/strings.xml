@@ -4272,6 +4272,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="freeform_guide_settings">Plutajući prozor</string>
   <string name="freeform_guide_slide_to_small_freeform_summary">"Pritisnite i držite dno prozora i povucite ga u gornji desni kut.
 Ova značajka radi samo kada je navigacija sustavom postavljena na geste."</string>
+  <string name="freeform_slide_to_small_freeform_summary_pad">Povucite kut da minimizirate aplikaciju</string>
   <string name="freeform_guide_slide_to_small_freeform_title">Minimizirajte aplikaciju</string>
   <string name="freeform_guide_slide_up_to_close_summary">Povuci prema gore s akcijske trake plutajućeg prozora</string>
   <string name="freeform_guide_slide_up_to_close_title">Zatvaranje plutajućih prozora</string>
@@ -6508,6 +6509,8 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
   <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
+  <string name="multi_window_cvw">Plutajući prozor</string>
+  <string name="multi_window_cvw_summary">Povucite kut da biste se prebacili na plutajući prozor i prilagodili njegovu veličinu</string>
   <string name="multi_user_mode_backup_message">"Ne mogu koristiti Sig. kopiju u Više korisnika načinu. Isključite način Više korisnika za nastavak."</string>
   <string name="multi_user_mode_dialog_message">"Ne mogu koristiti Mi Mover u Gost načinu rada. Isključite način Više korisnika za nastavak."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste u načinu rada Više korisnika"</string>
@@ -11546,6 +11549,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="view_password_description">Prikaži zaporku</string>
   <string name="view_saved_network">Da biste je vidjeli, odaberite spremljenu mrežu</string>
   <string name="vip_list">Obavijesti o pozivima</string>
+  <string name="vip_service_settings">Moje usluge</string>
   <string name="vip_mode_info">U bešumnom načinu, o pozivima i SMS porukama sa VIP popisa kontakata ćete biti obavješteni</string>
   <string name="vip_service_settings">Moje usluge</string>
   <string name="virtual_keyboard_category">Tipkovnica na zaslonu</string>

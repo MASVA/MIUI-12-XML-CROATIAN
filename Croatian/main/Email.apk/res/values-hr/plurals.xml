@@ -177,7 +177,7 @@
         <item quantity="many">Premjesti poruke</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">%1$d novih poruka.</item>
+        <item quantity="other">Nove poruke: %1$d.</item>
         <item quantity="one">%1$d nova poruka.</item>
     </plurals>
     <plurals name="num_selected">

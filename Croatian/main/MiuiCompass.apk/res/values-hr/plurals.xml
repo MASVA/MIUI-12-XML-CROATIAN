@@ -29,6 +29,10 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
      </plurals>
+	 <plurals name="current_page_number">
+        <item quantity="other">Prikaz stranice %d</item>
+        <item quantity="one">Prikaz stranice %d</item>
+    </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
@@ -56,4 +60,8 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
      </plurals>
+	 <plurals name="total_pages">
+        <item quantity="other">Ukupno %d stranica</item>
+        <item quantity="one">Ukupno %d stranica</item>
+    </plurals>
 </resources> 
