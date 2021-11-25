@@ -40,6 +40,10 @@
         <item quantity="other">Pronađeno zapisa: %d</item>
         <item quantity="one">Pronađen %d zapis</item>
     </plurals>
+	<plurals name="text_btn_list_with_message">
+        <item quantity="other">Nove snimke: %d</item>
+        <item quantity="one">%d nova snimka</item>
+    </plurals>
 	<plurals name="time_left_for_clear_file">
         <item quantity="other">%d dana preostalo</item>
         <item quantity="one">%d dan preostao</item>

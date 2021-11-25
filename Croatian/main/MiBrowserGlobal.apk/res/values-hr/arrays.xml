@@ -18,6 +18,7 @@
         <item>Stare vijesti</item>
         <item>Ekstremni pogledi</item>
         <item>Subliminalno oglašavanje</item>
+		<item>"Ne sviđa mi se"</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Natrag/naprijed</item>
