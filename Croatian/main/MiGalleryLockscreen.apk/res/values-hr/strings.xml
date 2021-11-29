@@ -344,6 +344,10 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="lockscreen_magazine_summary">Dodajte vaše slike pozadina u mapu Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_title">Izvanmrežno</string>
   <string name="lockscreen_magazine_title">Dnevne pozadine Zaklj. zaslona</string>
+  <string name="login_app">Prijava</string>
+  <string name="login_app_cancel">Odustani</string>
+  <string name="login_app_confirm">Prijava</string>
+  <string name="login_xiaomi_account_summary">"Pročitao sam i prihvaćam Mi Račun &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Korisnički ugovor&lt;/font>&lt;/a> i &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a>."</string>
   <string name="logout">Odjava</string>
   <string name="lockscreen_wallpaper_changed">Slika pozadine promjenjena</string>
   <string name="logout_account">Odjava</string>
@@ -495,6 +499,7 @@ dd.MM"</string>
   <string name="no_networdk">"Ne mogu se povezati na mrežu"</string>
   <string name="no_phone">Nema broja telefona</string>
   <string name="no_pic_data">"Ne mogu pronaći slike"</string>
+  <string name="not_agree_summary">Prvo prihvatite naše uvjete i odredbe</string>
   <string name="not_allowed">Nije odobreno</string>
   <string name="not_cancel_button">Ne</string>
   <string name="not_revoke_button">Odustani</string>
@@ -777,11 +782,13 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="privacy_update_cancel">Odustani</string>
-  <string name="privacy_update_confirm">Slažem se</string>
+  <string name="privacy_update_confirm">Prihvaćam</string>
   <string name="privacy_update_quit">Izlaz</string>
   <string name="privacy_update_summary1">Ažurirana su Wallpaper Carousel Pravila o privatnosti:</string>
-  <string name="privacy_update_summary2">"Pročitajte i složite se s novom verzijom &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Privacy Policy&lt;/font>&lt;/a> prije nego nastavite."</string>
-  <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne pristanete na njegovu novu verziju &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o privatnosti&lt;/font>&lt;/a>. Slažete li se s ažuriranim Pravilima o privatnosti?"</string>
+  <string name="privacy_update_summary2">"Pročitajte i prihvatite novu verziju &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pravila o privatnosti&lt;/font>&lt;/a> prije nego nastavite."</string>
+  <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne prihvatite novu verziju &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Pravila o privatnosti&lt;/font>&lt;/a>. Privaćate li nova ažurirana Pravila o privatnosti?"</string>
+  <string name="privacy_update_title1">Ažurirana su Pravila o privatnosti</string>
+  <string name="privacy_update_title2">Pažnja</string>
   <string name="prv_end">" "Nema više stavki za prikaz" "</string>
   <string name="prv_loading">" "Samo trenutak…" "</string>
   <string name="prv_nodata">" "Nema podataka" "</string>

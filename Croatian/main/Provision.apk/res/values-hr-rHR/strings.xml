@@ -51,6 +51,7 @@
   <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="back">Natrag</string>
   <string name="backup_introduction">Ovu aplikaciju možete koristiti za izradu sigurnosnih kopija i vraćanje stavki na vaš uređaj.</string>
+  <string name="bluetooth_introduction">Sustav koristi Bluetooth za bežičnu komunikaciju. Da bi mogao normalno raditi, Bluetooth treba sljedeća dopuštenja:</string>
   <string name="boot_video_desc">Pogledajte svijet u 2K</string>
   <string name="boot_video_replay">Reproduciraj ponovno</string>
   <string name="boot_video_skip">Preskoči</string>
@@ -67,7 +68,7 @@
   <string name="cm_terms_title">Sporazum operatera mobilne mreže</string>
   <string name="compass_introduction">Ovu aplikaciju možete koristiti za navigaciju, kao i za pregled koordinata, atmosferskog tlaka i nadmorske visine.</string>
   <string name="congratulation_label">"Spremni ste za MIUI!"</string>
-  <string name="congratulation_swipe">Povuci prema gore za ulaz u sustav</string>
+  <string name="congratulation_swipe">Povucite prema gore za ulaz u sustav</string>
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
   <string name="content_description_language_picker">Odaberi jezik</string>
@@ -86,23 +87,24 @@
   <string name="desc_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja, potvrdu Mi Pay transakcija ili za prijavu u aplikacije i usluge.</string>
   <string name="desc_international_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja ili za prijavu u aplikacije i usluge.</string>
   <string name="diagnose_report">Šaljite dijagnostičke podatke da biste locirali i analizirali probleme sustava i poboljšali korisničko iskustvo. Takvi podaci mogu uključivati osobne podatke (npr. IP, lokaciju itd.)</string>
-  <string name="disageement_abnormal_download">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu uslugu."</string>
+  <string name="disageement_abnormal_download">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
   <string name="disagree">Odustani</string>
-  <string name="disagreement_abnormal_running">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
+  <string name="disagreement_abnormal_running">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
   <string name="disagreement_abnormal_running_fast_pairing">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju. U takvim ćete slučajevima moći ograničiti dopuštenja u postavkama."</string>
   <string name="disagreement_application_not_working_properly">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
-  <string name="disagreement_donnot_use_application">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju u takvim slučajevima."</string>
-  <string name="disagreement_donnot_use_product">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovaj proizvod. Možete odlučiti da nećete koristiti ovaj proizvod u takvim slučajevima."</string>
-  <string name="disagreement_donnot_use_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu uslugu. Možete odlučiti da nećete koristiti ovu uslugu u takvim slučajevima."</string>
-  <string name="disagreement_exit_app">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu aplikaciju. Možete se odjaviti ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
+  <string name="disagreement_donnot_use_application">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju u takvim slučajevima."</string>
+  <string name="disagreement_donnot_use_product">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovaj proizvod. Možete odlučiti da nećete koristiti ovaj proizvod u takvim slučajevima."</string>
+  <string name="disagreement_donnot_use_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. Možete odlučiti da nećete koristiti ovu uslugu u takvim slučajevima."</string>
+  <string name="disagreement_exit_app">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete se odjaviti ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
   <string name="disagreement_fast_pairing_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju. Ovu uslugu možete uključiti ili isključiti u bilo kojem trenutku u Postavke > Bluetooth > Dodatne postavke > Mi Link."</string>
-  <string name="disagreement_function">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu značajku. Možete odlučiti da nećete koristiti ovu značajku u takvim slučajevima."</string>
-  <string name="disagreement_location_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu uslugu."</string>
+  <string name="disagreement_function">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu značajku. Možete odlučiti da nećete koristiti ovu značajku u takvim slučajevima."</string>
+  <string name="disagreement_location_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
   <string name="disagreement_location_service_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge lokacije. Usluge lokacije možete uključiti ili isključiti u bilo kojem trenutku u Postavke > Zaštita privatnosti."</string>
   <string name="disagreement_mi_account_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge Mi Računa. Usluge Mi Računa možete uključiti ili isključiti u bilo kojem trenutku u Postavke > Mi Account."</string>
   <string name="disagreement_service_not_working_properly">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
-  <string name="disagreement_terminate_miuidaemon">"Dopuštenja ćemo koristiti samo kad počnete prenositi podatke s uređaja kada je njegov zaslon oštećen. Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
-  <string name="disagreement_terminate_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeljenjem i prijenosom vaših osobnih podataka, nećete moći koristiti ovu uslugu. U takvim slučajevima možete odabrati deinstaliranje, odjavu ili ograničenje dopuštenja u postavkama."</string>
+  <string name="disagreement_terminate_bluetooth">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti Bluetooth. Možete uključiti i isključiti Bluetooth te dodati Bluetooth uređaje u Postavkama."</string>
+  <string name="disagreement_terminate_miuidaemon">"Dopuštenja ćemo koristiti samo kad počnete slati podatke s uređaja kada je njegov zaslon oštećen. Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
+  <string name="disagreement_terminate_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. U takvim slučajevima možete odabrati deinstaliranje, odjavu ili ograničenje dopuštenja u postavkama."</string>
   <string name="download_introduction">Preuzimanja je aplikacija koju pruža Xunlei i koristi se za preuzimanja i upravljanje preuzimanim sadržajem (uključujući sadržaj trgovine aplikacija, videozapise, ažuriranja sustava, teme i sadržaj preglednika) za korisnike Xiaomi uređaja.</string>
   <string name="enable_accessibility_canceled">Pristupačnost je otkazana.</string>
   <string name="enable_accessibility_dialog_message">Uključili ste TalkBack pritiskom na zaslon s 2 prsta dulje od 10 sekundi. TalkBack pruža govorne povratne informacije osobama s oštećenjem vida. Ako ga uključili slučajno, dodirnite tipku Odustani, a zatim dvaput dodirnite zaslon.</string>
@@ -261,7 +263,7 @@
   <string name="other_settings_enhanced_lockscreen_summary">Dobijte slike i priče koje se dnevno isporučuju na vaš Zaklj. zaslon. Primjenjuju se Uvjeti i odredbe.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Uvjeti i odredbe</string>
   <string name="other_settings_location">Lokacije</string>
-  <string name="other_settings_location_summary">Dopusti aplikacijama pristup vašoj lokaciji</string>
+  <string name="other_settings_location_summary">Dopustite aplikacijama i web-lokacijama pristup informacijama o vašoj lokaciji radi pružanja usluga temeljenih na lokaciji</string>
   <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
   <string name="other_settings_mifg_online_content_summary">Dopustite Wallpaper Carousel povezivanje na internet kako bi preuzeo nove slike pozadine.</string>
   <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.
@@ -283,12 +285,14 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="permission_backup">Pristup pohrani</string>
   <string name="permission_backup_introduction">Za pristup i spremanje sigurnosnih kopija na vaš uređaj</string>
   <string name="permission_call_records">Pristup povijesti poziva</string>
+  <string name="permission_call_records_describe_bluetooth_summary">Za omogućavanje drugim kompatibilnim uređajima koje povezujete s ovim uređajem da pristupe povijesti poziva. To će se dogoditi samo kada proaktivno zahtijevate korištenje povijesti poziva putem drugog uređaja. Povijest poziva i kontakti koje sustav dijeli putem Bluetootha bit će spremljeni lokalno samo na vašim uređajima i dijeljeni s njima uz vaše dopuštenje.</string>
   <string name="permission_call_records_introduction">Za pristup povijesti poziva radi prikazivanja blokiranih stavki</string>
   <string name="permission_call_state_introduction">Za pristup statusu telefona, snimanju poziva i zaustavljanje snimanja tijekom dolaznih poziva</string>
   <string name="permission_clock_info_introduction">Za spremanje podataka alarma</string>
   <string name="permission_contact">Pristup kontaktima</string>
   <string name="permission_contact_describe">Pristup kontaktima</string>
   <string name="permission_contact_describe_MIUIDaemon_summary">Za provjeru vašeg identiteta.</string>
+  <string name="permission_contact_describe_bluetooth_summary">Za omogućavanje pristupa kontaktima drugim kompatibilnim uređajima koje povezujete s ovim uređajem. To će se dogoditi samo kada uključite Bluetooth ili uredite svoje kontakte dok je Bluetooth uključen.</string>
   <string name="permission_contact_describe_desktop_summary">Za korištenje značajke kontakta za hitne slučajeve na početnom zaslonu u Lite načinu rada i prikaz obavijesti o razgovorima</string>
   <string name="permission_contact_describe_message_summary">Za prikaz odgovarajućih kontaktnih podataka SMS -a i MMS -a.</string>
   <string name="permission_contact_introduction">Za pružanje funkcionalnosti Liste blokiranih i pozivanje hitnih kontakata</string>
@@ -424,6 +428,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="service_name_album">Galerija</string>
   <string name="service_name_application_package">Alat za instalaciju paketa</string>
   <string name="service_name_backup">Sig. kopije</string>
+  <string name="service_name_bluetooth">Bluetooth</string>
   <string name="service_name_calculator">Kalkulator</string>
   <string name="service_name_camera">Kamera</string>
   <string name="service_name_carrier">Izjava o uslugama operatera</string>
@@ -466,7 +471,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="sim_card_detection_mobile_not_available">"SIM kartica ne može se povezati na mrežu"</string>
   <string name="sim_card_dial_card1">SIM1 za pozive</string>
   <string name="sim_card_dial_card2">SIM2 za pozive</string>
-  <string name="sim_card_do_not_select_dial_card">Odaberite SIM karticu za biranje</string>
+  <string name="sim_card_do_not_select_dial_card">Odaberite SIM karticu prilikom biranja</string>
   <string name="sim_card_network_card1">Podatkovni SIM1</string>
   <string name="sim_card_network_card2">Podatkovni SIM2</string>
   <string name="sim_card_detection_sb_esim">Aktiviraj eSIM&gt;</string>
@@ -527,7 +532,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_updater">Ažuriranje</string>
   <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
   <string name="terms_of_use_ble_htmlViewer">, Spojeni pružatelj lokacije, HTMLViewer</string>
-  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate prihvatiti Uvjeti Pružanja Usluge i Pravila o privatnosti prije nego što možete koristiti MIUI. %s i komponente Mi Računa povezati će na internet i pribaviti vašu lokaciju."</string>
+  <string name="terms_of_use_label">"Vaša privatnost nam je vrlo važna. Pročitajte naše Uvjeti Pružanja Usluge i Pravila o privatnosti da razumijete koje informacije prikupljamo, kako ćemo ih koristiti i koji su vam izbori dostupni.\r\n\r\n\nMorate prihvatiti Uvjeti Pružanja Usluge i Pravila o privatnosti prije nego što možete koristiti MIUI. %s i komponente Mi Računa povezati će na internet i dobiti vašu lokaciju."</string>
   <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Politiku oprivatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>
   <string name="terms_of_use_label_use_network_china">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Politiku o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
   <string name="terms_of_use_lable_apps">Mi Usluge, Mi SIM usluge aktivacije, Mi Cloud, Pronađi uređaj, Početni zaslon, Igre, MAB, MIUI Daemon i MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
@@ -540,7 +545,7 @@ Morate prihvatiti Facemoji Pravila o privatnosti prije korištenja ove značajke
 Morate prihvatiti Kika Pravila o privatnosti prije korištenja ove značajke."</string>
   <string name="terms_of_use_lable_default_input_method_mint">"
 
-Prije korištenja ove značajke morate pristati na Pravila o privatnosti Mint Keyboard."</string>
+Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Keyboard."</string>
   <string name="terms_of_use_lable_gms">Usluge Google Play</string>
   <string name="terms_of_use_lable_smart_cards">Pametne kartice</string>
   <string name="terms_of_use_lable_vsimcore">MConnService</string>

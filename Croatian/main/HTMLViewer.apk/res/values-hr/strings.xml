@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="action_use_network">Koristi</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="ad_service">Usluga oglasa</string>
   <string name="app_label">HTML pregledač</string>
@@ -36,6 +37,7 @@
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
+  <string name="error_continue_via_browser">Detalji</string>
   <string name="expand_button_title">Napredno</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
@@ -135,6 +137,7 @@ idite na %s"</string>
   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
   <string name="settings_safetylegal_activity_unreachable">"Nemate podatkovnu vezu. Da biste vidjeli ove podatke sada, idite na %s s bilo kojeg računala povezanog s internetom."</string>
   <string name="settings_safetylegal_title">Sigurnosne informacije</string>
+  <string name="ssl_error_untrusted">"Certifikat ne izdaje pouzdano tijelo za izdavanje certifikata. Koristiti svejedno?"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>

@@ -129,8 +129,11 @@
   <string name="high_temp_state_message">Vaš uređaj je pregrijan. Mobilni podaci, Wi-Fi hotspotovi, GPS i kamera bit će ograničeni.</string>
   <string name="hints_loading_text">Učitavanje…</string>
   <string name="important_warning">Pažnja</string>
-  <string name="insert_data">Umetnite podatke</string>
+  <string name="insert_data">Unesite podatke</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="invalid_size_value">"Ne mogu dobiti veličinu paketa."</string>
+  <string name="kill_all_back_pro_toast_message">"Nije moguće koristiti sve pozadinske procese zbog pregrijavanja uređaja"</string>
+  <string name="kill_some_back_pro_toast_message">"Nije moguće koristiti neke pozadinske procese zbog pregrijavanja uređaja"</string>
   <string name="kill_pkg_toast_message">"Ne mogu koristiti aplikacije zbog pregrijavanja uređaja"</string>
   <string name="lasttime_applist_cloud">Ažurirane aplikacije:</string>
   <string name="lasttime_feature_cloud">Ažurirane značajke:</string>

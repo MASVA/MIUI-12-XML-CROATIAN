@@ -938,6 +938,7 @@ koji će se prikazati drugim MIUI korisnicima na njihovim uređajima kada ih naz
   <string name="insertContactDescription">Izradi kontakt</string>
   <string name="insertGroupDescription">Izradi skupinu</string>
   <string name="invalidContactMessage">Kontakt ne postoji</string>
+  <string name="item_offical">Službena</string>
   <string name="invalid_contacts_excluded_to_save_to_group">Samo zapisi s kontaktima će biti spremljeni u grupu</string>
   <string name="invalid_contacts_to_save_to_group">"Ne mogu spremiti nepoznate brojeve"</string>
   <string name="keep_local">"Nemoj sinkr."</string>
@@ -1356,7 +1357,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="permission_dailog_title">Potrebna dopuštenja</string>
   <string name="permission_notice_desc_access_fine_location">Za uvoz kontakata s drugih uređaja putem Bluetootha</string>
   <string name="permission_notice_desc_add_voicemail">Za korištenje funkcije govorne pošte i audio poruka</string>
-  <string name="permission_notice_desc_call_phone">Za upućivanje poziva u aplikacijama trećih strana</string>
+  <string name="permission_notice_desc_call_phone">Za upućivanje poziva putem prečaca na početnom zaslonu</string>
   <string name="permission_notice_desc_call_phone_for_pad">Za upućivanje poziva u aplikacijama trećih strana</string>
   <string name="permission_notice_desc_camera">Za snimanje profilnih fotografija</string>
   <string name="permission_notice_desc_read_call_logs">Za pregled povijesti poziva</string>
@@ -1369,7 +1370,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="permission_notice_desc_write_external_storage">Za dodavanje fotografija profila i uvoz vCards</string>
   <string name="permission_record_audio_desc">Za upotrebu glasa tijekom provjere osobnih podataka</string>
   <string name="permission_retry_deny">Odustani</string>
-  <string name="permission_retry_dialog_msg">Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom, upravljati kontaktima i ažurirati povijest poziva, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata i povijesti poziva, kao i pristup podacima o uređaju.</string>
+  <string name="permission_retry_dialog_msg">Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom, upravljati kontaktima i ažurirati povijest poziva, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata i povijesti poziva,Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom, upućivati pozive putem prečaca na početnom zaslonu, upravljati svojim kontaktima i ažurirati povijest poziva, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata i povijesti poziva, upućivanje poziva i pristup podacima o uređaju.</string>
   <string name="permission_retry_dialog_msg_pad">Da biste mogli koristiti svoju SIM karticu s ovom aplikacijom i upravljati svojim kontaktima, dopustite ovoj aplikaciji pristup i uređivanje vaših kontakata, kao i pristup podacima o uređaju.</string>
   <string name="permission_retry_setting">Postavke</string>
   <string name="permission_write_external_storage_desc">Za spremanje podataka aplikacije</string>
@@ -1485,7 +1486,7 @@ Za dodavanje kontakta na listu favorita :
   <string name="privacy_password_title3">Nadogradite vašu zaporku</string>
   <string name="privacy_password_title4">Zaporka je nadograđena</string>
   <string name="privacy_settings_call_phone">Napravi</string>
-  <string name="privacy_settings_call_phone_description">Za upućivanje poziva u aplikacijama trećih strana</string>
+  <string name="privacy_settings_call_phone_description">Za upućivanje poziva putem prečaca na početnom zaslonu</string>
   <string name="privacy_settings_call_phone_description_for_pad">Za upućivanje poziva u aplikacijama trećih strana</string>
   <string name="privacy_settings_call_phone_for_pad">Upućivanje poziva</string>
   <string name="privacy_settings_contacts">Kontakti i Telefon</string>

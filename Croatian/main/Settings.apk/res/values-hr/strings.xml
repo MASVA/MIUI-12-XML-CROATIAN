@@ -1042,6 +1042,7 @@ Promijeniti postavke sada?"</string>
   <string name="auto_sync_account_title">Automatski sinkroniziraj podatke aplikacija</string>
   <string name="auto_sync_personal_account_title">Automatski sinkroniziraj osobne podatke</string>
   <string name="auto_sync_work_account_title">Automatski sinkroniziraj radne podatke</string>
+  <string name="auto_task_operation_close">Zatvori</string>
   <string name="auto_upload_debug_log_summary">Dijagnostički podaci mogu uključivati informacije o korištenju hardvera, operacijskom sustavu i aplikacijama. Podaci će se koristiti za pronalaženje i analiziranje problema u sustavu i nikada neće biti korišteni za vašu identifikaciju.</string>
   <string name="auto_upload_debug_log_title">Pošalji automatski dijagnostičke podatke</string>
   <string name="autofill_app">Automatsko popunjavanje</string>
@@ -1641,6 +1642,7 @@ Dosad se niste povezivali s uređajem %2$s."</string>
   <string name="bluetooth_enable_inband_ringing_summary">Omogući reprodukciju melodija zvona telefona putem Bluetooth slušalica</string>
   <string name="bluetooth_enable_page_scan">Omogući skeniranje Bluetooth stranice</string>
   <string name="bluetooth_enable_page_scan_summary">Onemogući/omogući skeniranje stranice za Bluetooth test</string>
+  <string name="bluetooth_enable_pts_test_summary">Onemogući/omogući PTS za Bluetooth test</string>
   <string name="bluetooth_enter_passkey_msg">Unesite kôd za uparivanje pa pritisnite Return ili Enter</string>
   <string name="bluetooth_enter_passkey_other_device">Možda ćete ovaj pristupni kôd trebati unijeti i na drugi uređaj.</string>
   <string name="bluetooth_enter_pin_msg">Uređaj</string>
@@ -5938,6 +5940,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="menu_duration_3h">3 sata</string>
   <string name="menu_duration_6h">6 sati</string>
   <string name="menu_hide_system">Sakrij sustav</string>
+  <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_show_more">Više</string>
   <string name="menu_key">"Izbornik"</string>
   <string name="menu_new">Novi APN</string>
@@ -7247,6 +7250,7 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="owner_info_settings_summary">Ništa</string>
   <string name="owner_info_settings_title">Poruka na Zaklj. zaslonu</string>
   <string name="owner_space">Prvi prostor</string>
+  <string name="p2p_summary_enable_GPS">Ova značajka radi kada su uključene usluge lokacije</string>
   <string name="packages_subtitle">Uključeni paketi</string>
   <string name="pad_backup_summary">Napravite sigurnosnu kopiju i vratite stavke na ovom uređaju</string>
   <string name="pad_backup_title">Mobilni uređaj</string>
@@ -9851,6 +9855,10 @@ Povući suglasnost za %s?"</string>
   <string name="speed_label_slow">Sporo</string>
   <string name="speed_label_very_fast">Vrlo brzo</string>
   <string name="speed_label_very_slow">Vrlo sporo</string>
+  <string name="speed_mode">Način rada brzine</string>
+  <string name="speed_mode_noti_summary">Način rada brzine će povećati potrošnju energije i proizvodnju topline</string>
+  <string name="speed_mode_noti_title">Način rada za brzinu uključen</string>
+  <string name="speed_mode_summary">Kada se uključi, performanse će doseći ekstremno stanje, ali će povećati potrošnju energije i stvoriti toplinu.</string>
   <string name="spell_checker_master_switch_title">Upotreba provjere pravopisa</string>
   <string name="spell_checker_not_selected">Nije odabrano</string>
   <string name="spell_checker_primary_switch_title">Upotreba provjere pravopisa</string>

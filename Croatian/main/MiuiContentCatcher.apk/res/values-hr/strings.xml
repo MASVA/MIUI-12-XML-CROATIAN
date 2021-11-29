@@ -60,8 +60,8 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="invalid_package_signature">Potpis aplikacije nije važeći</string>
-  <string name="login_mi_account_alert">Upit</string>
-  <string name="login_mi_account_summary">Da biste uključili upravitelja zaporkama, trebate se prijaviti na Mi Račun, prijaviti se sad?</string>
+  <string name="login_mi_account_alert">Pažnja</string>
+  <string name="login_mi_account_summary">Upravitelj zaporkama sinkronizira zaporke s vašim Mi Računom. Prijavite se sada?</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -130,7 +130,7 @@
   <string name="more">Više</string>
   <string name="ok">U redu</string>
   <string name="password_manager">Upravitelj zaporkama</string>
-  <string name="password_manager_summary">Upravitelj zaporkama u cloudu, sigurnosna kopija na Mi Račun</string>
+  <string name="password_manager_summary">Sinkronizirajte svoje zaporke s cloudom</string>
   <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>

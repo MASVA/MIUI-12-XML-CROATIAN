@@ -496,6 +496,8 @@ Provjerite svoju SIM karticu."</string>
   <string name="messaging">Poruke</string>
   <string name="mi_message_title">Mi Poruka</string>
   <string name="millionbyte">MB</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
+  <string name="miuix_alphabet_indexer_name">Indeksna traka</string>
   <string name="mipub_messaging_entry_title">Mi Poruka</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -514,6 +516,8 @@ Provjerite svoju SIM karticu."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -1087,6 +1091,9 @@ Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nast
   <string name="send_to_count">Poslano: %1$s</string>
   <string name="sent_at_time">Poslano: %1s</string>
   <string name="sent_label">"Poslano: "</string>
+  <string name="service_abandon_alert">Pažnja</string>
+  <string name="service_abandon_retry_deny">Natrag</string>
+  <string name="service_abandon_retry_setting">Postavke</string>
   <string name="service_message_not_found">Poruka je istekla ili nije dostupna.</string>
   <string name="service_network_problem">Zbog problema s mrežom slanje nije moguće.</string>
   <string name="service_not_activated">Usluga nije aktivirana na mreži.</string>
@@ -1101,6 +1108,7 @@ Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nast
   <string name="show_sender">Prikaži detalje pošiljatelja</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
+  <string name="sim_activation_service_retry_main_purpose">Aktivacija SIM-a mora biti uključena da bi Mi Poruka normalno radila. Aktivaciju SIM-a možete uključiti u Postavke > Upravljanje aplikacijama.</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Poruka)</string>
@@ -1347,12 +1355,13 @@ Provedeni pokušaj: %s."</string>
   <string name="voip_enable_popup_msg2">Pravila o Privatnosti</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Pošalji za %ds</string>
-  <string name="web_content_invalid_hint">Displaying this item is restricted by the local laws and regulations</string>
+  <string name="web_content_invalid_hint">Prikazivanje ove stavke ograničeno je lokalnim zakonima i propisima</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
   <string name="wild_msg_processing">Obrada…</string>
   <string name="wild_msg_title">Odaberite brojeve telefona za sinkr.</string>
+  <string name="xiaomi_account_service_retry_main_purpose">Usluge Mi Računa moraju biti uključene da bi ova značajka normalno radila. Usluge Mi Računa možete uključiti u Postavke > Upravljanje aplikacijama.</string>
   <string name="xiaomi_service_number">Broj usluge</string>
   <string name="yellowpage_recommend_msg">"Provjerite MIUI značajku za slanje poruka"</string>
   <string name="yes">U redu</string>

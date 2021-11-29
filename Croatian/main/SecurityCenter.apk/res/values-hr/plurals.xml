@@ -285,7 +285,11 @@ Odmorite se!"</item>
     <plurals name="menu_text_app_manager_ex">
         <item quantity="other">Dostupno su ažuriranja: %d</item>
         <item quantity="one">Dostupno je %d ažuriranje</item>
-    </plurals>	   
+    </plurals>
+	<plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
+    </plurals>
 	<plurals name="system_check_content">
          <item quantity="other">%1$d stavki osigurano</item>
          <item quantity="one">%1$d stavka osigurana</item>
