@@ -1045,7 +1045,8 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">Dodajte %d aplikaciju. Povucite dodanu stavku da biste prilagodili redoslijed.</item>
     </plurals>
     <plurals name="gd_app_edit_desc_new">
-        <item quantity="other">Dodajte do %d aplikacija. Povucite dodanu stavku da biste prilagodili redoslijed.</item>
+        <item quantity="one">Dodajte do %d aplikaciju. Pritisnite i držite za preuređivanje.</item> 
+		<item quantity="other">Dodajte do %d aplikacija. Pritisnite i držite za preuređivanje.</item>
     </plurals>
 	 <plurals name="gtb_brightness_dialog_message">
         <item quantity="other">Ova značajka automatski smanjuje svjetlinu zaslona nakon %d min. neaktivnosti radi uštede energije. Zadržati ovu značajku uključenom?</item>
@@ -1062,5 +1063,9 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
     <plurals name="summary_result_lock_screen_format">
         <item quantity="other">Zaključaj zaslon nakon %d min.</item>
         <item quantity="one">Zaključaj zaslon nakon %d min.</item>
+    </plurals>
+	<plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Dopušteno za %s aplikacija</item>
+        <item quantity="one">Dopušteno za %s aplikaciju</item>
     </plurals>
 </resources>

@@ -192,6 +192,9 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="adjust_traffic_carrier_summary_two_day_before">Ažurirano prije 2 dana</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Ažurirano jučer u %s</string>
   <string name="adjust_traffic_data">Postavi uporabu podataka</string>
+  <string name="adv_permission_text">Dopuštenja</string>
+  <string name="adv_privacy_text">Privatnost</string>
+  <string name="adv_version_text">Verzija: %s</string>
   <string name="after_the_lock_screen">"Zaključaj aplikacije zajedno sa zaslonom."</string>
   <string name="ai_allow_all">Odluči za mene u svim slučajevima</string>
   <string name="alert_back_diving_mode_summary">Isključiti Interaktivan način?</string>
@@ -238,8 +241,8 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="antivirus_privacy_dialog_cloudscan">Pošalji nazive i detalje aplikacija</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">"Da bismo učinkovitije otkrili i neutralizirali viruse, prenijet ćemo imena i svojstva paketa aplikacija kako bismo ih skenirali pomoću cloud mehanizma."</string>
   <string name="antivirus_privacy_dialog_ok">U redu</string>
-  <string name="antivirus_privacy_dialog_summary"><Data>Ovu značajku pokreće antivirusni mehanizam treće strane. Da biste saznali više, pročitajte &lt;a href=\"%1$s\">Ugovor o licenci&lt;/a> koji je osigurala treća strana.</Data></string>
-  <string name="antivirus_privacy_dialog_summary_kddi"><Data>"Kada izvodite sigurnosno skeniranje, model vašeg uređaja i rezultati skeniranja bit će učitani na %1$s poslužitelje i koristiti će se u skladu s odgovarajućim &lt;a href=\"%2$s\">Uvjeti i odredbe&lt;/a>.&lt;br/>&lt;br/>Pročitajtei prihvatite %3$s uvjete i odredbe prije izvođenja sigurnosnih skeniranja.&lt;br/>&lt;br/>Ako ne pristajete na prijenos podataka na %4$s poslužitelje, i dalje možete koristiti definicije virusa pohranjene lokalno na vašem uređaju."</Data></string>
+  <string name="antivirus_privacy_dialog_summary">&lt;Data&gt;Ovu zna&amp;#269;ajku pokre&amp;#263;e antivirusni mehanizam tre&amp;#263;e strane. Da biste saznali vi&amp;#353;e, pro&amp;#269;itajte &amp;lt;a href=\"%1$s\"&amp;gt;Ugovor o licenci&amp;lt;/a&amp;gt; koji je osigurala tre&amp;#263;a strana.&lt;/Data&gt;</string>
+  <string name="antivirus_privacy_dialog_summary_kddi">&lt;Data&gt;"Kada izvodite sigurnosno skeniranje, model va&amp;#353;eg ure&amp;#273;aja i rezultati skeniranja bit &amp;#263;e u&amp;#269;itani na %1$s poslu&amp;#382;itelje i koristiti &amp;#263;e se u skladu s odgovaraju&amp;#263;im &amp;lt;a href=\"%2$s\"&amp;gt;Uvjeti i odredbe&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pro&amp;#269;itajtei prihvatite %3$s uvjete i odredbe prije izvo&amp;#273;enja sigurnosnih skeniranja.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Ako ne pristajete na prijenos podataka na %4$s poslu&amp;#382;itelje, i dalje mo&amp;#382;ete koristiti definicije virusa pohranjene lokalno na va&amp;#353;em ure&amp;#273;aju."&lt;/Data&gt;</string>
   <string name="antivirus_privacy_dialog_summary_link">Pravila o privatnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o privatnosti</string>
   <string name="antivirus_privacy_dialog_title_kddi">Uvjeti i odredbe</string>
@@ -1015,6 +1018,15 @@ Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih pro
   <string name="battery_status_overheat">Pregrijana</string>
   <string name="battery_status_unknown">Nepoznata pogreška</string>
   <string name="battery_temperature_title">Temperatura</string>
+  <string name="beauty_fc_assistant">Pomoćnik prednje kamere</string>
+  <string name="beauty_fc_assistant_summary">Koristite Fill light i Uljepšanje s prednjom kamerom</string>
+  <string name="beauty_fc_fill_lamp">Fill light</string>
+  <string name="beauty_fc_light">Fill light svjetlina</string>
+  <string name="beauty_fc_video_call">Uljepšanje za videopozive</string>
+  <string name="beauty_fc_video_call_summary">Prikaži opcije za uljepšavanje tijekom WeChat videopoziva</string>
+  <string name="beauty_fun_filter">Uljepšanje</string>
+  <string name="beauty_fun_light">Fill light</string>
+  <string name="beauty_settings">Postavke</string>
   <string name="begin_date">Datum resetiranja korištenja</string>
   <string name="behavior_widget_get_installed_apps">Pristup aplikacijama</string>
   <string name="behavior_widget_get_location">Pristup lokacijama</string>
@@ -1429,6 +1441,8 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="descx_start_scan_system">Pokreni skeniranje zaštite sustava</string>
   <string name="detail_app_button">Detalji aplikacije</string>
   <string name="details_subtitle">Detalji korištenja</string>
+  <string name="dev_sign_notification_content">"Sada koristite Android 12 Beta. Povratne informacije koje nam date pomoći će nam da identificiramo i riješimo probleme. Hvala na sudjelovanju u ovom programu!"</string>
+  <string name="dev_sign_notification_title">Android 12 Beta</string>
   <string name="device_manager_apply_step_1">Aktivirati administratora uređaja za ovu aplikaciju?</string>
   <string name="device_manager_apply_step_2">"Aktivacija administratora uređaja za ovu aplikaciju može dovesti do izlaganja vaših osobnih podataka.
 Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona možda se poništi."</string>
@@ -1580,12 +1594,12 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exit">Izlaz</string>
   <string name="exit_dialog_exit">Izlaz</string>
   <string name="exit_dialog_garbage_clean_message">Količina smeća na vašem uređaju iznosi više od %s. Očistiti smeće?</string>
-  <string name="exit_dialog_garbage_clean_message_new"><Data>Čistač može osloboditi &lt;font color=#0099ff>%s&lt;/font> prostora za pohranu. Očistiti sada?</Data></string>
+  <string name="exit_dialog_garbage_clean_message_new">&lt;Data&gt;&amp;#268;ista&amp;#269; mo&amp;#382;e osloboditi &amp;lt;font color=#0099ff&amp;gt;%s&amp;lt;/font&amp;gt; prostora za pohranu. O&amp;#269;istiti sada?&lt;/Data&gt;</string>
   <string name="exit_dialog_garbage_clean_positive_button">Očisti</string>
   <string name="exit_dialog_garbage_clean_title">Oslobodite prostor za pohranu</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zatvori</string>
-  <string name="exit_dialog_release_memory_title"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+  <string name="exit_dialog_release_memory_title">&lt;Data&gt;Ubrzajte svoj ure&amp;#273;aj za &amp;lt;font color=#0099ff&amp;gt;%d%%&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_message_new">Više od %s prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_positive_button">Oslobodi prostor</string>
@@ -2093,7 +2107,7 @@ vašeg igranja"</string>
   <string name="gd_setting_title">Bočna traka</string>
   <string name="gd_setting_vtb">Prikaži tijekom reprodukcije videozapisa</string>
   <string name="gd_setting_vtb_desc">Posebne značajke za reprodukciju videozapisa</string>
-  <string name="gdpr_msg"><Data>"Da bismo mogli otkriti sigurnosne rizike i zaštititi vaše podatke, moramo prikupiti potrebnu količinu informacija o vašem uređaju. Pročitajte i prihvatite naša &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Pravila o privatnosti&lt;/a> prije korištenja naših usluga. U slučaju da nam ne dopustite prikupljanje takvih podataka, i dalje ćete moći koristiti ovu aplikaciju, ali neke značajke neće vam biti dostupne. "</Data></string>
+  <string name="gdpr_msg">&lt;Data&gt;"Da bismo mogli otkriti sigurnosne rizike i za&amp;#353;tititi va&amp;#353;e podatke, moramo prikupiti potrebnu koli&amp;#269;inu informacija o va&amp;#353;em ure&amp;#273;aju. Pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja na&amp;#353;ih usluga. U slu&amp;#269;aju da nam ne dopustite prikupljanje takvih podataka, i dalje &amp;#263;ete mo&amp;#263;i koristiti ovu aplikaciju, ali neke zna&amp;#269;ajke ne&amp;#263;e vam biti dostupne. "&lt;/Data&gt;</string>
   <string name="get_detail_by_click">Dodirnite za prikaz pojedinosti</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
@@ -2163,10 +2177,10 @@ vašeg igranja"</string>
   <string name="gtb_dialog_btn_open">Uključi</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
   <string name="gtb_dialog_privacy_speed_message">"Upravo ćete koristiti Xunyou Game Booster. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
-  <string name="gtb_dialog_privacy_speed_tips"><Data>"Pročitao sam i slažem se s Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
+  <string name="gtb_dialog_privacy_speed_tips">&lt;Data&gt;"Pro&amp;#269;itao sam i sla&amp;#382;em se s Xunyou Game Booster &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;"&lt;/Data&gt;</string>
   <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
   <string name="gtb_dialog_privacy_voice_message">"Upravo ćete koristiti Xunyou Game Voice Changer. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
-  <string name="gtb_dialog_privacy_voice_tips"><Data>"Pročitao sam i slažem se s Xunyou Game Voice Changer &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
+  <string name="gtb_dialog_privacy_voice_tips">&lt;Data&gt;"Pro&amp;#269;itao sam i sla&amp;#382;em se s Xunyou Game Voice Changer &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;"&lt;/Data&gt;</string>
   <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
   <string name="gtb_dialog_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži. Želite li sada uključiti tu značajku?</string>
   <string name="gtb_dialog_title_smart_5g">5G optimizacija mreže</string>
@@ -3310,7 +3324,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_write_settings">Ovo dopuštenje omogućuje aplikacijama izmjenu postavki sustava. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje s postavkama vašeg sustava i utjecati na uobičajenu upotrebu vašeg uređaja.</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj dopuštenja</string>
-  <string name="permission_privacy_link"><Data>&lt;a href=\"%1$s\">%2$s&lt;/a></Data></string>
+  <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="permission_send_sms_descx">Pošalji SMS i MMS poruke direktno</string>
   <string name="permission_upgrade_more">Više značajki zaštite privatnosti</string>
   <string name="permission_upgrade_privacy_title">"Dopuštenja za snimanje zvuka i pristup kontaktima sada imaju mogućnost koja vam omogućuje davanje takvih dopuštenja samo dok koristite odgovarajuće aplikacije. Da bi zaštitile privatnost vaših osobnih podataka, aplikacije neće raditi ove radnje u pozadini."</string>
@@ -3452,6 +3466,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_super_wireless_charge_noti_title">Brzo bežično punjenje je uključeno</string>
   <string name="power_center_super_wireless_charge_summary">"Povećaj brzinu ventilatora hladnjaka bežičnog punjača"</string>
   <string name="power_center_super_wireless_charge_toast_close">Brzo bežično punjenje je isključeno</string>
+  <string name="power_center_surface_temp_high">Vruće</string>
+  <string name="power_center_surface_temp_higher">Toplo</string>
+  <string name="power_center_surface_temp_low">Hladno</string>
+  <string name="power_center_surface_temp_lower">Cool</string>
+  <string name="power_center_surface_temp_normal">Normalno</string>
   <string name="power_center_time_to_boot">Vrijeme uključivanja</string>
   <string name="power_center_time_to_shutdown">Vrijeme isključivanja</string>
   <string name="power_center_title">Baterija</string>
@@ -3998,8 +4017,8 @@ Vaši podaci će ostati privatni i neće se dijeliti s trećim stranama.
   <string name="privacy_dialog_camera_message">"Da bi zaštitio vašu privatnost, MIUI ne dopušta aplikacijama da koriste vašu kameru u pozadini."</string>
   <string name="privacy_dialog_camera_title">Ograniči korištenje kamere u pozadini</string>
   <string name="privacy_dialog_content_part1">Dobrodošli u Sigurnost! Ova aplikacija provjerava ima li na uređaju otpada i virusa, kao i omogućuje upravljanje aplikacijama, kontrolu upotrebe mobilnih podataka, blokiranje poziva i poruka i još mnogo toga.</string>
-  <string name="privacy_dialog_content_part2"><Data>Sigurnost treba prikupiti potrebne osobne podatke kako bi vam pružila svoje usluge i mogla poboljšati njegove značajke. Možete saznati kako postupamo s podacima koje prikupljamo u našim &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Svojsuglasnost na Pravila o privatnosti i sigurnosti možete povući u Postavkama u bilo kojem trenutku.</Data></string>
-  <string name="privacy_dialog_content_part3"><Data>"Pročitajte i prihvatite naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> prije korištenja aplikacije. Ako ne prihvaćate na korištenje gore navedenih usluga, nećete moći koristiti neke značajke ove aplikacije; međutim, njegova osnovna funkcionalnost i dalje će vam biti dostupna."</Data></string>
+  <string name="privacy_dialog_content_part2">&lt;Data&gt;Sigurnost treba prikupiti potrebne osobne podatke kako bi vam pru&amp;#382;ila svoje usluge i mogla pobolj&amp;#353;ati njegove zna&amp;#269;ajke. Mo&amp;#382;ete saznati kako postupamo s podacima koje prikupljamo u na&amp;#353;im &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Svojsuglasnost na Pravila o privatnosti i sigurnosti mo&amp;#382;ete povu&amp;#263;i u Postavkama u bilo kojem trenutku.&lt;/Data&gt;</string>
+  <string name="privacy_dialog_content_part3">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja aplikacije. Ako ne prihva&amp;#263;ate na kori&amp;#353;tenje gore navedenih usluga, ne&amp;#263;ete mo&amp;#263;i koristiti neke zna&amp;#269;ajke ove aplikacije; me&amp;#273;utim, njegova osnovna funkcionalnost i dalje &amp;#263;e vam biti dostupna."&lt;/Data&gt;</string>
   <string name="privacy_dialog_danger_mission_message">Android ima više dopuštenja visokog rizika (npr. Dopuštenje za slanje push obavijesti). Da bismo zaštitili vašu privatnost, MIUI će vas pitati dopuštate li takvo ponašanje i pružati mogućnosti ograničenja.</string>
   <string name="privacy_dialog_danger_mission_title">Dopuštenja visokog rizika</string>
   <string name="privacy_dialog_feedback">Povratna inf.</string>
@@ -4185,7 +4204,7 @@ Povući suglasnost sada?"</string>
   <string name="privacy_thumbnail_blur_top_tip">Odaberite aplikacije za koje će pregledi biti zamućeni u Nedavno</string>
   <string name="privacy_type_open">Uključeno</string>
   <string name="privacy_update_dialog_content_1">%s pravila o privatnosti su ažurirana:</string>
-  <string name="privacy_update_dialog_content_2"><Data>Pročitajte i prihvatite novu verziju &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
+  <string name="privacy_update_dialog_content_2">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego &amp;#353;to nastavite.&lt;/Data&gt;</string>
   <string name="privacy_update_dialog_title">Ažurirana Pravila o privatnosti</string>
   <string name="privacy_using_camera">Korištenje kamere</string>
   <string name="privacy_using_location">Pristup lokaciji</string>
@@ -5133,7 +5152,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_anti_fraud_dialog_confirm_btn_txt">Razumijem</string>
   <string name="system_anti_fraud_dialog_content">"Izgleda da ste upravo primili poziv prijevare ili poruku. Nastavljanje ovog plaćanja može uzrokovati financijske gubitke."</string>
-  <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474>Ako vas osoblje korisničke službe, vlasti ili osobe koje možda poznajete zamole da dovršite ovu uplatu, &lt;/font>&lt;font = color=#F22424>provjerite njihov identitet prije nego što nastavite.&lt;/font></string>
+  <string name="system_anti_fraud_dialog_hint">&lt;font = color=#747474&gt;Ako vas osoblje korisničke službe, vlasti ili osobe koje možda poznajete zamole da dovršite ovu uplatu, &lt;/font&gt;&lt;font = color=#F22424&gt;provjerite njihov identitet prije nego što nastavite.&lt;/font&gt;</string>
   <string name="system_anti_fraud_dialog_image_txt">Zaštita od prijevara</string>
   <string name="system_anti_fraud_dialog_title">Upozorenje protiv prijevara</string>
   <string name="system_app">Aplikacije sustava</string>
@@ -5147,11 +5166,11 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo što ste se uključili u naš program korisničkog iskustva. Vaš uređaj mora biti povezan s internetom da bi ova značajka normalno radila. Morate također dati sljedeća dopuštenja kako biste nam omogućili prikupljanje podataka koji će nam pomoći u poboljšanju naših proizvoda i usluga. Ti se podaci prikupljaju samo u statističke svrhe. Te podatke nećemo moći koristiti za osobnu identifikaciju.
 "</string>
   <string name="system_permission_declare_disagree">Ne slažem se</string>
-  <string name="system_permission_declare_double_link"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>.</Data></string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
-  <string name="system_permission_declare_meanwhile_double_link"><Data>U isto vrijeme, kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>.</Data></string>
-  <string name="system_permission_declare_meanwhile_privacy_policy"><Data>U isto vrijeme, kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naša &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>.</Data></string>
-  <string name="system_permission_declare_meanwhile_user_agreement"><Data>U isto vrijeme, kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>.</Data></string>
+  <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;U isto vrijeme, kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;U isto vrijeme, kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;U isto vrijeme, kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353; &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_no_say_no">"Ova aplikacija neće raditi bez potrebnih dopuštenja."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Ako ne želite odobriti ta dopuštenja, možete se odjaviti u Postavke &gt; Dodatne postavke &gt; Privatnost &gt; Program iskustva korisnika."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Ova aplikacija neće raditi bez potrebnih dopuštenja."</string>
@@ -5159,7 +5178,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="system_permission_declare_privacy_declare">"Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Imajte na umu da se aplikacija Sigurnost mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:"</string>
   <string name="system_permission_declare_privacy_no_network">Ovoj aplikaciji potrebna su sljedeća dopuštenja da bi mogla normalno raditi:</string>
   <string name="system_permission_declare_privacy_no_permission">"Imajte na umu da se aplikacija Sigurnost mora povezati s internetom i prikupiti potrebne osobne podatke kako bi vam pružili usluge. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti."</string>
-  <string name="system_permission_declare_privacy_policy"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naša &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>.</Data></string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Možete izaći iz ove aplikacije.</string>
   <string name="system_permission_declare_revoke_uninstallable">Možete se odjaviti, deinstalirati tu aplikaciju ili oduzeti autorizaciju u Sigurnost &gt; Upravljaj aplikacijama &gt; Dopuštenja &gt; Dopuštenja.</string>
   <string name="system_permission_declare_title">Pažnja</string>
@@ -5904,7 +5923,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="warningcenter_policeassist_open_btn">Uključi</string>
   <string name="warningcenter_policeassist_open_content">"Pošaljite podatke o lokaciji policiji automatski koristeći SMS ili mobilne podatke dok zovete 110, 120, 119, 122 ili 12122."</string>
   <string name="warningcenter_policeassist_open_title">Podijelite svoju lokaciju s policijom tijekom hitnih poziva</string>
-  <string name="warningcenter_policeassist_privacy"><Data>"Pročitao sam i prihvaćam &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="warningcenter_policeassist_privacy">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="warningcenter_policeassist_title">Lokacija za hitne slučajeve</string>
   <string name="warningcenter_smarthome">Mi Home</string>
   <string name="warningcenter_title">MIUI Centar za upozoravanje</string>

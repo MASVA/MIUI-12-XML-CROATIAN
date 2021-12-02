@@ -82,11 +82,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptivni audio</item>
-		<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Upotreba odabira sustava (zadano)</item>
@@ -95,13 +90,6 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-		<item>Qualcomm® aptX™ Adaptivni audio</item>
-		<item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC V3</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>Omogućivanje izbornih kodeka</item>
-        <item>Onemogućivanje izbornih kodeka</item>
     </string-array>
 	<string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -119,8 +107,6 @@
         <item>Onemogućeno</item>
         <item>Filtrirano</item>
         <item>Omogućeno</item>
-        <item>Zaglavlja filtrirana</item>
-        <item>Paketi medija filtrirani</item>
 	</string-array>
     <string-array name="clock_options">
         <item>Prikaži sat, minute i sekunde</item>

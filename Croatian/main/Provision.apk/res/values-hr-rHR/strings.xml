@@ -37,6 +37,8 @@
   <string name="agree_terms">"Pročitao sam i prihvaćam Uvjete Pružanja Usluge i Pravila o privatnosti"</string>
   <string name="agree_terms_input_method_facemoji">"Pročitao sam i prihvaćam Facemoji Pravila o privatnosti."</string>
   <string name="agree_terms_input_method_kika">"Pročitao sam i prihvaćam Kika Pravila o privatnosti."</string>
+  <string name="agreement_declare_use_network_and_location_china">"Osim toga, sljedeće usluge spojit će se na mrežu i pristupiti vašoj lokaciji: "</string>
+  <string name="agreement_declare_use_network_china">spojit će se na mrežu.</string>
   <string name="ai_button_desc">AI tipka vam omogućuje pokretanje Mi AI i korištenje Mi AI prečaca.</string>
   <string name="ai_button_double_press">Dvaput pritisnite</string>
   <string name="ai_button_double_press_desc">Postavite značajke Mi AI</string>
@@ -426,6 +428,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="service_mi_account">Mi Račun</string>
   <string name="service_name_MIUIDaemon">MIUI Daemon</string>
   <string name="service_name_album">Galerija</string>
+  <string name="service_name_address_dialing">Kontakti i Telefon</string>
   <string name="service_name_application_package">Alat za instalaciju paketa</string>
   <string name="service_name_backup">Sig. kopije</string>
   <string name="service_name_bluetooth">Bluetooth</string>
@@ -565,6 +568,10 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
   <string name="tuesday_shortest">U</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
   <string name="user_agreement">Uvjeti pružanja usluge</string>
+  <string name="user_agreement_declare">Prije korištenja MIUI-ja morate pročitati i prihvatiti naš korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kada se vaš uređaj aktivira, sljedeće aplikacije i usluge povezat će se s mrežom: Mi SIM usluge aktivacije, Xiaomi Cloud, Cloud Sig. kopija, Pronađi uređaj, Početni zaslon, Česte fraze, Xiaomi internetske komunikacijske usluge, Usluga prevođenja, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, AI Assistant, Baterija i performanse, Baterija i performanse, Joyose, OS AI Setting, i Ažuriranje. Sljedeće aplikacije i usluge povezat će se s mrežom i pristupiti vašoj lokaciji: Pametne kartice, Upravitelj dopuštenjima, ConfigUpdater, i pametne usluge.</string>
+  <string name="user_agreement_declare_gmscore">Prije korištenja MIUI-ja morate pročitati i prihvatiti naš korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kada se vaš uređaj aktivira, sljedeće aplikacije i usluge povezat će se s mrežom: Mi SIM usluge aktivacije, Xiaomi Cloud, Cloud Sig. kopija, Pronađi uređaj, Početni zaslon, Česte fraze, Xiaomi internetske komunikacijske usluge, Usluga prevođenja, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, AI Assistant, Baterija i performanse, Baterija i performanse, Joyose, OS AI Setting, i Ažuriranje. Sljedeće aplikacije i usluge povezat će se s mrežom i pristupiti vašoj lokaciji: Pametne kartice, Upravitelj dopuštenjima, ConfigUpdater, i pametne usluge.</string>
+  <string name="user_agreement_declare_wifi_device">Prije korištenja MIUI-ja morate pročitati i prihvatiti naš korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kada se vaš uređaj aktivira, sljedeće aplikacije i usluge povezat će se s mrežom: Mi SIM usluge aktivacije, Xiaomi Cloud, Cloud Sig. kopija, Pronađi uređaj, Početni zaslon, Frequent phrases, Xiaomi internetske komunikacijske usluge, Usluga prevođenja, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, AI Assistant, Baterija i performanse, Baterija i performanse, Joyose, OS AI Setting, i Ažuriranje. Sljedeće aplikacije i usluge povezat će se s mrežom i pristupiti vašoj lokaciji: Pametne kartice, Upravitelj dopuštenjima, ConfigUpdater, i pametne usluge.</string>
+  <string name="user_agreement_declare_wifi_device_gmscore">Prije korištenja MIUI-ja morate pročitati i prihvatiti naš korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kada se vaš uređaj aktivira, sljedeće aplikacije i usluge povezat će se s mrežom: Mi SIM usluge aktivacije, Xiaomi Cloud, Cloud Sig. kopija, Pronađi uređaj, Početni zaslon, Frequent phrases, Xiaomi internetske komunikacijske usluge, Usluga prevođenja, MIUI Daemon, HTML Viewer, MIUI SDK, Secure Element Application, AI Assistant, Baterija i performanse, Baterija i performanse, Joyose, OS AI Setting, i Ažuriranje. Sljedeće aplikacije i usluge povezat će se s mrežom i pristupiti vašoj lokaciji: Pametne kartice, Upravitelj dopuštenjima, ConfigUpdater, i pametne usluge.</string>
   <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
