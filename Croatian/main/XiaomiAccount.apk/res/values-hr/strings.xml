@@ -94,6 +94,7 @@
   <string name="account_verify_guide_bind_mail_desc">Dodajte E-poštu za oporavak</string>
   <string name="account_verify_guide_bind_phone_desc">Dodajte broj telefona za oporavak</string>
   <string name="account_verify_guide_set_password_desc">Postavite zaporku</string>
+  <string name="account_verify_guide_verify_phone_desc">Potvrdite broj telefona za oporavak</string>
   <string name="account_vip_achievements">Postignuća</string>
   <string name="account_vip_level">Račun</string>
   <string name="account_xiaomi_service">Usluge</string>
@@ -139,6 +140,10 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="cloud_description_closed">Zauzeto | Sinkr. je isključena</string>
   <string name="cloud_description_normal">Zauzeto</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="cloud_service_status_backup_not_open">Sigurnosno kopiranje je isključeno</string>
+  <string name="cloud_service_status_cloud_not_open">Isključeno</string>
+  <string name="cloud_service_status_storage_full">Pohrana je puna</string>
+  <string name="cloud_service_status_storage_not_enough">Nema dovoljno prostora</string>
   <string name="collect_diagnosis_log">Prikupi zapise dijagnoze</string>
   <string name="com_facebook_device_auth_instructions">Posjetite &lt;b&gt;facebook.com/device&lt;/b&gt; i unesite iznad prikazani kôd.</string>
   <string name="com_facebook_image_download_unknown_error">Neočekivana pogreška tijekom preuzimanja slike.</string>
@@ -154,7 +159,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="com_facebook_loginview_log_out_action">Odjava</string>
   <string name="com_facebook_loginview_log_out_button">Odjava</string>
   <string name="com_facebook_loginview_logged_in_as">Prijavljeni ste kao: %1$s</string>
-  <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+  <string name="com_facebook_loginview_logged_in_using_facebook">Prijavljen putem Facebooka</string>
   <string name="com_facebook_send_button_text">Pošalji</string>
   <string name="com_facebook_share_button_text">Podijeli</string>
   <string name="com_facebook_smart_device_instructions">Da biste povezali svoj račun, otvorite aplikaciju Facebook na mobilnom uređaju i provjerite obavijesti.</string>
@@ -427,6 +432,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa u pozadini je ograničena. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
   <string name="notify_network_restricted_title">"Mi Račun se ne može povezati na mrežu"</string>
+  <string name="notify_verify_again_security_phone">Potvrdi</string>
+  <string name="notify_verify_security_phone">Telefon</string>
   <string name="oauth_get_scopes_failed">"Ne mogu dobiti informacije o računu"</string>
   <string name="oauth_getting_scopes">Provjera računa…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; će dobiti sljedeća dopuštenja:&lt;br&gt; &lt;br&gt; %3$s</string>

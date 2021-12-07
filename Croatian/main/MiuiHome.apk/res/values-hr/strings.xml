@@ -397,7 +397,7 @@
   <string name="lock_screen_wallpaper">Pozadina Zaklj. zaslona</string>
   <string name="maml_download_dialog_cancel_text">Pričekajte Wi-Fi</string>
   <string name="maml_download_dialog_cancel_text_china">Pričekajte Wi-Fi</string>
-  <string name="maml_download_dialog_checkbox_text">"Ne prikazuj ponovo"</string>
+  <string name="maml_download_dialog_checkbox_text">"Ne prikazuj ponovo za %d min."</string>
   <string name="maml_download_dialog_confirm_text">Preuzmi</string>
   <string name="maml_download_dialog_message">Za preuzimanje ove stavke koristit će se %s MB mobilnih podataka. Svejedno preuzeti?</string>
   <string name="maml_download_dialog_title">Upozorenje o upotrebi podataka</string>

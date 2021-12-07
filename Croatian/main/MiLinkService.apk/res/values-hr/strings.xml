@@ -370,7 +370,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="trust_device_desc">"Ovi će se uređaji ovdje pojaviti prvo kad su u blizini"</string>
-  <string name="trust_device_dialog_desc">&lt;Data&gt;"%s &amp;#263;e se prvo pojaviti me&amp;#273;u dostupnim ure&amp;#273;ajima kada je u blizini ako ga ozna&amp;#269;ite kao pouzdan.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Mo&amp;#382;ete &amp;lt;a href=milink://com.milink.service/trust&amp;gt;upravljati pouzdanim ure&amp;#273;ajima&amp;lt;/a&amp;gt; u Postavkama."&lt;/Data&gt;</string>
+  <string name="trust_device_dialog_desc"><Data>"%s pojavit će se među dostupnim uređajima prvi kad je u blizini ako ga označite kao pouzdan.&lt;br>&lt;br>Pouzdanim uređajima &lt;a href=milink://com.milink.service/trust>možete upravljati&lt;/a> u Postavkama."</Data></string>
   <string name="trust_device_dialog_pos">Vjerujem</string>
   <string name="trust_device_dialog_title">Vjerujete li ovom uređaju?</string>
   <string name="trust_device_manager">Upravljanje pouzdanim uređajima</string>

@@ -43,13 +43,13 @@
   <string name="aod_component">Prikazane stavke</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
-  <string name="aod_lock_screen_date_12_signature">dd.MM</string>
-  <string name="aod_lock_screen_date_12_smartcover">"EE
-dd.MM"</string>
-  <string name="aod_lock_screen_date_signature">dd.MM</string>
-  <string name="aod_lock_screen_date_smartcover">"EE
-dd.MM"</string>
-  <string name="aod_lock_screen_date_smartcover_b">dd.MM EE</string>
+  <string name="aod_lock_screen_date_12_signature">dd.MM.</string>
+  <string name="aod_lock_screen_date_12_smartcover">"EEEE
+dd.MM."</string>
+  <string name="aod_lock_screen_date_signature">dd.MM.</string>
+  <string name="aod_lock_screen_date_smartcover">"EEE
+dd.MM."</string>
+  <string name="aod_lock_screen_date_smartcover_b">dd.MM. EEE</string>
   <string name="aod_mode_preview">Pregled</string>
   <string name="aod_mode_style">Stil sata i pozadina</string>
   <string name="aod_mode_style_title">Više opcija</string>

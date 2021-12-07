@@ -809,9 +809,9 @@
   <string name="recommend_news">Preporučeni izvori</string>
   <string name="recommend_the_following">Izvršite sljedeće radnje da bi dobili najviše iz vašeg uređaja</string>
   <string name="recommended">Istaknuto</string>
-  <string name="resutl_function_deep_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se još datoteka može izbrisati. Oslobodite više prostora.&lt;/Data&gt;"</string>
-  <string name="resutl_function_qq_clean_summary">"&lt;Data&gt;Možete očistiti &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predmemorije koju generira QQ&lt;/Data&gt;"</string>
-  <string name="resutl_function_wechat_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predmemorije. Oslobodite više prostora.&lt;/Data&gt;"</string>
+  <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> se još datoteka može izbrisati. Oslobodite više prostora.</Data></string>
+  <string name="resutl_function_qq_clean_summary"><Data>Možete očistiti &lt;font color=#ff0000 >%1$s&lt;/font> predmemorije koju generira QQ</Data></string>
+  <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat predmemorije. Oslobodite više prostora.</Data></string>
   <string name="rs_clean_size_free_space">Oslobođeno %s</string>
   <string name="rs_clean_size_storage_size">Zauzeto %1$s/%2$s</string>
   <string name="rs_clean_size_storage_title">Pohrana</string>

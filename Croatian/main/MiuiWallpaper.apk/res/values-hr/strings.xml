@@ -86,9 +86,9 @@ Mawrth Vallis"</string>
   <string name="miui_lock_screen_date">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MMMM"</string>
+dd.MM"</string>
   <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MMMM"</string>
+dd.MM"</string>
   <string name="miui_lock_screen_large_date">"EEE
 dd.MM"</string>
   <string name="miui_lock_screen_large_date_12">"EEE

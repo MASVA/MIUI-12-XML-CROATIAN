@@ -327,7 +327,7 @@
   <string name="status_bar_toggle_battery_saver">Štednja baterije</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Svjetlina</string>
-  <string name="status_bar_toggle_cast">Emitiraj</string>
+  <string name="status_bar_toggle_cast">Emitiranje</string>
   <string name="status_bar_toggle_data">Podaci</string>
   <string name="status_bar_toggle_divider">Više</string>
   <string name="status_bar_toggle_drive_mode">Auto</string>
@@ -344,7 +344,7 @@
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">DND</string>
   <string name="status_bar_toggle_reboot">Ponovno pokretanje</string>
-  <string name="status_bar_toggle_rotate">Rotacija zaklj.</string>
+  <string name="status_bar_toggle_rotate">Rotacija isklj.</string>
   <string name="status_bar_toggle_screen_button">Tipke</string>
   <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
   <string name="status_bar_toggle_shutdown">Isključi</string>

@@ -186,6 +186,7 @@
   <string name="accessibility_keyguard_face_unlock_view">Otklj. licem</string>
   <string name="accessibility_left_control_center_button">Prečac</string>
   <string name="accessibility_left_lock_screen_magazine_button">Wallpaper Carousel</string>
+  <string name="accessibility_left_xmyzl_button">Xiaomi Quick Connect</string>
   <string name="accessibility_location_active">Zahtjevi za lokaciju aktivni su</string>
   <string name="accessibility_lock_icon">Uređaj je zaključan</string>
   <string name="accessibility_long_click_tile">Otvaranje postavki</string>
@@ -1062,6 +1063,7 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="face_unlock_fail">"Ne mogu potvrditi lice"</string>
   <string name="face_unlock_fail_retry">"Ne mogu potvrditi vaše lice. Dodirnite iznad da biste pokušali ponovno."</string>
   <string name="face_unlock_fail_retry_global">Dodirnite iznad da biste koristili Otključavanje licem</string>
+  <string name="face_unlock_locked">"Ne mogu koristiti Otključavanje licem"</string>
   <string name="face_unlock_identify_error">Došlo je do pogreške pri prepoznavanju</string>
   <string name="face_unlock_not_found">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_not_roi">Držite lice unutar okvira</string>
@@ -1288,16 +1290,18 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_lockscreen_password_hint_text">Unesite zaporku</string>
   <string name="input_lockscreen_pattern_hint_text">Iscrtajte uzorak</string>
   <string name="input_lockscreen_pin_hint_text">Unesite PIN</string>
-  <string name="input_password_after_boot_msg">Potrebno je unijeti zaporku prilikom ponovnog pokretanja uređaja</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne mogu promjeniti prostore tijekom poziva"</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne mogu promjeniti prostore kada su uključene roditeljske kontrole"</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne mogu promjeniti prostore kada je Ultra štednja baterije uključena"</string>
+  <string name="input_password_after_boot_msg">Potrebno je unijeti zaporku nakon ponovnog pokretanja uređaja</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne možete promjeniti prostore tijekom poziva"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne možete promjeniti prostore kada su uključene roditeljske kontrole"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne možete promjeniti prostore kada je Ultra štednja baterije uključena"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
-  <string name="input_password_handle_sdcard_fs">"Ne mogu ući u Drugi prostor sa Zaklj. zaslona. Uđi iz Prvog prostora."</string>
+  <string name="input_password_handle_sdcard_fs">"Ne možete ući u Drugi prostor sa Zaklj. zaslona. Uđite iz Prvog prostora."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
-  <string name="input_pattern_after_boot_msg">Potrebno je iscrtati uzorak prilikom ponovnog pokretanja uređaja</string>
+  <string name="input_pattern_after_boot_msg">Potrebno je iscrtati uzorak nakon ponovnog pokretanja uređaja</string>
+  <string name="input_pattern_after_face_not_allowed">Unesite svoju zaporku barem jednom svakih %d sati kako biste zaštitili svoj uređaj</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
-  <string name="input_pin_after_boot_msg">Potrebno je unijeti PIN prilikom ponovnog pokretanja uređaja</string>
+  <string name="input_pattern_or_finger_after_face_not_allowed">Unesite svoju zaporku ili upotrijebite otisak prsta barem jednom svakih %d sati kako biste zaštitili svoj uređaj</string>
+  <string name="input_pin_after_boot_msg">Potrebno je unijeti PIN nakon ponovnog pokretanja uređaja</string>
   <string name="input_pin_code">Unesite PIN</string>
   <string name="input_puk_code">Unesite PUK</string>
   <string name="install_other_apps">Instalacija nepoznatih apl.</string>
@@ -2103,7 +2107,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="open_extreme_power_save_mode_title">Uključi ekstremnu Štednju baterije</string>
   <string name="open_lock_screen_magazine_hint_text">Povucite udesno za otvaranje prečaca</string>
   <string name="open_remote_center_hint_text">Povucite udesno za prikaz prečaca</string>
-  <string name="open_xmyzl_hint_text">Povucite udesno za otvaranje Xiaomi Magic Control</string>
+  <string name="open_xmyzl_hint_text">Povucite udesno za otvaranje Xiaomi Magic Connect</string>
   <string name="open_saver_setting_action">Postavke</string>
   <string name="orb_search_action">Radnja pretraživanja</string>
   <string name="osu_completing_sign_up">Dovršavanje registracije…</string>
@@ -2112,7 +2116,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="osu_sign_up_complete">Registracija je dovršena. Povezivanje…</string>
   <string name="osu_sign_up_failed">Nije moguće dovršiti registraciju. Dodirnite za ponovni pokušaj.</string>
   <string name="other">Ostalo</string>
-  <string name="output_calls_title">Izlaz telefonskih poziva</string>
+  <string name="output_calls_title">Izlaz telefonskog poziva</string>
   <string name="output_none_found">Nije pronađen nijedan uređaj</string>
   <string name="output_none_found_service_off">Nije pronađen nijedan uređaj. Pokušajte uključiti uslugu %1$s</string>
   <string name="output_service_bt">Bluetooth</string>
@@ -2706,16 +2710,16 @@ možda prati"</string>
   <string name="status_bar_airplane">Zrakoplovni način</string>
   <string name="status_bar_alarm">Alarm</string>
   <string name="status_bar_clear_all_button">Očisti</string>
-  <string name="status_bar_clock_date_format">EEEE, dd.MM</string>
-  <string name="status_bar_clock_date_format_12">EEEE, dd.MM</string>
-  <string name="status_bar_clock_date_time_format">H:mm dd.MM</string>
-  <string name="status_bar_clock_date_time_format_12">aah:mm dd.MM</string>
-  <string name="status_bar_clock_date_weekday_format">EEE dd.MM</string>
-  <string name="status_bar_clock_date_weekday_format_12">EEE dd.MM</string>
+  <string name="status_bar_clock_date_format">EEEE, dd.MM.</string>
+  <string name="status_bar_clock_date_format_12">EEEE, dd.MM.</string>
+  <string name="status_bar_clock_date_time_format">H:mm dd.MM.</string>
+  <string name="status_bar_clock_date_time_format_12">aah:mm dd.MM.</string>
+  <string name="status_bar_clock_date_weekday_format">EEE dd.MM.</string>
+  <string name="status_bar_clock_date_weekday_format_12">EEE dd.MM.</string>
   <string name="status_bar_date_format">"EEEE
- dd. MMMM"</string>
+ dd. MM."</string>
   <string name="status_bar_date_format_12">"EEEE
- dd. MMMM"</string>
+ dd. MM."</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Postavljanje načina unosa</string>
   <string name="status_bar_latest_events_title">Obavijesti</string>

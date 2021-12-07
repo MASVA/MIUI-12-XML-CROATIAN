@@ -2718,7 +2718,7 @@ UT sučelje: %5$s"</string>
   <string name="smart_dual_sim_title">Smart dual SIM</string>
   <string name="smart_forwarding_settings_menu">Pametno prosljeđivanje</string>
   <string name="smart_forwarding_settings_menu_summary">Ako jedan broj nije dostupan, uvijek proslijedite pozive na svoj drugi broj</string>
-  <string name="smart_multinetwork_acceleration_title">Pametno višemrežno ubrzanje</string>
+  <string name="smart_multinetwork_acceleration_title">Pametno mrežno ubrzanje</string>
   <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">"Provjerite je li broj koji ste unijeli ispravan. U suprotnom nećete moći slati ni primati SMS. Za potvrdu vašeg SMSC broja kontaktirajte svog operatera."</string>
   <string name="sp_unlock_failed">SIM zahtjev otključavanja Davatelja usluga neuspješno.</string>

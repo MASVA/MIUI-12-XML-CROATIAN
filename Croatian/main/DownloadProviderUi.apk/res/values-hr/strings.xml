@@ -340,6 +340,7 @@
   <string name="no_share_file">"Ne mogu podijeliti ovu sliku"</string>
   <string name="no_share_file_content">Odabrana datoteka već je izbrisana</string>
   <string name="no_share_files">"Ne mogu dijelili datoteke koje su već izbrisane"</string>
+  <string name="no_support_modify_path">Zbog najnovije sigurnosne politike, direktorij za pohranu ne podržava izmjene</string>
   <string name="no_share_files_content">"Neke datoteke koje želite dijeliti već su izbrisane. Druge su datoteke uspješno podijeljene."</string>
   <string name="no_vip_info">Nabavite Xunlei članstvo za ubrzanje preuzimanja</string>
   <string name="no_vip_show_info">"Ubrzajte preuzimanja na svim vašim uređajima sa Xunlei"</string>
@@ -382,6 +383,7 @@
   <string name="pref_download_revert_default">Spremi na zadanu lokaciju</string>
   <string name="pref_download_settings_title">Preuzimanje putem mob. podataka je ograničeno</string>
   <string name="pref_download_storage_path">Spremi na moju lokaciju</string>
+  <string name="pref_download_storage_path_2">Lokacija za preuzete stavke</string>
   <string name="pref_permission_description">Pojedinosti o dopuštenjima</string>
   <string name="pref_sniff_shortcut">Izradi Prečac Poč. zaslona za pretraživanje weba</string>
   <string name="pref_summary_any_bytes_popup">Uvijek čekaj Wi-Fi vezu za preuzimanje datoteka</string>

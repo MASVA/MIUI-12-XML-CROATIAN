@@ -3070,6 +3070,8 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="deselect_all">Poništi odabir</string>
   <string name="detail_app_button">Informacije o aplikaciji</string>
   <string name="detail_question">Detalji</string>
+  <string name="detailed_wifi_logging_disabled">Detaljno bilježenje Wi-Fi veze je isključeno</string>
+  <string name="detailed_wifi_logging_enabled">Detaljno bilježenje Wi-Fi veze je uključeno</string>
   <string name="details_subtitle">Detalji upotrebe</string>
   <string name="details_title">Detalji upotrebe</string>
   <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
@@ -3776,6 +3778,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="enterprise_privacy_settings_summary_with_name">Promjene i postavke kojima upravlja %s</string>
   <string name="enterprise_privacy_usage_stats">Utrošeno vrijeme i količina podataka u svakoj aplikaciji</string>
   <string name="enterprise_privacy_wipe_device">Administrator može izbrisati sve podatke na uređaju</string>
+  <string name="environmental_speech_recognition">Prepoznavanje ambijentalnog zvuka</string>
   <string name="eq_auto">Vlastito</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Odustani</string>
@@ -4337,7 +4340,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="game_settings_summary">Uključite prečac za nadzornu ploču igre itd.</string>
   <string name="game_settings_title">Postavke igara</string>
   <string name="game_storage_settings">Igre</string>
-  <string name="gd_setting_title">Smart toolbox</string>
+  <string name="gd_setting_title">Bočna traka</string>
   <string name="general_category_title">Općenito</string>
   <string name="general_notification_header">Upravljanje</string>
   <string name="general_text">Polje za tekst</string>
@@ -5920,7 +5923,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="memory_media_misc_usage">Ostale datoteke</string>
   <string name="memory_media_usage">Mediji</string>
   <string name="memory_music_usage">Audio (glazba, melodije zvona, podkastovi itd.)</string>
-  <string name="memory_performance">Izvedba</string>
+  <string name="memory_performance">Performanse</string>
   <string name="memory_rightvalue">Ukupno: %s</string>
   <string name="memory_settings_title">Memorija</string>
   <string name="memory_size">Ukupno prostora</string>
@@ -11155,7 +11158,7 @@ Sa ovog profila bit će uklonjeni i vaši spremljeni otisci prstiju i nećete mo
   <string name="unlogin_account_summary">Sve Mi usluge. Jedan Mi Račun</string>
   <string name="unlogin_account_title">Prijavite se u Mi Račun</string>
   <string name="unmount_inform_text">Memorija USB bit će isključena.</string>
-  <string name="unmute_sound_title">Uključi zvuk</string>
+  <string name="unmute_sound_title">Reproduciraj zvuk kada je Bešumno isključeno</string>
   <string name="unrestrict_max_aspect_ratio_title">Te su aplikacije optimizirane za cijeli zaslon</string>
   <string name="unrestricted_app_summary">Dopusti neograničen pristup podacima kada je Ušteda podataka uključena</string>
   <string name="unrestricted_app_title">Neograničena potroš. podataka</string>
