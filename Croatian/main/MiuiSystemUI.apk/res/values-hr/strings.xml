@@ -1299,6 +1299,7 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_pattern_after_boot_msg">Potrebno je iscrtati uzorak nakon ponovnog pokretanja uređaja</string>
   <string name="input_pattern_after_face_not_allowed">Unesite svoju zaporku barem jednom svakih %d sati kako biste zaštitili svoj uređaj</string>
+  <string name="input_pattern_after_restart_msg">Potvrdite zaključavanje zaslona da biste nastavili</string>
   <string name="input_pattern_hint_text">Iscrtajte svoj uzorak za otključavanje</string>
   <string name="input_pattern_or_finger_after_face_not_allowed">Unesite svoju zaporku ili upotrijebite otisak prsta barem jednom svakih %d sati kako biste zaštitili svoj uređaj</string>
   <string name="input_pin_after_boot_msg">Potrebno je unijeti PIN nakon ponovnog pokretanja uređaja</string>

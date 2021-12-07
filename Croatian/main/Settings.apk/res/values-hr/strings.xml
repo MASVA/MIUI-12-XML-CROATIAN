@@ -4561,7 +4561,7 @@ Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikaci
   <string name="headset_remove_message_indicate">Uklonit će se svi uređaji povezani s Mi Računom</string>
   <string name="headset_settings_title">Efekti zvuka</string>
   <string name="headset_spatial_audio">Prostorni zvuk</string>
-  <string name="headset_toast_tip_disconnect_others">Čini se da su vaše slušalice sada spojene na drugi uređaj</string>
+  <string name="headset_toast_tip_disconnect_others">Čini se da su vaše slušalice sada spojene na drugi uređaj i ne mogu se postaviti</string>
   <string name="headset_unsaved_device">Ukloni uređaj</string>
   <string name="headset_unsaved_devices">Ne spremaj, povežite se na svoj račun na drugom telefonu</string>
   <string name="hearing_aids_category">Slušni pomoćni alati</string>

@@ -612,6 +612,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pc_todo_fast_create_hint">Unesite tekst i pritisnite \"Ulaz\" za dodati nedovršeni zadatak</string>
   <string name="pc_todo_set_remind_time_hint">Postavite vrijeme</string>
   <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
+  <string name="permission_data_shared_desc">Bilješke Izjava o dijeljenju podataka treće strane</string>
   <string name="permission_get_account_desc">Sinkroniziranje bilješki s Mi Cloudom</string>
   <string name="permission_intro_contact">Za označavanje bilješki snimljenih tijekom poziva</string>
   <string name="permission_intro_microphone">Za snimanje glasovnih bilješki</string>
@@ -625,6 +626,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="permission_storage_desc_pad_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slike</string>
   <string name="permission_xiaoai_desc"><Data>Mi AI prikupit će vaše glasovne snimke i ID uređaja da prepiše zvuk i izradi glasovne bilješke. Saznajte više u Mi AI &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>.</Data></string>
+  <string name="permission_xiaoai_desc_new"><Data>Kako bi pružio usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i ID vašeg uređaja, koji se nasumično generira. Pročitajte i prihvatite naše &lt;a href=\"%1$s\">Bilješke Izjava o dijeljenju podataka treće strane&lt;/a> prije nego nastavite. Također možete saznati više čitajući Mi AI &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>.</Data></string>
+  <string name="permission_xiaoai_title">Pretvaranje govora u tekst</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pm">PM</string>
   <string name="pref_category_title_quick_func">Brze značajke</string>

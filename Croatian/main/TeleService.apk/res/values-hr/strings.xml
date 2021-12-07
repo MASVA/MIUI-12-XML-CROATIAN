@@ -214,7 +214,7 @@
   <string name="advanced_settings_show">▷ Dodirnite da biste prikazali sve</string>
   <string name="advertisements_disable">Oglašavanje je isključeno</string>
   <string name="advertisements_enable">Oglašavanje je uključeno</string>
-  <string name="agree_provision">Slažem se i nastavi</string>
+  <string name="agree_provision">Privaćam i nastavi</string>
   <string name="ai_assistant_not_installed">Instalirajte prvo AI Pomoćnika poziva</string>
   <string name="ai_assistant_setting_title">AI Pomoćnik poziva</string>
   <string name="alarm_template">u %1$s</string>
@@ -230,6 +230,7 @@
   <string name="allContactdeleteSuccess">Izbrisani svi kontakti sa SIM kartice</string>
   <string name="all_day">Cijeli dan</string>
   <string name="all_empty_alert">Unesite pojedinosti novog SIP računa.</string>
+  <string name="allow">Odobreno</string>
   <string name="allow_mock_location">Dopusti probne lokacije</string>
   <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
   <string name="already_auto">Automatski odabir već je otvoren.</string>
@@ -249,6 +250,7 @@
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
   <string name="areacode_set_default">Zadano</string>
+  <string name="ask">Pitaj</string>
   <string name="atr_disable">Obavijesti o prometu su isključene</string>
   <string name="atr_enable">Obavijesti o prometu su uključene</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -1925,6 +1927,7 @@ Kontaktirajte vašeg operatera."</string>
   <string name="not_supported_number_content">"Paket nadoplate ne podržava brojeve usluga. Umjesto toga, pokušajte koristiti redovitu SIM za upućivanje tog poziva. Vaš opertaer će vam naplatiti ovaj poziv."</string>
   <string name="not_supported_number_content_title">Nije podržano</string>
   <string name="not_voice_capable">Glasovni pozivi nisu podržani</string>
+  <string name="notallow">Nije odobreno</string>
   <string name="notification_action_end_call">Prekini vezu</string>
   <string name="notification_channel_demo">Demo uređaj</string>
   <string name="notification_demo_version_text">"Ne mogu pozivati niti koristiti mobilne podatke"</string>
@@ -1956,6 +1959,8 @@ Kontaktirajte vašeg operatera."</string>
   <string name="nr_usaged_used_time">Trajanje upotrebe</string>
   <string name="number">Broj</string>
   <string name="numerous_emergency_numbers_title">Brojevi za hitne slučajeve</string>
+  <string name="obtain_location_information">Lokacija</string>
+  <string name="obtain_location_information_summary">Za optimizaciju trenutnog mrežnog okruženja</string>
   <string name="nw_subset_unlock_failed">Otključavanje podskupa SIM-a Mreže nije uspjelo.</string>
   <string name="nw_subset_unlock_success">Otključavanje podskupa SIM-a Mreže bilo je uspješno.</string>
   <string name="oem_preferred_feedback_reporter"/>
@@ -2089,6 +2094,7 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
 "</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Telefonska govornica</string>
+  <string name="permission_description">Pojedinosti o dopuštenjima</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
   <string name="phone_account_settings">Računi za pozivanje</string>
@@ -2186,6 +2192,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="prefered_network_type_3g_promp">Prije nego što odaberete 3G kao svoju preferiranu vrstu mreže, trebali biste isključiti VoLTE. Isključiti sada?</string>
   <string name="preference_auto_ip_summary_disable">Isključeno</string>
   <string name="preference_category_ringtone">Melodija zvona &amp; vibracija</string>
+  <string name="preference_check_privacy">Pogledajte Pravila o privatnosti</string>
   <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
   <string name="preference_countrycode_title">Kod zemlje</string>
   <string name="preference_data_usage_summary">Postavite vaš podatkovni plan za kontrolu uporabe mobilnih podataka</string>
@@ -2194,6 +2201,7 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preference_dial_pad_touch_tone_off">Isklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavir</string>
   <string name="preference_dial_pad_touch_tone_title">Tonovi biranja</string>
+  <string name="preference_permission_related">Dopuštenja</string>
   <string name="preference_telocation_summary_countrycode_off">"Ne biraj auto. pozivni broj zemlje"</string>
   <string name="preference_telocation_summary_countrycode_on">Auto. biraj pozivni broj zemlje</string>
   <string name="preference_telocation_summary_teloc_off">Sakrij lokaciju kontakta</string>
@@ -2287,7 +2295,8 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="preferred_wificall_roaming_title">Roaming preferense</string>
   <string name="preferred_wificall_title">Postavke mreže</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
-  <string name="privacy_policy_title">Pravila o Privatnosti</string>
+  <string name="privacy_policy_title">Pravila o privatnosti</string>
+  <string name="privacy_setting">Privatnost</string>
   <string name="private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
@@ -2416,6 +2425,8 @@ UT sučelje: %5$s"</string>
   <string name="radio_info_voice_network_type_label">Vrsta glasovne mreže:</string>
   <string name="radio_off_during_emergency_call">Nije moguće uključiti Zrakoplovni način tijekom hitnog poziva.</string>
   <string name="radio_off_error">Uključite radio prije pregleda ovih postavki.</string>
+  <string name="read_call_log">Snimiti zvuk</string>
+  <string name="read_call_log_summary">Za snimanje poziva</string>
   <string name="rates_correspond">Odgovarajuće cijene.</string>
   <string name="rc_unlock_failed">RUIM  korporativno otključavanje nije uspjelo.</string>
   <string name="rc_unlock_success">RUIM korporativno otključavanje bilo je uspješno.</string>

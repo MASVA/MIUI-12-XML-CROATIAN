@@ -384,6 +384,8 @@
   <string name="relay_cal_from_device_name">Od %1$s</string>
   <string name="relay_call">Primopredaja</string>
   <string name="relay_call_device_name">Povezani uređaj (%1$s)</string>
+  <string name="relay_deny_permission_msg">"Ne mogu prenijeti pozive bez dopuštenja za snimanje zvuka"</string>
+  <string name="relay_grant_permissions_on_phone">Dajte dopuštenje za snimanje zvuka na svom telefonu</string>
   <string name="remind_unlock_message">Vaš je uređaj sada zaključan. \"%s\ će biti dostupan nakon što otključate uređaj. Otključati sada?"</string>
   <string name="respond_via_sms_custom_message">Vlastiti SMS…</string>
   <string name="saturday">Subota</string>
