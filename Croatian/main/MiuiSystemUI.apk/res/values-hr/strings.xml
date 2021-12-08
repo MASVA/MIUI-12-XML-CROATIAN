@@ -1972,7 +1972,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="notification_aggregate_text">Označi obavijesti od %1$s kao nevažno</string>
   <string name="notification_alert_title">Zadano</string>
   <string name="notification_all_categories">Sve kategorije</string>
-  <string name="notification_app_settings">Prilagodite: %1$s</string>
+  <string name="notification_app_settings">Prilagodite</string>
   <string name="notification_appops_ok">U redu</string>
   <string name="notification_appops_settings">Postavke</string>
   <string name="notification_automatic_title">Automatic</string>
