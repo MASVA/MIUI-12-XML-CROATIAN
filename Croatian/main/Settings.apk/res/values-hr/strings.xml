@@ -2584,6 +2584,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="connected_wifi">Povezano</string>
   <string name="connecting_to_vpn">Povezivanje na VPN</string>
   <string name="connection_and_sharing">Povezivanje &amp; dijeljenje</string>
+  <string name="connection_control">Upravljajte vezama</string>
   <string name="contact_data">Kontakti</string>
   <string name="contact_discovery_opt_in_dialog_message">"Telefonski brojevi vaših kontakata periodički će se slati mobilnom operateru %1$s.
 
@@ -4834,6 +4835,7 @@ Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u 
   <string name="interact_across_profiles_switch_enabled">Povezano</string>
   <string name="interact_across_profiles_title">Povezane poslovne i osobne aplikacije</string>
   <string name="interaction_control_category_title">Kontrole interakcije</string>
+  <string name="interconnection">Međusobno povezivanje</string>
   <string name="interesting_text">Realistične taktilne senzacije čine vašu interakciju s ekranom jasnijom i jasnijom.</string>
   <string name="interesting_title">Realistični dodir</string>
   <string name="internal_format">Izbriši unutarnju pohranu</string>

@@ -437,7 +437,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
   <string name="anniversary_status">Godišnjica</string>
   <string name="anniversary_status_content_description">%1$s ima godišnjicu</string>
-  <string name="aod_lock_screen_date">EE, dd.MM.yyyy</string>
+  <string name="aod_lock_screen_date">EE, dd.MM.yy</string>
   <string name="aod_lock_screen_date_12">EE, dd.MM.</string>
   <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
   <string name="app_accessed_mic">Aplikacija %1$s pristupila je mikrofonu</string>
@@ -1684,6 +1684,14 @@ snimke zaslona"</string>
   <string name="miui_guide_dialog_button_positive_text">Razumijem</string>
   <string name="miui_guide_dialog_message">Zvukovi medija (glazba, videozapisi i sl.) i dalje će se reproducirati u Bešumnom načinu. To možete promijeniti u Postavkama.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM"</string>
+   <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM"</string>
+   <string name="miui_lock_screen_large_date">"EEE
+dd.MM"</string>
+   <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM"</string>  
   <string name="miui_notification_menu_aggregate_feedback">Povratne inf.</string>
   <string name="miui_notification_menu_allow">Dopusti</string>
   <string name="miui_notification_menu_feedback_success">Hvala na povratnim informacijama!</string>
@@ -2718,9 +2726,9 @@ možda prati"</string>
   <string name="status_bar_clock_date_weekday_format">EEE dd.MM.</string>
   <string name="status_bar_clock_date_weekday_format_12">EEE dd.MM.</string>
   <string name="status_bar_date_format">"EEEE
- dd. MM."</string>
+ dd.MM."</string>
   <string name="status_bar_date_format_12">"EEEE
- dd. MM."</string>
+ dd.MM."</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Postavljanje načina unosa</string>
   <string name="status_bar_latest_events_title">Obavijesti</string>
