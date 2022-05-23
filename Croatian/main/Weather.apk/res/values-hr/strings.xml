@@ -418,7 +418,6 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="privacy_grant_failed">"Ne mogu odobriti autorizaciju. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
-  <string name="Povlačenje pristanka">Povlačenje pristanka</string>
   <string name="privacy_grant_success">Autorizacija uspješno odobrena</string>
   <string name="privacy_policy">Privila o Privatnosti</string>
   <string name="privacy_policy_msg"><Data>Ova aplikacija sadrži sljedeće značajke:&lt;br/>• Informacije o vremenu specifične za vašu lokaciju&lt;br/>• Prognoze vremena&lt;br/>• Vremenska upozorenja&lt;br/>&lt;br/>Aplikacija Vrijeme mora prikupiti potrebne osobne podatke kako bi vam pružilo osnovne usluge. Možete naučiti kako postupamo s podacima koje prikupljamo u svojim &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Pročitajte i prihvatite naše &lt;a href=\"%2$s\">Korisnički sporazum&lt;/a> i &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a> prije korištenja aplikacije Vrijeme. U bilo kojem trenutku možete povući svoj pristanak na Pravila o privatnosti aplikacije u Postavkama.</Data></string>
